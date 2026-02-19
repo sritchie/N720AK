@@ -1,5 +1,6 @@
 # Build output
 output/
+*.pdf
 
 # Python
 __pycache__/

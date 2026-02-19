@@ -57,7 +57,7 @@ brew install pandoc typst mdbook
 ## Directory Structure
 
 ```
-rv10-poh/
+rv10/
 ├── CLAUDE.md              # This file
 ├── README.md              # Build instructions
 ├── book.toml              # mdBook configuration

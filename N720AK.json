@@ -17,7 +17,7 @@
               "type": "ITEM_TITLE"
             },
             {
-              "prompt": "Pilot's Operating Handbook",
+              "prompt": "AR(R)OW",
               "expectation": "AVAILABLE IN THE AIRPLANE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -27,13 +27,23 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Ignition Switch",
-              "expectation": "OFF",
+              "prompt": "LEFT PANEL SWITCHES",
+              "expectation": "UP / NORM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "START BATT SEL",
+              "expectation": "BOTH",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },         
+            {
+              "prompt": "Key",
+              "expectation": "ON",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Avionics Switches",
-              "expectation": "BOTH OFF",
+              "expectation": "BOTH ON",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -47,53 +57,71 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "Fuel Selector Valve",
+              "expectation": "FULLEST TANK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
               "prompt": "Wing Flaps",
               "expectation": "EXTEND",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Emergency Power",
-              "expectation": "NORM",
+              "prompt": "Left Wing:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Fuel Tank Vent Opening",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Fuel Tank Sump",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },    
+            {
+              "prompt": "Fuel Quantity",
+              "expectation": "CHECK VISUALLY",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Fuel Selector Valve",
-              "expectation": "FULLEST TANK",
+              "prompt": "Fuel Filler Cap",
+              "expectation": "SECURE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "ALT STATIC",
-              "expectation": "NORM",
+              "prompt": "Left Wing Leading Edge",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Wing Tie-Down",
+              "expectation": "DISCONNECT",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "ECU Fuel Sel",
-              "expectation": "PRI",
+              "prompt": "Pitot Tube Cover",
+              "expectation": "REMOVE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Fuel Pumps",
-              "expectation": "1/AUTO",
+              "prompt": "Wingtip Lights",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Aileron",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },           
+            {
+              "prompt": "Flap",
+              "expectation": "CHECK",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "START BATT SEL",
-              "expectation": "BOTH",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "IGN1, IGN2",
-              "expectation": "ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "ALT FLD",
-              "expectation": "ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "O2 EMERG BYPASS",
-              "expectation": "OFF",
+              "prompt": "Main Wheel Tire",
+              "expectation": "CHECK",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -106,6 +134,11 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "Static Source Openings",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
               "prompt": "Tail Tie-Down",
               "expectation": "DISCONNECT",
               "type": "ITEM_CHALLENGE_RESPONSE"
@@ -116,17 +149,28 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Right Wing Trailing Edge:",
+              "prompt": "Lead Weights",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Right Wing:",
               "type": "ITEM_TITLE"
             },
+            {
+              "prompt": "Main Wheel Tire",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Flap",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
             {
               "prompt": "Aileron",
               "expectation": "CHECK",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Right Wing:",
-              "type": "ITEM_TITLE"
             },
             {
               "prompt": "Wingtip Lights",
@@ -134,23 +178,12 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "Right Wing Leading Edge",
+              "type": "ITEM_TITLE"
+            },            
+            {
               "prompt": "Wing Tie-Down",
               "expectation": "DISCONNECT",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Tank Vent Opening",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Main Wheel Tire",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Tank Sump",
-              "expectation": "CHECK",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -162,20 +195,20 @@
               "prompt": "Fuel Filler Cap",
               "expectation": "SECURE",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
+            }, 
             {
-              "prompt": "and vent unobstructed",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
+              "prompt": "Fuel Tank Sump",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            }, 
+            {
+              "prompt": "Fuel Tank Vent Opening",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
             {
               "prompt": "Nose:",
               "type": "ITEM_TITLE"
-            },
-            {
-              "prompt": "Static Source Openings",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Propeller and Spinner",
@@ -198,77 +231,14 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Do not operate with less than nine quarts.",
+              "prompt": "Do not operate with less than 8 quarts.",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
             {
-              "prompt": "Fill to twelve quarts for extended flight.",
+              "prompt": "Fill to 9 quarts for extended flight.",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
-            },
-            {
-              "prompt": "Left Wing:",
-              "type": "ITEM_TITLE"
-            },
-            {
-              "prompt": "Main Wheel Tire",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Tank Sump",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Quantity",
-              "expectation": "CHECK VISUALLY",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Filler Cap",
-              "expectation": "SECURE",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "and vent unobstructed",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Wingtip Lights",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Left Wing Leading Edge",
-              "type": "ITEM_TITLE"
-            },
-            {
-              "prompt": "Fuel Tank Vent Opening",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Wing Tie-Down",
-              "expectation": "DISCONNECT",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Pitot Tube Cover",
-              "expectation": "REMOVE",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-
-            {
-              "prompt": "Left Wing Trailing Edge",
-              "type": "ITEM_TITLE"
-            },
-            {
-              "prompt": "Aileron",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         },
@@ -296,7 +266,12 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Master Switch",
+              "prompt": "Pump Breakers",
+              "expectation": "BOTH IN",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Key",
               "expectation": "ON",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -306,10 +281,35 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "Radios Set",
+              "expectation": "BDU AWOS 118.825",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "obtain AWOS/ATIS",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Altimeter",
+              "expectation": "SET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Heading indicator",
+              "expectation": "SET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
               "prompt": "Fuel Pumps",
               "expectation": "2 THEN 1/AUTO",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
+            {
+              "prompt": "Fuel Pressure",
+              "expectation": "37 PSI / GREEN",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
             {
               "prompt": "Brakes",
               "expectation": "TEST AND SET",
@@ -320,6 +320,11 @@
         {
           "title": "Starting Engine",
           "items": [
+            {
+              "prompt": "Strobes",
+              "expectation": "ON",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
             {
               "prompt": "Propeller",
               "expectation": "HIGH RPM",
@@ -344,11 +349,6 @@
               "prompt": "If cold, wait 10s for primer fuel to evaporate.",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
-            },
-            {
-              "prompt": "Beacon Light",
-              "expectation": "ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Propeller Area",
@@ -390,12 +390,12 @@
               "indent": 1
             },
             {
-              "prompt": "RPM ",
-              "expectation": "ADJUST TO 650",
+              "prompt": "RPM",
+              "expectation": "ADJUST TO 750",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "reset to 650 RPM as engine warms up",
+              "prompt": "reset to 750 RPM as engine warms up",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
@@ -417,26 +417,6 @@
             {
               "prompt": "Wing Flaps",
               "expectation": "RETRACT, VERIFY UP",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Radios ON",
-              "expectation": "BDU AWOS 118.825",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "obtain AWOS/ATIS",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Altimeter",
-              "expectation": "SET",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Heading indicator",
-              "expectation": "SET",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -486,9 +466,34 @@
             },
             {
               "prompt": "Throttle",
-              "expectation": "1500 RPM",
+              "expectation": "2000 RPM",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
+            {
+              "prompt": "Propeller Control",
+              "expectation": "1800 RPM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Throttle",
+              "expectation": "+2\" MP",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "let RPM stabilize",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Propeller Control",
+              "expectation": "HIGH RPM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },      
+            {
+              "prompt": "Throttle",
+              "expectation": "1600 RPM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },                              
             {
               "prompt": "Ignition",
               "expectation": "CHECK",
@@ -499,6 +504,11 @@
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
+            {
+              "prompt": "expect ~100 RPM dip",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },            
             {
               "prompt": "Verify active blue, disabled red",
               "type": "ITEM_PLAINTEXT",
@@ -550,14 +560,9 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Radios, Navigation",
+              "prompt": "Radios, Flight Plan",
               "expectation": "SET",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "BDU CTAF 122.725",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
             },
             {
               "prompt": "Transponder",
@@ -565,17 +570,12 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Flashing Beacon",
+              "prompt": "Strobes",
               "expectation": "AS REQUIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Navigation Lights",
-              "expectation": "AS REQUIRED",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Strobe Lights",
+              "prompt": "Nav Lights",
               "expectation": "AS REQUIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -585,18 +585,13 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Wing Flaps",
+              "prompt": "Flaps / Trim",
               "expectation": "SET FOR TAKEOFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Quadrant Friction Lock",
-              "expectation": "ADJUST",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
               "prompt": "Radio Call",
-              "expectation": "BDU CTAF 122.725",
+              "expectation": "MAKE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
@@ -606,7 +601,7 @@
           "items": [
             {
               "prompt": "Wing Flaps",
-              "expectation": "0º - 20º",
+              "expectation": "0º / 16º",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -621,18 +616,23 @@
             },
             {
               "prompt": "Elevator Control",
-              "expectation": "LIFT NOSE WHEEL AT 50 KIAS",
+              "expectation": "BACK",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Climb Speed",
-              "expectation": "70 KIAS (FLAPS 20º)",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "80 KIAS (flaps UP)",
+              "prompt": "Hover nosewheel",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
+            },            
+            {
+              "prompt": "Wing Flaps",
+              "expectation": "UP",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Climb Speed",
+              "expectation": "110 KIAS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         }
@@ -647,12 +647,12 @@
           "items": [
             {
               "prompt": "Airspeed",
-              "expectation": "85-95 KIAS",
+              "expectation": "120 KIAS",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Power",
-              "expectation": "23\" HG AND 2450 RPM",
+              "expectation": "25\" HG AND 2500 RPM",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -671,12 +671,7 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "no more than 75%",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Elevator and Rudder Trim",
+              "prompt": "Elevator + Aileron Trim",
               "expectation": "ADJUST",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -716,8 +711,8 @@
               "indent": 1
             },
             {
-              "prompt": "Power",
-              "expectation": "AS DESIRED",
+              "prompt": "Maneuvering Speed",
+              "expectation": "125 AT GROSS",
               "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
@@ -731,24 +726,9 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "AWOS/ATIS",
-              "expectation": "BDU AWOS 118.825",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
               "prompt": "Power",
               "expectation": "AS DESIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Wing Flaps",
-              "expectation": "AS DESIRED",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "0º to 16º below 140 KIAS, 10º to 33º below 95 KIAS",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
             },
             {
               "prompt": "Lights",
@@ -761,48 +741,63 @@
           "title": "Before Landing",
           "items": [
             {
-              "prompt": "Radio Call",
-              "expectation": "BDU CTAF 122.725",
+              "prompt": "Power",
+              "expectation": "11\" / 2300RPM",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
+            },            
             {
               "prompt": "Fuel Selector Valve",
               "expectation": "MORE FULL",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Propeller",
-              "expectation": "HIGH RPM",
+              "prompt": "Fuel Pumps",
+              "expectation": "1/AUTO",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
+            {
+              "prompt": "Fuel Trim",
+              "expectation": "0%",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
             {
               "prompt": "Seats, Belts, Harnesses",
               "expectation": "ADJUST AND LOCK",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            }
+            },
+            {
+              "prompt": "Brakes",
+              "expectation": "TEST",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            }            
           ]
         },
         {
           "title": "Normal Landing",
           "items": [
             {
-              "prompt": "Airspeed",
-              "expectation": "70-80 KIAS (FLAPS UP)",
+              "prompt": "Throttle",
+              "expectation": "IDLE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Wing Flaps",
-              "expectation": "AS DESIRED",
+              "prompt": "Propeller",
+              "expectation": "HIGH RPM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },              
+            {
+              "prompt": "Flaps",
+              "expectation": "16º @ 87 KIAS",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "0º TO 10º below 140 KIAS, 10º TO 40º below 95 KIAS",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
+              "prompt": "Throttle",
+              "expectation": "1800 RPM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },        
             {
               "prompt": "Airspeed",
-              "expectation": "65-75 KIAS (FLAPS DOWN)",
+              "expectation": "~70 KIAS",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -811,13 +806,18 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "Flaps",
+              "expectation": "33º ON BASE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },                
+            {
               "prompt": "Touchdown",
-              "expectation": "MAIN WHEELS FIRST",
+              "expectation": "MAINS FIRST",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Landing Roll",
-              "expectation": "LOWER NOSE WHEEL GENTLY",
+              "expectation": "HOLD NOSE WHEEL OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -837,7 +837,7 @@
           "title": "After Landing",
           "items": [
             {
-              "prompt": "Wing Flaps",
+              "prompt": "Flaps",
               "expectation": "UP",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -938,8 +938,8 @@
           "title": "Short Field Takeoff",
           "items": [
             {
-              "prompt": "Wing Flaps",
-              "expectation": "20º",
+              "prompt": "Flaps",
+              "expectation": "16º",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -973,7 +973,7 @@
               "indent": 1
             },
             {
-              "prompt": "Wing Flaps",
+              "prompt": "Flaps",
               "expectation": "RETRACT",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -1019,8 +1019,8 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Wing Flaps",
-              "expectation": "40º",
+              "prompt": "Flaps",
+              "expectation": "33º",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1059,7 +1059,7 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Wing Flaps",
+              "prompt": "Flaps",
               "expectation": "RETRACT",
               "type": "ITEM_CHALLENGE_RESPONSE"
             }
@@ -1074,39 +1074,19 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Wing Flaps",
-              "expectation": "RETRACT TO 20º",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Climb Speed",
-              "expectation": "61 KIAS",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "positive rate of climb",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Wing Flaps",
-              "expectation": "RETRACT TO 10º",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Climb Speed",
-              "expectation": "77 KIAS",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Wing Flaps",
+              "prompt": "Flaps",
               "expectation": "RETRACT",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "after reaching safe altitude",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
+              "prompt": "Trim",
+              "expectation": "SET FOR TAKEOFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },            
+            {
+              "prompt": "Climb Speed",
+              "expectation": "95 KIAS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         }
