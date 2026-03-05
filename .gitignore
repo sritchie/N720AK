@@ -6,6 +6,9 @@ output/
 __pycache__/
 *.pyc
 
+# Flight log CSVs (large, keep in Downloads or Dropbox)
+maintenance/fuel-system/flight-logs/*.csv
+
 # macOS
 .DS_Store
 

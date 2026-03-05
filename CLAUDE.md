@@ -80,6 +80,10 @@ rv10/
 │   ├── 08-systems.md      # Aircraft systems descriptions
 │   └── 09-servicing.md    # Handling, servicing, maintenance
 ├── images/                # Aircraft photos, diagrams
+├── maintenance/           # System-specific maintenance documentation
+│   └── fuel-system/       # Fuel system: regulator theory, diagnostics, flight history
+├── scripts/               # Analysis scripts (regulator diagnostic, etc.)
+├── plans/                 # Maintenance and diagnostic plans
 └── output/
     ├── poh.pdf            # Generated PDF
     └── html/              # Generated HTML site
@@ -197,10 +201,52 @@ Information for **maintenance and repair**:
 - Torque specifications
 - Detailed inspection procedures
 
-**Recommendation**: Create a `maintenance/` directory or separate repo for:
-- Component installation guides
-- Wiring diagrams
-- Part numbers and sources
+The `maintenance/` directory contains system-specific documentation:
+
+```
+maintenance/
+├── fuel-system/
+│   ├── README.md              # Complete fuel system reference:
+│   │                          #   - EFII System32 overview
+│   │                          #   - MAP-referenced regulator theory (1:1 tracking)
+│   │                          #   - Sensor reference frames (gauge vs absolute)
+│   │                          #   - Altitude correction methodology
+│   │                          #   - Diagnostic methodology & healthy baselines
+│   │                          #   - N720AK diagnosis & flight log history
+│   │                          #   - Open questions (baro compensation, startup variation)
+│   └── flight-logs/           # Archived analysis results
+```
+
+### Analysis Scripts
+
+```
+scripts/
+└── regulator_diagnostic.py    # Fuel pressure regulator diagnostic
+                               # Auto-detects Dynon/Garmin CSV format
+                               # Computes: delta σ, MAP slope, FF slope, residual σ
+                               # Generates 4-panel diagnostic plot
+                               # Supports altitude correction (--alt-correct)
+                               # and correction fraction scan (--alt-scan)
+```
+
+Run with: `uv run --with numpy --with matplotlib python3 scripts/regulator_diagnostic.py /path/to/log.csv`
+
+### Plans
+
+```
+plans/
+└── regulator-diagnostic.md    # Workflow for analyzing regulator health
+                               # Includes baseline targets, how to run, what to look for
+```
+
+### Key Fuel System Findings (as of 2026-03)
+
+- N720AK's Aeromotive regulator has consistent MAP slope of **−0.30 PSI/inHg** (should be ~0)
+- Variable sticking/hunting: residual σ ranges from 0.18 to 1.25 PSI across flights
+- Reference baseline (N88810, same regulator): σ = 0.08 PSI, slope = −0.01 — essentially perfect
+- Dynon fuel pressure sensor appears to be baro-compensated (altitude correction fraction ≈ 0)
+- Garmin fuel pressure sensor is standard gauge (needs altitude correction, fraction = 1.0)
+- Full details: `maintenance/fuel-system/README.md`
 
 ## Weight & Balance for ForeFlight
 
@@ -220,6 +266,21 @@ On push to `main`, GitHub Actions:
 2. Deploys to GitHub Pages
 
 Target domain: **n720ak.com** (configure in GitHub Pages settings)
+
+## Maintenance Manual TODOs
+
+The maintenance documentation (especially `maintenance/fuel-system/README.md`) contains `<!-- TODO -->` markers and a structured TODO checklist at the bottom of each file. These represent information that needs to come from the owner (part numbers, photos, procedures, measurements, supplier info, etc.).
+
+**When the user asks about TODOs, or asks to work on the maintenance manual, or says something like "let's fill in some details":**
+
+1. Read the TODO section at the bottom of the relevant maintenance file
+2. **Interview the user** — pick 3-5 related TODOs and ask about them using AskUserQuestion or conversationally. Group related questions (e.g., all filter-related items together, all fuel line items together).
+3. After getting answers, update the maintenance file immediately — fill in the TODO markers with real data
+4. Then pick the next batch and continue
+
+**Do not** dump the entire TODO list at the user. Work through it in focused batches, organized by topic. The user is a pilot/builder and knows this aircraft — they just need to be prompted for specific details.
+
+**When the user provides photos**, save them to `maintenance/fuel-system/photos/` (or the relevant system's photo directory) and reference them from the documentation.
 
 ## Editing Tips
 

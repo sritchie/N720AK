@@ -860,27 +860,12 @@
               "prompt": "Transponder",
               "expectation": "ALT, 1200",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Radio Call",
-              "expectation": "BDU CTAF 122.725",
-              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         },
         {
           "title": "Securing Airplane",
-          "items": [
-            {
-              "prompt": "Avionics Power Switch",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Electrical Equipment",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
+          "items": [  
             {
               "prompt": "Throttle",
               "expectation": "IDLE",
