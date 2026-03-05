@@ -42,6 +42,19 @@ Dual redundant ignition with individual coil packs for each cylinder. The System
 
 <!-- TODO: What does each switch position do? Detail the modes. -->
 
+## Fuel Compatibility
+
+The EFII System32 supports both 100LL and premium automotive gasoline (mogas), with or without ethanol. The standard mapping handles compression up to 9:1 (N720AK's configuration). Key limitations for mogas:
+
+- **Altitude limit**: Stay below 8,000 ft on mogas (higher vapor pressure than avgas)
+- **Temperature limit**: Do not use mogas in OAT above 100°F
+- **High terrain**: Use 100LL when flying over high terrain
+- Auto gas reaches its vapor point more easily than avgas at altitude and in heat
+
+9:1 compression provides the best balance of performance, reliability, and fuel flexibility.
+
+*Source: flyEFII forum — [VAF thread #157554](https://vansairforce.net/threads/efii-system32-in-march-kitplanes.157554/post-1243823)*
+
 ## Tuning
 
 <!-- TODO: Current fuel map and timing configuration -->

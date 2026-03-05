@@ -20,6 +20,10 @@ N720AK uses the **Dynon 3-axis autopilot** integrated with the Skyview HDX EFIS.
 
 <!-- TODO: Describe AP modes available (HDG, NAV, ALT, VS, VNAV, approach), coupling with GTN 650, GPSS steering -->
 
+### Control Wheel Steering (CWS)
+
+The Dynon autopilot supports **Control Wheel Steering** mode. Press and hold the autopilot disconnect button on the stick grip to temporarily override the autopilot, manually fly the aircraft to a new attitude/heading, then release the button. The autopilot will hold the new state. This allows quick course corrections without fully disconnecting and re-engaging the autopilot.
+
 ### Disconnect Logic
 
 The autopilot disconnects when:

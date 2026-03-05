@@ -34,6 +34,8 @@ If a battery fails or bus voltage drops critically, the System32 Bus Manager aut
 
 The **EMERGENCY POWER** switch on the panel manually activates this mode.
 
+**Endurance bus radio behavior**: The GTN 650 is COM1. If power goes out on the GMA 245, it hard-connects COM1 from the GTN 650 directly to the headphones. This ensures radio communication is maintained even if the audio panel loses power on the endurance bus.
+
 ### VPX Sport
 
 The VPX Sport provides:
