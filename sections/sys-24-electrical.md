@@ -60,4 +60,7 @@ The VPX Sport provides:
 
 ## References
 
-<!-- TODO: Links to VPX Sport manual, EarthX specs, System32 bus docs in docs/24-electrical/ -->
+- [VPX Sport Installation & Operating Manual (Rev G3)](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view)
+- [EFII Bus Manager Installation Instructions](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view)
+- [Power & Lighting Schematic](https://drive.google.com/file/d/1hXrVusmeaCbz3MywPmLUjcQ1TfPFVOE9/view)
+- [VPX Pro/Sport Load Planning Worksheet](https://drive.google.com/file/d/1uy9UFDHQYeuw0kTXVAed_0YB3Jd1rMf1/view)

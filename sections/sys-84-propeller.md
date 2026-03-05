@@ -34,4 +34,4 @@ N720AK uses a constant-speed propeller. The propeller governor maintains RPM as 
 
 ## References
 
-<!-- TODO: Links to prop manual, governor docs in docs/84-propeller/ -->
+<!-- TODO: Prop manual, governor documentation -->

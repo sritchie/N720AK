@@ -37,4 +37,5 @@ The autopilot disconnects when:
 
 ## References
 
-<!-- TODO: Links to Dynon Skyview AP install guide, servo manuals in docs/22-autopilot/ -->
+- [Dynon SkyView Autopilot In-Flight Tuning Guide (Rev F)](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view)
+- [Dynon SkyView System Installation Guide (Rev AV)](https://drive.google.com/file/d/1S3A29Zn5DOK-3ADUyQeDOCU_NrU1NGbN/view)

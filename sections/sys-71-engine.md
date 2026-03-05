@@ -56,4 +56,5 @@ Steel tube engine mount.
 
 ## References
 
-<!-- TODO: Links to Lycoming operator's manual, overhaul manual in docs/71-engine/ -->
+- [Oil Separator / Vacuum System](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view)
+<!-- TODO: Lycoming operator's manual, overhaul manual -->

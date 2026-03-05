@@ -62,4 +62,4 @@ Flap positions range from reflex (-3°) to full (40°).
 
 ## References
 
-<!-- TODO: Links to Tosten grip docs in docs/27-flight-controls/ -->
+<!-- TODO: Tosten CS Military grip documentation -->

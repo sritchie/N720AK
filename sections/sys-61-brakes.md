@@ -61,4 +61,4 @@ Fixed tricycle configuration:
 
 ## References
 
-<!-- TODO: Links to brake caliper docs, wheel specs in docs/61-brakes/ -->
+<!-- TODO: Brake caliper and wheel documentation -->

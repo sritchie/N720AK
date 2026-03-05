@@ -38,4 +38,7 @@ The **OnSpeed** system is an audio angle-of-attack (AoA) indicator that provides
 
 ## References
 
-<!-- TODO: Links to OnSpeed docs in docs/34-navigation/ -->
+- [AMX-10A Installation Diagram 1](https://drive.google.com/file/d/13pwiMGAFJFnBhGvPYXi-F6jSHgqcx79H/view)
+- [AMX-10A Installation Diagram 2](https://drive.google.com/file/d/1Sw1c2xQJSDzzdc_xtxlVrdaLRYVWg2Jx/view)
+- [AMX-10A Installation Diagram 3](https://drive.google.com/file/d/1UFVWUY-fRRcR6ru1VY8mgm_RKLxF4dOI/view)
+- [OnSpeed Calibration Configs](https://drive.google.com/drive/folders/1Bt_X_CIPS1z9uNAD2iXAzmN482ym8fyv?usp=sharing) (Public/Configs/OnSpeed/)

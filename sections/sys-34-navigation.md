@@ -63,4 +63,8 @@ The pitot tube incorporates a second orifice angled to measure differential pres
 
 ## References
 
-<!-- TODO: Links to Dynon Skyview install/pilot guide, GTN 650 manual in docs/34-navigation/ -->
+- [Dynon SkyView HDX Pilot's Guide (Rev R)](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view)
+- [Dynon SkyView HDX Pilot's Guide (Rev Q)](https://drive.google.com/file/d/1gFLcAkuGtnSpceF6xH8AqwYPzSBzoXUG/view)
+- [Dynon SkyView EMS Gauge Customization](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view)
+- [Dynon SkyView Third-Party Device Connection (Rev E)](https://drive.google.com/file/d/1oxEsay5amF7m1MqrphiiwM65MX3KoH7I/view)
+- [TLAR Pilot Guide (v7.80)](https://drive.google.com/file/d/1h-OZnxujNiw7GhTnug2ZU91aJiHWozVy/view)
