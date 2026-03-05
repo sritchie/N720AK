@@ -29,6 +29,8 @@ The EFII System32 provides:
 The System32 controller on the panel provides mixture control through the
 electronic fuel injection system.
 
+> **Detailed reference:** [EFII System32 (ATA 73)](./sys-73-efii.md)
+
 ### Fuel Pumps
 
 Two electric fuel pumps (primary and backup) pressurize the fuel line to the
@@ -38,6 +40,8 @@ engine. The system includes:
   automatically activates the backup pump
 - **Manual Selection**: Panel switch (PMP 2) allows manual pump selection
 - **Fuel Return**: Excess fuel returns to the originating tank
+
+> **Detailed reference:** [Fuel System (ATA 28)](./sys-28-fuel-system.md)
 
 ## Propeller
 
@@ -50,6 +54,8 @@ engine. The system includes:
 | Type | Constant speed |
 | Blades | |
 | Diameter | |
+
+> **Detailed reference:** [Propeller (ATA 84)](./sys-84-propeller.md)
 
 ## Landing Gear
 
@@ -74,6 +80,8 @@ rudder pedals.
 |---------------|-------|
 | Brake Fluid | Royco 782 (MIL-PRF-83282) |
 | Brake Type | Hydraulic disc |
+
+> **Detailed reference:** [Brakes & Wheels (ATA 61)](./sys-61-brakes.md)
 
 ## Flight Control System
 
@@ -104,6 +112,8 @@ Electric flap motor with position indicator on EFIS. Controlled by:
 
 Flap positions range from reflex (-3°) to full (40°).
 
+> **Detailed reference:** [Flight Controls (ATA 27)](./sys-27-flight-controls.md)
+
 ## Fuel System
 
 Fuel is stored in two wing tanks with a selector valve on the center tunnel.
@@ -125,6 +135,8 @@ Fuel is stored in two wing tanks with a selector valve on the center tunnel.
 - **Fuel Strainer**: Drain before first flight of day
 
 **Note**: The fuel system does not support inverted flight.
+
+> **Detailed reference:** [Fuel System (ATA 28)](./sys-28-fuel-system.md)
 
 ## Electrical System
 
@@ -164,6 +176,8 @@ The Vertical Power VPX Sport provides:
 - Load monitoring and display on EFIS
 - Automatic load shedding if needed
 - No physical circuit breakers to reset
+
+> **Detailed reference:** [Electrical Power (ATA 24)](./sys-24-electrical.md)
 
 ## Pitot-Static System
 
@@ -211,6 +225,8 @@ The static system feeds:
 | Garmin GMA245 | Audio panel with Bluetooth |
 | Dynon Com Panel | Com radio control |
 
+> **Detailed reference:** [Navigation & Instruments (ATA 34)](./sys-34-navigation.md) | [Communications (ATA 23)](./sys-23-communications.md)
+
 ### Autopilot
 
 **Dynon 3-Axis Autopilot** with:
@@ -223,6 +239,8 @@ Controlled via:
 
 - Dynon autopilot panel
 - Stick grip disconnect button
+
+> **Detailed reference:** [Autopilot (ATA 22)](./sys-22-autopilot.md)
 
 ### Transponder and ELT
 
@@ -277,6 +295,8 @@ button functions:
 | Red button | Autopilot disconnect |
 | <!-- --> | <!-- TODO: Document all buttons --> |
 
+> **Detailed reference:** [Flight Controls (ATA 27)](./sys-27-flight-controls.md) | [Avionics & Wiring (ATA 42)](./sys-42-avionics.md)
+
 ## Oxygen System
 
 **Mountain High EDS-4iP** pulse-demand oxygen system:
@@ -295,6 +315,8 @@ A panel switch selects between:
   (normal operation, conserves oxygen)
 - **Constant Flow**: Continuous oxygen flow (for high altitude or if pulse
   mode is insufficient)
+
+> **Detailed reference:** [Oxygen (ATA 35)](./sys-35-oxygen.md)
 
 ## Heating, Ventilation and Defrosting
 
@@ -358,3 +380,5 @@ Each wing tip contains:
 | STROBE | Strobe lights (wing tips and tail) |
 | LANDING | Landing lights (wing tips) |
 | TAXI | Taxi lights |
+
+> **Detailed reference:** [Lighting (ATA 33)](./sys-33-lighting.md)

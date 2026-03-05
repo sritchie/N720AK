@@ -78,10 +78,41 @@ rv10/
 │   ├── 06-performance.md  # Performance charts
 │   ├── 07-weight-balance.md
 │   ├── 08-systems.md      # Aircraft systems descriptions
-│   └── 09-servicing.md    # Handling, servicing, maintenance
+│   ├── 09-servicing.md    # Handling, servicing, maintenance
+│   ├── sys-22-autopilot.md      # Systems Reference: Dynon 3-axis AP
+│   ├── sys-23-communications.md # Systems Reference: GMA 245, audio, intercom
+│   ├── sys-24-electrical.md     # Systems Reference: buses, VPX, batteries
+│   ├── sys-27-flight-controls.md # Systems Reference: stick grip, trim, flaps
+│   ├── sys-28-fuel-system.md    # Systems Reference: complete fuel system
+│   ├── sys-33-lighting.md       # Systems Reference: AeroLEDs, wingtip lights
+│   ├── sys-34-navigation.md     # Systems Reference: Dynon, GTN 650, pitot-static
+│   ├── sys-34-onspeed.md        # Systems Reference: OnSpeed AoA system
+│   ├── sys-35-oxygen.md         # Systems Reference: Mountain High O2
+│   ├── sys-42-avionics.md       # Systems Reference: wiring, panel, interconnects
+│   ├── sys-61-brakes.md         # Systems Reference: brakes, wheels, tires
+│   ├── sys-71-engine.md         # Systems Reference: Lycoming mechanical
+│   ├── sys-73-efii.md           # Systems Reference: EFII System32 EFI/ignition
+│   └── sys-84-propeller.md      # Systems Reference: prop and governor
+├── docs/                  # Manufacturer PDFs organized by ATA chapter
+│   ├── README.md          # Naming convention and organization
+│   ├── 22-autopilot/      # Dynon AP install guide, servo manuals
+│   ├── 23-communications/ # GMA 245 pilot guide, antenna specs
+│   ├── 24-electrical/     # VPX Sport manual, EarthX specs
+│   ├── 27-flight-controls/ # Tosten grip docs
+│   ├── 28-fuel-system/    # Aeromotive regulator, Walbro pump docs
+│   ├── 33-lighting/       # AeroLEDs install guides
+│   ├── 34-navigation/     # Dynon Skyview, GTN 650, OnSpeed docs
+│   ├── 35-oxygen/         # Mountain High EDS-4iP manual
+│   ├── 42-avionics/       # Wiring diagrams, connector pinouts
+│   ├── 61-brakes/         # Brake caliper docs, wheel specs
+│   ├── 71-engine/         # Lycoming operator's manual
+│   ├── 73-efii/           # EFII System32 manual, tuning guides
+│   ├── 84-propeller/      # Prop manual, governor docs
+│   └── misc/              # Anything that doesn't fit
 ├── images/                # Aircraft photos, diagrams
-├── maintenance/           # System-specific maintenance documentation
-│   └── fuel-system/       # Fuel system: regulator theory, diagnostics, flight history
+├── maintenance/
+│   └── fuel-system/
+│       └── flight-logs/   # Archived analysis results
 ├── scripts/               # Analysis scripts (regulator diagnostic, etc.)
 ├── plans/                 # Maintenance and diagnostic plans
 └── output/
@@ -168,54 +199,34 @@ rv10/
 | Nav Antenna | Bob Archer | For GTN 650 |
 | Wingtips | Piano hinge mod | Removable for maintenance |
 
-## What Goes in POH vs Maintenance Documentation
+## What Goes Where: POH vs Systems Reference
 
-### POH (This Repository)
+### POH (Sections 00-09) — PDF + HTML
 
-Information a **pilot** needs for **normal operation**:
+Information a **pilot** needs for **normal operation**. This is the GAMA Spec No. 1 content that compiles to both PDF and HTML.
 
-**Section 8 - Systems Description:**
-- How each system works (operational description)
-- Normal operating procedures
-- Panel switch locations and functions
-- Stick grip button layout (with photo)
-- What the emergency bus does and when it activates
+**Section 8 - Systems Description:** How each system works (operational description), panel switch locations, stick grip layout, emergency bus behavior.
 
-**Section 9 - Handling, Servicing:**
-- Brake fluid type (Royco 782)
-- Tire pressures
-- Oil type and capacity
-- Fuel specifications
-- Preflight inspection items
-- Service intervals
+**Section 9 - Handling, Servicing:** Brake fluid type, tire pressures, oil specs, fuel specs, preflight items, service intervals.
 
-### Separate Maintenance Manual (Not in POH)
+### Systems Reference (sys-*.md) — HTML Only
 
-Information for **maintenance and repair**:
+Comprehensive technical reference for **how the airplane is built and how everything works**. This is NOT just maintenance — it's the complete "how is my airplane built" reference. Includes:
 
-- **Wingtip removal procedure** (piano hinge details)
-- **AeroSun VX light installation** (wiring, mounting)
-- **Bob Archer antenna installation** (location, coax routing)
-- Wiring diagrams and harness documentation
-- Part numbers and suppliers
-- Torque specifications
-- Detailed inspection procedures
+- Part numbers, suppliers, data sheets
+- Wiring/plumbing details, AN fittings, routing
+- Tuning notes, calibration data
+- Diagnostic procedures and flight data analysis
+- Lessons learned, installation quirks
+- Photos with captions
 
-The `maintenance/` directory contains system-specific documentation:
+**Key constraint:** Systems Reference pages use `sys-XX-` prefix (ATA chapter numbers). The PDF build in `build.sh` explicitly lists sections 00-09, so sys-* files are automatically excluded. No build changes needed.
 
-```
-maintenance/
-├── fuel-system/
-│   ├── README.md              # Complete fuel system reference:
-│   │                          #   - EFII System32 overview
-│   │                          #   - MAP-referenced regulator theory (1:1 tracking)
-│   │                          #   - Sensor reference frames (gauge vs absolute)
-│   │                          #   - Altitude correction methodology
-│   │                          #   - Diagnostic methodology & healthy baselines
-│   │                          #   - N720AK diagnosis & flight log history
-│   │                          #   - Open questions (baro compensation, startup variation)
-│   └── flight-logs/           # Archived analysis results
-```
+Each system page links to manufacturer PDFs stored in `docs/XX-*/` and to scripts/plans via GitHub URLs (since those directories aren't served by mdBook).
+
+### Reference Documents (docs/)
+
+Manufacturer PDFs, install guides, and reference materials organized by ATA chapter number in `docs/`. Use descriptive filenames (e.g., `dynon-skyview-install-guide-rev15.pdf`, not `manual.pdf`). System pages link to these with relative paths like `../docs/34-navigation/filename.pdf`.
 
 ### Analysis Scripts
 
@@ -246,7 +257,7 @@ plans/
 - Reference baseline (N88810, same regulator): σ = 0.08 PSI, slope = −0.01 — essentially perfect
 - Dynon fuel pressure sensor appears to be baro-compensated (altitude correction fraction ≈ 0)
 - Garmin fuel pressure sensor is standard gauge (needs altitude correction, fraction = 1.0)
-- Full details: `maintenance/fuel-system/README.md`
+- Full details: `sections/sys-28-fuel-system.md`
 
 ## Weight & Balance for ForeFlight
 
@@ -267,20 +278,22 @@ On push to `main`, GitHub Actions:
 
 Target domain: **n720ak.com** (configure in GitHub Pages settings)
 
-## Maintenance Manual TODOs
+## Systems Reference TODOs
 
-The maintenance documentation (especially `maintenance/fuel-system/README.md`) contains `<!-- TODO -->` markers and a structured TODO checklist at the bottom of each file. These represent information that needs to come from the owner (part numbers, photos, procedures, measurements, supplier info, etc.).
+The Systems Reference pages (`sections/sys-*.md`) contain `<!-- TODO -->` markers and structured TODO checklists at the bottom of each file. These represent information that needs to come from the owner (part numbers, photos, procedures, measurements, supplier info, etc.).
 
-**When the user asks about TODOs, or asks to work on the maintenance manual, or says something like "let's fill in some details":**
+**When the user asks about TODOs, or asks to work on a system page, or says something like "let's fill in some details":**
 
-1. Read the TODO section at the bottom of the relevant maintenance file
+1. Read the TODO section at the bottom of the relevant `sys-*.md` file
 2. **Interview the user** — pick 3-5 related TODOs and ask about them using AskUserQuestion or conversationally. Group related questions (e.g., all filter-related items together, all fuel line items together).
-3. After getting answers, update the maintenance file immediately — fill in the TODO markers with real data
+3. After getting answers, update the system page immediately — fill in the TODO markers with real data
 4. Then pick the next batch and continue
 
 **Do not** dump the entire TODO list at the user. Work through it in focused batches, organized by topic. The user is a pilot/builder and knows this aircraft — they just need to be prompted for specific details.
 
-**When the user provides photos**, save them to `maintenance/fuel-system/photos/` (or the relevant system's photo directory) and reference them from the documentation.
+**When the user provides photos**, save them to `images/` and reference them from the system page.
+
+**When the user provides PDFs**, save them to the appropriate `docs/XX-*/` directory and add a link from the system page's References section.
 
 ## Editing Tips
 

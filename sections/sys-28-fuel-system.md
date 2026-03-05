@@ -1,20 +1,6 @@
-# Fuel System — N720AK (RV-10)
+# Fuel System
 
-## Table of Contents
-
-1. [System Overview](#system-overview)
-2. [Physical Plumbing — Tank to Injector and Back](#physical-plumbing--tank-to-injector-and-back)
-3. [Component Details](#component-details)
-4. [The Critical Quantity: Injector Differential Pressure](#the-critical-quantity-injector-differential-pressure)
-5. [The MAP-Referenced Regulator](#the-map-referenced-regulator)
-6. [Sensor Reference Frames](#sensor-reference-frames)
-7. [Diagnostic Methodology](#diagnostic-methodology)
-8. [Flight Log Analysis History](#flight-log-analysis-history)
-9. [Diagnosis: N720AK Regulator](#diagnosis-n720ak-regulator)
-10. [Open Questions](#open-questions)
-11. [TODO: Information Needed](#todo-information-needed)
-
----
+> ATA Chapter 28 — N720AK Systems Reference
 
 ## System Overview
 
@@ -95,7 +81,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 
 ---
 
-## Component Details
+## Components
 
 ### Fuel Tanks
 
@@ -223,6 +209,40 @@ See [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_
 
 ---
 
+## How It Works: The MAP-Referenced Regulator
+
+### How It Maintains Constant Differential
+
+The Aeromotive regulator is a mechanical diaphragm device:
+
+- **One side** of the diaphragm sees **fuel pressure** from the fuel rail
+- **Other side** sees **manifold pressure** (via a vacuum reference line from the throttle body) plus a **calibrated spring**
+
+The diaphragm balances these forces:
+
+```
+Fuel_absolute = MAP_absolute + Spring_force
+```
+
+When MAP rises (throttle opened), the diaphragm sees more pressure on the reference side, so it allows fuel pressure to rise by the same amount. When MAP drops (throttle closed), fuel pressure drops to match. This is called **1:1 tracking** — every PSI change in MAP produces a matching PSI change in fuel pressure.
+
+**The result:** The spring force sets the differential, and it stays constant:
+
+```
+Fuel_absolute − MAP_absolute = Spring_force ≈ 35 PSI (constant)
+```
+
+### What Goes Wrong
+
+| Problem | Signature in Data | Likely Cause |
+|---------|-------------------|--------------|
+| **MAP under-tracking** | Negative MAP slope (PSI/inHg) | Restricted/leaking vacuum reference line, stiff diaphragm, weak spring |
+| **Flow-dependent droop** | Negative fuel flow slope (PSI/(gal/hr)) | Spring fatigue, excessive diaphragm friction |
+| **Sticking / hunting** | High residual σ after removing MAP trend | Diaphragm friction, valve seat wear, debris, hysteresis |
+| **Over-tracking** | Positive MAP slope | Unlikely — would indicate reference line amplifying signal |
+
+---
+
 ## The Critical Quantity: Injector Differential Pressure
 
 The pressure drop across each fuel injector determines how much fuel flows during the injector's open time:
@@ -263,40 +283,6 @@ Track these metrics at each annual or whenever the fuel system is serviced:
 3. **Compare against the baseline** in the flight log history table below
 
 If any of these metrics change significantly, investigate before flying further. A change in the differential means the fuel tune is no longer valid.
-
----
-
-## The MAP-Referenced Regulator
-
-### How It Maintains Constant Differential
-
-The Aeromotive regulator is a mechanical diaphragm device:
-
-- **One side** of the diaphragm sees **fuel pressure** from the fuel rail
-- **Other side** sees **manifold pressure** (via a vacuum reference line from the throttle body) plus a **calibrated spring**
-
-The diaphragm balances these forces:
-
-```
-Fuel_absolute = MAP_absolute + Spring_force
-```
-
-When MAP rises (throttle opened), the diaphragm sees more pressure on the reference side, so it allows fuel pressure to rise by the same amount. When MAP drops (throttle closed), fuel pressure drops to match. This is called **1:1 tracking** — every PSI change in MAP produces a matching PSI change in fuel pressure.
-
-**The result:** The spring force sets the differential, and it stays constant:
-
-```
-Fuel_absolute − MAP_absolute = Spring_force ≈ 35 PSI (constant)
-```
-
-### What Goes Wrong
-
-| Problem | Signature in Data | Likely Cause |
-|---------|-------------------|--------------|
-| **MAP under-tracking** | Negative MAP slope (PSI/inHg) | Restricted/leaking vacuum reference line, stiff diaphragm, weak spring |
-| **Flow-dependent droop** | Negative fuel flow slope (PSI/(gal/hr)) | Spring fatigue, excessive diaphragm friction |
-| **Sticking / hunting** | High residual σ after removing MAP trend | Diaphragm friction, valve seat wear, debris, hysteresis |
-| **Over-tracking** | Positive MAP slope | Unlikely — would indicate reference line amplifying signal |
 
 ---
 
@@ -379,7 +365,7 @@ For Dynon SkyView fuel pressure on N720AK, we found fraction ≈ 0.0 — this is
 
 ---
 
-## Diagnostic Methodology
+## Diagnostics
 
 ### Running the Script
 
@@ -511,6 +497,15 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - **Startup fuel pressure variation**: 32.0 to 35.8 PSI across flights. Is this temperature-dependent? Different regulator stick points? Pump output variation?
 - **Baro port status**: Cannot conclusively test from current flight data. Fix regulator first.
 - **Dynon differential display**: Dynon offers a built-in `Fuel_gauge − MAP` differential display, but this shows `True_differential − Atmosphere`, not the true injector differential. It shifts with altitude. Not sufficient for regulator health monitoring without manual altitude correction.
+
+---
+
+## References
+
+- [Regulator Diagnostic Script](https://github.com/sritchie/rv10/blob/main/scripts/regulator_diagnostic.py) — auto-detects Dynon/Garmin CSV, computes diagnostic metrics, generates 4-panel plot
+- [Regulator Diagnostic Plan](https://github.com/sritchie/rv10/blob/main/plans/regulator-diagnostic.md) — workflow for analyzing regulator health
+- [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_bulletin_120414.php) — blocked baro compensation ports on Kavlico sensors
+- Flight log data: `maintenance/fuel-system/flight-logs/`
 
 ---
 
