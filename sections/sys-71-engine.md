@@ -51,6 +51,11 @@ Steel tube engine mount.
 <!-- TODO: Oil change interval and procedure -->
 <!-- TODO: Compression check procedure and recent results -->
 <!-- TODO: Spark plug (if any traditional ones) inspection -->
+
+### Billet Covers
+
+Replacement O-rings for billet covers: COTS Viton O-ring #160.
+
 <!-- TODO: Engine mount inspection points -->
 <!-- TODO: Baffling inspection -->
 

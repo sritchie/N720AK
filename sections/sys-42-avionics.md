@@ -37,6 +37,14 @@ This section covers N720AK's avionics stack as an integrated system — how ever
   - GPS position sharing
 -->
 
+### Known Wiring Notes
+
+**Serial 4 (Dynon ↔ GTN 650)**: The blue and green wires are intentionally flipped on this serial connection. This swap was done during installation — the TX/RX lines needed to be crossed for proper communication between the Dynon SkyView and GTN 650 on serial port 4.
+
+**Disconnected audio warning line**: The old CO audio warning line runs from the former CO detector location to the GMA 245 Music input. This line is currently disconnected. It is difficult to reach — runs behind the panel.
+
+**Disconnected serial 4 line**: A serial 4 cable was cut — it leads from one of the GTN 650's serial outputs to the Dynon's serial 4 port. Both connections are a major pain to reach and worth documenting on an updated schematic.
+
 ## Wiring
 
 <!-- TODO: Connector types used (D-sub, Molex, etc.) -->

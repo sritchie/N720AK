@@ -126,7 +126,8 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 | Pressure | <!-- TODO: confirm rated output pressure --> |
 
 **Pump replacement notes:**
-<!-- TODO: Document the V-ton steel crush washers needed for pump replacement -->
+
+Viton crush washers for pump fittings: [One Hydraulics SS9500-02V](https://www.onehydraulics.com/products/ss9500-02v) (primary source, where N720AK's were purchased). Alternate source: [Titan Fittings SS-9500V series](https://www.titanfittings.com/adapters-and-fittings/hydraulic-adapters/stainless-hydraulic-fittings/stainless-british-and-metric-fittings/ss-9500v).
 <!-- TODO: What does it take to change these pumps? How long, what tools? -->
 <!-- TODO: Photos of pump internals — what does a healthy pump look like? -->
 <!-- TODO: How to tell when pumps need replacement (pressure test? flow test?) -->
@@ -539,7 +540,7 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [ ] Photos of routing under seats and through firewall
 
 ### Pump Replacement
-- [ ] V-ton steel crush washers — what size, where to source
+- [x] Viton crush washers — [Titan Fittings SS-9500V](https://www.titanfittings.com/adapters-and-fittings/hydraulic-adapters/stainless-hydraulic-fittings/stainless-british-and-metric-fittings/ss-9500v)
 - [ ] Step-by-step replacement procedure
 - [ ] What does it take? Time, tools, access?
 - [ ] Photos of pump internals (healthy pump)

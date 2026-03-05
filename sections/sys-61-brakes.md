@@ -13,9 +13,9 @@ N720AK has a fixed tricycle landing gear with hydraulic disc brakes on the main 
 | Brake calipers | <!-- TODO --> | <!-- TODO --> | Hydraulic disc |
 | Master cylinders | <!-- TODO --> | <!-- TODO --> | Pilot and co-pilot toe pedals |
 | Brake fluid | Royco 782 | — | MIL-PRF-83282 |
-| Main wheels | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
-| Nose wheel | <!-- TODO --> | <!-- TODO --> | Steerable |
-| Main tires | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, pressure --> |
+| Main wheels | <!-- TODO --> | Matco | Upgraded brakes |
+| Nose wheel | <!-- TODO --> | Beringer | Beringer nosewheel (from finishing kit) |
+| Main tires | <!-- TODO --> | Desser | Retreads (no inner tubes) |
 | Nose tire | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, pressure --> |
 | Wheel fairings | <!-- TODO --> | <!-- TODO --> | Main gear only |
 
@@ -56,8 +56,8 @@ Fixed tricycle configuration:
 | Main tire pressure | <!-- TODO --> PSI |
 | Nose tire pressure | <!-- TODO --> PSI |
 
+**Tire source**: Desser retreads — [reference notes from another RV-10](http://www.myrv10.com/N104CD/upgrades/20110326/index.html). Skip inner tubes and tires from other suppliers.
 <!-- TODO: Tire replacement procedure -->
-<!-- TODO: Where to source tires -->
 
 ## References
 

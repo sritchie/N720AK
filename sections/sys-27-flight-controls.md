@@ -55,6 +55,10 @@ Flap positions range from reflex (-3°) to full (40°).
 <!-- TODO: Trim servo inspection -->
 <!-- TODO: Flap motor and limit switch check -->
 
+### Quadrant Cable Boots
+
+Replacement cable boots for the throttle/mixture/prop quadrant: see [VAF thread on Q-43 boots](https://vansairforce.net/threads/the-quadrant-cable-boots-e-g-q-43.228223/).
+
 ## Photos
 
 <!-- TODO: Stick grip button layout photo -->

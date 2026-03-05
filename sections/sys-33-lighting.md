@@ -36,6 +36,12 @@ The wingtips attach via **piano hinge modification** — they can be removed ent
 
 ## Wiring
 
+**Wingtip wiring references:**
+- [Wing wiring overview](http://www.goodplaneliving.com/wing-wiring/)
+- [Grounding block approach](http://www.vansairforce.com/community/showpost.php?p=673363&postcount=4)
+- [VAF AeroSun discussion thread](http://www.vansairforce.com/community/showthread.php?t=94927&page=5)
+- [Wing light grounding points discussion](http://www.vansairforce.com/community/showthread.php?t=18851)
+
 <!-- TODO: Wiring from VPX channels to wingtip connectors -->
 <!-- TODO: Piano hinge connector — what type? Quick-disconnect? -->
 <!-- TODO: Tail light wiring routing -->
