@@ -502,6 +502,12 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 
 ## References
 
+- [EFII System32 Installation Manual (Rev 9-13)](https://drive.google.com/file/d/1qWy2YjOcxXDmAfCELyb1E6BdgQzikOnG/view)
+- [EFII System32 Installation Manual (Rev 6-19)](https://drive.google.com/file/d/1BESBfApEQT0hh6kc2LZ9ic5jRJH6KIjK/view)
+- [EFII System32 Operating Procedures (12-20)](https://drive.google.com/file/d/1DpagY70w5oKBDZ5f50atGQ_gukgIGGgV/view)
+- [EFII System32 Fuel Flow & RPM Config (Rev 10-19)](https://drive.google.com/file/d/1u1Z214HEJB2bEiMpFU9ltmSb-CmbR7ft/view)
+- [EFII System32 Initial Tuning — CSP (Rev 6-20)](https://drive.google.com/file/d/1P36hbiAgYbXRVSpBjiZAR1q9-bidzpfb/view)
+- [EFII System32 Upgrade Installation Manual](https://drive.google.com/file/d/1U_Z8F2wmzUvSQblY9kP-5OzxFby1jM_p/view)
 - [Regulator Diagnostic Script](https://github.com/sritchie/rv10/blob/main/scripts/regulator_diagnostic.py) — auto-detects Dynon/Garmin CSV, computes diagnostic metrics, generates 4-panel plot
 - [Regulator Diagnostic Plan](https://github.com/sritchie/rv10/blob/main/plans/regulator-diagnostic.md) — workflow for analyzing regulator health
 - [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_bulletin_120414.php) — blocked baro compensation ports on Kavlico sensors

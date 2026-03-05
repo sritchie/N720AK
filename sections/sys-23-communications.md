@@ -34,4 +34,6 @@ N720AK's communications stack includes the **Garmin GMA 245** audio panel, **Dyn
 
 ## References
 
-<!-- TODO: Links to GMA 245 pilot guide, GTN 650 manual in docs/23-communications/ -->
+- [Garmin GMA 245 Pilot's Guide](https://drive.google.com/file/d/1e8kQ9axjUSXKm6KyOz8QHKcjZ_O7Li0g/view)
+- [Garmin GTN 650 Pilot's Guide](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view)
+- [Artex ELT 345 Manual](https://drive.google.com/file/d/1OXIHSMY2lg3rjRosWWdaETwle8ACyBID/view)

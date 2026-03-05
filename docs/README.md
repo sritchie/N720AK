@@ -1,40 +1,34 @@
 # Reference Documents
 
-Manufacturer PDFs, install guides, and reference materials organized by ATA chapter number.
+Manufacturer PDFs, manuals, schematics, and configs live on **Google Drive**, not in git. This keeps the repo small and lets us share public links from the website.
 
-## Directory Structure
+## Google Drive Structure
 
-| Directory | ATA Chapter | Content |
-|-----------|-------------|---------|
-| `22-autopilot/` | ATA 22 | Dynon AP install guide, servo manuals |
-| `23-communications/` | ATA 23 | GMA 245 pilot guide, antenna specs |
-| `24-electrical/` | ATA 24 | VPX Sport manual, EarthX specs, System32 bus docs |
-| `27-flight-controls/` | ATA 27 | Tosten grip docs |
-| `28-fuel-system/` | ATA 28 | Aeromotive regulator specs, Walbro pump docs, Andair valve |
-| `33-lighting/` | ATA 33 | AeroLEDs install guides |
-| `34-navigation/` | ATA 34 | Dynon Skyview guides, GTN 650 manual, OnSpeed docs |
-| `35-oxygen/` | ATA 35 | Mountain High EDS-4iP manual |
-| `42-avionics/` | ATA 42 | Wiring diagrams, connector pinouts |
-| `61-brakes/` | ATA 61 | Brake caliper docs, wheel specs |
-| `71-engine/` | ATA 71 | Lycoming operator's manual, overhaul manual |
-| `73-efii/` | ATA 73 | EFII System32 manual, tuning guides, wiring docs |
-| `84-propeller/` | ATA 84 | Prop manual, governor docs |
-| `misc/` | — | Anything that doesn't fit a specific chapter |
+All reference files are in `My Drive/N720AK/` on Google Drive:
 
-## Naming Convention
-
-Use descriptive filenames, not generic names:
-
-- `dynon-skyview-install-guide-rev15.pdf` (good)
-- `manual.pdf` (bad)
-- `aeromotive-13109-regulator-datasheet.pdf` (good)
-- `datasheet.pdf` (bad)
+| Folder | Sharing | Content |
+|--------|---------|---------|
+| `Public/Manuals/{ATA}/` | Anyone with link | Manufacturer manuals by ATA chapter |
+| `Public/Schematics/` | Anyone with link | Wiring diagrams, system schematics |
+| `Public/Configs/` | Anyone with link | Dynon sensor/user configs, OnSpeed calibrations |
+| `Public/Performance/` | Anyone with link | ADSB reports, airspeed data, prop balance |
+| `Public/Weight-Balance/` | Anyone with link | W&B worksheets |
+| `Private/` | Owner only | Invoices, insurance, keys, registration |
+| `Archive/` | Owner only | Van's construction drawings, brochures, reference POHs |
 
 ## Linking from System Pages
 
-System pages in `sections/sys-*.md` link to docs using relative paths:
+System pages in `sections/sys-*.md` link to Google Drive using shareable URLs:
 
 ```markdown
 ## References
-- [Dynon Skyview Installation Guide](../docs/34-navigation/dynon-skyview-install-guide.pdf)
+- [EFII System32 Installation Manual (Rev 9-13)](https://drive.google.com/file/d/{FILE_ID}/view)
 ```
+
+## URL Registry
+
+See [gdrive-links.md](gdrive-links.md) for a mapping of all public files to their Google Drive URLs.
+
+## What Goes in `docs/`
+
+Only small custom diagrams or pinouts created specifically for sys-*.md pages. No manufacturer PDFs.

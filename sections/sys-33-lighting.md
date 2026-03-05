@@ -48,4 +48,4 @@ The wingtips attach via **piano hinge modification** — they can be removed ent
 
 ## References
 
-<!-- TODO: Links to AeroLEDs install guides in docs/33-lighting/ -->
+<!-- TODO: AeroSun VX / AeroLEDs documentation -->

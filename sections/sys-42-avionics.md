@@ -52,4 +52,7 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 ## References
 
-<!-- TODO: Links to wiring diagrams, connector pinouts in docs/42-avionics/ -->
+- [Power & Lighting Schematic](https://drive.google.com/file/d/1hXrVusmeaCbz3MywPmLUjcQ1TfPFVOE9/view)
+- [SkyView Interconnect Schematic](https://drive.google.com/file/d/12A0_Y_iNQHOCiC1JO2z4mCb5z9XO-COs/view)
+- [VPX Pro/Sport Load Planning Worksheet](https://drive.google.com/file/d/1uy9UFDHQYeuw0kTXVAed_0YB3Jd1rMf1/view)
+- [Dynon SkyView Third-Party Device Connection (Rev E)](https://drive.google.com/file/d/1oxEsay5amF7m1MqrphiiwM65MX3KoH7I/view)

@@ -38,4 +38,5 @@ A panel switch selects between:
 
 ## References
 
-<!-- TODO: Links to Mountain High EDS-4iP manual in docs/35-oxygen/ -->
+- [Mountain High EDS-4iP Manual](https://drive.google.com/file/d/1jyxfl9qch7xVHHYem4MqP5z7yCiDlXEi/view)
+- [Mountain High Oxygen System Schematic](https://drive.google.com/file/d/1otK6zi20DjUBk0ewwCl77eq1ITZm7oin/view)

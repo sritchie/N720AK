@@ -8,7 +8,13 @@
       "mcp__claude_ai_Linear__list_teams",
       "Bash(./build.sh html:*)",
       "Bash(./build.sh pdf:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(du:*)",
+      "Bash(GDRIVE=\"$HOME/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive\")",
+      "Read(//Users/sritchie/code/rv10/**)",
+      "Bash(GDRIVE=\"$HOME/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK\")",
+      "Read(//Users/sritchie/code/rv10/$GDRIVE/Public/**)",
+      "Bash(xattr:*)"
     ]
   }
 }

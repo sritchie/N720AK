@@ -93,22 +93,9 @@ rv10/
 │   ├── sys-71-engine.md         # Systems Reference: Lycoming mechanical
 │   ├── sys-73-efii.md           # Systems Reference: EFII System32 EFI/ignition
 │   └── sys-84-propeller.md      # Systems Reference: prop and governor
-├── docs/                  # Manufacturer PDFs organized by ATA chapter
-│   ├── README.md          # Naming convention and organization
-│   ├── 22-autopilot/      # Dynon AP install guide, servo manuals
-│   ├── 23-communications/ # GMA 245 pilot guide, antenna specs
-│   ├── 24-electrical/     # VPX Sport manual, EarthX specs
-│   ├── 27-flight-controls/ # Tosten grip docs
-│   ├── 28-fuel-system/    # Aeromotive regulator, Walbro pump docs
-│   ├── 33-lighting/       # AeroLEDs install guides
-│   ├── 34-navigation/     # Dynon Skyview, GTN 650, OnSpeed docs
-│   ├── 35-oxygen/         # Mountain High EDS-4iP manual
-│   ├── 42-avionics/       # Wiring diagrams, connector pinouts
-│   ├── 61-brakes/         # Brake caliper docs, wheel specs
-│   ├── 71-engine/         # Lycoming operator's manual
-│   ├── 73-efii/           # EFII System32 manual, tuning guides
-│   ├── 84-propeller/      # Prop manual, governor docs
-│   └── misc/              # Anything that doesn't fit
+├── docs/                  # Small custom diagrams only (no manufacturer PDFs)
+│   ├── README.md          # Documents Google Drive approach
+│   └── gdrive-links.md   # URL registry: files → Google Drive shareable links
 ├── images/                # Aircraft photos, diagrams
 ├── maintenance/
 │   └── fuel-system/
@@ -222,22 +209,47 @@ Comprehensive technical reference for **how the airplane is built and how everyt
 
 **Key constraint:** Systems Reference pages use `sys-XX-` prefix (ATA chapter numbers). The PDF build in `build.sh` explicitly lists sections 00-09, so sys-* files are automatically excluded. No build changes needed.
 
-Each system page links to manufacturer PDFs stored in `docs/XX-*/` and to scripts/plans via GitHub URLs (since those directories aren't served by mdBook).
+Each system page links to manufacturer PDFs on Google Drive via shareable URLs (see `docs/gdrive-links.md` for the URL registry).
 
-### Reference Documents (docs/)
+### Reference Documents — Google Drive
 
-Manufacturer PDFs, install guides, and reference materials organized by ATA chapter number in `docs/`. Use descriptive filenames (e.g., `dynon-skyview-install-guide-rev15.pdf`, not `manual.pdf`). System pages link to these with relative paths like `../docs/34-navigation/filename.pdf`.
+Manufacturer PDFs, manuals, schematics, and configs live on **Google Drive** (not in git). The `Public/` folder is shared read-only; sys-*.md pages link to these via stable Google Drive URLs. Claude reads files locally from the synced folder.
+
+**Local sync path**: `~/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/`
+
+| GDrive Folder | Sharing | Content |
+|---------------|---------|---------|
+| `Public/Manuals/{ATA}/` | Anyone with link | Manufacturer manuals by ATA chapter |
+| `Public/Schematics/` | Anyone with link | Wiring diagrams, system schematics |
+| `Public/Configs/` | Anyone with link | Dynon sensor/user configs, OnSpeed calibrations |
+| `Public/Performance/` | Anyone with link | ADSB reports, airspeed data, prop balance |
+| `Public/Weight-Balance/` | Anyone with link | W&B worksheets |
+| `Private/` | Owner only | Invoices, insurance, keys, registration |
+| `Archive/` | Owner only | Van's construction drawings, brochures, reference POHs |
+
+The `docs/` directory in git contains only `README.md`, `gdrive-links.md` (URL registry), and any small custom diagrams created for sys-*.md pages. No manufacturer PDFs in git.
+
+**Getting Google Drive URLs for new files**: On macOS with Google Drive for Desktop, the file ID is stored in extended attributes. To get a shareable URL:
+```bash
+xattr -p com.google.drivefs.item-id#S "/path/to/file"
+# Returns: 1abc123...
+# URL: https://drive.google.com/file/d/1abc123.../view
+```
+After adding a file to `Public/`, extract the file ID with `xattr`, add it to `docs/gdrive-links.md`, and link from the relevant sys-*.md page.
 
 ### Analysis Scripts
 
+Always use `uv` to run Python scripts (handles dependencies automatically).
+
 ```
 scripts/
-└── regulator_diagnostic.py    # Fuel pressure regulator diagnostic
-                               # Auto-detects Dynon/Garmin CSV format
-                               # Computes: delta σ, MAP slope, FF slope, residual σ
-                               # Generates 4-panel diagnostic plot
-                               # Supports altitude correction (--alt-correct)
-                               # and correction fraction scan (--alt-scan)
+├── regulator_diagnostic.py        # Fuel pressure regulator diagnostic
+│                                  # Auto-detects Dynon/Garmin CSV format
+│                                  # Computes: delta σ, MAP slope, FF slope, residual σ
+│                                  # Generates 4-panel diagnostic plot
+│                                  # Supports altitude correction (--alt-correct)
+│                                  # and correction fraction scan (--alt-scan)
+└── migrate_dropbox_to_gdrive.py   # One-time migration: Dropbox → Google Drive
 ```
 
 Run with: `uv run --with numpy --with matplotlib python3 scripts/regulator_diagnostic.py /path/to/log.csv`
@@ -293,7 +305,7 @@ The Systems Reference pages (`sections/sys-*.md`) contain `<!-- TODO -->` marker
 
 **When the user provides photos**, save them to `images/` and reference them from the system page.
 
-**When the user provides PDFs**, save them to the appropriate `docs/XX-*/` directory and add a link from the system page's References section.
+**When the user provides PDFs**, save them to the appropriate Google Drive `Public/Manuals/{ATA}/` folder, get the shareable URL, add it to `docs/gdrive-links.md`, and link from the system page's References section.
 
 ## Editing Tips
 
