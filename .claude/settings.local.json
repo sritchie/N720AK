@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "mcp__claude_ai_Linear__get_project",
+      "mcp__claude_ai_Linear__list_issues",
+      "mcp__claude_ai_Linear__list_projects",
+      "mcp__claude_ai_Linear__list_teams",
+      "Bash(./build.sh html:*)",
+      "Bash(./build.sh pdf:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
