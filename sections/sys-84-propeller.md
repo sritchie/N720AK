@@ -24,6 +24,14 @@ N720AK uses a constant-speed propeller. The propeller governor maintains RPM as 
 <!-- TODO: Low pitch stop, high pitch stop -->
 <!-- TODO: Feathering capability? -->
 
+### Prop Balance
+
+Two DynaVibe prop balance reports on file:
+- December 2025 (initial balance)
+- February 2026
+
+Reports saved in GDrive `Public/Performance/prop_balance_12_2025.htm` and `prop_balance_02_2026.htm`.
+
 ## Inspection & Maintenance
 
 <!-- TODO: Prop inspection — nicks, erosion, leading edge condition -->

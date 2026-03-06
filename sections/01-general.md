@@ -21,6 +21,7 @@ the maximum extent possible.
 | Height | |
 | Wheel Base | |
 | Wing Area | 147 sq. ft. |
+| Wing Airfoil | Custom (coordinates in `docs/rv10-airfoil-coordinates.txt`) |
 
 ## Interior Dimensions
 

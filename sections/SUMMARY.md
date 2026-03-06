@@ -21,6 +21,7 @@
 
 # Systems Reference
 
+- [Workshop, Tools & Supplies](./sys-00-workshop.md)
 - [Autopilot (ATA 22)](./sys-22-autopilot.md)
 - [Communications (ATA 23)](./sys-23-communications.md)
 - [Electrical Power (ATA 24)](./sys-24-electrical.md)

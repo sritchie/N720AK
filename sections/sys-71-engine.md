@@ -59,6 +59,10 @@ Replacement O-rings for billet covers: COTS Viton O-ring #160.
 <!-- TODO: Engine mount inspection points -->
 <!-- TODO: Baffling inspection -->
 
+### Lycoming Accessory Case Oil System
+
+Reference: [VAF thread — Lycoming accessory case oil schematic by Dan H](https://vansairforce.net/threads/lycoming-accessory-case-oil-schematic.45548/)
+
 ## References
 
 - [Oil Separator / Vacuum System](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view)

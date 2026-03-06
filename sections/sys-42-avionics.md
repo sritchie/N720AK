@@ -58,6 +58,15 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 <!-- TODO: Wire chafe inspection points -->
 <!-- TODO: Antenna inspections -->
 
+### Connector References
+
+- **Delphi connectors**: [VAF thread — which Delphi connectors for RV-10](https://vansairforce.net/community/showthread.php?t=142169)
+- **Metri-Pack connectors**: [VAF thread — Metri-Pack connectors for engine sensor harness](https://vansairforce.net/community/showthread.php?t=125549)
+
+### EMS Wiring
+
+The Dynon SkyView Installation Guide page 7-7 shows the EMS wiring diagram for engine sensor connections.
+
 ## References
 
 - [Power & Lighting Schematic](https://drive.google.com/file/d/1hXrVusmeaCbz3MywPmLUjcQ1TfPFVOE9/view)
