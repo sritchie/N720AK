@@ -9,6 +9,16 @@ This repository contains the Pilot's Operating Handbook (POH) for **N720AK**, a 
 3. **Weight & Balance**: Exportable W&B data for sharing with other pilots
 4. **GitHub Pages**: Auto-deploys HTML version on push to main (target: n720ak.com)
 
+## Linear (Task Manager)
+
+Linear is used **only as a task manager** for pending work items. It is NOT a content store. Key rules:
+
+- **Never store attachments or content in Linear** — all documents, PDFs, invoices, photos, and reference material go in Google Drive or the git repo
+- **Never link to Linear issue URLs** from sys-*.md pages, GDrive files, or anywhere in the repo — Linear is not accessible to other users
+- **Never reference Linear issue identifiers** (e.g., "Source: Linear RV-XXX") in archived content — once content is migrated out, all Linear provenance must be removed
+- **Linear upload URLs expire** — JWT-signed `uploads.linear.app` URLs are valid for ~5 minutes. Never store these as permanent references.
+- When closing an issue, the content should already be in its permanent home (GDrive or repo) before marking Done
+
 ## Checklist Synchronization
 
 **Canonical checklist source**: https://rdamazio.github.io/efis-editor/checklists#N720AK
@@ -225,6 +235,7 @@ Manufacturer PDFs, manuals, schematics, and configs live on **Google Drive** (no
 | `Public/Performance/` | Anyone with link | ADSB reports, airspeed data, prop balance |
 | `Public/Weight-Balance/` | Anyone with link | W&B worksheets |
 | `Private/` | Owner only | Invoices, insurance, keys, registration |
+| `Private/Maintenance/` | Owner only | Digital maintenance logs (TSV), oil analysis |
 | `Archive/` | Owner only | Van's construction drawings, brochures, reference POHs |
 
 The `docs/` directory in git contains only `README.md`, `gdrive-links.md` (URL registry), and any small custom diagrams created for sys-*.md pages. No manufacturer PDFs in git.
@@ -306,6 +317,116 @@ The Systems Reference pages (`sections/sys-*.md`) contain `<!-- TODO -->` marker
 **When the user provides photos**, save them to `images/` and reference them from the system page.
 
 **When the user provides PDFs**, save them to the appropriate Google Drive `Public/Manuals/{ATA}/` folder, get the shareable URL, add it to `docs/gdrive-links.md`, and link from the system page's References section.
+
+## Maintenance Logs (Digital)
+
+N720AK maintains digital maintenance logs as TSV files in Google Drive, synced locally. These supplement (not replace) the paper logbooks — paper is still needed for condition inspection sign-offs and regulatory signatures.
+
+**Local path**: `~/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Private/Maintenance/`
+
+### Log Files
+
+| File | Purpose |
+|------|---------|
+| `engine-log.tsv` | Engine work: oil changes, filters, plugs, compression, accessories |
+| `airframe-log.tsv` | Airframe: condition inspections, structural, gear, controls |
+| `propeller-log.tsv` | Prop and governor: torque, balancing, seal/grease |
+| `avionics-log.tsv` | Avionics: software/database updates, wiring, antenna work |
+| `squawks.tsv` | Discrepancy tracking: open items through resolution |
+| `recurring-items.tsv` | Recurring task schedule with intervals and last-done dates |
+| `ad-sb-compliance.tsv` | AD, SB, Service Bulletin compliance tracking |
+| `oil-analysis.tsv` | Blackstone Labs oil analysis results (wear metal trends) |
+
+### How to Add Maintenance Log Entries
+
+When the user reports maintenance work (verbally, by dictation, or in chat), Claude should:
+
+1. **Determine the correct log** — engine, airframe, propeller, or avionics
+2. **Read the current log file** to see existing entries and the TSV structure
+3. **Ask for missing fields** if the user didn't provide them. Key fields to prompt for:
+   - Date (default: today)
+   - Tach and/or Hobbs reading
+   - What was done (description)
+   - Parts used (part numbers if known)
+   - Who did the work
+4. **Append a new row** to the appropriate TSV file using the Edit tool
+5. **Update `recurring-items.tsv`** if the work satisfies a recurring item (update Last Done Date and Last Done Tach/Hobbs)
+6. **Check if this resolves any open squawks** — if so, update the squawk's Status to "Cleared" with corrective action details
+7. **Proactively suggest** related items that might be due soon (e.g., "Since you changed the oil, did you also send a sample to Blackstone?")
+
+### How to Add Squawks
+
+When the user reports a problem or discrepancy:
+
+1. **Read `squawks.tsv`** to check for existing related squawks
+2. **Add a new row** with: date, reporter, tach/hobbs, priority, category (Engine/Airframe/Prop/Avionics), description, status=Open
+3. **Suggest a priority level** based on the description:
+   - `Grounding` — aircraft not airworthy
+   - `Before Next Flight` — must fix before flying
+   - `Soon` — fix within next few flights
+   - `Routine` — next maintenance opportunity
+   - `Monitor` — watch and reassess
+
+### What to Prompt the User About
+
+When the user mentions maintenance work, proactively ask about related items:
+
+**Oil change?** Ask about:
+- Oil analysis sample sent? (→ oil-analysis.tsv when results come back)
+- Filter cut and inspected? Any metal?
+- Sump screen checked?
+- Oil quantity and brand used?
+
+**Condition inspection?** Ask about:
+- Who signed it off? (Repairman cert or A&P name/cert number)
+- Compression results for each cylinder?
+- Any squawks found? (→ squawks.tsv)
+- Transponder/pitot-static due? (check recurring-items.tsv)
+
+**Engine work?** Ask about:
+- Was the engine run up afterward?
+- Any leaks observed?
+- Torque values if applicable?
+
+**Avionics update?** Ask about:
+- Which software version? (from → to)
+- Any settings that changed?
+- Did the update require a config reload?
+
+### Work Type Values
+
+Use consistent values: `Maintenance`, `Inspection`, `Repair`, `Modification`, `Overhaul`
+
+### Category Values (for squawks)
+
+Use: `Engine`, `Airframe`, `Propeller`, `Avionics`, `Electrical`, `Fuel`
+
+### Recurring Items Reference
+
+Key intervals for N720AK:
+
+| Item | Interval | Notes |
+|------|----------|-------|
+| Oil & filter change | 50 hrs / 4 months | Lycoming recommendation |
+| Oil analysis | Every oil change | Blackstone Labs |
+| Spark plug service | 100 hrs | Clean, gap, inspect, rotate |
+| Compression check | Condition inspection | Differential method, all cylinders |
+| Condition inspection | 12 calendar months | Signed by Repairman Cert holder or A&P |
+| Transponder check (91.413) | 24 calendar months | Required |
+| Pitot-static test (91.411) | 24 calendar months | Required for IFR |
+| ELT battery | Per manufacturer | Artex ELT 345 |
+| NOAA beacon registration | 24 months | Beacon ID: 2DC885940EFFBFF |
+| Nav database updates | 28-day cycle | Dynon + GTN 650 |
+
+### AD/SB Compliance
+
+Track compliance with:
+- **FAA Airworthiness Directives** — mandatory for certified components (Lycoming engine, propeller, GTN 650, Artex ELT)
+- **Van's Service Bulletins** — advisory for E-AB, but strongly recommended. Check: vansaircraft.com/service-information-and-revisions/
+- **Lycoming Service Bulletins/Instructions** — advisory for experimentals, best practice to follow
+- **EFII Service Bulletins** — for System32 EFI/ignition
+
+When adding AD/SB entries, record: document type, number, source, subject, applicability, compliance status, date, method, and next due if recurring.
 
 ## Editing Tips
 
