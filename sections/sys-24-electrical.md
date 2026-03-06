@@ -56,6 +56,10 @@ The VPX Sport provides:
 
 ## Inspection & Maintenance
 
+### EarthX Battery & OptiMate Charger Notes
+
+The OptiMate charger enters sleep/maintenance mode once the battery is fully charged, checking voltage roughly once per hour. **Important**: If a continuous parasitic load is present (e.g. panel powered on for configuration), the charger may not detect the drain during its sleep intervals and the battery can discharge. This caused a drain-to-zero event during initial setup. (Per EarthX Engineering, Dillon Hinners, 2026-01-13.)
+
 <!-- TODO: Battery maintenance — EarthX specific procedures, voltage checks, balancing -->
 <!-- TODO: Alternator belt inspection, tension -->
 <!-- TODO: VPX diagnostics — how to read the log, what to look for -->

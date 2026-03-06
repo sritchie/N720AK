@@ -66,4 +66,5 @@ Replacement cable boots for the throttle/mixture/prop quadrant: see [VAF thread 
 
 ## References
 
+- [Ray Allen trim system installation instructions](http://www.aeroelectric.com/Installation_Data/Ray-Allen/Trim%20Sys%20General.pdf)
 <!-- TODO: Tosten CS Military grip documentation -->
