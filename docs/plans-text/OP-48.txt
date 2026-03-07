@@ -1,0 +1,73 @@
+        OP -48 :
+                                                                                                                                         Step 4: Remove the screws and washers from the
+                                                                                                                                         F-1035 BatterylBellcrank Mount and position the VA-260C Spacer then the
+                                                                                                                                         VA-260A AHRS Bracket so that all the holes line up. See Figure 2 and Figure 3. Replace the screws
+                                                                                                                                         and washers in the AHRS bracket, spacer and batterylbellcrank mount. Fasten the AHRS bracket to the
+                                                                                                                                         VA-260B AHRS Support Rib using
+                                                                                                                                         the screws called out in Figure 3.
+
+
+RV- 1O AHRS BRACKET
+                                                                                                                                                                                                 AN515-8R8
+                                                                                                                                                                                                    AN960-8
+                                                                                                                                                                                                  3 PLACES ^ t d] /                                    AN509-8R8
+                                                                                                                                                                                                                                                       4 PLACES
+
+Step 1; Drill out the 9 rivet hole locations between the F-1078 Bottom Skin and F-1047F-L Skin Stiffener as shown in
+Figure 1. Final drill #40, deburr, and dimple the holes along the bottom flange of the VA-260B AHRS Support Rib.                                 F-1006B                                                                                                     F-1047F-L
+Step 2: Cleco the VA-260B AHRS Support Rib to the F-1078 Bottom Skin and F-1047F-L Skin Stiffener as shown in Figure 1. Cleco
+the forward hole of the VA-260C Spacer to the forward hole of the F-1035 Baftery/Bellaank Mount and the third hole location in the
+spacer to the forward hole in the AHRS support rib as shown in Figure 1. With the top plane of the AHRS support rib parallel with the
+                                                                                                                                                                                                                                                         F-1007d.
+top plane of the batterylbellcrank mount, match drill #30 the hole locations in the F-1007-L Fuselage Bulkhead with the hole locations
+in the aft flange of the AHRS support rib.
+                                                              F-1007-L
+                                                                                                                                                                                                                                                       VA-260
+
+
+
+
+                                                                                                                                                                                FIGURE 3: AHRS BRACKET LOCATION
+                                                                                                                                         NOTE: Use caution when match drilling the F-1007-L Fuselage Bulkhead that you do not drill Into the VA-260B AHRS
+                                                           F-1078                                                                        Support Rib. See Figure 4.
+
+                                                                                                                                         Step 5: Match drill #19 the VA-260A AHRS Bracket to the F-1007-L Fuselage Bulkhead. See Figure 4.
+
+                                                                                                                                         Step 6: Remove the VA-260A AHRS Bracket and the VA-260B AHRS Support Rib. Cleco the nutplates called out in Figure 4 to the
+                                                                                                                                         holes drilled out in the F1007-L Fuselage Bulkhead. Match drill one of the nutplate holes in the first nutplate and cleco in place, then
+                  DRILL OUT
+                   9 PLACES                    F-1047F-L                                                                                 match drill the remaining rivet hole. Repeat this process until all of the rivet holes have been drilled and then remove the clecos and
+                                                                                                                                         nutplates. Deburr the holes in the fuselage bulkhead. Dimple the nutplate rivet holes in the fuselage bulkhead and nutplates. Rivet the
+                                                                                                                                         nutplates to the fuselage bulkhead.
+                            FIGURE 1: INSTALLING THE AHRS SUPPORT RIB
+                                                                                                                                         Step 7: Cleco then rivet the VA-260B AHRS Support Rib in place using the rivets called out in Figure 4.
+Step 3: Remove the clecos and VA-260B AHRS Support Rib. Deburr, and dimple the nutplate rivet holes that match your AHRS
+installation in the VA-260A AHRS Bracket and AHRS support rib. Dimple the 4 screw holes along the outside edge of the AHRS Step 8: Replace the VA-260C Spacer and VA-260A AHRS Bracket.
+bracket and AHRS support rib as called out in Figure 2. Finish if/as desired. Dimple the rivet holes in the nutplates. Rivet the nutplates Screw AHRS Bracket in place. Bracket installation is complete.
+to the AHRS bracket and AHRS support rib. See Figure 2. Re-cleco the AHRS support rib to the F-1078 Bottom Skin and F-1047F-L                                                                                                                            AN515-8R8
+Skin Stiffener.                                                                                                                                                                                                                                          AN960-8
+                                                                                                                                                                                                                                                         3 PLACES
+                                                                                   VA-260A                                                                                                                               0
+                    GRT AHRS                                                                                                                                F-1007-L                     7 VA 260A
+                                                                                               DIMPLE SCREW                                                                                                                                                2X/NUTPLATE
+                                                                                               LOCATIONS                                                                                             - === L
+                                                                                                                                                                                                                                                           AN426AD3-3.5
+                                                                                               ALONG THIS EDGE
+                                                                                                                                                                                                        `0      0
+
+                                                                                              4X
+               2XINUTPLATE                                                                    K1100-08                                                                                                              0
+
+               AN426AD3-3.5 ^                                                                 BOTH INSTALLATIONS                                                                               0
+                                                                                                                                                                                                                                                         K1000-08
+                                                                                            GARMIN AHRS                                                                                                                                                  3 PLACES
+                VA-260C                                                                                                                                                                                                            AN470AD4-t
+                                                                                            K1000-3                                                                                          VA-260B                00             3 PLACES
+                                                                          GRTAHRS           5 PLACES
+                                                                                                                                                                                                                             AN426AD3-4
+                                                                          K1000-06
+                           VA-260B                                                                                                                                                                                           9 PLACES
+                                                                          4 PLACES
+                                                                                                                                                                    FIGURE 4: MATCH-DRILLING AHRS BRACKET TO BULKHEAD
+                                     FIGURE 2: NUTPLATE LOCATIONS
+

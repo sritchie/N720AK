@@ -1,0 +1,68 @@
+                        VAN'S AIRCRAFT, INC.
+                                                                                                       MOUNT BOLT
+                                                                                                                              RING TERMINAL
+                                                                                                     ES 40105
+                                                                                                                                                   GROUND WIRE
+                                                                                                                                                                                ES-00102
+   OP-50 FUEL PUMP NOISE FILTER
+   CAUTION: Temporarily disconnect the negative battery cable from
+   the battery durng installation of the ES-00102 Noise Filter.
+
+   NOTE: The following ES-00102 Noise Filter installation instructions                                                                                      SPADE
+   apply specifically to in the RV-12. The noise filter in like manner may                                                                                  TERMINAL          POWER WIRE
+   be installed in parallel with the electric fuel pump on any RV aircraft.
+                                                                                                     POWER WIRE           WH-RV12-TUNNEL
+   Step 1: Disconnect the ES 40105 Fuel Pump power wire from the
+   WH-RV12-TUNNEL Tunnel Wiring Harness. See Figure 1.
+
+   Step 2: Connect the ES 40105 Fuel Pump power wire to the appropriate
+   gender spade connector coming from the ES-00102 Noise Filter as
+   shown in Figure 1. Capture the barrel of the spade connector on the fuel
+   pump power wire with the cushioned clamp as shown in Figure 2, Detail
+   A-A.                                                                                                                        FIGURE 1:
+                                                                                                                        ELECTRICAL CONNECTIONS
+   Step 3: Connect the remaining spade connector coming from the
+   ES-00102 Noise Filter to the WH-RV12-TUNNEL Tunnel Wiring Harness
+   as shown in Figure 1.
+
+   Step 4: Remove the right-side mount bolt and washer from the ES 40105
+   Fuel Pump. Slip the ES-00102 Noise Filter ground wire ring terminal onto
+   the shank of the mount bolt (underneath the washer), then reinstall the
+   mount bolt.
+                                                                                                                    A                              CUSHIONED CLAMP
+
+                                                                                                                                               BARREL OF SPADE                   STATIC TUBE
+   Step 5: Secure the body of the ES-00102 Noise Filter to the static tube
+                                                                                                                                                    CONNECTOR                      AND WIRE
+   and wire bundle using plastic tie wraps. Capture the barrel of the spade
+                                                                                                                             BARREL OF            (CAPTURED BY
+   connector (connected in Step 3) with one of the plastic tie wraps as
+                                                                                                                                  SPADE       CUSHIONED CLAMP)
+   shown in Figure 2, Detail A-A. Orient the noise filter so that it rests on the
+                                                                                                                            CONNECTOR
+   F-1276 Bottom Skin.
+                                                                                                                          (CAPTURED BY
+                                                                                                                              TIE-WRAP)
+   Step 6: Lift the ES-00102 Noise Filter and apply a liberal amount of RTV
+   Sealant to the F-1276 Bottom Skin where the noise filter will rest as
+   shown in Figure 2. Seat the noise filter into the RTV Sealant.
+
+
+
+
+                                                                                    A
+                                                                                                                            PLASTIC TIE
+                                                                                                                                 WRAP
+
+                                                                                                 F-1276                                                          DETAIL A-A
+                                                                                          ES-00102
+
+                                                                           RTV SEALANT
+                                                                                         FIGURE 2:
+                                                                                         MOUNTING
+
+
+
+
+PAGE   OP-50 RV-ALL REVISION: 0        DATE: 06/09/09
+

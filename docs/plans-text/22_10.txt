@@ -1,0 +1,535 @@
+                                                                                      VAN'S AIRCRAFT, INC.
+      FL-1005-R
+       MAIN RIB
+
+
+ FL-1006
+DOUBLER,
+2 PLACES                                        FL-1005-L
+                                                MAIN RIB,
+                                               10 PLACES
+                                                                  SECTION 22:
+                                                                  FLAP
+FL-1004-R
+NOSE RIB,
+4 PLACES
+                                                              FL-1009A
+                                                            TRAILING EDGE
+                                                                        FL-1009B
+                                                                      TRAILING EDGE
+
+
+                  FL-1004-L
+                  NOSE RIB,
+                  6 PLACES
+
+                              FL-1003-L
+                                SPAR
+
+
+                                           FL-1008
+                                          SPACER,
+                                          2 PLACES
+
+
+
+
+                                                                          FL-1007-R
+                                                                       HINGE BRACKET,
+                                                                          3 PLACES
+                                                                                          FL-1007-L
+                                                                                       HINGE BRACKET,
+                                                                                          3 PLACES
+
+
+
+
+                                                                                         DATE: 07/24/14 REVISION: 0   RV-10   PAGE   22-1
+                       VAN'S AIRCRAFT, INC.
+                        NOTE: This manual provides building instruction for the left flap only; the right flap is simply the mirror of the left.   Step 4: Make the outboard rod end rib subassembly by clecoing an FL-1006 Doubler to an FL-1004-L Nose Rib as shown in
+                        Unless otherwise specified, any instructions given for the left flap applies to the right as well. To help prevent         Figure 4. Final-Drill #30 the 1/8" holes common to the two parts.
+                        mistakes and speed up the construction process, assemble both flaps at the same time.
+                                                                                                                                                   Final-Drill the 1/4" hole in the doubler and the corresponding 1/8" hole in the rib using a 1/4" drill.
+  Step 1: The construction of the flap requires a flat work surface and three cradles (three per flap, six total) to hold the flap upright
+  when riveting. Make some of them from the same material supplied for the wing leading edge and tank cradles as shown in Figure 1.                Match-Drill #40 the two 3/32" doubler holes into
+  Using an FL-1004 Nose Rib as a template, cut out the cradles. As shown in Figure 2, cut them slightly oversize to allow for padding,             the nose rib. Machine countersink these two
+  such as duct tape, to prevent scratching the skins.                                                                                              holes in the doubler for AN426AD3
+                                                                                                                                                   rivets, flush on the side indicated
+                                                                                                                                                   in the figure.                                                                                     FINAL-DRILL
+                          5 5/8
+                                                                                        PAD                                                                                                                                                           1/4 DIA.
+
+
+
+                                            6 11/16
+
+                                                                                                                         WOOD BLOCK
+                                                                                                                         (NOT SUPPLIED
+                                                                                                                         IN KIT)                                    FL-1004-L
+                                                  USE
+                                                  MATERIAL
+                                                  FROM VB-11
+                                                  CUTOUT.                                                                                                                                                                                                           MATCH-DRILL #40,
+                                                  SEE PAGE                                                                                                                                                                                                          MACHINE C'SINK
+                                                  17-2, FIG. 4                                                                                                                                                                                                      THIS SIDE
+
+                                                                                      FIGURE 2: CRADLE
+          FIGURE 1: CRADLE MATERIAL                                                                                                                                                                       FL-1006
+
+
+                                                                                                                                                                                FIGURE 4: OUTBOARD ROD END RIB SUBASSEMBLY
+   Step 2: Identify all the flap components from Page 22-1. Adjust all rib flange angles to 90° except for the FL-1005-R Main Rib whose
+   spar attach flange must be over bent to allow the rib to angle inboard and hug the tapering fuselage. The match holes in the FL-1001C
+   Top Skin and FL-1002 Bottom Skin will determine this angle. Cleco the FL-1005-R Main Rib to the bottom skin at the inboard end as               Step 5: Make the inboard rod end rib subassembly by clecoing an FL-1006 Doubler to an FL-1004-R Nose Rib as shown in
+   shown on Page 22-1. Bend the rib's spar attach flange until it's parallel to the forward edge of the skin.                                      Figure 5. Final-Drill #30 the 1/8" holes common to the two parts.
+
+   Step 3: Layout and drill #40 the joggled portion of the three FL-1007-L Hinge Brackets as shown in Figure 3.                                    Final-Drill the 1/4" hole in the doubler and the corresponding
+                                                                                                                                                   1/8" hole in the rib using a 1/4" drill.
+  CAUTION: Do not drill the joggled portion of the FL-1007-R Hinge Brackets at this time. They will be match-drilled from the
+  FL-1007-L Hinge Brackets while assembled on the FL-1003-L Spar.
+
+                                                                                                                DRILL #40                                                              FINAL-DRILL
+                                                                                                                4 PLACES                                                                   1/4 DIA.
+                                                                                                                FL-1007-L ONLY
+
+
+                                                                                                                                                                                                                                                                           FL-1004-R
+                                                                                                                                                                           FL-1006
+
+                                                                                                         2X 1 3/32
+
+                                                                                                                       2X 3/8
+                                                                                                                                                                          IGNORE
+                                                                                                                                                                           THESE
+                                                                                                                                                                            TWO
+                                                                                                                                                                           HOLES
+                 FL-1007-L                                                             4X 1/4
+
+
+
+                                   FIGURE 3: DRILL LEFT HINGE BRACKETS ONLY                                                                                                                  FIGURE 5: INBOARD ROD END RIB SUBASSEMBLY
+
+
+PAGE   22-2    RV-10      REVISION: 0   DATE: 07/24/14
+Step 1: Cleco together two left hinge pair rib subassemblies which are made up                            Step 3: Flatten two FL-1008 Spacers if/as required since they
+                                                                                                                                                                                           VAN'S AIRCRAFT, INC.
+of an FL-1004-L Nose Rib and an FL-1007-L Hinge Bracket as shown in Figure 1.                             may be bowed due to the punching process.
+                                                                                                                                                                                                           1 11/16
+Final-Drill #30 the 1/8" holes common to the two parts.                                                   Make sure they nest between the FL-1007-L and FL-1007-R
+                                                                                                          Hinge Brackets without gaps.
+                                                                                                                                                                                                                13/16
+                                                                                                          If desired, drill optional lightening holes in the spacers using
+                                                                                                          the dimensions provided in Figure 3.
+                                                                                                                                                                                  1 DIA.
+                                                                                                                                                                                                                           13/16
+                                                                                                                                                                                                                                    1 15/32
+                                                                                                                                                                                                                                               1 27/32
+
+
+
+
+                                                                                                                                                                                                                                   2X 1/2 DIA.
+                                        FL-1004-L
+                                                                                                                                                                             FL-1008
+                                                                                                                                                                                               FIGURE 3: SPACER
+                                                           FL-1007-L
+
+
+
+                                                                                                          Step 4: Cleco together the center hinge subassembly using the parts shown in Figure 4. Space the FL-1007-L & -R Hinge
+                                                                                                          Brackets using the washers shown and insert a 1/4 in. bolt to maintain alignment.
+
+                                         FIGURE 1: LEFT HINGE PAIR RIB SUBASSEMBLY                        Final-Drill #30 the nine 1/8" holes common to all six parts.
+
+                                                                                                          CAUTION: Do not drill the joggled portion of
+                                                                                                          the FL-1007-R Hinge Brackets.
+                                                                                                                                                                 FL-1008
+Step 2: Cleco together two right hinge pair rib subassemblies which are made up                           Step 5: Disassemble the parts, deburr, and
+                                                                                                          reassemble using clecos but do not reinstall                                                                                        FL-1004-R
+of an FL-1004-R Nose Rib and an FL-1007-R Hinge Bracket as shown in Figure 2.
+                                                                                                          the hardware.
+Final-Drill #30 the 1/8" holes common to the two parts.
+
+
+
+                                                                                                                                                                                                                               FL-1007-R
+
+
+
+                                                                                                                                                                                                                                   AN960-416,
+                                                                                                                                                                                                                                   2 PLACES
+                                                                                              FL-1004-R
+
+                                                                                                                                  FL-1004-L
+
+
+                                                                                                                                                                                                                                         AN310-4
+
+
+                                                                                                                                                 FL-1007-L
+
+                                                                                                                                                                                                           AN960-416
+                                                                                                                                                                                                           USE AS TEMPORARY
+                                                                                                                                         AN4-7                                                             SPACERS
+                                                                                  FL-1007-R
+
+                                                                                                                                                                               AN960-416L
+
+
+
+                                          FIGURE 2: RIGHT HINGE PAIR RIB SUBASSEMBLY
+                                                                                                                                                       FIGURE 4: CENTER HINGE SUBASSEMBLY
+
+                                                                                                                                                                                              DATE: 07/24/14 REVISION: 0     RV-10        PAGE   22-3
+                        VAN'S AIRCRAFT, INC.
+
+
+
+   Step 1: Trim away the small tab which has no pre-punched hole on all FL-1005-L
+   and FL-1005-R Main Ribs as shown in Figure 1. Trim only as deep as the notch.
+   This will permit dimpling of the rivet hole in the lower aft-most flange.
+
+
+                                                                                                                                            ROD END RIB
+                                                                                                                                           SUBASSEMBLIES
+
+
+
+                                                                                                                                     HINGE PAIR
+         FL-1005-L                                                                                                                 SUBASSEMBLIES
+
+                                                REMOVE TAB
+
+
+
+                         FIGURE 1: TRIM MAIN RIBS                                                                 FL-1004-L
+                                                                                                                  2 PLACES
+
+
+
+
+                                                                                                                                                           FL-1005-R
+
+                                                                                                      FL-1003-L
+                                                                                    CENTER HINGE
+  Step 2: Cleco the FL-1004-L Nose Ribs, FL-1005-L and FL-1005-R Main
+                                                                                    SUBASSEMBLY
+  Ribs, and the rod end rib, hinge pair, and center hinge subassemblies to the
+  FL-1003-L Spar as shown in Figure 2. Make sure all rib flanges face in the
+  directions shown.
+
+  Final-Drill #30 the holes common to these parts and to the spar web.
+
+
+
+                                                                                                                                               FL-1005-L
+                                                                                                                                              10 PLACES
+
+
+
+
+                       HINGE PAIR
+                     SUBASSEMBLIES
+
+
+
+
+                                                                                                   FIGURE 2: ATTACHING RIBS AND HINGE SUBASSEMBLIES
+
+
+
+
+PAGE   22-4    RV-10     REVISION: 0   DATE: 07/24/14
+                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+Step 1: Cleco the FL-1002 Bottom Skin, FL-1001C Top Skin, FL-1001A-L Inboard
+Nose Skin and FL-1001B-L Outboard Nose Skin in place as shown in Figure 1.
+                                                                                                                             FL-1001A-L
+
+                                                                                                                                                                                             CLECO SECOND HOLE
+Step 2: Cleco the FL-1009A & B Trailing Edges to the FL-1002 Bottom Skin and                                                                                                                  IN FL-1009A TO FIRST
+FL-1001C Top Skin as shown in Figure 1 (the trailing edges are cut from lengths of                                                                                                                 HOLE IN FL-1002
+VA-140 as in the aileron and empennage). Trim the trailing edges flush with the
+inboard and outboard edges of the bottom skin. For more information regarding
+riveted trailing edge construction see Section 5H.
+
+Final-Drill #40 all skin to skeleton holes. Note: When drilling the trailing edge,
+                                                                                                 FL-1003-L
+drill perpendicular to the centerline of the trailing edge extrusion, not
+perpendicular to the surface of the top skin.
+
+
+
+Step 3: Install the hardware into the FL-1007-L/R Hinge Brackets as shown on
+Page 22-3, Figure 4.
+
+Match-Drill all FL-1007-R Hinge Bracket flanges using the holes in the FL-1007-L                                                                                                                         TRIM FLUSH
+Hinge Bracket flanges as drill guides as shown in Figure 2. Remove the hardware                                                                                                                           WITH SKIN
+when drilling is complete.
+
+Mark the hinge brackets as pairs and for their location on the spar.
+
+
+
+
+                              FL-1001C                                                                                                                             MATCH-DRILL #40
+                                                                                                                                                                  4 PLACES PER PAIR
+
+ FL-1001B-L
+
+
+                                                                                                                                                                                  FIGURE 2: MATCH-DRILL
+                                                                                                                                                                                 HINGE BRACKET FLANGES
+                                                                                                                        FL-1009A
+
+
+                                                                                                             FL-1009B
+
+                                                                                                                                          Step 4: Disassemble the flap.
+
+                                                                                                                                          Step 5: Machine countersink the holes on both sides of the FL-1009A & B Trailing
+                                                                                                                                          Edges.
+
+                                                                                                                                          Machine countersink the four holes on the non-mating side of the joggled flanges of
+                                                                                     FL-1002                                              each FL-1007-L and FL-1007-R Hinge Bracket since they will be double-flush
+                                                                                                                                          riveted.
+
+                                                                                                                                          Step 6: Deburr and dimple the holes in the skins (be sure to dimple the correct
+                                                                                                                                          side), ribs, and spar. Note: The holes in the skins that will receive MK-319-BS
+                                                                                                                                          blind rivets will be final-drilled in assembly to #33 (0.113 in.) later. For now
+                                                                                        FIGURE 1: ATTACHING SKINS AND TRAILING EDGES      dimple them just as you would to receive AN426 rivets. See Page 22-9,
+                                     TRIM FLUSH                                                                                           Figures 1, 2 and 4 for their locations.
+                                     WITH SKIN
+                                                                                                                                          Prime the parts if/as desired.
+
+
+                                                                                                                                                                           DATE: 07/24/14 REVISION: 0   RV-10    PAGE   22-5
+                       VAN'S AIRCRAFT, INC.                              Step 3: Rivet together the two left hinge pair rib subassemblies using    Step 5: Double flush rivet the
+                                                                         the rivets called out in Figure 3.                                        joggled flanges of the left and
+                                                                                                                                                   right hinge pair subassemblies
+                                                                              AN470AD4-4                                                           together using the rivets called
+  Now begins final assembly and riveting.                                       9 PLACES                                                           out in Figure 5. Install the                                              RIGHT HINGE
+                                                                                                                                                   hardware shown on Page 22-3,                                              PAIR RIB SUB-
+   Step 1: Rivet the outboard rod end rib subassembly together using                                                                               Figure 4 to maintain alignment of                                         ASSEMBLY
+   the rivets called out in Figure 1.                                                                                                              the 1/4" hole at the bottom of the
+                                                                                                                                                   FL-1007 Hinge Brackets while
+                                                                                                                                                   riveting. Two hinge pair
+                                                                                                                                                   subassemblies are required per
+                          MK1000-428                                                                                                               flap.
+
+                                                   FL-1004-L
+
+                                                                          FL-1004-L                                                                                LEFT HINGE PAIR
+                                                  AN426AD3-4.5                                                                                                    RIB SUBASSEMBLY
+                                                     2 PLACES                                    FL-1007-L
+
+                                                                                                                                                                                                                      AN426AD3-3.5
+                                                                                                                                                                                                                      4 PLACES
+
+
+                                                                               FIGURE 3: LEFT HINGE                                                                         FIGURE 5: HINGE PAIR SUBASSEMBLY
+                                                                              PAIR RIB SUBASSEMBLY
+              AN470AD4-4
+              8 PLACES
+
+                       FL-1006
+                                                                                                                                                   Step 6: Rivet together the center hinge subassembly using                      FL-1004-R
+          FIGURE 1: OUTBOARD ROD END RIB                                                                                                           the rivets called out in Figure 6. Double flush rivet the
+                   SUBASSEMBLY                                           Step 4: Rivet together the two right hinge pair rib subassemblies using   joggled flanges. Install the hardware shown on Page 22-3,
+                                                                         the rivets called out in Figure 4.                                        Figure 4 to maintain alignment of the 1/4" hole at the bottom
+                                                                                                                                                   of the FL-1007 Hinge Brackets while riveting.
+
+
+
+                                                                          AN470AD4-4
+  Step 2: Rivet the inboard rod end rib subassembly together using the      9 PLACES
+  rivets called out in Figure 2. Place the manufactured head on the
+  thinner material.
+                                                                                                                                                   AN470AD4-10
+                                                                                                                                                                                                                                     FL-1008
+                                                                                                                                                    9 PLACES
+                FL-1004-R
+
+
+   FL-1006                                                                                                                     FL-1004-R
+
+
+
+
+                                          AN470AD4-4                                                                                                                                                                              FL-1007-R
+                                                                                                                 FL-1007-R                                    FL-1004-L
+                                            8 PLACES
+
+                                                                                                                                                                                                                   AN426AD3-3.5
+                                                                                                                                                                                                                   4 PLACES
+         FIGURE 2: INBOARD ROD END RIB
+                 SUBASSEMBLY
+                                                                                                          FIGURE 4: RIGHT HINGE                                                                     FL-1007-L
+                                                                                                          PAIR RIB SUBASSEMBLY
+                                                                                                                                                                       FIGURE 6: CENTER HINGE SUBASSEMBLY
+PAGE   22-6    RV-10     REVISION: 0   DATE: 07/24/14
+Step 1: Using AN470AD4-4 rivets, rivet the FL-1004-L Nose Ribs, FL-1005-L and FL-1005-R Main Ribs, rod                               Step 3: Put the flap in the cradles as shown in Figure 3. Remove
+                                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
+end rib subassemblies, hinge pair subassemblies, and center hinge subassembly to the FL-1003-L Spar                                  the clecos along the top flange of the FL-1003-L Spar, then slip the
+web as shown in Figure 1. The nose and main ribs on each end of the spar share rivets. Remove the                                    FL-1001C Top Skin into place between the FL-1001A-L & B-L Nose
+hardware from all of the hinge brackets.                                                                                             Skins and the spar. Cleco the nose skins and top skin to the spar                               FL-1001C
+                                                                                                                                     and FL-1005-L and FL-1005-R Main Ribs.
+                                                                              ROD END RIB                    FL-1005-R
+                                                                           SUBASSEMBLIES
+
+
+                                                                            HINGE PAIR
+                                                                        SUBASSEMBLIES
+
+
+
+                                         CENTER HINGE
+                                         SUB ASSEMBLY
+
+                       FL-1004-L
+                       2 PLACES
+
+  HINGE PAIR
+SUB ASSEMBLIES                                                                                   FL-1005-L
+                                                                                                10 PLACES
+
+                                                                                                                                                                        FIGURE 3:
+                                                                                                                                                                   ATTACHING TOP SKIN
+                                                               FL-1003-L
+
+
+
+                                                                                                                                     NOTE: All the rivets used to attach the skins to the skeleton can be found on Page 22-9, Figures 1,2,3, and 4.
+                                                 FIGURE 1: RIVETING RIBS AND SUB ASSEMBLIES
+                                                                                                                                     Step 4: Rivet the FL-1001A-L Inboard Nose Skin, FL-1001B-L Outboard Nose Skin, FL-1001C Top Skin, and the small flange at the
+                                                                                                                                     front of the FL-1005-L & -R Main Ribs to the top flange of the FL-1003-L Spar as shown in Figure 4. Some rivet holes have been
+                                                                                                                                     omitted for clarity.
+Step 2: Put a slight bend in the trailing edges of the FL-1001A-L Inboard Nose Skin and FL-1001B-L Outboard Nose Skin so that they
+will lay down flat and tight on the FL-1001C Top Skin and FL-1002 Bottom Skin after riveting. Slide the inboard nose skin and the    Step 5: Rivet the FL-1001C Top Skin to the
+outboard nose skin over the FL-1007 Hinge Brackets and cleco the nose skins in place as shown in Figure 2. This makes the                                                                                          FL-1001C
+                                                                                                                                     FL-1005-L and FL-1005-R Main Ribs. Don't,
+FL-1003-L Spar somewhat rigid. Use only a few clecos on the top; they will be removed in the next step.                              however, install the two aft-most rivets                  RIVET LOCATIONS
+                                                                                                                                     (AN426AD3-3's, see Page 22-9, Figure 3)                      FOR STEP 5.
+                                                                                                                                     in each main rib; these will be back driven later.            TYPICAL
+                                                           FL-1001B-L
+
+
+
+
+         FL-1003-L                                                                                                                                 FL-1005-R
+                                                                                     FL-1001A-L
+
+
+
+
+                                                                                            SKIN INTENTIONALLY                             FL-1004-R
+                                                                                              OVERLAPS RIBS
+                                                                                             AT INBOARD END.                                                                                                                                       FL-1001B-L
+
+
+                                                                                                                                                                                                                                         RIVET LOCATIONS
+                                                                                                                                                                                                                                            FOR STEP 4.
+                                                                                                                                                                                                                 FL-1001A-L
+                       FIGURE 2: ATTACHING NOSE SKINS
+                                                                                                                                                                                                    FIGURE 4: RIVETING NOSE AND TOP SKINS
+
+                                                                                                                                                                                                                  DATE: 07/24/14 REVISION: 0   RV-10   PAGE   22-7
+                       VAN'S AIRCRAFT, INC.                                                                                              Step 4: Lay the flap top side down on a very flat surface as shown in
+                                                                                                                                         Figure 3.
+                          Step 1: Remove the structure from the cradles and lay it top side down on a flat plate, letting the nose rib                                                                                                                          FL-1009
+                          clecos hang over the edge of the table. Back rivet the two aft most rivets in the top flange of the FL-1005    Step 5: Using the directions for cleaning the fuel tank components in
+                          Main Ribs to the FL-1001C Top Skin as shown in Figure 1. (AN426AD3-3.5 Rivets, which were used to              Section 5S, clean the FL-1009A and B Trailing Edges and the                                                    FL-1002
+                          attach the forward portion of the ribs to the skins, have a tendency here to bend over when back riveting.     contact area of the trailing edge along both FL-1001C Top Skin and
+                          Therefore, the shorter AN426AD3-3 rivets are used.)                                                            FL-1002 Bottom Skin. These parts need to be cleaned in
+                                                                                                                                         preparation for applying fuel tank sealant which will bond the trailing
+                                                                                                                                         edge together before riveting and help insure a straight trailing edge
+                                                                                                                                         after riveting.
+                                              FL-1005-L
+                                                                                                                                         NOTE: The tank sealant currently sold by Van's has a working
+                                                                                                                                         time of two hours. Steps 6 through 8 will have to be                                                         OMIT
+                                                                                                                                         accomplished within this time.                                                                              CLECOS
+                                                                                                                                                                                                                                                                           FL-1001C
+
+                                                                                                                                                                                                                      FIGURE 3: RIVETING BOTTOM SKIN
+                                        BACK RIVET
+
+                                                         FL-1001C
+                                                                                                                                         Step 6: Mix and apply a thin coat of tank sealant to both surfaces of the FL-1009A and FL-1009B Trailing Edges.
+                                                FIGURE 1: BACK RIVETING TOP SKIN                                                         Cleco the trailing edge to the FL-1001C Top Skin and the FL-1002 Bottom Skin as shown in Figure 3.
+
+                                                                                                                                         Step 7: Cleco the FL-1002 Bottom Skin to the FL-1005-L and -R Main Ribs. CAUTION: Do not cleco the aft most main rib hole
+  Step 2: Reposition the cradles on the bench as shown in Figure 2. Place the flap back into the cradles. Remove clecos from the         because the top skin may be dented since the cleco tip is longer than the trailing edge is deep.
+  bottom flange of the FL-1003-L Spar.
+                                                                                                                                         Step 8: Weight the flap down to keep it flat until the tank sealant has cured.
+  Insert the FL-1002 Bottom Skin between the FL-1001A-L and FL-1001B-L Nose Skins and the spar. Cleco the bottom skin and nose
+  skins to the spar only.
+
+  Rivet the bottom and nose skins to the spar only.                                                                                      Step 9: After curing remove the clecos only from the trailing edge. Clear the holes of any sealant with a drill spun
+                                                                                                                                         with your fingers. Keep the weight on the flap.
+  Step 3: Final-Drill #33 the underside of the FL-1001A-L and FL-1001B-L Nose Skins to the FL-1004 Nose Ribs. Blind rivet these
+  holes.                                                                                                                                 Step 10: Final-Drill #33 then blind rivet the FL-1002 Bottom Skin to FL-1005-L and FL-1005-R Main Ribs.
+
+  Remove the flap from the cradles. Final-Drill #33 the top side of the nose skin to nose rib holes, then blind rivet.                   Step 11: Rivet, using a hand squeezer, the solid rivets into the FL-1005 Main Ribs at each end of the flap.
+
+                                                                    FL-1002                                                              Step 12: Refer to Section 5H to complete the riveting of the flap trailing edge.
+
+
+                                                                           FL-1001B-L                                                    Step 13: Press fit a BUSHING
+                                                                                                                                         1/4X3/8X.250 into the flap attach hole in
+                                                                                                                                         each of the six W-1025A Flap Hinge
+                                                                                                                                         Brackets . See Figure 4.
+
+                                                                                                                                         Step 14: Attach the CM-4M Rod End to
+                                                                                           FL-1001A-L                                    the flap's inboard end using the
+                                                                                                                                         hardware shown in Figure 5. This step
+                                                                                                                                         may be delayed until after painting.          AN4-11A
+                                                                                                                                                                                      AN960-416
+                                                                                                                                         Use the hardware shown to attach the         AN960-416L
+                                                                                                                                         flap to the flap hinge brackets.
+                                                                                                                                                                                                                                                                           CM-4M
+                                                                                                                                                 BUSHING 1/4X3/8X.250                            AN4-7
+                                                                                                                                                                            FLAP             2X AN960-416                                                                 W-1025A
+                                                                                                                                                                            ATTACH            AN960-416L
+                                                                                                                                                                            HOLE                AN310-4
+                                                                                                                                                                                             MS24665-151
+                                                               FL-1003-L                                                                                                                       3 PLACES
+                                                                                                                                                                          W-1025A
+
+
+                                                                    FIGURE 2: BOTTOM SKIN INSTALLATION                                     FIGURE 4: BUSHING PRESS FIT                                              FIGURE 5: ATTACHING ROD END
+PAGE   22-8    RV-10      REVISION: 1   DATE: 07/24/14
+                                                                                                                 VAN'S AIRCRAFT, INC.
+                                RIVET LEGEND
+                                  AN426AD3-3
+                                  AN426AD3-3.5
+                                  AN426AD3-4
+                                  MK-319-BS
+
+
+
+
+FIGURE 1: FL-1001B-L OUTBOARD NOSE SKIN RIVETS                                          FIGURE 2: FL-1001A-L INBOARD NOSE SKIN RIVETS
+
+
+
+
+                                                  FIGURE 3: FL-1001C TOP SKIN RIVETS
+
+
+
+
+                                                 FIGURE 4: FL-1002 BOTTOM SKIN RIVETS
+
+
+                                                                                                                    DATE: 07/24/14 REVISION: 0   RV-10   PAGE   22-9
+                   VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                      THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE   22-10   RV-10   REVISION: 0   DATE: 07/24/14
+

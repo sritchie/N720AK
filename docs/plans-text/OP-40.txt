@@ -1,0 +1,846 @@
+                                                                                                                                             VAN'S AIRCRAFT, INC.
+
+
+OP-40: O-360 COWL
+                                                                                       CB-707D
+                                                                   AFT CENTER SUPPORT BRACKET
+
+                                                                                 CB-707E
+                                                                           DOUBLER PLATE
+
+
+
+     BAFFLE                                                            CB-707A
+                                                         RIGHT AFT CASE BAFFLE
+                                                                                                                 CB-706A
+                                                                                                                LEFT AFT
+                                                                                                             CASE BAFFLE
+
+
+
+                                                                                                                                   CB-705B
+                                              CB-708A                                                                          OIL COOLER
+                                    CYLINDER 3 BAFFLE                                                                               BRACE
+
+                                   CB-701D
+                       FWD CENTER BRACKET
+                                                                                                                                                                      CB-705A
+                                                                                                                                                                      CYLINDER 4
+                                                                                                                                                                      AFT BAFFLE
+                     CB-1010G
+                         CLIP
+
+                CB-1009A
+       CYLINDER 1 BAFFLE
+
+
+
+
+                                                                                   CB-1002B
+                                                                                 STIFFENER                                                                              CB-1004C
+                                                                                                                                                                        STIFFENER
+                CB-710J
+        CONICAL GUSSET
+                                                                                                                                                                             CB-1004A
+                                                                                                                                                                             CYLINDER 4 BAFFLE
+                    CB-710B
+                 STIFFENER                                                                                                                                                   (ALSO CALLED
+                                                                                                                                                                             CYLINDER 6 BAFFLE)
+                        CB-710A
+             FWD RIGHT AIR RAMP
+
+                          CB-1010C                                                                                                                                    CB-1004B
+                     RIGHT AIR DAM                                                                                                                                    DOUBLER
+                                                                                              CB-702Q                                                                 PLATE
+                                   CB-711A
+                              FRONT BAFFLE                                                    CLIP
+                                                                                                                                                                CB-1003D
+                                                                                                                                                                CLIP,
+                                                                                                                                                                2 PLACES
+                                                                                                                         CB-1003C
+                                                                                                                         DOUBLER PLATE,
+                                                                                                                         7 PLACES
+                                                        CB-701A       CB-702P
+                                                   FRONT BAFFLE          CLIP
+                                                                                                                            CB-1003A
+                                                                                                            CB-1002C        CYLINDER 2 BAFFLE
+                                                                                                            LEFT AIR DAM
+                                                                                CB-1002A                CB-702J
+                                                                       FWD LEFT AIR RAMP                CONICAL GUSSET
+                                                                                                                                                DATE OF COMPLETION:
+                                                                                                                                                PARTICIPANTS:
+
+                                                                                                                                                DATE: 09/11/14 REVISION: 2    O-360    PAGE   OP40-1
+                      VAN'S AIRCRAFT, INC.
+
+
+
+  Step 1: Mark the part numbers on all parts of both the CB-1000A and CB-700E Baffle Stiffeners per the   Step 3: Break the CB-1000B Left & Right Air Dams shown in Figure 3 into a CB-1002C Left Air Dam and a CB-1010C Right Air
+  callouts in Figure 1 and Figure 2.                                                                      Dam.
+
+
+
+                                       REMOVE HATCHED AREA,
+                                       TYP.
+
+
+
+                                                          CB-1002B
+
+                                                                                                              REMOVE HATCHED AREA,
+               CB-1010G                                                                                                   2 PLACES
+
+
+              CB-1002G
+
+                                                                                         CB-1008B
+
+
+
+                                                                                                                                                                                                       CB-1010C
+
+              FIGURE 1: SEPARATING THE CB-1000A
+                     BAFFLE STIFFENERS
+
+
+                                                                                                                                                                      CB-1002C
+  Step 2: Remove the hatched areas from both the CB-1000A and CB-700E Baffle Stiffeners as shown in
+  Figure 1 and Figure 2, then deburr the edges and round the corners (to remove the notches) on all
+  individual parts.
+                              CB-702M
+                                                                                                                                  FIGURE 3: SEPARATING THE LEFT AND RIGHT AIR DAMS
+
+                                                   CB-1004C
+
+
+
+
+                                                                         REMOVE HATCHED AREA,
+                                                                         TYP.
+
+
+
+                                                                                             CB-710B
+
+
+
+
+              FIGURE 2: SEPARATING THE CB-700E BAFFLE STIFFENERS
+
+
+PAGE OP40-2    0-360     REVISION: 0   DATE: 12/4/06
+NOTE: FF-709 and its associated attach hardware is available in an optional kit for those that wish to mount the oil cooler on the
+                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+baffle. It may be obtained by ordering the EA OIL COOLER MOUNT KIT from Van's Aircraft.
+
+Step 1: Cleco then final-drill #40 the CB-1003C and CB-1004B Doubler Plates to the CB-1004A Cylinder 4 Baffle. See Figure 1.
+
+Step 2: Disassemble then deburr the CB-1003C and CB-1004B Doubler Plates and the CB-1004A Cylinder 4 Baffle. Dimple the rivet holes                                                                  CB-706A
+in the doubler plates and the corresponding holes in the cylinder 4 baffle. Rivet the CB-1003C and CB-1004B Doubler Plates to the
+                                                                                                                                                                                                                           AN470AD4-4,
+CB-1004A Cylinder 4 Baffle (flush head on the inboard face). Rivet callouts are given in Figure 1.
+                                                                                                                                                                                                                           5 PLACES
+Step 3: Position the CB-705B Oil Cooler Brace on the CB-705A Cylinder 4 Aft Baffle per plans page OP-27A. See Figure 2. Match-Drill                                                                                                CB-705A
+#40 the holes in the aft flange of the oil cooler brace into the cylinder 4 aft baffle. Cleco then final-drill #40 the FF-709 Doubler to the holes
+just drilled. Match-Drill #40 and #12 the remaining holes in the doubler into the cylinder 4 aft baffle.
+
+Step 5: Using the ignition hole as called out in Figure 2 as a starting point, create a cutout for the ignition wire harness seal (size and
+                                                                                                                                                                                                                                                     FF-709
+shape varies). Final-Drill #12 the two ignition wire seal attach holes.
+
+Step 6: Create the FF-713 Spacer as shown on plans page OP-27A. Align the FF-713 Spacer with the edges of the CB-705A Cylinder 4
+Aft Baffle. Match-Drill #30 the two lower holes into the spacer using the aft baffle as a drill guide. Using the two holes just match-drilled,
+cleco the CB-1004A Cylinder 4 Baffle to the spacer and aft baffle. Match-Drill #40 and #12 the remaining flange holes common to the
+FF-709 Doubler into the spacer and cylinder 4 baffle.
+                                                                                                                                                                                      AN470AD4-4,
+Step 7: Cleco the CB-706A Left Aft Case Baffle to the assembly from Step 6.                                                                                                             6 PLACES
+Final-Drill #30 the five holes common between the left aft case baffle and                                                       IGNITION WIRE HOLE
+the cylinder 4 aft baffle.
+
+Step 8: Final-Drill #27 the hole in the lower flanges of the CB-705A Cylinder                                                                                              CB-1004A
+4 Aft Baffle and CB-706A Left Aft Case Baffle. See Figure 2.
+
+Step 9: Cleco the CB-1004C Stiffener to the CB-1004A Cylinder 4 Baffle.                                                                                                                                                                       AN470AD4-5,
+Final-Drill #30 the holes common between these two parts.                                                                                                                                                                                     2 PLACES
+                                                                                                                                                                              CB-1004C
+                                                                                                                                                      CB-705B
+Step 10: Match-Drill #30 and #40 the holes common between the CB-705B
+                                                                                                                                                                                 CB-1003C
+Oil Cooler Brace, CB-1004A Cylinder 4 Baffle and the CB-706A Left Aft
+Case Baffle as shown in Figure 2.                                                                                                                                            AN426AD3-3.5,
+                                                                                                                                                                                5 PLACES
+Step 11: Disassemble and deburr then recleco all parts shown in                                                                                                                                                                          FF-713 SPACER
+Figure 1 and Figure 2.                                                                                                                                MATCH-DRILL #40                                                  CB-1004B
+
+Step 12: Rivet the CB-705B Oil Cooler Brace to the Cylinder 4 Baffle
+Assembly per the callouts in Figure 1. Note it may be easier to postpone                                                                                                                      FIGURE 1: CYLINDER 4 ASSEMBLY
+this step until the baffles have been fitted to the Top Cowl on OP40-11.
+
+Step 13: Rivet all the remaining parts together per the callouts in Figure 1
+and plans page OP-27A. Note it may be easier to postpone this step
+until the baffle has been fitted to the cowl.                                                                                                                   CB-1004A
+
+                                                               CB-706A
+
+
+                                                                                                                                                                 FINAL-DRILL #12,
+                                                                                                                                                                 2 PLACES
+
+
+
+
+                                                                                             FINAL-DRILL #27
+                                                                                                   2 PLACES
+                                                                                                                                                                       CB-705A
+
+
+                                                                                  FIGURE 2: MATCH-DRILLING THE OIL COOLER BRACE
+                                                                                                                                                                                                               DATE: 12/4/06   REVISION: 0   0-360   PAGE   OP40-3
+                        VAN'S AIRCRAFT, INC.
+                                                                                                                                   Step 8: Disassemble then deburr the holes and edges in all the Cylinder 3 Baffle Assembly parts. Dimple the
+                                                                                                                                   rivet holes in the CB-1003C Doubler Plates and CB-707E Doubler Plate and the corresponding holes in the
+                                                                               REMOVE                                              CB-708A Cylinder 3 Baffle (flush head on the inboard side) and CB-707A Right Aft Case Baffle (flush head aft
+                                                                              HATCHED                                              side).
+   Step 1: Cleco the CB-1007B Aft Right Support Bracket
+                                                                                 AREA
+   to the CB-707A Right Aft Case Baffle. Final-Drill #30
+   the holes common between these parts. See Figure 1.                                                                             NOTE: it may be easier to cleco some parts and postpone riveting until after fitting the baffles to the
+                                                                                                                                   cowl.
+  Step 2: Cleco the CB-708A Cylinder 3 Baffle to the
+  CB-707A Right Aft Case Baffle. Final-Drill #30 the               POSITION INBD                                                   Step 9: Rivet the CB-1007B Aft Right Support Bracket to the CB-707A Right Aft Case Baffle. See Figure 1.
+  holes common between these parts. See Figure 1.                 AS NESSESARY
+                                                                PER THE LENGTH OF                                                  Rivet the CB-1008B Stiffener to the CB-708A Cylinder 3 Baffle. See Figure 2.
+                                                               THE IGNITION HARNESS                       REMOVE
+  Step 3: Cleco the CB-1003C Doubler Plates and
+                                                                                                          HATCHED                  Rivet the CB-1003C Doubler Plates to the CB-708A Cylinder 3 Baffle. See Figure 2.
+  CB-1008B Stiffener to the CB-708A Cylinder 3 Baffle
+                                                                                                          AREA FOR
+  as shown in Figure 2. Cleco the CB-700E Doubler
+                                                                                                          NON-VAN'S                Rivet the CB-707E Doubler Plate to the CB-707A Right Aft Case Baffle. See Figure 2.
+  Plate to the CB-707A Right Aft Case Baffle.
+                                                                                         Ø2 [50.8 mm]     EXHAUST SYSTEMS
+                                                                                              CIRCLE      ONLY                     Rivet the CB-708A Cylinder 3 Baffle to the CB-707A Right Aft Case Baffle. See Figure 1.
+  Final-Drill #30 the holes common between the stiffener
+  and the cylinder 3 baffle. Final-Drill #40 the rivet holes
+  common between the doubler plate and the right aft                                                                               WARNING: Install a vent screen in this location if the vent hole is ONLY to provide cabin heat. A vent
+  case baffle. Final-Drill #40 the holes common between                                                                            screen installed upstream of a carburetor heat system may obstruct airflow and drastically reduce
+                                                                                                            2.5
+  the remaining doubler plates and the cylinder 3 baffle.                                                                          engine performance.
+                                                                                                        [63.5 mm]
+
+  Step 4: Create a cutout for the ignition wire harness                                                                            Step 10: (Optional) Apply a bead of fuel tank sealant around the vent hole then rivet the VENT DL-03 Scat
+  seal (size and shape varies). Final-Drill #12 the two                                                                            Tube Flange and VENT SCREEN 3X3 (screen is optional, see warning above) to the CB-707A Right Aft Case
+  ignition wire seal attach holes. See the detail view in                                                                          Baffle as shown in Figure 2.
+  Figure 1.
+
+  NOTE: If installing a Vans O-360 Exhaust System,                                                                                                          AN470AD4-4,
+  see OP-54, Page 4 for the location of the air intake                                                                                                        5 PLACES
+                                                                                                                                         AN426AD3-3.5,                                                    CB-1008B
+  hole and installation of the VENT DL-03                                                                   AN470AD4-4,
+  Scat Tube Flange.                                 CB-1007B                                                8 PLACES                        6 PLACES
+                                                                                                                                      (FLUSH HEAD ON
+   Step 5: Create the cutout for the                                                                                                    INBOARD SIDE)
+   air intake. See detail                                                                                                     FINAL-DRILL #30                                                                            CB-708A
+   view in Figure 1.        AN470AD4-4,                                                                                          AN470AD4-4,
+                              2 PLACES                                                                                              4 PLACES
+  Step 6: Clamp, then
+  final-drill #30 the
+  VENT DL-03 Scat                                                                                                     VENT DL-03
+  Tube Flange to the CB-707A                                                                                          (OPTIONAL)
+  Right Aft Case Baffle as shown in Figure 2.
+
+  Step 7: Rivet the VENT DL-03
+  Scat Tube Flange to the CB-707A                                                                                                                                                                                        CB-1003C,
+  Right Aft Case Baffle as shown in                                                                                                                                                                                      2 PLACES
+                                                                                                                               VENT SCREEN 3X3
+  Figure 2.
+                                                                                                                          (OMIT IF AIR FROM THIS
+                                                                                                                             LOCATION GOES TO
+                                                                                                                                                                                                                          AN426AD3-3.5,
+                                                                                                                                      CARB HEAT)
+                                                                                                                                                                                                                          3 PLACES
+                                                                                                                        FUEL TANK SEALANT                                                                                 (FLUSH HEAD ON
+                                                          CB-707A                                                   AROUND HOLE PERIMETER                                                                                 AFT SIDE)
+
+                                                                                                                                                                                                                             CB-707E
+                                                                                      CB-708A
+                                  FIGURE 1: DRILLING THE
+                               CYLINDER 3 BAFFLE ASSEMBLY
+                                                                                                                                                                                                                     CB-707A
+
+
+                                                                                                                                                                 FIGURE 2: RIVETING THE
+                                                                                                                                                              CYLINDER 3 BAFFLE ASSEMBLY
+PAGE   OP40-4   0-360      REVISION: 1   DATE: 09/11/14
+Step 1: Cleco two CB-1003C Doubler Plates to the CB-1003A Cylinder 2 Baffle. Final-Drill #40 the rivet holes common between the   Step 4: Remove the hatched
+                                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
+doubler plates and the cylinder 2 baffle. See Figure 1.                                                                           area from one CB-1003C            0.385
+                                                                                                                                  Doubler Plate as shown in                                         101.0°
+Step 2: Deburr and dimple the rivet holes drilled in Step 1 (flush head on inbd side).                                            Figure 2 to make a CB-1009C      [9.8 mm]
+                                                                                                                                  Doubler Plate.
+Step 3: Rivet the two CB-1003C Doubler Plates to the CB-1003A Cylinder 2 Baffle. See Figure 1.
+
+
+
+                                                                                                                                    REMOVE HATCHED AREA
+
+                                                                                                                                                                       FIGURE 2: MAKING CB-1009C
+                                                                                                                                  Step 5: Cleco the CB-1003C and CB-1009C Doubler Plates to the CB-1009A Cylinder 1 Baffle. Final-Drill #40 the rivet holes
+                                                                                                                                  common between the doubler plates and the cylinder 1 baffle. See Figure 3.
+
+                                                                                                                                  Step 6: Deburr and dimple the rivet holes drilled in Step 5 (flush head on inbd side).
+                                                                                         CB-1003C,
+                                                                                         2 PLACES                                 Step 7: Rivet the the CB-1003C and CB-1009C Doubler Plates to the CB-1009A Cylinder 1 Baffle. See Figure 3.
+
+
+                                                                                                                                                                                     CB-1009C
+                                                                                                                                                        CB-1009A
+
+
+                                                                                                                                                  CB-1003C
+                        CB-1003A
+                                                            AN426AD3-3.5,
+                                                               6 PLACES
+                                                              (FLUSH ON                                                                                                               AN426AD3-3.5,
+                                                              INBD SIDE)                                                                                                                 5 PLACES
+                                                                                                                                                                                        (FLUSH ON
+                                                                                                                                                                                        INBD SIDE)
+
+
+                     FIGURE 1: CYLINDER 2 BAFFLE ASSEMBLY                                                                                                           FIGURE 3: CYLINDER 1 BAFFLE ASSEMBLY
+
+
+
+
+                                                                                                                                                                                                                   DATE: 12/4/06   REVISION:   0   0-360   PAGE   OP40-5
+                       VAN'S AIRCRAFT, INC.
+                                                                                                       SPACER WASHERS MAY BE USED
+                                                                                                          IF CB-701D INTERFERES WITH
+                                                                                                        COUNTERBORE IN ENGINE CASE
+   Step 1: Remove the three engine case bolts from the top of the engine
+   as shown in Figure 1.                                                                                                                         CB-701D
+
+   Step 2: Final-Drill 1/4 dia. then deburr all engine attach holes in the                USE ENGINE
+   CB-707D Aft Center Support Bracket and CB-701D Fwd Center Bracket.                     HARDWARE
+   See Figure 1.
+
+  NOTE: Lycoming torque for a 1/4 inch case bolt is 96 inch-lbf.
+
+   Step 3: Using the engine hardware (use new lockwashers) removed in
+   Step 1, bolt the CB-707D Aft Center Support Bracket and CB-701D Fwd
+   Center Bracket to the engine as shown in Figure 1. The forward face of
+   the CB-701D Fwd Center Bracket needs to be parallel with the forward
+   face of the starter ring gear.
+
+
+
+
+                                                                                                                                                           STARTER RING GEAR
+
+
+
+
+                                       USE ENGINE
+                                       HARDWARE
+
+
+
+
+                                                        CB-707D
+
+
+                                                                             FIGURE 1: ATTACHING THE FWD AND AFT CENTER BRACKETS TO THE ENGINE
+
+
+
+PAGE   0P40-6   O-360    REVISION: 0    DATE: 3/22/07
+                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
+NOTE: Some of the baffles will need to be removed for trimming and fitting; it is not necessary to fully tighten
+the screws or torque the bolts at this time.
+
+Step 1: Create a CB-706B Spacer from AT6-058X3/8 Tube 7/8 long.
+
+Step 2: Use the hardware shown in Figure 1 and Figure 2 to attach the Cylinder 3 Baffle Assembly and Cylinder 4 Baffle
+Assembly to the engine.
+
+Step 3: Match-Drill #12 the two holes in the aft flange of the CB-707D Aft Center Support Bracket into the CB-706A Left
+Aft Case Baffle and the CB-707A Right Aft Case Baffle. See Figures 1 and 2.
+
+Step 4: Install the two bolts that attach the CB-707D Aft Center Support Bracket to the CB-706A Left Aft Case Baffle and
+the CB-707A Right Aft Case Baffle. See Figure 1.
+                                                                                                                                                                                                               CYLINDER 3
+Step 5: Use the hardware shown in Figure 1 and Figure 2 to attach the Cylinder 1 and 2 Baffle Assemblies to the engine.
+                                                                                                                                                                                                               BAFFLE ASSEMBLY
+
+
+                                                                                                     CB-706A
+                                                                                            (SHOWN CUTAWAY)
+                                                                                                                                                                                                                         CYLINDER 1
+                                                                                MS21042-3,                                                                                                                               BAFFLE
+                                                                                2 PLACES                                                                                                                                 ASSEMBLY
+                                                      CB-707D                          AN960-10,
+                                                                                       2 PLACES
+                                                                                               AN3-3A,
+                                                                                               2 PLACES
+
+
+
+
+                                                                                                                                                   CB-706B
+                                                                                                                                               AN960-416L
+                                                                                                                                         MS21042-4
+
+                                                                                                                                         AN4-15A                         MS35206-265
+                                                                                                                                                                          MS35333-39
+                                                                                                                                                                                                    CB-1007B
+                                                                                                                                 CYLINDER 4
+                                                                                                                                 BAFFLE ASSEMBLY
+
+
+
+
+                                                                                                                                                                                                            MS35333-40
+
+
+
+                                                                                                                                                                                                               MS35206-281
+                                                                                                                            MS35206-281,
+                                                                                                                            TYP.
+
+                                                                                                                           MS35333-40,
+                                                                                                                           TYP.                              FIGURE 2: ATTACHING THE RIGHT SIDE BAFFLES
+                                                                  CYLINDER 2
+                                                            BAFFLE ASSEMBLY
+
+
+
+
+                               FIGURE 1: ATTACHING THE LEFT SIDE BAFFLES
+
+
+                                                                                                                                                                                          DATE: 09/11/14 REVISION: 1   O-360   PAGE OP40-7
+                       VAN'S AIRCRAFT, INC.
+
+
+  Step 1: Cleco then final-drill # 30 all the parts shown in Figure 1. Final-Drill 1/4 Dia. the baffle support hole in the CB-710D Fwd           Step 6: Cleco then final-drill # 30 all the parts shown in Figure 4. Final-Drill #12 the upper baffle support hole in the CB-1002B
+  Right Support Bracket as called out in Figure 1.                                                                                               Stiffener and 1/4 dia. the lower support hole in the CB-1002D Fwd Left Support Bracket as called out in Figure 4.
+
+  Step 2: If using a constant speed propeller, check if the engine has an oil supply line as shown in Figure 2. If yes, then enlarge the         Step 7: Disassemble and deburr all parts in the Cylinder 2 Baffle Ramp Assembly. Machine Countersink the aft side of the
+  prop oil line hole (called out in Figure 1) to 1 inch diameter to accept the rubber grommet called out in Figure 1. Temporarily                CB-1002B Stiffener for the rivets that attach the CB-1002C Left Air Dam.
+  disconnect the oil line from the engine for fitting the baffles (REMEMBER to reconnect the line when finished). Tape over the end of
+  the open end of the line and the fitting to prevent contamination.                                                                             Step 8: Rivet the CB-1002C Left Air Dam to the CB-1002B Stiffener per the callout in Figure 4.
+
+  Step 3: Disassemble and deburr all the parts shown in Figure 1. Machine Countersink the aft side of the CB-710B Stiffener for the              Step 9: Cleco the Cylinder 2 Baffle Ramp Assembly together as shown in Figure 4. Attach the assembly to the engine as shown in
+  rivets that attach the CB-1010C Right Air Dam.                                                                                                 Figure 5.
+
+   Step 4: Rivet the CB-1010C Right Air Dam to the CB-710B Stiffener per the callout in Figure 1.
+                                                                                                                                                                                                                     UPPER BAFFLE
+   Step 5: Cleco the remaining parts of the Cylinder 1 Baffle Ramp Assembly together as shown in Figure 1. Attach the assembly to
+                                                                                                                                                                                                                     SUPPORT HOLE
+   the engine as shown in Figure 3.                                                                                                                                            AN470AD4-5*
+                                                                                                                                                                                                                               CB-1002C
+                                          CB-1010G                                                                                                                                                                                                               CB-1002B
+
+                    AN426AD4-4,        AN470AD4-5*                                                                                                                           CB-1002G
+                       3 PLACES
+                   (FLUSH HEAD
+                                                                                                                                                                      AN426AD4-4,
+                      AFT SIDE)                                                                                                                                                                                                                                                CB-1002A
+                                                                                                                                                                         3 PLACES
+                                                                                                                               PROP                                  (FLUSH HEAD
+                       CB-1010C
+                                                                                                                               OIL LINE                                 AFT SIDE)
+                                                                                                                                                                                                                                                                           AN470AD4-4*,
+                   CB-710A                                                                                                                                                                                                                                                 TYP.
+        AN470AD4-4*,
+               TYP.
+         AN931-6-16
+
+
+        PROP OIL
+                                                                                 FIGURE 2: PROP OIL LINE                                                                                      MS35206-265
+       LINE HOLE                                                                                                                                                                              MS35333-39
+                                                                                                                                                                                                                                                                              AN470AD4-5*
+
+
+                                                                   CB-710B
+
+
+
+
+                                                                                                                                                                                                                                                               CB-1002D
+
+
+
+                                                                                                                                                                                                                                                                 LOWER BAFFLE
+                                                                                                                                                                                                                                                                 SUPPORT HOLE
+                                                                                                                                                                                                                  AN470AD4-4*
+
+                                                                                                                                                                                                           FIGURE 4: CYLINDER 2 BAFFLE RAMP ASSEMBLY
+                                                 AN470AD4-4*,                                                                                                                                                  * DO NOT RIVET UNTIL OP40-9, STEP 9
+                                                 3 PLACES                                                                                   MS35206-281
+           CB-710D                                                                                                                           MS35333-40
+                                              BAFFLE SUPPORT HOLE
+                                                                                                                                   MS35206-281         FIGURE 5: CYLINDER 2 BAFFLE
+       FIGURE 1: CYLINDER 1 BAFFLE RAMP ASSEMBLY                                                                                   MS35333-40
+                                                                                                                                                         RAMP ASSEMBLY INSTALL
+           * DO NOT RIVET UNTIL OP40-9, STEP 9
+                                                                                     FIGURE 3: CYLINDER 1 BAFFLE
+                                                                                       RAMP ASSEMBLY INSTALL
+PAGE                      REVISION:   DATE:
+Step 1: Match-Drill #30 the hole in the upper flange of the CB-1002G Clip into the
+                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
+CB-1003A Cylinder 2 Baffle. See Figure 1. Match-Drill #30 the hole in the upper flange of
+the CB-1010G Clip into the CB-1009A Cylinder 1 Baffle. See Figure 1 and the figures on                                                                                                     MAIN RAMP ANGLE BEND (STEP 3)
+Page OP40-8. Deburr all parts drilled in this step.
+                                                                                                                                                                                                  SIDE BAFFLE BEND (STEP 2)
+NOTE: The remaining steps may require iteration until the bottom cowl fits up to the
+                                                                                                                                                                                                    (STEP 1)
+baffles as shown in Figure 2. Proceed slowly. The order of the steps is not as
+important as the final result. The goal is to match the baffle sides and ramp to the                                                                                                                                           MARK EDGE ON
+cowl inlet aft edge as shown in Figure 2.                                                                                                                                                                 CB-1002G             CYLINDER BAFFLE
+                                                                                                                                                                                                                               AFTER RAMP ANGLE
+                                                                                                                                                                                                                               IS SET, (STEP 5)
+                                                            AFT EDGE                                                                                                                                                           BOTH SIDES OF AIRCRAFT
+COWL                                                        OF COWL INLET
+INLET                                                            AIR SEAL FABRIC
+                                                                                                                                                                                                                TRIM OUTBOARD EDGE OF RAMPS (STEP 2
+NOSE
+                                                                                                                                                                                                                        CB-1003A
+                                                      TRIM EDGE
+                                                      (STEP 5)
+                                                                                                                                                                                                                 RAMP CROSSING BEND
+                                      AIR RAMP (BOTTOM OF INLET)                                                                                                                                                 (STEP 4)
+                                  CYLINDER BAFFLE (SIDE OF INLET)
+                                                                                                                                                                                 A
+                                           0.072
+                               [1.8 mm] (BOTTOM OF INLET)
+                                   3/32 (SIDE OF INLET)
+                                   BOTTOM COWL                                                                                                                                                      A
+                          FIGURE 2: SECTION A-A                                                    SIDE BAFFLE                                                                                    OUTBD COWL INLET
+                                                                                                  BEND (STEP 2)                                                                                   TANGENT POINT
+
+Step 2: Trim the forward and outboard edges of the CB-1002A and CB-710A Fwd Air                                                                                                                CB-1002A
+Ramps allowing the CB-1003A and CB-1009A Cylinder 1 and 2 Baffles to angle inbd and to
+provide clearance with the cowl for initial fitting of the baffles. Make a vertical bend in the
+cylinder 1 and 2 baffles as shown in Figure 1 (see OP40-10, Figure 1 for an example of                                                                                                  BOTTOM COWL
+how to make the bend using a block and table edge).                                                                                                                                     (SHOWN TRANSPARENT)
+                                                                                                     (STEP 1)
+Step 3: Adjust the main ramp angle bend until the CB-1002A and CB-710A Fwd Air Ramps                                                                                CB-710A
+match up to the inbd cowl inlet tangent point as shown in Figure 1 and Figure 2.
+                                                                                                                                                        INBD COWL INLET
+Step 4: Make a ramp crossing bend from the inbd cowl inlet tangent point to the outbd end                                                               TANGENT POINT
+of the main ramp angle bend. See Figure 1. Adjust the bend until the CB-1002A and
+CB-710A Fwd Air Ramps match up to the outbd cowl inlet tangent point as shown in Figure
+1.
+                                                                                                                                              FIGURE 1: FITTING THE
+                                                                                                                  CB-1009A
+                                                                                                                                              BAFFLE TO THE INLETS
+Step 5: Mark the outbd edge of the CB-1002A and CB-710A Fwd Air Ramps on the
+CB-1003A and CB-1009A Cylinder 1 and 2 Baffles. See Figure 1.
+                                                                                                                                    REMOVE
+                                                                                                                                   HATCHED                                    CB-702E
+Step 6: Trim the upper edge of CB-702E Fwd Left Support Plate even with the lower face of
+the CB-1002A Fwd Left Air Ramp. Fasten the support plate to the engine. See Figure 3.                                                AREAS
+
+Step 7: Make a notch in the lower fwd edge of the CB-702M Support Angle for the screw
+head that attaches the CB-702E Fwd Left Support Plate. Position the support angle flush                                DO NOT RIVET                                                CB-702M
+against the support plate and the lower face of the CB-1002A Fwd Left Air Ramp.
+Match-Drill #30 then cleco all holes in the support angle. Mark the aft edge of the support
+plate on the support angle then disassemble the support angle and plate, remove the
+excess material as shown in Figure 3. Deburr all parts.
+
+Step 8: Except for the middle rivet common to the CB-1002A Fwd Left Air Ramp and
+CB-702M Support Angle (marked do not rivet in Figure 3), rivet the support angle to the
+CB-702E Fwd Left Support Plate and fwd left air ramp.
+
+Step 9: Rivet the CB-1002G Clip, CB-1002B Stiffener and CB-1002D Fwd Left Support                                           CB-1002A
+Bracket to the CB-1002A Fwd Left Air Ramp per the rivet callouts on Page OP40-8, Figure                         (SHOWN TRANSPARENT)                                            AN470AD4-4,
+4. Rivet the CB-1010G Clip, CB-710B Stiffener and CB-710D Fwd Right Support Bracket to                                                                                         TYP.
+the CB-710A Fwd Right Air Ramp per the rivet callouts on Page OP40-8, Figure 1.                                              NOTCH TO CLEAR
+                                                                                                                                                                          MS35206-281                     FIGURE 3: FWD RAMP SUPPORT
+                                                                                                                                SCREW HEAD
+                                                                                                                                                                          MS35333-40
+
+                                                                                                                                                                                                        DATE: 12/5/06   REVISION: 0   O-360   PAGE OP40-9
+                        VAN'S AIRCRAFT, INC.
+
+
+
+
+ Step 1: Clamp the CB-1003A Cylinder 2 Baffle to a table as shown in Figure 1. Align the mark created on Page OP40-9, Step 5 with             Step 5: Trim the lower edges of the CB-701A and CB-711A Front Baffles to allow CB-711A to be clecoed to the CB-710B Stiffener
+ the edge of the table.                                                                                                                       and allow both front baffles to be bolted to the CB-701D Fwd Center Bracket. See Figure 3. Adjust bends in the front baffles so the
+                                                                                                                                              forward edges of the baffles match the inbd cowl inlet as shown on Page OP40-9, Figure 2.
+ Step 2: Bend the CB-1003A Cylinder 2 Baffle using a wooden block (double check that you are creating the bend in the proper
+ direction). Complete the bend by tapping along its length with a flush rivet set in a rivet gun turned down low. Adjust the final bend       NOTE: Figure 3 does not show dimensioned rivet patterns. Layout the patterns keeping a typical edge distance of 5/16
+ angle with a hand seamier to match the angle of the CB-1002A Fwd Left Air Ramp.                                                              inches.
+
+ Step 3: Repeat Step 1 and Step 2 for the CB-1009A Cylinder 1 Baffle.                                                                         Step 6: Create the CB-702P, CB-702Q and CB-710P Clips from AA3-032X1X1 as shown in Figure 3. Position then Drill #30 all holes
+                                                                                                                                              in the clips as shown in Figure 3. Disassemble and deburr all parts from this step and Step 5.
+
+                                                                                                                                              Step 7: Rivet both the CB-701A and CB-711A Front Baffles to the CB-702P, CB-702Q, and CB-710P Clips. Rivet CB-711A to the
+                                          TABLE
+                                                                                                                                              CB-710B Stiffener. Rivet the clips to the CB-1002A and CB-710A Fwd Air Ramps (one rivet will also rivet to the CB-702M Support
+          CLAMPING
+                                                                                                                                              Angle).
+             BLOCK
+                                                                                                                                              NOTE: that the aft most hole in the CB-1003A Cylinder 2 Baffle flange is common to both the CB-1002A Fwd Left Air Ramp
+                                                                                                                                              and the CB-702J Conical Gusset; lay out this hole carefully.
+
+                                                                                               CB-1003A                                       Step 8: Drill #30 a rivet pattern similar to that shown in Figure 3 into the CB-1002A Fwd Left Air Ramp and the ramp flange of the
+                                                                                                                                              CB-1003A Fwd Side Baffle. Drill #40 a rivet pattern similar to that shown in the iso view in Figure 3 into the fwd side baffle and the
+                                                                                                                                              CB-702J Conical Gusset. Drill #40 a rivet pattern into the conical gusset and the fwd left air ramp (note the aft most hole will also be
+                                                                                                                                              common to the side baffle ramp flange). Repeat this step for the right side of the aircraft. See Page OP40-1 for a reference view.
+
+                                                                                                                                              Step 9: Disassemble and deburr all parts drilled in Step 8. Dimple holes as required by the rivet callouts in Figure 3.
+
+                                                                                                                                              Step 10: Rivet the CB-1002G Clip to the CB-1003A Cylinder 2 Baffle. Rivet the three forward most holes common between the
+                                                                                                                                              CB-1002A Fwd Left Air Ramp and the cylinder 2 baffle ramp flange. Rivet the CB-702J Conical Gusset to the cylinder 2 baffle and
+                                                                                                                                              fwd left air ramp. Rivet callouts are found in Figure 3. Repeat this step for the right side of the aircraft.
+
+
+
+                                              RAMP                                                                                                                                                                                             AN3-3A
+                                              FLANGE                                                                                                                                                                                           AN960-10
+                                                                                                                                                                                      CB-701A                          AN470AD4-4,             MS21042-3
+       1/16                                                                                                                                                                                                            TYP.
+   RADIUS                                                                                                                                                                        CB-702P
+                                                                                                                                                                                                                                                 CB-711A
+  MINIMUM
+                                       FIGURE 1: BENDING THE CYLINDER 1 AND 2                                                                 AN426AD4-4,          CB-1002A
+                                                                                                                                                                                                                                                                        AN470AD4-4,
+                                                                                                                                                                                                                                                  CB-710B               TYP.
+                                                   BAFFLE FLANGE                                                                                    TYP.
+                                                                                                                                                  CB-702J
+                                                                                                                                                                                                                                                                         CB-710P
+                                                                                                                                                 (SHOWN
+ Step 4: Cut an oversize piece of AS3-032 to make the CB-702J Conical Gusset (See Figure 3 for an idea of how large the conical                                                                                                                                                CB-710A
+                                                                                                                                            TRANSPARENT)
+ gusset needs to be. Use stiff paper to make a first pattern). Form the required cone shape in the conical gusset using the edge of a
+ table as shown in Figure 2. Keep the tight end of the cone in a fixed position while sliding and rotating the large end of the cone over
+ the table edge. The large end of the cone should match the curved portion of the bottom cowl inlet. Leave a 1/16 inch gap for the
+ AIR SEAL FABRIC, see Page OP40-9, Figure 2. Trim the gusset to fit as shown in Figure 3.
+
+                                                                                                      TABLE                                                                                                                  CB-701D
+                                                                                                                                                                                                                    CB-702Q
+
+                                                                                                                                                                                                                  AN470AD4-5
+                                                                                               FIXED POSITION
+
+
+
+                                                                                                                                                                                     FIGURE 3: ATTACHING THE FRONT BAFFLE
+                                                                                                                                                                                        (ENGINE NOT SHOWN FOR CLARITY)
+                                                                         FIGURE 2: FORMING A
+                                                                           CONICAL GUSSET
+
+PAGE OP40-10    O-360 REVISION: 0 DATE: 12/5/06
+Step 1: Install the Bottom Cowl. Lay the Top Cowl in place then
+                                                                                                                                                        VAN'S AIRCRAFT, INC.
+mark and trim away the upper edges of the baffles to create a
+3/8 inch minimum to 1/2 inch maximum clearance between the
+upper edge of the baffles and the inside surface of the top cowl.
+This will take several iterations, be patient! Deburr the upper
+edges of the baffles. See Figure 1.
+
+Step 2: Match-Drill #40 the holes in the CB-1003D Clips into the
+baffles as shown in the detail view in Figure 1.                                                                      TOP COWL
+
+Step 3: Remove the CB-1003D Clips and deburr the holes drilled                                                                                            IGNITION WIRE
+                                                                                                          AN525-10R10                                     HARNESS SEAL
+in the baffles. Dimple the clip attach holes in the clips and baffles
+                                                                                                            MS21042-3 2X                                  (SUPPLIED WITH ENGINE)
+for a flush head on the inboard face of the baffles.
+                                                                                                             AN960-10
+Step 4: Rivet the CB-1003D Clips to the baffles per                                                   IGNITION WIRE
+the callouts in Figure 1.
+                                                                                                     AN509-10R10
+Step 5: Fill the spark plug access holes in the CB-1004A
+                                                                        AN3235-028-24A (ONE EACH SIDE OF BAFFLE)                                                             AN525-10R10
+Cylinder 4 Baffle and CB-708A Cylinder 3 Baffle with hardware
+                                                                                                       MS21042-3                                                             MS21042-3
+as shown in Figure 1.                                                                                                                                                     2X
+                                                                                                                                                                             AN960-10
+                                                                                            REMOVE
+Step 6: Run the ignition wires through the holes in the CB-705A
+                                                                                           HATCHED
+Cylinder 4 Aft Baffle and the ignition wire harness seal per the                                                                                                                         AN509-10R10
+                                                                                             AREAS
+callouts in Figure 2. Repeat this step for the right ignition wires                                                                                                                      AN3235-028-24A (ONE
+running through the CB-707A Right Aft Case Baffle as shown in                                                                                                                            EACH SIDE OF BAFFLE)
+Figure 1.                                                                                                                                                                                MS21042-3
+
+
+
+
+                                                                                          BOTTOM COWL                                                   CB-1004A
+
+                                                                                                                                             CB-1003A
+
+
+
+                                                                                                                                       CB-1003D
+
+
+                                                                                                   FIGURE 1: TRIMMING THE UPPER                                             ~1/2
+                                                                                                       EDGE OF THE BAFFLES            AN426AD3-3.5,
+                                                                                                                                          2 PLACES
+                                                                                                                                  (FLUSH INBD SIDE)
+
+
+
+
+                                                                                                                                                           DATE: 09/11/14 REVISION: 1   O-360   PAGE OP40-11
+                       VAN'S AIRCRAFT, INC.
+
+
+
+  Step 1: Cut two lengths of SSP-120 Stainless Pin 9 inches long to create two CB-700D Inbd Tension Rods. Bend
+  each inbd tension rod to fit around the engine. Figure 1 is full scale and can be used as a template for a starting                      MS21042-06,
+  point. Note the inbd tension rods may be different on the right and left sides of the engine.                                            TYP.
+
+  Step 2: Thread 6-32 both ends of each CB-700D Inbd Tension Rod. Do not extend the threads into the bends in the                           AN960-6,
+  inbd tension rods. See Figure 1.                                                                                                          TYP.
+
+  Step 3: Install both CB-700D Inbd Tension Rods using the hardware shown in Figure 3.
+
+
+                                                                                                                                             CB-1000D
+                                                              VARY TO PASS BENEATH
+                                                                   THE ENGINE
+                              10°,
+                           2 PLACES
+
+
+
+                      FIGURE 1: FABRICATING THE INBD TENSION ROD
+                                SCALE APPROXIMATELY 1:1                                                                    CB-700D
+                                                                                                                        CB-700C
+  Step 4: Cut two lengths of SSP-120 Stainless Pin 11 1/4 inches long to create two CB-700C Outbd Tension
+  Rods. Bend each outbd tension rod to fit around the engine. Figure 2 is full scale and can be used as a template.
+  Note the outbd tension rods may be different on the right and left sides of the engine.
+
+  Step 5: Thread 6-32 both ends of each CB-700C Outbd Tension Rod. Do not extend the threads into the bends
+  in the outbd tension rods. See Figure 2.
+
+  Step 6: Install both CB-700C Outbd Tension Rods using the hardware shown in Figure 3.
+
+
+
+                                         20° - 30°,                        VARY TO PASS BENEATH
+                                        2 PLACES                                THE ENGINE                                                                                     CB-700C
+
+
+                                                    45°,
+                                                                                                                                                                             CB-700D
+                                                 2 PLACES
+
+
+
+
+                                                                 COVER TENSION RODS LOCALLY
+                                                                 IF REQ'D WITH PT-062X1/4 TO
+                                                                 PREVENT THE TENSION ROD FROM
+                                                                 CHAFING ON THE ENGINE
+
+
+                         FIGURE 2: FABRICATING THE OUTBD TENSION ROD
+                                    SCALE APPROXIMATELY 1:1
+                                                                                                                                     FIGURE 3: INSTALLING THE TENSION RODS
+
+
+
+
+PAGE OP40-12   O-360 REVISION: 0 DATE: 12/5/06
+                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+
+
+Step 1: Make Air Seal Fabric (approx. three inches wide) strips as shown in Figure 1 and Figure 2 to seal the baffle area. To             Step 3: Use RTV high temperature sealant (Permatex #26B Red) to seal all gaps that can spill air. Small openings can add up to a
+conserve material, make paper patterns for the more complex strips. During installation the air seal fabric will be a bit stiff and       significant loss in the pressure differential and decrease the cooling potential of the baffle system.
+unyielding, but after a few flights the heat from the engine will help it conform to the shape of the upper cowl. Note how the separate
+strips overlap one another. Create breaks to allow the baffle to be removed in sections common to each cylinder. Drill #30 holes in       Step 4: Add tie-wraps to the spark plug wires as required. See Figure 1 and Figure 2.
+the air seal fabric and the baffles using a typical 1 1/2 inch to 2 inch spacing. Deburr the holes drilled in the baffles.
+                                                                                                                                          Step 5: Install a cooling blast tube for each magneto and the alternator per the instructions included with the optional DUCT CBT-5/8
+NOTE: Air Seal Fabric must curve inward to the high pressure side of the baffle. The high pressure of the baffle will hold                Cooling Blast Tube Kit available from Van's Aircraft.
+the air seal fabric against the cowl. If the material is to short it will flip outwards and flap against the top of the cowl,
+causing a noticeable and potentially destructive vibration!                                                                               NOTE: Double check that all fasteners are fully installed, tight and torqued.
+                                                                                                                                                                                                                                     TIE-WRAPS AS REQUIRED
+Step 2: Permanently install the Air Seal Fabric to the baffles using SD-42-BSLF Large Steel Blind Rivets.
+                                                                                                                                                 AIR                                                                                                    SD-42-BSLF,
+                                                                                                                                                SEAL                           DUCT CBT-5/8,                                                            TYP.
+                                                                                                                                              FABRIC                              3 PLACES                                                              1 1/2" - 2" SPACING
+
+
+
+
+                                      FIGURE 1: AIR SEAL FABRIC - RV-8 VIEW                                                                                                  FIGURE 2: AIR SEAL FABRIC - RV-7 VIEW
+
+
+
+
+                                                                                                                                                                                                                         DATE: 01/09/07 REVISION:   0   O-360     PAGE OP44-13
+                        VAN'S AIRCRAFT, INC.
+
+                                                                                                                                                AIR SEAL FABRIC
+  NOTE: This page shows the installation of the Air Seal Fabric on the Bottom Cowl left air inlet. The methods
+  used on the right air inlet are essentially a mirror of the left.                                                                          SLIT IF REQ'D
+
+  Step 1: Make the CB-1002K Clamping Strip by forming a piece of AS3-063X1/2X12 to the shape of the Bottom Cowl
+  left air inlet. Over bend the clamping strip just enough so it will clamp the Air Seal Fabric firmly against the sides of the
+  bottom cowl air inlet. Sand the inside (lower) face of the bottom cowl air inlet if required to create a flat area for the
+  clamping strip. The aft edge of the clamping strip aligns with the aft edge of the bottom cowl air inlet, see Figure 2.
+
+  Step 2: Cut Air Seal Fabric as shown in Figure 1 and Figure 3. Slit the fabric if required to make it lay flat against the
+  ramp and sides of the Cylinder 2 Baffle Assembly.                                                                               CB-1002K
+
+  Step 3: Drill three evenly spaced #27 holes into the CB-1002K Clamping Strip, Air Seal Fabric and Bottom Cowl as
+  shown in Figure 2.
+
+  Step 4: Deburr the CB-1002K Clamping Strip. Machine countersink the three holes in the Bottom Cowl air inlet (flush
+  on the upper face) for the head of a #6 screw.
+
+  Step 5: Glue the Air Seal Fabric to the CB-1002K Clamping Strip as shown in Figure 1 and Figure 2 using PlyoBond ©
+  contact cement or an equivalent.
+
+  Step 6: Use the hardware shown in Figure 2 to attach the CB-1002K Clamping Strip and the Air Seal Fabric to the
+  Bottom Cowl air inlet.                                                                                                              BOTTOM COWL
+
+                                                              AN507-6R8,
+                                                              TYP.               AIR SEAL FABRIC
+
+
+                                                                                                   EXCESSIVE OVERLAP WILL MAKE
+                                                                                CB-1002A           COWL REMOVAL MORE DIFFICULT                                    FIGURE 1: MAKING THE CLAMPING STRIP
+                                                                      CB-1002K
+
+                                                                    AN960-6,
+                                                                    TYP.
+
+                                                                 AN365-632,
+                                                                 TYP.
+   BOTTOM COWL
+                                            SECTION A-A
+
+                                                         CB-1002K
+
+
+
+
+                               A                          A
+
+
+
+
+                                                                AIR SEAL FABRIC
+
+
+
+                                                              BOTTOM COWL
+
+                               1/2,
+                               TYP.
+
+            FIGURE 2: TOP VIEW AIR SEAL FABRIC INSTALLATION
+                                                                                                                                       FIGURE 3: FINAL INSTALLATION
+PAGE OP40-14   O-360      REVISION: 0   DATE: 01/09/07
+

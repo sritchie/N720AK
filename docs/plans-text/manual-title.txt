@@ -1,0 +1,71 @@
+                                      RV -10
+
+
+RV-10 BUILDER’S MANUAL        NOTES
+
+
+
+
+        MY BUILDER’S NUMBER
+
+
+
+         PROJECT STARTED
+
+            —–/—–/——
+
+
+        PROJECT COMPLETED
+
+            —–/—–/——
+RV-10                                                                      FINAL INSPECTION AND FLIGHT TEST
+
+
+             TEST RUNS USING GPS MAY BE USED TO CALIBRATE THE AIRSPEED SYSTEM
+
+
+                                     AIRSPEED CALIBRATION RUN #1
+                  Conditions & Data:           8,000' MSL         42 deg. F.               156 IAS
+                                            2675 RPM           20.5'' Man. Pres. Sensenich 68x78 prop
+                                    E6B computations show that:
+          156 mph IAS at 8,000' and 42 deg. F. = 178 mph True Indicated AS. (ie: no calibration for system errors)
+                                              Run #1 from north to south:
+                                                  Start 45q 41.0' Lat.
+                                                  Finish 45q 31.0' Lat.
+                      Distance = 10 NM         time = 3 minute 55 seconds = 235 Seconds.
+                        Speed (knots)=Dist/time=(10 NM/235 sec) X 3600 sec/hr = 153.2 NM/Hr.
+                                  Speed (mph) = speed (NM/Hr) x 1.15 = 176.2 mph
+                                              Run #2 from south to north:
+                                                   Start 45q 31.0' Lat.
+                                                  Finish 45q 41.0' Lat
+                          Distance = 10 NM        time = 3 minutes 52 seconds = 232 Seconds.
+                         Speed (knots)=Dist/time=(10 NM/232 sec) X 3600 sec/hr = 155.2 NM/Hr.
+                                    Speed (mph) = speed (NM/Hr) x 1.15 = 178.5 mph
+                        Average speed = (176.2 + 178.5) / 2 = 177.35 mph True airspeed.
+              (from above) True Indicated Airspeed = 178.5 = Approx. 1 percent calibration error.
+
+
+
+
+                                     AIRSPEED CALIBRATION RUN #2
+                       Conditions and Data:         1000' MSL   76 deg. F.      171 IAS
+                                                       2650 RPM     24'' Man. Press.
+                                      E6B computations shown that:
+            171 mph at 1000' msl and 76 deg. F. = 177 mph True Indicated AS. (ie: no calibration for system errors)
+                                   Downwind leg: 3 miles in 55 seconds.
+                           Speed (mph)=Dist/time=(3 miles/55 sec) X 3600 sec/hr = 196.4 mph.
+                                      Upwind leg:      3 miles in 75 seconds.
+                              Speed (mph)=Dist/time=(3 miles/75 sec) X 3600 sec/hr = 144 mph.
+                                   Average speed = (196.4 + 144)/ 2 = 170.2 mph.
+
+
+  This sample shows a TIAS of 177 as opposed to a true calibrated speed of 170.2, or an airspeed indicator
+                                       reading of about 4% high.
+                                           Erroneous calculation would be:
+  Average speed = (distance 1 + distance 2)/(time 1 + time 2) = (3 miles + 3 miles)/55 sec+75 sec) X 3600 sec/hr = 166 mph.
+
+
+
+
+  Flight Test RV-10 3/16/05                                  23
+

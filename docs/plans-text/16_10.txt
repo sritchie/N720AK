@@ -1,0 +1,224 @@
+                                                                                                      VAN'S AIRCRAFT, INC.
+
+
+
+
+      SECTION 16:
+                                                                                                                               W-1014-L
+
+
+    TOP WING SKINS                                                                                                             OUTBOARD AILERON
+                                                                                                                               HINGE BRACKET
+                                                                                                                               ASSEMBLY
+
+
+                                                  W-1003
+                                     TOP OUTBD WING SKIN
+
+
+
+
+                            W-1002
+                TOP INBD WING SKIN
+
+
+
+
+                                                                                                            MAIN SPAR, RIB AND
+                                                                                                          REAR SPAR ASSEMBLY
+
+
+
+
+                                                                                 W-1028A
+                                                                                 WING BOX
+                                                                                 J-STIFFENER - LONG
+
+
+
+
+                                                           W-1028B
+                                                           WING BOX
+                                                           J-STIFFENER - SHORT
+
+
+                                           W-1027A
+     W-1027B
+                                           WING WALK
+  WING WALK
+                                           DOUBLER - FWD
+DOUBLER - AFT
+
+
+
+                                                                                                         DATE: 07/24/14 REVISION: 0   RV-10   PAGE   16-1
+                        VAN'S AIRCRAFT, INC.                                                                                             Step 5: To make a more aesthetically pleasing joint between the top wing skins it is permissible to remove material from the edges
+                                                                                                                                         of the skins as shown in Figure 2. Remove material as shown in Figure 2, Section A-A from the top outboard side of W-1002 Top
+                                                                                                                                         Inbd Wing Skin and the lower inboard side of the W-1003 Top Outbd Wing Skin to create a smooth transition from one skin to
+                       NOTE: This section only covers the steps required for the left wing. The right wing is a mirror of the left.      another along the chord wise portion of the skin joint. Remove material from the top outboard forward edge of the top inbd wing skin
+                                                                                                                                         to allow the top surface of the top outbd wing skin to be flush with the top surface of the tank skin (use a scrap piece of AS3-032 to
+   Step 1: Lay the W-1028A Wing Box J-Stiffener - Long and W-1028B Wing Box J-Stiffener - Short into the J-stiffener cutout in the       simulate the tank skin) as shown in Figure 2, Section B-B.
+   cutout in the wing ribs. See the isometric view on Page 16-1. Cleco the W-1002 Top Inbd Wing Skin, W-1003 Top Outbd Wing Skin,
+                                                                                                                                                                                                    TANK ASSEMBLY
+   and the W-1027A and W-1027B Wing Walk Doublers to the main spar, rear spar and wing ribs. (Note that the outboard wing skin
+   overlaps the inboard skin.) Cleco the J-stiffeners to the wing skins.
+
+  NOTE: Do not drill the aft most row of holes in each top skin. These holes will attach the gap fairings in Section 20.
+
+   Step 2: Final-Drill #40 all the holes common to the top wing skins and the spars, J-stiffeners, wing walk doublers and ribs.
+
+  Final-Drill #40 the two holes that will be used to attach the aft most inboard nutplate to the W-1002 Top Inbd Wing Skin (holes are
+  called out in Figure 1).
+                                                                                                                                                                                     A      A
+   Step 3: Final-Drill #19 the screw holes for the nutplates that will be installed along the inboard edge of the W-1002 Top Inbd Wing
+   Skin as shown in, Figure 1.
+                                                                                                                                                                                              B
+  Dimple the aft most screw hole for a #8 flush head screw (see Figure 1), then machine countersink the rest of the screw holes for a                                                         B
+  #8 flush head screw dimple. Machine countersink all the rivet holes of the top inbd wing skin that correspond to the W-1027A and
+  W-1027B Wing Walk Doublers for the head of an AN426AD3 rivet.
+
+   Step 4: Disassemble the parts clecoed on in Step 1 from the wing assembly.
+
+
+
+
+                                                   W-1027A
+
+
+
+
+                                                                                                                                                                                   W-1003                                 W-1002
+                                                                                                                                                                                                                    T-1001-L
+                                                                                                                                                                                                      W-1002         (SCRAP                       W-1003
+                                                                                                                                                                          W-1003
+                                                                                                                                                                                                                    AS3-032)
+
+                                                                                                                         FINAL-DRILL
+                                                                                                                         #19                                              W-1011-L                                                                              W-1002
+                                                   W-1027B                                                                                                                                                                                     MAIN SPAR ASSEMBLY
+                                                                                                                                                                          SECTION A-A                                               SECTION B-B
+
+                                                                                                                                                                                     FIGURE 2: WING SKIN JOINT DETAIL
+                                             W-1002
+                                                                                                                                                                                         (TANK SHOWN INSTALLED
+                              FINAL-DRILL #19                                                                                                                                      SECTION B-B SHOWN ROTATED 90° CCW)
+                      DIMPLE THIS HOLE ONLY
+                                                                                                                                         Step 6: Deburr the edges and holes of all parts. Dimple the W-1002 and W-1003 Top Wing Skins and W-1028A and W-1028B Wing
+                                                                                                                         AFT MOST        Box J-Stiffeners (note the screw holes on the inboard edge of the top inbd wing skin have already been machine countersunk or
+                                                                                                                         NUTPLATE        dimpled in Step 3). Dimple the holes on the upper flange of the rear spar and the upper flange of all but the four inboard most wing
+                                                                                                                         HOLES           ribs.
+
+                                                                                                                                         Prime all parts if/as desired.
+
+
+                                                              FIGURE 1: FINAL-DRILLING THE
+                                                                 WING WALK DOUBLERS
+
+PAGE   16-2    RV-10       REVISION: 1   DATE: 07/24/14
+                                                                                                                                                              VAN'S AIRCRAFT, INC.
+                                                                                                                W-1002
+
+
+Step 1: Place the wing with the forward face of the wing spar
+assembly flat against the table. Block up the spar as required.                                                             SEE FIGURE 3
+Clamp the spar firmly to the table at both ends. Protect the spar
+from the clamp face with wood blocks as shown in Figure 1.
+Do not distort (bow or twist) the spar with the clamps.
+
+Step 2: Lay the W-1028A and W-1028B Wing Box J-Stiffeners
+into the J-stiffener notches in the wing ribs. Cleco the W-1002
+Top Inbd Wing Skin, W-1003 Top Outbd Wing Skin, W-1027A
+and W-1027B Wing Walk Doublers to the spars and ribs. Cleco
+the stiffeners to the top wing skins. Cleco the nutplates that attach
+along the inboard edge of the top inbd wing skin to the wing assembly
+(see Figure 1). Check that the top outbd wing skin is on top of the
+top inbd wing skin.                                                     W-1010-R
+                                                                                                                                                                                                       MS21051-L08
+Step 3: Rivet the W-1002 Top Inbd Wing Skin and W-1003 Top
+Outbd Wing Skin to the W-1028A and W-1028B J-Stiffeners, ribs,                                                                                                                                     K1000-08
+rear spar and main spar. See Figure 2 and Figure 3 for the rivet
+callouts. When riveting the inboard most row of rivets, install the
+nutplates as indicated in Figure 1 to the W-1010-R Inbd Wing Rib,
+W-1027A and W-1027B Wing Walk Doublers and top inbd wing skin.
+To assure maximum skin tightness, rivet from the center of each skin
+outwards towards the root and tip. Do this on both skins saving the
+double row of rivets at the lap joint until last. For a higher quality
+skin finish, back rivet the skins in place. This will require a large
+bucking bar, covered with plastic packaging tape, laid over the                                      WOOD BLOCK
+                                                                                                     OR EQUIVALENT                                                                                 K1100-08
+manufactured head of the rivet on the outside face of the skin and
+an extended back rivet set.                                            TABLE
+
+                                                                                                   CLAMP,
+                                                                                                   TYP.
+                                                                                                                                  FIGURE 2: TOP INBD WING SKIN RIVET CALLOUT
+
+                                                                                   FIGURE 1: NUTPLATE INSTALL
+
+
+
+
+                                                                                                                                                                                          AN426AD3-3.5
+
+                                                                                                                                                                                          AN426AD3-4
+
+                                                                                                                                                                                          AN426AD3-4.5
+
+                                                                                                                                                                                          AN426AD3-5
+
+
+
+
+                                                                                    FIGURE 3: TOP OUTBD WING SKIN RIVET CALLOUT
+
+                                                                                                                                                                  DATE: 07/24/14 REVISION: 1   RV-10     PAGE   16-3
+                       VAN'S AIRCRAFT, INC.
+
+
+
+   Note: Do not complete any steps from this page until the top skins are completely riveted on! Riveting the W-1014-L Outboard Aileron Hinge Bracket Assembly on
+   prematurely will remove access to the outboard most rivet attaching the W-1003 Top Outboard Wing Skin to the W-1007A-L Rear Spar Web.
+
+   Step 1: Cleco the W-1014-L Outboard Aileron Hinge Bracket Assembly to the W-1012-R TRIMMED Outboard Wing Rib, two places as shown in Figure 1. Cleco the outboard aileron
+   hinge bracket assembly to the W-1007A-L Rear Spar Web and W-1007E-L Rear Spar Doubler Plate as shown in Figure 1.
+
+   Step 2: Final-Dill #30 the W-1014-L Outboard Aileron Hinge Bracket Assembly to the W-1007-L Rear Spar Assembly. Match-Drill #30 and cleco the outboard aileron hinge bracket
+   assembly to the W-1012-R TRIMMED Outboard Wing Rib using the hinge bracket as a drill guide. Remove the two clecoes holding the hinge bracket to the outboard wing rib and
+   final-drill #30 the holes in the hinge bracket and outboard wing rib.
+
+   Step 3: Un-cleco the W-1014-L Outboard Aileron Hinge Bracket from the wing assembly.
+
+   Deburr all parts.
+
+   Step 4: Cleco the W-1014-L Outboard Aileron Hinge Bracket Assembly to the wing assembly per Step 1. Rivet the outboard hinge bracket assembly to the wing assembly as indicated
+   in Figure 1.
+
+
+
+
+                                                                                                                                                        W-1007A-L
+                                                                                                                                          W-1003
+
+
+                                  W-1012-R TRIMMED                                                                                     AN470AD4-6,
+                                                                                                                                       5 PLACES
+
+                                                                                                                                   W-1007E-L
+
+
+
+
+                                                 AN470AD4-5,
+                                                   5 PLACES
+
+                                                                                                                          W-1014-L
+
+
+
+
+                                      FIGURE 1: OUTBOARD AILERON HINGE
+                                       BRACKET ASSEMBLY INSTALLATION
+                                  (W-1003 SHOWN TRANSPARENT FOR CLARITY)
+
+PAGE   16-4     RV-10    REVISION: 0   DATE: 07/24/14
+

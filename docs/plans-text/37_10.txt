@@ -1,0 +1,297 @@
+=== PAGE 37-1 ===
+SECTION 37: FUEL SYSTEM
+
+Isometric overview of fuel system installation in fuselage.
+
+Part callouts:
+- FUEL LINE ATO-035X3/8, TYP.
+- ES AIRFLOW FILTER (NOT PROVIDED IN THE KIT, AVAILABLE FROM VAN'S AIRCRAFT)
+- VA-178G FUEL VALVE
+- F-1048C-1 FUEL VALVE BRACKET
+- F-1001 FIREWALL BULKHEAD ASSEMBLY
+- FLO-SCAN (NOT INCLUDED IN KIT, FUEL FLOW TRANSDUCER USED BY MOST ENGINE MONITOR SYSTEMS)
+- AN OPTIONAL INSTALLATION KIT FOR THIS TRANSDUCER IS AVAILABLE FROM VAN'S AIRCRAFT PN# IF FLO-SCAN MOUNT KIT
+- ES AIRFLOW FUEL PUMP (NOT PROVIDED IN THE KIT, AVAILABLE FROM VAN'S AIRCRAFT)
+- F-1084B SYSTEMS BRACKET CLIP, 4 PLACES
+- F-1084A-R SYSTEMS BRACKET, 2 PLACES
+- F-1048-R FWD FUSELAGE RIB
+- F-1048-L FWD FUSELAGE RIB (SHOWN TRANSPARENT)
+- F-1084A-L SYSTEMS BRACKET, 2 PLACES
+
+NOTE: ISOVIEW DEPICTS THE INSTALLATION OF THE HIGH PRESSURE BOOST PUMP FOR A FUEL INJECTED LYCOMING.
+
+DATE: 12/18/04 REVISION: 1 RV-10 PAGE 37-1
+
+=== PAGE 37-2 ===
+NOTE: When installing fluid fittings in this section note the clocking (direction that the fluid fitting is aimed). Reference both the isometric view on Page 37-1 and the figure relevant to the step being completed.
+
+Step 1: If using a fuel injected engine install a AN826-6D Tee into the lower port of the VA-178G Fuel Valve (aim the horizontal leg of the tee forward). If using a carbureted engine, insert a AN816-6D Nipple into the bottom of the fuel valve. With the fuel valve oriented as shown in Figure 1, install a F 1/4 Pipe Plug and two AN822-6D 90° Elbows.
+
+Step 2: Bolt the body of the VA-178G Fuel Valve to the F-1048C-1 Fuel Valve Bracket using the hardware called out in Figure 1.
+
+Step 3: Install the VA-178A Fuel Handle Shaft to the VA-178G Fuel Valve using the hardware called out in Figure 1.
+
+Step 4: Attach the AN837-6D 45° Elbow Bulkhead Fitting, AN SPACER 6D Washer, and AN924-6D Nut to the F-1001 Firewall Bulkhead Assembly as shown in the Detail View A in Figure 2. Note the clocking (up and right).
+
+Step 5: Attach the AN833-6D 90° Elbow Bulkhead Fitting, AN SPACER 6D Washer, and AN924-6D Nut to the F-1048-L and F-1048-R Fwd Fuselage Ribs as shown in the Detail View B in Figure 2. Note the clocking (forward and parallel to F-1072 Fwd Fuse Bottom Skin).
+
+FIGURE 1: FUEL VALVE INSTALLATION
+(STRUCTURE ATTACHED TO THE FUEL VALVE BRACKET NOT SHOWN FOR CLARITY)
+
+Figure 1 callouts:
+- MS35214-29
+- VA-178A FUEL HANDLE SHAFT
+- AN365-632A
+- AN960-6
+- AN4-6A, 2 PLACES
+- AN960-416L, 4 PLACES
+- F-1048C-1
+- VA-178G
+- AN960-416, 4 PLACES
+- AN365-428, 2 PLACES
+- F 1/4 PIPE PLUG
+- AN822-6D, 2 PLACES
+- AN826-6D (DEPICTED - FUEL INJECTION)
+- AN816-6D (CARBURETOR)
+
+FIGURE 2: BULKHEAD FITTING INSTALLATION
+
+Detail View A callouts:
+- AN837-6D (NOTE CLOCKING)
+- AN SPACER 6D
+- AN924-6D
+- F-1001
+
+Detail View B callouts:
+- AN924-6D
+- AN SPACER 6D
+- AN833-6D (NOTE CLOCKING)
+- F-1048-R
+
+DATE: 12/18/07 REVISION: 1 RV-10 PAGE 37-2
+
+=== PAGE 37-3 ===
+NOTE: All fuel lines created in this section are made from ATO-035X3/8.
+See Section 5P for information on flaring the ends of the fuel line.
+When installing fluid fittings with pipe threads do not use Teflon tape. Use instead, fuel lube or equivalent pipe thread sealing paste.
+
+Step 1: Cut two fuel lines per the dimensions in Figure 1. Straighten out the lines at this time.
+
+Step 2: Select one of the fuel lines made in Step 1, then slide an AN818-6D Nut and a AN819-6D Sleeve onto one end. At the same end flare the tube (see Section 5P).
+
+Step 3: Bend the tube to obtain the approximate dimensions shown in Figure 2. Then slide an AN818-6D Nut and a AN819-6D Sleeve onto the unfinished end. At that same end flare the tube and repeat Step 2 and Step 3 on the remaining fuel line.
+
+Step 4: Install the two 10.5 inch fuel lines in the tunnel (between the F-1048-L and -R Fwd Fuselage Ribs) from the AN822-6D 90.0° pipe fittings on the VA-178G Fuel Valve to the AN833-6D 90.0° bulkhead fittings on the Fwd Fuselage Ribs, as shown in Figure 3.
+
+Step 5: Cut two fuel lines per the dimensions in Figure 4. Straighten out the lines at this time.
+
+Step 6: Select one of the fuel lines made in Step 5, then slide an AN818-6D Nut and a AN819-6D Sleeve onto one end. At the same end flare the tube.
+
+Step 7: From the other end of the fuel line slide on two snap bushings and a grommet. Feed the fuel line out the hole in the F-1004K-L Center Section Side Plate and F-1069 Fwd Side Skin. Attach the left fuel line to the AN833-6D 90° Elbow on the F-1048-L Fwd Fuselage Rib. Repeat this step for the right fuel line installation is a mirror of the left.
+
+Step 8: Insert the grommet into the F-1069 Fwd Side Skin. Install the F-1084A-L and -R Systems Brackets. Install the F-1084B Systems Bracket Clips to the systems brackets. See the detail view in Figure 5.
+
+Step 9: Bend each Fuel Line 90° aft, approximately 1 3/4 inches outboard from the side of the fuselage. See Figure 5.
+
+FIGURE 1: CUTTING TUNNEL FUEL LINES (dimensions: 10 1/2)
+FIGURE 2: THE UPPER BEND (dimensions: 5 3/4, 5 21/32, ~90.0°)
+
+Figure 2 callouts:
+- AN818-6D, 2 PLACES
+- AN819-6D, 2 PLACES
+- FLARED END, 2 PLACES
+
+FIGURE 3: TUNNEL FUEL LINES AFT VIEW
+
+Figure 3 callouts:
+- F-1048-L
+- F-1048-R
+- VA-178G
+- AN818-6D, 8 PLACES
+- AN819-6D, 8 PLACES
+- LEFT FUEL LINE
+- AN833-6D, 2 PLACES
+- AN822-6D, 2 PLACES
+- RIGHT FUEL LINE
+
+FIGURE 4: CUTTING TANK FUEL LINES (dimension: 29 13/32)
+
+FIGURE 5: FUEL LINE ROUTING
+(CENTER SECTION SIDE PLATE AND FWD SIDE SKIN NOT SHOWN FOR CLARITY)
+
+Figure 5 callouts:
+- AN365-632
+- AN960-6
+- F-1084B
+- AN515-6R8
+- F-1084A-L
+- SB 500-6, 2 PLACES
+- AN931-6-16
+- LEFT FUEL LINE
+- AIM EXCESS FUEL LINE AFT
+- AN833-6D, 2 PLACES
+
+DATE: 12/18/07 REVISION: 2 RV-10 PAGE 37-3
+
+=== PAGE 37-4 ===
+NOTE: This page depicts the installation of a fuel injected system for a Lycoming between the VA-178G Fuel Valve and the firewall. The ES AIRFLOW PUMP & FILTER are not included in the kit but can be purchased through Van's Accessory Catalog. If using a carbureted engine skip to Page 37-5.
+
+Step 1: Make four F-1048E Fuel Cradle Pads out of rubber channel as shown in Figure 1.
+(REMOVE HATCHED AREA, dimension: 2 1/2)
+
+FIGURE 1: FUEL CRADLE PADS
+
+Step 2: Place the F-1048E Fuel Cradle Pads on the flanges of both F-1048D Fuel Filter Brackets. See Figure 2.
+
+Step 3: Temporarily center the cylindrical portion of the ES AIRFLOW FUEL PUMP and the ES AIRFLOW FILTER on their respective F-1048D Fuel Filter Brackets. Create a fuel line from ATO-035X3/8 that will connect the filter to the pump. Place a AN818-6D Nut and AN819-6D Sleeve on each end of the fuel line then flare the ends (see Section 5P). Connect the fuel line to both the filter and the pump (check that the filter flow direction arrow is pointing away from the VA-178G Fuel Valve and towards the pump). See Figure 2.
+
+Step 4: Insert AN737TW-66 Hose Clamps trough the slots in the F-1048D Fuel Filter Brackets. Insert the fuel line, ES AIRFLOW FUEL PUMP and FILTER subassembly into the fuel filter brackets as shown in Figure 2. Tighten the hose clamps.
+
+Step 5: Most engine monitors use the Flo-Scan or FT-60 fuel flow transducer. An optional installation kit, PN# IE FLO-SCAN MOUNT KIT for the Flo-Scan is available through VAN'S ACCESSORY CATALOG. Install the flo-scan now using the instructions and hardware provided in the optional kit or skip to Step 6 if not using the flo-scan.
+
+Make a fuel line that connects the ES AIRFLOW FUEL PUMP to the flo-scan or FT-60. Install AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line then flare the ends.
+
+Make a fuel line that connects the flo-scan or FT-60 to the AN837-6D 45° Elbow Bulkhead fitting attached to the firewall. The fuel line should have adequate clearance from all aircraft structure. AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line then flare the ends. Install the flo-scan or FT-60. See Figure 3.
+
+Step 6: If not using the Flo-Scan or FT-60 make a fuel line that directly connects from the ES AIRFLOW FUEL PUMP to the AN837-6D 45° Elbow Bulkhead Fitting attached to the F-1001 Firewall Bulkhead Assembly. This fuel line should follow the alternate depiction shown with phantom lines in Figure 3 and have adequate clearance from all parts of the aircraft structure.
+
+Step 7: Make a fuel line that connects the bottom of the AN826-6D Tee Fitting (on the bottom of the VA-178G Fuel Valve) to the inlet side of the ES AIRFLOW FILTER. Keep this line as far forward as possible to provide clearance for the control system. Make a fuel line that connects the check valve on the ES AIRFLOW FUEL PUMP to the horizontal leg of the tee fitting on the bottom of the fuel valve. See Figure 3.
+
+FIGURE 2: FILTER AND PUMP INSTALLATION
+
+Figure 2 callouts:
+- ES AIRFLOW PUMP
+- ES AIRFLOW FILTER
+- F-1048D, 2 PLACES
+- F-1048E, 4 PLACES
+- AN737TW-66, 2 PLACES
+
+FIGURE 3: FINISHING THE TUNNEL FUEL LINES
+
+Figure 3 callouts:
+- FLO-SCAN
+- ES AIRFLOW FUEL PUMP
+- AN826-6D
+- ES AIRFLOW FILTER
+- KEEP THE FITTING AS CLOSE TO THE END OF THE RADIUS AS POSSIBLE
+- AN837-6D SEE PAGE 37-2
+- ALTERNATE ROUTING IF NOT USING A FLO-SCAN
+- FUEL LINE
+- VA-178G
+
+DATE: 12/18/07 REVISION: 2 RV-10 PAGE 37-4
+
+=== PAGE 37-5 ===
+NOTE: The next two pages depict the installation of a carbureted system between the VA-178G Fuel Valve and the F-1001 Firewall Bulkhead Assembly. The ES AIRFLOW FILTER and ES 40108 Facet Pump are not included in the kit but can be purchased through Van's Accessory Catalog.
+
+Step 1: Create two F-1048E Fuel Cradle Pads out of rubber channel as shown in Figure 1.
+(REMOVE HATCHED AREA, dimension: 2 1/2)
+
+FIGURE 1: FUEL CRADLE PADS
+
+Step 2: Place the F-1048E Fuel Cradle Pads on the flanges of the F-1048D Fuel Filter Brackets. See Figure 4.
+
+Step 3: Remove the forward most F-1048D Fuel Filter Bracket. Position the F-1048F Facet Pump Bracket as shown in Figure 2, then match-drill #40 the four attach holes in the flanges of the facet pump bracket into the F-1072 Fwd Fuse Bottom Skin. Remove the facet pump bracket.
+
+Step 4: Machine countersink (flush on the bottom surface) the four holes in the F-1072 Fwd Fuse Bottom Skin that attach the F-1048D Fuel Filter Bracket and the four holes that attach the F-1048F Facet Pump Bracket. Machine countersink for the head of an AN426AD3 rivet then deburr the top side of all eight holes.
+
+Step 5: Fill the four holes that attached the forward most F-1048D Fuel Filter Bracket with rivets as called out in Figure 2.
+
+Step 6: Final-Drill #40 the nutplate attach holes in the F-1048F Facet Pump Bracket. Deburr all the holes and edges then prime if desired.
+
+Step 7: Rivet two nutplates as shown in Figure 3. Rivet the facet pump bracket to the F-1072 Fwd Fuse Bottom Skin per the callouts in Figure 2.
+
+Step 8: Insert a AN737TW-66 Hose Clamp through the slots in the remaining F-1048D Fuel Filter Bracket. Center the ES AIRFLOW FILTER in the F-1048D Fuel Filter Bracket then tighten the hose clamp. See Figure 4.
+
+Step 9: Temporarily place the ES 40108 Facet Pump on the F-1048F Facet Pump Bracket as shown in Figure 4. Refer to Page 37-6, Figure 1 to make the fuel line that connects the ES AIRFLOW FILTER to the facet pump. Insert AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line, then flare the ends (see Section 5P). Attach the fuel line to the filter and the facet pump (check that both the pump and the filter have the proper flow direction). Attach the facet pump to the facet pump bracket using the hardware called out in Figure 4.
+
+FIGURE 2: MATCH-DRILLING THE FACET FUEL PUMP BRACKET
+
+Figure 2 callouts:
+- F-1072
+- F-1048F
+- ALL THREE BRACKETS HAVE A COMMON CENTERLINE
+- dimension: 5
+- AN426AD3-4, 4 PLACES
+- AN426AD3-3, 4 PLACES
+- F-1048D
+
+FIGURE 3: INSTALLING NUTPLATES
+
+Figure 3 callouts:
+- F-1048F
+- AN426AD3-4, 2 PLACES PER NUTPLATE
+- K1000-4, 2 PLACES
+
+FIGURE 4: FILTER AND PUMP INSTALLATION
+
+Figure 4 callouts:
+- F-1048F
+- ES AIRFLOW FILTER
+- ES 40108
+- AN4-3A, 2 PLACES
+- AN960-416L, 2 PLACES
+- F-1048E, 2 PLACES
+- AN737TW-66
+- F-1048D
+
+DATE: 12/18/07 REVISION: 2 RV-10 PAGE 37-5
+
+=== PAGE 37-6 ===
+Step 1: Most engine monitors use the Flo-Scan or FT-60 fuel flow transducer. An optional installation kit PN# IE FLO-SCAN MOUNT KIT for the Flo-Scan is available through VAN'S ACCESSORY CATALOG. If not using the Flo-Scan or FT-60 skip to Step 2.
+
+Place the flo-scan or FT-60 in the installed position. Make a fuel line that connects the ES 40108 Facet Pump to the flo-scan or FT-60. Slide AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line then flare each end. Attach the fuel line to the facet pump and the flo-scan or FT-60. Install the flo-scan or FT-60 using the instructions and hardware provided in the optional kit.
+
+Make a fuel line that connects the flo-scan or FT-60 to the AN837-6D 45° Elbow Bulkhead fitting attached to the firewall. The fuel line should have adequate clearance from all aircraft structure. Slide AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line then flare each end. Attach the fuel line to the 45° elbow bulkhead fitting and the flo-scan or FT-60. See Figure 1.
+
+Step 2: If not using the flo-scan or FT-60 make a fuel line that directly connects from the ES 40108 Facet Pump to the AN837-6D 45° Elbow Bulkhead Fitting attached to the F-1001 Firewall Bulkhead Assembly. This fuel line should follow the alternate depiction shown with phantom lines in Figure 1 and have adequate clearance from all the aircraft structure. Slide AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line then flare each end. Attach the fuel line to the 45° elbow bulkhead fitting and the facet pump.
+
+Step 3: Make a fuel line that connects the AN816-6D Nipple (on the bottom of the VA-178G Fuel Valve) to the inlet side of the ES AIRFLOW FILTER. Keep this line as far forward as possible to provide clearance for the control system. Slide AN818-6D Nuts and AN819-6D Sleeves over each end of the fuel line then flare each end. Install the fuel line between the nipple and the filter.
+
+FIGURE 1: FINISHING THE TUNNEL FUEL LINES
+
+Figure 1 callouts:
+- AN837-6D SEE PAGE 37-2
+- ALTERNATE ROUTING IF NOT USING A FLO-SCAN
+- FUEL LINE
+- VA-178G
+- FLO-SCAN
+- ES 40108
+- ES AIRFLOW FILTER
+- KEEP THE FITTING AS CLOSE TO THE END OF THE RADIUS AS POSSIBLE
+
+DATE: 12/18/07 REVISION: 2 RV-10 PAGE 37-6
+
+=== PAGE 37-7 ===
+Step 1: Install the Detent Position Screw in the bottom face of the VA-178B Detent Fuel Handle, as shown in Figure 1.
+- SCREW 1/8-440X3/16 (DETENT POSITION SCREW)
+- VA-178B
+
+FIGURE 1: DETENT POSITION SCREW INSTALLATION
+
+Step 2: Place the VA-178B Detent Fuel Handle onto the VA-178A Fuel Handle Shaft, then install the VA-178C Fuel Valve Spring using the Handle Shaft Screw, as shown in Figure 2.
+
+Step 3: Align the VA-178B Detent Fuel Handle with the slot in the VA-178A Fuel Handle Shaft, then install the handle using the screw and nut called-out in Figure 2.
+
+Step 4: After installation, ensure the handle lifts, rotates and seats correctly. For vertical position adjustment refer to Page 37-2, Figure 1. Add or remove the AN960-416 Washers, between the Fuel Valve and the F-1048C-1 Fuel Valve Bracket, until the Detent Fuel Handle contacts the Detent Plate when seated. Fuel Handle shown seated in Figure 3.
+
+FIGURE 2: DETENT FUEL HANDLE INSTALLATION
+
+Figure 2 callouts:
+- SCREW 5/16-18X3/8 (HANDLE SHAFT SCREW)
+- VA-178C
+- VA-178B
+- MS21044N04
+- SCREW 1/8-440X1/2
+- F-1051A
+- VA-178A
+- VA-178D
+
+FIGURE 3: CHECK DETENT FUEL HANDLE MOVEMENT
+
+DATE: 12/18/07 REVISION: 0 RV-10 PAGE 37-7
+
+=== PAGE 37-8 ===
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+DATE: 12/18/07 REVISION: 0 RV-10 PAGE 37-8

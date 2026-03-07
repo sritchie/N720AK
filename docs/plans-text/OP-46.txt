@@ -1,0 +1,397 @@
+BILL OF MATERIALS                                                                    VAN'S AIRCRAFT, INC.
+PART NAME        QTY
+HW-00100           2
+AN365-632A         2
+AN365-832          1
+AN426AD3-3.5      45
+AN507-6R6         10
+AN515-6R12         2
+BUSHING SB375-3    1
+BUSHING SB437-4   12
+                                                                     WH-F1001
+BUSHING SB500-6   12                            VA-195C              WIRE
+BUSHING SB625-7    5                            ACCESS HATCH
+                            VA-195D
+BUSHING SB750-10   1   ACCESS HATCH             DOUBLER
+ES 31890           1
+ES 421-0107        1                                                             VA-195F
+ES 421-0108        1                                                             MOUNT
+ES AUDIO WARN      1                                                             BRACKET
+ES DV18-188M       2
+ES E22-50K         1
+K1000-08           2                                                                      ES E22-50K
+K1100-06          10                                                                      MICRO SWITCH
+MS21044N04         2
+MS24693S10         2
+MS24694C14         1
+                                                                                            VA-195E
+NAS1149FN416P      4
+                                                                                            MOUNT
+NAS1146FN432P     14
+                                                                                            PLATE
+NAS1146FN832P      5
+RIVET MK-319-BS    5
+SCREW 8-32X1/2     2
+VA-195 TEMPLATE    1                                                                                                   W-701-L
+VA-195B            1                                                                                                   WING LEADING
+VA-195C            1                                                                                                   EDGE SKIN
+VA-195D            1
+VA-195E            1                                                             VA-196
+VA-195FG           1                                                             VANE
+VA-196             1
+WIRE #18 X 20'     1
+                                                                                                        RV-7,8 INSTALLATION
+ RV-9 INSTALLATION
+                                                                  VA-195B
+                                                                  KEEPER PLATE
+
+                                      VA-195G
+                                      MOUNT
+                                      BRACKET
+
+
+                                                                   OP-46:
+                                                               STALL WARNING
+                                                                  SYSTEM
+                            W-901-L
+                            WING LEADING
+                            EDGE SKIN
+                                                                                          DATE: 08/06/09 REVISION: 0   RV-7,8,9 PAGE OP46-01
+                        VAN'S AIRCRAFT, INC.                                                     SCREW HOLE,
+                                                                     CUT OUT PERIMETER             10 PLACES                 CORNER RADIUS
+                                                                            FOR VA-195D                                      PILOT HOLE
+                                                                          ACCESS HATCH                                       4 PLACES
+   NOTE: To help prevent scratching the wing skin, do not                                                                                                                                            VA-195C
+   remove the vinyl from the VA-195C Access Hatch                               VA-195C                                         1/2 DIAMETER,
+   Doubler.                                                                     ATTACH                                          4 PLACES
+                                                                                 HOLES,                                           FWD                            VA-195C
+   For installation on flying aircraft make a small dot in                   16 PLACES                                            REFERENCE
+   the corresponding rivet dimple with an ultra-fine tip                                                                          TAB
+   marker and align the reference tabs on those dots then                                                                         AFT
+   tape in place.                                                                                                                 REFERENCE
+                                                                                                                                   TAB                                                                      W-901-L
+   Step 1: Cleco the VA-195C Access Hatch Doubler to the                                                                                                                                           (SHOWN CUTAWAY)
+                                                                                  TIE-                                           RV-7,8
+   W-701-L or W-901-L Wing Leading Edge Skin as shown in
+                                                                                DOWN                                             REFERENCE
+   Figure 1 and Figure 2. Note that the aft reference tab has
+                                                                       FWD       HOLE                                            HOLE
+   three holes. The aft tab should be on the third rib fastener                                                                                                                  W-701-L
+   location as shown in Figure 1.                                                                                                                                                (SHOWN CUTAWAY)
+                                                                                                                                      W-701-L
+   Step 2: Match-Drill #40 the four corner radius pilot holes and                                                                                                                RV-7,8                            RV-9
+   the sixteen VA-195C Access Hatch Doubler attach holes                            OUTBD
+   indicated in Figure 1 into the W-701-L or W-901-L Wing                                                                                                       FIGURE 2: ACCESS HATCH CUTOUT (WING SHOWN UPSIDE DOWN)
+   Leading Edge Skin. Remove the access hatch doubler.
+                                                                                                RV-7,8
+                                                                                                                             VA-195C
+
+   Final-Drill #40 the nutplate attach holes along the inside edge                                                                                                  W-706-L
+   of the access hatch doubler.                                                                   SCREW HOLE,
+                                                                             CUT OUT              10 PLACES                                                                                                    W-709-L
+                                                                                                                        CORNER RADIUS                           K1100-06,
+   Step 3: Use a Unibit to enlarge the four corner radius pilot            PERIMETER                                    PILOT HOLE                             10 PLACES
+   holes drilled in the W-701-L or W-901-L Wing Leading Edge              FOR VA-195D                                   4 PLACES
+   Skin in Step 2 to 1/2 diameter.                                      ACCESS HATCH                                                                                                                               LEAVE THESE HOLE
+                                                                                                                          1/2 DIAMETER,                                                                            LOCATIONS OPEN
+                                                                                                                                                         VA-195C
+   Drill a few holes inside the final cut area and remove the                                                             4 PLACES                                                                                 TO ATTACH VA-195
+   material up to 1/8 inch of the final trim line. Remove the     VA-195C                                                    FWD                     TOOLING                                                       TEMPLATE (OP46-03, STEP 1)
+   remaining material between the quadrants of the four corner    ATTACH                                                     REFERENCE                 HOLE
+   radius holes to create the cutout for the VA-195D Access        HOLES,                                                    TAB
+   Hatch.                                                      16 PLACES                                                         AFT
+                                                                                                                                 REFERENCE
+   NOTE: If installing on painted aircraft, it is permissible to                                                                  TAB
+   machine countersink the rivet holes in the W-701-L or
+   W-901-L Wing Leading Edge Skin.                                                                                                                        SB375-3
+
+                                                                                                                                  RV-9                      AN426AD3-3.5,
+   Step 4: Remove the reference tabs from the VA-195C
+                                                                       FWD                                                        REFERENCE          2 PLACES / NUTPLATE
+   Access Hatch Doubler as shown in Figure 1.
+                                                                                                                                  HOLE
+   Step 5: Remove the vinyl from the VA-195C Access Hatch                                                                                                  AN426AD3-3.5,
+   Doubler and VA-195D Access Hatch. Deburr the edges and                                                                            TIE-DOWN                16 PLACES
+   holes of both parts. Dimple the screw holes in the access                        OUTBD                                            HOLE
+   hatch and access hatch doubler for the head of a #6 flush                                       RV-9
+   head screw.                                                                                                                    W-901-L                      AN507-6R6,
+                                                                                                                                                               10 PLACES
+   Dimple the remaining holes in both parts and the W-701-L or                      FIGURE 1: SKIN DETAIL
+   W-901-L Wing Leading Edge Skin for the head of a                               (ALL PARTS SHOWN FLAT)
+   AN426AD3 Rivet. Prime both parts if/as desired.
+                                                                                                                                                                            VA-195D
+   Step 6: Dimple the rivet holes in the nutplates then rivet the nutplates onto the VA-195C Access Hatch Doubler. See Figure 3. Leaving open
+   the two holes shown in Figure 3, rivet the access hatch doubler onto the W-701-L or W-901-L Wing Leading Edge Skin.
+
+   Step 7: Rivet the two holes in the W-701-L or W-901-L Wing Leading Edge Skin and W-709-L or W-909-L Wing Leading Edge Rib that were
+   used to locate the reference tabs in Step 1 with AN426AD3-3.5 rivets.                                                                                                           W-701-L
+                                                                                                                                                                      (SHOWN TRANSPARENT)
+   WARNING: Make sure the aluminum pitot line is not positioned behind the hole before you drill for Step 8.
+                                                                                                                                                                                                                         RV-9
+   Step 8: Final-Drill the tooling hole in the W-706-L Spar to 3/8 diameter. For the RV-9 drill a hole to 3/8 diameter in the W-906-L Spar
+   (approximately centered vertically on the spar and horizontally with the VA-195D Access Hatch). Install the snap bushing indicated in Figure 3.               FIGURE 3: RV-7,8 ACCESS HATCH INSTALLATION, RV-9 INSET
+PAGE   OP46-02 RV-7,8,9 REVISION: 0 DATE: 08/06/09
+NOTE: To help prevent scratching the wing skin, do not remove the vinyl from the VA-195 Template.                                      Step 4: Separate the VA-195FG Mount Bracket into VA-195F
+                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+                                                                                                                                       and VA-195G Mount Brackets. The VA-195F Mount Bracket is for the RV-7
+Step 1: Deburr the edges of the VA-195 Template then cleco to the holes left open in the VA-195C Access Hatch Doubler and              and RV-8 installations, the VA-195G Mount Bracket is for the RV-9 installation.
+W-701-L or W-901-L Wing Leading Edge Skin. The template has hole locations for the RV-7, RV-8 and the RV-9 installations. The          Choose the appropriate bracket for installation and discard the other.
+hole locations for your installation should be inboard when the template is attached to the aircraft. See Figure 1.
+                                                                                                                                       Step 5: Final-Drill #40 the rivet holes in the flanges of the VA-195F or VA-195G Mount Bracket, deburr and dimple (unless the wing
+                                                                                                                                       skin was machine countersunk) then prime the part if/as desired.
+
+                                    WRAP TEMPLATE
+                                AROUND THE LEADING
+                                  EDGE OF THE WING                                                    RV-7,8                                                                                                       VA-195F
+                                                                                                      REFERENCE HOLES
+             RV-9 REFERENCE
+                      HOLES
+                                                                                                                                             VA-195G
+   ATTACH TO HOLES
+  LEFT OPEN IN WING
+  LEADING EDGE SKIN
+        AND ACCESS                                                                             STALL WARNING GUIDE HOLES
+    HATCH DOUBLER
+
+
+                                                                                     VA-195 TEMPLATE
+
+
+
+
+                                  FIGURE 1: MATCH-DRILLING TEMPLATE
+
+
+
+Step 2: Starting with the bottom aft most hole and working around the leading edge, match-drill #40 and cleco the VA-195 Template to
+the W-701-L or W-901-L Wing Leading Edge Skin. Remove the template.
+
+                                                                                                                                                                     FIGURE 3: SEPARATING THE MOUNT BRACKETS
+NOTE: If you are unable to dimple the W-701-L or W-901-L Wing Leading Edge Skin, you may countersink for the head of an
+MK-319-BS Blind Rivet.
+
+Step 3: Dimple the rivet hole locations in the W-701-L or W-901-L Wing Leading Edge Skin. Final-Drill #10 both stall warning guide
+holes in the Leading Edge Skin. Remove the hatched area as shown in Figure 2, between the quadrants of the stall warning guide
+holes with a file. Deburr the final edge.
+
+
+
+
+                                                                               REMOVE
+                                                                               HATCHED
+                                                                               AREA
+
+
+
+
+                                                                                     STALL WARNING
+                                                                                     GUIDE HOLES
+
+
+
+
+               FIGURE 2: OPENING FOR STALL WARNING VANE RV-7,8, RV-9 SIMILAR
+                                                                                                                                                                                                                         DATE: 08/06/09 REVISION: 0   RV-7,8,9 PAGE OP46-03
+                       VAN'S AIRCRAFT, INC.                   Step 1: Final-Drill #31 the holes in the VA-195E Mount Plate and VA-195B Keeper Plate that are used to mount the        Step 8: Cleco the VA-195F or VA-195G Mount Bracket to the holes in the W-701-L or
+                                                              ES E22-50K Micro Switch. Machine countersink for the head of a #40 screw. See Figure 1.                                 W-901-L Wing Leading Edge Skin. The mount bracket flanges may require some
+                                                                                                                                                                                      fluting for a good fit. Rivet the mount bracket to the wing leading edge skin with the
+                                                              Step 2: Final-Drill #19 the hole in the VA-195E Mount Plate and VA-195B Keeper Plate that holds the #8 screw on         hardware called out in Figure 2.
+                                                              which the VA-196 Vane pivots. Machine countersink this hole in the mount plate for the flush head of a #8 screw. See
+                                                              Figure 1 for direction of screw.
+
+   Step 3: Machine countersink both sets of nutplate attach holes in the VA-195E Mount Plate. See Figure 1 for direction. Deburr all holes and edges on the mount plate and                                                           MK-319-BS
+   VA-195B Keeper Plate and radius the sharp corners on the VA-196 Vane as shown in Figure 1. Prime the parts if/as desired.                                                                                                          5 PLACES
+
+   Step 4: Rivet the nutplates onto the VA-195E Mount Plate using the rivets called out in Figure 1. It may be necessary to run a 8-32 tap part way through the nutplates to reduce             SLOT FOR
+   the locking friction and make installation of the screws easier within the confines of the wing.                                                                                        STALL WARNING
+                                                                                                                                                                                                                                                         VA-195F
+                                                                                                                                                                                            SUBASSEMBLY
+   Step 5: Assemble the VA-195E Mount Plate, ES E22-50K Micro Switch, VA-196 Vane, and VA-195B Keeper Plate with the hardware called out in Figure 1 to create the Stall
+   Warning Subassembly. Do not over-torque the nut on the screw about which the vane pivots. Insure that the stall warning vane can rotate freely.
+
+   NOTE: AN426AD3-3.5 solid rivets may be used in place of the blind rivets called out in Figure 2. If using solid rivets, it is necessary to install the VA-195F or VA-195G
+   Mount Bracket in the aircraft before attaching the Stall Warning Subassembly.
+
+   The fuel tank may be removed to allow better access to the work area if required.
+
+   Step 6: Make the ground wire by cutting a 3 1/2 inch length of #18 wire and attaching the terminal
+                                                                                                                                              NAS1149FN416P,
+   fittings as shown in Figure 1. Attach the ground wire to the Stall Warning Subassembly and attach                                                                                                                                                             W-701-L
+                                                                                                                   VA-195B                    4 PLACES
+   both to the VA-195F or VA-195G Mount Bracket as shown in Figure 1.                                                                                                                 PIVOT POINT FOR
+                                                                                                                                                        MS21044N04,                    STALL WARNING
+                                                                                                  NAS1149FN432P
+   NOTE: Make sure to remove primer or paint                                                                                                            2 PLACES                        SUBASSEMBLY
+                                                                                                      14 PLACES
+   that would prevent the ring terminal from
+                                                                                               COMMON
+   making a ground connection to
+   the mount bracket.                                                                  ES E22-50K
+                                                                    K1000-08,
+   Step 7: Attach the Stall Warning                                 2 PLACES                                                                                        AN365-832
+   Subassembly to the VA-195F or                                                                A
+   VA-195G Mount Bracket with the                       AN426AD3-3.5,                                   A                                                                                                           RV-7,8 INSTALLATION
+   hardware called out in Figure 1.                        4 PLACES
+                                          VA-195F
+   Attach the Ground Wire to the      (OR VA-195G
+   N.O. (normally open) terminal      NOT SHOWN)                                                                                                                                                                                                    MK-319-BS
+   on the ES E22-50K                                                                                                                                                                                                                                4 PLACES
+   Micro Switch.
+                                                                                                                                                                                              SLOT FOR
+                                                                                                                                          NORMALLY OPEN                                  STALL WARNING
+                       NAS1149FN832P                                                                                                                                                                                                                          VA-195G
+                                                                                                                                      NORMALLY CLOSED                                     SUBASSEMBLY
+
+                                                                                                                                NAS1149FN832P,
+                                                                                                                                4 PLACES
+
+                                                                                                                        VA-195E
+
+                                                                                                            MS24694C14
+                     REMOVE PAINT/
+                          PRIMER                                                                 MS24693S10,
+                                                                                                 2 PLACES                                                VA-196                                                                                                  W-901-L
+                                                                                                                                                                                          PIVOT POINT FOR
+                                                                                           ES DV18-188M                                                                                    STALL WARNING
+                                                                                                                                                                                            SUBASSEMBLY
+           SCREW 8-32X1/2,
+                2 PLACES
+                                                                                                                                                                      RADIUS 1/8
+                                      ES 31890                                    GROUND                                                                              CORNERS                                              RV-9 INSTALLATION
+                                                                                  WIRE
+                                                                                                                                          SECTION A-A
+
+                                                                   FIGURE 1: STALL WARNING SUBASSEMBLY                                                                                        FIGURE 2: INSTALLING THE MOUNTING BRACKET
+   OP46-04 RV-7,8,9 REVISION:0 DATE: 08/06/09
+PAGE
+Step 1: If not already installed, install the Stall Warning Subassembly on the VA-195F or VA-195G Mount Bracket as shown in        Step 4: Double check that the VA-196 Vane in the at rest position is
+                                                                                                                                                                                                           VAN'S AIRCRAFT, INC.
+Figure 1. The upper screw goes through the slot in the mount bracket and allows the angle of the Stall Warning Subassembly to be   perpendicular to the surface of the W-701-L or W-901-L Wing Leading
+adjusted. Adjust the subassembly until the VA-196 Vane activates and deactivates the ES E22-50K Micro Switch with the minimum      Edge Skin. If the vane is not perpendicular, remove the Stall Warning
+travel possible (it is permissible to bend the arm on the micro switch if/as required, see Figure 2).                              Subassembly and bend the vane as required. See Figure 2.
+
+Step 2: Make the WH-F1001 Wire by cutting a 8 1/2 foot length of #18 gauge wire. Install a female spade connector on one end of
+the wire as shown in Figure 1. Double check that the spade connector is properly installed!
+
+Step 3: Attach the WH-F1001 Wire to the COM. (common) terminal of the ES E22-50K Micro Switch. Route the wire aft through the                                                                                           BEND ARM IF/AS
+                                                                                                                                                           ES E22-50K                                                       REQUIRED
+snap bushing in the W-706-L Spar tooling hole or the hole created in the W-906-L Spar as shown in Figure 1.
+
+
+
+
+                                                                                                                                                                                                                 90°
+                                                                                                                                                                                                                                    MINIMIZE
+                                                                                                                                                                                                                                    TRAVEL
+                                                                                                                                                        VA-196
+
+
+
+                                                                                                                                                    BOTTOM OF
+                                                                                                                                                  VANE CUTOUT
+                                                                                                      W-909-L                                                                                                          W-701-L or W-901-L
+                        WH-F1001
+
+
+                                                                                                                                                                     FIGURE 2: ACTIVATING THE MICRO SWITCH
+
+
+                                                                                                                                   Step 5: Run the WH-F1001 Wire through the snap bushings in the W-711 or W-911 Inboard Wing Ribs to the root end of the wing.
+                                                                                                                                   Trim any excess wire, then attach a spade connector to the end of the wire. See Figure 3 and RV-7,8 Drawing 16A or RV-9
+                                                                                                                                   Drawing 9.
+
+                                                                                                                                   Step 6: Install the VA-195D Access Hatch using the hardware called out on Page OP46-02, Figure 3.
+
+
+
+                                                                                                                                                                                                                                                   ES 421-0107
+
+
+
+
+                                                                                                       VA-195G
+                                      GROUND WIRE
+
+                                          ES DV18-188M
+
+                                         STALL WARNING
+                                          SUBASSEMBLY                                                                                                                                                                                        ES 421-0108
+
+
+
+
+                                                                                                                                                                        FIGURE 3: WING ROOT CONNECTOR
+                 FIGURE 1: INSTALLING THE STALL WARNING SUBASSEMBLY
+                               (RV-9 SHOWN, RV-7,8 SIMILAR)
+                                                                                                                                                                                                               DATE: 08/06/09 REVISION: 0   RV-7,8,9 PAGEOP46-05
+                        VAN'S AIRCRAFT, INC.
+
+                              NOTE: Complete this page when wiring the fuselage. The ES Audio Warn may be located in the most
+                              convenient position. Allow additional wire as required.
+
+   Step 1: Position the ES Audio Warn on the upper forward fuselage as shown in Figure 1. Final-Drill #27 the two screw holes in the
+   ES Audio Warn into the upper forward fuselage. Deburr holes. See Figure 1.
+
+   Step 2: Install the ES Audio Warn with the hardware shown in Figure 1.
+                                                                                                                                                   ES PBB-2A CB
+   Step 3: Enlarge the wing wire run hole in the F-770-L or F-970-L Fwd Side Skin or the F-823-L Mid Side Skin to a size large enough to      STALL WARNING 2A                                                  AUDIO MIXER/
+   accommodate the wires coming from the wing. Deburr the hole then install a snap bushing of appropriate size.                             CIRCUIT BREAKER OR                      ES 31890                    AUDIO INPUT
+                                                                                                                                             EQUIVALENT CIRCUIT
+                                                                                                                                                                                                                         ES 421-0107        COMMON
+   Step 4: Run wires through the wiring run snap bushings in the F-704, F-904, or F-804 Center Section Bulkhead as shown in Figure 1.        PROTECTION DEVICE                 B8                                        ES 421-0108        TERMINAL
+   See RV-7 DWG 11, RV-8 DWG 64, RV-9 DWG 16 for snap bushing installation.                                                                (NOT PROVIDED IN KIT)
+                                                                                                                                                                                                           18
+   Step 5: Make the B8 wire from #18 gauge wire. Install an ES 421-0108 spade connector on one end of the B8 wire.
+   See OP46-05 Figure 3. Double check that the spade connector is properly installed!
+                                                                                                                                                                                               ES 31890
+   Step 6: Route B8 as shown in Figure 1 and as diagrammed in Figure 2.
+                                                                                                                                                                           CIRCUIT BREAKER     NORMALLY OPEN
+   Step 7: Connect ES Audio Warn to the audio system as shown in Figure 2.                                                                                                 BUS BAR +12V
+                                                                                                                                                                                                                                       ES E22-50K
+                                                                                                                                                                           (TYPICAL INSTALLATION,
+   Step 8: Test the installation by lifting the VA-196 Vane. A tone should sound when the vane is lifted.                                                                  VARIATIONS POSSIBLE)
+
+                                                                                                                                                                   FIGURE 2: STALL WARNING SYSTEM WIRING SCHEMATIC
+   Step 9: When properly adjusted, the stall warning will sound when approximately 10 mph
+   above actual stall speed. Flight test and make adjustments as needed. Bend the
+   VA-196 Vane up for higher speed activation, and down for lower speed activation.
+   See OP46-04 Figure 1 Section A-A.
+
+
+                                                                                                    LEAVE OPEN
+
+
+
+
+                                                                                                                                                 AN515-6R12,
+                                                                                 ES AUDIO WARN
+                                                                                                                                                 2 PLACES
+
+
+                                                                                                                                                                                                                         B8
+
+
+
+                                                      B8
+
+                                                                             HW-00100,
+                                                                             2 PLACES
+
+
+
+
+                                                                                                                                            AN365-632A,
+                                                                                                                                            2 PLACES
+                                                           SB750-10
+
+                                                                                                                                                                     WING WIRE RUN                                               WIRE RUN
+                                                                                                                                                                          LOCATION              SB750-10                         LOCATION
+                    WING WIRE RUN
+                         LOCATION
+
+
+                          RV-7,9 INSTALLATION                                                                                                                                              RV-8 INSTALLATION
+
+                                                                                           FIGURE 1: WIRE ROUTING AND PCB INSTALLATION
+PAGE   OP46-06 RV-7,8,9 REVISION: 0 DATE: 08/06/09
+

@@ -1,0 +1,101 @@
+=== PAGE FF5-1 ===
+SECTION FF5: OIL SYSTEM
+VAN'S AIRCRAFT, INC.
+DATE: 2/24/05 | REVISION: 0 | RV-10 | PAGE FF5-1
+
+[Title page with detailed view of oil system installation on engine]
+
+Callouts:
+- EA CV HOSE 7545, RV-10 BREATHER HOSE
+- FF-1005, BREATHER TUBE
+- VENT SCAT 4X16", OIL COOLER DUCT
+- VA-135, OIL COOLER HOSE
+- VA-187, 4" FLANGED DUCT
+- VA-190, OIL COOLER HOSE
+- EA OIL COOLER 20006A, RV-10 OIL COOLER
+- VA-186, OIL COOLER BOX ASSEMBLY
+- FF-1005B, SPACER, 2 PLACES
+
+
+=== PAGE FF5-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF5-2 | RV-10 | REVISION: 0 | DATE: 2/24/05
+
+Step 1: Make two FF-1005B Spacers from AT6-058X5/16 per the dimensions given in Figure 1.
+
+Step 2: Cut the EA CV HOSE 7545 RV-10 Breather Hose to the dimensions in Figure 2.
+
+Step 3: Attach the longer leg of the EA CV HOSE 7545 RV-10 Breather Hose to the engine using the hardware called out in Figure 3. Attach the FF-1005 Breather Tube to the Firewall Bulkhead Assembly and the breather hose using the hardware called out in Figure 3.
+
+FIGURE 1: MAKING THE SPACERS
+Dimensions:
+- 1/2 (length)
+- (dia. 5/16)
+
+FIGURE 2: MODIFYING THE RV-10 BREATHER HOSE
+Callouts:
+- TO ENGINE
+- TO BREATHER TUBE
+- 2 9/16
+- 1 9/16
+
+FIGURE 3: INSTALLING THE BREATHER TUBE
+Callouts:
+- EA CV HOSE 7545
+- AN737TW-38, 2 PLACES
+- FF-1005
+- FF-1005B, 2 PLACES
+- AN3-10A, 2 PLACES
+- MS21919DG16, 2 PLACES
+- FIREWALL BULKHEAD ASSEMBLY
+
+
+=== PAGE FF5-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 2/24/05 | REVISION: 0 | RV-10 | PAGE FF5-3
+
+Step 1: Install the fluid fittings into the input and output side of the EA OIL COOLER 20006A RV-10 Oil Cooler as shown in Figure 1. Note the clocking angle of the fluid fittings depicted in Figure 1.
+
+Step 2: Install the EA OIL COOLER 20006A RV-10 Oil Cooler to the VA-186 Oil Cooler Box Assembly as shown in Figure 1.
+
+Step 3: Connect the VA-135 and VA-190 Oil Cooler Hoses to the fittings installed in Step 1 and the fittings already installed on the engine in Section FF1. See Figure 1 and Figure 2.
+
+Step 4: Install two cushioned clamps to hold the VA-190 Oil Cooler Hose away from the WD-1001-D1 DYNA-1 Engine Mount as shown in the detail view in Figure 2.
+
+Step 5: Install the VENT SCAT 4X16" Oil Cooler Duct between the VA-187 4" Flanged Duct and the VA-186 Oil Cooler Box Assembly as shown in Figure 1 and Figure 2.
+
+FIGURE 1: INSTALLING THE OIL COOLER
+Callouts:
+- EA 4" DUCT HOSE CLAMP
+- VENT SCAT 4X16"
+- VA-190
+- VA-135
+- VA-186
+- AN822-8D
+- AN823-8D
+- AN960-10, 6 PLACES
+- AN3-3A, 6 PLACES
+- EA OIL COOLER 20006A
+
+FIGURE 2: HOOKING UP THE OIL COOLER (DETAIL VIEW PERSPECTIVE FROM FWD SIDE)
+Callouts:
+- AN525-10R10
+- MS21919DG10
+- MS21919DG12
+- WD-1001-D1
+- AN960-10
+- MS21042-3
+- EA 4" DUCT HOSE CLAMP
+- VA-187
+- VA-190
+- EA OIL COOLER 20006A
+- VA-135
+- VA-186
+- FLUID FITTINGS ALREADY INSTALLED INTO ENGINE PORTS IN SECTION FF-1
+
+
+=== PAGE FF5-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF5-4 | RV-10 | REVISION: 0 | DATE: 2/24/05
+
+This Page Intentionally Left Blank

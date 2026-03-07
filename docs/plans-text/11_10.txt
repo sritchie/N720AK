@@ -1,0 +1,659 @@
+                                                                          VAN'S AIRCRAFT, INC.
+
+
+   SECTION 11:
+EMPENNAGE ATTACH
+                HORIZONTAL
+                 STABILIZER
+                 ASSEMBLY                                                                    RIGHT ELEVATOR
+                                                                                                ASSEMBLY
+
+
+
+
+                                                              VERTICAL
+                                                             STABILIZER
+                                                             ASSEMBLY
+
+
+
+
+       LEFT ELEVATOR
+         ASSEMBLY             F-1095
+                       PITCH TRIM ACTUATOR
+                            ASSEMBLY
+
+                                        F-1098
+                                         SHIM,
+                                       4 PLACES
+                                                  TAILCONE                       RUDDER
+                                                  ASSEMBLY                      ASSEMBLY
+
+
+
+
+                                                                             DATE: 12/09/13 REVISION: 0   RV-10   PAGE   11-1
+                        VAN'S AIRCRAFT, INC.                                                                                            Step 3: (continued) Final check for 30° "UP" elevator travel and 25° "DOWN" elevator travel as shown in Figure 4. Elevator travel is
+                        Step 1: Install MD3614M Rod End Bearings and AN316-6 Jam Nuts into both elevators as shown                      best measured using a protractor or an electronic "smart level".
+                        in Figure 1. Tighten jam nuts after achieving the rod end bearing engagement called for in
+                        Figure 1, Detail A.                                                                                             Step 4: Secure the elevator in the "trail" position by placing strips of duct tape over the gap between the elevator counterbalance
+                                                                                      AN316-6                MD3614M                    arm and the horizontal stabilizer.
+                                                                                                                                                                                               AN960-416 AND/OR AN960-416L
+                                                                                                                                                                                                    USE AS REQUIRED TO
+                                                                                                                                                                                                   COMPLETELY FILL GAP.                     AN960-416
+         SEE DETAIL A                     SEE DETAIL A                                                                                                                                                 MAX 3 PER SIDE
+                                                                                                                                                      AN365-1032
+                                                                                                                                                                                                        AN960-416                                                  NOTE:
+                                                                                                                                                    AN3-10A
+                                                                                                                                  7/8                                                                                                                              PARTS VARY
+                                                                                                                                                                                                                                                                   DUE TO MFG.
+                                                                                                                                                                                                                                                                   TOLERANCES.
+                                                                                                                                                                                                       AN4-13A                              AN365-428              IN DETAIL B
+                                                                                                                                                                                                     OR AN4-14A                                                    MAKE CERTAIN
+                                                                                                                                                                                                      SEE NOTE                                                     BOLT GRIP
+                                                                                                                                                                                                                                                                   LENGTH IS
+                                                                                                   DETAIL A                                                                                                                                                        CORRECT.
+                                 FIGURE 1: ROD END BEARING ATTACH
+
+                                                                                                                                                                                                            5702-95-30
+                                                                                                                                                              AN960-10
+  Step 2: Attach the horizontal stabilizer to the workbench using four "drywall" type screws as shown in Figure 2. Position
+                                                                                                                                                                                                                                            RIGHT ELEVATOR
+  the stabilizer on the workbench such that the tips hang over the edges of the workbench. The overhang is necessary so                              DETAIL B                                                        DETAIL C           (NOT SHOWN IN MAIN VIEW)
+  that the elevator counterbalance arms will clear. See Figure 4. The screws are installed through the holes in the HS-1008
+  Horizontal Stabilizer Front Spar Attachment Brackets into the surface of the workbench. Rest the rear spar of the
+  horizontal stabilizer on a spacer block as shown in Figure 2 to hold the horizontal stabilizer in it's correct orientation.                                                          HORIZONTAL STABILIZER
+
+                                            DRYWALL SCREW,
+                                               4 PLACES
+
+                                                                        HORIZONTAL STABILIZER
+                                                                                                                                                         SEE DETAIL B                  SEE DETAIL B
+
+
+
+                                                                                                                                                                                                                          DETAIL C
+                     HS-1008
+                                                                                                                                                                                                                             LEFT ELEVATOR
+
+
+                                                                                            11/16
+                                                                                                                                                                  FIGURE 3: ELEVATOR INSTALLATION
+                                                                                        SPACER BLOCK
+
+                                                                                                                                                                                                                                 ELEVATOR IN
+                                                                                                                                                                                                                                  "FULL UP"
+                                                                                           WORKBENCH                                                                                          LEFT ELEVATOR                       POSITION
+                                                                                                                                                                                                                          ELEVATOR IN
+                                                                                                                                                                                                                            "TRAIL"
+                                         FIGURE 2: HORIZONTAL STABILIZER SETUP                                                                                  HORIZONTAL STABILIZER
+                                                                                                                                                                                                                           POSITION                              30.0°
+
+
+
+   Step 3: Temporarily install the left elevator to the horizontal stabilizer as shown in Figure 3. Elevator attach hardware is
+   shown in Figure 3, Detail B. Not completely filling the gap between the elevator horn and the VA-146 with washers and
+   then tightening the bolt to remove the gap will cause slight binding in the rod end bearings.
+                                                                                                                                                                                                                                                                 25.0°
+  Perform an initial check to see that the elevator rotates freely and with no interference. The elevator should not come in
+  contact with the upper or lower flanges of the horizontal stabilizer. There should be 1/8 inch gap between the outboard                                                                                                                  ELEVATOR IN
+  edge of the horizontal stabilizer and the inboard edge of the elevator counterbalance arm. Tighten the jam nuts after                                                                                                                    "FULL DOWN"
+  completing the adjustments.                                                                                                                                                                                                                POSITION
+                                                                                                                                                                                         FIGURE 4: ELEVATOR TRAVEL
+
+PAGE   11-2     RV-10      REVISION: 1    DATE: 12/09/13
+Step 1: Locate the steel E-Drill Bushing provided in the kit and shown in Figure 1 below. The drill bushing will be used                Step 6: With both elevators in the "trail" position there will most likely be a
+                                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+to protect the hinge bearing from the drill bit when match-drilling the elevator horns to the inboard elevator hinge point. It          mismatch in position between the bottom end of the WD-605-L-1 Elevator Horn and the bottom end of the
+may be necessary to reduce the diameter of the tube to get it to fit inside the bearing. Mount the tube in a drill press then           WD-605-R-1 Elevator Horn. Identify which of the two elevator horns is the most aft.
+hold a file to it until the diameter measures 1/4 [6.4 mm].
+                                                                                                                                         Step 7: In the most aft WD-605-1 Elevator horn, locate and drill a 3/16 inch hole as shown in Figure 3.
+
+
+
+                                                         1                                   Ø1/4
+                                                    [25.4 mm]                              [Ø6.4 mm]
+
+                                                                                            Ø.120
+                                                                                            [3.0 mm]
+                                         FIGURE 1: E-DRILL BUSHING
+
+
+                                                                                                                                                                                             ELEVATOR
+
+                                                                                                                                                                                                      WD-605-1                                      HORIZONTAL
+Step 2: Insert the E-Drill Bushing into the VA-146 Elevator
+                                                                                                                                                                                                                                                    STABILIZER
+Center Bearing as shown in Figure 2. Match-Drill #30 the
+WD-605-L-1 Left Elevator Horn using the E-Drill Bushing as                                                                                                                                                DRILL
+a drill guide.                                                                                                                                                                                            Ø3/16
+
+                                                                                                                                                                                                                                                  3/8 MINIMUM
+
+                                                                                                                                                                                                      1/2 MINIMUM
+                                                                                                                                          HORIZONTAL STABILIZER
+                                                                                                                                         (SOME PARTS NOT SHOWN
+                                                                                                                                              FOR CLARITY)
+
+                                                                                                                                                                                          FIGURE 3: ELEVATOR PUSHROD BOLT HOLE
+                                                                                VA-146
+
+
+                                                                                                                                                                                Step 8: Measure the spanwise distance between the WD-605-L-1 and WD-605-R-1 Elevator
+                                                                                                                                                                                Horns.
+
+                                                                                                                                                                                Step 9: Make or find or otherwise acquire a block of wood/plastic/metal that is the same
+                                                                                                                                                                                thickness or up to 1/32 inch less than the distance measured in Step 8. The block should be
+                                                                                                                                                                                3/4 to 1 1/4 inch wide and 2 to 3 inches long. This Drill Guide Block will be used to keep the bit
+                                                                                                                                                                                perpendicular when drilling from one elevator horn to the other. A stack up of blocks is
+                                                                                                                                                                                acceptable if a single block the correct thickness is not available. Use a drill press to drill a 3/16
+                                                                                                                                                                                inch diameter hole in the block(s) 1/2 inch from one end. The hole must be perpendicular to the
+                                                                                                                                                                                drill guide block.
+                                              LEFT ELEVATOR
+                                                                                                                                                                                Step 10: Insert a 3/16 bolt through the hole drilled per Step 7 in the WD-605-1 Elevator Horn.
+                                                                                                                                                                                Place the Drill Guide Block against the elevator horn with the bolt passing through the hole
+                                                                             WD-605-L-1                                                                                         drilled per Step 9. Clamp both elevator horns together with the drill guide block between them
+                                                                                                                                                                                then double-check that both elevators are aligned in trail.
+                                                                                                                              MATCH-DRILL WD-605-L-1
+                                                                                E-DRILL BUSHING                              THROUGH E-DRILL BUSHING                            Step 11: Remove the 3/16 bolt from the WD-605-1 Elevator Horn and Drill Guide Block.
+                                                                                                                                INSERTED IN VA-146                              Match-Drill #12 a hole in the elevator horn using the elevator horn and drill guide block to aid
+                                                                                                                                                                                alignment. Drill the hole as straight and as square as humanly possible.
+                                                   FIGURE 2: MATCH-DRILL ELEVATOR HORN
+                                                                                                                                                                                Step 12: Remove the clamp and Drill Guide Block from the WD-605-1 Elevator Horns and then
+                                                                                                                                                                                remove the elevators from the horizontal stabilizer. Reinstall the elevator attach hardware
+Step 3: Remove the left elevator from the horizontal stabilizer. Final-Drill the hole in the WD-605-L-1 Elevator Horn to 1/4
+                                                                                                                                                                                finger tight in the horizontal stabilizer hinge brackets so that it won't get lost. Deburr the holes
+inch and deburr the hole.
+                                                                                                                                                                                in the elevator horns and set the elevators safely aside.
+Step 4: Repeat Page 11-2, Steps 3 and 4 and Steps 1 through 3 for the right elevator.
+
+Step 5: Install both right and left elevators to the horizontal stabilizer. See Page 11-2, Figure 3 for hardware call-out.
+Secure both elevators in the "trail" position by placing strips of duct tape over the gap between the elevator
+counterbalance arm and the horizontal stabilizer.
+                                                                                                                                                                                                                                DATE: 6/13/14   REVISION: 2   RV-10       PAGE   11-3
+                        VAN'S AIRCRAFT, INC.                                                                                               Step 3: Attach the F-1098 Shims to the underside of the
+                                                                                                                                           HS-1008 Horizontal Stabilizer Front Spar Attach Brackets with
+                                                                                                                                           double sided tape as shown in Figure 3. Carpet tape provides
+                                                                                                                                           good results. The tape will hold the shims in position while
+                                                                                                                                           being drilled in assembly with the tailcone.
+
+   Step 1: Final-drill 1/4" the vertical stabilizer attach hole in the VS-1016 Vertical Stabilizer Front Spar Attach Bracket as shown in
+   Figure 1. Final-Drill #12 the four holes common to the vertical stabilizer front spar attach bracket and the HS-1002 Front Spar.                                          FLUSH F-1098 WITH
+   Deburr the holes and set the bracket aside for now.                                                                                                                      HS-1008 ON ALL SIDES
+
+
+
+                                                                                      HS-1002
+                                                                                                                                                              HORIZONTAL STABILIZER
+                                                                                                                                                              SHOWN INVERTED
+
+                                                                           VS-1016
+
+
+
+
+                                                                                                                                                                                                                     DOUBLE
+                                                                                                                                                                                                                   SIDED TAPE
+
+                                                                       FINAL DRILL 1/4
+                                                                                                                                                                                                                                                                                 F-1098
+
+                                                                                                                                                                                                                                                                             HS-1008-L
+
+                                                                                                                                                                                                                            FIGURE 3: ATTACH SHIMS
+                                                                                 FINAL DRILL #12
+                                                                                       4 PLACES
+                                                                                                                                           Step 4: Lower the horizontal stabilizer onto the tailcone so that the HS-1003 Rear Spar is aft of the F-1011C Horizontal Stabilizer
+                                                                                                                                           Attach Bars protruding from the aft fuselage as shown in Figure 4. Cleco the horizontal stabilizer to the horizontal stabilizer attach
+                                                                                                                                           bars using the two #30 alignment holes in the horizontal stab and the two 1/8 inch holes in the bars.
+
+                                                                      FIGURE 1: DRILLING VERTICAL STABILIZER                               Match-Drill #12 four holes in the horizontal stabilizer attach bars using the rear spar web as a drill guide. After each hole is drilled
+                                                                      FRONT SPAR ATTACH BRACKET WITH SPAR                                  insert the hardware shown in Figure 4.
+
+                                                                                                                                                                                                                                                                          AN3-6A
+                                                                                                                                                                                                        F-1011C                                                           AN960-10
+                                                                                                                                                                                                                                                                          AN365-1032
+                                                                                                                                                                                      1/8 ALIGNMENT HOLE                                                                  4 PLACES
+  Step 2: Fabricate four F-1098 Shims as shown in Figure 2 from AB4-125X1 1/2 aluminum bar.
+
+
+                           R1/8                               1 5/8
+                        2 PLACES
+
+
+
+
+                                                                                         1
+
+
+
+
+                        1/8 REF.                               1 1/2
+                                                                                                                                                                                        MATCH-DRILL #12
+                                                                                                                                                                                           4 PLACES                                                                           CLECO
+                                                                                                                                                                                                                                                                              2 PLACES
+                                                                                                                                                                                                                                                                           HS-1003
+                                            FIGURE 2: FABRICATE SHIMS
+                                                                                                                                                                                                            FIGURE 4: CLECO AND DRILL ATTACH BARS
+PAGE   11-4    RV-10       REVISION: 1   DATE: 12/09/13
+Step 1: Cut a 2x4 wood block to length so it nests snug                                                                             Step 3: Match-Drill #12 the F-1098 Shims, F-1014 Aft Deck,
+                                                                                                                                                                                                                VAN'S AIRCRAFT, INC.
+between the HS-1008 Horizontal Stabilizer Front Spar Attach                                                                         F-1010B Spacer and F-1010A Angle using the four holes in the HS-1008 Horizontal Stabilizer Front
+Brackets as shown in Figure 1. Since the block doesn't sit flat,                                                                    Spar Attach Brackets as drill guides as shown in Figure 3. It may be necessary to use at least a 6 inch long
+clamp it near it's forward edge so that it does not damage the            HS-1008-R                                                 extended drill bit. The F-1010B Spacer and F-1010A Angle are not shown. Remove the horizontal stabilizer.
+F-1014 Aft Deck. This will hold the horizontal stabilizer in a fixed                                                                Deburr and prime if/as desired. Bolt the horizontal stabilizer to the tailcone using the hardware
+position.                                                               REFERENCE                                                   shown in Figure 3 and Page 4, Figure 4.
+                                                                          MARKS
+Add reference marks adjacent to one another on the wood block                                                                                                                                                        Step 4: Bolt the VS-1016 Vertical Stabilizer
+                                                                                                                                                                                              HS-1008-R
+and aft deck.                                                                                                                                AN3-11A                                                                 Attach Bracket to the HS-1002 Front Spar as
+                                                                         F-1014
+                                                                                                                                            AN960-10                                                                 shown in Figure 4.
+                                                                                                                                           AN365-1032
+                                                                                                                                            4 PLACES
+
+                                                                                                                                       MATCH-DRILL 3/16                                                                                                     HS-1016
+                                                                                                                                     THEN FINAL-DRILL #12
+                                                                                                                        HS-1008-L                                                                                                                                HS-1002
+                                                                                                                                          4 PLACES
+                                                                                                                        WOOD
+                                                                                                                        BLOCK
+
+
+                                                                                                                                              F-1014
+
+                                                                                                                                                                                        CLAMPS NOT
+                                                                                                                                                     F-1098                             SHOWN FOR
+                                                                                                                                                      TYP.                              CLARITY
+                                                                                                                                                                                                                                                          AN3-6A
+                                                                                                                                                                                                                                                          2X AN960-10
+                                                                                                                                                           WOOD                                                                                           AN365-1032
+                                                                                                                                                           BLOCK                                                                                          4 PLACES
+                                                                        FIGURE 1: CLAMP BLOCK TO AFT DECK
+
+                                                                                                                                     FIGURE 3: MATCH-DRILL SPACERS AND TAILCONE                                      FIGURE 4: ATTACH VS-1016
+                                                                                                                                    Step 5: Final-Drill #12 the top two 3/16 holes in the rear spar doubler as shown in Figure 5. Bolt the vertical stabilizer to the F-1012
+Step 2: Measure from the aft outboard corners of the HS-1001 Skins to a common rivet hole on the centerline of the F-1075           Aft Fuselage Bulkhead Assembly using the upper two AN3 bolts called out in Figure 6. Final-Drill #12 the four remaining 3/16 holes as
+Tailcone Aft Top Skin as shown in Figure 2 to check that the horizontal stabilizer is square to the tailcone. If the two            shown in Figure 5 then machine countersink the two bottom holes. Install the hardware shown in Figure 6. Match-Drill #30 and
+measurements are equal the stabilizer is properly positioned. Proceed to the next step. If the measurements differ loosen the       final-drill #12 where called out in Figure 5, then install the corresponding hardware called out in Figure 6.
+clamps holding the block of wood, slightly rotate the stabilizer, tighten the clamps and recheck the measurements. Repeat this
+until the lengths are equal.
+
+                                                                                                                                                                                                                                                           AN3-6A
+                                                                                                                                                                                                                                                           2X AN960-10
+                                           F-1075                                  EQUAL LENGTHS                                                                                                                                                           AN365-1032
+                                                                                                                                                                                                                                                           2 PLACES
+                                       TAILCONE
+                                                                                                                                                                                                                                                           AN3-6A
+                                                                                                                                                                                                                                                           AN960-10
+                                                                                                                                                                                                                                                           AN365-1032
+   HORIZONTAL STABILIZER
+                                                                                                                                                        FINAL-DRILL #12                                                                                    2 PLACES
+
+
+                                                                                                                                                                                                                                                           AN3-6A
+                                                                                                         HS-1001                                        MATCH-DRILL #30
+                                                                                                                                                                                                                                                           2X AN960-10
+                                                                                                                                                        FINAL-DRILL #12
+                                                                                                                                                                                                                                                           AN365-1032
+                                                                                                                                                                                                                                                           2 PLACES
+                                                                                                                                                                                                            F-1012
+                                                                                                                                                        FINAL-DRILL #12
+                                                                                                                                                                                                            ASSEMBLY                                       AN509-10R11
+                                                                                                                                                                                                                                                           AN960-10
+                                             FIGURE 2: SQUARE HORIZONTAL                                                                                FINAL-DRILL #12                                                                                    AN365-1032
+                                               STABILIZER WITH TAILCONE                                                                                 C'SINK                                                                                             2 PLACES
+
+                                                                                                                                                                                                            FIGURE 6:
+                                                                                                                                                                                                 VERTICAL STABILIZER INSTALLATION
+                                                                                                                                    FIGURE 5
+                                                                                                                                                                                                                      DATE: 12/09/13 REVISION: 1   RV-10      PAGE   11-5
+                         VAN'S AIRCRAFT, INC.                                                                                                 Step 5: Install the F-1091 Elevator Pushrod bolting it to the WD-605-L-1 and WD-605-R-1 Elevator Horns
+                                                                                                                                              and to the F-635 Bellcrank Assembly using the hardware shown in Figure 3, Details A and B.
+                                                                                         VERTICAL STAB.
+                                                                                         (SHOWN AFT OF
+                                                                                        ACTUAL POSITION)                                                                              DETAIL A
+   Step 1: Apply a thin coating of Anti-Seize paste to the
+   contact area of the Vertical Stabilizer Front Spar and
+   VS-1016 Vertical Stabilizer Front Spar Attach Bracket.
+                                               AN4-5
+   Bolt the vertical stabilizer to                                                                                                                                                                                                    DETAIL B
+                                           2X AN960-416
+   the VS-1016 Vertical                      AN310-4
+   Stabilizer Front Spar Attach      MS24665-208 (NOT SHOWN)
+   Bracket with the
+   hardware shown
+   in Figure 1.
+                                                                                                                          VS-1016                                          FIGURE 3: PUSHROD INSTALLATION
+
+
+
+                                                                                                                                               NOTE: Parts vary due to manufacturing tolerances. In Detail B make certain bolt grip length is correct. If gap
+                                                                                                                                               exists after using maximum number of washers, tighten nut and bolt to eliminate gap.
+
+                                                                                                                                               WARNING: Do not exceed the maximum number of washers shown in Detail B.
+                                                                            FIGURE 1: VERTICAL STABILIZER
+                                                                               FORWARD ATTACH POINT                                                                                                                                    WD-605-R-1
+                                                                                                                                              AN365-1032                                                   F-1091
+                                                                                                                                                                                                                                                       AN365-1032
+   Step 2: Bolt the elevators to the horizontal stabilizer. They should swing freely with no resistance. See Page 11-2, Figure 3.                                                                                                                      AN960-10 OR -10L
+                                                                                                                                                AN960-10
+   Step 3: Cut the F-1091 Pushrod to length from AT6-035 X 1 1/2 aluminum tube as shown in Figure 2.
+                                                                                                                                                                                                                                                       DO NOT EXCEED
+  Step 4: Install the VA-101 Threaded Insert into the F-1091 Elevator Pushrod. In order to accurately mark the locations of the threaded                                                                                                               2X AN960-10
+  insert attach holes onto the pushrod make a simple template from a strip of stiff paper. Wrap the 1/2 X 2 in. strip around the outside of                                                                                                            1X AN960-10L
+                                                                                                                                                    F-635
+  the pushrod, trim it until the ends just meet, then flatten it out and mark the pattern of six evenly spaced holes. Wrap it around the                                                                                                               PER SIDE
+  pushrod again and transfer the spacing to the pushrod. Drill # 30. Disassemble, deburr and prime the pushrod ends.                             AN3-10A
+                                                                                                                                                                                 DETAIL A                           DETAIL B                           AN3-12A
+  Because the pushrod effectively becomes an enclosed unit with no practical possibility of internal inspection we recommend priming
+                                                                                                                                                                                                                                                       OR AN3-13A
+  the inside of the pushrod. Pour liquid primer into one end and swirl it toward the other, coating the entire inside of the pushrod. An
+                                                                                                                                                                                                                                                       SEE NOTE
+  alternative method is to spray primer into one end of the pushrod, then turn the pushrod around and spray into the other end. Let the
+  primer cure thoroughly before continuing. The primer must be dry before installing the rod end bearings. We have seen wet primer
+  migrate into the rod end bearing and freeze the bearing.
+
+  Reinstall the threaded insert and rivet as called out in Figure 2. Thread the jam nuts onto the rod end bearing shanks then thread the
+  rod end bearings into both ends of the pushrod. Leave the jam nuts finger tight for now.
+                                                                                                                                              Step 6: Check for the proper amount of                                                               ELEVATOR HORN
+                                                                                                                                              elevator travel. See Page 11-2, Figure 4 for          F-1011B
+                                                                                                                                              the degrees of travel. File if/as required the
+                                                                                                                                              F-1011B Stop/Doubler and/or the F-1012D Up
+                                              77 15/32 REF.                                                                                   Elevator Stop as shown in Figure 4.                                                                               F-1012D
+
+              1 1/8                                 73                               1 3/32                1 1/2                              Since it is common for one horn to be farther
+                                                                                                           REF.                               forward than the other it is acceptable for only
+                                                                                                                                              the forward horn to make contact with the
+                                                                                                                                              stop/doubler. This also applies to the up
+                                                                                                                                              elevator stop and the most aft horn.
+
+         FWD END
+
+                                           1/4                                                  2X MD3616M
+   12X MSP-42                                       F-1091                                                                                                                                                                                    FILE HERE IF/AS
+   (6 PER END)                                                      2X VA-101                 2X AN316-6                                                                                                                                      REQUIRED
+
+                               FIGURE 2: PUSHROD ASSEMBLY
+                                                                                                                                                                                                        FIGURE 4: ELEVATOR STOP ADJUSTMENT
+PAGE   11-6     RV-10       REVISION: 2   DATE: 10/31/14
+Step 1: Secure the elevator in the "trail" position by placing strips of duct tape over the gap between the elevator counterbalance     Step 6: Bolt the rudder to the vertical
+                                                                                                                                                                                                                              VAN'S AIRCRAFT, INC.
+arm and the horizontal stabilizer.                                                                                                      stabilizer as shown in Figure 4 using
+                                                                                                                                        only the top and bottom hinge                                                           VERTICAL STABILIZER
+Step 2: Transfer the template shown in Figure 1 to a piece of stiff cardboard or wood. (To avoid cutting up your plans centerpunch      hardware. Check for travel and adjust
+through the paper just at the 3 corners.) Adjust the rod end bearings on the F-1091 Elevator Pushrod until the angle of the F-635       as required. Finally, adjust the center                                                                     RUDDER
+Bellcrank Assembly matches that of the template as shown in Figure 2.                                                                   rod end until a bolt can be slipped
+                                                                                                                                        into place. The rudder should swing
+Step 3: Tighten the jam nuts against the threaded inserts.                                                                              freely.                                                                                                                         SEE FIGURE 3
+                                                                                                                                                                                                                                                                        DETAIL A
+WARNING: In the final installation both
+rod ends must have over half the thread
+engaged making it impossible for a
+bearing to back off the pushrod if both
+ends are pinned.
+
+Step 4: Remove the duct tape added from
+Step 1. Deflect the elevator to the stops
+and check for any interference or
+resistance in the system.
+                                                                                     TEMPLATE                                                                                               AN3-10A
+                                                                                                                               F-1091
+Remove and store the pushrod.                                                                                                                                                             2X AN960-10
+                                                                                                                                                                                          AN365-1032
+                                                                                                                               F-635
+
+
+
+
+                                                         91.4°                                                                                 AFT FUSELAGE, HORIZONTAL
+                                                                                                                                               STABILIZER AND ELEVATORS
+                                                                                                                                                NOT SHOWN FOR CLARITY.
+
+
+
+
+                              FIGURE 1: TEMPLATE                                  FIGURE 2: TEMPLATE PLACEMENT                                               FIGURE 4: ATTACH RUDDER
+                                                                                                                                                              TO VERTICAL STABILIZER
+
+
+                                                                                                                                               ELEVATOR                                          R-1007B
+Step 5: Thread the AN316-6 jam nuts onto the MD3614M rod end bearings and thread the rod end bearings into the R-1002 Rudder
+                                                                                                                                                                    CL
+Spar as shown in Figure 3, Detail A. Measure from the center of the pivot bolt hole to the forward face of the rudder spar. As a
+starting point use the dimension shown in Figure 3, Detail A.
+
+
+
+                                                  RUDDER                                                                                          TRIM
+                                                                                                                                                  TAB
+             SEE DETAIL A                                                                                       MEASURE FROM
+                                                                                                                FWD FACE OF
+                                                                                                                R-1002
+                                                                               3/4
+                                                                            3 PLACES                                                                                              Step 7: Check to see that the rudder travels 35°.
+                                                                                                                                                                                  Do this by fixing the elevators in the "trail" position (See Step 1),
+             SEE DETAIL A                                                                                                                                       35°               taping the trim tabs in the neutral position, and then fully deflecting the rudder.
+                                                                                                                                                               REF.
+                                                                   MD3614M                                                                                                Step 8: Measure the clearance between the inboard trailing edge of the trim tab and the
+                                                                                                                                                                          adjacent rudder skin as shown in Figure 5. When this dimension is approximately 2 3/16
+                                                                               AN316-6
+                                                                                                                                                           APPROX. 2 3/16 inches the rudder travel is 35° and the R-1007B Rudder Stop is properly adjusted. The
+             SEE DETAIL A                                                                                                                                                 rudder stops were designed to allow 35° of travel so a very small if any adjustment should be
+                                                                                                                                                          RUDDER          necessary. If more travel is needed file the rudder stops (See Figure 4) if/as required. If there
+                                                                                                                                                                          is too much travel shorten the bottom rod end. Tighten the jam nuts when the adjustments
+                                                                                                                                                                          are complete.
+            FIGURE 3: ATTACH ROD END                                                                                                              FIGURE 5:
+               BEARINGS TO RUDDER                                                       DETAIL A                                                RUDDER TRAVEL
+                                                                                                                                                                                  Step 9: Remove and store the rudder and vertical stabilizer.
+
+                                                                                                                                                                                                                                    DATE: 12/09/13 REVISION: 1    RV-10       PAGE   11-7
+                             VAN'S AIRCRAFT, INC.                                                Step 3: Fit the F-1095F Trim Servo Spacer to the underside of F-1095A Trim Mount           Step 5: Cleco the F-1095F Trim Servo Spacer to the F-1095A Trim Mount Bracket as
+                              Step 1: Fabricate two F-1095C Trim Bellcrank Brackets from         Bracket as shown in Figure 3.                                                              shown in Figure 3. Cleco through F-1095G Trim Cable Anchor Bracket attach holes
+                              AA6-063X3/4X3/4 Aluminum Angle as shown in Figure 1.                                                                                                          leaving open the four corner holes in the trim servo spacer.
+                                                                                                 The upper forward edges of the trim servo spacer must be rounded to nest inside the
+  It is critical that the 1/4 inch diameter hole and the 1/8 inch diameter hole are exactly in   bend radius of the trim mount bracket. The upper surface of the trim servo spacer          Final-Drill #28 the four corner holes in the trim servo spacer.
+  line with each other.                                                                          must fully contact the lower surface of the trim mount bracket.
+                                                                                                                                                                                            Remove the trim servo spacer from the trim mount bracket.
+                                                 1
+                                                                                                                                                                                            Machine countersink the eight #30 holes in the trim servo spacer for AN426AD4 rivets.
+                                                                                                                                                                                            Countersink the LOWER SURFACE of the trim servo spacer. See Figure 3.
+                                                                                                      ROUND EDGES AS
+          7/16                                                                                       REQUIRED TO NEST
+                                                                                                    INSIDE BEND RADIUS                                                                      Step 6: Run a #40 drill through the eight 3/32 inch diameter nutplate attach holes in
+                                                                                                                                                                                            the F-1095A Trim Mount Bracket.
+
+                      Ø1/8                                                                                                                                                                  Machine countersink the eight #40 holes in the trim mount bracket for AN426AD3
+                                                                                                                                                                                            rivets. Countersink the UPPER SURFACE of the trim mount bracket. See Figure 3.
+                                                                  (1/16)
+                        29/32                  29/32
+                                                                                                                                                                 F-1095A                    Run a #30 drill through the 1/8 inch diameter holes in the close-out flanges in the trim
+                      Ø1/4
+                                                                                                                                                                                            mount bracket.
+                                                                                  (3/4)                                                                   F-1095F
+              7/16
+                                                                                                                                                                                            Step 7: Deburr all holes and edges of the F-1095A Trim Mount Bracket, F-1095C Trim
+                                                                                                                                                                                            Bellcrank Brackets, F-1095F Trim Servo Spacer, and F-1095G Trim Cable Anchor
+                                                 1                    (3/4)                                                                                                                 Brackets.
+                                                                                                                                                        FIGURE 3:
+                                       2                                                                                                       FITTING TRIM SERVO SPACER                    Prime the trim bellcrank brackets and trim cable anchor brackets. All other F-1095
+                                                                                                                                                 TO TRIM MOUNT BRACKET                      Assembly parts are made from alclad material and may be primed if/as desired.
+                                          FIGURE 1:
+                                  TRIM BELLCRANK BRACKET                                                                                                                                    Step 8: Rivet the F-1095C Trim Bellcrank Brackets, F-1095F Trim Servo Spacer,
+                                                                                                                                                                                            F-1095G Trim Cable Anchor Brackets, and K1000-08 Nutplates to the F-1095A Trim
+                                                                                                 Step 4: Cleco the F-1095F Trim Servo Spacer to the F-1095A Trim Mount Bracket as           Mount Bracket as shown in Figure 5.
+   Step 2: Fabricate two F-1095G Trim Cable Anchor Brackets from AA6-125X1X1 1/4                 shown in Figure 3. Cleco through the four corner holes in the trim servo spacer.
+   Aluminum Angle as shown in Figure 2.                                                                                                                                                     Install rivets through the holes in the close-out flanges in the trim mount bracket as
+                                                                                                 Cleco the F-1095C Trim Bellcrank Brackets and F-1095G Trim Cable Anchor Brackets           shown in Figure 5.
+                                                                                                 to the trim mount bracket as shown in Figure 4.                                                                                                 AN426AD3-3.5,
+                                                                                                                                                                                                                                                   8 PLACES
+                                                                                                 Match-Drill #30 the trim bellcrank brackets and trim cable anchor brackets using the
+                                                                                                 holes in the trim mount bracket and trim servo spacer as drill guides. Double-check                                                          F-1095A
+                                                                                                 that the pairs of brackets are parallel to each other and to the edges of the cut-out in
+       7/16                                                                                      the trim mount bracket when match-drilling.
+
+       Ø1/8                                                                                                                                                                                                             F-1095G,
+                                                                                                                                                          CLECO BRACKETS
+                                                                                                                                                                                                                       2 PLACES
+                                                                                                                                                         TO F-1095A THROUGH
+                                1/4                                                                                                                        EXISTING HOLES                        AN470AD4-4
+                                                                                                                        F-1095G,
+                                                                      (1/8)                                             2 PLACES
+              R7/16                                                                                                                                                                                   F-1095C,
+                                              Ø7/16                                                                                                                                                  2 PLACES
+
+                                                                                                                                                                                                                                                                K1000-08,
+                                                                                                                     F-1095C,                                                                                                                                   4 PLACES
+                                                                                     1 1/8                          2 PLACES
+                                                                                                                                                                            F-1095A
+                                                                                                                                                                                                                                                     F-1095F
+                                                                                                                                                            MATCH-DRILL BRACKETS
+  11/16                 5/8                                                (1)                                                                            USING HOLES IN F-1095A AND
+                                                                                                                                                           F-1095F AS DRILL GUIDES                                        AN470AD4-4           AN426AD4-8,
+                              1 1/4                                                                                                                                                                                                             8 PLACES
+                                                                                                                                     FIGURE 4:
+                                        FIGURE 2:                                                                                  MATCH-DRILLING                                                                  AN470AD4-5,             FIGURE 5:
+                               TRIM CABLE ANCHOR BRACKET                                                                             BRACKETS                                                                       6 PLACES         TRIM MOUNT BRACKET
+                                                                                                                                                                                                                                       ASSEMBLY DETAIL
+PAGE   11-8          RV-10      REVISION: 0   DATE: 12/09/13
+Step 1: Run a #30 drill through all holes in the two F-1095D Trim Servo Links and the      Step 3: Enlarge the four mounting holes in the Trim Servo by drilling #28. See Figure
+                                                                                                                                                                                                                     VAN'S AIRCRAFT, INC.
+F-1095E Trim Servo Link Spacer.                                                            3.                                                                                            Step 5: Install the two CT Q-43 Elevator Trim Cables
+                                                                                                                                                                                         through the F-1095G Trim Cable Anchor Brackets
+Deburr all holes and edges of the trim servo links and trim servo link spacer.             Using a file, reduce the thickness of the actuating lug on the trim servo until it fits the   as shown in Figure 5.
+Prime parts if/as desired.                                                                 gap of the F-1095D/E Trim Servo Link Subassembly. See Figure 3.
+                                                                                                                                                                                         Adjust the trim cable jam nuts so as to center the threaded portion of the trim cable on
+Assemble the trim servo links and                                                          Attach the F-1095D/E Trim Servo Link Sub-Assembly                      DRILL #28,             the trim cable anchor brackets.
+trim servo link spacer as                                          AN470AD4-7              to the trim servo as shown in Figure 3.                                4 PLACES
+shown in Figure 1.                                                                                                                                                                       Step 6: Study Figure 5 until you understand the attachment of the threaded ends of
+                                                                                                                                                    TRIM SERVO
+                                                                                                   REDUCE TRIM SERVO                                                                     the two CT Q-43 Elevator Trim Cables to the F-1095B Trim Bellcrank. Pay particular
+                                                                                                 ACTUATING LUG THICKNESS                                                                 attention to the orientation of the bolts and the placement of the various washers.
+                                                                                                    TO FIT F-1095D/E GAP
+      F-1095D                                                                                                                                                                            Attach the threaded ends of the two CT Q-43 Elevator Trim Cables to the F-1095B
+                                                                                                                                                                                         Trim Bellcrank using the hardware called-out in Figure 5. Leave the trim cable jam
+                                                                                                              MS24665-132                                                                nuts finger tight.
+                                                                        F-1095D
+                          F-1095E
+                                                                                                               F-1095D/E
+
+
+                                          AN470AD4-7                                                                                                MS20392-1C11
+                                                                                                                                           AN960-4L
+                               FIGURE 1:
+                       TRIM SERVO LINK AND TRIM                                                                                     FIGURE 3:
+                     SERVO LINK SPACER ASSEMBLY                                                                                 ATTACH SERVO LINK
+                                                                                                                                    TO SERVO
+                                                                                                                                                                                                      F-1095G
+Step 2: Study Figure 2 until you understand the proper installation of the F-1095B Trim
+                                                                                           Step 4: Install the Trim Servo to the F-1095A Trim Mount Bracket and F-1095F Trim
+Bellcrank between the F-1095C Trim Bellcrank Brackets. Pay particular attention to
+                                                                                           Servo Spacer as shown in Figure 4.
+the orientation of the trim bellcrank. Note that two thin washers are used as spacers
+between the trim bellcrank and the trim bellcrank brackets.                                                                                                                                                                                                F-1095A
+                                                                                           Attach the F-1095D/E Trim Servo Link Sub-Assembly to the F-1095B Trim Bellcrank
+                                                                                           as shown in Figure 4.
+The holes in the trim bellcrank are slightly undersize; run #30, #12, and 1/4" drills
+through the appropriate holes to bring them to full size. Deburr the holes.                                            TRIM SERVO                                                                          CT Q-43
+
+Temporarily install the trim bellcrank between the trim bellcrank brackets. Check for                          F-1095D/E
+free rotation of the trim bellcrank with minimum side-play. The spacer washers may be                                                                                   AN365-632,
+reduced in thickness if there is rotational binding. The spacer washers may be                                                                                          4 PLACES
+replaced with thicker washers if there is excessive side-play.                                         MS24665-132
+
+Permanently install the trim bellcrank as shown in Figure 2.                                          AN960-4L                                                                                               AN315-3R
+                                                                                                                                                                                                               MW-3M
+             F-1095B                        F-1095F
+                                                                                                                          F-1095F                                                                               AN960-10
+                                 MS24665-208
+  AN960-416L
+     AN4-6
+                                                                                          MS20392-1C11
+                                                                                                                                                                                                          AN365-1032
+                                                                                                                                                                                                                                                        AN3-10A
+                                                                                                                                                                          F-1095A
+                                                                                                                                                                                                         5702-475-48 Z3
+                                                                                                                                                                                                                                         F-1095B
+
+                                                         F-1095G                                                                                                                                                                    AN960-10
+
+
+                                                 F-1095A                                                                                                     AN515-6R8,                                              FIGURE 5:
+                                                                                                                                                             4 PLACES                                    ELEVATOR TRIM CABLE ATTACH DETAIL
+                                                                                                                            F-1095B
+                                    AN310-4     FIGURE 2:
+       AN960-416
+                                                                                                                                   FIGURE 4:
+                                             TRIM BELLCRANK                                                                 TRIM SERVO INSTALLATION
+    F-1095C
+                                              INSTALLATION
+                                                                                                                                                                                                                           DATE: 12/09/13 REVISION: 1    RV-10     PAGE   11-9
+                       VAN'S AIRCRAFT, INC.                                                                                   Step 3: (continued) Adjust the engagement of the jam nut and clevis onto the trim cable so that the tabs are in the 35 degrees TAB DOWN
+                         Step 1: Run the Trim servo to its full retracted position. Adjust the engagement of the rod end      position as shown in Figure 3.
+                         bearings and the elevator trim cable position on the F-1095G Trim Cable Anchor Brackets so that
+  both cables are fully extended. Tighten the trim cable jam nuts.                                                            Permanently attach the clevis to the trim tab horn using the hardware called-out in Figures 2 and 3. (This step may be delayed until final
+                                                                                                                              assembly.)
+  Run the trim servo through its full range of motion and verify that the F-1095B Trim Bellcrank motion matches that shown                                                               ELEVATOR
+  in Figure 1. There must be no binding or interference of parts as the trim servo runs through its full range of motion.                                      WD-415
+                                                                                                                                                                                         ASSEMBLY
+                                                                                               F-1095G                                                                                                                               TRIM TAB
+   FULL "NOSE-UP"                                              CT Q-43                                                                                                                                                              ASSEMBLY
+    POSITION OF
+      F-1095B
+
+
+
+
+                                                                                                                                                                                                                                                               35°
+                                                                                                                                                                                                                                                         TAB DEFLECTION
+
+                                                                                                                                                                       CT Q-43
+                                                                   FIGURE 1:                   TRIM SERVO                                                                                                        AN665-21R
+                                                                                                                                                                                         AN315-3R
+                                 FULL "NOSE DOWN"               TRIM BELLCRANK                                                                                 FIGURE 3:
+                                POSITION OF F-1095B
+                                                               RANGE OF MOTION                                                                           TRIM TAB DEFLECTION
+
+   Step 2: Remove the E-616PP Cover Plate - Elevator Trim/WD-415 Elevator Trim Cable Anchor Bracket
+   Sub-Assemblies from the bottoms of both Elevator Assemblies.                                                                                                                                                                                              E-1017
+
+  Loosely place the F-1095 Elevator Trim Actuator Sub-Assembly in the aft fuselage.
+
+  Route the CT Q-43 Elevator Trim Cables through the holes in the Horizontal Stablizer Inboard Nose                          FLANGE OF F-1014
+  Ribs, then through the snap bushings installed in the Horizontal Stablizer Front Spar and Horizontal                       MAY BE RELIEVED
+  Stablizer Rear Spar, through the Elevator Leading Edges, then through the snap bushings installed in             F-1014    AS REQUIRED FOR
+  the Elevator Front Spars, and finally through the openings in the bottoms of the elevators. See Figure 2.                     TRIM CABLE
+                                                                                                                                CLEARANCE
+  Progressively move the elevator trim actuator sub-assembly into final position while routing the elevator
+  trim cables.
+
+  After the elevator trim cables have been routed, attach the elevator trim actuator sub-assembly to the                                                                                                                              CT Q-43               E-1018
+  underside of the F-1014 Fuselage Aft Deck through holes pre-punched in the fuselage aft deck using                                                                                                                                 AN315-3R
+  the screws called-out in Figure 2.
+                                                                                                                                                                                                                                        AN665-21R
+
+                                                                                                                                                                                                                                         MS20392-2C11
+  Step 3: Thread the E-616PP Cover Plate - Elevator Trim/                                                                                                                                                                                3X AN960-10L
+  WD-415 Elevator Trim Cable Anchor Bracket Sub-                                                                                                                                                                                         MS24665-132
+  Assemblies on to the CT Q-43 Elevator Trim Cables.
+  Adjust so that the elevator trim cable anchor brackets are
+  centered on the 7/16 threaded portion of the elevator trim
+  cable anchor points. Attach the cover plates to the
+  bottoms of the elevators.                                                      F-1095A
+
+  Run the Trim Servo to the "FULL NOSE UP" position.
+                                                                                                                                                                                                                                                                 E-917
+  Enlarge the hole in each trim tab horn by drilling #12. Temporarily attach the elevator                                                                                                                                                                E-918
+                                                                                                 F-1009
+  trim cables to the elevator trim tab horns using the hardware called-out in Figures 2 and 3.
+  Of the three washers called-out in Figure 2, one is to be installed between the cotter pin
+  and the outer surface of the clevis while the other two washers are to be installed
+  between the E-917/E-918 (left side) and E-1017/E-1018 (right side) Elevator Trim                       AN515-8R8
+  Tab Horn and the inner surface of the clevis; one washer on the outboard
+  side of the elevator trim tab horn and one washer on the inboard side                        FIGURE 2:
+  of the elevator trim tab horn.
+                                                                                TRIM SYSTEM INSTALLATION
+
+
+PAGE   11-10   RV-10     REVISION: 1   DATE: 12/09/13
+

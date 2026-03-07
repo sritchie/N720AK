@@ -1,0 +1,374 @@
+                                                                  RV -10 EMP-CONE PARTS INDEX                                           RV -10 EMP-CONE PARTS INDEX
+      SECTION 4                                                                                                         SECTION 4
+R-1003          RUDDER TOP RIB                             1 MANUFACTURED .025 2024-T3 ALCLAD                RUDDER
+R-1004          RUDDER BOTTOM RIB                          1 MANUFACTURED .032 2024-T3 ALCLAD                RUDDER   NOTES
+R-1005          RUDDER HORN                                1 MANUFACTURED .125 2024-T3 ALCLAD                RUDDER
+R-1006          RUDDER TRAILING EDGE                       1 MATERIAL     VA-140                             RUDDER
+R-1007          RUDDER STOP                                1 MANUFACTURED .125 2024-T3 ALCLAD                RUDDER
+R-1009          RUDDER TIP FAIRING                         1 MANUFACTURED Polyester Resin Fiberglass Cloth   RUDDER
+R-1010          PART)                                      1 MANUFACTURED .020 2024-T3 ALCLAD                RUDDER
+R-1011          RUDDER BOTTOM FAIRING                      1 MANUFACTURED Polyester Resin Fiberglass Cloth   RUDDER
+R-1012          RUDDER COUNTERBALANCE RIB                  1 MANUFACTURED .025 2024-T3 ALCLAD                RUDDER
+R-1014          RUDDER COUNTERBALANCE WEIGHT               1 MANUFACTURED LEAD                               RUDDER
+R-1015          PART)                                      7 MANUFACTURED .020 2024-T3 ALCLAD                RUDDER
+R-607PP         REINFORCEMENT PLATE                        1 MANUFACTURED .063 2024-T3 ALCLAD                RUDDER
+R-608PP         REINFORCEMENT PLATE                        1 MANUFACTURED .063 2024-T3 ALCLAD                RUDDER
+
+VS-1001         VERTICAL STAB SKIN                         1 MANUFACTURED .025 2024-T3 ALCLAD                V STAB
+VS-1002         VERTICAL STAB FRONT SPAR                   1 MANUFACTURED .032 2024-T3 ALCLAD                V STAB
+VS-1003         VERTICAL STAB REAR SPAR                    1 MANUFACTURED .032 2024-T3 ALCLAD                V STAB
+VS-1004         VERTICAL STAB BOTTOM INSPAR RIB            1 MANUFACTURED .025 2024-T3 ALCLAD                V STAB
+VS-1005         VERTICAL STAB BOTTOM NOSE RIB              1 MANUFACTURED .025 2024-T3 ALCLAD                V STAB
+VS-1006         VERTICAL STAB TOP RIB                      1 MANUFACTURED .025 2024-T3 ALCLAD                V STAB
+VS-1007         VERTICAL STAB MIDDLE INSPAR RIB            1 MANUFACTURED .025 2024-T3 ALCLAD                V STAB
+VS-1008         VERTICAL STAB REAR SPAR DOUBLER            1 MANUFACTURED .125 2024-T3 ALCLAD                V STAB
+VS-1009         VERTICAL STAB TIP FAIRING                  1 MANUFACTURED Polyester Resin Fiberglass Cloth   V STAB
+VS-1010         BOTTOM RUDDER HINGE BRACKET                2 MANUFACTURED .050 4130 COND N                   V STAB
+VS-1011         MIDDLE RUDDER HINGE BRACKET                2 MANUFACTURED .050 4130 COND N                   V STAB
+VS-1012         TOP RUDDER HINGE BRACKET                   2 MANUFACTURED .050 4130 COND N                   V STAB
+VS-1013         VERTICAL STAB MIDDLE NOSE RIB              1 MANUFACTURED .025 2024-T3 ALCLAD                V STAB
+VS-1014         VERTICAL STAB REAR SPAR CAP                2 MANUFACTURED .063 2024-T3 ALCLAD                V STAB
+VS-1015         VERTICAL STAB FRONT SPAR DOUBLER           1 MANUFACTURED .063 2024-T3 ALCLAD                V STAB
+VS-1016         VERTICAL STAB FRONT SPAR ATTACH BCKT       1 MANUFACTURED .063 2024-T3 ALCLAD                V STAB
+WD-415          ELEVATOR TRIM CABLE ANCHOR BRACKET         2 MANUFACTURED 4130 STEEL                         ELEV
+WD-605-L-1-PC   ELEVATOR HORN                              1 MANUFACTURED 4130 STEEL                         ELEV
+WD-605-R-1-PC   ELEVATOR HORN                              1 MANUFACTURED 4130 STEEL                         ELEV
+
+
+
+
+                                                       3                                                                            4
+                                                                       RV-10 WING PARTS INDEX                                                                               RV-10 WING PARTS INDEX
+  SECTION 4                                                                                                  SECTION 4
+    PART NUMBER            NOMENCLATURE       # PER A/C    PART TYPE     MAKE FROM MATERIAL      SUB-KIT   T-406A        FUEL CAP                        2   MANUFACTURED   N/A                     TANK
+A-1001A-L         NOSE SKIN                        1    MANUFACTURED   .020 6061-T6 BARE      AIL          T-406B        FUEL CAP FLANGE                 2   MANUFACTURED   N/A                     TANK
+A-1001A-R         NOSE SKIN                        1    MANUFACTURED   .020 6061-T6 BARE      AIL          T-VENT LINE   FUEL TANK VENT LINE             2   MATERIAL       AT0-032 X 1/4           TANK
+A-1001B           TOP SKIN                         2    MANUFACTURED   .016 2024-T3 ALCLAD    AIL          VA-112        DRAIN FLANGE                    2   MANUFACTURED   2024-T351               TANK
+A-1002            BOTTOM SKIN                      2    MANUFACTURED   .016 2024-T3 ALCLAD    AIL          VA-141        FINGER STRAINER FLANGE          2   MANUFACTURED   2024-T351 AL BAR        TANK
+A-1003-L          SPAR                             1    MANUFACTURED   .040 2024-T3 ALCLAD    AIL          VA-193        WING TIP LIGHT LENS             1   MANUFACTURED   TRANSPARENT PLASTIC     WING
+A-1003-R          SPAR                             1    MANUFACTURED   .040 2024-T3 ALCLAD    AIL          VA-195A       STALL WARNING MOUNT PLATE       1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+A-1004-L          NOSE RIB                         2    MANUFACTURED   .040 2024-T3 ALCLAD    AIL          VA-195B       STALL WARNING KEEPER PLATE      1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+A-1004-R          NOSE RIB                         2    MANUFACTURED   .040 2024-T3ALCLAD     AIL          VA-195C       ACCESS HATCH DOUBLER            1   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1005-L          MAIN RIB                         2    MANUFACTURED   .025 2024-T3 ALCLAD    AIL          VA-195D       ACCESS HATCH                    1   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1005-R          MAIN RIB                         2    MANUFACTURED   .025 2024-T3 ALCLAD    AIL          VA-196        STALL WARNING VANE              1   MANUFACTURED   T-304 STAINLESS STEEL   WING
+A-1006            OUTBD HINGE BRACKET              2    MANUFACTURED   .050 4130 STEEL        AIL          VB-11         WING LEADING EDGE VEE BLOCK     2   MANUFACTURED   3/4 MDF                 WING
+A-1007-L          INBD HINGE BRACKET               1    MANUFACTURED   .050 4130 STEEL        AIL          W-1001-L      LEADING EDGE SKIN               1   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1007-R          INBD HINGE BRACKET               1    MANUFACTURED   .050 4130 STEEL        AIL          W-1001-R      LEADING EDGE SKIN               1   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1008            DOUBLER                          4    MANUFACTURED   .040 2024-T3 ALCLAD    AIL          W-1002        TOP INBD WING SKIN              2   MANUFACTURED   .032 2024-T3 ALCLAD     WING
+A-1009            COUNTERBALANCE                   2    MATERIAL       ST304-065X1.375        AIL          W-1003        TOP OUTBD WING SKIN             2   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1011            TRAILING EDGE                    2    MATERIAL       VA-140                 AIL          W-1004-L      BOTTOM INBD WING SKIN           1   MANUFACTURED   .032 2024-T3 ALCLAD     WING
+A-1012            SPACER                           2    MATERIAL       AT6-058 X 5/16         WING         W-1004-R      BOTTOM INBD WING SKIN           1   MANUFACTURED   .032 2024-T3 ALCLAD     WING
+A-1013            SPACER                           2    MATERIAL       AT6-058 X 5/16         WING         W-1005-L      BOTTOM OUTBD WING SKIN          1   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1014            SPACER                           2    MANUFACTURED   .040 2024-T3 ALCLAD    WING         W-1005-R      BOTTOM OUTBD WING SKIN          1   MANUFACTURED   .025 2024-T3 ALCLAD     WING
+A-1015-L          INBOARD NOSE RIB                 1    MANUFACTURED   .040 2024-T3 ALCLAD    WING         W-1006        CENTER SECTION ASSEMBLY         1   MANUFACTURED   PARTS                   WING
+A-1015-R          INBOARD NOSE RIB                 1    MANUFACTURED   .040 2024-T3 ALCLAD    WING         W-1006E-L     MAIN SPAR WEB EXTENSION         1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+A-710             STIFFENER (4 PER PART)           8    MANUFACTURED   .025 2024-T3 ALLCAD    AIL          W-1006E-R     MAIN SPAR WEB EXTENSION         1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+2.781             AILERON BELLCRANK BUSHING        2    MANUFACTURED   BRONZE TUBE            WING         W-1006F       SPAR SPLICE PLATE               8   MANUFACTURED   .032 2024-T3 ALCLAD     WING
+FINGER STRAINER   FINGER STRAINER                  2    MANUFACTURED   STRAINER               TANK         W-1007A-L     REAR SPAR WEB                   1   MANUFACTURED   .040 2024-T3 ALCLAD     WING
+FL-1001A-L        INBOARD NOSE SKIN                1    MANUFACTURED   .020 6061-T6 BARE      FLAP         W-1007A-R     REAR SPAR WEB                   1   MANUFACTURED   .040 2024-T3 ALCLAD     WING
+FL-1001A-R        INBOARD NOSE SKIN                1    MANUFACTURED   .020 6061-T6 BARE      FLAP         W-1007B       REAR SPAR REINF FORK            2   MANUFACTURED   .125 2024-T3 ALCLAD     WING
+FL-1001B-L        OUTBOARD NOSE SKIN               1    MANUFACTURED   .020 6061-T6 BARE      FLAP         W-1007C       REAR SPAR DOUBLER PLATE         2   MANUFACTURED   .125 2024-T3 ALCLAD     WING
+FL-1001B-R        OUTBOARD NOSE SKIN               1    MANUFACTURED   .020 6061-T6 BARE      FLAP         W-1007D       REAR SPAR DOUBLER PLATE         4   MANUFACTURED   .040 2024-T3 ALCLAD     WING
+FL-1001C          TOP SKIN                         2    MANUFACTURED   .020 2024-T3 ALCLAD    FLAP         W-1007E       REAR SPAR DOUBLER PLATE         2   MANUFACTURED   .040 2024-T3 ALCLAD     WING
+FL-1002           BOTTOM SKIN                      2    MANUFACTURED   .020 2024-T3 ALCLAD    FLAP         W-1008-L      SPLICE RIB                      1   MANUFACTURED   .032 2024-T0 ALCLAD     WING
+FL-1003-L         SPAR                             1    MANUFACTURED   .040 2024-T3 ALCLAD    FLAP         W-1008-R      SPLICE RIB                      1   MANUFACTURED   .032 2024-T0 ALCLAD     WING
+FL-1003-R         SPAR                             1    MANUFACTURED   .040 2024-T3 ALCLAD    FLAP         W-1009-L      LEADING EDGE RIB                6   MANUFACTURED   .025 2024-T0 ALCLAD     WING
+FL-1004-L         NOSE RIB                        10    MANUFACTURED   .025 2024-T3 ALCLAD    FLAP         W-1009-R      LEADING EDGE RIB                6   MANUFACTURED   .025 2024-T0 ALCLAD     WING
+FL-1004-R         NOSE RIB                        10    MANUFACTURED   .025 2024-T3 ALCLAD    FLAP         W-1010-L      INBD WING RIB                   1   MANUFACTURED   .032 2024-T0 ALCLAD     WING
+FL-1005-L         MAIN RIB                        11    MANUFACTURED   .025 2024-T3 ALCLAD    FLAP         W-1010-R      INBD WING RIB                   1   MANUFACTURED   .032 2024-T0 ALCLAD     WING
+FL-1005-R         MAIN RIB                        11    MANUFACTURED   .025 2024-T3 ALCLAD    FLAP         W-1011-L      INBD WING RIB                  11   MANUFACTURED   .025 2024-T0 ALCLAD     WING
+FL-1006           DOUBLER                          4    MANUFACTURED   .032 2024-T3 ALCLAD    FLAP         W-1011-R      INBD WING RIB                  11   MANUFACTURED   .025 2024-T0 ALCLAD     WING
+FL-1007-L         HINGE BRACKET                    6    MANUFACTURED   .063 2024-T3 ALCLAD    FLAP         W-1012-L      OUTBD WING RIB                  3   MANUFACTURED   .025 2024-T0 ALCLAD     WING
+FL-1007-R         HINGE BRACKET                    6    MANUFACTURED   .063 2024-T3 ALCLAD    FLAP         W-1012-R      OUTBD WING RIB                  3   MANUFACTURED   .025 2024-T0 ALCLAD     WING
+FL-1008           HINGE SPACER                     4    MANUFACTURED   .125 2024-T3 ALCLAD    FLAP         W-1013A       AILERON HINGE BRACKET SPACER    4   MANUFACTURED   .125 2024-T3 ALCLAD     WING
+FL-1009           TRAILING EDGE                    2    MATERIAL       VA-140                 FLAP         W-1013B-L     AILERON HINGE BRACKET SIDE      1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+T-1001-L          FUEL TANK SKIN                   1    MANUFACTURED   .032 2024-T3 ALCLAD    TANK         W-1013B-R     AILERON HINGE BRACKET SIDE      1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+T-1001-R          FUEL TANK SKIN                   1    MANUFACTURED   .032 2024-T3 ALCLAD    TANK         W-1013C-L     AILERON HINGE BRACKET SIDE      2   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+T-1002            TANK BAFFLE                      2    MANUFACTURED   .032 2024-T3 ALCLAD    TANK         W-1013C-LX    AILERON HINGE BRACKET SIDE      1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+T-1003-L          TANK OUTBD RIB                   1    MANUFACTURED   .032 2024-T0 ALCLAD    TANK         W-1013C-R     AILERON HINGE BRACKET SIDE      2   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+T-1003-R          TANK OUTBD RIB                   1    MANUFACTURED   .032 2024-T0 ALCLAD    TANK         W-1013C-RX    AILERON HINGE BRACKET SIDE      1   MANUFACTURED   .063 2024-T3 ALCLAD     WING
+T-1003B-L         TANK INBD RIB - AFT              1    MANUFACTURED   .032 2024-T0 ALCLAD    TANK         W-1015-L      WING TIP                        1   MANUFACTURED   FABRIC/POLYESTER        WING
+T-1003B-R         TANK INBD RIB - AFT              1    MANUFACTURED   .032 2024-T0 ALCLAD    TANK         W-1015-R      WING TIP                        1   MANUFACTURED   FABRIC/POLYESTER        WING
+T-1003C-L         TANK INBD RIB - FWD              1    MANUFACTURED   .032 2024-T0 ALCLAD    TANK         W-1016-L      WING TIP RIB                    1   MANUFACTURED   .032 2024-T3 ALCLAD     WING
+T-1003C-R         TANK INBD RIB - FWD              1    MANUFACTURED   .032 2024-T3 ALCLAD    TANK         W-1016-R      WING TIP RIB                    1   MANUFACTURED   .032 2024-T3 ALCLAD     WING
+T-1004-L          TANK INTERIOR RIB                5    MANUFACTURED   .025 2024-T0 ALCLAD    TANK         W-1017A       PUSHROD                         2   MATERIAL       AT6-049 X 1 1/4         WING
+T-1004-R          TANK INTERIOR RIB                5    MANUFACTURED   .025 2024-T0 ALCLAD    TANK         W-1018A       PUSHROD                         2   MATERIAL       ST4130-035 X 1/2        WING
+T-1005-L          TANK ATTACH BRACKET              1    MANUFACTURED   .063 2024-T3 ALCLAD    TANK         W-1020        TIE-DOWN                        2   MATERIAL       AEX TIE-DOWN            WING
+T-1005-R          TANK ATTACH BRACKET              1    MANUFACTURED   .063 2024-T3 ALCLAD    TANK         W-1021-L      FLAP GAP FAIRING                1   MANUFACTURED   .020 2024-T3 ALCLAD     WING
+T-1005BC          SHIM                             1    MANUFACTURED   .032 2024-T3 ALCLAD    TANK         W-1021-R      FLAP GAP FAIRING                1   MANUFACTURED   .020 2024-T3 ALCLAD     WING
+T-1009            TANK J STIFFENER                 2    MATERIAL       J-STIF                 TANK         W-1024-L      AILERON GAP FAIRING             1   MANUFACTURED   .020 2024-T3 ALCLAD     WING
+T-1010            ANTI ROTATION PLATE              2    MANUFACTURED   .063 2024-T3 ALCLAD    TANK         W-1024-R      AILERON GAP FAIRING             1   MANUFACTURED   .020 2024-T3 ALCLAD     WING
+T-1011            TANK STIFFENER                   7    MANUFACTURED   .025 2024-T3 ALCLAD    TANK         W-1025A       FLAP HINGE BRACKET              6   MANUFACTURED   .190 2024-T3 BARE       WING
+T-1012            TANK ATTACH ZEE                  2    MANUFACTURED   .063 2024-T3 ALCLAD    TANK         W-1025B       FLAP HINGE RIB                  3   MANUFACTURED   .032 2024-T0 ALCLAD     WING
+
+
+                                                  1                                                                                                      2
+                                                                  RV-10 WING PARTS INDEX                        RV-10 WING PARTS INDEX
+  SECTION 4                                                                                     SECTION 4
+W-1026          LEADING EDGE J-STIFFENER       2   MATERIAL       J-STIF                 WING
+W-1027A         WING WALK DOUBLER - FWD        2   MANUFACTURED   .025 2024-T3 ALCLAD    WING
+W-1027B         WING WALK DOUBLER - AFT        2   MANUFACTURED   .025 2024-T3 ALCLAD    WING
+W-1028A-LWR     WING BOX J-STIFFENER - LONG    2   MATERIAL       J-STIF                 WING   NOTES
+W-1028A-UPR     WING BOX J-STIFFENER - LONG    2   MATERIAL       J-STIF                 WING
+W-1028B         WING BOX J-STIFFENER - SHORT   4   MATERIAL       J-STIF                 WING
+W-1029A-L       TORQUE TUBE SUPPORT BRACKET    1   MANUFACTURED   .040 2024-T3 ALCLAD    WING
+W-1029A-R       TORQUE TUBE SUPPORT BRACKET    1   MANUFACTURED   .040 2024-T3 ALCLAD    WING
+W-1029B-L       TORQUE TUBE SUPPORT BRACKET    1   MANUFACTURED   .040 2024-T3 ALCLAD    WING
+W-1029B-R       TORQUE TUBE SUPPORT BRACKET    1   MANUFACTURED   .040 2024-T3 ALCLAD    WING
+W-1029C         ANGLE                          2   MATERIAL       AA6-063X3/4X3/4        WING
+W-1029D         SPACER                         2   MATERIAL       AS3-063 .625 X 6.475   WING
+W-1029E         SPACER                         2   MATERIAL       AS3-063 .625 X 1.397   WING
+W-1031          AILERON BELLCRANK SPACER       2   MATERIAL       AT6-058 X 5/16         WING
+W-730           BELLCRANK JIG                  2   MANUFACTURED   .063 2024-T3 ALCLAD    WING
+W-822PP         WING ACCESS PLATE              2   MANUFACTURED   .032 2024-T3 ALCLAD    WING
+W-822PP-        WING ACCESS PLATE              4   MANUFACTURED   .032 2024-T3 ALCLAD    WING
+W-823PP         AILERON BELLCRANK BRACKET      4   MANUFACTURED   .050 4130 COND N       WING
+W-PITOT         WING PITOT LINE                1   MATERIAL       AT0-032 X 1/4          WING
+W-SPAR ASSY-L   SPAR ASSEMBLY - LEFT           1   MANUFACTURED   PARTS                  WING
+W-SPAR ASSY-R   SPAR ASSEMBLY - RIGHT          1   MANUFACTURED   PARTS                  WING
+WD-1014         AILERON TORQUE TUBE            4   MANUFACTURED   4130 STEEL             WING
+WD-1014C        TORQUE TUBE COLLAR             2   MATERIAL       ST4130-035 X 7/8       WING
+WD-421-L        AILERON BELLCRANK              1   MANUFACTURED   4130 STEEL             WING
+WD-421-R        AILERON BELLCRANK              1   MANUFACTURED   4130 STEEL             WING
+WH-F1001        STALL WARNING WIRE             2   MATERIAL       WIRE MS22759/16-22     WING
+
+
+
+
+                                               3                                                            4
+                                                                                 RV-1 0 FUSELAGE INDEX                                                                                      RV-1 0 FUSELAGE INDEX
+  SECTION 4                                                                                                            SECTION 4
+    PART NUMBER             NOMENCLATURE               #PER A/C      PART TYPE    MAKE FROM MATERIAL       SUB-KIT   F-1005D       CROTCH STRAP LUG                  4       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE
+BRAKE LINE          BRAKE LINE SOLID                      1       MATERIAL       AT0-032X1/4             FUSE        F-1005E-L     GUSSET                            1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE
+BRAKE LINE CYL- RESV BRAKE LINE CYL INTERCONNECT - R      1       MATERIAL       PT-062X1/4              FUSE        F-1005E-R     GUSSET                            1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE
+BRAKE MAST CYL LEFT LEFT BRAKE MASTER CYLINDER            2       MANUFACTURED   MATCO MASTER CYLINDERFUSE           F-10100       BAGGAGE DOOR SHIM                 1       MANUFACTURED   .040 2024-T3 ALCLAD     FUSE
+BRAKE MAST CYL RIGH RIGHT BRAKE MASTER CYLINDER           2       MANUFACTURED   MATCO MASTER CYLINDERFUSE           F-10101       BAGGAGE DOOR SHIM                 1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+BUSH BR-065 X .375 X 2 CONTROL STICK BASE BUSHING         2       MANUFACTURED   BRONZE TUBE             FUSE        F-10102A      BAGGAGE DOOR SEAL ANGLE           1       MATERIAL       AA6-063 X 3/4 X 3/4      FUSE
+C-1001              CABIN COVER                           1       MANUFACTURED   EPOXY PRE-PREG/S-GLASSFUSE          F-10102B      BAGGAGE DOOR SEAL ANGLE           1       MATERIAL       AA6-063 X 3/4 X 3/4      FUSE
+C-1004-L            REAR WINDOW                           1       MANUFACTURED   .125 ACRYLIC SHEET      FUSE        F-10103A-LR   LEFT AND RIGHT LOWER SEAT HING    1       MATERIAL       AN257-P3                 FUSE
+C-1004-R            REAR WINDOW                           1       MANUFACTURED   .125 ACRYLIC SHEET      FUSE        F-10103B-LR   LEFT AND RIGHT UPPER SEAT HING    1       MATERIAL       AN257-P3                 FUSE
+C-1005              WINDSCREEN                            1       MANUFACTURED   .250 ACRYLIC SHEET      FUSE        F-10104       RUDDER CABLE LINK                 4       MATERIAL       .050 4130 STEEL 1/2 INCH WFUSE
+ES 85615-10         FLAP MOTOR                            1       MANUFACTURED   N/A                     FUSE        F-10105       CONTROL CABLE BRACKET             1       MANUFACTURED   .040 2024-T3 ALCLAD     FUSE
+F-1001A             FIREWALL BULKHEAD                     1       MANUFACTURED   304 STAINLESS           FUSE        F-10106       SPACER                            4       MATERIAL       AT6-058X5/16             FUSE
+F-1001B             FIREWALL UPPER ANGLE                  1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-10107       RIVET BACKUP STRIP                2       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1001C             FIREWALL LOWER CHANNEL                1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1013-L      FWD FUSE LONGERON                 1       MATERIAL       AA6-125 X 3/4 X 3/4      FUSE
+F-1001D             FIREWALL RIGHT SIDE ANGLE             1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1013-R      FWD FUSE LONGERON                 1       MATERIAL       AA6-125 X 3/4 X 3/4      FUSE
+F-1001E-L           FIREWALL CENTER ANGLE                 1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015A-L     OUTBD FOOT WELL RIB               1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1001E-R           FIREWALL CENTER ANGLE                 1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015A-R     OUTBD FOOT WELL RIB               1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1001F-L           FIREWALL DIAGONAL ANGLE               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015B-L     FOOT WELL RIB INTERCOSTAL         1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1001F-R           FIREWALL DIAGONAL ANGLE               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015B-R     FOOT WELL RIB INTERCOSTAL         1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1001G-L           FIREWALL GUSSET                       1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015C-L     MID CABIN DECK                    1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1001G-R           FIREWALL GUSSET                       1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015C-R     MID CABIN DECK                    1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1001J             LONGERON GUSSET                       1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015D-L     MID CABIN SIDE COVER              1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1001K             FIREWALL RECESS                       1       MANUFACTURED   301 STAINLESS           FUSE        F-1015D-R     MID CABIN SIDE COVER              1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1001M             FIREWALL LEFT SIDE ANGLE              1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1015EF      SPACERS                           1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1002-L            FWD FUSELAGE BULKHEAD                 1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE        F-1016-L      OUTBD FOOT WELL RIB               1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1002-R            FWD FUSELAGE BULKHEAD                 1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE        F-1016-R      OUTBD FOOT WELL RIB               1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1003A             INSTRUMENT PANEL                      1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016B-L     FLOOR STIFFENER                   4       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1003B             INST PANEL LOWER FLANGE               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016B-R     FLOOR STIFFENER                   4       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1003C             INST PANEL ATTACH FLANGE              1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE        F-1016C-L     FLOOR PAN                         1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1003D             INST PANEL ATTACH FLANGE              1       MATERIAL       AA3-032 X 3/4 X 3/4     FUSE        F-1016C-R     FLOOR PAN                         1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1003E             INST PANEL ATTACH FLANGE              1       MATERIAL       AA3-032 X 3/4 X 3/4     FUSE        F-1016D       SEAT BELT ATTACH BAR              4       MANUFACTURED   .125 2024-T3 ALCLAD     FUSE
+F-1004-SPCR-063     CENTER SECTION SPACER                 4       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016E-L     FLAP TORQUE TUBE COVER            1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004-SPCR-125     CENTER SECTION SPACER                 52      MANUFACTURED   .125 2024-T3 ALCLAD     FUSE        F-1016E-R     FLAP TORQUE TUBE COVER            1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004C-L           CENTER SECTION BULKHEAD               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016F-L     INBD FOOT WELL RIB                1       MANUFACTURED   .040 2024-T3 ALCLAD     FUSE
+F-1004C-R           CENTER SECTION BULKHEAD               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016F-R     INBD FOOT WELL RIB                1       MANUFACTURED   .040 2024-T3 ALCLAD     FUSE
+F-1004D-L           CENTER SECTION BULKHEAD               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016G       INBD FOOT WELL SPACERS            1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE
+F-1004D-R           CENTER SECTION BULKHEAD               1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1016H       GUIDE BRACKET                     1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1004J             CENTER SECTION UPRIGHT BAR            2       MANUFACTURED   1 X .75 2024-T351 BAR   FUSE        F-1017A-L     REAR SEAT RIB                     5       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004K-L           CENTER SECTION SIDE PLATE             1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1017A-R     REAR SEAT RIB                     5       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004K-R           CENTER SECTION SIDE PLATE             1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1017B       SEAT BELT ATTACH RIB              2       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004L             CENTER SECTION HAT STIFFENER          1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1017C       SEAT BELT ATTACH LUG              4       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE
+F-1004M             WEAR STRIP                            1       MATERIAL       PS UHMW 125 X 1/2       FUSE        F-1018-L      OUTBD REAR SEAT RIB               1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004N             STIFFENER ANGLE                       2       MATERIAL       AA6-063 x 3/4 X 3/4     FUSE        F-1018-R      OUTBD REAR SEAT RIB               1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004P-L           MID SEAT RAIL SUPPORT                 2       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1019-L      INBD BAGGAGE RIB                  1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004P-R           MID SEAT RAIL SUPPORT                 2       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1019-R      INBD BAGGAGE RIB                  1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004R-L           AFT SEAT RAIL SUPPORT                 3       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1020-L      MID BAGGAGE RIB                   1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004R-R           AFT SEAT RAIL SUPPORT                 3       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1020-R      MID BAGGAGE RIB                   1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004S-L           AFT SEAT RAIL SUPPORT                 1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1021-L      OUTBD BAGGAGE RIB                 1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1004S-R           AFT SEAT RAIL SUPPORT                 1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1021-R      OUTBD BAGGAGE RIB                 1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1005A             REAR SPAR BULKHEAD                    1       MANUFACTURED   .040 2024-T3 ALCLAD     FUSE        F-1022        BAGGAGE FLOOR STIFFENERS          2       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+F-1005B             REAR SPAR ATTACH BAR                  2       MANUFACTURED   .125 2024-T3 ALCLAD     FUSE        F-1022A-L     BAGGAGE FLOOR                     1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1005C-L           BULKHEAD SIDE CHANNEL                 1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1022A-R     BAGGAGE FLOOR                     1       MANUFACTURED   .025 2024-T3 ALCLAD     FUSE
+F-1005C-R           BULKHEAD SIDE CHANNEL                 1       MANUFACTURED   .063 2024-T3 ALCLAD     FUSE        F-1023-L      BAGGAGE FLOOR ANGLE               1       MANUFACTURED   .032 2024-T3 ALCLAD     FUSE
+
+
+                                                        Page 1                                                                                                      Page 2
+                                                                    RV-1 0 FUSELAGE INDEX                                                                               RV-1 0 FUSELAGE INDEX
+  SECTION 4                                                                                            SECTION 4
+F-1023-R     BAGGAGE FLOOR ANGLE             1       MANUFACTURED   .032 2024-T3 ALCLAD       FUSE   F-1044DEF   ANGLE                           1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1023B-L    BAGGAGE FLOOR ANGLE             1       MANUFACTURED   .032 2024-T3 ALCLAD       FUSE   F-1045-L    FWD FUSELAGE RIB                1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1023B-R    BAGGAGE FLOOR ANGLE             1       MANUFACTURED   .032 2024-T3 ALCLAD       FUSE   F-1045-R    FWD FUSELAGE RIB                1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1024-L     SEAT FLOOR                      1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1046-L    MID FUSE LONGERON               1       MATERIAL       AA6-125 X 3/4 X 3/4      FUSE
+F-1024-R     SEAT FLOOR                      1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1046-R    MID FUSE LONGERON               1       MATERIAL       AA6-125 X 3/4 X 3/4      FUSE
+F-1025-L     REAR SEAT COVER PANEL           1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1046B     LONGERON BENDING TEMPLATE       1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1025-R     REAR SEAT COVER PANEL           1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1048-L    FWD FUSELAGE RIB                1       MANUFACTURED   .040 2024-T3 ALCLAD      FUSE
+F-1026       LOWER BAGGAGE DOOR SEAL CHAN    1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1048-R    FWD FUSELAGE RIB                1       MANUFACTURED   .040 2024-T3 ALCLAD      FUSE
+F-1027       CLOSE-OUT PANEL                 1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1048C     FUEL VALVE BRACKET              1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1030       UHMW BUSHING                    4       MANUFACTURED   3/4 UHMW PLASTIC          FUSE   F-1048D     FUEL FILTER BRACKET             2       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1031       UPPER BAGGAGE DOOR SEAL CHAN    1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1048E     FUEL CRADLE PAD                 4       MATERIAL       RUBBER CHANNEL           FUSE
+F-1033-L     CONTROL COLUMN MOUNT            1       MANUFACTURED   AA6-250X2X2               FUSE   F-1049A-L   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1033-R     CONTROL COLUMN MOUNT            1       MANUFACTURED   AA6-250X2X2               FUSE   F-1049A-R   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034A      FUSELAGE BULKHEAD               1       MANUFACTURED   .032 2024 T3 ALCLAD       FUSE   F-1049B-L   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034B      SEATBACK BRACE                  1       MANUFACTURED   .040 2024-T3 ALCLAD       FUSE   F-1049B-R   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034C-L    FUSELAGE BULKHEAD               1       MANUFACTURED   .032 2024-T3 ALCLAD       FUSE   F-1049C-L   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034C-R    FUSELAGE BULKHEAD               1       MANUFACTURED   .032 2024-T3 ALCLAD       FUSE   F-1049C-R   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034D      GUSSET                          1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1049D-L   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034E      SEAT BACK BRACE GUSSET          2       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1049D-R   FWD FUSELAGE FLOOR RIB          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1034F      SEAT BACK BRACE CLOSE-OUT       1       MANUFACTURED   .040 2024-T3 ALCLAD       FUSE   F-1050-L    FWD CABIN FLOOR PANEL           1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1038       STEP SUPPORT BLOCK              2       MANUFACTURED   3/4 UHMW PLASTIC          FUSE   F-1050-R    FWD CABIN FLOOR PANEL           1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1039A      RUDDER PEDAL BEARING BLOCK      2       MANUFACTURED   3/4 UHMW PLASTIC          FUSE   F-1050B     BOLT ACCESS PLATE               2       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1039B      BEARING BLOCK MOUNT PLATE       2       MANUFACTURED   .125 2024-T3 ALCLAD       FUSE   F-1051A     FWD FUSELAGE TUNNEL COVER       1       MANUFACTURED   .040 2024-T3 ALCLAD      FUSE
+F-1039D      RUDDER PEDAL BRACE              1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1051C     AFT FUSELAGE TUNNEL COVER       1       MANUFACTURED   .040 2024-T3 ALCLAD      FUSE
+F-1039J      RUDDER PEDAL DRILL JIG          1       MANUFACTURED   .125 2024-T3 ALCLAD       FUSE   F-1051E     REAR SEAT TUNNEL COVER          1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1040-L     UPPER FUSE CHANNEL              1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1051F     BAGGAGE TUNNEL COVER            1       MANUFACTURED   .025 2024-T3 ALCLAD      FUSE
+F-1040-R     UPPER FUSE CHANNEL              1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1051G     SPLICE PLATE                    1       MANUFACTURED   .040 2024-T3 ALCLAD      FUSE
+F-1041-L     LWR FUSE CHANNEL                1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1051H     SCAT ANTI-CHAFE                 1       MATERIAL       RUBBER CHANNEL           FUSE
+F-1041-R     LWR FUSE CHANNEL                1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1051J     SCAT TUBE SUPPORT               1       MANUFACTURED   .032 2024-T3 ALCAD       FUSE
+F-1042-L     BULKHEAD SIDE CHANNEL           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1052      BRAKE PEDAL SET                 2       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1042-R     BULKHEAD SIDE CHANNEL           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1052B     BRAKE PEDAL SIDE PLATE          4       MANUFACTURED   .125 2024-T3 ALCLAD      FUSE
+F-1042BCD    CLIPS AND SPACERS               1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1052C     BRAKE PEDAL DOUBLER PLATE       2       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1042E-LR   GUSSET                          1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1053      RUDDER CABLE                    2       MANUFACTURED   1/8" 7 X 19 GALVANIZED CA FUSE
+F-1042F      GUSSET                          2       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1054      TANK ATTACH ANGLE               1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1042G-L    WIRE COVER                      1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1057-L    MID SEAT RAIL SUPPORT           2       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1042G-R    WIRE COVER                      1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1057-R    MID SEAT RAIL SUPPORT           2       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1043A-L    FWD FUSELAGE BULKHEAD           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1058      BAGGAGE DOOR HINGE FRAME        1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1043A-R    FWD FUSELAGE BULKHEAD           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1059A     BAGGAGE DOOR FORWARD FRAME      1       MANUFACTURED   .020 2024-T3 ALCLAD      FUSE
+F-1043B-L    FWD FUSELAGE BULKHEAD           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1059B     BAGGAGE DOOR UPPER FRAME        1       MANUFACTURED   .020 2024-T3 ALCLAD      FUSE
+F-1043B-R    FWD FUSELAGE BULKHEAD           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1059C     BAGGAGE DOOR LOWER FRAME        1       MANUFACTURED   .020 2024-T3 ALCLAD      FUSE
+F-1043C      ATTACH ANGLE                    1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1059D     BAGGAGE DOOR LOCK BRACKET       1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1043D-L    COVER PANEL                     1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1059E     BAGGAGE DOOR SKIN               1       MANUFACTURED   .032 2024-T3 ALCLAD      FUSE
+F-1043D-R    COVER PANEL                     1       MANUFACTURED   .025 2024-T3 ALCLAD       FUSE   F-1059F     BAGGAGE DOOR CLOSE-OUT PANEL    1       MANUFACTURED   .020 2024-T3 ALCLAD      FUSE
+F-1043E-L    FWD SEAT RAIL SUPPORT           2       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1060      BAGGAGE DOOR HINGE              1       MATERIAL       AN257-P3                 FUSE
+F-1043E-R    FWD SEAT RAIL SUPPORT           2       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1061      BAGGAGE DOOR STRIKER PLATE      1       MANUFACTURED   .050 304 STAINLESS       FUSE
+F-1043F      SEAT RAIL SUPPORT ANGLE         2       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1062      BAGGAGE DOOR LOCK LATCH         1       MANUFACTURED   .125 304 STAINLESS       FUSE
+F-1043G-L    FWD SEAT RAIL SUPPORT           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1063A     ELEVATOR IDLER ARM              2       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1043G-R    FWD SEAT RAIL SUPPORT           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1063B-L   IDLER ARM BRACKET               1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1043H-L    FWD SEAT RAIL SUPPORT           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1063B-R   IDLER ARM BRACKET               1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+F-1043H-R    FWD SEAT RAIL SUPPORT           1       MANUFACTURED   .063 2024-T3 ALCLAD       FUSE   F-1063C     SPACER                          1       MATERIAL       AS3-063 X .500 X 1.625   FUSE
+F-1044A      FWD FUSELAGE RIB                1       MANUFACTURED   .032 2024-T3 ALCLAD       FUSE   F-1064      AILERON PUSHROD                 2       MANUFACTURED   1/2 2024-T4 HEX ROD      FUSE
+F-1044B      ANGLE                           1       MATERIAL       AA6-125 X 3/4 X 3/4       FUSE   F-1065      PUSHROD                         1       MANUFACTURED   1/2 2024-T4 HEX ROD      FUSE
+F-1044C      SPACER                          1       MATERIAL       AS3-063 X .625 X 13.281   FUSE   F-1066A     BRACKET                         1       MANUFACTURED   .063 2024-T3 ALCLAD      FUSE
+
+
+                                            Page 3                                                                                              Page 4
+                                                                        RV-1 0 FUSELAGE INDEX                                                                                         RV-1 0 FUSELAGE INDEX
+  SECTION 4                                                                                                   SECTION 4
+F-1066B           FLAP MOTOR ATTACH ANGLES       1       MANUFACTURED   .063 2024-T3 ALCLAD        FUSE     FUEL LINE           FUEL LINE                      1       MATERIAL       AT0-035X3/8            FUSE
+F-1066C           REINFORCING ANGLES             1       MANUFACTURED   .063 2024-T3 ALCLAD        FUSE     FUEL VALVE          FUEL SELECTOR VALVE            1       MANUFACTURED   N/A                    FUSE
+F-1066D           SPACER                         1       MATERIAL       AT6-058X3/8                FUSE     SEAT RAIL-INBD      INBOARD SEAT RAIL              2       MANUFACTURED   OREGON AERO PART       FUSE
+F-1066E           SPACER                         1       MATERIAL       AT6-058X3/8                FUSE     SEAT RAIL-L         LEFT SEAT RAIL                 1       MANUFACTURED   OREGON AERO PART       FUSE
+F-1067A           SEAT FLOOR                     2       MANUFACTURED   .063 2024-T3 ALCLAD        FUSE     SEAT RAIL-R         RIGHT SEAT RAIL                1       MANUFACTURED   OREGON AERO PART       FUSE
+F-1067B           SEAT FLOOR COVER               2       MANUFACTURED   .020 2024-T3 ALCLAD        FUSE     VA-107              BRAKE RESERVOIR                1       MANUFACTURED   ALUMINUM               FUSE
+F-1067C           SEAT FLOOR ANGLE               2       MATERIAL       AA6-063 X 3/4 X 3/4        FUSE     VA-175              HEAT DUCT TEE                  2       MANUFACTURED   ALUMINUM               FUSE
+F-1068A           SUB PANEL CENTER               1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     VA-184A             TRUTRAK PITCH SERVO BRACKET    1       MANUFACTURED   .063 2024-T3 ALCLAD    FUSE
+F-1068B-L         SUB PANEL SIDE                 1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     VA-188              FLO-SCAN MOUNT BRACKET         1       MANUFACTURED   .040 2024-T3 ALCLAD    FUSE
+F-1068B-R         SUB PANEL SIDE                 1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     VA-256              FLAP PUSHROD                   2       MANUFACTURED   3/8 HEX 2024-T4        FUSE
+F-1069-L          FWD SIDE SKIN                  2       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     VENT DL-03          SCAT TUBE FLANGE               2       MANUFACTURED   ALUMINUM               FUSE
+F-1070-L          MID SIDE SKIN                  1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     VENT DL-10          2.4 DEG FLANGED DUCT           2       MANUFACTURED   ALUMINUM               FUSE
+F-1070-R          MID SIDE SKIN                  1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     VENT TG-10-L        CABIN HEAT SELECTOR BOX        1       MANUFACTURED   ALUMINUM               FUSE
+F-1070A           ROLL CONSTRUCTION ANGLE        1       MATERIAL       AA6-125X3/4X3/4            FUSE     VENT TG-10-R        CABIN HEAT SELECTOR BOX        1       MANUFACTURED   ALUMINUM               FUSE
+F-1070B           ROLL CONSTRUCTION ANGLE        1       MATERIAL       AA6-125X3/4X3/4            FUSE     WD-1002-L-PC        UPPER FIREWALL BRACKET         1       MANUFACTURED   4130 STEEL             FUSE
+F-1071            FWD FUSE TOP SKIN              1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1002-R-PC        UPPER FIREWALL BRACKET         1       MANUFACTURED   4130 STEEL             FUSE
+F-1071B           HAND HOLD DOUBLER              2       MANUFACTURED   .063 2024-T3 ALCLAD        FUSE     WD-1003-L-PC        LOWER FIREWALL BRACKET         1       MANUFACTURED   4130 STEEL             FUSE
+F-1072            FWD FUSE BOTTOM SKIN           1       MANUFACTURED   .040 2024-T3 ALCLAD        FUSE     WD-1003-R-PC        LOWER FIREWALL BRACKET         1       MANUFACTURED   4130 STEEL             FUSE
+F-1076            CENTER BOTTOM SKIN             1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1004             NOSE GEAR TENSION FITTING      2       MANUFACTURED   4130 STEEL             FUSE
+F-1077            MID BOTTOM SKIN                1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1006-L           RUDDER PEDAL LEFT              1       MANUFACTURED   4130 STEEL             FUSE
+F-1080            BAGGAGE COVER - RIGHT          1       MANUFACTURED   .025 2024-T3 ALCLAD        FUSE     WD-1006-R           RUDDER PEDAL RIGHT             1       MANUFACTURED   4130 STEEL             FUSE
+F-1081            BAGGAGE COVER - LEFT           1       MANUFACTURED   .025 2024-T3 ALCLAD        FUSE     WD-1007-L           STEP                           1       MANUFACTURED   4130 STEEL             FUSE
+F-1082            SPACER                         4       MATERIAL       AT6-058X5/16               FUSE     WD-1007-R           STEP                           1       MANUFACTURED   4130 STEEL             FUSE
+F-1083            CONTROL CABLE BRACKET          1       MANUFACTURED   .040 2024-T3 ALCLAD        FUSE     WD-1008-L           STEP MOUNTING BRACKET          1       MANUFACTURED   4130 STEEL             FUSE
+F-1084            SYSTEMS BRACKETS               2       MANUFACTURED   .040 2024-T3 ALCLAD        FUSE     WD-1008-R           STEP MOUNTING BRACKET          1       MANUFACTURED   4130 STEEL             FUSE
+F-1086            VENT BRACKET                   1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1010-PC          CONTROL COLUMN                 1       MANUFACTURED   4130 STEEL             FUSE
+F-1087            VENT SLIDE                     1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1011-L-PC        RIGHT CONTROL STICK BASE       1       MANUFACTURED   4130 STEEL             FUSE
+F-1088-L          FWD FUSELAGE RIB               1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1011-R-PC        LEFT CONTROL STICK BASE        1       MANUFACTURED   4130 STEEL             FUSE
+F-1088-R          FWD FUSELAGE RIB               1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1012             CONTROL STICK                  2       MANUFACTURED   4130 STEEL             FUSE
+F-1089            ELEVATOR PUSHROD (FWD)         1       MATERIAL       AT6-035X1 1/8              FUSE     WD-1013A-PC         FLAP CRANK                     1       MANUFACTURED   4130 STEEL             FUSE
+F-1090            ELEVATOR PUSHROD (MID)         1       MATERIAL       AT6-035X1 1/2              FUSE     WD-1013B-PC         FLAP HORN                      2       MANUFACTURED   4130 STEEL             FUSE
+F-1092            VENT DOOR DOUBLER              2       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1013C-PC         FLAP TORQUE TUBE               2       MANUFACTURED   4130 STEEL             FUSE
+F-1093            VENT DOOR                      2       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1013J            SPACER                         2       MATERIAL       AT6-058X3/8            FUSE
+F-1094B           EMPENNAGE FAIRING              1       MANUFACTURED   Epoxy Resin Fiberglass Cloth FUSE   WD-1021-L-PC        LANDING GEAR MOUNT - LEFT      1       MANUFACTURED   4130 STEEL             FUSE
+F-1094C           GAP SEAL                       2       MATERIAL       RUBBER CHANNEL             FUSE     WD-1021-R-PC        LANDING GEAR MOUNT - RIGHT     1       MANUFACTURED   4130 STEEL             FUSE
+F-1096            VENT DOUBLER                   2       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     WD-1021P            SHIM                           2       MATERIAL       AS3-063X1              FUSE
+F-1097            SPACER                         4       MATERIAL       AT6-058X5/16               FUSE     WD-1043PC           CENTER CABIN BRACE             1       MANUFACTURED   304 STAINLESS/4130 STEELFUSE
+F-1099A           UPPER WING ROOT FAIRING        2       MANUFACTURED   .040 2024-T3 ALCLAD        FUSE     TOOL 3" CUTTING DISK TOOL 3" CUTTING DISK          3       MATERIAL       N/A                    FUSE
+F-1099B           LOWER WING ROOT FAIRING        2       MANUFACTURED   .025 2024-T3 ALCLAD        FUSE     F-1048F             FACET PUMP BRACKET             1       MANUFACTURED   .063 2024-T3 ALCLAD    FUSE
+F-1099C           WING WALK SPACER               2       MANUFACTURED   UHMW 1.688X4.188X.328      FUSE     F-1064B             PUSHROD SLEEVE                 4       MATERIAL       AT6-058X3/8            FUSE
+F-1099D           WING ROOT FAIRING STIFFENER    2       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     F-1048G             RUDDER PEDAL GUIDE             4       MANUFACTURED   PS UHMW 125 X 1/2      FUSE
+F-1099EFG-L       WING ROOT FAIRING SUPPORT      1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     F-1089B             SLEEVE                         1       MATERIAL       PT 1/2OD X 2 CLEAR     FUSE
+F-1099EFG-R       WING ROOT FAIRING SUPPORT      1       MANUFACTURED   .032 2024-T3 ALCLAD        FUSE     F-1001N             COWL ATTACH HINGE              2       MATERIAL       HINGE PIANO 1/8        FUSE
+F-6114A           SHOULDER HARNESS CABLE         2       MANUFACTURED   N/A                        FUSE     F-1001P             COWL ATTACH HINGE              2       MATERIAL       HINGE PIANO 1/8        FUSE
+F-6115            RUDDER PEDAL BEARING BLOCK     1       MANUFACTURED   3/4 UHMW PLASTIC           FUSE     F-1001Q             COWL ATTACH HINGE              2       MATERIAL       HINGE PIANO 1/8        FUSE
+F-6122-1          TRI-GEAR BRAKE BRACKET         1       MANUFACTURED   .063 2024-T3 ALCLAD        FUSE
+F-637A            SEAT BACK                      2       MANUFACTURED   .025 2024-T3 ALCLAD        FUSE
+F-637B            ANGLE                          4       MATERIAL       AA6-125X3/4X3/4            FUSE
+F-637C            ANGLE                          4       MATERIAL       AA6-063X3/4X3/4            FUSE
+F-8105            BRAKE HOSE                     2       MANUFACTURED   N/A                        FUSE
+F-814HPP          FWD SEAT BELT ANCHOR           4       MANUFACTURED   .063 2024-T3 ALCLAD        FUSE
+F-DRILL BUSHING   DRILL BUSHING                  2       MATERIAL       ST4130-028X3/16            FUSE
+F-VENT LINE       FUSELAGE VENT LINE             2       MATERIAL       AT0-032X1/4                FUSE
+
+
+                                                Page 5                                                                                                        Page 6
+                                                                   RV-1 0 FINISH KIT INDEX                                                                          RV-1 0 FINISH KIT INDEX
+
+        PART NUMBER      # PER A/C                  NOMENCLATURE         PART TYPE           S-601-1                 1 SPINNER                                          MANUFACTURED
+AT6-058X3/8                       1 SEAT BELT BUSHING MATERIAL         MATERIAL              S-602-1                 1 SPINNER BACK PLATE                               MANUFACTURED
+AT6-058X5/16                      1 SEAT BELT BUSHING MATERIAL         MATERIAL              S-602B                  1 DOUBLER RING                                     MANUFACTURED
+C-1002 FILLER                     1 GAP FILLER                         MATERIAL              S-603                   1 SPINNER FRONT PLATE                              MANUFACTURED
+C-1002A-L                         1 CABIN DOOR OUTER SHELL             MANUFACTURED          U 15X6.0-6              2 TIRE          (GOODYEAR FLIGHT SPECIAL II)       MANUFACTURED
+C-1002A-R                         1 CABIN DOOR OUTER SHELL             MANUFACTURED          U 15X6.0-6IT            2 TUBE                                             MANUFACTURED
+C-1002B-L                         1 CABIN DOOR INNER SHELL             MANUFACTURED          U 5.00X5-6              1 TIRE                                             MANUFACTURED
+C-1002B-R                         1 CABIN DOOR INNER SHELL             MANUFACTURED          U 5.00X5-6IT            1 TUBE                                             MANUFACTURED
+C-1002C                           2 GAS STRUT ATTACH DOUBLER           MANUFACTURED          U CLEVELAND 199-10400   1 6.00 X 6 WHEELS & BRAKES                         MANUFACTURED
+C-1003-L                          1 FRONT WINDOW                       MANUFACTURED          U NW501.25              1 NOSE WHEEL ASSEMBLY                              MANUFACTURED
+C-1003-R                          1 FRONT WINDOW                       MANUFACTURED          U-1001-L                1 MAIN GEAR LEG                                    MANUFACTURED
+C-1006A                           2 HANDLE PLATE                       MANUFACTURED          U-1001-R                1 MAIN GEAR LEG                                    MANUFACTURED
+C-1006B                           2 HANDLE PIVOT                       MANUFACTURED          U-1002                  4 ISOLATOR WASHER                                  MANUFACTURED
+C-1006C                           2 HANDLE PIVOT                       MANUFACTURED          U-1003                  2 BRAKE MOUNT                                      MANUFACTURED
+C-1006D                           2 HANDLE FACE PLATE                  MANUFACTURED          U-1004A                 2 AXLE NUT                                         MANUFACTURED
+C-1007                            2 HANDLE SLIDE                       MANUFACTURED          U-1004B                 2 NUT EXTENSION                                    MANUFACTURED
+C-1008                            2 HANDLE LEVER                       MANUFACTURED          U-1005                  2 SPACER                                           MANUFACTURED
+C-1009                            2 DOOR FWD PIN BLOCK                 MANUFACTURED          U-1008                  6 SPACER                                           MATERIAL
+C-1010                            4 CABIN PIN BLOCK                    MANUFACTURED          U-1009                  1 AXLE                                             MANUFACTURED
+C-1011-L                          1 FORWARD LATCH PIN                  MANUFACTURED          U-1010-L                1 MAIN WHEEL FAIRING BRACKET                       MANUFACTURED
+C-1011-R                          1 FORWARD LATCH PIN                  MANUFACTURED          U-1010-R                1 MAIN WHEEL FAIRING BRACKET                       MANUFACTURED
+C-1012-L                          1 AFT LATCH PIN                      MANUFACTURED          U-1013A                 1 WHEEL FAIRING FRONT                              MANUFACTURED
+C-1012-R                          1 AFT LATCH PIN                      MANUFACTURED          U-1013B                 1 WHEEL FAIRING REAR                               MANUFACTURED
+C-1013                            2 GAS STRUT ATTACH BRACKET           MANUFACTURED          U-1013C-L               1 NOSE WHEEL - FAIRING BRACKET                     MANUFACTURED
+C-1014                            2 HANDLE SPUR GEAR                   MANUFACTURED          U-1013C-R               1 NOSE WHEEL - FAIRING BRACKET                     MANUFACTURED
+C-1015                            2 HANDLE SLIDE CAP                   MANUFACTURED          U-1017A                 2 GEAR LEG FAIRING                                 MANUFACTURED
+C-1016                            2 GAS STRUT                          MANUFACTURED          U-1017B                 2 GEAR LEG FAIRING HINGE                           MATERIAL
+C-1016B                           4 BUSHING                            MATERIAL              U-1018A                 1 NOSE GEAR LEG FAIRING                            MANUFACTURED
+C-1017                            2 DOOR AFT PIN BLOCK                 MANUFACTURED          U-1018C                 1 NOSE GEAR FAIRING HINGE                          MATERIAL
+C-1019                            2 SAFETY LATCH WEAR PLATE            MANUFACTURED          U-1019-L                1 LOWER INTERSECTION FAIRING                       MANUFACTURED
+C-1020                            1 LATCH ATTACH ANGLE                 MANUFACTURED          U-1019-R                1 LOWER INTERSECTION FAIRING                       MANUFACTURED
+C-1021                            1 LATCH DOUBLER ANGLE                MANUFACTURED          U-1020-L                1 UPPER INTERSECTION FAIRING                       MANUFACTURED
+C-1022                             2 SPRING                            MATERIAL              U-1020-R                1 UPPER INTERSECTION FAIRING                       MANUFACTURED
+C-656                              2 CANOPY HANDLE                     MANUFACTURED          U-1021                  8 SHOULDER BUSHING                                 MANUFACTURED
+CA SEAT ASSEMBLY - 10             1 SEAT ASSY, FRONT L/R               MANUFACTURED          U-1023                  2 SPACER                                           MANUFACTURED
+CA SEAT FRONT SET - 10            1 CUSHIONS NOT COVERED               MANUFACTURED          U-1024                  2 STANDOFF                                         MATERIAL
+COWL, 10 BOT IO-540               1 BOTTOM COWL                        MANUFACTURED          U-1057A                 2 WHEEL FAIRING FRONT                              MANUFACTURED
+COWL, 10 INLET LEFT               1 INLET RAMP                         MANUFACTURED          U-1057B                 2 WHEEL FAIRING REAR                               MANUFACTURED
+COWL, 10 INLET RIGHT              1 INLET RAMP                         MANUFACTURED          VA-143                  1 BUSHING                                          MANUFACTURED
+COWL, 10 TOP IO-540               1 TOP COWL                           MANUFACTURED          VA-144                  2 BUSHING                                          MANUFACTURED
+COWL-10-01A                       1 OIL DOOR                           MANUFACTURED          VA-197                  2 SPRING 5/8 X 2.5 COMPRESSION                     MANUFACTURED
+COWL-10-01B                       1 OIL DOOR CORE                      MANUFACTURED          VA-198                  2 DOOR SEAL                                        MATERIAL
+COWL-10-02                        1 OIL DOOR HINGE                     MATERIAL              VENT SCAT 2X10          1 FWD HEATER HOSE                                  MATERIAL
+COWL-10-03-L                      1 SIDE HINGE                         MATERIAL              VENT SCAT 2X54          1 AFT HEATER HOSE                                  MATERIAL
+COWL-10-03-R                      1 SIDE HINGE                         MATERIAL              VENT SV-10              2 VENT FRESH AIR                                   MANUFACTURED
+C-RACK 10"                        2 HANDLE RACK                        MANUFACTURED          WD-1001-D1              1 DYNA-1 ENGINE MOUNT                              MANUFACTURED
+F-1001S                           2 COWL TOP HINGE PIN                 MATERIAL              WD-1015-PC              1 NOSE GEAR LINK COLLAR ASSEMBLY                   MANUFACTURED
+F-1001T                           2 COWL SIDE HINGE PIN                MATERIAL              WD-1016-PC              1 NOSE GEAR LINK ASSEMBLY                          MANUFACTURED
+F-1001U                           2 COWL BOT HINGE PIN                 MATERIAL              WD-1017-PC              1 NOSE GEAR LEG ASSEMBLY                           MANUFACTURED
+F-1001V                           2 COWL PIN RETAINER                  MATERIAL              WD-1018-L               2 CABIN HINGE FWD LEFT/ AFT RIGHT                  MANUFACTURED
+F-1001Y                           1 COWL UPPER PIN RETAINER            MANUFACTURED          WD-1018-R               2 CABIN HINGE FWD RIGHT/ AFT LEFT                  MANUFACTURED
+F-1001Z                           1 FILLER PLATE                       MANUFACTURED          WD-1019-L               2 DOOR HINGE FWD LEFT/ AFT RIGHT                   MANUFACTURED
+F-10108A                          1 SUPPORT BRACKET                    MANUFACTURED          WD-1019-R               2 DOOR HINGE FWD RIGHT/ AFT LEFT                   MANUFACTURED
+F-10108B                          1 SPLICE PLATE                       MANUFACTURED          WD-1022                 2 DOOR HANDLE ASSEMBLY                             MANUFACTURED
+F-10108C                          1 PLATE                              MANUFACTURED          WD-1023                 2 GAS STRUT ATTACH BRACKET                         MANUFACTURED
+F-10109                           2 LOUVER                             MANUFACTURED          WD-1030                 1 NOSE FORK                                        MANUFACTURED
+J-11968-14                        4 NOSE GEAR ELASTOMER                MANUFACTURED          WD-1031                 1 AXLE FLANGE                                      MANUFACTURED
+S-1001                            2 GAP FILLER                         MATERIAL
+S-1002                            2 BACKING PLATE                      MATERIAL
+

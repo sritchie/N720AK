@@ -1,0 +1,1150 @@
+ SECTION 5                                                                                            RV AIRCRAFT                                                                         RV -10
+
+
+
+
+The manual now changes from general information to specific building instructions for the empennage of your new                              EMP-CONE TABLE OF CONTENTS
+airplane. The information is presented in logical, step-by-step order. This DOES NOT mean that the construction
+sequence given is the only way to do things; depending on factors like available help, available space, or just
+personal preference, you might well alter some procedures with good results. It does not mean, either, that you
+should simply follow the instructions blindly, one step at a time, without thinking ahead.
+Successful use of this manual requires your active participation. Before you begin building, READ THE ENTIRE
+SECTION. Read it two or three times. Visualize the operations described, think about what might come next,                           SECTION 6       VERTICAL STABILIZER     PAGES 1-6
+consider what consequence your actions might have. NEVER do anything in a hurry. A great deal of a
+homebuilder's time is spent staring into space, making odd motions with the hands as he or she imagines how                          SECTION 7       RUDDER                  PAGES 1-12
+things might fit together. This is not wasted time! It is essential to forming a clear mental image of the task ahead.               SECTION 8       HORIZONTAL STABILIZER   PAGES 1-14
+The empennage is a logical place to begin building. It consists of several independent structures, so even a major                   SECTION 9       ELEVATORS               PAGES 1-22
+mistake on one surface may be corrected inexpensively. It also gives a good introduction to techniques and
+materials that will be encountered throughout the project. The methods of joining skeletal parts and attaching skins                 SECTION 10      TAILCONE                PAGES 1-26
+are typical of the entire airframe.                                                                                                  SECTION 11      EMPENNAGE ATTACH        PAGES 1-10
+Read Section 5 again and be familiar with the proper techniques needed for construction.                                             SECTION 12      EMPENNAGE FAIRINGS      PAGES 1-6
+
+
+
+
+ s5r11 09/19/11                                                                                                          Emp-Cone Contents 10/7/11
+                                                        5-29                                                                                                           1
+                                                                RV -10                                                                         RV -10
+
+
+
+
+                        WING TABLE OF CONTENTS                                               FUSELAGE TABLE OF CONTENTS
+
+            SECTION 13     MAIN SPAR               PAGES 1-6                          SECTION 25   MID FUSELAGE BULKHEADS         PAGES 1-8
+            SECTION 14     WING RIBS               PAGES 1-6                          SECTION 26   MID FUSE RIBS & BOTTOM SKINS   PAGES 1-8
+            SECTION 15     REAR SPAR               PAGES 1-4                          SECTION 27   FIREWALL                       PAGES 1-6
+            SECTION 16     TOP SKINS               PAGES 1-4                          SECTION 28   FWD FUSE RIBS, BULKHEADS &
+            SECTION 17     OUTBOARD LEADING EDGE   PAGES 1-4                                       BOTTOM SKIN                    PAGES 1-18
+            SECTION 18     FUEL TANK               PAGES 1-8                          SECTION 29   FUSE SIDE SKINS                PAGES 1-22
+            SECTION 19     STALL WARNING SYSTEM    PAGES 1-6                          SECTION 30   STEP INSTALLATION              PAGES 1-4
+            SECTION 20     BOTTOM SKINS            PAGES 1-6                          SECTION 31   UPPER FORWARD FUSELAGE         PAGES 1-10
+            SECTION 21     AILERON                 PAGES 1-8                          SECTION 32   TAIL CONE ATTACHMENT           PAGES 1-6
+            SECTION 22     FLAP                    PAGES 1-10                         SECTION 33   BAGGAGE AREA                   PAGES 1-10
+            SECTION 23     AILERON ACTUATION       PAGES 1-10                         SECTION 34   BAGGAGE DOOR                   PAGES 1-8
+            SECTION 24     WING TIP INSTALLATION   PAGES 1-4                          SECTION 35   ACCESS COVERS AND FLOOR
+                                                                                                   PANELS                         PAGES 1-10
+                                                                                      SECTION 36   BRAKE LINES                    PAGES 1-4
+                                                                                      SECTION 37   FUEL SYSTEM                    PAGES 1-6
+                                                                                      SECTION 38   RUDDER PEDALS & BRAKE SYSTEM PAGES 1-10
+                                                                                      SECTION 39   CONTROL SYSTEM                 PAGES 1-12
+                                                                                      SECTION 40   FLAP SYSTEM                    PAGES 1-8
+                                                                                      SECTION 41   INSTRUMENT PANEL               PAGES 1-10
+                                                                                      SECTION 42   REAR SEAT BACKS                PAGES 1-4
+                                                                                      SECTION 43   CABIN                          PAGES 1-14
+                                                                                      SECTION 44   WING ATTACHMENT                PAGES 1-12
+
+
+
+
+Wing Contents 9/17/03                                                    Fuselage Contents 6/04
+                                             1                                                                         1
+                                                                          RV -10           RV -10
+
+
+                                                                                   NOTES
+
+                      FINISH KIT TABLE OF CONTENTS
+
+             SECTION 45        CABIN DOORS & TRANSPARENCIES PAGES 1-20
+             SECTION 46        ENGINE MOUNT & LANDING GEAR   PAGES 1-8
+             SECTION 47        SPINNER & COWLING             PAGES 1-12
+             SECTION 48        FAIRINGS & WHEEL PANTS        PAGES 1-24
+             SECTION 49        SEATS & SEAT BELTS            PAGES 1-4
+             SECTION 50        CABIN HEAT                    PAGES 1-2
+             WEIGHT AND BALANCE                              PAGES 1-10
+             FINAL INSPECTION AND FLIGHT TEST                PAGES 1-23
+
+
+
+
+Finish Contents 1-13-05
+RV-10                                                                                            WEIGHT AND BALANCE             WEIGHT AND BALANCE                                                                                                       RV-10
+                                                                                                                                x    12. Forward C.G. Limit - An airplane operating at or near its forward C.G. limit will have improved stall and spin
+                                                                                                                                     resistance and improved stall & spin recovery characteristics. It will also have higher elevator stick force and trim
+                          WEIGHT AND BALANCE                                                                                         force requirements, and will require more stick force for landing flare. It will have higher trim drag which will tend to
+                                                                                                                                     decrease speeds, but will increase the pitch stability of the airplane. In general, it makes the airplane more stable
+Any aircraft must, for safety’s sake, be operated within its weight and balance envelope. Weight and its distribution
+can severely affect performance, handling, controllability, and even structural integrity. This section will give you                and safe, but less fun to fly.
+basic procedures for weighing your RV-10 and performing weight and balance calculations.                                        x    13. Aft C.G. Limit - An aircraft flown at or near its aft C.G. limit will have lighter elevator stick force requirements and
+The forms presented and calculations performed here are only for standard operating conditions and for Standard                      will therefore be easier to rotate to a high angle of attack from which stall entry is more likely. Stall and spin recovery
+FAA Pilot Weights. We all know that not all pilots and passengers weigh exactly 170 lbs. Performing weight and                       at a rearward C.G. is slower and requires more corrective control action. Trim drag is minimized and thus speeds
+balance calculations based on these weights provides both the pilot and the FAA with typical anticipated loading                     tend to be at their highest when C.G. is more aft. In general, C.G.s in the aft half of the range make the airplane less
+conditions. For operating the aircraft under conditions where the average pilot and passenger weights exceed 170                     stable but more fun to fly, at least when maneuvering. C.G.s at or beyond the aft limit can cause control reversals
+lbs., additional calculations must be performed to verify compliance with C.G. and/or Gross Weight limits.
+                                                                                                                                     and other dangerous flight conditions.
+The pilot should not only be familiar with the limit load and C.G. calculations as required by the FAA, but should
+also be familiar with the theory of how C.G. location affects aircraft stability and handling. Day-to-day flight
+operations will not always involve loads which are exactly matched to the limit load calculations, so accurate                   MAXIMUM BAGGAGE WEIGHT
+estimates or further calculation will be necessary to assure safe flight operations. It is possible to perform weight           The maximum allowable baggage weight is determined by the structural limits of the baggage compartment floor,
+and balance computations for an airplane simply by following procedures and doing the mathematics, without                      and is the maximum weight which can be carried in the baggage compartment under the most ideal conditions.
+really understanding all of the terms and computations. However, as pilot of the airplane, it is highly desirable to            For the RV-10, the maximum permissible baggage limit is 150 lbs. This means that when C.G. limits and gross
+have a good understanding of weight and balance, the effects that weight and balance have on the flight                         weight limits will permit, up to 150 lbs. of baggage can be carried in the RV-10 baggage compartment. An
+characteristics of the airplane, and the reasons for C.G. limits.                                                               example of this condition is a single pilot operation where this amount of baggage will not likely cause either the
+                                                                                                                                C.G. or the gross weight to exceed limits. With only front seat occupants, additional baggage can be carried in the
+Before getting into the details of performing weight and balance measurements and calculations for your RV-10,                  rear seats, but only if the C.G. and Gross weight remain within limits, and if it is secured so that it cannot move
+let’s review the definitions of some of the terms involved so that we can better understand the significance of                 during flight.
+weight and balance figures.
+x    1. Empty Weight - Weight of the airplane including fixed ballast, unusable fuel, and oil.                                   AIRCRAFT WEIGHING
+x    2. Gross Weight - Sum of empty weight plus crew, passengers, fuel, and baggage. It is important because of the             Weigh your RV-10 with three platform type aircraft scales which have been certified for accuracy. At times, good
+     effect it has both on the structure and performance of the airplane. Obviously, higher gross weights will diminish all     scales are not available to homebuilders so bathroom scales are used instead. Bathroom scales are often highly
+                                                                                                                                inaccurate and usually do not have sufficient capacity to weigh an RV-10 main wheel. However, two can be
+     aspects of performance, particularly take-off and climb performance. Increased weight also increases stall speed.          ganged together with a plank over them if no other scales are available. Because a homebuilder can probably
+     Higher gross weights will tend to overstress the airplane’s structure both in flight and on the ground.                    borrow any number of bathroom scales, it would be good to get 5 or 6 of them and weigh yourself on each one.
+                                                                                                                                This way, the most accurate can be selected and the others calibrated based on it.
+x    3. Maximum Gross Weight - The maximum allowable operating weight, with all variable load items located such
+     that the Center of Gravity (C.G.) remains within prescribed limits. In the Experimental Amateur Built Category -- the      Regardless of the scales used, the airplane should be weighed in the empty condition and in a level attitude. Level
+     category in which the RV-10 would typically be licensed -- the aircraft builder is allowed to specify this weight. Van’s   attitude is established at the datum line which is the fuselage longeron at the door opening. Scales should be
+                                                                                                                                placed simultaneously under both main wheels and the nose wheel. Use plumb lines or vertical levels to measure
+     recommends a 2700 pound limit.                                                                                             the locations of the main wheels relative to the wing leading edge, and then convert this to an arm relative to
+x    4. Payload - Weight of passengers and baggage.                                                                             datum. The same applies to the nose wheel location, which can be accurately located by dropping a plumb line to
+                                                                                                                                the floor and measuring aft to the wing leading edge.
+x    5. Useful Load - Weight of passengers, fuel, and baggage.                                                                  The forms at the end of this section show a sample calculation for the empty weight Center of Gravity for an RV-
+                                                                                                                                10. To keep all moments positive, a datum has been selected at a point forward of the prop spinner. Only three
+x    6. Center of Gravity - The point at which the mass of an object is considered to be concentrated. (The point at            moments must be calculated and combined to determine the C.G. position. This figure is not in itself too
+     which the airframe plus all added weights can be considered to be concentrated.)                                           meaningful, but is important for further loaded weight C.G. calculations.
+x    7. Arm - (or Moment Arm) - The horizontal distance along the longitudinal axis from the datum to the C.G. of an            Also provided are sample calculations for gross weight loading conditions and other limiting conditions. The
+     item being considered, or from the datum to the point where a force is applied. Normally measured in inches; aft of        procedure is to enter the desired loads into the calculation, and then check the resultant C.G. location to see if it
+     datum is plus (+) and forward of datum is minus (-).                                                                       falls within the design limits. If not, then further calculations will be needed using varying loads until the resultant
+                                                                                                                                C.G. is within limits. This will then become the limit load, or load combination permitted. Such calculations are
+x    8. Moment - The product of a weight or force and its moment arm (M=W x D)                                                  always based on the amount of fuel which will be on board during the most critical portion of the flight. In other
+                                                                                                                                words, if full fuel imposes the extreme loading condition (maximum allowable gross weight) it is the figure used. In
+x    9. Datum - Arbitrary reference plane selected by the manufacturer (builder) from which all arm measurements are            other instances, most aft C.G. for example, the minimum fuel supply is assumed because this is the condition
+     made for weight and balance computations. Normally, the datum chosen will be in front of the aircraft nose so that         which could exist at the end of the flight. The airplane could be within limits at take-off, but outside the limits upon
+     all arm measurements will be positive. This makes weight and balance computations easier. The weight and                   landing. This instance is illustrated in the sample calculations where we have substituted extra baggage in lieu of
+                                                                                                                                fuel to remain within design gross weight limits. The gross weight C.G. calculations show everything within limits.
+     balance datum for the RV-10 has been established at 99.44 inches ahead of the leading edge of the wing. The                But, when we re-calculate the C.G. for this same condition, subtracting the weight of the fuel burned, the C.G.
+     weight and balance form and the sample calculations at the end of the chapter are based on this.                           moves outside of the aft limit. A reduction in baggage weight will be needed to attain an acceptable loading
+                                                                                                                                condition. By trial and error calculations, we can thereby establish the maximum baggage permitted under
+x    10. Leveling Datum - A point or surface on the airframe where a level can be placed to determine when the aircraft         minimum fuel conditions. C.G. calculations combine the effects of all loads placed in the aircraft and consider them
+     is in a level position for weighing. For the RV-10 the Level Datum line is the fuselage longeron at the door opening.      as one, centered at a median point. Many different combinations of loads and locations are possible to achieve the
+                                                                                                                                same end loading result.
+x    11. C.G. Location (or range) - Usually defined two different ways. One is by establishing certain positions or limits
+     with reference to the chord of the wing such as ‘‘between 15% and 30% of chord’’. This position is then converted          In Sample 5, consider a gross weight condition in which the weight of baggage is increased from 45 lbs to 100 lbs.
+     into inches by multiplying the wing chord by that percentage (for RV-10, 15% x 56’’= 8.4”, and 30% x 56’’ = 16.8’’)        A reduction in the fuel load is needed to remain within the gross weight limit of 2700 lbs. The calculations show
+                                                                                                                                that the C.G. remains within limits for this loading condition.
+     The C.G. location with reference to datum is then computed by adding these distances (arms) to the distance from
+     wing leading edge to datum.                                                                                                In Sample 6, when an additional C.G. calculation is made for minimum fuel at this loading condition, the C.G. falls
+                                                                                                                                outside of limits. Further calculations, shown in Sample 7, are then necessary to determine the maximum
+                                                                                                                                baggage which can be carried along with the pilot and passenger weights specified. This sample loading condition
+
+
+W & B RV-10.doc 2/4/05                                                                                                          W & B RV-10.doc 2/4/05
+                                                             1                                                                                                                                 2
+RV-10                                                                                   WEIGHT AND BALANCE           WEIGHT AND BALANCE                                                                                              RV-10
+has been selected to illustrate an unacceptable loading condition, and the method for determining loading changes
+necessary to remain within C.G. limits. The pilot is responsible for additional C.G. calculations for any loading                             SAMPLE WEIGHT & BALANCE FOR AN RV-10
+conditions other than the documented standard conditions listed on the FAA required papers.
+                                                                                                                     Datum                             99.44 inches forward of wing leading edge. (L.E.)
+Following the sample calculations is a blank C.G. form which may be used for calculating the C.G. for your RV-10.    Design C.G. Range                 15%-30% of wing chord, or 8.4-16.8 inches from L.E., or 107.84-116.24 inches
+Arms for the locations of the standard loads are provided in the sample calculations. The sample calculations are                                      aft of Datum.
+only representative figures and may not be the same as those you determine for your RV-10. While the loads and       Wing L.E.                         99.44 inches aft of datum.
+weights of pilot, passenger(s), and fuel may be the same, a different empty weight C.G. for your RV-10 could         Pilot & Front Seat Passenger      114.58” aft of datum
+cause the final loaded C.G. to be considerably different. Any changes in the airframe such as the use of a heavy     Fuel                              108.9” aft of datum
+prop or the installation of extra avionics equipment will considerably affect the empty C.G and empty weight. Such   Rear Seat Passenger(s)            151.26” aft of datum
+changes may require carriage of ballast to keep the loaded C.G. within the required range. Increased empty           Baggage                           173.5” aft of datum
+weight will decrease useful load; either passenger weight, fuel weight, or baggage weight must be reduced to                             Aircraft weighed in level flight attitude. (includes 12 qts. of oil, no fuel)
+remain within the permissible gross weight. This is a common practice in production light planes where it is rare
+that full fuel, pilot and passengers, and baggage can all be loaded simultaneously and remain within gross weight
+limits.
+
+
+
+
+                                                                                                                     Main wheel, right 124.44" aft of datum.
+                                                                                                                     Main wheel, left 124.31" aft of datum.
+                                                                                                                     Nose wheel        50.44” aft of datum
+                                                                                                                     DETERMINING EMPTY CG
+                                                                                                                                             Weight               Arm           Moment
+                                                                                                                     Right Wheel -            617               124.44           76778
+                                                                                                                     Left Wheel -             618               124.31           76825
+                                                                                                                     Nose Wheel -             380                 50.44          19166
+                                                                                                                     Total:                 1615                                172769
+                                                                                                                     C.G. = 172769/1615= 106.99" aft of datum for empty weight CG
+                         RV-10 WEIGHTS AND LIMITS - EASY REFERENCE
+                                                                                                                     SAMPLE SITUATION 1: GROSS WEIGHT CG WITH FOUR PASSENGERS, 45lb
+ Recommended Gross Weight          2700 lbs                                                                          BAGGAGE
+ Forward CG Limit                  15% of chord or 8.4” aft of leading edge
+ Aft CG Limit                      30% of chord or 16.8” aft of leading edge                                                                   Weight              Arm             Moment
+                                                                                                                     Aircraft                    1615             106.99           172795
+                                                                                                                     Fuel (60 Gal.)               360             108.9             39204
+                                                                                                                     Pilot                        170             114.58            19479
+                                                                                                                     Front Seat Passenger         170             114.58            19479
+                                                                                                                     Rear Seat Passenger          170             151.26            25714
+                                                                                                                     Rear Seat Passenger          170             151.26            25714
+                                                                                                                     Baggage                       45             173.5              7808
+                                                                                                                     Total:                      2700                              310192
+                                                                                                                     CG = 310192/2700= 114.89" aft of the datum. This is less than the aft limit of 116.24, so is within CG limits
+                                                                                                                      SAMPLE SITUATION 2 : AS ABOVE, BUT WITH MINIMUM FUEL
+                                                                                                                                              Weight               Arm             Moment
+                                                                                                                     Aircraft                   1615              106.99            172795
+                                                                                                                     Fuel (5 gal.)                 30             108.9               3267
+                                                                                                                     Pilot                        170             114.58             19479
+                                                                                                                     Front Seat Passenger         170             114.58             19479
+
+
+W & B RV-10.doc 2/4/05                                                                                               W & B RV-10.doc 2/4/05
+                                                        3                                                                                                                      4
+RV-10                                                                                     WEIGHT AND BALANCE           WEIGHT AND BALANCE                                                                                      RV-10
+Rear Seat Passenger         170              151.26             25714                                                  Rear Seat Passenger       170             151.26            25714
+Rear Seat Passenger         170              151.26             25714                                                  Baggage                    66             173.5             11451
+Baggage                      45              173.5               7808
+                                                                                                                       Total:                   2391                              277899
+Total:                     2370                                274255
+CG = 274255/2370= 115.72" aft of the datum. This is less than the aft limit of 116.24, so is within CG limits          CG=277899/2391=116.23" aft of the datum. This is less than the aft limit of 116.24, so by reducing the baggage
+                                                                                                                       by 34 lbs, the CG is kept within limits at the end of the flight.
+SAMPLE SITUATION 3: MOST FORWARD C.G. (MINIMUM PILOT WEIGHT WITH
+NO BAGGAGE, MINIMUM FUEL)
+                         Weight               Arm             Moment
+Aircraft                   1615              106.99           172795
+Fuel (5 gal.)                30              108.9              3267
+Pilot                       197              114.58            19479
+Total:                     1842                               198635
+CG = 198635/1842= 107.8" aft of the datum. This is equal to the forward limit of 107.8, so is within CG limits.
+SAMPLE SITUATION 4: MOST FORWARD C.G. (STD. PILOT WEIGHT WITH 3 LB
+BAGGAGE, MINIMUM FUEL)
+                       Weight                 Arm            Moment
+Aircraft                   1615             106.99            172795
+Fuel (5 Gal.)                30             108.9               3267
+Pilot                       170             114.58             19479
+Baggage                       3             173.5                521
+Total:                     1818                               196062
+CG = 196062/1818= 107.8" aft of the datum. This is equal to the forward limit of 107.8, so is within CG limits. This
+example illustrates that solo pilots weighing less than the sample situation 3 minimum must carry weight in the
+baggage area to remain within the forward CG limit with minimum fuel.
+SAMPLE SITUATION 5: : GROSS WEIGHT CG WITH FOUR PASSENGERS, 100lb
+BAGGAGE, REDUCED FUEL
+                     Weight                Arm             Moment
+Aircraft               1615              106.99             172795
+Fuel (50.8 Gal.)        305              108.9                33215
+Pilot                   170              114.58               19479
+Front Seat Passenger    170              114.58               19479
+Rear Seat Passenger     170              151.26               25714
+Rear Seat Passenger     170              151.26               25714
+Baggage                 100              173.5                17350
+Total:                 2700                                 313745
+CG = 313745/2700= 116.2" aft of the datum. This is less than the aft limit of 116.24, so is within CG limits
+
+ SAMPLE SITUATION 6: AS ABOVE, BUT WITH MINIMUM FUEL
+                         Weight                Arm    Moment
+Aircraft                    1615              106.99  172795
+Fuel (5 Gal.)                   30            108.9     3267
+Pilot                         170             114.58   19479
+Front Seat Passenger          170             114.58   19479
+Rear Seat Passenger           170             151.26   25714
+Rear Seat Passenger           170             151.26   25714
+Baggage                       100             173.5    17350
+Total:                      2425                      283798
+CG = 283798/2425= 117.03" aft of the datum. THIS EXCEEDS THE AFT LIMIT OF 116.24”, SO IS NOT WITHIN
+THE PRESCRIBED CG ENVELOPE. These examples illustrate how it might be possible to begin a flight within
+CG limits, but be out of limits upon landing.
+ SAMPLE SITUATION 7: AS ABOVE, BUT WITH REDUCED BAGGAGE
+                         Weight               Arm             Moment
+Aircraft                   1615              106.99           172795
+Fuel (5 Gal.)                30              108.9              3267
+Pilot                       170              114.58            19479
+Front Seat Passenger        170              114.58            19479
+Rear Seat Passenger         170              151.26            25714
+
+W & B RV-10.doc 2/4/05                                                                                                 W & B RV-10.doc 2/4/05
+                                                          5                                                                                                                  6
+RV-10                                                                             WEIGHT AND BALANCE           WEIGHT AND BALANCE                                                 RV-10
+                                                                                                                SITUATION 1: GROSS WEIGHT CG
+                             WEIGHT & BALANCE DATA for RV-10:                                                                          Weight         Arm            Moment
+                                                                                                               Aircraft             _______           ______         _______
+                                                                                                               Fuel (60 Gal.)       _______           108.9          _______
+MAKE:___________________                     MODEL:______________                      SERIAL___________       Pilot                _______           114.58         _______
+REGISTRATION_______________                                                                                    Front Seat Passenger _______           114.58         _______
+Datum                           99.44 inches forward of wing leading edge. (L.E.)                              Rear Seat Passenger _______            151.26         _______
+Design C.G. Range               15%-30% of wing chord, or 8.4-16.8 inches from L.E., or 107.84-116.24 inches   Rear Seat Passenger _______            151.26         _______
+                                aft of Datum.                                                                  Baggage              _______           173.5          _______
+Wing L.E.                       99.44 inches aft of datum.                                                     Total:               _______                          _______
+Fuel                            108.9” aft of datum
+Pilot & Front Seat Passenger    114.58” aft of datum                                                           C.G. = __________/____________ = ________in. aft of datum.
+Rear Seat Passenger(s)          151.26” aft of datum
+Baggage                         173.5” aft of datum                                                             SITUATION 2: MOST AFT CG (GROSS WEIGHT, MINIMUM FUEL)
+                Aircraft Weighed empty in level flight attitude. Includes 12 qts. of oil, no fuel)                                      Weight        Arm            Moment
+                                                                                                               Aircraft             _______           ______         _______
+                                                                                                               Fuel (5 Gal.)        _______           108.9          _______
+                                                                                                               Pilot                _______           114.58         _______
+                                                                                                               Front Seat Passenger _______           114.58         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+                                                                                                               Baggage              _______           173.5          _______
+                                                                                                               Total:               _______                          _______
+                                                                                                               C.G. = __________/____________ = ________in. aft of datum.
+                                                                                                                SITUATION 3: MOST FORWARD C.G. (STD PILOT WT.)
+                                                                                                                                        Weight        Arm            Moment
+                                                                                                               Aircraft             _______          _______         _______
+                                                                                                               Fuel (5 Gal.)        _______           108.9          _______
+                                                                                                               Pilot                _______           114.58         _______
+                                                                                                               Front Seat Passenger _______           114.58         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+                                                                                                               Baggage              _______           173.5          _______
+                                                                                                               Total:               _______                          _______
+
+Main wheel, right        _________________in. aft of datum.                                                    C.G. = __________/____________ = ________in. aft of datum.
+Main wheel, left _________________in. aft of datum.                                                             SITUATION 4: MOST FORWARD C.G. (MIN. PILOT WT.)
+Nose wheel        _________________in. aft of datum.                                                                                    Weight        Arm            Moment
+                                                                                                               Aircraft             _______           ______         _______
+ DETERMINING EMPTY CG                                                                                          Fuel (5 Gal.)        _______           108.9          _______
+                                                                                                               Pilot                _______           114.58         _______
+                          Weight     Arm         Moment                                                        Front Seat Passenger _______           114.58         _______
+Right Wheel              _________   _____     ___________                                                     Rear Seat Passenger _______            151.26         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+Left Wheel               _________   _____     ___________                                                     Baggage              _______           173.5          _______
+Nose Wheel               _________   _____    ___________                                                      Total:               _______                          _______
+Total:                   _________             ___________
+                                                                                                               C.G. = __________/____________ = ________in. aft of datum.
+EMPTY AIRCRAFT C.G. =___________/___________=________inches aft of datum.                                       SITUATION 5: GROSS WEIGHT (HEAVY PILOT & BAGGAGE, REDUCED FUEL)
+                                                                                                                                       Weight         Arm            Moment
+                                                                                                               Aircraft             _______           ______         _______
+                                                                                                               Fuel ( __ Gal.)      _______           108.9          _______
+                                                                                                               Pilot                _______           114.58         _______
+                                                                                                               Front Seat Passenger _______           114.58         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+                                                                                                               Rear Seat Passenger _______            151.26         _______
+                                                                                                               Baggage              _______           173.5          _______
+                                                                                                               Total:               _______                          _______
+                                                                                                               C.G. = __________/____________ = ________in. aft of datum.
+
+
+W & B RV-10.doc 2/4/05                                                                                         W & B RV-10.doc 2/4/05
+                                                     7                                                                                                           8
+RV-10                                                            WEIGHT AND BALANCE   WEIGHT AND BALANCE            RV-10
+ SITUATION 6: AS ABOVE, BUT WITH MINIMUM FUEL
+                        Weight         Arm            Moment
+Aircraft            _______             _____          _______
+Fuel ( __ Gal.)      _______           108.9          _______
+Pilot                _______           114.58         _______
+Front Seat Passenger _______           114.58         _______
+Rear Seat Passenger _______            151.26         _______
+Rear Seat Passenger _______            151.26         _______
+Baggage              _______           173.5          _______
+Total:               _______                          _______
+
+C.G. = __________/____________ = ________in. aft of datum.
+
+
+
+
+                                             NOTES
+W & B RV-10.doc 2/4/05                                                                W & B RV-10.doc 2/4/05
+                                                  9                                                            10
+RV-10                                                                   FINAL INSPECTION AND FLIGHT TEST                     RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST
+
+                                                                                                                             “bleed” down and need to be “pumped” up often indicate a fluid leak in the lines, master cylinder, or brake
+                                                                                                                             cylinder itself.
+
+    FINAL INSPECTION AND FLIGHT TEST                                                                                         Flap Operation: Check the flap system through its full travel for freedom of movement.
+                                                                                                                             Flight Controls: Your control system is vital to safe flight and requires very close scrutiny. Operate the rudder,
+In the life of every homebuilder there comes the day when his aircraft is finished and ready to fly.                         elevator, and aileron controls through their full travel. Assure yourself that ALL the controls are connected,
+Or is it?                                                                                                                    secured and safetied -- and that they all operate freely and smoothly and in the correct direction. No play should
+
+For some builders the process has been long, sometimes several years. We learn from experience and we                                                              Maximum Travel             Minimum Travel           Balance Limit (in-lb)
+pass that learning along to our builders as needed. Before you undertake the test flying of your new aircraft,
+check for “Service Bulletins” on our web site at www.vansaircraft.com. It is in your best interest to check this                      Aircraft Surface           Up/Down (degrees)          Up/Down (degrees)         Trailing Edge Heavy
+web site periodically to keep up with the latest improvements in your aircraft.
+                                                                                                                                           Elevator                      30/25                      25/20                       37.5
+A reported 20% to 30% of homebuilt aircraft fatal accidents occur within the flight test phase (first 25-40 hrs.).
+Flight test statistics for RVs are far safer than this. However, these sobering statistics should provide the                               Aileron                      32/17                      25/15                       6.8
+incentive to undertake flight testing in the most professional manner possible. Because the majority of accidents,                         Rudder                   35 Left/35 Right           30 Left/30 Right                 30.8
+perhaps 80-90%, result from pilot error, pilot “airworthiness” should be of paramount concern.
+                                                                                                                                     Elevator Tab - Left         0 Tab Up/35 Tab Dn         0 Tab Up/32 Tab Dn            Not Applicable
+The last steps in building an aircraft are a very thorough final inspection of both the pilot and the aircraft to
+assure that everything possible has been done to make it airworthy, followed by a carefully planned and                              Elevator Tab - Right        25 Tab Up/35 Tab Dn        23 Tab Up/32 Tab Dn           Not Applicable
+organized flight test program to verify that the aircraft not only flies, but meets all performance, stability, and
+handling goals.                                                                                                                              Flaps                         33                         30                  Not Applicable
+One who builds a homebuilt aircraft is known as an “amateur builder”. However, we don’t often use the term                   be permitted in the control hinges; sloppiness may induce flutter. Likewise the trim tabs must be free of
+“amateur test pilot” to define his role during the flight testing of an aircraft. In reality, the typical private pilot is   excessive play. Review the control travel limits. Review the control surface balance limits.
+terribly under-qualified to serve as a test pilot, at least when contrasted to the training and qualification of
+professional test pilots. Fortunately, the flight testing of many ABE (Amateur Built Experimental) aircraft consists         Fuel System: Check your fuel selector valve. Perform tests to assure that the tank indicated is actually feeding,
+of little more than a self help check out in a new airplane. Aircraft of proven design (such as the RVs), which              and that the “off” position does stop the fuel flow. It must function easily with a definite click in each tank position.
+have been accurately built from high quality kits, usually pose few challenges to their test pilots, even in the early       Verify that the engine will run in each tank position (except OFF, of course.) Smell fuel in the cockpit? Check the
+hours of flight. However, this ideal cannot be guaranteed and no assumptions of unquestionable airworthiness                 connections for each fuel line. A fuel leak cannot be tolerated.
+should be made. A “test” pilot must be prepared for any irregularity which may occur.                                        Are your vent lines open (are you sure?) and properly exited outside the aircraft? Protect the vent openings with
+The goal of this chapter is to help you do flight test planning and flight testing in a way that eliminates the need         aluminum screen to keep the bugs out.
+for you to demonstrate that you have the “right stuff”. When it comes to flight testing, boredom beats excitement.           Propeller: Re-torque and re-safety the propeller bolts -- especially if a wood prop is installed. Recheck the
+This chapter will also help you gain a better knowledge of the fine points of the performance, stability, and                track of the propeller to make sure the blades are rotating in the same plane.
+handling qualities of your aircraft. Put another way, we will try to teach you some of the things which test pilots
+need to know.                                                                                                                An out-of-track propeller condition can be corrected by placing a paper shim between the rear face of the prop
+                                                                                                                             and the mounting flange, on the side with the trailing tip. Common typing or copier paper can be used for the
+Using the first flight of your RV as the central point, we can consider two basic phases of testing: Pre-First Flight        shim,. By loosening the prop bolts, a paper shim can be slipped in and the bolts re-torqued with a minimum
+and Post First Flight.                                                                                                       effort. A single sheet thickness of copier paper is equal to a tip correction of about 1/16”. After shimming, re-
+                                                                                                                             check for track. Repeat this process until the prop blades track within 1/16”.
+PRE FIRST FLIGHT                                                                                                             Propeller Shaft Extension Alignment: A less common but more serious problem than prop tracking is that of
+Pre-First Flight activities include two main topics; inspection and preparation of the aircraft, and inspection and          crankshaft prop flange misalignment. If the crankshaft flange is bent slightly, it would cause an out-of-track prop
+preparation of the pilot. Everyone agrees that the aircraft should be thoroughly checked over and made                       condition, if a prop were bolted directly to it without an extension. When a shaft extension is used, the prop
+airworthy, but not everyone is as concerned about the airmanship of the pilot, particularly the pilot himself. They          becomes not only out of track, but off center as well. If this condition goes undetected, a serious vibration (out-
+should be. After the first flight is completed, subsequent flights can be dedicated to increasing the proficiency of         of-balance) condition can result, even though the prop is balanced and in track.
+the pilot, improving his or her connection to the aircraft, and exploring the performance and limits of the aircraft
+itself.                                                                                                                      Checking for an out-of-alignment flange and prop shaft extension is done with a dial indicator.                  Aircraft
+                                                                                                                             mechanics and machinists are familiar with this tool, and can probably help you with this test.
+The following sequence of inspection, preparation and flight test procedures has been compiled from a series of
+flight test articles authored by Tony Bingelis in the Jan-Mar. 1989 issues of Sport Aviation, a 1989 FAA Advisory            The dial indicator mounting stand (shaft) must be clamped to the engine and positioned so that its sensor tip is in
+Circular titled Amateur-built Aircraft Flight Testing Handbook, and insights from RV designer Richard                        contact with the front flange of the prop extension. Rotating the prop through 360 degrees will indicate an out of
+VanGrunsven. Another more in depth and very valuable book is Flight Testing Homebuilt Aircraft by Vaughn                     line condition. The prop extension can be shimmed straight using the same technique as for prop tracking.
+Askew, published by the Iowa State University Press, and also available from Van’s Aircraft.                                 Engine Controls: Verify direction of movement and security of attachment at the engine. This means
+                                                                                                                             somebody needs to check the movement at the carburetor -- takes two people to do it. Beware of possible
+INSPECTION AND PREPARATION OF THE AIRFRAME                                                                                   spring-back or inadvertent locking in the linkage when any engine control is moved to its extreme position.
+Weight and Balance: Go over your figures one more time. How will the aircraft be loaded for test flight? Will it             Checklists and placards: No excuses, you need them. Review them for accuracy, completeness, and ready
+be under gross? Don't fly the aircraft with the CG at or near either the forward or aft limit. If necessary, add             access.
+ballast and fasten it securely. Be sure the ballast will not interfere with the controls, or chafe on installed wiring       One pre-takeoff check list that is easy to remember is based on the letters in the word C I G A R E T T E. They
+and fuel lines. Carry plenty of fuel for the first flight, but limit it to no more than half your fuel supply.               stand for:
+Landing Gear: Toe-in or a cocked wheel could lead to dangerous runway control problems. Check for proper
+tire pressure.                                                                                                               x   Controls: Move and visually check for proper operation.
+
+Brake System: Check for positive pressure at the brake pedals. Both should have similar feel; a firm resistance              x   Instruments: Check functioning of oil pressure, fuel pressure, tachometer, MP, and any other instruments
+after about 1/2'' of pedal travel. The pressure should hold as long the foot pressure is held on the pedal.                      which are in operation prior to flight.
+While holding the brakes, have someone try to push or pull the plane to make sure that the brakes are working.               x   Gas: Check quantities in both tanks and set selector on the fullest tank.
+“Soft” pedals usually indicate the presence of air in the brake lines, require the system to be purged. Pedals that          x   Altimeter: Set for field elevation
+
+   Flight Test RV-10 3/16/05                                1                                                                    Flight Test RV-10 3/16/05                              2
+RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST                   RV-10                                                                 FINAL INSPECTION AND FLIGHT TEST
+
+x   Radio: Turn on and set primary and secondary frequencies needed.                                                      Doing otherwise could result in serious engine damage, or at the very least, will cause it to burn a lot of oil
+                                                                                                                          because the rings failed to seat.
+x   Engine:      Run-up RPM to check mags, carb heat, and cycle prop if applicable. Set mixture full rich for
+    takeoff.                                                                                                              When engine break-in is a concern, perform flight testing without the wheel fairings and gear leg fairings. This
+                                                                                                                          will add around 15% to the airframe drag and thus cause higher engine temperatures at any given forward
+x   Trim: Set to take-off position. (For first flight, set trim at about 1/3 nose up travel.)                             speed. Higher cylinder head temperatures, within limits, are necessary for seating piston rings (breaking in).
+x   Traffic: If non-controlled airport, check the traffic pattern for arriving and departing aircraft.                    Is the carb heat connected and functioning properly? With the engine running and warm, application of
+                                                                                                                          carburetor heat should cause a slight drop in rpm (typically 30 to 50 rpm).
+x   Extra Equipment: (for initial flight, this might include a parachute and crash helmet. Check that they are
+    fitted for function and are as comfortably and non-restricting as is practical. (1st flight equipment might also
+    include a rabbits foot, 4-leaf clover, or St. Christopher medal. Avoid horse shoes, particularly from large           INSPECTION (INTROSPECTION?) AND PREPARATION OF THE PILOT
+    horses, or race track losers)                                                                                         Selecting the Test Pilot: Ideally, the amateur-builder should be competent in aircraft of the same general
+x   Seat Belts & Shoulder Harnesses: Check that they are fastened and tight. Also, check them for smooth                  configuration and performance as that being tested. Often, though, the expense and time of building an aircraft
+    operation and adjustment. Are the attachment ends secured and safetied?                                               cuts into the money and time needed to maintain pilot competence and currency. These factors should be
+                                                                                                                          carefully and dispassionately considered when selecting a test pilot.
+Use any checklist you are comfortable with, as long as it includes all necessary pre-take off check items. The
+use of a “key” word as above is just a gimmick to help make the checklist easy to recall.                                 A test pilot should have at least the following qualifications:
+Doors: Be sure that the latches work and are easily reached.                                                              x   Be physically fit. Test flying an aircraft is a stressful and strenuous occupation.
+Electrical: Do all the radios work on all the frequencies? Do all the avionics and electric instruments perform           x   No alcohol or drugs in the system
+their intended functions? Battery held down and vented? All lights functional? Ignition switch kills engine? (good        x   Rated, current, and competent in the same category and class aircraft.
+ground connections?) Is it mounted securely and is the wiring behind adequately protected and separated
+behind the panel?                                                                                                         x   Current medical, flight review, and paperwork.
+Fasteners: Cowling, inspection plates, and hatches: All fasteners in place?                                               The test pilot should:
+                                                                                                                          x Be familiar with the airport and nearby emergency fields
+PREPARATION AND INSPECTION OF THE ENGINE                                                                                  x   Fly an airplane with similar characteristics. For example, take dual instruction in a similar type-certificated
+Engine Operation: With the cowling removed, look over the engine compartment. Look for possible chafing of                    aircraft such as a Grumman Tiger. A pilot is competent when he or she can demonstrate a high level of skill
+wiring, hoses, fuel, and oil lines. Secure all wiring and lines that need to be kept away from exhaust pipes.                 in all planned test maneuvers.
+Disconnect the fuel line at the carburetor and perform a volume test on the electric boost pump. Pump fuel into
+a measured container and keep track of the time. The boost pump should supply enough fuel to keep the engine              x   Study the emergency procedures for the test aircraft and practice them in a similar airplane.
+running at full power if the engine driven pump fails. Reinstall and double check the fuel line when you’re done.         x   Have at least an hour of practice in recovery from unusual attitudes within 30 days of the flight test.
+Operate the engine briefly through full power (not more than 30 seconds or as permitted by the engine
+manufacturer) to assure yourself that the acceleration and power is there.                                                x   Learn everything possible about the performance and flight characteristics of the test aircraft. Read the
+                                                                                                                              manufacturer's or designer's instructions, articles by builders, watch videos, etc.
+Make a magneto check for both mags. Momentarily switch the ignition switch off (at idle rpm) to be sure the
+magneto ground connections are good and the engine will stop.                                                             x   Review the FAA/NTSB/EAA accident reports for the test aircraft.
+If necessary, adjust the idle rpm to that recommended for your engine. You don't want it to quit on throttling it         x   Should not undertake a test flight unless he is mentally and physically in tune. While no one should pilot any
+back for landing. On the other hand, if the idle is too high, you may not be able to reduce the rpm enough to                 airplane when suffering from mental or physical stress, this is particularly true for test flying. Even a slight
+land.                                                                                                                         anxiety which might be overlooked for routine flying, should be reason to postpone test flying
+When shutting the engine down with the mixture control, you should get a slight rise in rpm as the mixture control        x   Become very familiar and comfortable with his working environment; the aircraft's cockpit. The pilot should
+is moved to idle cut-off. Otherwise, the mixture should be readjusted.                                                        spend as much time sitting in the cockpit as is necessary to become comfortable. Cushions should be
+                                                                                                                              selected which can be used along with a parachute to provide maximum comfort under the circumstances.
+If the engine exhibits fluctuating fuel pressure, excessively high oil temperatures, or cylinder head temperatures            All controls should be operated repeatedly to become familiar with their positions and functions. This
+during ground operations, do not attempt to fly without correcting the problem. They will only become worse with              includes engine controls as well as primary flight controls.
+the high power settings, and the relatively low speeds encountered during take-off and climb.
+                                                                                                                          After the pilot feels that he is sufficiently familiar with the cockpit and controls, he should enlist someone's aid to
+Finally, with the cowling and propeller spinner reinstalled, make a full power check to be sure the engine will           help him conduct “blindfold” cockpit testing. Just as the name implies, this is done by covering the eyes of the
+accelerate and run smoothly at full power. Keep the airplane pointed into the wind to take advantage of the               pilot and having him carry out commands issued by an assistant. He should be able to select and operate all
+cooling air. Of course, the aircraft should be chocked. It wouldn't hurt to tie it down during ground engine              controls by position only, without visual reference. This testing should include emergency procedures such as
+operations.                                                                                                               loss of power and door opening. Instinctively knowing the locations of everything in the cockpit will not only
+NOTE: Builders with a new or newly overhauled engine face a dilemma. A newly overhauled engine with                       prepare the pilot for emergencies, but will prepare him to do routine flying with more accuracy, thoroughness,
+chromed cylinders, or a new engine, must be broken in properly. The engine needs to be operated for several               and confidence.
+hours at high power or the piston rings will never seat. Unfortunately, this means that the engine temperatures           Beginning in 1995, RV Transition Flight Training was made available through an affiliate of Van’s Aircraft Inc.
+during initial ground operation will be critical, and often the engine operations must be severely limited. This          Using RV-7 and RV-6A aircraft on loan from Van’s, flight instructor Mike Seager has been providing transition
+usually precludes prolonged taxi testing and high-speed runway tests. Such a limitation, unfortunately, coupled           flight training from his base at the Vernonia, Oregon airport. In addition, Mr. Seager has also provided this
+with an untested airframe, creates a problem. It's ironic but this is a situation that gives all the initial advantages   service at other locations in conjunction with trips to major fly-ins such as Sun’n Fun and Oshkosh.
+to the builder who has had to install a used engine in his aircraft without overhauling it.
+                                                                                                                          In addition, several other flight instructors with RV aircraft have made transition training available, usually on a
+He may not have a fresh overhaul, but neither does he have to worry about break-in problems. In addition, he              part-time basis, at other locations in the USA. Customer satisfaction with this training has been unanimous. The
+can, ordinarily, perform all the taxi tests he feels he needs, concentrating on testing the aircraft rather than the      results: more confident, competent pilots flying better test programs, lower insurance premiums, and very likely,
+engine.                                                                                                                   fewer bent airplanes. While RV-7 transition training is of benefit to soon-to-be RV-10 pilots, the best transition
+An untested engine in an untested airframe doubles the potential for the unexpected happening. You must,                  training will be in an RV-10. Contact Van’s Aircraft for the latest information regarding RV-10 specific transition
+whatever the status of your engine, operate it in strict conformance with the manufacturer's recommendations.             training instructors and their contact information
+
+
+
+    Flight Test RV-10 3/16/05                              3                                                                  Flight Test RV-10 3/16/05                              4
+RV-10                                                                   FINAL INSPECTION AND FLIGHT TEST                    RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST
+
+
+PRE FLIGHT PLANNING                                                                                                         Obviously these are not the only things that can happen without warning on that first test flight; however, they are
+                                                                                                                            probably the most life threatening.
+An RV in proper trim is not difficult to fly or land. The pilot should, if possible, have some exposure to aircraft with
+light control forces and quick response rates. But perhaps as important, he should plan his flight test program to          Prepare yourself mentally and review the options and logical corrective actions you would take for any of these
+systematically experience and evaluate all normal and emergency flight conditions. If the builder chooses to                eventualities.
+have someone else do the test flying, he should seek a pilot who not only has the necessary flying skills, but also         Keep this essential in mind. You must, regardless of what sort of airborne emergency arises, continue to fly and
+the discipline to conduct the flight test program in a professional manner. This is opposed to the reports often            control that airplane! FLY THE PLANE! DON'T LET IT STALL!! KEEP IT UNDER CONTROL!!! Fly it all the way
+heard about pilots of homebuilts who, on the first flight, take the plane up and “wring it out”.                            to the ground if you have to, but the key words for survival are DON'T LET IT STALL!!
+Some old Hollywood movies present the typical flight test scenario as one where the handsome, devil-may-care                A stall too near the ground to permit recovery will usually result in greater damage and injury than would occur if
+test pilot climbs the plane to its maximum altitude, puts it in a full power vertical dive, and after a seemingly           the aircraft hit the ground at its best glide speed and angle. It is a normal tendency for the pilot to slow the
+endless descent punctuated with flashbacks and trauma, recovers just feet above the treetops. He is a hero, he              aircraft to its minimum speed to try and reduce damage during a forced landing. But, an aircraft, which has
+wins the undying love of the leading lady, and his company gets the fat military/airline contract.                          stalled, is temporarily out of control, usually in a nose-down attitude. While it may have been at minimum speed
+Sometimes it seems that this test flying image has become so ingrained in our aviation mentality that it is thought         just before the stall, it will probably have gained considerable speed by the time of impact. Even if it didn't, the
+to be valid. Really, it bears little resemblance to test flying practiced today, whether in fighters or homebuilts.         impact angle will probably be steeper.
+In addition to the skill and proficiency considerations, a test pilot should be psychologically prepared. He should         Injuries in aircraft crashes are the result of rapid deceleration. The shorter the stopping distance, the greater the
+not be rushing to the extent that he is too tense and uptight to react properly. All pressure producing factors             deceleration rate. If the aircraft contacts the ground at a steep angle, the stopping distance will obviously be
+should be eliminated if possible. These include such things as pre-established test dates or times and large                short, and the rate of deceleration high.
+audiences. The important factor is that the pilot attempt the first flight only when he is totally ready. Typically, the    If the aircraft hits the ground at a shallow angle, its stopping distance will be greater. Even if the contact speed
+builder has many friends who want to see the first flight, and in many cases there is a tendency to want local              was higher, the deceleration rate will be less and the landing will be more survivable. Many factors, such as
+newspaper and TV reporters on hand. While there is nothing inherently wrong with this, it does distract the pilot           terrain and obstructions, will also affect the survivability of the crash, but the bottom line is that a controlled crash
+from making his flight preparations and may cause him to attempt the first flight when wind and weather                     is better than an uncontrolled one.
+conditions are not ideal. We witnessed one test flight by a very experienced professional pilot in an aircraft (not
+an RV) which was unknowingly badly out of rig. Nearly full aileron was needed to keep the plane level, and after            If an accidental stall should occur during the early stages of an emergency (just after an engine failure or while
+one circuit of the field, the pilot barely had enough strength left in his arm to keep it level for landing. When           trying to turn back, for instance) an innate, subconscious knowledge of stall recovery will be invaluable. As
+asked why he didn't immediately land after lift-off (5000 ft. runway) he said “I didn't want to disappoint the crowd”.      contact with unfriendly terrain becomes imminent, these words should echo through the pilot's mind: DON'T
+This is obviously dumb. One way to prevent such dumb decisions is to eliminate the crowd. It would be better                STALL!! KEEP THE NOSE DOWN!! DON'T STALL!!
+for the pilot to do the test flying in relative privacy and then invite friends and press out to see the “official” first
+flight.
+                                                                                                                            SELECTING THE RIGHT AIRPORT
+                                                                                                                            One of the first important decisions you must make is selecting an airport for flight tests.
+WEATHER
+The first flight of your RV should be attempted only under the best possible conditions. The best time to fly is            Runways and surroundings: The airport you select should have at least one runway aligned with the
+early morning or late afternoon. The wind should be calm or light and right down the runway. Conditions are                 prevailing wind. The runway should have the proper markings and a nearby, easily visible wind indicator. Avoid
+seldom ideal, but don't be so eager to fly that you accept gusty or crosswind conditions that will add to the               airports in highly developed areas or with heavy traffic. To determine the needed runway length you can use the
+workload of a first flight.                                                                                                 following rule of thumb:
+                                                                                                                            The runway should be at least 3000' long and 100' wide. If you are testing a high-performance aircraft or intend
+EMERGENCY PLANS AND PROCEDURES                                                                                              to operate at high density altitudes, the runway should be 5000' or more and at least 150' wide, for a greater
+                                                                                                                            margin of safety.
+On the way to the airport and after you get there, review your emergency plans, procedures and ground support
+needs.                                                                                                                      Scout emergency landing fields within gliding distance from any point in the airport pattern. Since 1983, engine
+                                                                                                                            and mechanical failures have accounted for 38% of amateur-built aircraft accidents. Since there is a possibility
+Know what your ground support can and will do. Hopefully you did not invite a crowd. No first flight needs                  of this type of emergency occurring, appropriate preparations should be a mandatory part of your Flight Test
+such distracting or tension inducing factors. This is not an air show. However, the first flight of a                       Plan.
+homebuilt, for most of us, is a once-in-a-lifetime event that should be appropriately covered. Try and get                  Communications: Even if the test aircraft is not equipped with a radio, it is still a good idea to conduct flight
+someone with a telephoto lens or video recorder to do the honors.                                                           tests from a field with an active Unicom or a tower. Those using an uncontrolled field should set up their own
+Emergencies do happen -- usually when they are least expected.                                                              communications base. Small, hand held radios should be borrowed or rented. The pilot should have a headset
+KNOW what you are going to do IF:                                                                                           and a push to talk switch mounted on the stick. These help reduce the pilot workload. The added insurance of
+                                                                                                                            radio communication more than makes up for the rental fees.
+x   The engine quits on takeoff.                                                                                            Equipment: Your airport should have fully functional telephones, rescue, and firefighting equipment.
+x   There's a fire on board and the cockpit fills with smoke.                                                               Other: Additional considerations when selecting an airport include available ramp and hangar space. You will
+x   The airplane is terribly out of balance and very hard to control.                                                       need a place to run-up your engine and test aircraft systems on the ground, without fighting inclement weather,
+                                                                                                                            or distracting bystanders.
+x   You lose communications with your tower, support crew, or chase aircraft.                                               Make an appointment to talk with the airport manager, or owner, about your Flight Test Plan and emergency
+x   The propeller throws a blade, or the spinner breaks.                                                                    preparations. He or she may be able to assist you with communications, space or equipment.
+x   The throttle jams, full open, full closed or in between.
+                                                                                                                            EMERGENCY PLANS AND EQUIPMENT
+x   One of the controls jams or a cable breaks.                                                                             Every test of an amateur-built aircraft should be supported by a ground crew; usually between one and four
+x   The engine temperatures rise rapidly past redline.                                                                      people. Their function is twofold: first, to help the pilot with the flight test and second, to assist in case of an
+                                                                                                                            actual emergency.
+x   Oil begins appearing on the windshield and the oil pressure drops.
+                                                                                                                            Every builder should develop two sets of emergency plans, one for in-flight emergencies, the other for trouble on
+x   One of the doors comes open unexpectedly.                                                                               the ground. The ground emergency plan should include a briefing for the ground support crew and airport
+                                                                                                                            fire/rescue crew on:
+
+    Flight Test RV-10 3/16/05                              5                                                                   Flight Test RV-10 3/16/05                               6
+RV-10                                                                 FINAL INSPECTION AND FLIGHT TEST                    RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST
+
+x   the cabin door latching mechanism                                                                                     verify control surface positions, oil streaming out of the cowl, etc. The primary purpose of a chase aircraft is
+                                                                                                                          safety. A secondary purpose is as a camera platform to record this historic first flight. However, never confuse
+x   the pilot's harness and its release mechanism                                                                         these two goals and become too intent on the photography function. The test flight should not be unnecessarily
+x   the location and operation of the fuel shut-off valve                                                                 extended in time or geography just for the sake of getting more photos or video time. Also, proximity of
+                                                                                                                          formation flight and/or maneuvers for photo purposes should not be allowed to compromise safety. Keep your
+x   location and operation of the master and magneto switches                                                             priorities in order.
+x   battery location                                                                                                      Pilot & Crew Briefings: Before your first flight, brief your crew and/or chase aircraft pilot of your intentions.
+                                                                                                                          Discuss your intended flight sequence and emergency procedures. Make sure that your chase aircraft pilot
+x   engine cowling removal procedures.                                                                                    realizes that he is always to keep out of your way, or be prepared to get out of your way at any time an
+                                                                                                                          emergency may arise. Discuss radio frequencies to be used or hand signals to be used.
+Everyone on the ground team should know the locations and phone numbers of the nearest hospitals, fire and
+rescue squads. If the test pilot has a rare blood type or is allergic to some medications, these should be noted          How will you know when the aircraft and test pilot are both ready for the test flight? When you can no longer find
+and left with the ground crew. A “medic-alert” bracelet is also a good idea.                                              any reason not to!!!!
+There should be several fire extinguishers available to the ground crew and a halon fire bottle in the cockpit. The
+pilot should have a tool capable of breaking or cutting through the windows from the inside.                              TAXI TESTS
+If the airport does not have a fire rescue unit, a four-wheel drive vehicle equipped with fire extinguishers, first-aid   Try a number of taxi tests, no faster than a slow walk, to familiarize yourself with the steering and braking
+kit, tools to cut through metal, and a crew trained in first aid is a must. Sometimes, for a small donation to cover      effectiveness, and to become proficient in handling the aircraft on the ground. Learn how much runway or
+expenses, volunteer fire rescue squads will stand-by and offer the extra insurance of a trained emergency team.           taxiway width is needed to turn the airplane around.
+The possibility of fire should be considered during all phases of flight test. Ideally, the pilot should wear coveralls   If you decide to perform high speed taxi tests remember the real purpose for high speed taxi testing is to learn
+and gloves of Nomex, but if this is not available, all clothing should be cotton or wool. Synthetics like nylon or        how the airplane feels or behaves just before reaching lift off speed, and just after touchdown.
+polyester melt and stick to the skin when exposed to heat, making a bad situation much worse. A crash helmet              For safety's sake, select an abort marker about halfway down the runway. You should be able to cut your power
+and face-shield or goggles provide protection from flame, smoke or hot fluids. Protection from impact demands             when you reach that point and still have sufficient runway left for a safe stop without burning up the tires and
+a helmet, or at the very least, a hard-hat, and a correctly installed and adjusted shoulder harness.                      brakes.
+Professional test pilots always wear parachutes. “Homebuilder” test pilots often don’t, probably because of the           High speed runs down the runway must be limited to approximately ten mph below the anticipated lift off speed,
+scarcity of parachutes in the private flying community, and the limited cockpit space for this extra piece of flight      or about 40 mph. Therein lies a problem. An RV can take off at throttle settings no higher than those needed for
+test equipment. Also, many homebuilders apparently view testing more in terms of a “check out” because their              engine run up and mag check. Thus, an inexperienced pilot who accelerates to 30-40 mph and then reduces
+kit built RV is not the same as a radically new experimental design. Homebuilders should consider that even               power in an attempt to maintain that speed will probably retain too much power and continue to accelerate up
+aircraft factories which produce conforming production aircraft under strict QA inspections, still subject each           past minimum flying speed. As a result, he may find himself up the proverbial creek without the paddle, or more
+aircraft to a stringent “Production Flight Test” by a professional pilot. They know from experience that no two           accurately, off the ground without a plan.
+airplanes are truly identical, and require testing and adjusting to assure conformity to flying qualities and other
+standards. Similarly, and to an even greater degree because homebuilt airplanes have not been assembled on a              Never attempt high-speed taxi tests until both the airplane and the pilot are prepared for flight. Accidental lift-offs
+QA production line, these airplanes and their systems are unknown commodities and thus need thorough                      during high speed taxi testing are not uncommon, and often lead to unnecessary accidents. It has happened to
+testing. We encourage builders to secure the use of a parachute to wear during testing. At the very least, a              a number of RV builders.
+parachute should be worn while conducting limit testing, such as testing maximum speeds, G loads, and spin
+testing. The probability of needing the parachute is very low. However, if you happen to draw the short straw, it         Make a couple of runs with and without partial flaps. Half flaps is the recommended take-off setting. This will
+sure would be nice to have that “personal vertical descent retardation device” available.                                 shorten the take-off roll slightly.
+Probably the simplest and most effective safety device is a good helmet. Crop dusters, helicopter pilots and test         Pay attention to the amount of rudder input necessary to counteract engine torque and to keep the airplane
+pilots have all made these items standard equipment, and you can be sure they have good reasons.                          straight on the runway. Watch out for rapid applications of throttle at low speeds.
+                                                                                                                          Glance at your airspeed indicator during the high speed runs to make sure it is working.
+PERFORM A PREFLIGHT CHECK                                                                                                 Monitor fuel and oil pressures, oil temperature, and cylinder head temperature. If any of these are suspect,
+No matter what you know or think you know about the condition of your airplane, and no matter how recently you            return to the ramp immediately.
+checked everything, perform a complete preflight check. Not only is it the law, it's a good idea. Use a prepared
+preflight checklist. Do NOT overlook:                                                                                     Inadvertent back pressure on the stick (too soon and too quick) might cause an unexpected lift off and difficult
+                                                                                                                          runway control problems.
+x   The ignition switch is OFF, the throttle is retarded, and the wheels are chocked.                                     “Controlled lift-offs,'' particularly on a runway less than 5000 feet long, are dangerous and should not be
+x   Pull the prop through five blades. Check for compression on all cylinders, the little click that tells you the        attempted by inexperienced test pilots.
+    impulse coupler is working, visual inspection of the prop and spinner.
+x   Visually check the fuel and fuel caps. Use a dipstick. Drain a goodly amount of fuel from the sumps and               THAT FIRST FLIGHT
+    check for water.                                                                                                      With all the above completed, along with the other preflight items for your airplane, you are ready to go. Give
+                                                                                                                          your last minute instructions to your ground crew. Complete your pre-start checklist and start the engine.
+x   Clean and polish the windshield.
+                                                                                                                          Check your oil pressure and the rest of the instruments. Switch tanks and run the engine off each tank. Set the
+                                                                                                                          fuel selector to the takeoff tank. Taxi to the runway and complete your pre-takeoff checklist.
+OTHER IMPORTANT PREPARATIONS
+Try and plan for all possible contingencies.                                                                              Clear the area, including the runway, announce your intentions and begin the takeoff roll by advancing the
+                                                                                                                          throttle smoothly to FULL power. Check for rpm and oil pressure. If you are not airborne by midfield, abort the
+Transport: Assure yourself that your standby crew knows where the nearest phone is located and that they                  takeoff. Allow the airplane to fly itself off with light back pressure on the stick--don't pull it off. Guard against an
+have the EMS and fire emergency numbers.                                                                                  excessively nose high attitude.
+A car should be available and your dependable standby crew should have tools, a fire extinguisher and a first aid         Should you feel a vibration immediately after takeoff, try the brakes. Your tires may be out of balance.
+kit onboard--and possibly a two-way hand-held radio.                                                                      Immediately feel out the controls. Gently! Don't over control.
+Chase Aircraft. A chase aircraft can be used to monitor the first flight if a qualified pilot and observer are            Check your airspeed indicator at liftoff. This will assure you the instrument is working and give you a rough idea
+available. A qualified pilot is one capable of flying in formation close enough to permit viewing of your aircraft to     of landing speed.
+
+    Flight Test RV-10 3/16/05                               7                                                                Flight Test RV-10 3/16/05                               8
+RV-10                                                                    FINAL INSPECTION AND FLIGHT TEST                      RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST
+
+Climb out at a shallow angle, easing the flaps up if you used them for takeoff. Start a gentle turn as you pass                x   service and absolute ceiling tests
+through 500' AGL so you won't get too far from the field.
+                                                                                                                               x   slow flight
+Don't even think of changing the throttle unless engine temperature or rpm limits are being exceeded. Many
+engine takeoff failures seem to be related to the initial power reduction.                                                     x   stalls
+Turn off the fuel boost pump.                                                                                                  x   stability tests
+Check the engine pressures and temperatures. Staying over the airport, climb to 3000' AGL.                                     x   airspeed calibration
+At altitude, reduce power and trim for cruise flight. Keep monitoring the engine gauges and be alert for strange               x   fuel consumption
+vibrations or noises.
+                                                                                                                               x   prop evaluation
+Everything is OK? Good. Relax.
+                                                                                                                               x   CG loadings
+Clear the area and make a few approaches to stalls, both power on and power off. Complete stalls are not
+necessary. Merely slow the airplane to the point where the controls get mushy or you detect a light pre-stall                  x   performance checks
+buffet. Note your indicated airspeed. Also note the nose-high attitude at stall which will be approximately the
+same as the landing attitude. Repeat the approach-to-stall exercise with half flap and then full flap conditions.              Other, more extreme testing, may be deferred. These include spins and flutter testing. Each new maneuver and
+Note the pressure needed to bring the plane down to stall speed, and the difference in pressure with and without               test will reveal more and more about the airplane. In addition they will sharpen your skills in handling your new
+flaps. Avoid the temptation to try anything more, other than practicing some shallow and medium bank turns.                    craft.
+Gliding turns can also be practiced, concentrating on maintaining a steady speed of about 90 mph IAS. There                    Repeat tests, if necessary, until you are satisfied with the airplane's responsiveness and your abilities. Don't
+will be plenty of flights after this one to explore other flight regimes and maneuvers. The first flight should be             slight any of the easy, simple-to-do tests-- you're not going anywhere for the next 25 to 40 hours anyway.
+short -- 30 to 40 minutes. Relax and have the chase plane come in closer to visually check over your airplane,
+and make some videos. While you’re flying side-by-side, compare airspeeds and power settings, especially at                    It's a sobering thought, but you must realize that every test involves some element of risk. Think through and
+approach speeds.                                                                                                               rehearse your options ahead of time. Prepare as best you can for the unexpected.
+
+LANDING                                                                                                                        PERTINENT THOUGHTS
+Complete your pre-landing checklist. Announce your intentions and enter the pattern. Initially make your                       Plan to devote the first portion of each flight to one or two test elements. Don't waste time simply boring holes in
+approach speed 1.5 times the approach to stall speed you noted earlier, usually around 85-90 mph for a typical                 the sky. Know exactly what you want to accomplish during the flight before you take off. Think out how you will
+RV-10. On landing approach base leg, one half (or about 20q) flap setting should be applied. One half flap is                  do it and approach every test carefully and cautiously. Complete only the test items you have planned - no
+suggested for the initial landing. The 85-90 mph approach is a little faster than ideal approach speed, but will be            more. Then you can spend a bit of time sight-seeing and enjoying.
+best for the first landing attempt because it will permit more time to execute the landing flare. A tail low, partial          Record all your observed results -- instrument readings and flight data. Use a kneeboard or a small pocket
+flare landing is suggested for the first attempt. Remember the nose high attitude experienced in the power off                 recorder. Don't trust to memory.
+stall approaches. If the main wheels touch before you have fully flared the plane, just release a bit of back
+pressure to prevent ballooning into the air again, and call it a semi-stall landing. If you should accidentally hit            Tests flown in windy or turbulent weather are often so inaccurate as to be useless for recording performance
+hard enough to cause a sharp bounce back into the air, apply power and make a go-around for another landing                    data. Pick your weather carefully.
+attempt. Unless the runway is very long, it is probably better to start over rather than to try to salvage a bad
+landing out of an abnormal condition (bouncing back into the air at an unusual attitude or speed.)                             After each flight, debrief yourself. Review what you did: wrong and right. Give yourself time to absorb what you
+                                                                                                                               have learned.
+Try to touchdown a safe distance past the threshold. Concentrate on keeping the airplane straight and let it roll
+out. Use “light to moderate” brake application unless conditions require more aggressive braking.                              Whenever some small problem occurs; some unexplained vibration, a slight binding of the controls or the like,
+                                                                                                                               correct it before the next flight. NEVER let things go.
+POST FIRST FLIGHT                                                                                                              CARRYING PASSENGERS DURING PHASE I TESTING:
+The initial test flight proved your aircraft will fly and that it is controllable. Now you have to prove to yourself that it
+can perform safely under a variety of service conditions. This means you should now begin to gradually and                     FAR’s dictate that during Phase I testing of Amateur built aircraft, the aircrew shall be limited to essential crew
+carefully expand its flight envelope. Approach the second flight with the same concentration and preparation of                only. Van’s Aircraft, Inc. interprets this in RV’s as solo.
+the first. After all, there's still much you don't know about this airplane.
+For example, your initial flight was probably made with less than full fuel and with a minimum payload. But how                TYPICAL TESTS
+will the airplane behave with full fuel, and at gross weight? Will the CG stay within safe design limits?                      Best Rate Of Climb: Use full throttle and check the rate of climb for several different airspeeds. Do not conduct
+                                                                                                                               full power climb test until it has been established that cylinder head and oil temperatures remain within limits
+Although you may have been pleased with the controllability and flight characteristics exhibited on that first flight,         under normal climb conditions. Start at a fairly low altitude, stabilize your airspeed in climb and begin your timing
+be realistic and accept that hidden flaws may appear as limits of the flight regime are explored.                              as you pass the next thousand foot level. Note the time as you pass through each thousand feet of altitude.
+At this early stage, it's normal to experience a degree of a concern regarding the airplane's controllability in the           Make climbs of 4 to 5 thousand feet altitude gain. Normal anticipated indicated climb airspeeds will vary from
+high speed ranges, and most of all regarding its freedom from flutter. These particular evaluations are                        100 to 140 mph. Repeat the climb tests for each airspeed so that differing readings can be averaged. Climb
+considered critical and are potentially the most dangerous characteristics to explore. The only way to get all the             tests must be flown during periods of stable atmospheric conditions while holding a uniform indicated airspeed in
+answers is by working the airplane through a variety of flight conditions while gradually working up to the                    order to yield reliable data.
+maximum performance limits.                                                                                                    Best Angle Of Climb: After climb tests have been made at normal anticipated speeds, perform timed climbs at
+                                                                                                                               indicated speeds of 90 IAS, decreasing in 10 mph increments, down to 70 mph. At the lower speeds, watch
+EXPANDING THE ENVELOPE                                                                                                         cylinder head and oil temperatures carefully to avoid overheating. Limit low airspeed climbs to 2 minutes or less
+                                                                                                                               for cooling reasons.
+Before you fly again, check the conditions in the engine compartment. You can't be too careful at this stage.
+Remove the cowling and look for fuel and oil leaks, loose clamps, wiring problems, and the security of all                     Plot Climb Charts: Following the procedure shown here, plot on graph paper a climb curve for various
+installed components. It might be advisable to remove all the inspection covers and check inside. Repeat this                  airspeeds. After the points have been located for climb rates at different speeds, draw in a smooth curve which
+inspection every ten hours or so for the test period.                                                                          connects all points. Because of testing inaccuracies, the climb curve can be drawn to a smooth shape which
+                                                                                                                               approximately contacts the points. The speed for maximum climb rate is that at the top of the curve. As the
+Start your evaluations by systematically performing all ordinary maneuvers. They should include the following:                 speed increases past that point, the climb rate will decrease until it is zero at the airplane's top level flight speed.
+x   climb performance tests
+
+    Flight Test RV-10 3/16/05                                9                                                                     Flight Test RV-10 3/16/05                             10
+RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST                     RV-10                                                                   FINAL INSPECTION AND FLIGHT TEST
+
+Draw a straight line from the 0-0 beginning point of the chart up to a point where it is tangent to the curve. This         Determine and record how much altitude is ordinarily lost in making a 90 degree gliding turn, a 180 degree and a
+point will be the BEST ANGLE OF CLIMB SPEED.                                                                                360 degree turn. Make similar checks with partial and full flaps.
+Plot another curve of climb rate vs. altitude for the best climb rates for each altitude. The best rate of climb will of    Plot Glide Speeds: On the same graph as climb performance, plot points for gliding rates of descent (sink) at
+course be at the lowest altitude, and will decrease with increasing altitude. A line connecting these points will be        various speeds tested. In addition to the rates of sink listed for the various speeds, a tangent line can be drawn
+a straight line, and an upward projection of this line will provide the theoretical absolute ceiling of the airplane.       to find the speed at which the best glide angle can be attained. By converting MPH to FPM forward speed, and
+The service ceiling is the altitude at which a 100 fpm climb rate is indicated. On the other end of the line, where it      then dividing by the sink rate in FPM, the glide ratio (a.k.a.: “lift to drag ratio” or “L/D”) can be found. Simply
+intersects the “0” altitude line, is the SEA LEVEL climb rate. Using these graphs, reasonably accurate ceilings             stated: L/D = forward speed(mph) x 88 / sink rate(fpm)
+and sea level climb rates can be found without ever flying at those exact conditions.
+                                                                                                                            While these sink rates and speeds are valuable guidelines, they are not totally representative of those which
+Slow Flight: The idea is to become familiar with the trim and attitude changes that take place while you are                might be experienced during an actual engine failure emergency. The glide ratio with the prop windmilling (no
+trying to maintain your altitude at minimum flight speed. Careful, you could stall unexpectedly. Do these                   combustion) will be better with the throttle open than if it were closed. The bottom line is that the pilot should be
+maneuvers at a safe altitude. Try a few level turns with and without flaps. But, do a lot of slow flight practice.          able to visually assess the glide performance on the spot and plan his power off approach accordingly.
+Practice until you can consistently maintain speeds within 5 mph above stall speed while transitioning from wings
+level through 15-20 degree banks to the right and left. The idea is to become so familiar with slow flight that it          Engine Cooling Checks: Monitor and record engine temperatures on every flight. However, you should also
+can be done almost subconsciously; being able to devote thought to traffic and other considerations at the same             study and record the effects produced by aggressive mixture control manipulation, changes in airspeeds, and
+time. You want to be very familiar with the slow flight mode so that you are able to make landing approaches                changes in power setting. Prolonged climbs and glides will probably produce dramatic changes in engine
+safely even with the distractions which are bound to occur, and to be able to detect the approach of stall speed            temperatures and you should know to what degree. Remember, hot summer free air temperatures can intensify
+even while dividing your attention to other factors such as traffic and ground obstructions.                                high engine temperature indications - sometimes to a critical degree.
+However, watch your engine temperatures while practicing slow flight. The reduced cooling airflow, coupled with
+the relatively high power required for slow flight, will cause the engine to heat more than at cruise conditions.           STABILITY INVESTIGATIONS
+Slow flight practice sessions will probably have to be limited in duration for this reasons.                                One of the more subjective areas of flight testing is that of aircraft stability. It is necessary to check for stability in
+                                                                                                                            all three axes, LONGITUDINAL (pitch), LATERAL (roll), and DIRECTIONAL (yaw.) Stability testing cannot be
+Years of experience gained from reviewing accidents and flight control problems have shown that a better                    accomplished until the airplane has been checked for trim and any external tabs needed have been installed
+mastery of slow flight could have prevented many accidents and minimized flight difficulty problems. ABE                    and adjusted to permit control free (hands off) flight. Before describing how to perform stability checks, we’ll first
+accident statistics show that 18% of accidents occur on takeoff and 33% on landing. Both of these flight regimes            define what the various forms of stability are.
+involve slow speed flight and the need for control under these conditions.
+                                                                                                                            x   Longitudinal (Pitch) Stability: The tendency to remain at a constant trim speed, and to return to a that trim
+Takeoff: There are a few critical seconds following takeoff where flight must be controlled within a few mph of                 speed after being displaced by a pitch control input.
+stall speed and where wind turbulence can significantly affect attitude, controllability, and airspeed. Even further
+into the takeoff/departure sequence, climb speeds can deteriorate to critically low margins because of                      x   Lateral (Roll) Stability: The tendency of the bank angle to remain constant, or to return to wings level.
+turbulence, wind shear, obstacle clearance requirements, and other distractions.
+                                                                                                                            x   Directional (Yaw) Stability: The tendency of an airplane to maintain a directional heading when wings are
+Landing: The historical evidence of landing approach stall/spin accidents should be sufficient evidence of the                  level (no roll), and to return to a steady heading after release of a yaw input control (rudder).
+need for a high level of pilot familiarity with low speed controllability. Slow flight skills are also of great
+importance to the final phase of the landing; pre-touch down. To perform good, minimum speed, full flare                    Before describing the testing procedure, lets review some theory:
+landings the last few seconds preceding touch down are crucial. Look at it this way. The pilot must keep the                C.G. Considerations: While performing stability checks, it is important that the pilot recognize the effects of the
+airplane under control within a few feet of the runway, within a few mph of stall speed, and in a straight line             position of the C.G.
+relative to the surface. Are these the circumstances under which slow flight should be learned? Of course not!
+Learn at altitude when time and distance (altitude) are in your favor. Then as you approach the critical landing            Pilots have all been exposed to the term "aft center of gravity" and are aware that this is a condition which has
+sequence, many of the needed skills will have already been acquired.                                                        limits and is normally referred to in a precautionary tone. But, how well do you understand all of the ramifications
+                                                                                                                            of aft C.G. conditions? Perhaps you know that this is a condition to be avoided when doing aerobatics, but do
+Gliding Tests: In the event of an engine failure, it is essential to know the airspeed that will provide the minimum        you know how to recognize the symptoms of aft C.G. in normal flight conditions, or the problems which may be
+gliding angle. These tests, logically, are most effectively performed following your climb tests because you could          encountered under "normal" conditions as a result of an aft C.G. condition?
+then use the altitude gained.
+                                                                                                                            Fig. 1 shows the basic forces acting on an airplane. This airplane is designed to have positive stability with the
+Glide testing follows the same format as climb testing – the timed measurement of altitude lost from which a                C.G. located as shown. It is in equilibrium at a design cruise speed. The nose down tendency caused by the
+descent rate can be calculated.                                                                                             C.G. being forward of the center of lift (C.L) is balanced by the stabilizer down load resulting from the negative
+Start with plenty of altitude and complete your last timed descent at least 1000' AGL. Clear your engine briefly            incidence angle (relative to the wing angle) of the stabilizer. So, a constant static load is balanced by an
+after each measured segment. Even if you have a VSI, time your descent through different thousand foot levels.              aerodynamic force which will vary with airspeed. If the aircraft's nose is lowered, an increase in speed will result,
+Timed climbs and descents are usually more accurate than VSI indications.                                                   and that will cause a greater down-load on the stabilizer, which will in turn raise the nose again to bring the
+                                                                                                                            speed back to where it started. The converse will happen if the nose is raised. However, the aircraft will
+To learn how your airplane behaves in gliding turns practice a few and note how the rates of descent change                 normally overshoot its original trimmed attitude and speed. Thus, there are usually several cycles of pitch
+with airspeed and bank angle. It is important to keep your gliding turns coordinated. Try doing them at different           hunting required to return to stable flight. Each cycle is of decreasing amplitude (altitude variation). These pitch
+airspeeds and record your observations.                                                                                     cycles are called “phugoids”.
+Practicing gliding turns is essential because you will be duplicating them each time you turn final for landing. The        Fig. 2 shows the aircraft loaded to a more forward C.G. condition, for which an elevator trim force is needed to
+object is to maintain a consistent speed and coordinated ailerons and rudder control inputs during the gliding              maintain equilibrium. Generally, a nose heavy airplane is more stable because of the greater difference between
+turn. Because gliding turns, as performed on landing approach, are at relatively slow speeds, accidental stalls             the static weight position and the dynamic force of the trimmed elevator.
+can occur because of gusty wind gradients, and because of air speed variations caused by flight distractions. An
+excessive rudder input in the direction of turn will cause a skid, and should a stall occur in this condition, the          Fig. 3 shows the aircraft loaded with the CG slightly aft of the aft limit placing the C.G. and the Center of Lift at
+“down” wing in the turn will stall first, causing the bank angle to suddenly increase. This is often called “Snapping       the same point. Thus, no stabilizing trim load would be required of the tail. But, because there is no trim load,
+under”. Insufficient rudder input in the direction of turn (or rudder input opposite the direction of turn) will cause a    there is no restoring load, and thus no positive stability. In this condition the aircraft would have neutral stability.
+slip, and should a stall occur in this condition, the “top” wing in the turn will stall first, causing the bank angle to    It would continue to fly at whatever attitude it is placed or displaced to. The aircraft would require greater than
+decrease, or reverse to a bank in the opposite direction. This is called “Snapping over the top”. In either situation,      typical attention from the pilot during all phases of flight, but would require constant pilot input during departure,
+failure to immediately initiate stall recovery can lead to a spin entry. At below traffic pattern altitude, recovery from   landing approach, or while flying in turbulence.
+a developed spin is improbable.                                                                                             Fig. 4 shows the aircraft loaded with the CG well aft of the aft limit placing the C.G. aft of the Center of Lift, and
+As in the “landing” description above, the proper time to practice low speed control, as it applies to gliding turns,       where the horizontal tail surfaces must produce a lift force to maintain level flight. In this condition, when the nose
+is at a safe altitude from which stall and spin recovery can safely be accomplished.                                        is lowered, speed will increase and the stabilizer force will increase. But, since it is a lifting force or upload on the
+                                                                                                                            tail, it will continue to lower the nose and produce more lift and more speed, etc. If the nose were raised and the
+
+   Flight Test RV-10 3/16/05                               11                                                                   Flight Test RV-10 3/16/05                               12
+RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST                    RV-10                              FINAL INSPECTION AND FLIGHT TEST
+
+speed decreased to below trim speed, the reverse would occur; speed would continue to drop until a stall
+occurred, recovery from which would be difficult and spin entry would be probable. This is an unstable condition
+because the forces acting on the aircraft are destabilizing with a change in speed. In this condition the aircraft is
+PITCH DIVERGENT and is extremely difficult to fly and dangerous.
+In summation, as the C.G. moves aft the aircraft will go from having positive stability, to neutral stability, and then
+to negative or divergent stability. The drawings show the aircraft with neutral stability retaining the attitude to
+which it has been pitched. The negative stability aircraft is shown with a flight path diverging from the intended
+flight path.
+Not all airplanes will respond to C.G. positions exactly as shown because most airfoils exhibit a shift in their
+center of pressure as speed changes. This simplified explanation is sufficient to understand the basics of pitch
+stability.
+
+FLIGHT TEST PROCEDURE:
+Longitudinal Checks: Trim for level flight at cruise power. Raise the nose to lower the speed to 10 mph below
+trim speed. Release the stick. The airplane should nose down and the airspeed will increase to above the initial
+trim speed. Then the nose will again begin to rise and the speed will again fall to a value below the trim speed.
+This process will repeat itself for 3 to 4 cycles with decreasing speed excursions until trim speed is again
+established and maintained. This is an acceptable phugoid behavior and will approximate the flight path
+depicted in Fig. 1 and 2. This test should first be done at a forward C.G., usually solo. Then repeated with
+progressively more aft loadings up through the aft limit. The RV-10 should exhibit a positive pitch phugoid.
+However, at aft loadings, the RV-10 exhibits a weak phugoid, meaning that the length of time required for each
+phugoid cycle will be long.
+It is essential that the atmosphere be very stable while conducting these tests. If not, the results will be
+inconclusive. Also, the aircraft must be in good roll and yaw trim so that stick free flight can be maintained over a
+period of minutes needed to experience a complete series of damping phugoid cycles. Because RVs tend to
+have neutral roll stability, and because of limited yaw/roll coupling, (rudder input has very limited effect on roll) it
+is often difficult to maintain wings level for these tests. If this RV-10 is not equipped with an active roll trim
+system, a light string or rubber band can be attached to the top of the stick and used to apply a light roll
+correction without disturbing the pitch trim (stick freedom).
+Repeat this test at an airspeed of 1.5 Vs (clean stall), or about 95 mph IAS. At this speed an RV-10 is expected
+to exhibit weaker pitch stability than at cruise speed.
+The weakest pitch stability configuration will be experienced in a full power climb at low speed such as the 1.5 Vs
+condition. Particularly at an aft C.G., an RV-10 will probably exhibit neutral pitch stability. RV-10’s with higher
+HP will be the least stable in this condition because of the pitch-up effect of higher thrust. Also, steeper climb
+angles associated with high thrust will diminish stability due to the adverse pendulum effect of the C.G. vs. the
+Center of Lift of a low wing aircraft.
+From the above flight test observations, we have learned that greater pilot attention will be needed under certain
+conditions. Since pitch stability will be less at low speed/high power conditions, the pilot must be more vigilant
+about monitoring indicated airspeed. For instance, during a steep departure climb a pilot can easily become
+distracted from monitoring airspeed, or the effects of turbulence can alter airspeed control.
+The reduced stability of the power climb profile will be further accentuated in the classic very steep climb
+following a buzz job. Many pilots have been lost as a result of attempting this dumb show-off stunt through lack
+of attention to the fundamentals covered above. A thorough understanding of the principles of stability, plus
+experience gained from practice will prepare the pilot should he encounter flight stability extremes.
+Stability and its Adjustments: Aircraft stability is rather complex field, generally beyond the grasp of the
+average builder/pilot. We will attempt to explain a few of the basics to test and what to watch for. The most
+obvious is probably pitch stability. When loaded within C.G. limits, an RV-10 should have positive pitch stability.
+This means that when it is displaced in pitch (nose up or down) from a previously trimmed speed, it will return
+(hands off) to this trimmed speed within three oscillations. Aft C.G. and greater power diminish pitch stability.
+The aircraft with CG at or near the aft limit will be less stable in pitch than with the CG further forward. When
+flying in turbulence, the aft loaded, less pitch-stable airplane will tend to pitch up or down due to the turbulent air.
+An RV-10 with CG at or near the aft limit will have pitch control forces that are light and any over-controlling will
+require an opposite pressure to correct. The aircraft with CG aft of the aft limit will be neutrally stable or even
+divergent in pitch and will be much more demanding to fly and much more dangerous as well. Rather than an
+inherent stability provided by a designed-in balance of weight and aerodynamic forces, the pilot is required to
+supply stabilizing control forces.
+Production airplanes have had CG limits established which, if adhered to, will prevent the airplane from
+exhibiting characteristics of neutral or negative stability. The same is true for a properly built RV-10. However,
+because each individual RV-10 has a different manufacturer (homebuilder), we are not able to assure uniform
+stability characteristics for all RV-10’s. For factory airplanes as well as for RV-10’s flown at or near the aft CG
+limits, control responses approaching those described for neutral stability can be expected.
+
+   Flight Test RV-10 3/16/05                              13                                                                 Flight Test RV-10 3/16/05   14
+RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST                   RV-10                                                                  FINAL INSPECTION AND FLIGHT TEST
+
+The normal loading of an RV-10 results in wide shifts in CG position. The handling qualities will be noticeably            Destabilizing effects of wheel fairings and gear leg fairings. When checking directional trim, don’t overlook
+different when flying with the CG at or near the forward limit versus flying with the CG in the middle of the             the effect of gear leg fairing mis-alignment. Though the gear leg fairings have a relatively small area, and are
+allowable range versus flying with the CG at or near the aft limit. Though the pilot may typically fly with the CG at     located near the center of rotation (C.G.-Center of lift) of the aircraft, they can have a profound effect on
+a certain location, he must be able to adjust to the difference in handling qualities when operating at other CG          directional trim. It is a good idea to check directional trim with and without the gear leg fairings in stalled. If there
+locations. The pilot must be proficient in flying the aircraft with the CG at all positions that are within limits.       is more un commanded yaw with the gear leg fairings installed, their alignment should be altered until the yaw is
+                                                                                                                          no greater than without them. Then final trim can be accomplished with a rudder tab. Re-aligning the gear leg
+Now, just what does this mean to the pilot; what changes in control forces and control response does he                   fairings can be unpleasant because of the need to alter (re-mold) the intersection fairings at the wheel fairing and
+experience when flying at or near the aft CG limit? When flying in a condition of equilibrium the pilot doesn't           fuselage. However, we cannot emphasize too strongly the amount of yaw which can be caused by as little as a
+necessarily notice any difference between the loading conditions. But, as soon as any pitch maneuvering is                1/4” trailing edge misalignment of a gear leg fairing. Simply adding an oversize trim tab to the rudder is not
+initiated, or turbulence upsets the stable pitch attitude, handling qualities are noticeably changed. The stabilizing     acceptable. While it would correct adverse yaw, it could also cause spin recovery to be adversely affected.
+force will be lessened---it will take longer for the aircraft to return to trim speed when flown hands-off. Also, pitch
+control (elevator) forces will be lighter, increasing the possibility of over controlling.                                Directional check:
+It is obvious that the effects of an aft CG position on pitch stability demand extra attention to airspeed control        Directional (yaw) stability is tested by establishing and holding level flight. Apply hard rudder to yaw the airplane
+when flying near minimum speeds. Less control stick movement and pressure will be need to induce a stall.                 in one direction and quickly release the pressure, keeping both feet off the pedals. The airplane should
+Since landing approaches are made at near minimum speeds, coupled with the distractions of air and ground                 immediately return to aligned flight. The RV-10’s yaw correction is so fast that an overshoot to yaw in the
+traffic, tower conversations, crosswinds, turbulence, and low altitude turns, they constitute the most common             opposite direction will occur. Usually, 4-6 overshoots of decreasing intensity will occur before the yaw will damp
+situation for encountering an accidental stall. An aft CG just makes an accidental stall easier to encounter, more        out. (An overshoot is an excursion to either side. A complete yaw cycle comprises 2 overshoots.)
+prone to degenerate into a spin, and more difficult to recover from if it does occur.
+                                                                                                                          Direction stability in a typical RV aircraft is quite positive. When a hard yaw is induced, the damping cycles are
+When operating at or near the aft CG limit, trimming the aircraft slightly “nose down” provides the pilot with an         rather short period—almost difficult to count fast enough.
+extra measure of stick pressure feedback thus making an inadvertent decay in airspeed less likely.
+To avoid falling prey to an approach stall/spin accident, pilots should regularly do several things:                      LATERAL STABILITY FLIGHT TEST;
+x   Practice slow flight with the aircraft loaded at or near aft CG limits.                                               Lateral check: Trim pitch control (elevator trim) for level flight and hold a heading with the rudder (if aircraft not
+                                                                                                                          in directional trim). Also, if an aileron trim system is installed, it should be set at center or neutral. Release the
+x   Practice stalls and stall recovery from simulated landing approach conditions; speeds, power settings, bank           stick and note any roll tendency or “heavy wing”. There is a good chance that any given RV-10 will be out-of-trim
+    angles. etc. He should learn to recognize the onset of the stall, and practice immediate recovery. (Forward           laterally, requiring a small fixed tab on one of the ailerons to maintain neutral stability. However, remember that
+    stick to break the stall, add power to gain speed and control response, and level the wings for added lift.)          a fixed trim tab provides complete correction at only one indicated airspeed, and should be set for the prevalent
+                                                                                                                          speed, usually cruise. Varying fuel loads in the wing tanks can either offset lateral stability or to a limited degree,
+x   Practice landing approach stalls at C.G. conditions up to but not exceeding the aft limits of the aircraft.           be used to correct a trim imbalance. When checking aileron trim, right and left side fuel loads should be near
+    Practice should include stalls in a medium to steep banked turn with inside rudder, the conditions which              equal.
+    might be encountered on a 'tight turn to final". Only through practice can a pilot gain the experience
+    necessary to make a safe stall recovery with a minimum altitude loss and with a maximum of controllability.           Aileron trim is achieved through use of trim tabs as described for elevator and rudder trim.
+Adjusting Pitch Trim: The pitch stability of the RV-10 was designed to be achieved by a small positive wing               If the out-of-rig condition is too extreme to be corrected by a trim wedge of not more than 6 inches in length,
+incidence angle and a stabilizer incidence angle of zero. Ideally, the elevator trim tab should be in neutral             there is a serious construction or rigging anomaly which must be identified and corrected. Contact the
+position or slightly trailing up (nose down) in cruise flight conditions and mid-C.G. range loadings. The leading         engineering staff at Van’s Aircraft for possible assistance.
+edge of the elevator counterbalance should be even with or approximately ¼” higher than the stabilizer in these
+conditions. This can be viewed from the cabin.                                                                            If the aircraft is equipped with an aileron trim control system, it can be used in lieu of fixed tabs. However, it is
+                                                                                                                          suggested that fixed trim methods be used to offset destabilizing effects of airframe irregularities, and that
+Trim tab positions can be checked either by viewing from a chase plane, by marking of the trim control in the             cockpit adjustable trim controls be used to offset variable loads such as fuel and passengers.
+cockpit, or by leaving the trim control in the “cruise” position throughout the landing, and then visually checking
+its position after the flight.                                                                                            After the lateral control trim has been completed, another test can be made. Establish a medium bank of 20-30
+                                                                                                                          degrees and release the stick. If the wings return to a level attitude, the airplane has exhibited positive lateral
+Adjustment of the stabilizer incidence angle is recommended if the cruise position of the trim tab is more than 10        stability. If the angle of bank remains the same stick free, the aircraft has neutral lateral stability. If the bank
+degrees up at cruise. The only correction for this is altering the incidence angle by repositioning the forward spar      angle continues to increase when the stick is released, the lateral stability is divergent, a potentially dangerous
+of the stabilizer up or down. The amount of re-adjustment needed will be determined by trial and error. Add or            condition.
+subtract spacers (washers) under the bolts which attach the front stabilizer spar to the fuselage. By adjusting
+one washer thickness (1/16'') at a time, the desired trim can be attained. Repositioning the stabilizer will require      Neutral lateral stability is common for RV-10s because of their short span and low dihedral angle.
+an alteration of the stabilizer root fairing, so should only be attempted after careful testing to determine the          Sometimes stability investigations can be confusing; situations where unlikely or unexpected factors cause
+necessity.                                                                                                                seeming unrelated symptoms. One instance comes to mind where a certain RV exhibited asymmetric roll rates
+                                                                                                                          and control force. Naturally, the investigation centered on possible wing twist or wing rigging (we checked for
+DIRECTIONAL (YAW) STABILITY:                                                                                              unequal incidence angles, or aileron abnormalities.) The cause was eventually found to be a rather severe twist
+                                                                                                                          in the horizontal stabilizer which imparted a constant rolling moment. So a lot of aileron trim was needed just to
+An off-center skid ball, and/or a roll tendency that increases with speed are common for many new airplanes.              maintain wings level, and the stabilizer induced roll force either added to or subtracted from the rolling input of
+Small trim adjustments should be made so the airplane flies straight and true in a stick free mode.                       the ailerons. Corrective action in that case was the construction of a new stabilizer.
+To test directional stability and trim, establish and hold level flight. Remove your feet from the rudder pedals. If      This ends our presentation on stability and control. However, it by no means is a complete thesis on the subject.
+the skid ball is does not remain centered, rudder trim will be needed. Apply rudder as necessary to center the            Rather, it is deemed sufficient to help an RV-10 pilot evaluate his airplane and make corrections to minor
+ball and determine whether “right or left” trim will be needed.           Fig. 15-5 shows an effective and attractive     abnormalities. A more authoritative and thorough dissertation can be found in the book FLIGHT TESTING
+method for a fixed trim tab. Unlike tabs which stick out past the trailing edge, these do not alter the planform          HOMEBUILT AIRCRAFT by Vaughn Askew. This text is highly recommended and is available from various
+profile of the control surface, yet are very effective. A temporary tab of this type can be made of wood, sawed           sources including the Iowa State University Press, and Van’s Aircraft, Inc.
+into a wedge about 3/8'' at the thick edge and 1 1/4 to 1 1/2'' wide. This can be temporarily taped on to the
+rudder trailing edge near bottom and adjusted simply by trimming the length. Attach to the side of the rudder
+opposite that of the rudder pedal effort needed to center the ball. It may take several flights to determine the          STALL TESTING:
+exact size. Then the temporary wedge can be replaced by a wedge made of machined aluminum, plastic, or                    We mentioned testing of mild, power off stalls during the initial test flight. After more confidence in the aircraft is
+sealed wood, and attached with flush pop rivets. Note: The size of the fixed trim tab will be optimal for only one        gained, the pilot should proceed to perform stalls entered from all anticipated flight conditions. All types of stalls
+speed/altitude.                                                                                                           should be practiced; departure (climbing) stalls, approach (gliding) stalls, stalls with varying degrees of bank,
+                                                                                                                          stalls at minimum and maximum weights, cross-control stalls, and accelerated stalls. Stalls at every imaginable
+                                                                                                                          attitude and from every imaginable entry condition. The object is not only to gain familiarity with stalls from every
+
+    Flight Test RV-10 3/16/05                             15                                                                 Flight Test RV-10 3/16/05                               16
+RV-10                                                                    FINAL INSPECTION AND FLIGHT TEST                      RV-10                                                               FINAL INSPECTION AND FLIGHT TEST
+
+conceivable flight condition, but also to become comfortable with recognition of and recovery from these stalls.               x    Full opposite rudder.
+Not comfortable in the sense of developing a complacent attitude, but comfortable in the sense of being
+confident in your ability to control any situation. Comfortable to the extent that the pilot can retain his composure,         x    Recover from dive as soon as rotation stops.
+not be startled and confused, should an accidental stall occur. Practicing many and varied stalls will heighten                Recovery time (time to stop rotation) will vary depending on C.G. position and other factors. Recovery is best
+your awareness of attitudes and flight conditions to be avoided because of the severity of the stalls which might              accomplished “hands-on stick” rather than stick-free because while in spin rotation, the inside aileron will
+result from them.                                                                                                              sometimes float up, thus driving the stick out of center. The stick also tends to the up elevator position at mid to
+Except for accelerated stalls and secondary stalls, approach each slowly (a deceleration rate of 1 mph per                     aft C.G.’s.
+second is recommended) while correcting for P-Factor (for power stalls) with the rudder. Allow the speed to                    The RV-10 is not intended for intentional spins. It is recommended that pilots learn the conditions that lead
+bleed off until you feel a slight buffet. Note the airspeed and recover with a smooth forward movement of the                  to accidental spins, how to recognize the onset of a spin, and how to immediately and subconsciously stop an
+stick as power is added. Maybe simply relieving back pressure on the stick when the stall occurs would be                      incipient spin. Then, fully developed spins, and the need to recover from them, will become less probable.
+sufficient for your airplane. Stalls entered from steep bank or climb attitudes will require more aggressive
+recovery control application. But remember, at some loading conditions, an RV-10 has light elevator forces, and                    Van's Aircraft Inc. does not consider spins in the RV-10 to be a recreational maneuver, and
+over controlling can occur, and secondary stalls can be encountered. Prompt and smooth stall recovery                                                   recommends that they not be casually undertaken.
+technique will minimize the possibility of a secondary stall.
+After gaining familiarity with stalls with instant recovery, delayed recovery can be practiced. Starting with wings
+level, 1 G stalls, delay the recovery by a count of 1,2,3, etc. seconds. The only purpose of this is to gain further           Airspeed Calibration: Air speed indicator systems, particularly in homebuilt airplanes, are often inaccurate.
+experience with handling qualities in extreme conditions and to determine your ability to control the aircraft in a            Sometimes very inaccurate! Note that we refer to the air speed indicator system, not just the air speed indicator
+prolonged stalled mode. While one should always recover immediately at the first warning of an accidental stall,               instrument itself. The system comprises four components: Dynamic pressure source (pitot tube), instrument,
+intentionally holding the airplane in a practice stall will provide the pilot with a greater experience base.                  static pressure source, and the air lines.
+During testing you may find that indicated stall speed differs from the speed published by Van’s Aircraft for stalls           The location of the pitot tube relative to the air pressure areas around the airframe is of great importance. The
+under the same loading and power conditions. This may be because the speed figures published by Van’s are                      ideal location is one where the true air velocity relative to the airframe can be measured. The pitot tube cannot
+calibrated airspeeds as opposed to your indicated airspeeds that may be in error because of instrument and                     be located at any point on the fuselage because it is within the influence of the propeller disc. The only
+system errors.                                                                                                                 exception would be mounting it above the tip of the vertical stabilizer. This location is fine except for high angle
+                                                                                                                               of attack flight, as in landing attitude, where fuselage and propeller airflow disturbances cause significant
+You should be aware that indicated (and actual) stall speeds will vary with differences in the operating weights of            inaccuracies.
+the RV-10, with power settings, and with CG locations. For example, you should expect a stall speed difference
+of about 9 mph when operating with one occupant and low fuel versus gross weight operation. Thus, for an                       The ideal pitot location would seem to be forward of the wing, in undisturbed air. But, within the first 6 to 12
+equivalent safety margin, the pilot needs to plan departures and landing approach speeds based on differing                    inches forward, the airflow is already affected by the approaching wing, and this location results in pressure
+operating weights.                                                                                                             errors as much as 10% high. It is necessary to locate the pitot tube least 1/2 the wing chord length forward of
+                                                                                                                               the leading edge to eliminate pressure errors. This is why we see the large pitot “stinger” on factory prototype
+Most pilots have been trained to think of stall and landing in terms of target Indicated Air Speeds. In fact, angle of         and test airplanes.
+attack (AOA) indicators provide more precise and consistent information about impending stalls. Large
+commercial and military aircraft have for many years relied heavily upon AOA indicators, and now they are                      Since long leading edge pitot tubes are impractical, a compromise position is sought. This usually becomes
+affordably available for light aircraft. Van’s Aircraft encourages RV-10 builders and pilots to consider installing            some experimentally derived point under the wing. The pitot tube shown on the plans is located for easy
+and using an AOA indicator in conjunction with the airspeed indicator and the audio stall warning system.                      manufacture and maintenance, and has proven to be a quite accurate pressure source. Use of pitot tube
+                                                                                                                               designs or locations other than this could result in less accurate airspeed readings.
+While practicing stalls, the pilot is not only gaining familiarity with that specific airplane for his piloting benefit, but
+is also evaluating that airplane’s stall characteristics against an ideal. The ideal is that when a stall is                   The airspeed indicator itself could be out of calibration due to age or manufacturing inaccuracies. Any
+encountered, the nose tends to lower, or can easily be lowered by an easing of stick back pressure or by a                     instrument repair shop can check and re-calibrate air speed indicators. However, one primary object of this sub-
+forward stick pressure. In the RV-10, there is advance stall warning in the form of pre-stall buffet. The buffet               chapter is to alert pilot/builder that an accurate airspeed indicator does not in itself guarantee correct indicated
+occurs (depending upon C.G. and flap position) within 5 mph of the fully developed stall. At the forward limit of              airspeed readings.
+C.G. and fully extended flaps, the RV-10 will develop airframe buffet but will not “break” and lower the nose. In              The static source must be located in an area of neutral or ambient pressure; an area where the shape of the
+this loading condition, the aircraft will descend while buffeting and may exhibit some pitch attitude oscillation. The         airframe has caused the airflow to be neither above or below atmospheric pressure. Cabin air pressure is not
+other characteristic being evaluated is a laterally uniform stall—or what is often called a level flight stall. Airfoil        neutral as might be thought. Door air leaks, air vents, etc. cause cabin pressure to vary enough to result in
+irregularities, wing incidence misalignment, and wing twist can cause one wing to stall at a higher speed than the             errors of 5 mph or more if used as the air speed static source. Production aircraft often use an experimentally
+other. This obviously will cause one wing to drop when the stall occurs. This is can occur with an RV-10, and if               located static source point on the aft portion of the fuselage where airflow pressure recovery provides
+the extent of wing drop is slight, no more than 10-15 degrees, it is of little consequence.                                    atmospheric pressure. The static opening at this location is also less prone to ice formation than elsewhere.
+                                                                                                                               The recommended RV-10 static source point is pre-punched in the F-1073 Tailcone Side Skin (see RV-10
+SPIN TESTING:                                                                                                                  Builders Manual Page 10-25, Figure 1).
+“A spin is a condition in which an airplane rotates because one wing is deeper in stall than the other. A spin is a            The fourth system component is the lines for both the
+highly complex dynamic maneuver that is still not fully understood, even by the experts.”                                      pitot and static air. Pressure requirements for either are
+                                                                                                                               minimal, so practically any aluminum, plastic, or rubber
+Flight Testing Homebuilt Aircraft, by Vaughn Askew.                                                                            line can be used. Airtight sealing of the lines is
+Accidental spins can result from a variety of conditions in which asymmetric wing lift is induced. Spins normally              important because any leakage can compromise an
+are caused by improper rudder usage coupled with a stall (including accelerated stalls) Out-of-coordination                    otherwise accurate system. One method of checking a
+rudder produces a yaw which in turn causes asymmetric wing lift which drives the spin rotation. Avoid these                    pitot system for leaks is just a clear plastic tube partially
+conditions, and accidental spins won’t happen. Since this utopian condition cannot be guaranteed, a degree of                  filled with water and slipped over the pitot tube. See
+spin investigation training is suggested.                                                                                      Figure 5. Elevating the open end of the tube will cause
+                                                                                                                               the water to flow inward (but not into the pitot tube) and
+Intentional spin entry should be initiated from a power off stall with full rudder in one direction and full elevator          build a slight pressure in the system. If the lines are
+following the initial stall break. Typical spin behavior for an RV-10 is that if control pressures are released                airtight, the water level will remain the same. If the
+immediately following spin entry, recovery will be automatic and almost immediate—no more than 1/2 spin                        water level slowly returns to a balanced condition, then
+revolution. For the RV-10, the most effective recovery technique is as follows:                                                the system has a leak. The location of a leak can be
+                                                                                                                               determined by spraying a film of soapy water on the line
+x   Power off.                                                                                                                 connections.
+x   Stick centered.
+
+    Flight Test RV-10 3/16/05                               17                                                                     Flight Test RV-10 3/16/05                              18
+RV-10                                                                 FINAL INSPECTION AND FLIGHT TEST                    RV-10                                                                   FINAL INSPECTION AND FLIGHT TEST
+
+Such an airspeed indicator system installed in a RV should provide reasonably accurate airspeed readings;                 FLUTTER TESTING
+certainly accurate enough for initial test flying. Most pilots will want to calibrate their airspeed indicator readings
+for the purpose of documenting performance data and performing limit testing. One simple method of doing so               Flutter in an aircraft structure results from the interaction of aerodynamic inputs, the elastic properties of the
+is to fly alongside another airplane and compare airspeed readings. This would be fine IF the other airplane's            structure, the mass or weight distribution of the various elements, and airspeed. The word “flutter” suggests to
+airspeed system was guaranteed to be accurate. But, it probably isn't, even though it may be an expensive, late           most people a flag's movement as the wind blows across it. In a light breeze the flag waves gently but, as the
+model airplane.                                                                                                           wind speed increases, the flag's motion becomes more and more excited. It is easy to see that if something
+                                                                                                                          similar happened to an aircraft's structure the effects would be catastrophic. In fact, the parallel to a flag is quite
+Historically, we had recommended performing the airspeed calibration through time/distance calculations. All              close.
+that is needed is a ground course of known distance, preferably about 5 miles in length, and a stopwatch. Fly
+both directions over the course at a steady indicated speed, power setting, and altitude. Time each run with the          Think of a primary surface with a control hinged to it (e.g., aileron). Imagine that the aircraft hits a thermal. The
+stopwatch. Compute the speeds for each run, add them together, and divide by two to get the average ground                initial response of the wing is to bend upwards relative to the fuselage. If the center of mass of the aileron is not
+speed. Do not calculate the average speed from the total distance divided by the overall time. The effect of any          exactly on the hinge line, it will tend to lag behind the wing as it bends upwards.
+wind will result in an erroneously low speed.                                                                             In a simple, unbalanced, flap-type hinged aileron, the center of mass will be downward. This will result in the
+A sample calculation is shown at the end of this section. We have intentionally factored in a strong wind to              wing momentarily generating more lift, which will increase its upward bending moment and its velocity relative to
+illustrate the effect of averaging individual speeds rather than computing speeds from the elapsed round trip             the fuselage. The inertia of the wing will carry it upwards beyond its equilibrium position to a point where more
+times. (Performing speed calibration testing during windy conditions is usually futile because the turbulence             energy is stored in the deformed structure than can be opposed by the aerodynamic forces acting on it.
+associated with winds will make it impossible to maintain steady airspeed and get accurate results.)                      The wing “bounces back” and starts to move downward but, as before, the aileron lags behind and is deflected
+Use a flight calculator to compute true indicated airspeed from the indicated airspeed reading (factored for              upwards this time. This adds to the aerodynamic down force on the wing, once more driving it beyond its
+temperature and altitude) and plot this speed against the calculated ground speed. Repeat this procedure for              equilibrium position and the cycle repeats.
+indicated airspeeds vs. timed ground speeds at 10-20 mph intervals from near stall speeds to max.cruise                   At low airspeeds, structural and aerodynamic damping quickly suppresses the motion but, as the airspeed
+speeds. From this, an airspeed calibration curve can be drawn and corrections made for any indicated airspeed.            increases, so do the aerodynamic driving forces generated by the aileron. When they are large enough to
+An actual sample of an RV-6A test flight and computations form is included at the end of this section.                    cancel the damping, the motion becomes continuous. Further small increases in airspeed will produce a
+                                                                                                                          divergent, or increasing, oscillation, which can quickly exceed the structural limits of the airframe. Even when
+                                                                                                                          flutter is on the verge of becoming catastrophic, it can still be very hard to detect. What makes this so is the high
+GPS tests for airspeed calibration                                                                                        frequency of the oscillation which is typically between 5 and 20 HZ (cycles per second). It will take only a very
+GPS ground speed readings have been found to be so accurate that they can be used interchangeably with                    small increase in speed to remove what little damping remains and the motion will become divergent rapidly.
+zero wind true air speed. Thus, if the air mass were perfectly stable (no wind), GPS ground speed and true                Ground vibration testing of the factory prototype and subsequent flutter analysis has resulted in establishing a
+airspeed would be the same. However, there is almost always some wind, particularly at altitudes where                    NEVER EXCEED SPEED (Vne) of 230 statute mph for the RV-10. This value of Vne allows for a reasonable
+convective turbulence is not a problem. Thus, flying a multiple heading pattern is an easy and accurate means             margin of safety below the critical flutter speed. Ground vibration testing performed on the factory prototype
+of canceling wind effect from ground speed read outs.                                                                     aircraft coupled with flutter analysis substantiates the published value of Vne.
+The commonly accepted procedure is to fly a box shaped pattern on the prime headings of 90, 180, 270, and                 FAA certification criteria allow for flight flutter testing up to Vne plus 10% or about 20 mph. The typical flight flutter
+360 degrees. Record the ground speed readings for each heading and compute the average. While this would                  test consists of exciting the controls by sharply slapping the control stick at speeds increasing incrementally until
+seem a simple procedure, carefully flying is necessary to arrive at accurate figures. The airplane must be flown          reaching the required speed. Under all conditions, the controls must immediately return to equilibrium with no
+precisely and the atmosphere must be very stable (no vertical movement). Even at higher altitudes where the air           indication of divergent oscillations indicative of flutter.
+is generally smoother, there is often minor turbulence, wind shear, or waviness which makes it difficult to hold a
+constant altitude and indicated air speed. For example, it is common to experience smooth waves in the                    The “slap-the-stick'' method of exciting the controls for flutter testing is potentially dangerous and requires a very
+atmosphere, with low vertical velocities—you can’t feel any bumpiness but you can see the altimeter (or VSI)              skilled pilot trained to recognize the subtle control responses which indicate the onset of flutter. For this reason,
+alternating, up and down. Under these conditions, constant trim changes, and thus airspeed changes, are                   it is suggested that amateur builders do not perform flutter testing of their RVs.
+necessary to maintain level flight altitude. A simple calculation showed that a 100 fpm vertical component would
+cause a true airspeed variation of about 2.5 mph in an RV. Thus, flying from the positive to the negative phase of        Rather, the airplane should be constructed in strict conformity to the plans with particular attention paid to the
+the wave would show a 5 mph variation.                                                                                    control system - skin stiffness, control linkage free-play, and static balance in particular. Control surface static
+                                                                                                                          balance limits are as listed in this document. Maintaining strict conformity with the plans will provide an adequate
+Similarly, assuming that the atmosphere were perfectly stable, when flying at 200 mph, a pilot error of 1/2 degree        level of assurance against control surface flutter. Any design changes to the control surfaces, control system, or
+pitch attitude will cause a 150 fpm climb or descent rate and several mph speed variation. Thus, great care must          primary structure could invalidate the testing which has been done, and require that testing be re-accomplished.
+be taken to find smooth air and fly precisely in order that truly accurate speeds be recorded. It is a good idea to
+fly the speed box more than once to check consistency and obtain averages if speed variation occur.                       G-LOAD TESTING
+                                                                                                                          The structure of the RV-10 has been designed to withstand design loads of plus 3.8 Gs and minus 1.9 Gs at a
+LIMIT TESTING                                                                                                             gross wt. of 2700 lb. Flight testing to the positive G limit can be done by putting the airplane in a tight turn and
+                                                                                                                          applying elevator back pressure. Do this progressively; increasing the load by 1G increments until the load limit
+Limit testing of a homebuilt, particularly a high performance one such as the RV, is an endeavor to be                    is reached. Between each loading acceleration, relax and look over the airplane. Move the controls to assure
+approached with caution and preparation. What the pilot is doing is challenging the airframe to withstand the             that everything is normal.
+limit loads he is imposing on it, or in a sense, daring it to fail. Most homebuilder/pilots are not daredevils and
+would just as soon not do limit testing. However, as it is the best available means of verifying design limits, it        A parachute should be worn while conducting load testing.
+must be done if all future flights are to be made with confidence. With proper preparation, limit testing need not
+be as frightening and dangerous as it might appear. Particularly during this phase of testing, the pilot should           MANEUVERING SPEED: 144 mph statute for the RV-10. By definition, maneuvering speed is the maximum
+wear a parachute and familiarize himself with its operation. Also, emergency egress of the airplane should be             speed at which full and abrupt controls can be applied. It is also the minimum speed at which limit G-load can
+reviewed and memorized. Limit testing should be done at altitudes of at least 5000 ft. above ground, preferably           be produced. Thus, at any speed in excess of this, full control application could result in G-loads in excess of
+around 8,000 ft. Along with careful planning, altitude can be a lifesaver. While the thought of structural failure or     design limits. The maneuvering speed is a function of clean (no flap) stall speed. Because the RV-10 has a low
+loss of control is not at all appealing, it is far better that it be encountered during controlled testing than under     stall speed, maneuvering speed is low relative to cruise and Never Exceed Speed.
+conditions where no options exist (low altitude, no parachute, etc.). By assuming and preparing for the worst,            Based on the same formula used to determine maneuvering speed, full control application at Vne would produce
+limit testing can be done with reasonable confidence. Flight testing of the RV prototypes proved to be routine            a G-load of about 10. From this it should be very obvious that at any speed above maneuvering speed, the pilot
+and uneventful. With thoughtful construction and preparation, testing of homebuilt RVs should be the same.                becomes the limiting factor: he can impose destructive loads on the structure through excessive control
+Limit testing categories include FLUTTER TESTING, G-LOAD TESTING, and SPIN TESTING. (Spin testing is                      application. Because of its high ratio of top speed to stall speed, the RV-10 is more susceptible to pilot-
+also classified under Stability testing, so has been included in that section of this chapter)                            induced overstresses than are lower speed lightplanes.
+
+
+
+   Flight Test RV-10 3/16/05                              19                                                                 Flight Test RV-10 3/16/05                               20
+RV-10                                                                FINAL INSPECTION AND FLIGHT TEST                   RV-10                                                                           FINAL INSPECTION AND FLIGHT TEST
+
+MAXIMUM G-LOAD: Plus 3.8 and minus 1.9 G's for an RV-10 flown at a gross weight of 2700 lbs. This                       AIRSPEED INDICATOR MARKINGS
+assumes that the aircraft was built in strict conformity with the plans. Any variation in materials used, dimensions
+of primary structural parts, or workmanship standards, can cause a loss of strength and cause the actual limit
+load to be less than the design limit load.                                                                                            SPEEDS IN STATUTE MILES PER HOUR                                                       RV-10
+As with flutter testing, G-load testing should be conducted systematically, progressing gradually to higher and                        Bottom of White Arc: (Approx. Indicated stall speed with full flaps)                     60
+higher levels. 3.8 G's is the highest level recommended in testing. This is the maximum load the structure is
+designed to be able to withstand indefinitely.                                                                                         Top end of White Arc: (Max. speed with full flaps)                                      100
+While the actual calculated breaking strength is 5.7 G's, the structure is designed to withstand this load for only 3                  Bottom of Green Arc: (Approx. indicated stall speed without flaps)                       70
+seconds. Approaching this load level could permanently weaken the structure even if failure does not occur.
+The margin between 3.8 and 5.7 G's is reserved to compensate for the effects of airframe deterioration through                         Top end of Green Arc: (Max. structural cruise speed)                                    180
+aging, fatigue, material flaws, or construction errors. G-loads of over 3.8 should never intentionally be applied to
+an RV-10 structure.                                                                                                                    Blue Line: (Maneuvering speed-Max. permissible speed at which full control can be       144
+                                                                                                                                       applied. Speed at which full elevator control would impose loads exceeding limits)
+The 1.9 G design limit for negative loads also has a built-in 50% margin. Thus the breaking strength would be
+–2.9 Gs.                                                                                                                               Yellow arc. (caution range, to be flown only in calm or light turbulence conditions)   180-230
+GROSS WEIGHT: See Weight and Balance.                                                                                                  Red Line: (Maximum permissible speed under any condition)                               230
+FLAP SPEED: On the RV-10, 140 mph statute for “trail” (3º deflection), 110 mph statute for “½ flap” (18º
+deflection), and 100 mph statute for “full flap” (33º deflection).                                                      RECORDING FLIGHT TEST DATA
+                                                                                                                        All pertinent data obtained during flight testing should be recorded in the aircraft log and/or flight manual. This
+                                                                                                                        should include data about limits reached, limit speeds, acceleration (G-loads) limits, etc. This is particularly
+                                                                                                                        important if testing limits were lower than suggested in this text. There will be a natural tendency for future pilots
+                                                                                                                        of this airplane to assume that it has been built and tested to the same standard as the prototype and other RV-
+                                                                                                                        10’s. If an individual RV has not been flight tested to the design limits, a clear record of the test limits should be
+                                                                                                                        available. An “AEROBATICS PROHIBITED’ placard should be prominently displayed on the instrument panel.
+                                                                                                                        Remember, though your RV may look like all others, it is really a one-of-a-kind airplane because you built it, and
+                                                                                                                        it is not identical to any other. Well recorded data will eliminate the need for assumptions on the part of future
+                                                                                                                        pilots. We can do without assumptions in this business.
+                                                                                                                        A placard stating “This Aircraft is amateur built and does not comply with the federal safety regulations for
+                                                                                                                        standard aircraft” must be visible in the cockpit of your airworthy RV-10. As the pilot, it is well to reflect on this
+                                                                                                                        thought because you are a passenger also. The federal safety standards were developed for good reason. Just
+                                                                                                                        because amateur built aircraft are not required to comply with all safety regulations and design standards of type
+                                                                                                                        certificated aircraft does not exempt them from suffering the possible consequences of non-compliance.
+                                                                                                                        Perhaps it is better for the builder to think of the intended wording as “has not been shown to comply” rather than
+                                                                                                                        “does not comply”. Then, do everything possible to comply with the highest “self imposed” standards of
+                                                                                                                        workmanship and airmanship.
+                                                                                                                        We will close by leaving you with a few quotes borrowed from the FAA Advisory Circular, AMATEUR-BUILT
+                                                                                                                        AIRCRAFT FLIGHT TESTING HANDBOOK.
+                                                                                                                        “The laws of aerodynamics are unforgiving and the ground is hard.” Michael Collins.
+                                                                                                                        “The object of the game, gentlemen, is not to cheat death: the object is not to let him play.” Patrick Poteen, Sgt.,
+                                                                                                                        U.S. Army.
+                                                                                                                        “Leave nothing to chance.” Tony Bingelis
+                                                                                                                        “Know your airplane, know it well, know its limitations, and above all--know your own limitations.” Bob Hoover
+                                                                                                                        “It is critically important that a test pilot never succumb to the temptation to do too much too soon, for that path
+                                                                                                                        leads but to the grave.” Richard Hallion.
+                                                                                                                        “Always leave yourself a way out.” Chuck Yeager.
+                                                                                                                        “One can get the proper insight into the practice of flying only by actual flying experiments.” Otto Lilienthal (1896)
+                                                                                                                        “Keep your brain a couple steps ahead of the airplane.” Neil Armstrong
+                                                                                                                        “A superior pilot uses superior judgment to avoid those situations which require the use of superior skill. Old
+                                                                                                                        Aviation Proverb
+                                                                                                                        “Go from the known to the unknown--slowly!” Chris Wheal, test pilot.
+
+
+
+
+   Flight Test RV-10 3/16/05                             21                                                                Flight Test RV-10 3/16/05                                     22
+RV-10                                                                      FINAL INSPECTION AND FLIGHT TEST
+
+
+             TEST RUNS USING GPS MAY BE USED TO CALIBRATE THE AIRSPEED SYSTEM
+
+
+                                     AIRSPEED CALIBRATION RUN #1
+                  Conditions & Data:           8,000' MSL         42 deg. F.               156 IAS
+                                            2675 RPM           20.5'' Man. Pres. Sensenich 68x78 prop
+                                    E6B computations show that:
+          156 mph IAS at 8,000' and 42 deg. F. = 178 mph True Indicated AS. (ie: no calibration for system errors)
+                                              Run #1 from north to south:
+                                                  Start 45q 41.0' Lat.
+                                                  Finish 45q 31.0' Lat.
+                      Distance = 10 NM         time = 3 minute 55 seconds = 235 Seconds.
+                        Speed (knots)=Dist/time=(10 NM/235 sec) X 3600 sec/hr = 153.2 NM/Hr.
+                                  Speed (mph) = speed (NM/Hr) x 1.15 = 176.2 mph
+                                              Run #2 from south to north:
+                                                   Start 45q 31.0' Lat.
+                                                  Finish 45q 41.0' Lat
+                          Distance = 10 NM        time = 3 minutes 52 seconds = 232 Seconds.
+                         Speed (knots)=Dist/time=(10 NM/232 sec) X 3600 sec/hr = 155.2 NM/Hr.
+                                    Speed (mph) = speed (NM/Hr) x 1.15 = 178.5 mph
+                        Average speed = (176.2 + 178.5) / 2 = 177.35 mph True airspeed.
+              (from above) True Indicated Airspeed = 178.5 = Approx. 1 percent calibration error.
+
+
+
+
+                                     AIRSPEED CALIBRATION RUN #2
+                       Conditions and Data:         1000' MSL   76 deg. F.      171 IAS
+                                                       2650 RPM     24'' Man. Press.
+                                      E6B computations shown that:
+            171 mph at 1000' msl and 76 deg. F. = 177 mph True Indicated AS. (ie: no calibration for system errors)
+                                   Downwind leg: 3 miles in 55 seconds.
+                           Speed (mph)=Dist/time=(3 miles/55 sec) X 3600 sec/hr = 196.4 mph.
+                                      Upwind leg:      3 miles in 75 seconds.
+                              Speed (mph)=Dist/time=(3 miles/75 sec) X 3600 sec/hr = 144 mph.
+                                   Average speed = (196.4 + 144)/ 2 = 170.2 mph.
+
+
+  This sample shows a TIAS of 177 as opposed to a true calibrated speed of 170.2, or an airspeed indicator
+                                       reading of about 4% high.
+                                           Erroneous calculation would be:
+  Average speed = (distance 1 + distance 2)/(time 1 + time 2) = (3 miles + 3 miles)/55 sec+75 sec) X 3600 sec/hr = 166 mph.
+
+
+
+
+  Flight Test RV-10 3/16/05                                  23
+

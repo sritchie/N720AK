@@ -1,0 +1,316 @@
+                                                                                        VAN'S AIRCRAFT, INC.
+                                   W-1006F
+                                 SPAR SPLICE
+  W-1006E-L                         PLATE
+MAIN SPAR WEB
+ EXTENSION
+
+
+
+
+                                                    W-823PP
+                                               AILERON BELLCRANK
+                                                    BRACKET
+
+                                                                   SECTION 13:
+                                                                   MAIN SPAR
+                   W-SPAR ASSY-L
+                SPAR ASSEMBLY - LEFT
+                                                                                                    W-SPAR ASSY-L
+                                                                                                 SPAR ASSEMBLY - LEFT
+
+
+
+
+                                                     W-1020
+                                                   TIE-DOWN
+
+
+
+
+                                                                         W-1006F
+                                                                                                              W-1006E-L
+                                                                    SPAR SPLICE PLATE
+                                                                                                            MAIN SPAR WEB
+                                                                                                             EXTENSION
+
+
+                                                                                           DATE: 07/24/14 REVISION: 0   RV-10   PAGE   13-1
+                       VAN'S AIRCRAFT, INC.                                                                                             Step 5: Fabricate two W-1028A Wing Box J-Stiffener - Long by cutting two pieces of J-Channel each one 92 1/4 inches
+                                                                                                                                        long.
+                          NOTE: The Main Spar is supplied assembled and gold
+                          anodized for corrosion resistance. The spar assembly                             END OF J-STIFFENER
+                                                                                                           FLUSH WITH END OF            Step 6: Fabricate two W-1028B Wing Box J-Stiffener - Short by cutting two pieces of J-Channel each one 53 3/4
+   consists of upper and lower step bars attached to one side of a C-channel                                                            inches long.
+   spar web with a doubler plate attached to the other side of the web. The flanges                           SPAR FLANGE
+   of the C-channel spar web face aft. The inboard end of the spar has large holes for                                      W-1028A     Step 7: Place the W-SPAR ASSY-L Spar Assembly - Left on the work surface with the flanges "up". Because the spar
+   attaching to the fuselage. The upper spar step bar is longer and thicker than the lower spar                             (UPPER)     assembly - left will sag due to it's own weight, use wood blocks to support the spar in the middle and at the tip end as
+   step bar. Be sure that you know "up", "down", "inboard", and "outboard" on your spar                                                 required to keep the spar straight.
+   assembly.
+                                                                                                                                          Orient the W-1028A Wing Box J-Stiffeners - Long and W-1028B Wing Box J-Stiffeners - Short to the flanges of the
+  Step 1: Cleco the W-1006E-L Main Spar Web Extension to the W-SPAR ASSY-L Spar Assembly -                                                W-SPAR ASSY-L Spar Assembly - Left as shown in Figures 2 and 3.
+  Left using four W-1006F Spar Splice Plates. Correct orientation of the main spar web extension
+  places the "extra" hole in one of the flanges on the bottom. See Figure 1. Final-Drill the spar splice                                       Use "spring clamps" or cleco clamps to hold the wing box j-stiffeners to the spar flanges.
+  plates to the spar assembly and web extension using a #30 drill.
+                                                                                                                 DO NOT                                 The wing box j-stiffeners - long should be clamped first, followed by the wing box j-stiffeners - short
+   Step 2: Mark or label the four W-1006F Spar Splice Plates "Upper Fwd", "Lower Aft", etc. so that           MATCH-DRILL                                     which nest inside the wing box j-stiffeners - long.
+   when they are riveted in place their location and orientation will be the same as when they were        LOWER J-STIFFENER
+   final-drilled. See Section 5C for more information on marking parts.                                       IN THIS AREA
+
+  Step 3: Un-cleco the four W-1006F Spar Splice Plates and W-1006E-L Main Spar Web Extension                               W-1028A
+  from the W-SPAR ASSY-L Spar Assembly - Left and deburr holes in all parts. Prime the spar splice                         (LOWER)
+  plates and main spar web extension if/as desired.
+
+   Step 4: Re-cleco the four W-1006F Spar Splice Plates and W-1006E-L Main Spar Web Extension
+   to the W-SPAR ASSY-L Spar Assembly - Left and install rivets as shown in Figure 1.
+                                                                                                                         FIGURE 2:                                                                                                  W-1028B
+                                                                                                                   WING BOX J-STIFFENER                                                                                             (UPPER)
+                                                                                                               ORIENTATION TO SPAR ASSEMBLY
+                                                                                                                      ISOMETRIC VIEW                                                                                                     END OF J-STIFFENER
+                                                                                                                                                                DO NOT
+                                                                                                                                                             MATCH-DRILL                                                                 FLUSH WITH END OF
+                                                                                                                                                          LOWER J-STIFFENER                                                                 SPAR FLANGE
+                                        W-SPAR ASSY-L                                                                                                        IN THIS AREA
+
+                                                            W-1006F,
+                                                            4 PLACES
+                                                                                                                                                                                                                W-1028B
+                                                                                                                    1/16                                                                                        (LOWER)
+                                                                                                                                                                      1/16
+                                                                                                            EDGE OF J-STIFFENER                               EDGE OF J-STIFFENER
+                                                                                                             TO EDGE OF SPAR                                   TO EDGE OF SPAR
+                                                                                                                                                                                                                    W-SPAR ASSY-L
+
+
+
+
+       AN470AD4-5,
+        36 PLACES                                                                                                                     W-SPAR ASSY-L
+
+
+                                                                                                                                                                                               Step 8: Using a #40 drill, match-drill the W-1028A Wing Box
+                                                                                                                                                                                               J-Stiffeners-Long and W-1028 Wing Box J-Stiffeners-Short to the
+                                                                                         NOTE LOCATION                                                                                         flanges of the W-SPAR ASSY-L Spar Assembly - Left using the aft
+                                                                                         OF "EXTRA" HOLE                                                                                       most row of 3/32 inch diameter holes in the spar flanges as drill
+                                                                                             IN LOWER                                                                                          guides. See Figure 3. Do NOT match-drill the lower wing box
+                                                                                           FLANGE OF                                                                                           j-stiffeners in the three areas on the lower spar flange shown in
+                                                                                             W-1006E-L        MATCH-DRILL J-STIFFENERS
+                                                                                                                                                                                               Figure 2 and in Page 13-5, Figure 2.
+                                                                                                             USING HOLES IN SPAR FLANGE
+                                                         W-1006E-L                                                  AS DRILL GUIDE
+                                                                                                                                                                                               Insert clecos in the holes as match-drilling progresses along the
+                                                                                                                                   FIGURE 3:                                                   length of the wing box j-stiffeners. Monitor the position of the wing
+                        FIGURE 1:
+                                                                                                                             WING BOX J-STIFFENER                                              box j-stiffener relative to the spar flange (see Figure 3) as
+                MAIN SPAR WEB EXTENSION                                                                                                                                                        match-drilling progresses and make corrections as required.
+                                                                                                                         ORIENTATION TO SPAR ASSEMBLY
+                      INSTALLATION
+                                                                                                                                   END VIEW                                                     After match-drilling, remove the wing box j-stiffeners, mark them for
+                                                                                                                                                                                                the left wing, then set them aside for later use during wing assembly.
+PAGE   13-2    RV-10      REVISION: 1   DATE: 07/24/14
+Step 1: Except for holes already match-drilled, run a #40 drill through all the 3/32 holes in the
+                                                                                                                                                                                                               VAN'S AIRCRAFT, INC.
+flanges of the W-SPAR ASSY-L Spar Assembly - Left.                                                                                       Step 6: Rivet the wing access plate attach nutplates to the W-SPAR ASSY-L Spar Assembly - Left as
+                                                                                                                                         shown in Figure 3.
+Step 2: Machine Countersink the nutplate attach rivet holes in the flanges of the W-SPAR ASSY-L
+Spar Assembly - Left. Machine countersink those rib to spar flange attach rivet holes that are in line                                         Step 7: Machine Countersink the wing access plate attach screw holes. See Figure 4 for details of the countersunk
+with the nutplate attach rivet holes and are inboard of the most outboard fuel tank attach nutplate.                                                 hole. Make a dimple test sample by drilling #27 and dimpling a scrap of .032 aluminum for a #6 flush head screw.
+                                                                                                                                                           Use a #40 pilot countersink cutter in a microstop countersink cage to enlarge the screw holes in the spar just
+Countersink just deep enough to fit the head of an AN426AD3 rivet. Read Section 5E for more                                                                     enough for the test dimple to fit smoothly. The #40 pilot will center in the nutplate well enough to keep
+information on countersinking and dimpling. The fuel tank skin attach nutplate locations are shown                                                                the countersink round and concentric.
+in Figure 1. The wing access plate attach nutplate locations are shown in Figure 3.
+                                                                                                                                                      SB375-3
+                                                                                                                                                                               Step 8: Spot prime the areas where the anodize finish was removed during
+                                                                                                                                                                                countersinking in steps 5 and 7. See Section 5A for more information on priming
+                                                                                                                                                                                aluminum.
+                                                     AN426AD3-4
+                                                                                                                                                                                          Step 9: Left Side Only: Enlarge the existing 9/32 inch diameter hole in the
+                                                     132 PLACES
+                                                                                                                                                                                              W-SPAR ASSY-L Spar Assembly - Left to 3/8 inch and install a snap
+                                                                                                                                                                                                 bushing as shown in Figure 3.
+                                                                                                                                     LEFT SIDE ONLY:
+                                                                                                                                    ENLARGE HOLE TO
+                                                                                                                                     3/8 AND INSTALL
+                                                                             K1100-08                                                 SNAP BUSHING
+                                                                            56 PLACES
+       MS21053-L08
+
+
+                                                                                                          MS21053-L08
+
+                                                                                                                                                            FIGURE 3:
+                                                                                                                                                    WING ACCESS PLATE ATTACH
+                                                                                                                                                     NUTPLATE INSTALLATION
+                             FIGURE 1:
+                                                                                                                                                                                                          K1000-06,
+                       FUEL TANK SKIN ATTACH                                                                                                                                                             12 PLACES
+                       NUTPLATE INSTALLATION
+                                                                                                                                                                                                      AN426AD3-4,
+                                                                                                                                                                                                       24 PLACES
+
+
+
+
+                                                                                                          MS21053-L08
+
+                                                                                                                                                              DIMPLED .032 THICK                                                                   DIMPLED .032 THICK
+                                                                                                                                 FUEL TANK                                                           WING ACCESS PLATE
+                                                                                                                                                                FUEL TANK SKIN                                                                     WING ACCESS PLATE
+                                                                                                                               ATTACH SCREW                                                            ATTACH SCREW
+
+
+
+
+                                                                                                                                                           7/32 MAX DIAMETER                                                                  5/32 MAX DIAMETER
+
+                                                                                                                            3/8 MAX DIAMETER                                                        5/16 MAX DIAMETER
+Step 3: Machine Countersink the skin and rib attach rivet holes in the flanges of the W-SPAR ASSY-L Spar Assembly -
+Left. Countersink just deep enough to fit the dimples in the wing skins. Make a dimple test sample by drilling and
+dimpling a scrap of .032 aluminum for an AN426AD3 rivet. See Section 5E.
+                                                                                                                               FUEL TANK                                                            WING ACCESS PLATE
+                                                                                                                                                                    SPAR FLANGE                                                                        SPAR FLANGE
+Step 4: Rivet the fuel tank skin attach nutplates to the W-SPAR ASSY-L Spar Assembly - Left as shown in Figure 1.           ATTACH NUTPLATE                                                          ATTACH NUTPLATE
+
+Step 5: Machine Countersink the fuel tank attach screw holes. See Figure 2 for details of the countersunk hole. Make a                     FIGURE 2:                                                                  FIGURE 4:
+dimple test sample by drilling #19 and dimpling a scrap of .032 aluminum for a #8 flush head screw. Use a #30 pilot
+countersink cutter in a microstop countersink cage to enlarge the screw holes in the spar just enough for the test dimple              FUEL TANK ATTACH                                                       WING ACCESS PLATE ATTACH
+to fit smoothly. The #30 pilot will center in the nutplate well enough to keep the countersink round and concentric.                  COUNTERSINK DETAIL                                                         COUNTERSINK DETAIL
+
+                                                                                                                                                                                                                      DATE: 07/24/14 REVISION: 0    RV-10    PAGE   13-3
+                        VAN'S AIRCRAFT, INC.                                                    Step 6: Fabricate the W-1020 Tie-Down Bracket from a piece of AEX TIE-DOWN by                Step 8: Remove the W-1020 Tie-Down Bracket from the W-SPAR ASSY-L Spar
+                        Step 1: Run a #40 drill through all the 3/32 diameter fuel tank         cutting to length, tapping, and drilling a pilot hole as shown in Figure 2.                  Assembly - Left. Using a #40 bit, match-drill the nutplate attach rivet holes in the
+                        attach nutplate and wing attach nutplate rivet holes in the web of                                                                                                   W-1020 Tie-Down Bracket as shown in Figure 4. Use the nutplates as drill guides for
+                        the W-SPAR ASSY-L Spar Assembly - Left. See Figure 1.                                                                                                                properly locating the holes.
+
+                                                                                                               1/4                                                                           Step 9: Machine countersink the aft side of the W-1020 Tie-Down Bracket for the
+   Step 2: Run a #30 drill through the three spar doubler to spar web rivet holes in the
+   web of the W-SPAR ASSY-L Spar Assembly - Left. See Figure 1.                                                                                             TAP 3/8 X 16,                    heads of the nutplate attach rivets. See Figure 4. Deburr all holes in the tie-down
+                                                                                                                     Ø1/8                                   1 INCH DEEP                      bracket.
+  Step 3: Machine Countersink the nutplate attach rivet holes in the web of the W-SPAR
+  ASSY-L Spar Assembly - Left. Countersink just deep enough to fit the head of an                                                                                                            Step 10: Prime the W-1020 Tie-Down Bracket. See Section 5A for more information
+  AN426AD3 rivet. The countersinks for the fuel tank attach nutplate rivet holes are on                                                                                                      on priming aluminum.
+  the forward side of the spar assembly and the countersinks for the wing attach             9/16
+                                                                                                                                                                                             Step 11: Rivet nutplates to the W-1020 Tie-Down Bracket as shown in Figure 4.
+  nutplate rivet holes are on the aft side of the spar assembly. See Figure 1.
+
+  Step 4: Machine Countersink the aft side of the W-SPAR ASSY-L Spar Assembly -
+  Left for the three AN426AD4 rivets shown in Figure 1. Countersink just deep enough
+  to fit the head of an AN426AD4 rivet. Install the three rivets as shown in Figure 1.                                              7 1/8
+
+   Step 5: Rivet the fuel tank attach nutplates and wing attach nutplates to the W-SPAR
+   ASSY-L Spar Assembly - Left as shown in Figure 1.                                                                       FIGURE 2:
+                                                                                                                 TIE DOWN BRACKET FABRICATION
+
+                                    W-SPAR ASSY-L
+                                                               AN426AD3-6                       Step 7: Cleco the W-1020 Tie-Down Bracket to the W-SPAR ASSY-L Spar Assembly -
+                                                               10 PLACES                        Left as shown in Figure 3. The upper edge of the tie-down bracket rests against the
+                                                                                                bottom surface of the upper spar step-bar. Using a #30 bit, match-drill holes in the
+                                                                                                                                                                                                                                                                    AN426AD3-4,
+                                                                                                tie-down bracket using the pre-punched #30 holes in the spar assembly as drill
+                                                                                                                                                                                                                                                                     8 PLACES
+                                                                                                guides. Insert clecos in the holes as they are drilled. Using a #12 bit, match-drill holes
+   K1000-3                                                                                      in the tie-down bracket using the pre-punched 3/16 holes in the spar assembly as drill
+  FUEL TANK                                                                                     guides. See Figure 3.
+   ATTACH
+                                                                                                                                  W-SPAR ASSY-L                                                   K1000-3
+  NUTPLATES
+
+                                                                      K1000-4                                                                       CLECO W-1020
+                                                                    WING ATTACH                                                                   TO W-SPAR ASSY-L
+                                                                     NUTPLATES                                                                  THROUGH PRE-DRILLED
+                                                                                                                                                   HOLE IN W-1020
+
+
+                                                                AN426AD4-6
+
+
+
+
+                           FIGURE 1:                                                                                                                                                                                           FIGURE 4:
+                   FUEL TANK AND WING ATTACH                                                                                                                                                                              TIE-DOWN BRACKET
+                     NUTPLATE INSTALLATION                                                                                                                                                                              NUTPLATE INSTALLATION
+
+
+
+                                                                                                              W-1020
+
+                                                                                                                                            DRILL W-1020 TO
+                                                                                                                                             W-SPAR ASSY-L
+                                                                                                                                            USING HOLES IN
+                                                                                                                                             W-SPAR ASSY-L
+                                                                                                                                            AS DRILL GUIDES
+
+
+                                                                                                                          FIGURE 3:
+                                                                                                                 FITTING TIE DOWN BRACKET
+                                                                                                                     TO SPAR ASSEMBLY
+PAGE   13-4    RV-10       REVISION: 0   DATE: 07/24/14
+ Step 1: Clean the powder coating from the insides of the holes in the W-823PP Aileron
+                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+ Bellcrank Brackets by running a #12 drill through the two smaller holes and a 1/4" drill
+ through the single larger hole.
+
+ Attach the W-1020 Tie-Down Bracket and two aileron bellcrank brackets to the
+ W-SPAR ASSY-L Spar Assembly - Left as shown in Figure 1.
+
+
+                                                                    AN3-5A,
+                             W-SPAR ASSY-L                         4 PLACES
+
+
+
+
+                                                                               AN960-10,
+                                                                               4 PLACES
+  AN470AD4-7
+
+
+
+                                                                            W-823PP,
+                                                                            2 PLACES
+AN470AD4-5,
+ 8 PLACES
+
+
+
+
+     AN3-5A
+
+           W-1020                                      AN365-1032,
+                                                        2 PLACES
+                                                 AN960-10,
+                                                 2 PLACES
+                    FIGURE 1:
+                                                                                                                                   FUEL TANK SKIN ATTACH
+             TIE-DOWN BRACKET AND
+          AILERON BELLCRANK BRACKET                                                                                                ACCESS PLATE ATTACH
+                  INSTALLATION
+                                                                                                                                   ACCESS PLATE NUTPLATE ATTACH
+
+                                                                                                                                   FUEL TANK SKIN NUTPLATE ATTACH
+
+                                                                                                                                   NO SYMBOL = SKIN or SKIN AND RIB or RIB ATTACH
+
+
+
+
+                                                DO NOT                                                                     DO NOT                                DO NOT
+                                             MATCH-DRILL                                                                MATCH-DRILL                           MATCH-DRILL
+                                          LOWER J-STIFFENER
+                                                                                                   FIGURE 2:         LOWER J-STIFFENER                     LOWER J-STIFFENER
+                                             IN THIS AREA                                   MAIN SPAR FLANGE HOLE       IN THIS AREA                          IN THIS AREA
+                                                                                            IDENTIFICATION DIAGRAM
+
+                                                                                                                                                                                DATE: 07/24/14 REVISION: 0   RV-10   PAGE   13-5
+                  VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                     THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE   13-6   RV-10   REVISION: 0   DATE: 07/24/14
+

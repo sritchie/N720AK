@@ -1,0 +1,303 @@
+=== PAGE 40-1 ===
+SECTION 40: FLAP SYSTEM
+
+VAN'S AIRCRAFT, INC.
+DATE: 6/22/04  REVISION: 0  RV-10  PAGE 40-1
+
+[Isometric overview drawing of flap system installation]
+
+Part callouts:
+- F-1005, REAR SPAR BULKHEAD ASSEMBLY
+- WD-1013C, FLAP TORQUE TUBE, 2 PLACES
+- WD-1013A, FLAP CRANK
+- F-1030, UHMW BUSHING, 4 PLACES
+- ES 85615-10, FLAP MOTOR
+- F-1066B-R, FLAP MOTOR ATTACH ANGLE
+- F-1066B-L, FLAP MOTOR ATTACH ANGLE
+- WD-1013B, FLAP HORN, 2 PLACES
+
+
+=== PAGE 40-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 40-2  RV-10  REVISION: 0  DATE: 6/22/04
+
+Step 1: Study Figure 1 carefully.
+
+NOTE: There are only two pre drilled holes at the inboard end of WD-1013C Flap Torque Tube and four pre drilled holes at the outboard end.
+
+FIGURE 1: FLAP TORQUE TUBE ORIENTATION
+[Drawing showing WD-1013C with WD-1013A, indicating:]
+- WD-1013A
+- WD-1013C
+- FOUR PRE-DRILLED HOLES OUTBD.
+- TWO PRE-DRILLED HOLES INBD.
+
+Step 2: Slide a WD-1013C Flap Torque Tube into the WD-1013A Flap Crank and align them by using the pre-drilled holes as shown in Figure 2.
+
+FIGURE 2: ASSEMBLE FLAP CRANK AND FLAP TORQUE TUBE
+[Drawing showing assembly with callouts:]
+- WD-1013A
+- WD-1013C
+- ALIGN THESE TWO SETS OF HOLES
+- (FOUR HOLES)
+- (TWO HOLES)
+
+Step 3: Cleco the WD-1013C Flap Torque Tube to the inboard most set of holes in the WD-1013A Flap Crank as shown in Figure 3. Match-Drill the flap torque tube as per the callout. Match-Drill both 1/8 diameter holes from the outside in, using the pre-drilled holes in the flap crank as guides.
+
+FIGURE 3: MATCH AND FINAL-DRILL FLAP CRANK AND FLAP TORQUE TUBE
+[Drawing showing:]
+- WD-1013A
+- MATCH-DRILL #30, FINAL-DRILL #12, 2 PLACES
+- WD-1013C
+- CLECO, 2 PLACES
+
+Step 4: Bolt the WD-1013A Flap Crank to the WD-1013C Flap Torque Tube as shown in Figure 4. Remove the clecos. Drill as per the callout. Install a second set of hardware like the first in this hole.
+
+FIGURE 4: BOLT AND DRILL FLAP CRANK AND FLAP TORQUE TUBE
+[Drawing showing:]
+- WD-1013A
+- AN365-1032
+- AN960-10
+- WD-1013C
+- FINAL-DRILL #12, 2 PLACES
+- AN3-14A
+
+Step 5: Slide a WD-1013B Flap Horn into the WD-1013C Flap Torque Tube as shown in Figure 5.
+
+FIGURE 5: ASSEMBLE FLAP HORN AND FLAP TORQUE TUBE
+[Drawing showing WD-1013C with WD-1013B inserted]
+
+Step 6: Drill a 1/4 dia. hole in the W-730 Bellcrank Jig using the dimensions shown in Figure 6.
+
+FIGURE 6: DRILL BELLCRANK JIG
+[Drawing showing jig dimensions:]
+- dia. 1/4
+- 1/2
+- 1 31/32
+
+
+=== PAGE 40-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/22/04  REVISION: 0  RV-10  PAGE 40-3
+
+Step 1: Clamp the WD-1013A Flap Crank to a flat table as shown in Figure 1.
+
+NOTE: The center portion of the flap crank (along welded seam) will not be flush with the table due to the manufacturing process. This has been taken into account. Do not modify the weldment.
+
+Bolt the W-730 Bellcrank Jig to the WD-1013B Flap Horn using the hardware shown. This will set the angle of the flap horn relative to the flap crank. Set the lateral position of the flap horn as per Figure 2. Clamp the flap horn into this position using a vise-grip (with padded jaws) placed over the inboard set of 1/8 diameter holes. Leave this vise-grip in place while removing the other clamps holding the assembly to the table.
+
+Match-Drill #30 the flap horn using the outboard set of 1/8 diameter holes in the WD-1013C Flap Torque Tube as guides. Continue drilling to final size as per the callout. Insert hardware as per Figure 1.
+
+FIGURE 1: DRILLING FLAP TORQUE TUBE AND FLAP HORN
+[Drawing showing assembly clamped to table with callouts:]
+- WD-1013A
+- CLAMP TO TABLE
+- WD-1013C
+- VISE-GRIP
+- AN365-428
+- W-730
+- AN960-416
+- AN4-11A
+- WD-1013B
+- MATCH-DRILL #30, DRILL #12, FINAL-DRILL 1/4, 2 PLACES
+
+FIGURE 2: LATERAL POSITION OF FLAP HORN
+[Drawing showing:]
+- WD-1013A
+- WD-1013C
+- WD-1013B
+- 24 7/16 +/- 1/32
+
+
+=== PAGE 40-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 40-4  RV-10  REVISION: 0  DATE: 6/22/04
+
+Step 1: Bolt the WD-1013B Flap Horn to the WD-1013C Flap Torque Tube as per Figure 1.
+
+Match-Drill #30 the flap horn at two places using the torque tube as a guide. Drill #12 then final-drill 1/4.
+
+Mark the parts so they can be reassembled as drilled and identified as the parts to be used on the left side of the aircraft.
+
+Step 2: Disassemble and deburr all parts.
+
+FIGURE 1: BOLT AND DRILL FLAP TORQUE TUBE AND FLAP HORN
+[Drawing showing:]
+- AN4-14A
+- MATCH-DRILL #30, DRILL #12, FINAL-DRILL 1/4, 2 PLACES
+- WD-1013C
+- WD-1013B
+- AN960-416
+- AN365-428
+
+Step 3: Repeat Step 1, Page 40-2 through Step 1 on this page for the flap torque tube and flap horn on the right side of the plane. The right side is the mirror of the left.
+
+Prime the inside of the tubes.
+
+Step 4: Trim the four F-1030 UHMW Bushings as per the callouts in Figure 2. Only one area must be trimmed for clearance while the other two areas are optional for a small weight reduction. It is acceptable to radius the corners of the UHMW bushings approximately as shown in Figure 3.
+
+FIGURE 2: OPTIONAL TRIM OF UHMW BUSHING
+[Drawing showing bushing dimensions:]
+- REQUIRED TRIM: 1 1/4
+- R3/8
+- 5/8
+- R1
+- FWD SIDE
+- OPTIONAL TRIM: 7/8
+- R1/2
+- 1
+- 3/8
+- 7/8
+- R7/16
+
+Step 5: Slide one F-1030 UHMW Bushing onto each WD-1013C Flap Torque Tube as shown in Figure 3. This UHMW bushing will eventually be positioned to the inboard side of the system.
+
+This will form the Right and Left Subassemblies. The Left Subassembly is shown in Figure 3.
+
+NOTE: Remaining depictions of the UHMW bushing show optional rounded corners.
+
+FIGURE 3: PRE-INSTALL UHMW BUSHING
+[Drawing showing:]
+- #12 HOLES
+- WD-1013C
+- 1/4 HOLES
+- INBOARD END
+- FWD SIDE
+- F-1030
+
+
+=== PAGE 40-5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/22/04  REVISION: 0  RV-10  PAGE 40-5
+
+Step 1: Install the Left Subassembly into the 1-1/8 diameter hole in the F-1016F-L Inbd Footwell Rib as shown in Figure 1.
+
+Install a second F-1030 UHMW Bushing onto the Left Subassembly as it passes through the F-1016-L Outbd Footwell Rib.
+
+Step 2: Repeat Step 1 for the Right Subassembly (shown partially installed).
+
+Step 3: Slide the Left and Right Subassemblies outboard as shown by the Right Subassembly in Figure 1. Lower the WD-1013A Flap Crank into position then insert the left and right subassemblies into the flap crank.
+
+Step 4: Rotate the F-1030 UHMW Bushings into position with the thicker wall forward as per Figure 2. Bolt the UHMW bushings in place using the hardware called out in Figure 1.
+
+FIGURE 1: FLAP TORQUE TUBE AND UHMW BUSHING INSTALLATION (SOME PARTS OMITTED FOR CLARITY)
+[Drawing showing installation with callouts:]
+- F-1016-R
+- RIGHT SUBASSEMBLY
+- F-1016F-R
+- WD-1013A
+- AN3-11A, 4 PLACES
+- AN365-1032, 4 PLACES
+- AN960-10L, 4 PLACES
+- F-1016F-L
+- LEFT SUBASSEMBLY
+- 2X AN960-10, 8 PLACES
+- AN3-12A, 4 PLACES
+- F-1030, 4 PLACES
+- F-1016-L
+
+FIGURE 2: UHMW BUSHING ORIENTATION
+[Drawing showing bushing positioned in footwell rib with callouts:]
+- F-1030
+- F-1016-L
+
+
+=== PAGE 40-6 ===
+VAN'S AIRCRAFT, INC.
+PAGE 40-6  RV-10  REVISION: 0  DATE: 6/22/04
+
+Step 1: Make two WD-1013J Spacers from AT6-058X3/8 as shown in Figure 1.
+
+FIGURE 1: WD-1013J SPACER FABRICATION
+[Drawing showing spacer dimensions:]
+- 3/16 length
+- dia. 3/8 REF.
+- 0.058 REF. wall
+
+Step 2: Make one F-1066D Spacer from AT6-058X3/8 as shown in Figure 2.
+
+FIGURE 2: F-1066D SPACER FABRICATION
+[Drawing showing spacer dimensions:]
+- 19/32 length
+- dia. 3/8 REF.
+- 0.058 REF. wall
+
+Step 3: Make one F-1066E Spacer from AT6-058X3/8 as shown in Figure 3.
+
+FIGURE 3: F-1066E SPACER FABRICATION
+[Drawing showing spacer dimensions:]
+- 7/32 length
+- dia. 3/8 REF.
+- 0.058 REF. wall
+
+Step 4: Drill a 1/16 diameter hole through the upper lip of the ES 85615-10 Flap Motor to accept safety wire as shown in Figure 4. This hole should exit outside the profile of the jam-nut (but within its outside diameter) as shown in Figure 4. Avoid removal of the jam-nut and rod end since the length of the assembly has been set at the factory.
+
+FIGURE 4: DRILL HOLE IN FLAP MOTOR
+[Drawing showing:]
+- DRILL 1/16
+- ES-85615-10
+
+
+=== PAGE 40-7 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/22/04  REVISION: 0  RV-10  PAGE 40-7
+
+Step 1: Bolt the WD-1013A Flap Crank to the WD-1013C Flap Torque Tubes as per the callouts in Figure 1.
+
+With the F-1066B-L Flap Motor Attach Angle free from the F-1066A Bracket, slip the AN4-20 bolt through it, the F-1066E Spacer, the ES 85615-10 Flap Motor lug, and the F-1066D Spacer. Lower this assembly onto the F-1066A Bracket and then insert the bolt into the F-1066B-R Flap Motor Attach Angle. Add the washers and nut as per the callout but do not tighten.
+
+Bolt the F-1066B-L Flap Motor Attach Angle to the F-1066A Bracket using the hardware called out. Snug down the AN310-4 nut. Check for interference between the flap motor and the flap motor attach angles and adjust the spacers if/as required to eliminate any interference.
+
+Bolt the flap motor's rod end to the flap crank using the hardware called out. Adjust the length of the spacers for a net fit into the resulting gaps between the flap crank and the flap motor rod end. Tighten the self-locking nut.
+
+Tighten the castle nut just enough to remove end play but not so much as to add friction. Add the cotter pin to the AN4-20 bolt as per the callout.
+
+Step 2: Route the safety wire through the new hole in the ES 85615-10 Flap Motor, around the WD-1013J Spacer and back to the flap motor, winding it securely as shown in Figure 2.
+
+FIGURE 1: FLAP MOTOR INSTALLATION (SOME PARTS NOT SHOWN FOR CLARITY)
+[Drawing showing flap motor installation with callouts:]
+- AN365-428
+- AN960-416
+- WD-1013J
+- AN4-12A
+- WD-1013A
+- AN3-14A, AN960-10, AN365-1032, 4 PLACES
+- WD-1013C
+- MS24665-208
+- AN310-4
+- AN960-416
+- ES 85615-10
+- F-1066D
+- F-1066E
+- F-1066B-L
+- F-1066B-R
+- F-1066A
+- AN3-5A, 2 PL.
+- AN960-10L, 2 PL.
+- AN960-10, 2 PL.
+- AN4-20
+- WD-1013C
+
+FIGURE 2: SAFETY WIRE FLAP MOTOR
+[Drawing showing:]
+- WD-1013A
+- SAFETY WIRE
+- WD-1013J
+- ES 85615-10
+
+
+=== PAGE 40-8 ===
+VAN'S AIRCRAFT, INC.
+PAGE 40-8  RV-10  REVISION: 0  DATE: 6/22/04
+
+Step 1: Bolt the WD-1013B Flap Horn to the WD-1013C Flap Torque Tube as per Figure 1. The left side of the aircraft is shown in Figure 1. Repeat this step for the right side of the aircraft.
+
+FIGURE 1: ATTACHING THE FLAP HORNS (SOME PARTS OMITTED FOR CLARITY)
+[Drawing showing flap horn attachment with callouts:]
+- AN4-14A, 2 PLACES
+- F-1070-L
+- WD-1013C
+- F-1030
+- AN960-416, 4 PLACES
+- WD-1013B
+- AN365-428, 2 PLACES

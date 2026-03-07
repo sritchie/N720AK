@@ -1,0 +1,81 @@
+=== PAGE 50-1 ===
+SECTION 50: CABIN HEAT AND VENTILATION
+VAN'S AIRCRAFT, INC.
+DATE: 12/18/07 | REVISION: 1 | RV-10 | PAGE 50-1
+
+[Title page with isometric view of cabin heat system installation]
+
+Callouts:
+- FWD HEATER HOSE
+- F-1051J SCAT TUBE SUPPORT
+- VENT SV-10, 2 PLACES
+- AFT HEATER HOSE
+- F-1051H SCAT ANTI-CHAFE
+- VA-175 HEAT DUCT TEE, 2 PLACES
+
+
+=== PAGE 50-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 50-2 | RV-10 | REVISION: 1 | DATE: 12/19/07
+
+Step 1: Attach the F-1051J SCAT Tube Support to the F-1048-R Fwd Fuselage Rib using the hardware called-out in Figure 1.
+
+Step 2: Cut a piece of Rubber Channel to make the F-1051H Scat Anti-Chafe shown in Figure 2. Remove the top flange (see the blow-up), then press the scat anti-chafe onto the F-1004A Center Section Bulkhead.
+
+Step 3: Cut a 10 inch (approximately) length of SCAT tube to use as the Forward Heater Hose. Secure the forward heater hose to the VENT TG-10-L Cabin Heat Selector Box and the forward VA-175 Heat Duct Tee using the hose clamps called-out in Figure 3.
+
+Step 4: Cut a 54 inch (approximately) length of SCAT tube to use as the Aft Heater Hose. Thread the aft heater hose through the F-1051J SCAT Tube Support, then secure it to the VENT TG-10-R Cabin Heat Selector Box using the hose clamp called-out in Figure 3.
+
+Step 5: Direct the Aft Heater Hose over the F-1048C-1 Fuel Valve Bracket and to the right of the VA-178A Fuel Handle Shaft as shown in Figure 4. Direct the aft heater hose over the F-1051J SCAT Anti-Chafe, then secure the end to the aft VA-175 Heat Duct Tee using the hose clamp called-out in Figure 4.
+
+Step 6: Apply high-temp RTV silicone around the Aft Heater Hose to protect it from the F-1051J SCAT Tube Support, and along the top to protect it from the F-1051A Fwd Tunnel Cover and Aft Tunnel Cover Assembly. Install the two tunnel covers as shown on Page 35-6, and the Fuel Valve Handle as shown on Page 37-7.
+
+FIGURE 1: ATTACHING THE SCAT TUBE SUPPORT
+Callouts:
+- F-1048-R
+- AN509-8R8, 2 PLACES
+- F-1051J
+
+FIGURE 2: INSTALLING THE SCAT ANTI-CHAFE
+Callouts:
+- REMOVE FLANGE
+- F-1051H
+- F-1004A
+
+FIGURE 3: ATTACHING THE HEATER HOSES
+Callouts:
+- VENT TG-10-L
+- VENT TG-10-R
+- AN737TW-66, 3 PLACES
+- FWD HEATER HOSE
+- VA-175
+- AFT HEATER HOSE
+
+FIGURE 4: ATTACHING THE AFT HEATER HOSE
+Callouts:
+- VA-178A
+- AFT HEATER HOSE
+- AN737TW-66
+- VA-175
+- F-1051H
+
+
+=== PAGE 50-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 12/18/07 | REVISION: 0 | RV-10 | PAGE 50-3
+
+NOTE: This page describes the installation of a VENT SV-10 to the right side of the aircraft. The left installation is a mirror of the right.
+
+Step 1: Mix and apply tank sealant to the flange around the VENT SV-10 Remote Vent. Center the vent around the NACA shaped cutout in the F-1069-R Forward Side Skin, then clamp the vent in place and let the tank sealant cure. See Figure 1.
+
+FIGURE 1: REMOTE VENT INSTALLATION
+Callouts:
+- VENT SV-10
+- NACA CUTOUT
+
+
+=== PAGE 50-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 50-4 | RV-10 | REVISION: 0 | DATE: 12/18/07
+
+THIS PAGE INTENTIONALLY LEFT BLANK

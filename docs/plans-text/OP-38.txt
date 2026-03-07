@@ -1,0 +1,358 @@
+=== PAGE 1 ===
+VAN'S AIRCRAFT, INC.
+
+OP-38: ELECTRIC AILERON TRIM
+
+VA-158
+AILERON TRIM
+SPRING, 2 PLACES
+
+W-1033C
+AILERON TRIM ARM
+
+W-1017B
+AILERON TRIM SPRING BRACKET
+
+W-1033A
+AILERON TRIM
+BRACKET
+
+RAY ALLEN T2-10A
+TRIM SERVO
+
+W-1033B
+AILERON TRIM
+LINK, 8 PLACES
+
+NOTE: Special Tools required to complete this section
+include a #28 Drill Bit and a Molex Hand Crimp Tool.
+
+DATE: 09/29/16  REVISION: 1  RV-10/14  OP 38-01
+
+=== PAGE 2 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: Installation of the Electric Aileron Trim system may be accomplished regardless of whether the wings are
+installed on the aircraft.
+
+Step 1: Separate and label the W-1033A Aileron Trim Mounting Brackets as shown in Figure 1.
+
+Step 2: Final-Drill #30 the holes shown.
+
+FINAL-DRILL #30 ALL 1/8 [3.2 mm] HOLES,
+14 PLACES
+
+REMOVE GREY
+AREAS
+
+W-1033A AFT
+
+W-1033A FORWARD
+
+FIGURE 1: AILERON TRIM BRACKETS
+
+Step 3: Final-Drill #30 all holes in the W-1033B Aileron Trim Links.
+
+Step 4: Separate the W-1033B Aileron Trim Links as shown in Figure 2.
+
+Step 5: Prime the forward & aft aileron trim brackets, aileron trim links, and
+W-1033C Aileron Trim Arm as desired.
+
+REMOVE GREY AREAS
+
+W-1033B
+
+FIGURE 2: AILERON TRIM LINKS
+
+Step 6: Assemble the Trim Actuation Assembly as shown in Figure 3.
+
+Ensure that the aileron trim arm can move freely without binding.
+
+W-1033B,
+6 PLACES
+
+W-1033A-FORWARD
+
+AN470AD4-7,
+4 PLACES
+
+SB375-3
+
+ES-00044
+(RV-14 REQUIRED)
+(RV-10 OPTIONAL)
+
+MS20392-1C9
+3X NAS1149FN432P
+MS24665-132
+
+W-1033A-AFT
+
+W-1033C
+
+FIGURE 3: TRIM ACTUATION ASSEMBLY
+
+OP 38-02  RV-10/14  REVISION: 1  DATE: 09/29/16
+
+=== PAGE 3 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Final-Drill #28 the 1/8 in. [3.2 mm] holes in the trim servo into the matching holes in the
+Trim Actuation Assembly.
+
+Step 2: Assemble the Aileron Trim Actuation Assembly as shown in Figure 1.
+
+Step 3: Strip approximately 1/2 in. [12.7 mm] of insulation from the ends of the wires in the wire
+bundle.
+
+TRIM SERVO
+
+4X AN365-632A
+
+4X AN515-6R8
+
+ROUTE
+WIRE BUNDLE
+THROUGH
+BUSHING
+
+AILERON TRIM
+ACTUATION ASSEMBLY
+
+2X MS24665-132
+
+2X W-1033B
+
+2X MS20392-1C9
+
+FIGURE 1:
+AILERON TRIM
+ACTUATION ASSEMBLY
+
+W-1033C
+
+DATE: 09/29/16  REVISION: 1  RV-10/14  OP 38-03
+
+=== PAGE 4 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: RV-14 Builders must use the inboard-most wing access plate in the RIGHT WING.
+
+RV-10 Builders have the option to install the aileron trim in the inboard-most wing access
+plates in either the LEFT OR RIGHT WINGS. The installation is identical for either side.
+
+NOTE: For all steps on this page, refer to Figure 1.
+
+Step 1: Position the Aileron Trim Actuation Assembly on the interior surface of the W-822PP
+Wing Access Plate (hereafter referred to as "access plate") where shown.
+
+Step 2: Match-Drill #30 and cleco the four holes in the Aileron Trim Actuation Assembly into the access plate.
+
+Step 3: Verify that the aft edge of the Aileron Trim Actuation Assembly does not interfere with the
+W-00004-R Bottom Inboard Wing Skin when the access plate is installed.
+
+If interference occurs, verify that the Aileron Trim Actuation Assembly is positioned
+according to the dimensions shown. If necessary, trim the aft flange of the assembly
+to clear the skin.
+
+Step 4: Final-Drill #19 the four #30 holes in the Aileron Trim Actuation Assembly
+into the access plate.
+
+Step 5: Dimple the holes in the bottom flanges of the Aileron Trim Actuation Assembly flush
+on the bottom side.
+
+Step 6: Rivet the nutplates to the bottom flanges of the Aileron Trim Actuation Assembly as shown.
+
+Step 7: Dimple the four holes drilled in the access plate in Step 4 flush on the bottom side to
+fit the head of a #8 screw.
+
+Step 8: Attach the Aileron Trim Actuation Assembly to the access plate using the screws shown.
+
+Step 9: To ensure that the trim servo actuator arm is neutrally positioned, touch the ends of the two white
+wires to a 12 volt battery and run the servo all the way to full displacement in one direction. Reverse the
+wires and run the servo to full displacement in the opposite direction. Using both endpoints of the servo's
+range of motion as references, run the servo so that the actuator arm is positioned halfway between the
+two endpoints.
+
+Step 10: Temporarily re-install the wing access plate on the bottom of the wing to verify clearances
+between the Aileron Trim Actuation Assembly and previously installed components.
+
+4X K1100-08
+
+AILERON PUSHROD
+
+8X AN426AD3-3.5
+
+AILERON TRIM ACTUATION ASSEMBLY
+
+UP
+FWD
+
+RIGHT
+
+3/4
+[19.1 mm]
+
+1 1/2
+[38.1 mm]
+
+4X MATCH-DRILL #30
+
+4X AN509-8R8
+
+ACCESS PLATE
+
+FIGURE 1:
+AILERON TRIM ACTUATION
+ASSEMBLY INSTALLATION
+
+OP 38-04  RV-10/14  REVISION: 2  DATE: 01/12/17
+
+=== PAGE 5 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Separate the W-1017B-L and W-1017B-R Aileron Trim Spring Brackets
+as shown in Figure 1.
+
+Step 2: Temporarily install the Aileron Trim Actuation Assembly in the wing.
+Position the aileron pushrod in a neutral position so that there is no aileron
+deflection on either wing.
+
+Step 3: With a neutral aileron position and a neutral aileron trim arm position,
+mark the centerline of the aileron trim arm onto the aileron pushrod.
+
+Step 4: Disconnect the aileron pushrod from the Aileron Actuation System
+at both the root and the tip of the wing.
+
+NOTE: The following steps may also be accomplished through the
+wing access holes without removing the pushrod from the wing.
+
+Step 5: If desired, remove the aileron pushrod for better access by pulling
+it out through the outboard end of the wing.
+
+Step 6: Mark lines on the aileron pushrod 6 in. [152.4 mm] to either side of the mark made in Step 3.
+
+Step 7: Align the each aileron trim spring bracket with the marks made in Step 6, then match-drill #30 the holes in the aileron trim
+spring brackets into the aileron pushrod. See Figure 2.
+
+Step 8: Rivet the aileron trim spring brackets to the aileron pushrod.
+
+Step 9: Reinstall the aileron pushrod back into the wing as described in Section 23 (RV-10 and RV-14).
+
+Step 10: Install the two VA-158 Aileron Trim Springs as shown in Figure 2. Begin by hooking the springs to the aileron trim spring
+brackets.
+
+Next, position the Aileron Trim Actuation Assembly partially in the wing, then connect the springs to the aileron trim arm.
+Finally, re-install the access panel.
+
+W-1017B-L
+
+W-1017B-R
+
+REMOVE
+GREY
+AREAS
+
+FIGURE 1: SEPARATE AILERON
+TRIM SPRING BRACKETS
+
+6 [152.6 mm]
+
+W-1017B-L
+
+4X LP4-3
+
+AILERON TRIM ACTUATION ASSEMBLY
+
+W-1033C
+
+2X VA-158
+
+W-1017B-R
+
+AILERON PUSHROD
+
+FIGURE 2:
+BRACKET AND SPRING
+INSTALLATION
+
+NOTE: Perform the following steps once the wing has been
+installed and the elevator and aileron control systems have been
+connected.
+
+Step 11: Remove the wing root fairing, then use a mirror to look through the wing at the Aileron Trim Actuation Assembly.
+
+Step 12: Move the controls through their full range of motion (maximum aileron deflection with stick neutral, stick back, and
+stick forward). Verify that there is no interference between the aileron pushrod and the W-1033C Aileron Trim Arm. If necessary,
+bend the aileron trim arm to provide clearance for the aileron pushrod.
+
+Step 13: Remove the access panel and Aileron Trim Actuation Assembly from the wing, then complete the electrical portion of the
+Electric Aileron Trim System installation as described on Page OP 38-6.
+
+DATE: 11/28/16  REVISION: 1  RV-10/14  OP 38-05
+
+=== PAGE 6 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: See Section 5.21 for more information on open barrel terminals.
+
+NOTE: Steps 1-6 pertain to the RV-14 ONLY.
+
+Step 1: Crimp the ES-00047 Molex Micro-Fit Pins onto the stripped ends of the wire
+bundle using a molex hand crimp tool. See Figure 1.
+
+Step 2: Connect the trim servo to the Molex connector as shown in Figure 1.
+The two white wires may be inserted into either of the locations indicated.
+
+Step 3: Label the Molex connector as shown in Figure 5.
+
+Step 4: Install the Electric Aileron Trim System into the wing as described on Page OP 38-5.
+
+Step 5: Connect C406P to C406J (in the WH-00013 Autopilot Servo Harness).
+
+Step 6: Verify the correct operation of the Electric Aileron Trim System through the control mechanism
+(EFIS, switch, or control box).
+
+If the operation of the Electric Aileron Trim System is reversed, unpin and swap the positions of the
+C1031 (WHT) and C1032 (WHT) wires found at the C405J Molex receptacle (located on the inboard
+side of the right wing). See the WH-00125 Common Fuselage Harness drawing for more information.
+
+NOTE: The following steps pertain to the RV-10 ONLY.
+
+Step 7: Route wires to the cabin, mount switch(es), and position indicator.
+
+Step 8: Make appropriate electrical connections in accordance with instructions supplied with the trim
+servo.
+
+Step 9: Install the Electric Aileron Trim System as described on Page OP 38-5.
+
+Step 10: Verify the correct operation of the Electric Aileron Trim System through the
+control mechanism (EFIS, switch, or control box).
+
+If the operation of the Electric Aileron Trim System is reversed, swap the connections for the GRY and
+WHT wires in the trim servo wiring bundle.
+
+ES-00047, TYP
+
+ES-00044,
+LABEL THIS
+"C406P"
+
+GRN
+
+GRY
+WHT
+BLU
+
+END POSITION 1
+MARKED ON
+CONNECTOR
+
+TRIM SERVO
+
+WIRING BUNDLE
+
+FIGURE 1: RV-14 TRIM
+SERVO WIRING
+
+OP 38-06  RV-10/14  REVISION: 2  DATE: 09/18/18

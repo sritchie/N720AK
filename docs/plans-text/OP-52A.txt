@@ -1,0 +1,114 @@
+                                                                                                                                                                 VAN'S AIRCRAFT, INC.
+
+
+             SECTION OP-52A: AERO LEDS
+             SUN SPOT LX
+             Refer to the AeroLEDs installation instructions for more information.                        0.395 in.
+                                                                                                         [10.0 mm]
+             Step 1: Fabricate four W-00021 Spacers from .058X5/16 6061-T6 TUBE
+             as shown in Figure 1.
+                                                                                                                                                                      4X AN515-6R12
+             Step 2: Remove the tabs from the W-00016B AeroLEDs
+                                                                                                                                              W-00016B          W-00016A
+             Sun Spot LX Bracket as shown in Figure 2. Radius any
+             sharp corners.                                                                                                         2X DEBURR SLOT         4X W-00021
+                                                                                FIGURE 1: SPACER TEMPLATE
+             Step 3: Deburr the slots in the bracket to allow an AN3 bolt to          (CHECK PRINTED SCALE 1:1            REMOVE HATCHED AREAS            LL-00008
+             slide easily within the slot.                                           PER SECTION 3 BEFORE USING
+                                                                                           THE TEMPLATE!)             AN3-4A
+             Step 4: Rivet the nutplates to the bracket as shown in Figure 2.                                         MS21919DG3
+                                                                                                                                         W-00017
+             Step 5: Prime and/or paint the spacers, bracket, and W-00016A                                                               (IN WING)
+             Retainer Ring as desired.
+
+             Step 6: Assemble the Landing Light Assembly as shown in
+             Figure 2, but do not install it in the wing yet.
+
+
+
+
+  10 9/16
+[268.3 mm]
+
+
+                                                                                                                                                                                    8X AN470AD3-3
+                                                                                                                                                                                  4X K1000-06
+
+                                                                                                                                                                         AN3-4A
+                                                                                                                                                                         NAS1149F0332P
+                                                                                                                       MS21919DG3
+
+                                                                                                                                                         FIGURE 2: LANDING LIGHT ASSEMBLY
+                                                                                                                                                                 AND INSTALLATION
+
+
+
+
+                                                                                                                                                                     DATE: 03/14/16 REVISION: 0   RV-10/14   PAGE: OP52A-01
+                       VAN'S AIRCRAFT, INC.
+
+                           NOTE: See Section 5.21 for more information on wire stripping and closed barrel terminals.
+
+                           NOTE: For Steps1-10, refer to Figure 1.                                                                                                                         WING SPAR
+                                                                                                                                                                                                         ES 36152
+  NOTE: The Landing Light and Wing Tip Nav Lights are grounded to the fuselage via the L418 (YEL) wire
+
+
+
+
+                                                                                                                                                                            FROM
+                                                                                                                                                                            C401J
+                                                                                                                                                    WH-00011
+  and the P2176 (BLK) wire in the WH-00125 RV-14 Common Fuselage Wiring Harness (installed later).
+
+
+
+
+                                                                                                                                         WH-00125
+                                                                                                                                                                                    L422   BLK
+  This grounding location was chosen to minimize electromagnetic interference with wing mounted
+  ADAHRS and Magnetometers. See Figure 3.
+                                                                                                                                                                                      ES 320559
+  Step 1: Strip the ends of the L422 (BLK), L417 (RED), and L418 (YEL) wires.                                                                                  L419   WHT           L419   WHT                                                 +
+                                                                                                                           P2176   BLK                         L418   YEL           L418   YEL
+  Step 2: (ONLY if Wing Tip Nav Strobe Lights WILL NOT BE INSTALLED. )
+                                                                                                               ES 320565
+  Crimp an ES 302559 Butt Splice onto the L422 (BLK) wire.                                                                                                     L417   RED                         L417    RED
+
+
+  Step 3: Crimp the ring terminals onto the wires stripped in Step 1.                                                                                                                                       ES 320619
+
+  Step 4: Connect the ring terminals to the terminals on the LL-00008 AeroLED Sun Spot LX.                                                                                                                              LL-00008
+
+                                                                                                                                                                                                                                   POSITIVE TERMINAL
+  Step 5: Crimp the butt splice onto the end of the L419 (WHT) wire. It is not necessary to strip this wire.
+
+  Step 6: Install the Landing Light Assembly into the wing as shown on Page OP52A-02, Figure 2.                                                                                                                                     FIGURE 1: WIRING
+  Use caution to avoid overtightening the screws.
+
+  Step 7: Secure the wires and butt splice using the adel clamp and tie wraps as necessary so the wires
+  do not contact the lower wing skin. See Figure 2.
+
+  WARNING: Do not test the landing lights without temporarily grounding the appropriate ground wires!
+
+
+
+
+                                  TIE WRAP, TYP
+
+
+
+
+                                                                                                                                                    FUSELAGE GROUND LOCATION
+
+
+                                                                                                                                                                              FIGURE 3: GROUND LOCATION
+                         ADEL CLAMP
+
+
+
+
+                   FIGURE 2: SECURE LANDING LIGHT WIRES
+
+PAGE: OP52A-02   RV-10/14     REVISION: 0   DATE: 03/14/16
+

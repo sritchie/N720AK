@@ -1,0 +1,112 @@
+                                                                                                                                                                        NOTE 2                     CONNECTIONS TO RADIO
+
+ ES 205089-1 CRIMP PIN                                                                                                                                                                             TRANSMIT KEY
+  PIN CAN ACCEPT UP TO                                                                                                                                                                             RECEIVE(PHONES) AUDIO
+    22 AWG WIRE TYPICAL
+
+
+
+                                                                                                                                                                                                                                                   Z
+                                                                                                                                                                                                                                AUXILIARY AUDIO
+
+
+
+                                                                                                                                                                                                        ^
+              20 PLACES                                                                                                                                                                            TRANSMIT(MIC) AUDIO
+                                   8         STEREO                                          IN                                                                                                                                  OUTPUT JACK
+                                                                                                                                                             ES RS
+                                                                                                                                                             274-249                                                          (FOR VIDEO CAMERA)
+                                   21              STEREO                                     IN
+                                                                                                                                                             STEREO                                                                                   -1
+                                                                                                                                                             JACK               ES B 18004-59                 47K ohm
+                                   18                                     Z5                                   C
+                                                                                                                                                                              FOUR POST TERMINAL
+                                   19       Z6                                                                                                                                   STRIP. MOUNT TO
+                                                                                                                                                                                   SUB PANEL
+                                   7 I o ^, PILOT PUSH-TO-TALK7                                                                                                                                                         47K ohm 10
+                                   6 PASSENGER PUSH-TO-TALK
+                                                                                                                                                                                                                         ES RS 274-249
+                                   20 RZ10 NOTE 1 D RADIO POWER:                                                                    OPTIONAL-                                                                               STEREO JACK
+SEE INSTRUCTIONS:                                                         20 TO RADIO POWER TERMINAL ON WH-800. NOTE 5                                                                                                                    NOTE 6
+  1) JUMPER
+                                                                                                                                                                                                        ^       OPTIONAL                           J
+     FOR USE WITH
+     FC-403MC.
+                             I          I    (1R4NGF                                                     I
+  2) JUMPERS CAN                   2                                                                                                 NOTE 4
+      BE REMOVED                                                                                                                                             TO PILOT HEADSET
+      FOR DIFFERENT                9                                                                                                                                                            METAL
+                                                                                                                                                                                              CONTACT             NOTE        9
+      MUTING OPTIONS.
+                                   10                                                                                                                                                       LU E
+  3) OMIT JUMPERS FOR                                                                                                           SHIELD                                                                        10        9
+                                                  GREEN
+      FC-403D.                                                                                                                                                                                       NOTE 6
+                                                                                - FC-403D ONLY
+                                   23                                                                                          G5                                                           IHITE
+                                                                    BROWN -
+                                                                                WIRES FROM DCR                                                                                              PILOT HEADPHONE JACK (1/4 DIA. HOLE)
+                             ^I24                                  ORANGE       CONTROL PANEL &                                                                                                          REAR VIEW
+                                                                                                                         1 z- NOTE 3
+               1 "                                                  YELLOW      SWITCH ASSEMBLY
+                                                                                (FC-403D ONLY)
+     IF APPLICABLE;                22                               RED
+KEEP ALL JUMPERS               I 1                                                                                      17 RADIO GROUND:                                                        METAL             NOTE        8
+ INSIDE CONNECTOR                                                                                                                                                                             CONTACT
+                                                                                               NOTE 4                              TO GROUND
+ HOUSING (TYPICAL)
+                                                                                                                          G4 TERMINAL ON                                                      RANGE
+   F r_                        p17
+                           '4 16                                    BLACK                           SHIELD
+                                                                                                                                   WH-800. NOTE 5
+                                                                                                                                                                                              RFFN
+                                                                                                                                                                                                               2 13
+
+
+
+                                   13            GREE
+      FOR FC-403MC:                                                                                                             SHIELD                                                                        REAR VI                       TYPICAL
+                                   3                                                                                                                 TO PASSENGER HEADSET
+      INSERT JUMPER                                                                                                                                                                                                                         CONFIG-
+      INTO LOCATION 16        II 1 1                                                                                                                                                                                                        URATION
+         ALL OTHERS:                                            ^ SOLDER SPLICE BLACK WIRE
+   I SEE INSTRUCTIONS              12                             (GROUND) FROM DCR TO END                                           NOTE 4                                                    METAL
+                               I                                                                                                                                                              CONTACT              NOTE        9
+                                                                ^F RZ14. (FC-403D ONLY)
+                                                                                                                                                                                            BLUE
+                                                                                                                                                  CAPTIVE                                                     12 11
+                                                                                                                                                  SOLDER                                             NOTE 6
+            ES 205208-1                                                                                                                3/8 SHIELD LENGTH                                    W H ITE
+    25 PIN D-SUB PLUG                                                     SEE DWG OP-23                               WHITE BAND ^- ^ BLUE BAND
+                                                                                                                                                                                            PASS. HEADPHONE JACK (1/4 DIA. HOLE)
+        (PINS ABSENT AT                                                                                                                                                                                  REAR VIEW
+        SOME POSITIONS)
+                                                                          FOR INSTALLATION                          SHIELDED
+                                                                                                                     WIRE(S)
+                                                             NOTES:                                                            ES RTS 142-51
+                                                             1. ES 31890 RING TONGUE, 22-18 AWG, #8 STUD               SHIELD TERM. SLEEVE GROUND WIRE
+    CIRCUIT FUNCTION                                         2. ES 36152 RING TONGUE, 22-18 AWG, #6 STUD                                  DETAIL A
+                                                             3. ES 320562 SPLICE, 16-14 AWG                                                                                                     METAL             NOTE        8
+         LETTER          CIRCUITS                                                                                                   (FOR "PLANS ONLY" KIT1                                    CONTACT
+                                                             4. SEE DETAIL 'A'
+                                                             5. WH-800 IS PART NUMBER FOR 7 POST TERMINAL                                                                             - ORANGE
+           RG RADIO GROUND
+                                                                  BLOCK. SEE DWG OP-10.                                                                                                                        3 13
+           RZ RADIO AUDIO & ICM                                                                                          TALL METAL                             SHORT METAL
+                                                             6. ADD GROUND WIRE IF JACK NOT MOUNTED IN                                                                                -GREEN
+                                                                   METAL STRUCTURE                                          CONTACT                             CONTACT                 PASS. MICROPHONE JACK ^32 DIA. HOLE)
+     ( RZXX) = UNLABELED EXCEPT AS NOTED.
+               FOR EXAMPLE: (RZ11)                           7. ES 320565 RING TONGUE, 16-14 AWG, #8 STUD                                                                                            REAR VIEW ^
+                                                                                                               TERMINAL FOR SHORT                                TERMINAL FOR TALL
+                                                             8. DRILL 1/2 DIA HOLE IF MOUNTING IN FRAME. USE        METAL CONTACT                                METAL CONTACT
+                                                                   PHENOLIC WASHERS TO INSULATE FROM GROUND.
+                          KEY Z5                             9. DRILL 3/8 DIA MOUNTING HOLE.                              -ORANGE
+                                                                                                                                                                                     PUSH
+           CIRCUIT FUNCTION LETTERS                                                                                       -GREEN                                                   I TO
+                                                        WIRE SIZE DESCRIPTION                                                                                                        TALK
+                  WIRE NUMBER                                 24 24 AWG M22759/16-24 WIRE
+                      WIRE GAUGE                             24S 24 AWG M27500/24/TG1T14 ONE COND. SHIELDED WIRE           CONFIGURATION FOR HAND-HELD MICROPHONE
+                                                            24S4 24 AWG M27500/24/TG4T14 FOUR COND. SHIELDED WIRE               MICROPHONE JACK (SMALL HOLE)
+   RZ5                                                        22 22 AWG M22759/16-22 WIRE                                        (AV FC-JACK SET) REAR VIEW
+                                                             16 16 AWG M22759/16-16 WIRE
+

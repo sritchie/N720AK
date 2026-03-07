@@ -1,0 +1,406 @@
+=== PAGE 41Q-1 ===
+SECTION 41Q: UPPER FORWARD FUSELAGE INSTALLATION
+
+VAN'S AIRCRAFT, INC.
+DATE: 8/23/05  REVISION: 0  RV-10  PAGE 41Q-1
+
+[Isometric overview drawing of upper forward fuselage installation - Quadrant version]
+
+Part callouts:
+- F-1071, FWD FUSE TOP SKIN
+- F-1045-R, FWD FUSELAGE RIB
+- F-1001N-FWD-R, COWL ATTACH HINGE
+- F-1068A, SUB PANEL CENTER
+- F-1044, FWD FUSELAGE RIB SUBASSEMBLY
+- F-1001N-FWD-L, COWL ATTACH HINGE
+- F-1068B-L, SUB PANEL SIDE
+- F-1045-L, FWD FUSELAGE RIB
+- F-1001P-FWD-L, COWL ATTACH HINGE
+- CT 10-3, THROTTLE QUADRANT
+- F-1068B-R, SUB PANEL SIDE
+- F-1003C-R, INST PANEL ATTACH FLANGE
+- F-1003A, INSTRUMENT PANEL
+- F-1003B, INST PANEL LOWER FLANGE
+- F-1003E, INST PANEL ATTACH FLANGE
+- F-1003D, INST PANEL ATTACH FLANGE
+- F-1003C-L, INST PANEL ATTACH FLANGE
+
+
+=== PAGE 41Q-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 41Q-2  RV-10  REVISION: 0  DATE: 8/23/05
+
+NOTE: The RV-10 Upper Forward Fuselage has been designed for subassembly off of the fuselage. This means that much of the installation of equipment mounted to the F-1003 Instrument Panel and F-1068 Sub Panel can be accomplished with the subassembly resting on a workbench or other convenient spot where accessibility is greatly enhanced compared to having to complete this work while sitting or laying inside the forward fuselage.
+
+The instrument panel has been designed without bends so that a builder can design a custom layout and then have it fabricated at any local shop with CNC cutting capabilities. In addition to being removable, the instrument panel is designed to be split into separately removable modules. Removal of an instrument panel module allows any work on that module to be done out of the aircraft where more comfortable working conditions prevail. Furthermore, removal of an instrument panel module allows for easy access to any equipment mounted in adjacent instrument panel modules or to the sub-panels.
+
+The non-removable F-1003B Instrument Panel Lower Flange is designed with adequate depth so that electrical switches and breakers can be mounted to it.
+
+Key Information for planning the instrument panel mounted equipment installation:
+
+RV-10 Instrument Panel Tilt Angle = 7.3 degrees
+
+RV-10 Instrument Panel to Sub Panel Distance = 9 1/2 inches
+
+Removal of material from the F-1044 Fwd Fuselage Rib Subassembly OR F-1045-L/R Fwd Fuselage Ribs is not allowed.
+
+Guidelines for cut-outs in the F-1068A and F-1068B-L/R Sub Panels:
+
+Removal of any part of the sub panel lower flange is not allowed.
+
+2 inch maximum diameter for any un-reinforced hole. See Page 41-3Q, Figure 1.
+
+Cut-Outs measuring larger than 2 inches in height or width must be reinforced with:
+.032 doubler ring as shown on Page 41-4Q, Figure 1.
+OR
+3/4 x 3/4 Angle .063 thick 6061-T6 or .032 thick 2024-T3 as shown on Page 41-3Q, Figure 1.
+
+Trimming of the F-1083Q Quadrant Mount Bracket to clear a cut-out in the sub panel is acceptable so long as at least three of the fastener locations remain. See Page 41-3Q, Figure 1.
+
+The "free-leg" of the F-1003C-L/R, F-1003D, and F-1003E Instrument Panel Attach Flanges may be relieved between nutplates if/as required to provide clearance for items mounted to the instrument panel. See Page 41-4Q, Figure 1.
+
+The builder should read this section in it's entirety before selecting the equipment to be installed in the instrument panel and sub panel. This section gives instruction as to how to divide the instrument panel into modules for ease of installation and maintenance as well as instruction as to how to provide proper support for avionics trays without compromising the structural integrity of the upper forward fuselage. The layout of the instrument panel should be established before beginning work.
+
+The F-1003A Instrument Panel dataset is available for builders to use as a starting point for their instrument panel design. Go to the "downloads" section of the Van's Aircraft website to obtain a .dxf format dataset of the instrument panel.
+
+Step 1: Figure 1 depicts a typical instrument panel configuration and gives references for where to find detail views of particular features of the installation.
+
+FIGURE 1: TYPICAL INSTRUMENT PANEL CONFIGURATION
+[Drawing showing instrument panel layout with callouts:]
+- SUB PANEL CUT-OUT REINFORCING DOUBLER (SEE PAGE 41-4Q, FIGURE 1)
+- F-1068B-R
+- F-1044 SUBASSEMBLY
+- F-1045-R
+- F-1003C-R
+- F-1068A
+- SUB PANEL CUT-OUT REINFORCING ANGLES (SEE PAGE 41-3Q, FIGURE 1)
+- F-1045-L
+- F-1068B-L
+- F-1083Q
+- F-1003C-L
+- UNREINFORCED SUB PANEL CUT-OUT (SEE PAGE 41-3Q, FIGURE 1)
+- INSTRUMENT PANEL SUPPORT ANGLES (SEE PAGE 41-5Q, FIGURE 1)
+- INSTRUMENT PANEL SEGMENT - RIGHT
+- INSTRUMENT PANEL SEGMENT - LEFT
+
+
+=== PAGE 41Q-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 8/23/05  REVISION: 0  RV-10  PAGE 41Q-3
+
+NOTE: Details shown on this page for cut-outs in the F-1068A Sub Panel are also applicable to the F-1068B-L/R Sub Panels.
+
+Step 1: Figure 1 shows the maximum size and minimum spacing for unreinforced sub panel cut-outs.
+
+Figure 1 also shows a sub panel cut out that has been reinforced with angles that intersect at the corners. This type of reinforcement is best suited to a cut-out for tray mounted avionics with length greater than 9 1/2 inches as the trays can be attached to the free flanges of the vertical reinforcing angles.
+
+Note that the vertical reinforcing angles are shown on the FORWARD side of the sub panel. This suggested placement of the vertical angles allows them to be bent to match the sub panel bend by placing a flute in the free flange of each of the angles.
+
+Note also that the lower horizontal reinforcing angle may be omitted IF the lower edge of the cut-out is less than 3/4 inch from the bottom of the sub panel.
+
+The reinforcing angles are fabricated from .063 thick extruded 6061-T6 angle or .032 thick bent 2024-T3 angle.
+
+Material for fabrication of reinforcing angles is not provided in the kit.
+
+Step 2: Figure 1 shows the F-1083Q Quadrant Mount Bracket with the upper left corner trimmed away. The quadrant mount bracket may be trimmed as required to clear cut-outs in the F-1068A Sub Panel so long as at least three rivets attach the quadrant mount bracket to the sub panel.
+
+FIGURE 1: TYPICAL SUB PANEL CUT-OUTS (SOME PARTS OMITTED FOR CLARITY)
+[Drawing showing sub panel with cut-out details and callouts:]
+- F-1044 SUBASSEMBLY
+- SUB PANEL CUT-OUT REINFORCING DOUBLER (SEE PAGE 41-4, FIGURE 1)
+- F-1045-R
+- F-1068B-R
+- F-1068A
+- HORIZONTAL REINFORCING ANGLE
+- VERTICAL REINFORCING ANGLE
+- F-1083Q (SHOWN WITH UPPER LEFT CORNER TRIMMED)
+- AN470AD4 OR LP4, TYP, 1 INCH SPACING
+- HORIZONTAL REINFORCING ANGLE (MAY BE OMITTED IF BOTTOM EDGE OF CUT-OUT IS LESS THAN 3/4 INCH FROM BOTTOM OF SUB PANEL)
+- F-1068B-L
+- VERTICAL REINFORCING ANGLE
+
+
+=== PAGE 41Q-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 41Q-4  RV-10  REVISION: 0  DATE: 8/23/05
+
+NOTE: Details shown on this page for cut-outs in the F-1068A Sub Panel are also applicable to the F-1068B-L/R Sub Panels.
+
+Step 1: Figure 1 shows the F-1068A Sub Panel with a generic cut-out and reinforcing doubler installation.
+
+The doubler is fabricated from .032 thick 2024-T3 material. Material for fabrication of doublers is not provided in the kit.
+
+Step 2: Figure 1 shows the F-1003C-L & R Inst Panel Attach Flanges with generic relief notches between nutplates. All the inst panel attach flanges may be notched-out between nutplate locations as required for mounting of equipment in the instrument panel.
+
+FIGURE 1: TYPICAL SUB PANEL CUT-OUTS (SOME PARTS OMITTED FOR CLARITY)
+[Drawing showing sub panel with doubler installation and callouts:]
+- F-1044 SUBASSEMBLY
+- UNREINFORCED SUB PANEL CUT-OUTS (SEE PAGE 41-3, FIGURE 1)
+- F-1045-L
+- F-1045-R
+- F-1003C-L
+- TYPICAL INST PANEL ATTACH FLANGE RELIEF
+- F-1068B-L
+- F-1068A
+- F-1083Q (SHOWN WITH UPPER LEFT CORNER TRIMMED)
+- SUB PANEL CUT-OUT REINFORCING ANGLES (SEE PAGE 41-3Q, FIGURE 1)
+- CUT-OUT DOUBLER
+- 1 MINIMUM
+- 1/2 BETWEEN FASTENER ROWS
+- AN470AD4 OR LP4, TYP, 1 INCH SPACING
+- F-1068B-R
+- TYPICAL INST PANEL ATTACH FLANGE RELIEF
+- F-1003C-R
+- 1 MINIMUM
+
+
+=== PAGE 41Q-5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 8/23/05  REVISION: 0  RV-10  PAGE 41Q-5
+
+Step 1: Figure 1 shows the installation of two instrument panel support angles. One leg of each angle supports the edge of the instrument panel segments while the other leg of each angle supports the avionics trays.
+
+The outboard instrument panel support angle is installed between the F-1003D Inst Panel Attach Flange and the F-1003B Inst Panel Lower Flange.
+
+The inboard instrument panel support angle is installed between the F-1044 Fwd Fuselage Rib Subassembly and the F-1003B Inst Panel Lower Flange.
+
+Both instrument panel support angles are fabricated from 3/4 x 3/4 x .032 thick 2024-T3 Angle. The support angle shims are fabricated from aluminum sheet .032 or .063 thick as called-out in Figure 1.
+
+Material for fabrication of the support angles and support angle shims is not provided in the kit.
+
+FIGURE 1: INSTRUMENT PANEL SUPPORT ANGLE INSTALLATION
+[Drawing showing support angle installation with callouts:]
+- F-1044 SUBASSEMBLY
+- F-1003D
+- F-1003E
+- .032 THICK SHIM
+- INSTRUMENT PANEL SUPPORT ANGLE (OUTBOARD)
+- INSTRUMENT PANEL SUPPORT ANGLE (INBOARD)
+- NOTE 1
+- AN426AD3 TYP
+- .063 THICK SHIM
+- .063 THICK SHIM
+- F-1003B
+- NOTE 1
+- NOTE 1
+- K1000-08, 6 PLACES
+- MS21051-08, 2 PLACES
+
+NOTE 1:
+REPLACE K1000 NUTPLATE WITH MS21051 NUTPLATE
+OR REMOVE NUTPLATE IF/AS REQUIRED TO ELIMINATE
+INTERFERENCE WITH SUPPORT ANGLES.
+
+PLUG NUTPLATE ATTACH HOLES WITH RIVETS
+INSTALLED DOUBLE-FLUSH OR LEAVE HOLES OPEN
+
+
+=== PAGE 41Q-6 ===
+VAN'S AIRCRAFT, INC.
+PAGE 41Q-6  RV-10  REVISION: 0  DATE: 8/23/05
+
+Step 1: Cleco the Upper Forward Fuselage Subassembly to the forward fuselage structure as shown in Figure 1.
+
+Rivet the F-1068B-L & R Sub Panel Sides to the F-1002-L & R Fwd Fuselage Bulkheads as shown in Figure 1.
+
+Rivet the F-1044 Fwd Fuselage Rib Subassembly and F-1045-L & R Fwd Fuselage Ribs to the F-1001A Firewall Bulkhead as shown in Figure 1.
+
+Rivet the forward tab of the F-1044B Angle to the F-1001B Upper Firewall Angle as shown in Figure 1. See Page 31-5Q, Figure 3.
+
+Rivet the F-1003B Inst Panel Lower Flange to the F-1069 Fwd Side Skins as shown in Figure 1.
+
+Step 2: Rivet the lower edges of the F-1071 Fwd Fuse Top Skin to the fuselage structure.
+
+See Page 41-9Q, Figure 1 for rivet call-outs.
+
+Do not rivet the fwd fuse top skin to the upper flange of the F-1001A Firewall Bulkhead.
+
+FIGURE 1: RIVET UPPER FWD FUSELAGE SUBASSEMBLY TO FWD FUSELAGE (INSTRUMENT PANEL OMITTED FOR CLARITY)
+[Drawing showing riveting with callouts:]
+- AN426AD4-4, 7 PLACES
+- AN426AD4-4, 8 PLACES
+- F-1068B-R
+- F-1044 SUBASSEMBLY
+- AN470AD4-6 (OPTION: LP4-3)
+- F-1044B
+- F-1045-L
+- AN470AD4-4 (OPTION: LP4-3), 4 PLACES
+- F-1002-R
+- F-1001A
+- F-1001B
+- F-1068B-L
+- F-1002-L
+- AN470AD4-4 (OPTION: LP4-3), 4 PLACES
+- AN426AD3-4, 2 PLACES LEFT & 2 PLACES RIGHT
+- F-1003B
+
+
+=== PAGE 41Q-7 ===
+VAN'S AIRCRAFT, INC.
+DATE: 8/23/05  REVISION: 0  RV-10  PAGE 41Q-7
+
+Step 1: Fabricate eight Cowl Attach Shims from .020 thick 2024-T3 Aluminum as shown in Figure 1.
+
+Locate a #40 hole in each shim as shown in Figure 1.
+
+Use a sharpie pen to draw a centerline on each shim.
+
+FIGURE 1: FABRICATE COWL ATTACH SHIMS
+[Drawing showing shim dimensions:]
+- 15 (F-1001P-SHIM, QTY TWO)
+- 14 1/8 (F-1001N-SHIM-INBD, QTY TWO)
+- 8 7/8 (F-1001N-SHIM-OUTBD, QTY TWO)
+- 6 (F-1001Q-SHIM, QTY TWO)
+- 1/2 width
+- 1/4 edge distance
+- DRILL #40
+- DRAW CENTERLINE 1/4 FROM EDGE
+
+Step 2: Fabricate F-1001N Cowl Attach Hinges from HINGE PIANO 1/8 as shown in Figure 2.
+
+Drill a #40 hole in the F-1001N-AFT-L & R Cowl Attach Hinges as shown in Figure 2.
+
+FIGURE 2: FABRICATE COWL ATTACH HINGES
+[Drawing showing hinge dimensions:]
+- 23 23/32
+- F-1001N-FWD-L
+- 5/16 TYP
+- F-1001N-AFT-L
+- 1/4 TYP
+- DRILL #40 TYP
+- F-1001N-AFT-R
+- F-1001N-FWD-R
+
+Step 3: Fabricate F-1001P Cowl Attach Hinges from HINGE PIANO 1/8 as shown in Figure 3.
+
+Drill a #40 hole in the F-1001P-AFT-L & R Cowl Attach Hinges as shown in Figure 3.
+
+FIGURE 3: FABRICATE COWL ATTACH HINGES
+[Drawing showing hinge dimensions:]
+- 15 1/2
+- F-1001P-FWD-L
+- 17/32 TYP
+- F-1001P-AFT-L
+- 1/4 TYP
+- DRILL #40 TYP
+- 5/16 TYP
+- F-1001P-AFT-R
+- F-1001P-FWD-R
+
+Step 4: Fabricate F-1001Q Cowl Attach Hinges from HINGE PIANO 1/8 as shown in Figure 4.
+
+Drill a #40 hole in the F-1001Q-AFT-L & R Cowl Attach Hinges as shown in Figure 4.
+
+FIGURE 4: FABRICATE COWL ATTACH HINGES
+[Drawing showing hinge dimensions:]
+- 6
+- 5/16 TYP
+- 1/4 TYP
+- F-1001Q-AFT-L (WITH PILOT HOLE)
+- F-1001Q-FWD-L (NO PILOT HOLE)
+- DRILL #40 F-1001Q-AFT-L
+- F-1001Q-AFT-R (WITH PILOT HOLE)
+- F-1001Q-FWD-R (NO PILOT HOLE)
+- DRILL #40 F-1001Q-AFT-R
+
+
+=== PAGE 41Q-8 ===
+VAN'S AIRCRAFT, INC.
+PAGE 41Q-8  RV-10  REVISION: 0  DATE: 8/23/05
+
+Step 1: Cut pieces of hinge pin material to be approximately 1 inch longer than the cowl attach hinges and slightly round the ends.
+
+Step 2: Join the forward and aft hinge segments by mating the hinges and inserting the hinge pins. The hinge segments are kept joined during the fitting process to be sure that they do not become distorted and will fit together properly after installation.
+
+Step 3: Cleco the cowl attach hinges and shims to the fuselage as shown in Figure 1. Orient each of the shims such that the surface with the centerline mates to the firewall flange, not to the hinge. Do not cleco the F-1001N-SHIM-OUTBD in place at this time.
+
+While clecoed in place, align each hinge and shim so that they are parallel to the forward edge of the fuselage skin and that the shim edge does not protrude forward of the skin edge. The centerlines drawn on the shims should be visible through the holes in the skins and firewall flange. The centerlines will deviate slightly from the hole centers in the middle of the shims when properly aligned at the ends. Use spring clamps to hold the hinges and shims aligned.
+
+Step 4: Match Drill #40 the shims and hinges to the fuselage using the holes in the skins and firewall flanges as drill guides.
+
+Begin match-drilling at the pilot-drilled ends of the shims/hinges and progress to the other end re-checking alignment every few holes. For the F-1001N-AFT-L & R Cowl Attach Hinges match-drill one hole past the end of the F-1001N-SHIM-INBD Cowl Attach Shim, cleco the F-1001N-SHIM-OUTBD Cowl Attach Shim in place, then align the centerline and continue match-drilling.
+
+Step 5: Remove the shims and hinges and mark them for orientation and location. Machine countersink the hinges to fit a piece of .020 thick material that has been dimpled for an AN426AD3 rivet. Deburr holes and edges of the shims and hinges. Dimple the shims. Prime if-as desired.
+
+Step 6: Cleco the shims and aft hinge segments to the fuselage. See Figure 1. Insert the hinge pins into the aft hinge segments as this will keep the hinge eyelets in their proper shape if a mistake is made while riveting.
+
+Install rivets around the perimeter of the firewall. See Page 41-9, Figures 1, 2 and 3 for rivet call-outs.
+
+FIGURE 1: FIT COWL ATTACH HINGES AND SHIMS TO FIREWALL
+[Drawing showing firewall view with all hinges and shims positioned, with callouts:]
+- CLECO THROUGH PILOT HOLE IN SHIM TO THIS LOCATION IN FUSELAGE (multiple locations)
+- CLECO THROUGH PILOT HOLES TO THIS LOCATION IN FUSELAGE (multiple locations)
+- F-1001N-FWD-R
+- F-1001N-AFT-R
+- F-1001N-SHIM-INBD
+- F-1001N-AFT-L
+- F-1071
+- F-1001N-FWD-L
+- F-1001A
+- F-1001P-AFT-R
+- F-1001P-FWD-R
+- F-1001Q-AFT-R
+- F-1001Q-FWD-R
+- F-1001Q-SHIM
+- F-1072
+- F-1001P-AFT-L
+- F-1001P-FWD-L
+- F-1001P-SHIM
+- F-1001N-SHIM-OUTBD
+- F-1069
+- F-1001Q-AFT-L
+- F-1001Q-FWD-L
+
+
+=== PAGE 41Q-9 ===
+VAN'S AIRCRAFT, INC.
+DATE: 8/23/05  REVISION: 0  RV-10  PAGE 41Q-9
+
+[Rivet diagram pages showing three views of the forward fuselage skin riveting]
+
+Rivet legend:
+- [square] AN426AD3-5
+- [diamond] AN426AD3-4.5
+- [diamond outline] AN426AD3-4
+- [triangle] AN426AD3-3.5
+
+NOT RIVETED IN THIS SECTION (marked in multiple areas on all three diagrams)
+
+FIGURE 1: FWD SIDE SKIN RIVET DIAGRAM
+FIGURE 2: FWD FUSE TOP SKIN RIVET DIAGRAM
+FIGURE 3: FWD FUSE BOTTOM SKIN RIVET DIAGRAM
+
+
+=== PAGE 41Q-10 ===
+VAN'S AIRCRAFT, INC.
+PAGE 41Q-10  RV-10  REVISION: 0  DATE: 8/23/05
+
+Step 1: The aft of firewall routing and support of the engine control cables is shown in Figure 1.
+
+Pilot holes in the F-1001K Firewall Recess must be enlarged to 5/8 diameter to accommodate snap bushings.
+
+FIGURE 1: AFT OF FIREWALL ENGINE CONTROL CABLE ROUTING (SOME PARTS OMITTED FOR CLARITY)
+[Drawing showing control cable routing with callouts:]
+- F-1045-R
+- F-1044 SUBASSEMBLY
+- F-1003E
+- F-1068B-R
+- F-1068A
+- F-1083Q
+- F-1001B
+- MIXTURE CABLE (NOTE 1)
+- NOTE 1: PART(S) NOT SUPPLIED IN FUSELAGE KIT
+- SB625-8, 3 PLACES (NOTE 1)
+- F-1001K
+- PROPELLER GOVERNOR CABLE (NOTE 1)
+- THROTTLE CABLE (NOTE 1)
+- F-1003B
+- SEE FIGURE 2
+
+FIGURE 2: TYPICAL CONTROL CABLE ATTACH TO QUADRANT LEVER
+[Detail drawing showing:]
+- MS24665-132
+- AN960-10L
+- AN665-21R
+- AN315-3R
+- MS20392-2C11

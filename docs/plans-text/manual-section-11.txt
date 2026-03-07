@@ -1,0 +1,1710 @@
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+
+SECTION 11. ENGINE A ND PROPEL L ER
+SELECTIONAND INSTALLATION
+Engine installation is one of the most time consuming and most important phases of construction. Although it
+is extremely important that everything be done correctly, these instructions are not very specific at times.
+This is intentional. The wide variation of possible engine/propeller combinations means there may be more
+than one "right way". In most respects, the engine installation in an RV is just like that of any other airplane
+using the same engine. The same "quality control" rules and practices which apply to factory aircraft apply to
+homebuilts as well.
+To help simplify the process, Vans has developed Firewall Forward Installation kits for the Lycoming engines
+that we sell. We will briefly consider a number of common points in this section, but for detailed drawings and
+instructions you will need to buy the Firewall Forward documentation, which is available separately from the
+Firewall Forward kits.
+RECOMMENDED ENGINE INSTALLATION MANUAL
+One of the books recommended in Section 1, Firewall Forward by Tony Bingelis, is an excellent reference
+manual for engine installations, and contains much more detailed information than we are able to include in
+this manual. This is particularly true if you choose to vary from standard procedures. We recommend
+acquiring and thoroughly studying this book before beginning your engine installation. Firewall Forward is
+available from the Experimental Aircraft Association, (EAA) Oshkosh, WI.
+
+INSTALLING THE ENGINE MOUNT TO THE FUSELAGE
+The typical RV engine mount is unique because it combines mounting structure for both the engine and the
+main landing gear legs. (There are a couple of exceptions: RV-6A/7A/8A/9A engine mounts includes the
+mount for a nose gear leg, and the landing gear in the RV-8 is mounted in the fuselage.) Because of the
+gear leg mount feature and forward cockpit design, six attach points are used rather than the usual four. An
+offset is built into the mount to help compensate for "P" factor, so the engine is not aligned with the airplane
+centerline.
+The rough position of the mount is shown by the pre-punched tooling holes in the firewall. Do NOT simply drill
+the tooling holes to 3/8. Offer the mount to the firewall, and use some long 3/16 bolts to attach it. The holes in
+the weldment will likely not align perfectly as the weldments vary slightly. It may be necessary to pull the part
+into alignment, and/or file the 3/16 tooling holes to shift them slightly. If the mount is not exactly centered on
+the firewall, that is OK. 3/8" either side to side or up and down will make no difference.
+
+With the mount thus attached to the firewall, drill the holes out to 3/8 using the mount as a guide, and insert
+3/8 bolts as you proceed. Any gap between the firewall and mount will usually disappear when the fasteners
+are tightened. If the gap is still there when the nuts are appropriately torqued, AN9790 washers may be used
+to eliminate it.
+CONICAL ENGINE MOUNT INSTALLATION
+The conical engine mount supplied with the kit has the correct alignments built in. It simply bolts to the
+firewall.
+Attaching a conical mount engine is relatively easy because all four bolts through the engine case are
+parallel. The conical rubber mounts that give the mounting style its name are set into the recesses in the
+engine case, the engine is mated to the mount and the bolts installed. Tightening all bolts evenly will position
+the engine correctly.
+Van's does not stock the rubber isolation mounts for conical engines, but recommends that the builder buy
+mounts listed for production types using the same engine: Piper Tri-Pacers, for instance, used 0-320 conical
+mount engines, and RV builders have used these isolation mounts successfully.
+
+DYNAFOCAL ENGINE MOUNT lNSTALLATION
+Study the construction drawings until you understand the correct placement of the isolation mounts and
+washers. (Isolation mounts and mounting bolt kits are available through Van's Accessories Catalog.
+Because the mounting bolt kits must supply all the washers for builders installing used isolation mounts, if
+you buy both new isolation mounts and a new bolt kit, you will probably end up with some duplication and
+some extra large washers if you order new isolation mounts. Throw them in your spare hardware box. Use
+
+
+sect 11r7 11/14/07                             11-1
+     RV AIRCRAFT                                         SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+     only the number and type of washers shown on the drawing.)
+     Mounting a dynafocal engine is a bit more difficult because of the converging lines of the mount bolts. The
+     rubber isolation mounts (commonly known as "Lord" mounts, although Lord is a specific brand name and
+     there are several other brands) are designed so they align when tightened and compressed. The bolt holes
+     through the four mounts will not coincide with the holes in the engine case at repose (no compression load).
+     When installing the engine, it is necessary to have it suspended from a hoist. When the engine is
+     suspended, it can be moved into position on the engine mount and the two upper isolation mounts and bolts
+     installed and partially tightened. Then, by lifting the engine with the hoist, and actually lifting part of the
+     airframe weight too, the upper isolation mounts are flexed upward enough that the lower mounts are brought
+     (almost) into position. Basically, the technique is to get one or more bolts started, and then force the engine
+     in the opposite direction so that remaining bolt holes can be aligned. We have found that the best place to
+     start is the top.
+     Once in place, tightening is easy. The bolt simply "bottoms out" on the steel tube insert that passes through
+     the center of the isolators.
+
+     EXHAUST SYSTEM
+     Probably the first thing that should be installed on the engine, once it is mounted on the airframe, is the
+     exhaust system. This is the big, hot, unmovable item which cables and fuel lines must be routed around.
+     Several suppliers have made systems available specifically for RVs. Be sure to specify your aircraft type and
+     engine model when you discuss requirements with your supplier. Beautifully made stainless steel exhaust
+     systems for all RVs are available through Van's Accessories Catalog.
+     If you prefer to do your own exhaust system fabrication, you can save some money. Unless you are a very
+     talented welder, you will want to use mild steel automotive exhaust pipe instead of stainless. A good place to
+     start is to purchase the required exhaust flange, some 1-3/4" exhaust pipe of the thinnest wall thickness
+     available, and several 6" radius "U" bends of 1-3/4" dia. These pipes can be cut into sections for the various
+     curves needed. By splicing together a number of these bends, a satisfactory system can be made
+     inexpensively, but it will weigh more than the stainless system. However, there is a lot of labor involved, and
+     we have found that nearly all builders prefer to purchase a ready made exhaust system.
+
+     THROTTLE CONTROL
+     The standard throttle differs between the side-by-side and tandem airplanes. In the side-by-side RVs it is a
+     locking push/pull control in the center. Installation is straightforward; through the firewall and to the control
+     arm on the carb. The tandem airplanes use a throttle quadrant, mounted on the left sidewall of the cockpit.
+     Cables are available through Van's Accessories Catalog.
+
+     MIXTURE CONTROL
+     Although they are not used on production aircraft, a medium duty "choke cable" can be used for a mixture
+     cable. A cable with a core wire diameter of 0.062 to 0.070" works well. The flexible cable makes routing
+     easy and the solid core is quickly trimmed to the exact length required. The cable must be must be anchored
+     at some point near the arm on the carb to insure positive control.
+     Many builders may prefer more traditional vernier or quadrant cables. These are usually fitted with rodend
+     bearings that connect to the mixture arm on the carburetor. Fittings, special washers, and hardware for
+     anchoring and connecting the engine end of throttle and mixture cables are offered in Van's Accessories
+     Catalog.
+
+     TACHOMETER DRIVE
+     The Lycoming engine is equipped with a mechanical tachometer drive. A cable turned by this drive is
+     connected directly to a mechanical tachometer on the instrument panel. The cable can be made to order by
+     any automotive speedometer shop, or ordered from various homebuilt aircraft supply shops. Routing should
+     maximize the bend radius of the tach drive line to prevent excess friction, wear, and premature breakage.
+     Electronic tachometers are also widely available and should be installed using the manufacturer's
+     instructions.
+
+     FUEL LINES
+     Fuel lines up to fuel filter (gascolator) can be 3/8" soft aluminum tubes, just like the remainder of the system
+     back to the tanks. However, since there is relative motion between the engine and the airframe, flexible lines
+     must be used for routing the fuel from the fuselage to the engine mounted fuel pump.
+     One good hose for this purpose is Aeroquip 701, a medium pressure hose with a stainless steel wire braid
+     shield on the outside. It is available for use with reusable fittings and hose assemblies can easily be
+     fabricated by the homebuilder. Wherever possible, hoses should be routed so there is "slack" or "bows" in
+
+
+sect 11 r7 11/14/07                            11-2
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+the line to permit easy movement and flexing due to engine vibration, and to lessen the load on end fittings.
+Fuel lines should not be installed straight and tight between the accessories. Fuel lines should also avoid
+close proximity to exhaust pipes, or should be thermally insulated if close routing is unavoidable. Sometimes
+a heat shield must be installed to shield the fuel lines.
+Thermal insulation of all fuel lines within the engine compartment is recommended even if proximity to
+exhaust pipes is not a factor. During operation, the air temperature within the lower rear portion of the engine
+compartment (where these fuel lines are located) can rise to a level sufficient to vaporize fuel within the lines
+and thus cause vapor lock. The engine will run rough or stop. This condition is likely to occur during ground
+operation where engine cooling is marginal because of limited ram air flow through the engine compartment,
+and because fuel flow volume is low. With a high air temperature and low fuel flow, the fuel has more time to
+heat up and possibly vaporize before entering the carb or fuel injector. This situation is further complicated
+by the use of auto fuel which normally has a lower vaporization temperature than Avgas. One product often
+used for thermal protection of fuel lines is Aeroquip Firesleeve, which, as the name implies, is a hose-like
+cover installed over the fuel line and clamped at both ends. As the name also implies, this material is
+designed to protect the fuel lines (or oil and hydraulic lines) from the direct flames of an engine compartment
+fire. Assembled fuel and oil lines are available from Vans in lengths suitable for most RV installations.
+NOTE: Automotive type hose and hose fittings are not acceptable for use in aircraft engine or fuel line
+installations. Never use the type of fittings that require the hose (without flared nut end fittings) to slip over a
+male fitting and be secured with a hose clamp. Even for low pressure or suction lines, "tube fitting" hose
+assemblies should be used, not hose fittings (clamps). NEVER use an aluminum, copper or other rigid fuel
+line to connect the fuel system from the fuselage to the engine. It is almost certain to fail, with serious
+consequences. This applies to fuel pressure lines and oil pressure lines also. When fabricating fuel line
+assemblies, check for line blockage after installing the end fittings. Sometimes the tip of the inner fitting can
+gouge out bits of the soft rubber from the inside of the hose, and these can flip up like a butterfly valve and
+block the line.
+
+OIL PRESSURE GAUGE LINE
+A braided Aeroquip hose similar to fuel lines, is recommended between the oil port on the engine and the
+fuselage. 1/4" diameter or smaller is adequate because it is just a pressure line with no volume flow
+requirement. Generally a bulkhead fitting is used in the firewall, with an aluminum or copper line running
+back to the oil pressure gauge in the panel. Use of an electrical oil pressure sensor would eliminate the need
+for these lines and routing.
+A restrictor fitting should be used in the engine oil port to limit oil loss in the event of line failure. If not readily
+available, a restrictor fitting can be made by taking a standard AN fitting, tapping the inside of the pipe thread
+port for a bolt thread, screwing the bolt in tight, cutting it off flush with the end of the fitting, and then drilling
+the smallest possible hole through the plug. Welding could also be used to form the plug.
+Sensors should not be mounted directly on the engine case or rigid mountings, like pipe nipples, mounted to
+the case. The vibration will eventually cause the fitting to break, letting the engine pump pressurized oil
+overboard. The sensor is mounted on the firewall and connected to the engine with a flexible hose.
+
+FUEL PRESSURE GA UGE L INE
+This should be a hose tapped into the fuel line somewhere between the fuel pump and the carb, and should
+be routed to a bulkhead fitting on the firewall, and then to the fuel pressure gauge. If an electric gauge is
+used, the sensor may be mounted on the firewall and connected to the fitting with a flexible line.
+A Tee fitting on the "out" port of the fuel pump is a good source for the fuel pressure line. A restrictor fitting,
+like that described for the oil pressure line, should be used at the source end of the fuel pressure line.
+
+MANIFOLD PRESSURE LINE
+A good source for this is the primer port of the left rear cylinder (#4). The line may be 1/8" copper tubing with
+compression fittings and a "vibration loop". Route it through a fitting on the firewall similar to other lines.
+Even though there is no flow through the manifold pressure line, a restrictor with a small orifice is still a good
+idea. Sonic waves can cause fuel vapors to move through the line and condense in the instrument. Also, the
+rapidly varying pressure caused by the valves opening and closing can cause the gauge to flutter wildly and
+become unreadable.
+
+PRIMER SYSTEM
+The Lycoming 0-320 and 0-360 carbureted engines can be primed for cold starting by cycling the accelerator
+pump with the throttle (0-235 engines do not have an accelerator pump). This can be effective for
+temperatures down to freezing or slightly below, but will depend on the idle mixture adjustment and jetting of
+the specific carb. If starting is routinely required at sub-freezing temperatures, installation of a conventional
+hand operated primer system will probably be necessary. Priming three cylinders will be sufficient (one
+cylinder's primer port has probably been used for a manifold pressure source).
+
+
+sect 11r7 11/14/07                                11-3
+     RV AIRCRAFT                                         SECTION 11: ENGINE AND PROPELLER INSTALLATION
+     Plunger type primers, as used on many light aircraft, work well, but require a separate system. On
+     carbureted engines, you may also prime the cylinders using pressure supplied by the boost pump. Primer
+     lines are routed from a port on the gascolator to the cylinders and flow is controlled by a small solenoid-
+     controlled valve installed between the gascolator and the cylinders. When the pump is on, the lines are
+     pressurized, the solenoid is activated by a momentary switch in the cockpit and fuel flows to the cylinders.
+     The only known disadvantage is that the primer system is dependent on the battery for operation. If the
+     battery were dead, the engine could not be primed manually.
+
+     INDUCTION AIR INTAKE
+     Most RVs are fitted with the filtered airboxes available in Van's Accessories Catalog. Different airboxes are
+     necessary for different sizes of engines and types of induction devices, so be sure you order and install the
+     airbox appropriate to your airplane.
+     All of the optional air intake systems are designed to offer a minimum frontal area and flow resistance to the
+     incoming air. The intake systems also provide excellent manifold pressure from the ram air effect with little
+     complexity or weight.
+
+     FUEL BOOST PUMP
+     Because of the low (below carb level) location of the wing fuel tanks, an RV must be equipped with a fuel
+     boost pump as back up for the engine driven pump. Usually the boost pump is a small electric pump, an
+     example of which (p/n ES 40108 in Van's Accessories Catalog) is shown in the fuselage plans. Other pumps
+     and installation locations may be used. However, some pumps are not self-priming and must be located at or
+     below tank level. Check the pump manufacture's specifications about this.
+     When using a fuel injection system or a pressure carb, a high-pressure boost pump and a high-pressure
+     engine driven pump (quite different than those used on carbureted engines) are required. These pumps are
+     also available from Van's.
+
+     ENGINE BAFFLING
+     Section 12 includes a basic explanation of cooling theory and baffling. Prefabricated baffle kits are available
+     as an option through Van's Accessories Catalog and should save the builder a lot of time. These kits include
+     pre-formed aluminum baffling, cowl seal material, and all the hardware and instructions needed. Drawing
+     and patterns are also available for those masochists who wish to make their own baffles.
+     Inter-cylinder baffles are normally supplied as a part of the engine. They are essential to proper cooling, and
+     the exact shape, size, and fit should be maintained if these baffles are being fabricated rather than using the
+     Lycoming parts. Intercylinder baffles are not included in Van's baffle kits.
+
+     ENGINE BREA THER LINE
+     An engine crankcase breather line is needed to run from the breather port on the upper rear engine case, to
+     an overboard dump point. Because there are often droplets of oil included in the blow-by air exiting the
+     engine crankcase, breather tubes are a major cause of dirty fuselage bottoms. This can be partially avoided
+     by positioning the breather line outlet so that its contents are blown directly onto the exhaust pipes and
+     burned. The breather line itself can be 5/8" I.D. radiator hose except for the end closest to the exhaust pipe
+     which should be aluminum or steel tubing.
+     A relief hole should be drilled in the line several inches above the exit. If the breather line plugs or freezes
+     shut, the pressure build-up inside the crankcase can blow the front crankshaft seal out of the engine, causing
+     the rapid loss of oil and engine failure.
+     Breather separators are available. Usually mounted on the firewall, these units receive the direct line from
+     the breather outlet and use a screen and sump to separate the oil from the gasses. A vent line is run
+     overboard for the gasses, and the separator must be drained and cleaned periodically. It's a messy job, but
+     many builders prefer it to constantly cleaning the bottom of their airplanes.
+
+     CARB AND CABIN HEAT MUFFS
+     The carb air intake box previously described uses air from the hot air side of the engine cooling system for
+     alternate air and/or carb heat. While this has proven adequate on the prototype RVs, each builder will have
+     to evaluate his own installation based the likelihood of carb ice in his intended operating environment. The
+     air intake box could be altered so that a completely sealed carb heat system could be used, or one could run
+     a 2" air hose from a heat muff and position it to feed into the alternate air inlet of the carb air box without
+     being attached and closed. At least exhaust heated air would be available for carb heat rather than just
+     engine heated air.
+     The heat muff aluminum sleeve, fabricated to fit around a straight portion of an exhaust pipe. A muff 6-12
+     inches in length should be enough to supply heat for the carb and the cabin. Note that the clean air intake is
+     located on the forward cowl baffle, from which air is routed into the heat muff. The object of this is to assure
+     that un-contaminated air is heated and routed to the cabin. Other homebuilts have used a much simpler
+
+
+sect 11 r7 11/14/07                            11-4
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+system, taking warm air directly from the engine compartment, through a simple door on the firewall, and
+using it for the cockpit heat. This is a potentially very hazardous practice, as engine compartment air can
+contain exhaust from gasket leaks, smoke from burned oil, etc. If a heat muff were being made strictly for
+carb heat air, it could intake engine compartment air without risk of problems.
+
+OIL COOLER
+Any of the oil coolers typically used in production airplane installations should work well in an RV. The cooler
+may be installed on the rear vertical baffle behind cylinder #4, with air admitted through a hole through the
+baffle, or on the firewall with a shroud and a SCAT tube supplying pressurize air from the baffle plenum.
+Baffles should be reinforced to withstand the weight of the cooler and lines. Oil lines from the ports on the
+rear case, typically 3/8" for the 0-320 and'/2" for larger engines, should be AEROQUIP 701 or equivalent.
+The size of oil cooler necessary for a specific engine is difficult to specify. Engines seem to be quite
+individual in their needs, and even engines and airplanes of the exact same type will run "hot" or "cool" with
+the same cooler. The only general rule of thumb seems to be the bigger the engine, the bigger the cooler.
+10-360 200 hp engines use oil to cool the piston skirts and are more dependent on oil coolers than their
+parallel valve cousins. We have found the Stewart-Warner coolers work better than the Positech coolers on
+the 200 hp engine.
+
+ENGINE SELECTION
+The RV-4 and RV-6/6A are designed to use Lycoming (1)0-320 (150 & 160 HP) and (1)0-360 (180 HP)
+engines. The RV-7/7A and RV-8/8A will accept these engines and and have the added option of the 200 hp
+Lycoming angle valve 10-360. The RV-3 and RV-9A are designed for Lycoming 0-235, 0-290 and 0-320
+engines rated between 118 hp and 160 hp.
+At a glance it would appear that you have four choices of engines: 150, 160, 180, and 200 HP. Actually, it is
+a bit more complex than that. The engine list at the end of this section includes approximately 200 individual
+model numbers for individual engine variations encompassed within these two general engine types. The
+letters and numbers in the engine model number each refer to some feature of that engine. By becoming
+familiar with these designators, primarily the prefix and suffix numbers and letters, you can select the engine
+best suited to your needs by matching the features on the engine to your needs or preferences.
+A guide for to Lycoming designator symbols is presented at the end of this chapter. Below is a sample
+engine model number with a point-by-point description of features:
+• 10-320-D1 A
+• I: Fuel Injected.
+• 0: Designates a Horizontally Opposed cylinder placement.
+• 320: Engine displacement in cubic inches.
+• D: High (8.5:1) compression ratio; meaning 160 HP and a 100 Octane fuel required.
+• 1: Controllable Propeller. Engine is suitable for constant speed prop.
+• A: Rear Mounted Accessories, Bendix Magnetos.
+NOTE: There are two styles of Dynafocal mounts. Dynafocal I and Dynafocal II. Dynafocal II engines are
+scarce in the used engine market and not available as "new" through our OEM agreement with Textron-
+Lycoming. Van's Aircraft will not supply mounts for this type of engine.
+A list of engine identifiers to avoid follows: (the letters listed below are the "first" letter after the cubic inch
+number: example, IO-320B2A is Dynafocal II and is to be avoided.
+IO-320A,B or C, IO-360E (180HP), IO-360D (200HP)
+There is a wealth of information in these lists, (which may not be complete down to the most recent engines)
+but they often seem like a treasure hunt when you are trying to find specific information.
+How much horsepower? The RV series was designed around the most plentiful and reliable of aircraft
+engines, the Lycoming 0-320. In production since the early 1950s, this engine has proven to be one of the
+most reliable internal combustion devices ever built. There are two basic versions, and a vast array of
+different models and sub-models.
+The low compression (approx. 7:1) version is rated at 150 hp and designed for 80 octane fuel. The high
+compression (approx. 8.5:1) develops 160 hp and is designed for 100LL. Low compression engines are
+often modified to produce 160 hp, but this is NOT sanctioned or approved by Lycoming.
+The 0-360 (or its cousin, the parallel valve 10-360) develop 180 hp on 100LL.
+An RV with 150 hp is not an underpowered airplane. Remember, this is the same engine that drags four
+place production airplanes around. Installed in the light, clean RV, it provides excellent performance.
+
+sect 11r7 11/14/07                              11-5
+     RV AIRCRAFT                                         SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+     Installing higher powered engines usually increases the climb rate, shortens the take off and increases the
+     cruise and top speeds slightly. There is a price, of course; power comes from gasoline, not the engine. If
+     you use the extra power needed for better performance, you will burn more fuel.
+     Although the temptation to install the biggest engine and get the most performance is great, remember, even
+     with the lowest horsepower, a clean RV is capable of speeds very close to the published VNE. Engines with
+     more horsepower can easily drive the airplane past redline in level flight. Just because you can install a big
+     engine doesn't mean it is a smart thing to do.
+     What model? The rumor that Lycoming once built two identical engines has never been proven. The variety
+     is so large t at Van's often (very often) cannot offer advice on whether a specific model will work in an RV.
+     Remember, you, the builder, are ultimately responsible for making sure the engine you acquire will fit your
+     airplane. Here are a few tips to help with engine shopping:
+     • Mounting Style: Lycoming engines have been built in three basic mounting styles, conical, Dynafocal 1
+        and Dynafocal 2. The difference is in the angle that the engine mount bolts form with the crankshaft.
+        An engine mount to fit any of these is available from Van's, although the Dynafocal 2 mount is a special
+        order item, requiring extra time to supply.
+     • Induction: One of the critical items in determining whether an engine will fit in an RV is the placement of
+         the "induction device", the carburetor or fuel injection servo. In an effort to accommodate airframe
+         manufacturers, engines have been developed with several different carb locations.
+     • Aft mounted carbs, feeding through the side of the oil sump, will not fit an RV. However, often a change
+         of sump to an updraft version is all that is required to make the engine fit.
+     • Most engines with updraft carbs will fit an RV, but some engines have the carb mounted at the very rear
+        of the sump, which interferes with the RV-6A nose gear mount.
+     • In general, any engine with a forward facing or vertical induction device on the middle or front of the
+         sump will work.
+     • Fuel pumps: The low wing design of the RVs requires an engine driven fuel pump. Since many engines
+        on the used market originally powered high wing airplanes with gravity feed systems, they do not have
+        fuel pumps. Usually it is relatively simple to convert an engine without a fuel pump, but this matter should
+        be checked. Carbureted and injected engines require different pumps, so check carefully.
+     • "Different" engines: The 0-320-H2AD engine, used for several years in the C-172, is a special case. It
+         is unrelated to the rest of the 0-320 family, and requires a special mount, which Van's can supply upon
+         request. It also has a pad for a forward mounted fuel pump, but, since the C-172 does not require a
+         pump, none was ever installed. The case must be opened and modified to operate an engine driven
+         mechanical pump.
+     • Some engine models we have encountered that will NOT fit in an RV, at least without modification,
+         include the 10-320-B1A and the 0-360-A4K. This is by no means a complete list.
+     • Note that the 200 hp 10-360 angle valve engine is not recommended for the RV-4 or RV-6/6A. It is
+         physically larger than the parallel valve 180 hp 10 and 0-360s and will not fit without major modifications
+        to the cowl. It may, however, be used in the RV-7/7A or RV-8/8A.
+
+     PROPEL L ER SELECTION
+     The RV builder has four propeller options to consider: fixed pitch wood, fixed pitch metal, and constant speed
+     metal or constant-speed wood/composite. Just to make it more complicated, the wood/composite props
+     feature either hydraulic or electric actuation. The metal constant speed props are hydraulically actuated.
+     Traditionally, metal props have been used on production light aircraft because they offered the best
+     compromise of performance and serviceability. A fixed pitch metal prop will usually weigh about two or three
+     times more than a wood prop. For a 150-180 HP engine, this represents a difference of about 17-22 lbs.
+     The metal prop, because of the greater strength of the material, can be made with a thinner airfoil section
+     and is generally considered more efficient than a wood prop. This means more overall performance. Not
+     necessarily significantly more performance, but more than enough to justify the added weight.
+     All of the fixed pitch metal props manufactured to fit factory designs powered by 0-320 and 0-360 engines
+     were designed for much slower airplanes so their pitch angles are much too low to be effective at RV cruise
+     speed. While it is true that metal props can be re-pitched for more or less speed, they cannot be re-pitched
+     to the extent needed for an RV. In addition to a loss of efficiency incurred through excessive re-pitching, the
+     stress on the metal renders them unsafe. The stresses on metal props are very involved, and are caused by
+     harmonic vibrations which cannot be felt by the pilot. Extensively reworked metal props have a history of
+     losing sections of their blades without warning. The result is a catastrophic imbalance, capable of tearing the
+     engine completely free of the mount and airframe before the pilot can react. People have died.
+     The onlvfixed pitch metal props suitable for RVs are the Sensenich 70CM for the 0-320, and the Sensenich
+     72FM for the 0-360. As this is written, testing is expected to begin soon to determine the suitability of the
+     72FM on the 10-360 200 hp engine.
+
+sect 11 r7 11/14/07                           11-6
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+Because metal props have not been available, wood props have been, and still are, widely used. These
+have both advantages and disadvantages compared to the metal prop.
+DISADVANTAGES:
+• The finish of wood props will deteriorate and weather-check over a period of time and require refinishing
+    every 2-5 years depending on operating conditions.
+• Wood props suffer when flown in rain. While most wood props now offer some form of leading edge
+   protection, usually a tough cast urethane leading edge inlay, rain damage is still a concern. Even a short
+   time at reduced rpm in heavy rain will cause enough damage to require refinishing.
+• Wood props are lighter, but this is a mixed blessing. While the lower weight is of benefit in keeping the
+   empty weight of the airplane down and the useful load up, it does have disadvantages. The lightweight
+   wood prop has less inertia and therefore puts greater strain on the starter because there is less propeller
+   flywheel effect to carry through the compression stroke. For the same reason, engines equipped with
+   wood props will not idle as slowly or as smoothly as they would with metal props. Many RV pilots with
+   wood props find that when they are operating in the cross-country mode, with baggage and a passenger,
+   the CG is near the aft limit. A heavier prop on the front may actually allow more weight to be carried.
+• Wood is an organic material, and even though wood props are varnished and painted, they expand and
+   contract with the weather. This means the pilot must pay constant attention to the torque values of the
+   bolts holding the prop to the airplane.
+ADVANTAGES
+• One problem with fixed pitch props on fast airplanes is that it is difficult to get the correct combination of
+    static and cruise RPM. We have to compromise, accepting less static RPM (less thrust, take-off, climb,
+    etc.) than we would like, and also accepting some engine overspeed to achieve max. power cruise. Our
+    experience has been that wood props offer the advantage of a lower RPM spread than do the metal
+    props.
+• Wood props are considerably smoother. This is not particularly noticeable until one has flown behind a
+   well balanced wood prop for awhile, and then changes back to a metal prop. The normal reaction is
+   wanting to land immediately because of the rough engine operation. The difference is really quite
+   noticeable. This experience alone has caused some builders to throw away the metal prop forever.
+• While we would rather not think about such things, wood props will help protect the engine from internal
+   damage in the event of a prop strike. Because the prop breaks readily, the force transmitted to the
+   engine will not be as sudden and as violent as with a similar strike with a metal prop. Wood props are far
+   cheaper than engine crankshafts, and replacing one may cost less than repairing a bent metal prop.
+In the real world, the cost of the fixed pitch metal and wood props is not greatly different. The extras required
+by a wood prop; extension, crush plate, bolts, etc., are included in the price of the metal prop. The metal
+prop should outlast the wood prop and requires less maintenance.
+Fixed pitch propellers fall into two general categories: "climb" props and "cruise" props.
+A"Cruise" prop is one with a high pitch angle which will produce more thrust and speed at a given RPM. A
+"Climb" prop is one with a low pitch angle which will permit the engine to attain a higher RPM at low speeds,
+thus produce more power which will result in a higher climb rate. But, we need to know much more than that
+in order to make a wise prop selection. Assuming that both the cruise and the climb props have the same
+blade efficiency, each will produce the same airspeed for a given power output. Note that we said "Power
+Output", not RPM. They are not necessarily the same. Power output varies not only with RPM but also with
+manifold pressure. Manifold pressure is determined primarily by the amount of throttle opening. (This is a
+powerful argument for having a manifold gauge in your fixed pitch airplane, even though this is not standard
+practice in factory aircraft.)
+RPM is determined largely by the load on the prop, which is determined by prop diameter and pitch, and
+aircraft forward speed. To simplify this explanation, let's consider a 160 HP RV-6 cruising at 8000 ft. with the
+throttle wide open. At 2600 RPM it will be developing 120 HP or 75% power, the maximum attainable output
+at this altitude. Substituting a higher pitch prop will load the engine and cause RPM to drop. The drop in
+RPM will cause a loss of power which means that the airplane will go slower. On the other hand, if we
+substitute a lower pitch prop, the RPM will increase because of the lower work load that the engine is
+subjected to, and the power output and speed increase. So, for a fixed throttle position, a high pitch ( cruise)
+prop will actually cause a loss of speed, and a low pitch (performance) prop will cause a speed increase.
+Because of the increased RPM with the performance prop, fuel consumption will be greater, the noise level
+higher, and engine wear greater. The cruise prop will provide greater fuel efficiency, less noise, and less
+engine wear.
+From another perspective, let's view the different pitch props operating at a fixed engine speed, 2500 RPM
+for example. The median pitch prop might require a throttle setting of 23 in. manifold pressure to achieve
+2500 RPM. The low pitch performance prop might require only 21" manifold pressure, but would be slower
+and burn less fuel. The high pitch cruise prop might require 25" MP for the same 2500 RPM, but would be
+faster and burn more fuel. If we ignored manifold pressures and fuel consumption, it would be easy to
+
+sect 11r7 11/14/07                             11-7
+     RV AIRCRAFT                                          SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+     conclude that the cruise prop is the fastest, but the preceding explanation showed just the reverse to be true.
+     If we concluded that more pitch means more speed, we could choose a prop with a pitch so excessively high
+     that we would not be able to attain 2500 RPM even at full throttle, and our take off and climb performance
+     would suffer greatly. Because of the reduced RPM, power output would diminish which means less speed.
+     In summary, a cruise prop is one with high pitch which will yield a high speed at a low RPM. A performance
+     prop is one with low pitch which will yield more RPM at a given throttle setting, and thus more power,
+     particularly for take off and climb. Since it will also (within limits) provide a higher top speed, it improves
+     performance all around at the expense of higher fuel consumption and engine wear.
+
+     CONSTANT SPEED PROPELLERS
+     If you want the ultimate performance from your RV, there is no substitute for a constant speed (CS) propeller
+     by a certified propeller manufacturer. (There are a number of variable pitch props under development and/or
+     available for homebuilts, but none of which have been sufficiently developed or proven to warrant our
+     recommendation at this time. There are also at least two prop manufacturers in Germany producing suitable
+     constant-speed props, but they are very expensive.)
+     Constant speed props use pressurized oil from the engine to vary the pitch of the blades. The angle is
+     controlled by a governor that automatically adjusts prop pitch angles to maintain the RPM selected by the
+     pilot. Van's prototypes have flown with aluminum-blade Compact Hub constant speed propellers
+     manufactured by Hartzell Propeller Co. of Piqua, Ohio and composite/wood-blade constant-speed props
+     manufactured by MT Propellers of Germany.
+     Typical installed weight of an aluminum constant speed, including the governor and controls, will be around
+     60 lbs or 35-40 lbs heavier than a fixed pitch wood prop installation. The composite/wood constant speed
+     will be somewhat lighter
+     Maintenance of a metal CS prop is a "Good news/Bad News" proposition. Blade maintenance will be
+     minimal because of its resistance to rain erosion. However, the complex control mechanisms in the prop hub
+     require periodic maintenance which must be conducted by approved prop repair facilities. This is expensive.
+     Also, any damage to the blades due to striking something (like the runway) will be expensive to repair. If a
+     serious prop strike does occur, it is probable that the engine crankshaft flange will also be damaged.
+     The primary reason for using CS props is performance. The ability to control the prop blade angles permits
+     the pilot to maximize engine and prop performance for any given flight condition. Below is a description of
+     the performance offered by CS props for several flight conditions:
+     • Take off: Setting a low propeller pitch reduces the prop load on the engine and permits it to rev up to full
+        power RPM. The low prop pitch angle is also more efficient. A CS RV can expect take off distances to
+        be reduced between 20 to 40 percent from that of a fixed pitch prop. This is a significant performance
+        difference, but is not a major factor because RV take offs are short even with fixed pitch props. In other
+        words, the CS prop is not as necessary on an RV as it is on most production airplanes with comparable
+        top speeds, which would have unacceptable take off performance if equipped with fixed pitch props.
+     • Climb: For the same reason as the take off the CS prop will improve the climb rate and climb angle.
+         Climb rate will increase by approximately 10-15%, depending on the climb speed.
+     • Cruise: This is the flight condition at which we feel the CS prop offers the greatest advantage to an RV.
+        Most RVs will spend the majority of their flight time in cruise, so any benefit gained will be of greater
+        value. Though the fixed pitch prop is operating at its best in the cruise condition, it is still a compromise.
+        But, there is a wide variety of conditions which occur under the general heading of "Cruise"; anything
+        from full throttle & RPM (at altitude), to just enough power to maintain minimum power flight. "Rated
+        Cruise Speed" for production aircraft is quoted for conditions under which the maximum permissible
+        continuous speed can be achieved. This usually occurs (for non-supercharged engine) at about 8,000 ft.
+        and at maximum permissible continuous RPM. This combination produces about 75% of maximum rated
+        power. Under this condition, the CS prop will offer little advantage over the fixed pitch prop, other than
+        what little it may gain from better blade efficiency.
+         The CS prop offers its main cruise advantage under reduced power cruise conditions. Engines operate
+         at peak efficiency when the throttle is full open. This is because the air flow control vane in the carb or
+         injector throttle body is completely open and offering the least resistance to airflow. This reduces what is
+         known as "pumping losses" within the engine. There are two primary means (from the pilots vantage
+         point) of reducing power output of an engine. One is to reduce the RPM of the engine and the other is to
+         reduce the manifold pressure. With a fixed pitch prop, the only means of reducing RPM is to retard the
+         throttle setting. In so doing, the control vane (butterfly) in the carb partially closes, manifold pressure is
+         reduced, and engine efficiency drops. With a variable pitch (CS) prop, the RPM can be controlled
+         through adjusting the blade angle, and thus the propeller load on the engine. The throttle can be left full
+         open (in its most efficient position) and the power output can be reduced by lowering the RPM. This
+         reduced RPM, full throttle condition achieves both reduced engine friction because of the lower RPM,
+         and minimum pumping losses. Fuel efficiency will be improved, but speeds will drop because less than
+         full cruise power is being used. Above we mentioned 8,000 ft. as the optimum cruise altitude. This is
+
+
+sect 11r7 11/14/07                             11-8
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+    because it s the lowest altitude at which an engine will develop no more than 75% power at rated RPM.
+    With a variable pitch prop, selecting low RPM can cause the engine power output to be 75% or less at
+    altitudes of less than 8,000', making it possible to utilize the efficiency of a continuous full throttle opening
+    at altitudes well below 8,000'. Just leave the throttle wide open and pull the RPM back to a number
+    which, according to the Lycoming manual, produces 75% power or less.
+• The bottom line when analyzing prop performance and efficiency in cruising flight is fuel consumption.
+    One can expect rates of 1/2 to 1 gph less than with fixed pitch wood props. Savings might be as high as
+    1 1/2 gph under extreme conditions with 180 HP engines.
+■   Descents: Constant speed props offer two completely different advantages over fixed pitch props during
+     escents. First, they can offer added speed during long, slow descents from cruise altitude. With fixed
+    pitch props, power descents are not practical because the added speed causes excessive RPM requiring
+    power reduction. Constant speed props will control the RPM as speed increases in the descent. Now,
+    red line speed, not RPM becomes the limiting factor.
+    On the opposite end of the scale, when the throttle is retarded to idle or near idle power, the CS prop can
+    be moved to low pitch which will offer noticeable aerodynamic braking action.
+■   Aerobatics: During aerobatic flight, the braking action of a CS prop can help to control speed build up
+    during portions of maneuvers. And, of course, its slow speed thrust advantages are helpful
+    during the climbing, particularly low speed climbing, portions of the maneuvers. On the negative side, the
+    added inertia of the CS prop causes greater stress on the engine crankshaft and slows down
+    maneuverability to a small degree.
+    Note that electrically actuated constant speed props are NOT recommended for aerobatics.
+
+INSTAL L ING CONSTANT-SPEED PROPEL L ERS
+Most constant speed props are controlled by a hydraulic governor which controls oil pressure to the prop
+through a hollow crankshaft. The majority of 0-320 engines, and many 0-360 engines are not configured to
+accept a hydraulic CS prop and governor. Thus, the RV builder planning to use a CS prop should shop for
+the specific model engine offering CS features.
+When installing a constant-speed propeller, the builder should research any operational restrictions on the
+engine/prop combination under consideration. Many combinations are placarded with "avoid continuous
+operation" ranges. This information can be gathered from the propeller manufacturer's Type Certificate Data
+Sheets. These Data Sheets are available from the manufacturer or the FAA, and are often obtainable over
+the Internet. Following is a chart summarizing some possible prop/engine combinations, but the builder is
+strongly advised to do his/her own research and obtain, read, and understand the Data Sheets for the prop to
+be installed. Shown here is a table of restricted operating ranges for Hartzell Compact Hub constant speed
+props.
+Constant-speed props should be installed according to the manufacturer's instructions. Bolts and hardware
+for installation are supplied with new propellers. Even constant-speed props should be checked for track.
+
+INSTALLING FIXED PITCH PROPELLERS AND PROP EXTENSIONS
+The sleek shape of the RV cowl was achieved, partially, by using a spacer between the back of the fixed
+pitch prop and the forward face of the crankshaft. This is called a "prop extension" although a more correct
+term might be "crankshaft extension". By moving the prop forward from the crank, the designer can achieve
+a more streamlined shape. See DWG C-4.
+The prop extension is a very important component. It must made strong enough transmit the full power of the
+engine to the propeller, and withstand the gyroscopic stress imposed by the movement of both the prop and
+the aircraft. It must be made accurately enough to exactly match the bolt patterns in the crank and prop and
+allow the prop to track accurately. No compromises should be accepted when considering a prop extension.
+Two types of prop extensions have been used on RVs. This first is shaped like spool, with separate sets of
+bolts (two sets of six, or 12 total bolts) holding the prop to the extension and the extension to the crank. This
+style places the propeller 4" ahead of the crank face and fits older "fixed-pitch" cowlings. Since 1994, the
+"constant speed" cowl has become standard, and a shorter, 2 1/4" cylindrical prop extension is used when a
+fixed pitch propeller is installed. This extension uses six long bolts running through the spinner backplate, the
+crushplate (wood prop), the prop itself, the extension and into the crank.
+Depending on the engine, the bolts mounting fixed pitch props and extensions may be either 7/16" or 3/8"
+diameter on the 0-320 (new 0-320s from Van's use 7/16") or 1/2" on the 0-360. Sensenich fixed pitch
+metal props are supplied with the proper extension and bolts.
+Prop extensions and prop extension bolts are peculiar to the experimental aircraft field. A common supply
+line for these bolts has not been established within the production aircraft field. Drilled head AN bolts of the
+necessary length can be easily found, but they usually have standard length threads which, for this
+application, are too short. Some builders have felt that they can just take regular AN bolts and cut longer
+threads on them. This should never be done! Threads on aircraft bolts are rolled, not cut. Cutting threads,
+
+sect 11r7 11/14/07                              11-9
+     RV AIRCRAFT                                           SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+     particularly with the low quality dies found in the typical homebuilder's shop, can cause stress risers and
+     eventually cracks in the bolt threads. DON'T CUT THREADS ON ANY AIRCRAFT BOLTS, ESPECIALLY
+     PROP BOLTS. Having prop bolts break in flight is a terrifying and potentially deadly experience!
+     Wood prop installations must have a 3/8" (minimum) aluminum faceplate under the bolt heads to protect the
+     wood and provide even pressure. Bolts should be tightened to the specific torque value called out by the
+     prop manufacturer. As wi!l be covered later, frequent re-torquing of prop bolts on wood props is vital to
+     safety. Checking and re-setting the torque on prop bolts usually requires removing the spinner bowl and
+     cutting safety wire, which often deters builders from this important preventative maintenance practice. Do not
+     overlook this important safety check!
+     If you are using a spool extension, we suggest using a prop crush plate designed or modified to lock the prop
+     bolt heads from rotation.
+     Quality prop bolts, extension bolts, prop extensions, crush plates, etc., are available through Van's
+     Accessories Catalog. Consult the charts and descriptions there to determine the proper components for your
+     installation.
+     Both prop tip track and prop extension alignment should be checked. If the crankshaft flange is not true,
+     installation of the prop extension wi!l then position the prop off center. Check the forward flange of the
+     extension with a dial indicator. Common writing paper may be use as shim stock, placed between the
+     crankshaft flange and the prop extension. Once this is done (if required), the prop track can be checked and
+     should be within 1/16 inch. This can be adjusted with paper shims also, between the forward flange of the
+     extension and the prop.
+
+     SPECIFIC PROPS FOR RVs
+     The subject of prop selection generates more questions than any other topic. Unfortunately, propeller
+     performance is probably the most difficult area to quantify and define, so there are no ready answers. To
+     complicate matters, there is little standardization. Propeller pitch numbers used by one manufacturer have
+     no meaning when applied to another, and are useless for comparative purposes.
+     Here is one example: The prop initially chosen for the RV-6 was a wooden two blade, 68" in diameter and
+     with, by the manufacturers definition, 69" of pitch. It worked quite well, though it was a "cruise" rather than
+     "performance" prop. With a 160 HP engine, it gave a static RPM of 2200 and a top speed RPM of 2850. At
+     8,000 ft. cruise altitude, fu!l throttle (75%) yielded about 2775 RPM and 192 mph. It is our understanding that
+     continuous operation of the Lycoming engines at high RPM is not a cause for concern other than for higher
+     fuel consumption, noise, and engine wear. But, since 2775 RPM is a bit higher than the 2700 RPM
+     recommended for maximum cruise, we throttled back about 1" bringing the RPM down to 2700 and the speed
+     to 188 mph. As discussed earlier, cruising at less than fu!l throttle causes a slight loss of engine efficiency
+     and inability to lean the engine quite as well. Additional prop pitch to hold the RPM down would also drop the
+     static RPM and would effect the take-off distance and climb. Since the RV-6/6A is a general purpose
+     sportplane, we consider the minor cruise penalty a reasonable trade-off.
+     This same airplane was later converted to a fixed pitch metal prop, 70" in diameter, and having, according to
+     the manufacturer, 79" of pitch. If the pitch numbers were taken at face value, the large increase should have
+     made a very big change in the airplane's performance. Instead, take-off performance was only slightly less,
+     and top speed slightly greater. Fuel consumption at normal cruise decreased a few percentage points.
+     We later changed props yet again, going to the Hartzell Constant Speed metal prop. The performance
+     realized from the CS prop was in keeping with the earlier discussion on CS prop performance. Would this
+     increased performance be worth the extra cost to you?
+     Keep in mind this example is for one airplane only. Any significant difference in drag or weight wi!l make a
+     difference that would dictate a different optimum prop pitch. An RV not aerodynamically finished as we!l as
+     the example might experience a speed loss corresponding to an inch or two of pitch. Restated, a higher drag
+     RV would require a prop with less pitch to cruise at the same RPM as a more efficient airplane which goes
+     faster at the same power output.
+
+     MA TCHING THE ENGINE TO THE PROPEL L ER
+     There are many different models of Lycoming engines. Some can run both constant-speed or fixed-pitch
+     propellers, some can only run fixed-pitch props. If you are buying a used engine, be certain the engine is
+     correctly set up to run the type of propeller you intend to install. Incorrect installation can result in damage to
+     the engine or even an in-flight failure.
+     Regardless of whether you are using a new or used engine, acquire, read and understand a copy of
+     Lycoming Service Instruction No. 1435. This Service Instruction details the modification necessary to the
+     engine when converting from constant-speed to fixed-pitch propellers or vice versa. These modifications
+     include installing or removing an oil line from the governor, removing, replacing and/or piercing various plugs
+     in the crankshaft, replacing crankshaft bushings and more.
+     ALL new engines from Van's must be modified before installing ANY propeller. They are supplied with a
+
+sect 11 r7 11/14/07                             11-10
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+temporary front crankshaft plug (Lycoming p/n STD 1211) in place. This must be removed completely if a
+constant-speed prop is installed. If the engine is to turn a fixed pitch prop, the plug must be removed, the
+rear plug down inside the crankshaft pierced as detailed in Service Instruction 1435, and a new STD 1211
+installed.
+
+PROPEL L ER SUPPLIERS
+Van's does not sell wood props. There are many wood prop manufacturers, especially of wood fixed pitch
+propellers, and we cannot keep up with their moves and changes. Van's does not conduct a regular program
+of propeller testing, so we cannot recommend one manufacturer over any other. We recommend checking
+the ads in magazines such as Kitplanes or EAA's Sport Aviation for prop manufacturers . Call and discuss
+your needs with them. Don't be afraid to ask for references.
+
+
+
+
+sect 11r7 11/14/07                           11-11
+     RV AIRCRAFT                                                                                           SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+                                                                                                                    ^
+                                                                                fa
+                                 lbl^                                           a^                                                                                  ^
+                                ,.,                                             c                                                                                   a
+                                                                a            4 9                     r?'              E                 E
+                                J^ L                                        ,c r-I Gc                ^                la^
+                                 90                             do          41 q.I                                    M                 H
+                                                            jd                                                      8
+                                                                                                                                                                    ^
+                                                                                                                                                                    ^
+                                 # ^P           v                                                   4
+                                                                #           mr A^                   O                                  b
+                                                                             ^ a                    C-              [ti                i--                          ^
+                                i4A                                                                 ^               tu                 N
+                                                mes
+                                tti^           ^ C                           t^t1.c^i ^                             ^                                               ^
+                                               -44          ^                $4 v w a                                                          ^
+                                tir
+                                                            ^                                                       ^
+                                                                           v=E Q                                                                                    ,4
+                                 a^dca          a           ^                                                                          ° ZE I;                      ^
+                         .h
+                                                                                                    4
+                         F
+                                .r,                                        ,-r ia }ti O                             W                          :3
+                                                                                                                                       cW • .4 p
+                                                           -E                                       ^               -I
+                                 o. cq                                                                                                                              ra
+                                                fe?                                                                                                                 a.
+                                                                                                                                       ^4 ,.4 ^ -i
+                      ^%
+                                        C3     ..^o
+                                                                             Qv w ^
+                                                                                                    ^               ^                    4P
+                      P^ "                                                                                                             ^.s
+                                 sr',I         qj +P        19               a^                                                              i. ad b w.
+                     N           4 d                                                                                                                                                               u
+                                               -ah
+                                                            $                                       21                                       2.5Laa
+                                                           's!
+                      UW         9 r.          --A                         w Fmi                                                       ^G,.^o m ci                                                 X
+                                               4.a                                                                                     8 ^
+                                                                            o
+                     fi fl.vt    L". py        i''Lrl                                                                                  W n.[                        ^^ v                           ^
+                           V)                    k P.       ..^                                     -I              ^                  aF v d ..s
+                                                                                                    W               .r.^                                            4w
+                      rC
+                       dW                          G.       tkD              m+ti CI Gtl                                                                                                           ^
+                                                                                                    N               ri                     ri ema                        u^                        m
+                                                            p                                       ^                                         O 4
+                     pi^+^
+                                               ^            u£
+                                                                                                                                        ^M J MYda^                  Sh ^
+                                                                                                                                                                       l1               0          a •
+                                ^Ul                         Qad            r-i=t- d n                                                                                                              G[^t
+                                ss                  ^
+                                                    P-4                                                             f o++                                                               ^          m^e
+                     O # ^              .a-                                                         a^ o^ as ^ry                                                                        U          4
+                     1'S La ^
+                                w                                             4-- m }Q                              i°7 s y °            er s a} Fr,_a               r
+                                                            ^A              } d ^ Q F.^ L
+                                                                                                                                       tm 0 Ad
+                                                                                                                                                                                                   I+ z
+                     P-i ^ r+                                               4d F. u                                                                                 -10
+                                                                                                                                                                     _ g                 a
+                                                                           jq                                                                      r^d6^                                ^
+                                                           4.3 m                    PS G                            Mi4
+                                                                     54                                                                                             %N^G^               r.^              w
+                                                                             rab
+                                                                            ao   r^
+                                                                                ..a                                                    P54 P 0                                           m
+                                                            0                                       dA m0           m^wdc,              fl o...                                         p
+                                                                                                                    la+i sdwP-4        u ^wdea...^                                      a
+                                                                                  ^9 ^^                  .w ^or[
+                                                                                                                                                                          F-^ a                    Q^
+                      11                                   ^-0                                                                         &ro e1 #w 0-4
+                                aF^i                                                                                                                                                    ^          -K
+                     €3 W                                                                           r• L re5                           ` 71 f,F `h ik                                                    Fd
+                                                                            4 m
+                                                                              +..r G
+                                                                                   ^.}                              ^od5 w
+                                                                                                                         q^ p^+i       ti5 ,^ Ff. FI 47                                 8}
+                                                                     4                              m^Ya.^CrJ       131-1
+                                                                                                                                                                    ig HHrrt            ^
+                                                           .t              u,^•{c m r                                                        ^ 1 C I
+                                        xcVJ               VF                                                                                                                           4          Q
+                                                                                           ad-                                                                                          tq         ^
+                                                                                                                                                                                        1
+                                Fi                                                                  tl              Mk
+                                                                                                                                       ^                                                           6
+                                D                                                                                                                                                       G
+                                               P                          ^           x             4
+                                                                                                                     C                 ^
+                                                                                                                                       M
+                                                                                                                                                                  48
+                                                                                                                                                                  x
+                                                                                                                                                                                        I^L
+
+
+
+
+                                                                                              ri
+                                                                                              p
+                                                                                               si
+                                                                                               u
+           ra                                                                                                                   V3
+                                                                                               IA
+                                                                                       M                                                                                                            i
+           rY
+                                                                                       ^ r.                          a r
+                                                                                                                     rC4, a                               E                                         F,
+                                                                                           L
+                                                                                         • ar                         h rW                                                                          ^
+                                                                                       4 YS u              e  n  ^ny        }                                                                       ^
+                                                                                                           U. S. ryo.•[^8
+                                                                                       I D 10                  Q    Q^' 21a                                                          d^i d •
+                                                                                           J-D W                                                                                   F44- W+^
+                                                                                                                                                          M                          4-1
+                hy                                                                                       [ti .+.^j bfl.40^G
+                                                                                       a+iN
+                                                    F.                      vi                           N
+           O S^] •i N c't                                                  v                                           ore•
+                                                    k                                  r+ r eq
+           x^                                       0                                                                                                     F4                      H ^ ^ +kb
+                                                                                                         ^ ++am     w a ^ ^ 4 4.w J                                               rt-i w.r
+                                                    L      r.                                            z a• W I.ai-i^ . m..y"
+                                                    m      #               47 a.IJ.Q^ m
+                                                                                                                                                                                  O a S. f,
+                                                    ^       Y                     i1 a                   O b^ b cQ.ib w^K^^
+                                                    0                      c^i .F.ArF-,n                                                                                          w1YfGO^
+                                                           m $a                                                                                                                     ea*.e,
+                                                                           0 n4 a^.a u                                                                    ^i ^                    mwo au
+      N                                                                                                  ^ .y^ Os.^7w^4.s^d
+                                                                                                                ^           5.C
+                                                                               ^w G,ci
+                                                                     rl                             4 4 u^ -d '.Grir a#^^5 C
+                                                                                                                                                                                   Crr^ 6i
+      •0 44d^ImIG113                                ^                                               +^I.W o Y  0    O   O                                 ^ V) U
+                                                    ^         a
+      RrY P. tO                                            ei q             ^^ V ^                                                                             G G
+                                                                                                    ^4J GdO w ^Y..F.1
+                                                                               ^ #.                                                  F4 11 0 1 17                                              0
+      a                                            ^
+                                                           A
+                                                           .0              a^ pr+ 4                                                            04                                  ia.iw 1 H
+                                                            td                                                                                            Q ^ M ^
+                                                                                  -M 47 F. {#
+                                                   ^       r-I 0           F,2,^wam                 K v a.- ^r°
+                                                                                                              a K s a ui '^ 6 ^ c^a +9+ IC
+                                                              ^                                                                                                                    Q 40 ^od f.
+                                                                           od C'^Y^a                f+v D^ hk p 1. c a a, Cd ^ o
+      4                                                      ,.a          FCp                                                                             ax^^^
+                                                    u      4+0.            K Rvi -c ^ m F                                                                                                                14
+          _
+          .4
+      "I ^4                                                                                         a Ic E^oY46a ed 4^.^ia^a^ tDG                         W
+                                                    ^                                                                                                     ^.-I9 ^o o^j            ^ a ^ a
+                                                                                                                xr^ OV u^^^7 C3 1 F.                                              ..y ^.^.^ r4 0
+                                                    c7     U di                                     l7 y U-i od a6 k. S1 er.., 7H 5*I 91 ••i              G Q6$                       [a
+                   &J fF                                                  K OG                                JG Oa U .y Lko'^ ('1 W 3
+      v ia ^t4 a 6 ei k                                                                             r.i■ ..y aJ l4 .•im unF^O ^ }rs
+                                                                 dk^                                  cd ^G.o^sC Gw^C d^ .0..-I G.
+                                                           671                                      ^ ^^{-+ a S.w 2S e+^ ^.                               o-.e u,.y-,y
+     4m ^^i^vN4'^^^ ^+e^
+                                                          N [4
+                                                                                                    ^WtkK^^oa ca^v^i,o
+                                                                                                                                                               «ao
+     {S w
+                                                                                                    W. ^^dr4,r^ w ^^l ^^ir^id^•^ai                     6ip^o++t+i7
+                                                                                                             -I- C-6 m ^ 4 --l .1" a p p Vp                         I L
+                                                 M p                                                                                                                                          IA ^
+                                                                                                             LY]^cn AV m:                                 ^    -C   IR
+                                                 F W
+                                                 fi E                                               m^         t3    Q      ^    .
+                                                                                                                                                       !
+                                96 ^I tr }r      u
+                                                 ro       rO              {^_C7
+                                ajg
+                                         H-4
+                                                          La                                                                                           ^
+                                                          r51                                       ^a         v      a     e                          L14
+                                                                                                                                                       f3                         L'S
+      ;:b aOtiEa.C a ^ J r                       Q        44              r.}
+                                                                                                    C
+      r"' G H £-i G                              F4 Q                     +-^Y                      W                                                  C^
+                                                                                                                                                       F-I
+                                                                                                                                                                                  ^
+                                                                                                                                                                                  f-s
+
+
+
+
+sect 11 r7 11/14/07                                                                   11-12
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+                      A GUIDE TO LYCOMING FOUR CYLINDER PARALLEL VALVE ENGINES
+
+
+                  Tlot          E       S/N
+          Model liP RPM Fuel C.R. Description Suffi.Y
+
+        0-235-N2A 116 2800 10011ooLL 8.10:1 Same as -L2A but lower comp. ratio and power -15
+
+        0-235-N2C 116 2800 100110oLL 8.10:1 Same as -L2C but lower comp. ratio and power -115
+
+        0-235-Pl 116 2800 loonooLL 8.10:1 Same as -Ml but lower comp. ratio and power -15
+
+        0-235-P2A 116 2800 worlool.L 8.10:1 Similar to -P1 but has AS-127, Type 1 propeller lange -15
+
+        0-235-P2C 116 2800 loowaLL 8.10:1 Same as -M2C but lower comp. ratio and powe: -15
+        0-235-P3C 116 2800 100nooLL 8.10:1 Same as -M3C but lower comp. ratio and power -15
+
+        0-290-D 130 2800 80 6.50:1 Solid tappets, hydro control -21
+
+        0-290-11 127 2800 80 6.50:1 Same as 0-290-D -21
+
+        0-290-D2 140 2800 80 7.50:1 Hydraulic tappets, 18° spark advance -21
+
+        0-290-D2A 140 2800 80 7.50:1 Same as -D2 but new crankcase for controllabie prop. -21
+        0-290-1)2B 140 2800 80 7.00:1 Same as -D2. 25° spark advance and lower C.R. -21
+
+        0-290-D2C 140 2800 80 7.00:1 Same as -D2B with Retard Breaker Magnetos -21
+
+        0-320-AlA 150 2700 80 7.00:1 Controilable propeller, 250 spark advance Bendi.i -27
+                                           S4LN-20 and S4LN-21 Magnetos
+
+         0-320-A1B 150 2700 80 7.00:1 Same as -AlA with straight riser in oil sump and -32 -27
+                                            carburetor
+
+         0-320-A2A 150 2700 80 700:1 Same as -AIA but fixed pitch propeller -27
+         0-320 _A2B 150 2700 80 7.00:1 Same as -A2A with straight riser in oil sump ar.d -32 -27
+                                             carburetor
+
+         0-320-A2C 150 2700 80 7.00:1 Same as 1128 with Retard Breaker Magnetos -27
+
+         0-320-A2D 150 2700 80 7.00:1 Same as -E3D but with conical mounts and 0-320,a sump -27
+                                               and intake pipes
+
+         0-320-A3A 150 2700 80 7.00:1 Same as -AlA but uses 7116 in. dia. propeller boits -27
+
+         0-320-A3B 150 2700 80 7.00:1 Same as -A3A except for straight riser in oil st'm and -27
+                                             -32 carburetor
+         0-320-A3C 150 2700 80 7.00:1 Same as -A3B except for Retard Breaker 141agr.etos -27
+
+         0-320-BIA 160 2700 1001100LL 8.50:1 Same as -AIA but high C.R. -39
+
+         0-320-B1B 160 2700 loortooLL 8.50:1 Same as -B1A except for straight riser in oil si:..-ip and -39
+                                                -32 carburetor
+
+         0-320-B2A 160 2700 1001100LL 8.50:1 Same as -BIA fixed pitch propeller -39
+
+         0-320-B2B 160 2700 1001IDOLL 8.50:1 Same as -B2A except for straight riser in oil sc.-np and -39
+                                               -32 carburetor
+         0-320-B2C 160 2700 toorlooLL 8.50:1 Same as -B2B except for Retard Breaker Mag_ etos -39
+
+         0-320-B2D ^t 160 2700 1001300LL 8.50:1 Same as -D1D except fixed propeller and conica: mounts -39
+
+         0-320-B3A 160 2700 uwnuotL 8.50:1 Same as -B1A except for 7/16 inch propeAer at:aching -39
+                                              bolts
+
+
+
+
+sect Ilr7 11/14/07                               11-13
+     RV AIRCRAFT                                              SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+
+
+                                                       PISTON - (4) FOUR CYLINDER SERIES
+                               'C/Ot           E     S/N
+                        Model HP RPM Fuel C-R. Description Suffix
+
+                       0-320-B3B 160 2700 Ioo.aooLL 8.50:1 Same as -B1A except for 7116 inch attaching bolts and -39
+                                                              straight riser in oi1 sump and -32 carburetor
+
+                       0-320-B3C 160 2700 100,'100LL 8.50:1 Same as -B3B except for Retard Breaker Magnetos -39
+
+                       0-320-C1A 150 2700 80 7.00:1 Low compression field service conversion of -B1A -39
+
+                       0-320-C1B 150 2700 80 7.00:1 Low compression field service conversion of -B1B -39
+
+                       0-320-C2A 150 2700 80 7.00:1 Low compression field service conversion of -B2A -39
+                       0-320-C2B 150 2700 80 7,00:1 Low compression field service conversion of -B2B -39
+
+                       0-320-C2C 150 2700 80 7.00:1 Low compression field service conversion of -B2C -39
+
+                       0-320-C3A 150 2700 80 7.00:1 Low compression field service conversion of -B3A -39
+
+                       0-320-C3B 150 2700 80 7.00:1 Low compression field service conversion of -B3B -39
+
+                       0-320-C3C 150 2700 80 7.00:1 Low compression field service conversion of -B3C -39
+                       0-320-D1A 160 2700 I00700LL 8.50:1 Same as -B3B but with Type 1 dynafocal mounts -39
+
+                       0-320-D1B 160 2700 loonOOLL 8.50:1 Same as -D1A except for Retard Breaker Magnetos -39
+
+                       0-320-D1C 160 2700 ]W 100LL 8.50:1 Same as -D2C but with provision for controllable prop. -39
+
+                       0-320-DiD 160 2700 lVo1l00LL 8.50:1 Similar to -D1A but has horizontal carburetor and in- -39
+                                                             duction housing and has SGck Magnetos
+
+                       0-320-DIF 160 2700 100700LL 8.50:1 Same as -ElF except has high compression pistons -39
+                       0-320-D2A 160 2700 1oo11ooLL 8.50:1 Same as -D1A but with fixed pitch propelier and 3/8 in. -39
+                                                             attaching bolts
+
+                       0-320-D2B 160 2700 100znoLL 8-501 Same as -D2A except for Retard Breaker Magnetos -39
+
+                       0-320-D2C 160 2700 100100LL 8.50:1 Same as -D2A except for -1200 series Magnetos -39
+
+                       0-320-D2F 160 2700 1oo'looLL 8.50:1 Same as -E2F except has high compression pistons -39
+
+                       0-320-D2G 160 2700 10010oLL 8.50:1 Same as -D2A but with SGck Magnetos, 7/16 instead -39
+                                                            of 3/8 in. propeller flange bolts
+                       0-320-D2H 160 2700 l0U1OOLL 8.50:1 Same as -D2G but with 0-320-B surnp and intake pipes -39
+                                                            and has provision for AC type fuel pump
+
+                       0-320-D2J 160 2700 IoalooLL 8.50:1 Similar to -D2G but has (2) Slick impuise coupling -39
+                                                            magnetos and an unmachined governor pad on front of
+                                                                 crankcase
+
+                       0-320-D3G 160 2700 10010ULL 8.50:1 Same as -D2G but with 3/8 in. propeller attaching bolts -39
+                                                            and has provisions for fuel pump
+
+                       0-320-E1A 150 2700 80 7.00:1 Same as -A3B but with Tgpe 1 dynafocal mounts -27
+
+                       0-320-EIB 150 2700 80 7.00:1 Same as -E1A except for Retard Breaker Magnetos -27
+                       0-320-E1C 150 2700 80 7.00:1 Same as -E1A but has -1200 series Magnetos -27
+
+                       0-320-E1F 150 2700 SO 7.00:1 Same as -EIC but with propeller governor drive on left -27
+                                                           front of crankcase
+
+
+
+
+sect I 1 r7 11/14/07                               11-14
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+
+                                          PISTON - (4) FOUR CYLINDER SERIES
+
+                    T/Ot                                                                                           E S/N
+         Model HP RPM               Fuel C.R. Description                                                          Suffix
+
+       0-320-EI.I 150 2700           80 7.00:1 Same as -ElF but has SGck Magnetos                                  -27
+
+       0-320-E2A       150/ 2700/    80 7.00:1 Same as -EIA but with fixed pitch propeller and uses                -27
+                       140 2450                    3/8 inch attaching bolts and has aiternate rating of 140 HP
+                                                   at 2450 RPM-
+
+       0-320-E2B 150 2700            80 7.00:1 Same as -E2A except for Retard Breaker Magnetos                     -27
+
+       0-320-E2C 150/ 2700/          80 7.00:1 Same as -E2A but has -1200 series hiagnetos                         -27
+                   140 2450
+
+       0-320-E2D 150 2700 80 7.00:1 Similar to -E2A but with Slick Magnetos, 0-235 front -27
+                                           main bearing and 7/16 inch propeller flange bushings
+       0-320-E2F 150 2700 80 7.00:1 Same as -ElF but with fixed pitch propeller -27
+
+       0-320-E2G 150 2700 80 7.00:1                  Same as -E2D but has 0-320-A sump and intake pipes -27
+
+       0-320-E2H 150 2700 80 7.00:1                  Same as -E2D but equipped with S4LN-20 and -21 Mags. -27
+
+       0-320-E3D 150 2700 80 7.00:1                  Same as -E2D but uses 3/8 inch instead of 7l16 inch propeller -27
+                                                     flange bushings
+
+       0-320-E3H 150 2700 80 7.00:1 Same as -E3D but equipped with S4LN-20 and -21 Mags. -27
+       0-320-H1AD 160 2700 to01l0oLL 9.00:1 Integral accessory section crankcase, front mounted fuel -76
+                                            pump, external mounted oil pump and D4RN-3000 impulse
+                                            coupGng dual magneto
+
+       0-320-HIBD 160 2700 100n0oLL 9.00:1 Same as -H1AD but with D4RN-3200 retard breaker dual -76
+                                                magneto
+
+        0-320-H2AD 160 2700 IoonOoLL 9-00:1 Same as -HIAD but with fixed pitch propeller -76
+
+        0-320-H2BD 160 2700         I0ot100LL 9.00:1 Same as -H2AD but with D4RN-3200 retard breaker dual -76
+                                                     magneto
+
+        0-320-H3AD 160 2700 1001IOOLL 9.00:1         Same as -H2AD but uses 3/8 inch instead of 7/16 inch -76
+                                                     prope➢er flange bushings
+        0-320-I-I3BD 160 2700 100nooLL 9.00:1        Same as -H3AD but with D4RN-3200 retard breaker dual -76
+                                                     magneto
+
+        10-320-AlA 150 2700 80 7.00:1 Same as 0-320-E1B but with rear Bendix fuel injection and -55
+                                               Type 2 dynafocal mounts
+
+        10-320-A2A 150 2700 80 700:1 Same as AIA but with fixed pitch propeller and 3/8 inch -55
+                                            propeller flange bushings
+
+        10-320-B1A 160 2700 100f100LL 8.50:1 Same as 0-320-D1A but with Type 2 dynafocal mounts and -55
+                                                rear mounted Bendix fuel injector
+
+        I0-320-B1B 160 2700 100110OLL 8.50:1 Same as -B1A but has AN fuel pump drive -55
+        10-320-B1C 160 2700 1001(IULL 8.50:1 Same as -B1A but has adapter for mounting fuel injector -55
+                                               straight to the rear
+
+        10-320-BID 160 2700 100110oLL 8.50:1 Same as -BIC but with -1200 series Retard Magnetos -55
+
+        10-320-B1E 160 2700 100nooLL 8.50:1 Same as -D1C but with rear mounted horizontal fuel injector -55
+
+        I0-320-B2A 160 2700 100nuoLL 8.50:1 Same as -81A but with fixed pitch propeller and 3/8 inch -55
+                                               propeller flange bushings
+
+
+
+
+sect Ilr7 11/14/07                                 11-15
+     RV AIRCRAFT                                                SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+
+
+                                                   PISTON - (4) FOUR CYLINDER SERIES
+
+                         TIOt          E      SIN
+                  Model HP RPM Fuel C.R. Description Suffix
+
+                10-320-C1A 160 2700          IoonoaLL 8.50:1 Same as -B1A except converted for use with turbocharger, -55
+                                                              long reach spark plugs, piston cooGng oil jets, vented fuel
+                                                              nozzles, two S4LN-21 impulse coupling magnetos and
+                                                              AN fuel pump drive
+
+                 I0-320-CIB 160 2700 IoonoOLL         8.50:1 Same as -CIA but with fuel injector mounted straight to the -55
+                                                              rear and 24 volt system standard
+
+                 I0-320-D1A 160 2700         toonooLL 8.50:1 Same as 0-320-D2C except has Bendix RSA-5AD1 -55
+                                                              fuel injector, provision for controllable propeller and
+                                                              7/16 inch propeller flange bushings
+
+                 10-320-D1B 160 2700 106ROoLL         8.50:1 Same as -D1A but with propelfer governor drive on -55
+                                                              left front of crankcase
+
+                 I0-320-D1C      160 2700    100nooLL 8.50:1    Same as -D1B but with SGck Magnetos, 24 volt system and -55
+                                                                100 amp altemator standard
+                 I0-320-E1A 150 2700 80 7.00:1                  Same as 0-320-A3B except has Bendix fuel injector -55
+
+                 IO-320-EIB 150 2700 80 700:1                   Same as -ElA but with Slick Magnetos -55
+
+                 10-320-E2A 150      2700 80 7.00:1 Same as -EiA but with fixed pitch propeller and 3/8 inch -55
+                                                          propeller flange bushings
+
+                 10-320-E2B 150 2700           80 7.00:1 Same as 0-320-A2D but with Bendix RSA-SAD1 fuel -55
+                                                           injector
+
+                 IO-320-F1A 160 2700 toonooLL 8.50:1 Same as -CIA but with Type 1 dynafocal mounts -55
+                 LIO-320-B1A 160 2700 looaOnLL 8.50:1           Similar to IO-320-B1A but has left hand rotation -66
+                                                                crankshaft
+
+                 LIO-320-C1A 160 2700 10070ULL         8.50:1   Similar to I0-320-CLA but has left hand rotation -66
+                                                                crankshaft
+
+                 AI0-320-ALA 160 2700 1W 1DOLL 8.70:1 Aerobatic engine with performance similar to I0-320-D1A -65
+
+                 AIO-320-A1B 160 2700 l001aiLL 8.50:1 Same as -AlA but has impulse coupling Magneto -65
+
+                 AIO-320-A2A 160 2700 loo'looLL 8.50:1 Same as -AlA but with fixed pitch propeller -65
+                 /1I0-320-J12B 160 2700 100'1110LL 8.50:1       Same as -A2A but has impulse coupling Magneto -65
+
+                 AIO-320-BIB 160 2700 100 looLL 8.50:1 Similar to -91B but with front mounted fuel injector -65
+
+                 AJO-320-CIB 160 2700 1001ooLL 8.50:1 Similar to -B1B but the fuel injector is vertically mounted -65
+                                                         on the bottom of the sump
+
+                 :1EIO-320-D1B 160 2700 lUU'IOOLL 8.50:1 Same as I0-320-D1B but is equipped with Aerobatic kit -55
+
+                 AEIO-320-D2B 160 2700 100'10OLL       8.50:1 Same as -D1B but with fixed pitch propeller -55
+                 AEIO-320-EIA 150 2700 80 7.00:1 Same as 10-320-E1A but is equipped with Aerobatic kit -55
+
+                 :1EIO-320-E1B 150 2700 80 7.00:1 Same as I0-324-E1B but is equipped with Aerobatic kit -55
+
+                 AEIO-320-E2A 150 2700 80 7.00:1 Same as IO-320-E2A but is equipped with Aerobatic kit -55
+
+                 i1E10-320-E2B 150 2700 80 7.00:1 Same as I0-320-E2B but is equipped crith Aerobatic kit -55
+
+                 0-330-A1A 170 2700 100'100LL 8.50:1 Controllable propeller -30
+                 0-340-A1B 170 2700 1oo'10ULL 8.50:1 Same as :41A except for Retard Breaker Magnetos -30
+
+
+
+
+sect I 1 r7 11/14/07                              11-16
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+
+                                        PISTON - (4) FOUR CYLINDER SERIES
+
+                        T/Ot                                                                                  E S/N
+        Model        HP RPM       Fuel C.R. Description                                                       Sufflx
+
+      0-340 _A2A      170 2700   looaootL 8.50:1 Same as -AlA but fixed pitch propeller                       -30
+
+      0-340-B1A       160 2700     80 7.15:1 Low compression -AlA                                             -30
+
+      0-340-82A       160 2700     80 7.15:1 Low compression -A2A                                             -30
+
+      0-360-AlA       180 2700    loaluuLL 8.50:1 Dynafocal mounts                                            -36
+
+      0-360:91AD 180 2700 100700LL 8.50:1 Same as -AlA but with D4LN-3000 impulse coupiing dual               -36
+
+      0-360 _AIC 180 2700 100 looLL 8.50:1        Similar to -AIA but has horizontal induction housing, -36
+                                                  Bendix PSH-5BD pressure carburetor and retard breaker
+                                                  magnetos
+
+      0-360-r11D 180 2700 loo.uwLL         8.50:1 Same as -AlA except for Retard Breaker Magnetos -36
+
+      0-360:A1F 180 2700 100100LL 8.50:1          Same as -AIA with -1200 series Magnetos -36
+
+      0-360 _A1F6 180 2700 100a0oLL 8.50:1        Same as -AIF but has (1) sixth and (1) eighth order -36
+                                                  counterweights
+
+      0-360.A1F6D 180 2700 taulooLL        8.50:1 Same as -AIF6 but with D4LN-3000 impulse coupling dual -36
+                                                   magnetos
+      0-360:X1G 180 2700 100, 100LL        8.50:1 Similar to -A1F but has horizontal carburetor and induction -36
+                                                  housing
+
+      0-360-A1G6 180 2700 100r10oLL 8.50:1 Same as -A1G but has (1) sixth and (1) eighth order -36
+                                            counterweights
+
+      0-360-A1G6D 180 2700 lon.IWLL 8.50:1 Same as -AIG6 but with D4LN-3000 impulse coupling -36
+                                             dual magneto
+
+      0-360 .aIH 180 2700 tco luoLL 8.50:1 Same as -A1G but with propeller governor drive on left -36
+                                              front of crankcase and -21, -204 magnetos
+
+      0-360 _A1H6 180 2700 100?100LL 8.50:1 Same as -A1H but has (1) sixth and (1) eighth order -36
+                                            countenveights
+      0-360-A1LD 180 2700 loolWLL 8.50:1 Similar to -A1A but with D4LN-3000 impulse coupling -36
+                                            dual magneto and has propeller governor drive on left
+                                            front of crankcase
+
+      0-360-A1P * 180 2700 100i100LL 8.50:1 Same as -(;IG except dynafocal mounts -36
+
+      0-360-A2A 180 2700 100+100LL 8.50:1 Same as -AIA but fixed pitch propeller -36
+
+      0-360-A2D 180 2700 loalooLL 8.50:1 Same as -A2A except for Retard Breaker Magnetos -36
+
+      0-360 .42E 180 2700 1I)0:7UULL 8.50:1 Same as -A2D with provision for AN fuel pump drive -36
+      0-360-A2F 180 2700 100110OLL 8.50:1 Same as -A2A with -1200 series Magnetos -36
+
+      0-360-A2G 180 2700 1W 100LL 8.50:1 Same as -AIG but fixed pitch propeller -36
+
+       0-360-A2H 180 2700 100/lU9LL 8.50:1 Same as -AIH but has fixed pitch propeller -36
+
+       0-360-A3A 180 2700 loortoaLL 8.50:1 Same as -A2A but has 6 special long bushings in -36
+                                            propeller flange
+
+       0-360-A3AD 180 2700 1Wl1OOLL 8.50:1 Same as -A3A but with D4LN-3000 impulse coupling dual -36
+                                              magneto
+
+
+
+
+sect Ilr7 11/14/07                                11-17
+     RV AIRCRAFT                                                  SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+
+
+                                                          PISTQN - (4) FOUR CYLINDER SERIES
+
+                              T/Ot           E     S/N
+                       Model HP RPM Fuel C.R. Description Suffix
+
+                  0-360-A3D 180 2700 toonooLL 8.50:1 Same as -A3A except for Retard Breaker Magnetos -36
+
+                  0-360-A4A 180 2700 toonaoLL 8.50:1 Same as -A3A but has solid crankshaft -36
+
+                  0-360-A4AD 180 2700 IoonaaLL 8.50:1 Same as -A4A but with D4LN-3000 impulse coupling dual -36
+                                                         magneto
+
+                  0-360-A4D 180 2700 toonooLL 8.50:1 Similar to -A4A except with Retard Breaker Magnetos, {2}
+                                                              magneto drive isolators and -A2A propeIler Flange Bushings -36
+
+                  0-360-A4G 180 2700 IoanooLL 8.50:1 Same as -A2G but has -A4A crankshaft with -A2G propeller -36
+                                                          flange bushings
+                  0-360-A4) 180 2700 t00lIWLL 8.50:1 Same as -A4G but has -21 and -204 Magnetos -36
+
+                  0-360-A4K 180 2700 I0Qi1D0LL 8.50:1 Same as -A4J but with Slick Magnetos -36
+
+                  0-360 A4M 180 2700 Ioo,+1DoLL 8.50:1 Same as -A4A but with Slick Magnetos -36
+
+                  0-360-A4N 180 2700 toonOoLL 8.50:1 Same as -A4M but has an ulunachined governor pad on -36
+                                                        front of crankcase and -A2G propeller flange bushings
+
+                  0-360-A4P * 180 2700 100nooLL 8.50:1 Same as -A4M except for propeller flange bushings -36
+                  0-360-A5AD 180 2700 loonUOtL 8.50:1 Same as -A4AD but has standard lengtb propeller flange -36
+                                                         bushings
+
+                  0-360-B1A 168 2700 80 7.20:1 Same as :AlA but low compression ratio -36
+
+                  0-360-BIB 168 2700 80 7.20:1 Same as -B1A except for Retard Breaker Magnetos -36
+
+                  0-360-B2A 168 2700 80 7.20:1 Same as -B1A except for fixed pitch propeller -36
+
+                  0-360-B2B 168 2700 80 7.20:1 Same as -B2A except for Retard Breaker Magnetos -36
+                  0-360-B2C * 168 2700 80 7.20:1 Same as -B2A except has 10-360-A crank and rods -36
+
+                  0-360-C1A 180 2700 wo:iuuLL 8.50:1 Same as AIA but conical rubber mounts -36
+
+                  0-360-C1C 180 2700 100106LL 8-50:1 Same as -CIA except for Retard Breaker Magnetos -36
+
+                  0-360-CIE 180 2700 looIOOLL 8.50:1 Same as -C1A but with Slick Magnetos -36
+
+                  0-360-CIF 180 2700 tootooLL 8.50:1 Same as -A1G with conical mounts and S1ick magnetos -36
+                  0-360-C1G 180 2700 toa looLL 8.50:1 Same as -CLA but with propeIler governor drive on left front -36
+                                                            of crankcase
+
+                  0-360-C2A        180 2700 10o loaLt       8.50:1 Same as -CIA but fixed pitch propeller                  -36
+
+                  0-360-C2B        180 2700 100 looLL       8.50:1 Same as -CL9 but fixed pitch propeller and horizontal   -36
+                                                                    pressure carburetor and has helicopter rating
+
+                  0-360-C2C        180 2700 uw-muLL         8.50:1 Same as -C2A except for Retard Breaker Magnetos         -36
+
+                  0-360-C2D        180 2700 100 10OLL       8.50:1 Same as -C2B except for Retard Breaker A4agnetos        -36
+                  0-360-C2E        180 2700 1001001.1.      8.50:1 Same as -C2A but with SUck Magnetos                     -36
+
+                  0-360-C4F * 180 2700 l001ooLL             8.50:1 Same as -C1F except has solid crankshaft and no         -36
+                                                                    provision for propeller governor
+
+                  0-360-C4P * 180 2700          wolooLL     8.50:1 Same as -A4M except for propeller flange bushings and   -36
+                                                                    conical mounts
+
+
+
+
+sect I 1 r7 11/14/07                                11-18
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+
+                                       PISTON - (4) FOUR CYLINDER SERIES
+
+                  T/Ot                                                                                           E S!N
+       Model HP RPhI             Fuel       C.R.      Description                                                Suffix
+
+      0-360-DIA 168 2700          80 7.20:1 Same as -B1A but conical rubber mounts and -1200 series              -36
+                                                magnetos
+
+      0-360-D2A 168 2700          80 7.20:1 Same as -B2A but conical rubber mounts                               -36
+
+      0-360-D2B 168 2700          80 7.20:1 Same as -D2A except for Retard Breaker Magnetos                      -36
+
+      0-360-EL96D 180 2700      100nooLL 9.00:1 Integral accessory section crankcase, front mounted              -77
+                                                  fuel pump, externaI oil pump, D4RN-3000 impulse
+                                                  coupling dual magnetos and counterweighted crankshaft
+
+      0-360-F1A6 180 2700       1001flnoLL 8.50:1 Similar to 0-360-A series with new sump for nose wheel         -36
+                                                 clearance, rear HA-6 carburetor, has (1) sixth and (1) eighth
+                                                 order counterweights and has propeller governor drive on
+                                                 left front of crankcase
+      0-360-G1A6 180 2700       1001100LL 8.50:1 Same as -FIA6 but with a machined pad on right front            -36
+                                                of crankcase
+
+      HO-360-A1A 180 2700       wonOOLL 8.50:1 Same as 0-360-A21) but with MA-4-5AA carburetor                   -36
+                                                and type 2 dynafocal mounts
+
+      HO-360-B1A 180 2900       100i100LL 8.50:1 Same as 0-360-C2D except for rated speed                        -36
+
+      HO-360-B1B 180 2900       1001400LL 8.50:1 Same as -BIA but with two (2) S4LN-200 LIagnetos                •36
+
+      I0-360-A1A 200 2700       100r100LL 8.70:1 Bendix fuel injection, tuned induction                          -51
+      10-360-A1B 200 2700       100+10oLL 8.70:1 Same as -AIA but has -1200 series impulse coupling              -51
+                                                 magnetos
+
+      IO-360-A1B6 200 2700      1001100LL 8.70:1 Same as -AIB but has (1) sixth and (1) eighth order             -51
+                                                 countertiveights
+
+      IO-360-AIB6D 200 2700     100;m011 8_70:1 Same as -A1B6 but has (1) Bendix D4LN-3000 impulse               -51
+                                                 coupling dual Magneto
+
+      IO-360-A1C 200 2700       100:106LL 8.70:1 Same as -AlA but with -1200 series Magnetos                     -51
+
+      IO-360-A1D 200 2700       1001100LL 8.70:1 Same as -A1B but has S4LN-21 impulse coupling and               -51
+                                                 S4LN-204 Magnetos
+      IO-360-a1D6 200 2700      wOr1o0LL 8.70:1 Same as -A1B6 but with propeller governor drive on left          -51
+                                                front of crankcase
+
+      IO-360-A1D6D 200 2700     100?100LL S.70:1 Same as -AID6 but has (1) Bendix D4LN-3000 impulse              -51
+                                                 coupling dual magneto
+
+      IO-360-A2A     200 2700   100!10oLL 8.70:1 Same as AlA but fixed pitch propeller                           -51
+
+      IO-360-A2B     200 2700   loonooLL 8.70:1 Same as -A2A but has -1200 series impulse Magnetos               -51
+
+      IO-360-A2C     200 2700   1001100LL 8.70:1 Same as -A1C but has fixed pitch propeller                      -51
+                     200 2700   100110otL 8.70:1 Same as -A1B6 with propeller flange bushings rotated 1200       -51
+                                                  clockwise
+
+      I0-360-A3B6D 200 2700     10o40oLL 8,70:1 Same as -A1B6D but with propeller locating bushings rotated      -51
+                                                 1201 clockwise
+
+      IO-360-A3D6D 200 2700     100n0oLL 8.70:1 Same as -A1D6D but with propeller locating bushings rotated      -51
+                                                 120° clockwi9e
+
+
+
+
+sect Ilr7 11/14/07                                11-19
+     RV AIRCRAFT                                               SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+
+
+                                                   PISTON • (4) FOUR CYLINDER SERIES
+
+                         T/Ot           E      SIN
+                  Model EIP RPM Fuel C.R. Description Suffix
+
+                I0-360-B1A 180 2700 1DUMOLL 8-50_1 Same as 0-360-AID except for Simmonds 530 Fuel Injection -51
+                                                      System
+
+                I0-360-B1B 180 2700 100,700LL 8.50:1 Same as -BIA except for Bendix Fuel Injection System -51
+
+                I0-360-B1C 177 2700 100?IOOLt. 8.50:1 Conversion of 0-360-AIC to Bendix Fuel Injection -51
+
+                10-360-BiD 180 2700 100:100LL 8.50:1 Same as -B1B but with AN fuel pump drive -51
+
+                10-360-B1E 180 2700 l001OpLL 8.50:1 Similar to -B1B with rear mounted fuel injection and -1200 -51
+                                                         series impulse coupling magnetos
+                I0-360-B1F 180 2700 !oa'IOULL 8.50:1 Similar to -B1B except has (2) -1227 Magnetos -51
+
+                I0-360-B1F6 190 2700 lU0700LL 8.50:1 Same as -B1F but with one (I) sixth and (1) eighth -51
+                                                      order counterweights
+
+                10-360-B2E 180 2700 100100LL 8.50:1 Same as -BIE but has fixed pitch propeller -51
+
+                I0-360-B2F 180 2700 100I100LL 8.50:1 Same as -BIF but fixed pitch propeller -51
+
+                I0-360-B2F6 180 2700 100 IOOLL 8.50:1 Same as -B2F but with one (1) sixth and one (1) eighth -51
+                                                        order counterweights
+                Iv-30u-E41% Li}u Ltuu       ]OOIOOLL ts.5u:1 almllar to -t5its but has 54LN-21 (impulse coupling) and      -51
+                                                            S4LN-20 magnetos and 0-360-A4A solid cranYtshaft
+
+                10-360-C1A 200 2700         i(N) ioOLL 8.70:1 Same as AlA but with rear air inlet                          -51
+
+                I0-360-C1B 200 2700         1001o0LL 8.70:1 Same as -C1A but with -1200 series Nlagnetos                   -51
+
+                IO-360-C1C 200 2700         xo looLL 8.70:1 Similar to -C1B but has 14° injector adapter and impulse       -51
+                                                              Magneto
+
+                I0-360-C1C6 200 2700        1001DOLL 8.70:1 Same as -C1C but with one (1) sixth and one (1) eighth         -51
+                                                            order counterweights
+                I0-360-C1D6 200 2700        Uw 1iNILL 8.70:1 Similar to -C1C but has straight injector inlet and has (1)   -51
+                                                             sixth and (1) eighth order countenveights
+
+                I0-360-C1E6 200 2700        100 loaLL 8.70:1 Similar to -C1C but has propeller governor drive on left      -51
+                                                              front of crankcase, has (1) sLxth and (1) eighth order
+                                                              countenveights
+
+                10-360-C1E6D 200 2700       IPOIWLL 8.70:1 Same as -C1E6 but with D4LN-3000 impulse coupling dual          -51
+                                                            NIagrleto
+
+                I0-360-C1F 200 2700         100IODLL 8.70:1 Same as -C1C but with AN fuel pump drive and pump              -51
+
+                 10-360-D1A 200 2700        100 IooLL 8.70:1 Same as -CIB but has T^-pe 2 dynafocal mounts                 -51
+                I0-360-EIA 180 2700         IOp 100LL 850:1 Similar to.-B1E but has Type 2 dynafocal mounts and            -51
+                                                             Retard Breaker Magnetos
+
+                 IO-360-F1A 180 2700        1L^D IDOLL 8,50:1 Sinvlar to -B1E except converted for use with Turbocharger   -51
+
+                 IO-360-J1AD 200 2700       100 uxuL 8.70:1 Similar to _A1B except equipped icith a D4LN-3000              -51
+                                                              dual magneto and has a rear type engine
+                                                              mount similar to "I0-360-F1.a6D
+
+                 IO-360-J1A6D 200 2700      1U01UULL 8.70:1 Same as J1AD but with (1) sixth and (1) eighth                 -51
+                                                           order counterweights
+
+
+
+
+sect I 1 r7 11/14/07                             11-20
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+
+                                 Lycoming
+             Reciprocating Engine Division/
+                                                                              SERVI CE
+             Subsidiary of Textron Inc.
+             652 Oliver Street
+             Williamsport, PA 17701 U.S.A.
+                                                                           INSTRUCTION
+              DATE:                                    April 25, 1986                                 Service Instruction No. 1435
+                                                                                                         Engineering Aspects are
+                                                                                                                   FAA Approved
+
+
+
+             SUBJECT:                                  PART I:      Conversion from Constant Speed to Fixed Pitch Propeller
+                                                                    and Vice Versa
+                                                       PART II: Propeller Governor Oil Line Nut and Elbow
+
+             MODELS AFFECTED: Avco Lycoming Direct Drive Engines
+
+             TIME OF COMPLIANCE: At next overhaul or earlier at owner's discretion.
+
+
+                                                          PART I: CONVERSION
+
+                A change from constant speed to fixed pitch and            be converted to constant speed models because the
+             vice versa dictates a change in model designation.            inside front of the crankshaft has not been machin-
+             Replacement nameplates are only issued if the                 ed. Also, those models with a 4-piece split front
+             original nameplate is lost. Refer to the latest edition       main bearing andlor no oil transfer tube cannot be
+             of Service Instruction No. 1304. Engines may be               converted.
+             changed from constant speed to fixed pitch installa-
+             tions or vice versa if the serial number on the                  When changing from a constant speed to a fixed
+             nameplate is stamped with a letter "C" to denote a            pitch propeller, it is necessary to pierce a 1/8" to
+             model conversion and a copy of FAA Form 337                   3/16" hole in (or remove) the plug behind the oil
+             listing all parts used with part numbers included,            return tube, and install an expansion plug in the
+             and a description of the conversion or alteration are         front of the crankshaft. See Figure 1. As in Figure 2,
+             accomplished. Also, the proper logbook entry                  if the crankshaft incorporates a 1/8" 1102 pipe plug,
+             should be made. In some cases, conversion does re-            it must be removed when making this conversion.
+             quire changing propeller flange bushings. Refer the
+             latest edition of Service Instruction No. 1098 for ap-          REAR MOUNTED PROPELLER GOVERNOR
+             propriate bushing part numbers.
+                                                                             When changing from a fixed pitch to a constant
+                                                                           speed propeller, it is necessary to remove the expan-
+             FRONT MOUNTED PROPELLER GOVERNOR                              sion plug in the front of the crankshaft, and install a
+                                                                           plug behind the oil return tube. See Figure 1. A pro-
+               When changing from a fixed pitch to a constant              peller governor, adapter, oil line and fittings must
+             speed propeller, it is necessary to remove the expan-         be installed. See Parts Data for application. Some
+             sion plug from the front of the crankshaft, and in-           crankshafts for fixed pitch propellers cannot be con-
+             stall a plug behind the oil return tube. See Figure 1.        verted to constant speed models because the inside
+             Some crankshafts for fixed pitch propellers cannot            front of the crankshaft has not been machined.
+
+
+
+
+                          This copy of Lycoming Service Instruction 1435 is provided for conceptual purposes
+                           only. Before installing a propeller, obtain a current copy from Textron Lyconiing.
+
+
+
+
+sect Ilr7 11/14/07                                     11-21
+     RV AIRCRAFT                                                 SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+
+
+                                                                                         Service Instruction No. 1435
+
+
+          When changing from a constant speed to a fixed           longer required and should be removed, Install the
+        pitch propeller with crankshafts as shown in Figure        proper plugs in the accessory housing and crankcase
+        1, it is necessary to remove or pierce a 1/8" to           after removal.
+        3116" hole in the plug behind the oil return tuhe, and
+        install an expansion plug in the front of the                                  CAUTION
+        crankshaft. If the crankshaft incorporates a 1/8"
+        1102 pipe plug as shown in Figure 2, it must be               WHEN PIERCING THE PLUG BEHIND
+        removed when making this conversioin. The pro-                THE OIL RETURN TUBE, BE CARE-
+        peller governor, adapter, oil line and fittings are no        FUL NOT TO DAMAGE THIS TUBE.
+
+
+                             REMOVE EXPANSION PLUG FOR
+                             CONSTANT SPEED OPERATION.
+
+
+
+
+                                                                      INSTALLED FOR CONSTANT SPEED
+                                                                      OPERATION ONLY-PIERCE OR RE-
+                                                                      MOVE FOR FIXED PITCH.
+
+                                    Figure 1. Plug Installations for Propeller Conversion
+
+
+                                                          IF THIS PLUG IS DAMAGED,
+                                                          CRANKSHAFT MUST BE RE-
+                                                          TURNED TO FACTORY FOR REPAIR.
+
+
+
+            STD-121 1
+
+
+
+
+                                                                               1102 PIPE PLUG
+                                                               REMOVE FOR
+                                                    FIXED PITCH PROPELLER OPERATION
+
+
+                                        Figure 2. 1/8" Plug for Propeller Conversion
+
+
+
+
+sect I1 r7 11/14/07                                 11-22
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+                                                                                Service Instruction No. 1435
+
+
+                     PART II: PROPELLER GOVERNOR OIL LINE NUT AND ELBOW
+
+     As a product improvement, the propeller governor    ways to identify which nut you have; (1) aluminum
+   oil line now comes equipped with a steel connecting   nuts are anodized making them blue in color or (2)
+   nut P/N AN818-6. This nut is a component of the       the use of a magnet to determine aluminum from
+   tube assembly and has been changed from               steel. Also, the aluminum elbow at the front of the
+   aluminum to steel without changing the tube           crankcase has been replaced by a steel elbow P/N
+   assembly part number. Therefore, there are two        MS20822-6. See Figure 3 and Parts Data.
+
+
+
+
+                                                                                    MS20822-6
+
+                                                                                                  18-6
+                                                                                                  _ NUT
+
+
+
+
+                          Figure 3. Propeller Governor Oil Line Nut and Elbow
+
+
+
+
+sect 11r7 11/14/07                            11-23
+     RV AIRCRAFT                                                               SECTION 11: ENGINE AND PROPELLER INSTALLATION
+
+
+
+                                                                         Typl c a ^ Fuel/Dil
+                                               , 2ea AN822-BD
+
+                                          ^ F AE7D1-8*
+                                                2EA F B16-BD
+                             DII Cooler
+
+                                          7AN816 Engin e oil cooler
+
+
+                                                 -BD
+                                                    ports.                Hose Ro±ng
+                                                                                                     ALL hose Lengths dependent on routing.
+                                                                                                     ALL suggested fittings nre typicaL but
+                                                                                                           nay vary from instnllntion to
+                                                                                                           InstalLatlon.
+                                                                                                     Fuel pressure, oll pressure ond nanlFold
+                                                                    AN823-BD                               pressure fittings in engine should
+                                                                                                           have flow restrictors instalLed.
+
+
+                                                                                       ®   \
+
+                                                                                           ANB16-4
+                                                                         OptlonaL
+                                                                         Primer
+                                                                                         F AE701-4' F AE701-4
+                                                                                         2ea F 816-4    2ea F 816-4
+
+                                                                                                   II             II
+
+                                 7AE701:-4             ^             GnscoLntor
+          AN816-4D9                      6-4     \                                      AN816-4D                      ANB16-4D
+          AN91 0-1D            /              F AE7D1-6a'l                              AN910-1D                 414910-0
+                    ^t        2ea F          816-6D
+                    FuN                                                                         ^j
+                  Pressu                                                                       Press
+                                                                                               6AGA                9       B      I
+                    nsd+ r
+                                                       rlr11 I
+
+
+                  AN832-4D FIREWALL
+                  AN924-4D                             ®         AN924-6D           AN924-4D            AN924-4D
+
+
+
+
+                                                            A`35X3/8            /
+              F AE701-4                                     2en AN818-6D F AE701-4                                           ^-F AE701-4
+              2en F 816-4                                   2ea AN819-6D 2ea F 816-4 60                                         2en F 816-4
+
+                   AN816-4D                                                                                   AN816-4D AN816-4D
+                                Fuel                                                                    a riPot
+                               Prem                                                                    Press ^n+
+                               Gaupe                   P^P                 Goupe                      Guupe
+
+
+
+
+                                                                                                                           1/98 FwFhoses.dwg
+
+
+
+                                      TYPICAL ENGINE PLUMBING DIAGRAM
+     This should be taken as a guide only as it is likely your airplane will vary.
+
+                                                                                           Control Arm WASHER 5702-75-60
+
+                                                                                    AN960-10 Washer                            AN970-3 Washer
+                                                                         MS24665-153 Cotter pin
+                                                                                                                              AN3-11 OR 12 Bolt
+
+
+
+                                                                               AN310-3 Castlenut
+
+                                                                                                                          Rodenol Bearing
+                                                                                    AN960-10L Washer
+
+
+
+              A                                   B
+             TYPICAL INSTALLATION OF A CONTROL CABLE TO THE MIXURE OR THROTTLE ARM
+ The rodend bearing (at the engine end of the throttle and mixture cables) and control arm (on the carburetor) are connected by an
+ AN bolt, sized as necessary, (an AN3 is shown in the example above) with a hole for the cotter pin. On each side of the rodend is a
+ small spacer washer (WASHER 5702-75-60) which holds the rodend away from the washer aad the control arm, and allows the
+ bearing to move freely at various angles without binding. Examples A and B show a situation where the rodend bearing housing
+ has worn and slipped off the ball and bolt. This is prevented by installing the AN970-3 capture washer. The AN960-10 and
+ AN960- I OL washers are used as needed to position the nut for the cotter pin. The AN310-3 castle nut should be torqued to 20-25
+ in-lbs. The MS24665-153 cotter pin restrains the nut from backina off. NOTE: the hole in the ttaixture arm is typicall,v 1/4" and
+ will rteed a bushing to fit an AN3 bolt.                        ^
+
+
+sect I 1 r7 11/14/07                                             11-24
+SECTION 11: ENGINE AND PROPELLER INSTALLATION RV AIRCRAFT
+
+
+
+                                NOTES
+
+
+
+
+sect 11r7 11/14/07      11-25
+

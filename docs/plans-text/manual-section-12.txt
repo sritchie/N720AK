@@ -1,0 +1,455 @@
+ SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+
+
+SECTION 12: FITTING THE COWL, SPINNER
+         & COOLING BAFFLES
+ We believe the RV cowls to be an attractive and efficient design. Its smooth contours streamline the engine for low
+ drag, and, in addition, it has been designed internally to reduce engine cooling drag; something often overlooked in
+ homebuilts. It is light and mounts with no external fasteners to cause drag or detract from appearance. The cowls
+ are designed to fit nearly all versions of the Lycoming O-320 and 0-360 engines and 200 HP I0-360 engines with
+ forward injectors. Either fixed-pitch and Hartzell Compact Hub model constant-speed propellers may be installed.
+ The cowl is supplied in five separate fiberglass pieces; the top half, lower half, a pair of upper inlet ducts, and an oil
+ filler door. The lower cowl half includes an air intake scoop appropriate to the engine. Installing the cowl requires
+ attaching the two cowl halves to each other and to the firewall. The inlet duct moldings must be bonded in place
+ and an oil access door cut out and mounted. These points and more will be covered later, but first, let's review
+ some engine cooling theory so that we can better understand why these installation procedures need to be
+ followed.
+ All engines recommended for use in the RVs were designed for pressure cooling. The pressure is supplied by the
+ velocity of the aircraft moving through the air, but it is probably easier to understand if we assume the engine to be
+ stationary and the air is moving past it. In Fig. 12-1 we try to show just what pressure cooling consists of. It is
+ much more involved than just letting “wind'' in through a hole in the front of the cowl to “blow'' on the engine. As the
+ drawing shows, the incoming air, because of the forward velocity of the aircraft, forms a high pressure parcel of air
+ on the upstream or “cold air plenum'' side of the engine. A properly designed air outlet tends to act as a vacuum
+ pump and cause the air in the downstream or “warm air plenum'' area to have a lower air pressure than that
+ upstream. It is this pressure differential which causes the air to flow past the cooling fins of the engine and carry
+ away the excess heat. Cooling baffles are required on the engine to direct the air past the cylinder cooling fins, and
+ to serve as a barrier between the “intake'' and “outlet'' air plenum chambers. The air inlet and outlet openings
+ should be carefully designed and constructed to maximize the pressure differential between the two portions of the
+ cooling system.
+ Aircraft engines are designed to require a certain volume of air per minute to operate within temperature limits. This
+ is about 2500 cubic feet of air per minute for the O-320 and O-360 engines. From this we have determined the area
+ required for the inlets to provide this volume of air at a full throttle climb speed of 90-100 mph; the flight mode which
+ will impose the greatest cooling requirements. Then for higher speeds and/or lower power settings, cooling will be
+ assured.
+ There are three basic components we must consider in designing an efficient cooling system: inlet, baffling, and
+ outlet. In the inlet we seek to pass air into the engine compartment with the minimum pressure loss and the
+ minimum internal and external drag. With the baffles we attempt to direct the air over the cooling fins of the
+ cylinders as evenly as possible and with a minimum of “waste” or loss through holes, gaps, or other unnecessary
+ openings. The outlet is designed to cause the heated air to exit at a speed as near to slipstream velocity as is
+ possible.
+ Fig. 12-1 shows that the area of the inlets is much less than the cross section area of the cold air plenum inside the
+ cowl. This means that the air must decelerate as it enters the engine compartment. As it slows down, its energy of
+ motion is converted into pressure. The purpose of the contoured inlet ducts is to maintain a smooth flow during
+ deceleration and thus maximize the pressure recovery. According to theory, a sharp edge inlet would cause a
+ disturbed airflow resulting in energy being lost in conversion to heat rather than pressure. It is very important that
+ the engine baffle is properly designed and fitted so that the only openings for this air to escape are those past the
+ cylinder cooling fins. This means the area around the front of the engine must be baffled as well, to prevent air
+ escaping forward around the starter ring gear.
+ Fig. 12-1 shows a typical cowl and engine compartment. Fig. 12-2 shows the same cowl with improved contours on
+ the inlets and outlets which make a significant difference in engine cooling and cooling drag. These consist mainly
+ of inlet and outlet ducts with improved contours for smoother air flow. Also important, but not shown here, is a
+ portion of the baffle near the front of the engine which blocks the cooling air from flowing forward over the front
+ center of the engine and starter ring gear, and then out the bottom. This would be “wasted” air and cannot be
+ tolerated in an efficient cooling system.
+ The object of a pressure cowl baffle is to maximize the air pressure differential between incoming and outgoing air,
+ and to provide the tightest possible seal between these two air chambers. Air entering the cowl openings which
+
+
+12 11/29/12
+                                                         12-1
+                                            SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+does not pass over the
+cylinder cooling fins, or
+serve some other
+accessory           cooling
+function, is wasted.
+“Wasted air” will cause
+either            engine
+overheating because
+there is not enough air
+remaining to provide
+cooling, or the need for
+larger inlets and outlets
+to       provide       the
+necessary cooling air
+plus the wasted air.
+This means more drag
+and less speed. While
+it is difficult to completely seal an engine baffle, the combined area of these “waste air” leaks should be held to not
+over 1 or 2 square inches.
+Further improvements of the baffle are possible. Since the fit of the aluminum baffle to the engine will not be air-
+tight, high temp. RTV Silicone Rubber can be used to seal these small gaps. The fabric airseal material used as a
+seal between the baffle and cowl, often “puckers” away from the aluminum and permits air to escape. This may be
+sealed with RTV as well.
+
+AIR FILTER SYSTEMS
+The RVs are designed to accept Lycoming engines from 115-200 horsepower. These engines may be fitted with a
+wide range of induction devices including carburetors, fuel injection systems by different manufacturers, throttle
+body injectors like those made by Ellison, and more. Just to make it more complicated, these devices may be
+mounted in a variety of places on the engine. The cowls supplied with kit for 115-180 hp engines have an induction
+scoop molded onto the bottom. This scoop is designed to fit the “standard” carburetor location on the bottom of the
+sump (as used on new engines ordered through Van’s.)
+Filtered air induction systems for the various engines and induction devices are offered in Van’s Accessories
+Catalog and used by a vast majority of RV builders. These systems improve induction efficiency, filter all the air
+entering the engine and include provisions for alternate air or carb heat. Installation instructions are included.
+The cowl supplied for the 200 hp IO-360 angle valve engine has no scoop. Instead, it is designed to work with the
+Horizontal Induction filtered air induction system in Van’s Accessories Catalog. Air is inducted through a filter
+mounted in the left “nostril” of the cowl and routed through a molded fiberglass duct to the forward-facing injection
+servo on the sump. In this case the engine cooling baffles should be fitted before the induction system.
+
+BEFORE FITTING THE COWL
+The following instructions are meant to cover all RV models. Some may not apply to your particular RV.
+Before attempting to install the cowl, the engine (without the exhaust system installed) must be mounted. Check to
+see that the engine mount bolts are tight, the rubber mounts are properly seated, and anything else which might
+effect engine positioning or alignment is resolved. Some builders run the engine for a few minutes to “shake”
+everything into place. We do not recommend this: Engines are designed to run with baffles and cowls in place and
+will not cool properly without them. We have also received reports that running the engine on partial airframes
+(without wings, etc., installed) has caused vibration damage to the airframe itself.
+If you have chosen a fixed pitch prop, install the propeller extension on the front of the crankshaft. (NOTE: All RV
+cowls are designed to use a 2 ¼” propeller extension or a constant-speed prop with an equivalent hub. See Section
+11 and DWG C4). Install the spinner or at least the spinner back plate to use as a reference for positioning the front
+of the cowl. If you are installing a constant-speed propeller, it is best if the prop is installed, because, in this case,
+the spinner back plate mounts to the prop. If the prop is not available, a spacer 2 1/4” thick, attached to the front of
+the crankshaft (be sure the starter ring gear is installed!) may be used to simulate it.
+
+INSTALLING THE HINGES
+The RV cowls use piano hinges as attachment fasteners. This offers several advantages: evenly distributed loads
+along the attachment line, smooth cowl lines with no external fasteners, and easy installation and removal.
+
+12 11/29/12
+                                                       12-2
+ SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+ Several hinge segments are used for both attaching the upper and lower cowl halves together, and attaching the
+ cowl to the aircraft firewall. An aluminum hinge with rolled or “open” eyes, AN257-P3, is used to join the upper and
+ lower cowls.
+ The pins on all these hinges must be replaced with the hardened stainless steel wire supplied separately with the
+ kit. The pin supplied by the hinge manufacturer is soft aluminum and is inadequate for our purposes. On the side
+ and bottom segments, 1/8’’ pin is used. However, the curved hinge attaching the upper cowl requires a smaller pin,
+ 0.090” in diameter. This undersize pin can be pre-bent to the approximate curvature of the firewall top, and can be
+ inserted into the curved piano hinge. It would be impossible to use 1/8'' pin in the curved hinges.
+ Hinges are attached to the fiberglass cowl with rivets, or rivets supplemented by bonding for best results. The rivets
+ used are AN426AD3-4 countersunk head rivets, selected because of their small heads blend well with the fiberglass
+ of the cowl and because their setting pressure is much lower than for 1/8'' AN rivets, so they do not crush the
+ fiberglass. AVEX CS4-4 blind rivets also work well.
+ The forward fuselage has been constructed with a forward sloping upper firewall, so the attachment hinge will
+ naturally lay flush with the fuselage skin and cowl. Install the hinges on the firewall (use shims as required). Make
+ all the pins and fit the opposite halves of the hinges together
+ Since there is the possibility that vibration could loosen rivets in fiberglass over time, we recommend supplemental
+ bonding of the hinge to the cowl. This is an optional procedure, but the cost in weight and time is not great.
+ Drill 1/4” holes in the hinge to provide more bond area for better adhesion. For best results, mix a slurry of epoxy,
+ thickened with flox or cabosil and apply it to the inside of the cowl where the hinge will rest. Rough up the
+ underside of the hinge with coarse sandpaper for better adhesion, and then cleco the hinge in place and install the
+ rivets.
+ Other adhesives could be used instead of the resin/glass mat combination. Any industrial grade epoxy glue should
+ work well, as would fuel tank sealant. The main purpose of the adhesive is to relieve the rivets of some of the
+ vibration forces which tend to loosen them. Bonding is an optional procedure and is not a requirement. The
+ experience with Van's Aircraft prototype cowl installations has shown that AN426AD3 rivets work well when spaced
+ at 1'' intervals and when set with a rivet squeezer rather than a rivet gun.
+ Fit and drill the hinge shown in the Cowling Attach Detail of DWG 43 (RV-4), DWG 63 (RV-6), DWG 45 (RV-7/9),
+ DWG 48 (RV-8), using the holes left open during fuselage construction. Note carefully the details of fitting and
+ shimming shown in the various section details. Before fitting the cowl, pin the other half of these hinges in place.
+ Don’t forget to taper the hinge segments shown in Detail F
+
+ FITTING THE UPPER COWL
+ RV cowls are made of fiberglass and epoxy resin. The glass cloth is filled with a precise amount of resin during
+ manufacture. The result is known as “pre-preg” cloth. Two layers of cloth, separated by a honeycomb core are laid
+ up in a mold and held by a vacuum bag, which applies even pressure to the entire surface. Heat is applied while
+ the cloth is held in place. The heat triggers the resin, curing it while it is held in the mold. The result is a very
+ strong, light, and accurate molded part.
+ Because the cowl is made of epoxy, only epoxies must be used when bonding the inlet ducts or making any other
+ additions/modifications.
+ The best tools for cutting, trimming, and fitting the fiberglass cowls are a die grinder with a reinforced cutting disc
+ (like those included in the Finishing Kit for cutting the canopy), coarse sandpaper, usually glued to straight edged
+ sanding boards, and used drills/files. Try not to use your best drills and files, as fiberglass will dull them very
+ quickly.
+ The cowl is fitted to the fuselage as shown on the drawings. The edges of the cowl are a solid fiberglass layup, with
+ no honeycomb core. There is adequate “flange” around the perimeter to allow trimming without encountering the
+ honeycomb.
+ Cut the oil filler access opening out of the upper cowl. This door is supplied separately and will be installed later,
+ but you will need the access hole when fitting the cowl. Be sure to smooth the edges of the opening or tape them
+ to protect your arms when working inside.
+
+
+ Fit the cowl halves together at the front, sanding & filing the flanges and thick areas to get a good fit. The spinner
+ opening should be round (height the same as the width). You may have to sand the flanges slightly shorter on the
+ top cowl so that when they nest you get the proper shape.
+
+
+12 11/29/12
+                                                        12-3
+                                             SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+Mark the screw pattern for joining the top & bottom behind the spinner. Clamp the top & bottom together at the
+spinner and drill the screw locations with a #40 drill to allow for slight repositioning later if required.
+The cowl top has been molded with trim margins on the sides and rear. In order to fit it in place, it will first be
+necessary to trim the rear to conform with the firewall. The desired spacing between the front flange of the cowl
+and the spinner is 1/4”. An absolute minimum of 1/8'' could be tolerated, and any gap of more than 3/8” would
+appear excessive.
+The cowl is supplied slightly longer than necessary. This means that it will overlap the fuselage skin at the firewall.
+Variations from one airplane to another make it impossible to determine the exact trim line at the factory.
+Mark a reference line on the fuselage side skin 2 inches back from the edge. Then when the cowl is placed in
+temporary position, it is a simple matter to measure back to the hidden skin edge and mark the cowl for trimming.
+With this method, it is possible to get a near perfect fit on the first cut. Some additional grinding or sanding of the
+edge may be necessary.
+Level the fuselage side to side. Set the top cowl in place. Block the forward end up to be 1/8” to 3/16” below the
+spinner to allow for future engine sag. Check that the front is level from side to side. Mark the aft edge by using the
+reference marks on the skin and trim to fit. Sand the edge straight, mark and pre-drill for the rivets. Replace the
+top, drill and cleco to the hinge.
+
+FITTING THE LOWER COWL
+There are three different lower cowls, each specific to an engine type. Be certain you have the correct lower cowl
+for your engine -- O-320, (I)O-360 180 hp, or IO-360 (200 hp). Lower cowls for the O-320 and (I)O-360 180 hp
+engines have an induction scoop molded on. Lower cowls for the IO-360 200 hp engine have no induction scoop
+and assume the use of Van’s Horizontal Induction System.
+When the upper cowl fits the fuselage, drill and cleco it to the firewall hinge in two or three places. Clamp it to the
+spinner back plate, or wood disc on the crank flange. When the position of the upper cowl is fixed, the lower cowl is
+fitted to the fuselage.
+If this is a tri-gear, cut the slot in the lower cowl to clear the nose gear leg. The length of this slot will depend on the
+propeller…a 3-blade prop will require a longer slot to remove the cowl.
+Lift the bottom cowl into place, cleco at the front and duct tape at the rear. The sides will not fit correctly yet, just
+overlap the edges at this stage. Mark along the bottom and just around the curve, but not the sides. Trim the
+bottom, reinstall the cowl, then mark and trim the sides. Trimming the bottom first, allows the cowl to be lifted in to
+the proper position to trim the sides.
+Drill the bottom to the hinges, starting at the bottom, then working up the sides. Trim and sand the sides of the
+bottom to fit the top. Fit the hinge to the bottom of the cowl first. Reinstall the top cowl and drill to the hinges.
+Install the screws and nutplanes behind the spinner shown in on the drawings.
+Align the bottom of the cowl as closely as possible with the fuselage bottom. The sides can shift slightly up or down
+by flexing the lower corners of the cowl. If this radius corner of the cowl aligns with the radius of the fuselage
+corner, the position is correct. The aft edge of the cowl will overlap the firewall and fuselage side skin.
+Trim the cowl using the same method described for the top cowl. Tape the cowl to the fuselage and clamp it to the
+spinner back plate at the front.
+At this point both top and bottom cowls are attached to the fuselage. They should form a smooth even joint along
+the sides and behind the spinner.
+When both halves of the cowl fit, finish drilling the holes for the hinges along the fuselage. If it has been necessary
+to drill a few extra holes during fitting, these can be filled when the hinges are bonded in. Drill the holes in the short
+section of overlap behind the spinner as shown on Detail C.
+When both top and bottom cowls are clecoed to the hinges along the firewall, remove the clamps at the spinner and
+pull the pins holding the top cowl to the firewall. Remove the upper cowl.
+When the cowl halves match, the side hinges may be fitted and drilled to the lower cowl. See Section N-N’ and
+Section P-P’, DWG 45 or 48. Allowing the hinge to “drift” slightly upward as it moves aft will make the cowl easier to
+remove.
+
+
+
+
+12 11/29/12
+                                                        12-4
+ SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+
+ MODIFYING THE COWL FOR THE RV NOSEGEAR LEG
+ A slot is cut in the lower cowl, or induction air scoop (depending on the engine) just wide enough to fit around the
+ gear leg. When the lower cowl is installed, the lower brace is fitted as shown on View U-U, DWG 48 (RV-8A), View
+ T-T, DWG 45 (RV-7A-9A), DWG 61 (RV-6A).
+ The cover plate is fabricated from two pieces of aluminum sheet. The narrower sheet fits on the inside of the slot
+ cut into the lower cowl, and the wider sheet spans the gap. Screws and nutplates hold the cover plate to the cowl.
+ RV-8 note that one screw in the center of the cover plate attaches it to the U-816 brace.
+ Those using the 200 hp IO-360 will find that the cluster of tubes at the bottom of the engine mounts hangs slightly
+ below the bottom of the cowl, so an intersection fairing will improve the appearance noticeably. While this is not
+ true for those using the O-320/O-360 induction scoop, an intersection fairing will still clean up the junction both
+ aesthetically and aerodynamically. Fabricate a fairing using the same techniques as the gear leg intersection
+ fairings described in Section 10 and DWG C3.
+
+ INSTALLING THE INLET DUCTS
+ A detail on the drawing illustrates the installation of the cooling air inlet ducts. These are essential for proper engine
+ cooling. While the inlet ducts and the cowl itself tend to be flexible by themselves, when bonded together they
+ become quite rigid. Thus, the cowl should be installed on the airplane, and all fasteners installed, the ducts are
+ bonded on. Otherwise, the upper and lower cowls may not match each other once the ducts are in place.
+ Fit the ducts to cowl, trimming and sanding as necessary for a good fit. Drill and cleco them in place. Clean the
+ area to be bonded by sanding with a coarse (40-60 grit) disc sander. Sand away the glossy surface of the resin
+ until the fibers of the glass cloth are exposed on all the mating surfaces.
+ The only way to hold the ducts to the cowl while bonding them is to drill holes and use clecos. These holes can later
+ be filled with resin. Enough clecoes should be used to assure contact at all points. Once the ducts are in place, the
+ cowl should be pinned in place on the airframe before the resin cures. This prevents any possibility of shifting out of
+ alignment.
+ After the resin cures, use coarse sandpaper to remove the rough edges and oozes. Sanding with progressive
+ grades of sandpaper will result in a smooth and pleasing surface.
+
+ INSTALLING THE OIL FILLER DOOR
+ A recess for the oil filler door is molded into the upper cowl. The door itself is supplied as a separate molded piece
+ with trim lines scribed in the surface.
+ A scribe line on the cowl marks the shape of the opening. Cut this out with a disc or hacksaw blade. Make sure the
+ edges are smoothly finished or you will regret it later. The upper cowl pins are installed though this opening, which
+ requires sticking your arm in a lot farther than just reaching the dipstick.
+ Trim the door to its finished shape and tape it in place on the cowl.
+ The hinge and fasteners are installed as shown on the drawing.
+
+ FINISHING THE SURFACE OF THE COWL
+ Epoxy pre-preg structures like the cowl are pressed into the mold during curing by vacuum pressure. This process
+ precludes the use of the traditional gel coat, so the outside surface must be filled after the cowl is removed from the
+ mold. If this step is omitted, the painted surface will be covered with pinholes -- not a pretty sight.
+ The following is the process that the prototype shop has found to be a fast and efficient way to prep the prepreg cowlings for paint.
+ This is not the only way, it is just what works for us.
+ STEP 1: Fit the cowling fit to the fuselage, with all the hinges, retaining screw holes, and nut plates installed. Leave the oil door
+ installation for later. Sand the entire surface with 80 grit sandpaper , being careful not to remove too much material and damage the
+ core.
+ STEP 2: When the cowling is completely sanded, use an air hose to blow off the dust, paying close attention to the voids in the
+ finish. These areas must be clean for the resin to adhere. Mix a small amount of epoxy resin (about 1 oz. We use West Systems
+ 105 resin and 205 hardener, but any good epoxy will work.) Thin the resin about 1 to 1 with acetone (or approved product
+ recommended by the epoxy manufacturer). This may seem thin but it works well. Use a cheap bristle paintbrush (not a foam one)
+ to cover the cowling with a thin coat and let it dry overnight. If the resin begins to thicken while you are applying it, just thin it with
+ more acetone.
+
+
+
+12 11/29/12
+                                                                 12-5
+                                                   SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+STEP 3: When the resin has dried, block sand it with 80 grit. At this point you are just trying to remove the high spots. Blow the
+cowl off and look closely for any large voids or depressions. Most will be found at outside corners and where the core and the foam
+end. Mix a marble sized portion of polyester (“bondo”) body filler -- the filler will dry fast so do not mix too much. Use a popsicle stick
+to fill the larger areas and use a new single edge razor blade as a squeegee to fill smaller voids and pinholes.. Come back across
+the area with the razor blade at a 90 degree angle to remove extra filler. Work a small area at a time. After the filler has dried sand
+the areas with 80 grit and blow off the cowl. Extra time spent on this part will pay off later. Now repeat step 2.
+STEP 4: If you are not going to paint or if you are going to wait until after you fly the plane( this is understandable if the weather is
+nice and you don't have something else to fly) stop here. The resin coat will protect your cowl from grease and grime until you are
+ready to paint. When that day comes, sand again with 80 grit and apply a filler-surfacer. We use Featherfill made by Evercoat.
+There are other brands and they will probably work fine. Just follow the directions on the can. After the feather fill has dried, sand
+down to 400 grit and apply your paint system.
+
+
+PROTECTING THE INTERIOR OF THE COWL
+The fiberglass cowling can be damaged by excessive heat radiating from the exhaust pipes. Van’s recommends covering the
+inside of the cowl with reflective, heat-resistant material similar to the EA EXHST/COWL SHIELD supplied in Van’s Firewall Forward
+kits. Make paper patterns for the areas on the inside surface of the cowl where protection is required. The cowl shield will also
+protect the fiberglass from oil/fuel drips as well as heat, so consider applying it to the majority of the lower cowl.
+
+Prepare the cowl by sanding the interior smooth with 80-100 grit sandpaper. Clean the sanding residue away and roll, sponge, or
+brush a layer of thinned epoxy resin over the sanded area. The goal is a lightweight glossy smooth surface – but brush/roller marks
+are not significant. Once the resin has cured, cut the adhesive backed cowl shield material to match the paper patterns. Peel the
+backing from the shield and begin applying the shield to the cowl. Make sure it is exactly where it needs to be -- the adhesive is fast-
+acting and strong, so re-positioning the shield once it’s attached is impractical. Work carefully and, as much as possible, avoid
+wrinkles. Rub the entire surface with a stiff plastic squeegee, working the inevitable wrinkles and bubbles to an edge.
+
+SPINNER INSTALLATION
+Before installing the spinner, be sure you have the correct parts for YOUR propeller. Constant-speed, wood or fixed
+pitch metal propellers require different parts. On the constant-speed propeller, the back plate mounts to the hub of
+the prop and is reinforced with an aluminum ring. The front plate is a different size, as well. Follow the installation
+instructions included in the constant-speed spinner kit and DWG C4.
+The following instructions describe mounting the spinner on a fixed pitch propeller. If you are installing a Sensenich
+fixed-pitch metal prop, use the appropriate front plate.
+The S-601-1 spinner is a translucent cone shaped fiberglass molding. Cut-outs are made for the prop blades. The
+cone is fitted over the prop hub and fastened to two flanged aluminum mount plates, installed on the front and rear
+faces of the prop.
+The rear spinner mount plate is the main structural mount, and the front plate provides alignment and stability to the
+spinner. Because of the tapering cone shape of the spinner, the required diameter of the front plate will vary with
+the thickness of the prop hub. The prop cut-outs in the spinner must be sized to the cross section of the prop being
+used, and will vary considerably with props supplied by different manufacturers. Sometimes there are noticeable
+differences between props of the same manufacturer. Since it is desirable to achieve a close fit of the spinner cut
+out to the prop, it is suggested that the cut out be custom tailored to the specific prop being used.
+Before installing the S-602-1 and S-605 (or S-605SEN) spinner mount plates to the prop, fit them to the spinner.
+This will verify that the prop hub thickness corresponds to the relative diameters of the mount plates. It is
+imperative that the mount plates be placed in the spinner perpendicular to its center line. This can be checked by
+measuring equal distances from the plate to the rear skirt of the spinner all around. When both the front and rear
+plates are aligned with the spinner and with each other, the distance between them will be the required thickness of
+the prop hub.
+If the distance is greater than the thickness of your prop hub, spacers may be installed between the front plate and
+the forward surface of the prop. These spacers are available through Van's Accessories Catalog. If the distance is
+less than the thickness of your prop hub, a smaller front plate will be required. Sometimes, if the mis-fit is very
+slight, sanding the inside of the spinner will allow the front plate to fit. Keep this sanding to a minimum to avoid
+weakening the spinner bowl.
+Mount the rear plate on the back side of the prop and the front plate on the forward face of the prop or whatever
+spacers the prop requires, and under the crush plate. Install and tighten the prop bolts to the prop manufacture's
+recommendations.
+
+
+
+12 11/29/12
+                                                               12-6
+ SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+ The cutout in the spinner cone should match the contour of the prop blade closely. A sliding pin “copycat”
+ contouring tool, widely available at hardware stores, can make the job easy. If you do not have such a tool, use a
+ sheet of single ply (shoebox type) cardboard to make a hole template for the prop. Using the cardboard to simulate
+ the spinner, align the edge of the cardboard with the rear edge of the rear mount and cut out an opening just large
+ enough to clear the prop blade. If this piece is carefully cut and removed, it may be used later to fill in behind the
+ prop. If not, the gap behind the prop must be filled with a separate aluminum plate riveted to the back plate. It may
+ require a couple of tries to achieve the desired shape.
+ On the spinner, mark two points at the rear edge exactly opposite each other, 180 opposed. Mark one point and
+ then measure the circumference of the opening. Divide the circumference by two to determine the location of the
+ opposing mark. Then lay the cardboard template on the spinner aligned with one of the marks, and mark the cut
+ out. Repeat for the opposing cut out.
+ The fiberglass can be cut with a tin snips or a cutting disc on a die grinder or Dremel tool. Because the tin snips
+ crush the fiberglass, cut about 1/16'' inside the marked line and then use coarse sandpaper to enlarge the opening.
+ Fit the spinner onto the prop. Chances are that the opening will not be quite large enough. Progressively enlarge
+ the openings as needed until they have approximately 1/16 to 1/8'' clearance from the prop blade. You do not want
+ a contact fit because there is enough movement between spinner and prop during operation to cause the edge of
+ the spinner to cut into the prop.
+ If the prop is thinner than the spinner plates were designed for, it may be necessary to build up the inside of the
+ spinner to mate with the flange of the front plate.
+ A fiberglass build up can be molded in place. Mark a ring around the inside of the spinner where it contacts the
+ front plate flange. Then lay up a ring of fiberglass mat 3/4'' wide around this ring. Wax the spinner flange so it will
+ not bond to the spinner. Slip the spinner with the wet lay-up into place and hold with clecos. When it is cured, the
+ spinner can be removed and any roughness in the reinforcement fiberglass can be sanded smooth. Remember
+ that anything added to the spinner should be evenly distributed around the circumference to help maintain balance.
+ The spinner should be aligned with the axis of the crankshaft so it does not “wobble” as it spins. This requires that
+ the prop and spinner be mounted on the engine. First, align the spinner as closely as possible and tape it to the
+ bulkhead. Then, mark a point in the exact center of the nose of the spinner. Stand a step ladder up in front of the
+ spinner with a pencil clamped to it and place the pencil point near at the mark on the spinner nose. Remove a
+ spark plug from each cylinder so that the prop can be rotated easily and safely. If the spinner is in perfect
+ alignment, its tip will remain in position with the pencil point through full 360 degree rotation. If not, reposition prior
+ to drilling.
+ While the spinner is still in place, cut out the gap filler plate to be used on the back side of the prop. Make this plate
+ of aluminum between 0.040” and 0.063'' thick, or use the fiberglass piece removed when the spinner was first fitted.
+ DWG C4 shows the fabrication and installation of this gap filler. It is riveted to the back plate and stays in place as
+ the spinner is installed and removed. The flange shown riveted to the long edge of the gap filler is essential and
+ should not be overlooked. The primary forces acting on the spinner are centrifugal, and without this flange which
+ ties the gap fairing to the spinner, it would bend outward and tear off.
+ Drill and cleco all holes in the rear mount plate; then progress forward to the front plate. While the spinner screws
+ are #8 size and require a #19 drilled hole, we suggest drilling the holes to 1/8'' (#30) initially. A 1/8'' cleco can then
+ be used to hold the K1000-08 nutplate in place while it is being drilled and riveted. Cleco the nutplate to the outside
+ of the mount plate flange and use it as a drill guide. Remove the nutplate, machine countersink the holes for
+ AN426AD3-3.5 rivets, drill out the screw hole to #19, and rivet the nutplate on.
+ The spinner is one of the most critical of the non-structural parts on an airplane. While it doesn't support any
+ productive loads, it is subject to considerable internal forces. Any weight imbalance can cause high loads on the
+ spinner mounts. In addition, the reversing, pulsating, loads caused by the intermittent combustion of the engine
+ come to bear on the spinner installation. Therefore, it is necessary to mount the spinner firm and true; to prevent it
+ from destroying itself. Use 14 equally spaced #8 screws in the rear mount plate and 6 in the front plate. Place
+ screws holes 5/8” from the edge of the prop hub cut-out, and then equally spaced around the circumference. Rivet
+ K1000-08 nutplates to the inside of the spinner mount flanges. The front plate should fit snugly in the spinner.
+ If you wish to use countersunk screws (many builders are satisfied with roundhead) the holes in the spinner may be
+ machine countersunk for AN509-8R8 screws and countersunk washers. If you do not have a #19 piloted machine
+ countersink, the spinner holes can be countersunk while they are still 1/8'' diameter.
+
+
+
+
+12 11/29/12
+                                                         12-7
+                                        SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+
+ ENGINE BAFFLE INSTALLATION
+ Cutting and bending the many sheet metal components of a complete baffle system is a tedious task. Almost all RV
+ builders choose to buy the optional baffle plans or the complete baffling sets available in Van's Accessories
+ Catalog. These include installation drawings and instructions.
+
+
+
+
+12 11/29/12
+                                                  12-8
+ SECTION 12: FITTING THE COWL, SPINNER & COOLING BAFFLES
+
+
+
+                                       NOTES
+
+
+
+
+12 11/29/12
+                                          12-9
+

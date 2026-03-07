@@ -1,0 +1,432 @@
+=== PAGE FF2-1 ===
+SECTION FF2: COWL BAFFLE
+VAN'S AIRCRAFT, INC.
+DATE: 10/19/04 | REVISION: 0 | RV-10 | PAGE FF2-1
+
+[Title page with isometric view of complete cowl baffle assembly on engine]
+
+Callouts:
+- CB-1007D, AFT CENTER SUPPORT BRACKET
+- CB-1007A, RIGHT AFT CASE BAFFLE
+- CB-1008A, CYLINDER 5 BAFFLE
+- CB-1009B, CYLINDER 3 BAFFLE
+- CB-1001D, FWD CENTER BRACKET
+- CB-1010G, CLIP
+- CB-1009A, CYLINDER 1 BAFFLE
+- CB-1010J, CONICAL GUSSET
+- CB-1010B, STIFFENER
+- CB-710A, FWD RIGHT AIR RAMP
+- CB-1010C, RIGHT AIR DAM
+- CB-1011A, FRONT BAFFLE
+- CB-1001A, FRONT BAFFLE
+- CB-1002A, FWD LEFT AIR RAMP
+- VENT SCREEN 3X3, 2 PLACES
+- CB-1002B, STIFFENER
+- CB-1002J, CONICAL GUSSET
+- CB-1006A, LEFT AFT CASE BAFFLE
+- CB-1005B, OIL COOLER BRACE
+- CB-1005A, CYLINDER 6 AFT BAFFLE
+- CB-1004B, DOUBLER PLATE
+- CB-1004C, STIFFENER
+- CB-1004A, CYLINDER 6 BAFFLE
+- CB-1003D, CLIP, 6 PLACES
+- CB-1003C, DOUBLER PLATE, 10 PLACES
+- CB-1002C, LEFT AIR DAM
+- CB-1003B, CYLINDER 4 BAFFLE
+- CB-1003A, CYLINDER 2 BAFFLE
+
+
+=== PAGE FF2-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF2-2 | RV-10 | REVISION: 0 | DATE: 10/19/04
+
+Step 1: Mark the part numbers on all parts on both the CB-1000A and CB-1000E Baffle Stiffeners per the callouts in both Figure 1 and Figure 2.
+
+Step 2: Remove the hatched areas from both the CB-1000A and CB-1000E Baffle Stiffeners as shown in Figure 1 and Figure 2, then deburr the edges and round the corners (to remove the notches) on all individual parts.
+
+Step 3: Break the CB-1000B Left & Right Air Dams shown in Figure 3 into a CB-1002C Left Air Dam and a CB-1010C Right Air Dam.
+
+FIGURE 1: SEPARATING THE CB-1000A BAFFLE STIFFENERS
+Callouts:
+- REMOVE HATCHED AREA, TYP.
+- CB-1002B
+- CB-1010G
+- CB-1002G
+- CB-1008B
+
+FIGURE 2: SEPARATING THE CB-1000E BAFFLE STIFFENERS
+Callouts:
+- CB-1004C
+- REMOVE HATCHED AREA, TYP.
+- CB-1010B
+
+FIGURE 3: SEPARATING THE LEFT AND RIGHT AIR DAMS
+Callouts:
+- REMOVE HATCHED AREA, 2 PLACES
+- CB-1010C
+- CB-1002C
+
+
+=== PAGE FF2-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 00/00/00 | REVISION: 0 | RV-10 | PAGE FF2-3
+
+Step 1: Drill four #30 pilot holes in the CB-1005A Cylinder 6 Aft Baffle. See Figure 1.
+
+Step 2: Place the VA-187 4" Flanged Duct on the aft face of the CB-1005A Cylinder 6 Aft Baffle per the dimensions in Figure 1. Trace the inside of the 4" flanged duct onto the cylinder 6 aft baffle, set the duct aside and then remove the traced circular area from the cylinder 6 aft baffle (see the hatched round area in Figure 1).
+
+Step 3: Center the VA-187 4" Flanged Duct on the hole created in Step 2. Match-Drill #30 the holes (oriented as shown in Figure 1) in the flange of the flanged duct into the aft face of the CB-1005A Cylinder 6 Aft Baffle.
+
+Step 4: Enlarge the two center pilot holes drilled in Step 1 to 3/4 dia. with a Unibit. Connect the quadrants as shown in Figure 1 and remove the remaining material from the hatched area of both the CB-1005A Cylinder 6 Aft Baffle and the VA-187 4" Flanged Duct as shown in Figure 1. Remove the 4" flanged duct.
+
+Step 5: Deburr the edges and drilled holes in both the CB-1005A Cylinder 6 Aft Baffle and the VA-187 4" Flanged Duct.
+
+Step 6: Rivet the VA-187 4" Flanged Duct to the CB-1005A Cylinder 6 Aft Baffle per the callouts in Figure 1.
+
+Step 7: Cleco the CB-1003C and CB-1004B Doubler Plates to the CB-1004A Cylinder 6 Baffle. Final-Drill #40 the rivet holes common to the doubler plates and the cylinder 6 baffle. See Figure 2.
+
+Step 8: Dissassemble then deburr the CB-1003C and CB-1004B Doubler Plates and the CB-1004A Cylinder 6 Baffle. Dimple the rivet holes in the doubler plates and the corresponding holes in the cylinder 6 baffle.
+
+Step 9: Rivet the CB-1003C and CB-1004B Doubler Plates to the CB-1004A Cylinder 6 Baffle (flush head on the inboard face). Rivet callouts are given in Figure 2.
+
+FIGURE 1: TRIMMING THE CYLINDER 6 AFT BAFFLE
+Callouts:
+- CB-1005A, REMOVE HATCHED AREA
+- VA-187
+- 1 3/16, TYP.
+- DRILL #30, 4 PLACES (PILOT HOLES)
+- 23/32
+- 13/16 x 2 1/4
+- dia. 3/4, 2 PLACES
+- 9 7/32
+- 6 1/4
+- CB-1005A
+- 3 5/16
+- AN470AD4-4, 6 PLACES
+
+FIGURE 2: ASSEMBLING THE CYLINDER 6 BAFFLE
+Callouts:
+- CB-1004A
+- CB-1004B
+- CB-1003C
+- AN426AD3-3.5, 5 PLACES (FLUSH HEAD ON INBOARD FACE)
+
+
+=== PAGE FF2-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF2-4 | RV-10 | REVISION: 0 | DATE: 10/19/04
+
+Step 1: Lay out a rivet pattern on the aft side of the CB-1005A Cylinder 6 Aft Baffle corresponding to the flange of the CB-1004A Cylinder 6 Baffle. See Figure 1 and Figure 2.
+
+Step 2: Cleco the CB-1004A Cylinder 6 Baffle and CB-1006A Left Aft Case Baffle to the CB-1005A Cylinder 6 Aft Baffle. See Figure 1.
+
+Step 3: Drill #30 the rivet locations layed out in Step 1 in both the CB-1004A Cylinder 6 Baffle and the CB-1005A Cylinder 6 Aft Baffle. Final-Drill #30 the two pre-existing holes common between the cylinder 6 baffle and the cylinder 6 aft baffle.
+
+Step 4: Final-Drill #30 the rivet holes common between the CB-1005A Cylinder 6 Aft Baffle and the CB-1006A Left Aft Case Baffle.
+
+Step 5: Cleco the CB-1004C Stiffener to the CB-1004A Cylinder 6 Baffle. Final-Drill #30 the holes common between these two parts.
+
+Step 6: Final-Drill #27 the hole in the lower flanges of the CB-1005A Cylinder 6 Aft Baffle and CB-1006A Left Aft Case Baffle. See Figure 1.
+
+Step 7: Dissassemble all parts drilled in Step 3, 4 and 5. Deburr the CB-1004A Cylinder 6 Baffle, CB-1004C Stiffener, CB-1006A Left Aft Case Baffle and CB-1005A Cylinder 6 Aft Baffle. Dimple the hole common between the left aft case baffle and the cylinder 6 aft baffle (flush head outboard) for the flush rivet called out in Figure 1.
+
+Step 8: Rivet the CB-1005A Cylinder 6 Aft Baffle to the CB-1004A Cylinder 6 Baffle and CB-1006A Left Aft Case Baffle. Rivet the CB-1004C Stiffener to the CB-1004A Cylinder 6 Baffle. Rivet callouts are given in Figure 1.
+
+Step 9: Cleco the CB-1005B Oil Cooler Brace to the CB-1005A Cylinder 6 Aft Baffle. Make the lower edge of the oil cooler brace parallel with the lower edge of the cylinder 6 aft baffle. See Figure 3.
+
+Step 10: Match-Drill #40 the holes in the aft flange of the CB-1005B Oil Cooler Brace into the CB-1005A Cylinder 6 Aft Baffle.
+
+Step 11: Remove the cleco from Step 9 and final-drill #12 the two holes called out in Figure 3.
+
+FIGURE 1: CYLINDER 6 ASSEMBLY
+Callouts:
+- CB-1006A
+- LEAVE OPEN
+- AN426AD4-4 (FLUSH OUTBOARD)
+- AN470AD4-4, 4 PLACES
+- CB-1005A
+- AN470AD4-5, 6 PLACES
+- CB-1004A
+- CB-1004C
+- FINAL-DRILL #27
+- CB-1005A
+- AN470AD4-4, 9 PLACES
+- CB-1004A
+- EXISTING HOLES
+- DRILL #30, 7 PLACES
+- 1, TYP.
+
+FIGURE 2: RIVET PATTERN LAYOUT
+Callouts:
+- CB-1006A
+- FINAL-DRILL #12, 2 PLACES
+
+FIGURE 3: MATCH-DRILLING THE OIL COOLER BRACE
+Callouts:
+- CLECO
+- CB-1005B
+- MATCH-DRILL #40, 6 PLACES
+- CB-1006A
+- CB-1005A
+- THESE EDGES PARALLEL
+
+
+=== PAGE FF2-5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 10/19/04 | REVISION: 0 | RV-10 | PAGE FF2-5
+
+Step 1: Make the forward face of the CB-1005B Oil Cooler Brace flush with the forward face of the CB-1006A Left Aft Case Baffle. Match-Drill #30 the hole in the left aft case baffle common to the oil cooler brace. Cleco this hole. See Figure 1 and Figure 2.
+
+Step 2: Trace the outline of the CB-1005B Oil Cooler Brace flanges onto the other parts in the Cylinder 6 Baffle Assembly. Remove the oil cooler brace. Relative to the trace lines, mark the approximate location of the holes labeled "DRILL #30" and "DRILL #40" in Figure 1; maintain minimum edge distance.
+
+Step 3: Drill #30 and #40 the holes layed out in Step 2. Install the CB-1005B Oil Cooler Brace. Match-Drill the holes just drilled into the oil cooler brace.
+
+Step 4: Remove the CB-1005B Oil Cooler Brace from the Cylinder 6 Baffle Assembly. Deburr the holes in both the cylinder 6 baffle assembly and the oil cooler brace. Deburr the edges of the oil cooler brace. Cleco the oil cooler brace onto the cylinder 6 baffle assembly.
+
+FIGURE 1: DRILLING THE OIL COOLER BRACE SIDE FLANGES
+Callouts:
+- CB-1005B
+- CB-1006A
+- CB-1005A
+- FWD FACE OF CB-1005B PARALLEL WITH FWD FACE OF CB-1006A
+- EDGE OF FLANGE PARALLEL TO TOP EDGE OF CB-1004A
+- MATCH-DRILL #30
+- CB-1004A
+- DRILL #30 INTO CB-1005A
+- DRILL #40 INTO CB-1004A
+
+FIGURE 2: OIL COOLER BRACE REFERENCE VIEW
+Callouts:
+- CB-1006A
+- CB-1005B
+- CB-1004A
+- CB-1005A
+
+
+=== PAGE FF2-6 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF2-6 | RV-10 | REVISION: 0 | DATE: 10/19/04
+
+Step 1: Cleco the CB-1007B Aft Right Support Bracket to the CB-1007A Right Aft Case Baffle. Final-Drill #30 the holes common between these parts. See Figure 1.
+
+Step 2: Cleco the CB-1008A Cylinder 5 Baffle to the CB-1007A Right Aft Case Baffle. Final-Drill #30 the holes common between these parts. See Figure 1.
+
+Step 3: Cleco the CB-1003C Doubler Plates and CB-1008B Stiffener to the CB-1008A Cylinder 5 Baffle as shown in Figure 2. Final-Drill #30 the holes common between the stiffener and the cylinder 5 baffle. Final-Drill #40 the rivet holes common between the doubler plates and the cylinder 5 baffle.
+
+Step 4: Refer to the detail view in Figure 1 for this step. Drill the two #12 holes. Drill two #30 pilot holes between the #12 holes. Enlarge the #30 pilot holes to 3/4 dia. using a Unibit.
+
+Step 5: Position the VENT DL-03 Scat Tube Flange on the aft face of the CB-1007A Right Aft Case Baffle per the dimension in the detail view in Figure 1. Match-Drill #30 the scat tube flange to the right aft case baffle.
+
+Step 6: Trace the inside perimeter of the VENT DL-03 Scat Tube Flange onto the CB-1007A Right Aft Case Baffle. Remove the scat tube flange and remove the traced area from the right aft case baffle.
+
+Step 7: Dissassemble then deburr the holes and edges in all the Cylinder 5 Baffle Assembly parts. Dimple the rivet holes in the CB-1003C Doubler Plates and the corresponding holes in the CB-1008A Cylinder 5 Baffle (flush head on the inboard side).
+
+Step 8: Rivet the CB-1007B Aft Right Support Bracket to the CB-1007A Right Aft Case Baffle. See Figure 1.
+
+Rivet the CB-1008A Cylinder 5 Baffle to the CB-1007A Right Aft Case Baffle. See Figure 1.
+
+Rivet the VENT DL-03 Scat Tube Flange and VENT SCREEN 3X3 to the CB-1007A Right Aft Case Baffle. See Figure 2.
+
+Rivet the CB-1008B Stiffener to the CB-1008A Cylinder 5 Baffle. See Figure 2.
+
+Rivet the CB-1003C Doubler Plates to the CB-1008A Cylinder 5 Baffle. See Figure 2.
+
+FIGURE 1: CYLINDER 5 BAFFLE ASSEMBLY
+Callouts:
+- REMOVE HATCHED AREA
+- MATCH-DRILL #30, 4 PLACES
+- 9/16
+- 2 1/4
+- 13/16
+- 1 5/16, TYP.
+- 3 11/16
+- DRILL #30 (PILOT HOLE) ENLARGE TO 3/4 DIA., 2 PLACES
+- DRILL #12, 2 PLACES
+- 23/32
+- CB-1007B
+- AN470AD4-4, 2 PLACES
+- AN470AD4-4, 7 PLACES
+- CB-1007A
+- CB-1008A
+- VENT DL-03
+
+FIGURE 2: CYLINDER 5 BAFFLE ASSEMBLY
+Callouts:
+- AN470AD4-4, 5 PLACES
+- CB-1008B
+- AN426AD3-3.5, 6 PLACES (FLUSH HEAD ON INBOARD SIDE)
+- CB-1008A
+- AN470AD4-4, 4 PLACES
+- CB-1003C, 2 PLACES
+
+
+=== PAGE FF2-7 ===
+VAN'S AIRCRAFT, INC.
+DATE: 10/19/04 | REVISION: 0 | RV-10 | PAGE FF2-7
+
+Step 1: Cleco two CB-1003C Doubler Plates to the CB-1003A Cylinder 2 Baffle. Final-Drill #40 the rivet holes common between the doubler plates and the cylinder 2 baffle. See Figure 1.
+
+Step 2: Deburr and dimple the rivet holes drilled in Step 1 (flush head on inbd side).
+
+Step 3: Rivet the two CB-1003C Doubler Plates to the CB-1003A Cylinder 2 Baffle. See Figure 1.
+
+Step 4: Cleco two CB-1003C Doubler Plates to the CB-1003B Cylinder 4 Baffle. Final-Drill #40 the rivet holes common between the doubler plates and the cylinder 4 baffle. See Figure 2.
+
+Step 5: Deburr and dimple the rivet holes drilled in Step 4 (flush head on inbd side).
+
+Step 6: Rivet the two CB-1003C Doubler Plates to the CB-1003B Cylinder 4 Baffle. See Figure 2.
+
+Step 7: Remove the hatched area from one CB-1003C Doubler Plate as shown in Figure 3 to make a CB-1009C Doubler Plate.
+
+Step 8: Cleco the CB-1003C and CB-1009C Doubler Plates to the CB-1009A Cylinder 1 Baffle. Final-Drill #40 the rivet holes common between the doubler plates and the cylinder 1 baffle. See Figure 4.
+
+Step 9: Deburr and dimple the rivet holes drilled in Step 8 (flush head on inbd side).
+
+Step 10: Rivet the the CB-1003C and CB-1009C Doubler Plates to the CB-1009A Cylinder 1 Baffle. See Figure 4.
+
+Step 11: Cleco two CB-1003C Doubler Plates to the CB-1009B Cylinder 3 Baffle. Final-Drill #40 the rivet holes common between the doubler plates and the cylinder 3 baffle. See Figure 5.
+
+Step 12: Deburr and dimple the rivet holes drilled in Step 11 (flush head on inbd side).
+
+Step 13: Rivet the two CB-1003C Doubler Plates to the CB-1009B Cylinder 3 Baffle. See Figure 5.
+
+FIGURE 1: CYLINDER 2 BAFFLE ASSEMBLY
+Callouts:
+- CB-1003C, 2 PLACES
+- CB-1003A
+- AN426AD3-3.5, 6 PLACES (FLUSH ON INBD SIDE)
+
+FIGURE 2: CYLINDER 4 BAFFLE ASSEMBLY
+Callouts:
+- CB-1003C, 2 PLACES
+- CB-1003B
+- AN426AD3-3.5, 6 PLACES (FLUSH ON INBD SIDE)
+
+FIGURE 3: MAKING CB-1009C
+Callouts:
+- REMOVE HATCHED AREA
+- 3/8
+- 101.0°
+
+FIGURE 4: CYLINDER 1 BAFFLE ASSEMBLY
+Callouts:
+- CB-1009C
+- CB-1009A
+- CB-1003C
+- AN426AD3-3.5, 5 PLACES (FLUSH ON INBD SIDE)
+
+FIGURE 5: CYLINDER 3 BAFFLE ASSEMBLY
+Callouts:
+- CB-1009B
+- CB-1003C, 2 PLACES
+- AN426AD3-3.5, 6 PLACES (FLUSH ON INBD SIDE)
+
+
+=== PAGE FF2-8 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF2-8 | RV-10 | REVISION: 0 | DATE: 10/19/04
+
+Step 1: Remove the three engine case bolts and the aft lifting strap from the top of the engine as shown in Figure 1.
+
+Step 2: Final-Drill 1/4 dia. the two lower holes in the CB-1007D Aft Center Support Bracket that attach to the engine case. Final-Drill 1/4 dia. the lower hole in the CB-1001D Fwd Center Bracket that attaches to the engine case. See Figure 1.
+
+Step 3: Final-Drill #12 the hole in the upper flange of the CB-1001D Fwd Center Bracket. See Figure 1.
+
+Step 4: Deburr the holes and edges on both the CB-1001D Fwd Center Bracket and CB-1007D Aft Center Support Bracket.
+
+Step 5: Using the engine hardware removed in Step 1, bolt the CB-1007D Aft Center Support Bracket and CB-1001D Fwd Center Bracket to the engine as shown in Figure 1. The forward face of the CB-1001D Fwd Center Bracket needs to be parallel with the forward face of the starter ring gear.
+
+FIGURE 1: ATTACHING THE FWD AND AFT CENTER BRACKETS TO THE ENGINE
+Callouts:
+- CB-1001D
+- REMOVE AFT LIFTING STRAP
+- STARTER RING GEAR
+- USE ENGINE HARDWARE
+- CB-1007D
+- USE ENGINE HARDWARE
+
+
+=== PAGE FF2-9 ===
+VAN'S AIRCRAFT, INC.
+DATE: 10/19/04 | REVISION: 0 | RV-10 | PAGE FF2-9
+
+NOTE: Some of the baffles will need to be removed for trimming and fitting; it is not necessary to fully tighten the screws or torque the bolts at this time.
+
+Step 1: Use the hardware shown in Figure 1 and Figure 2 to attach the Cylinder 5 Baffle Assembly and Cylinder 6 Baffle Assembly to the engine.
+
+Step 2: Match-Drill #12 the two holes in the aft flange of the CB-1007D Aft Center Support Bracket into the CB-1006A Left Aft Case Baffle and the CB-1007A Right Aft Case Baffle. See Figures 1 and 2.
+
+Step 3: Install the two bolts that attach the CB-1007D Aft Center Support Bracket to the CB-1006A Left Aft Case Baffle and the CB-1007A Right Aft Case Baffle. See Figure 2.
+
+Step 4: Use the hardware shown in Figure 1 and Figure 2 to attach the Cylinder 1-4 Baffle Assemblies to the engine.
+
+FIGURE 1: ATTACHING THE LEFT SIDE BAFFLES
+Callouts:
+- CB-1007D
+- CYLINDER 6 BAFFLE ASSEMBLY
+- CYLINDER 2 BAFFLE ASSEMBLY
+- CYLINDER 4 BAFFLE ASSEMBLY
+- MS35206-281, 6 PLACES
+- MS35333-40, 6 PLACES
+
+FIGURE 2: ATTACHING THE RIGHT SIDE BAFFLES
+Callouts:
+- MS21042-3, 2 PLACES
+- AN960-10, 2 PLACES
+- AN3-3A, 2 PLACES
+- CYLINDER 5 BAFFLE ASSEMBLY
+- CYLINDER 3 BAFFLE ASSEMBLY
+- CYLINDER 1 BAFFLE ASSEMBLY
+- MS35206-281, 7 PLACES
+- MS35333-40, 7 PLACES
+- MS35333-39
+- MS35206-265
+- CB-1007B
+
+
+=== PAGE FF2-10 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF2-10 | RV-10 | REVISION: 0 | DATE: 10/19/04
+
+Step 1: Remove the hatched areas and draw a bend line on the CB-710A Fwd Right Air Ramp as shown in Figure 1.
+
+Step 2: Using bending blocks as shown in Figure 2, bend the CB-710A Fwd Right Air Ramp down 65° along the existing bend line. Use the bending blocks again and bend the fwd right air ramp up 47° along the bend line drawn in Step 1.
+
+Step 3: Cleco the CB-1010B Stiffener and CB-1010G Clip to the CB-710A Fwd Right Air Ramp. Final-Drill #30 the hole common between the fwd right air ramp, clip and stiffener. Final-Drill #30 the forward row of holes common between the stiffener and the fwd right air ramp. Match-Drill #30 the aft two holes in the stiffener into the fwd right air ramp. See Figure 3.
+
+Step 4: Cleco the CB-1010C Right Air Dam to the upper flange of the CB-1010B Stiffener. Final-Drill #30 the holes common between these parts. See Figure 3.
+
+Step 5: Cleco the CB-1010D Fwd Right Support Brackets upper flange to the CB-710A Fwd Right Air Ramp and CB-1010B Stiffener. Final-Drill #30 the three holes common between these parts. Match-Drill #30 the two holes in the fwd right support brackets forward flange into the bent face of the fwd right air ramp. See Figure 3.
+
+Step 6: Dissassemble and deburr all the parts in the Cylinder 1 Baffle Ramp Assembly. Machine countersink (flush on the aft face) the three holes in the CB-1010B Stiffener that are used to attach the CB-1010C Right Air Dam. See Figure 3.
+
+Step 7: Rivet the CB-1010C Right Air Dam to the CB-1010B Stiffener. Rivet the CB-1010D Fwd Right Support Bracket, CB-1010G Clip and the Stiffener-Air Dam Assembly to the CB-710A Fwd Right Air Ramp. See Figure 3 for rivet callouts.
+
+FIGURE 1: TRIMMING THE FWD RIGHT AIR RAMP ISO VIEW
+Callouts:
+- 15/16 TO BEND LINE
+- 1 5/16 BEND TO BEND LINE
+- RAMP BEND LINE
+- REMOVE HATCHED AREA, 2 PLACES
+- TRIM LINE PARALLEL TO UPPER BEND LINE (THIS IS NOT THE FINAL TRIM FOR THIS EDGE)
+
+FIGURE 2: BENDING THE FWD RIGHT AIR RAMP
+Callouts:
+- BENDING BLOCKS (SHOWN TRANSPARENT), 2 PLACES
+- 65°
+- 1/8 INCH RADIUS
+- 47°
+
+FIGURE 3: CYLINDER 1 BAFFLE RAMP ASSEMBLY
+Callouts:
+- CB-1010G
+- AN470AD4-5
+- CB-710A
+- CB-1010A (not visible but referenced)
+- AN470AD4-4, 7 PLACES
+- AN470AD4-5, 3 PLACES
+- AN470AD4-4, 2 PLACES
+- CB-1010D
+- CB-1010C
+- AN426AD4-4, 3 PLACES (FLUSH ON AFT SIDE)
+- CB-1010B

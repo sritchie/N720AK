@@ -1,0 +1,73 @@
+SECTION 2 DESIGN PHILOSOPHY                                                                        RV-10                RV-10                                                                      SECTION 2 DESIGN PHILOSOPHY
+
+
+                                                                                                                        when loading the RV-10. Thus, the RV-10 cabin features permit the pilot the option of carrying one or large
+                                                                                                                        (perhaps heavy) persons, but not necessarily the option of filling all seats simultaneously with oversize
+                                                                                                                        passengers.
+                      SECTION 2: DESIGN PHILOSOPHY                                                                      Designers use the term “Mission Profile” to define the function an airplane is intended to perform. The RV-10s
+                                                                                                                        mission profile is rather broad; it is intended to fill nearly all personal use aircraft needs. Meeting such needs
+                                                                                                                        required a design balancing act. Favoring one need often adversely affects another. For example, providing a
+Before getting into the construction details of your RV, let's take a look at the design philosophy and goals that      large fuel capacity would enhance cruising range, but would limit the payload, which in turn could mean that
+are the basis for this airplane. The goal was to achieve the maximum overall performance, flying enjoyment,             one or more seats must remain empty. The mission profile of the RV-10 is loosely defined as a “personal use
+ease of construction, building and flying economy, ease of maintenance, and pleasing appearance possible                4-place VFR airplane.
+for a four-seat airplane. Understanding how this was achieved might help you better appreciate many of the
+RV's features as you encounter them during construction.                                                                The RV-10 is “personal use” because when licensed in the Experimental Amateur-Built category, it cannot be
+                                                                                                                        used commercially. Personal Use encompasses a potentially wide range of flying activities ranging from a
+The formula for achieving total performance is amazingly simple; maximize thrust, minimize drag, maximize lift          local sightseeing flight, to a fast transcontinental vacation trip. Our design objective was to achieve a balance
+and minimize weight. The implementation of this formula is a bit more complex, however. Thrust, for a given             in accommodating both of these extremes.
+HP engine, has been maximized through use of a good propeller, streamlining of the engine cowl (through the
+use of a crankshaft extension), and directing the engine outlet rearward. Drag was minimized by keeping the             As the builder of the RV-10 kit, you become the manufacturer of that RV-10. As the manufacturer, current
+aircraft frontal area to a minimum, using smooth surfaces, and shaping all airframe components to reduce                USA regulations permit the builder to configure the airplane in any manner he chooses, and to make
+aerodynamic drag. Lift was maximized through use of a wing with adequate area, good airfoil, and smooth                 modifications and changes. We feel that it is important for the builder to be aware of the design Mission
+surface finish. Weight is minimized by careful structural design, by using the best airframe materials, and by          Profile of the RV-10 when contemplating how to configure and/or alter his RV-10. We feel that the builder
+installation of only essential instrumentation and equipment.                                                           must also be aware that any change he makes will impact, to some degree, the mission capability, and
+                                                                                                                        perhaps the safety, of that airplane. Also the builder needs to consider not only the effect of each individual
+Most of the literally hundreds of features which comprise the overall RV-10 package have been determined in             change, but more important, the cumulative effect of all the changes to be made. The design team at Van’s
+the design stage and involve no choices for the builder unless he chooses to make major modifications.                  Aircraft has spent countless hours weighing all of the pros and cons to arrive at the eventual compromise that
+There is little that a builder is likely to do which will have much effect on either thrust or lift of his RV-10.       became the RV-10. We hope that all RV-10 builders will give equally serious thought to the equipping and/or
+However, construction techniques and choices of installed equipment can have noticeable effects on both                 reconfiguring their aircraft.
+drag and weight; the archenemies of performance.
+The RV's “traditional” configuration; tractor engine, monoplane, stabilizer in the rear, is an exercise in logic, not
+simply a concession to convention. There are many good reasons why light planes have been built this way
+for decades, other than the often heard arguments of “entrenched design mentality” from those seeking
+“technological breakthroughs”. The bottom line is that this configuration has proven to offer the best
+compromise resulting in the best all around airplane. A discussion of every factor involved in analyzing and
+choosing each design feature is too involved for this presentation. However, let's examine one choice; tractor
+vs. pusher engine/prop installations.
+Pusher engine/props have always intrigued designers. They offer the possibility of drag reduction, by
+eliminating the disturbed airflow over the fuselage and inboard wing surfaces, and contribute to better cockpit
+visibility. So far so good, but with the propeller aft of the main wheels, ground clearance becomes a problem
+as rotation is required for take-off and landing. If the pusher engine and prop are located near the trailing
+edge of the wing, this problem is minimized, but others are encountered; i.e.: the blunt shape of the aft
+fuselage and the need to build a more complex twin boom arrangement. The end result is of questionable
+value from the drag reduction standpoint. Locating the prop at the extreme rear of the airplane, behind the tail
+surfaces, optimizes streamlining but requires a complex, heavy, and expensive drive shaft system between
+the engine and prop. Either way, engine cooling is impaired. One other seldom discussed drawback of a
+pusher is that, for any given take-off and landing requirement, it will require more wing area (and thus
+additional weight and drag) than a tractor. Ironically, the reason for this is the same as given as the benefit of
+the pusher configuration; the fuselage, inboard wings, and tail surfaces are out of the prop stream. Without
+the accelerated airflow from the tractor propeller over these surfaces, some lift and controllability is lost, thus
+requiring a higher landing speed for any given wing loading. The point is some otherwise good ideas don't
+always work well in the real world.
+The constant chord wing planform chosen for the RV-10 offers the ultimate in construction ease, stability, and
+lifting ability. The possible drag and aesthetic penalties for the rectangular wing are negligible in light of its
+advantages. The airfoil chosen is a SSV 2316; a new airfoil custom designed and optimized around the
+design parameters of the RV-10. During the 1920’s and 1930’s, brilliant engineers and aerodynamicists
+laboriously developed a family of general-purpose airfoils that have been used on all but the most recent
+production airplanes. Now, with the advent of rapid computer computations, airfoils can easily be tailored to
+the specific needs defined by the design parameters of any given airplane. Such airfoils are not “dramatically
+improved” as is often thought, but are marginally better because of their tailoring for a specific set of design
+parameters rather than being picked “off the rack”.
+In addition to a good, stable wing planform, the RV-10 incorporates a relatively long fuselage along with large
+tail surfaces for abundant control authority.
+The cabin of the RV-10 was designed to accommodate 4 standard (plus) size people in comfort. Sizing the
+cabin smaller, perhaps something in the order of a 2 plus 2 seating arrangement, could have caved airframe
+weight and drag. However, in keeping with the “total performance” and “flying enjoyment” goals mentioned
+above, the more spacious cabin option was selected. The result is a large cabin in which 4 rather large
+persons can dimensionally be fitted. However, gross weight and center-of-gravity limits must be adhered to
+
+
+
+s02 RV-10 RV-10 9/16/03                                                                                                 s02 RV-10 RV-10 9/16/03
+                                                        2-1                                                                                                                    2-2
+

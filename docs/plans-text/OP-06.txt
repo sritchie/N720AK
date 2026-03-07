@@ -1,0 +1,271 @@
+AIL-T8          MAN. AILERON TRIM 8
+
+ 1.000 F-8111       SUPPORT BRACKET
+ 1.000 F-8119A       MANUAL TRIM PLATE
+ 1.000 F-8119B       MAN.AIL.TRIM LEVER
+ 1.000 F-8119C       AIL.TRIM ANCHR.BRAKET
+ 1.000 AT6-058X5/16X15 7/ ALUM TUBE C-610
+ 2.000 CT .078 BOWDEN CAB BOWDEN CABLE $/FT
+ 1.000 BAG 966-1      AIL TRIM HDWRE -8/8A
+ 1.000 DWG OP-6        MAN AIL TRIM   -8
+ 1.000 DOC AIL T8 KIT MAN.AIL-8 INSTRUCTION
+ 0.000 ZZZZZZZ EOK ZZZZZZ -----END OF KIT------
+           INSTALLING THE RV-8/8A MANUAL AILERON TRIM
+
+Step 1: Early RV-8 fuselage kits included WD-807 Control Columns which did not have the WD-807E
+Spring Retainer welded in place. If your control column does not have a spring clip installed
+approximately 7 ¼ inches aft of where the aileron pushrods attach, call Van’s Aircraft and request a WD-
+807E Spring Clip. Install the spring clip per instructions shipped with WD-807E.
+Step 2: Fabricate F-8109 Slide Tube per DWG OP-6. Use the F-8119E Connector Plate to test fit the fork
+end of the slide tube.
+Step 3: De-burr all holes & edges, round corners if/as desired, and prime F-8109, F-8110, F-8111, F-
+8119A, F-8119B, F-8119C, and F-8119E. (Note the areas on F-8109 where DWG OP-6 calls for no paint
+or primer.)
+Step 4: Enlarge the SB437-4 snap bushing inside diameter from ¼ inch to 21/64 inch so as to allow the
+5/16 inch diameter F-8109 slide tube to pass through. See DWG OP-6, Sect A-A. Experience at Van’s
+Aircraft has shown that using a die grinder or “dremel” tool to carefully enlarge the snap bushing I.D. is
+better and easier than using a drill bit. A slight amount of out-of-round to the snap bushing I.D. is
+acceptable.
+Step 5: Drill ONE 3/16 inch diameter hole for an AN3 bolt through F-8119D Friction Block. Locate the
+hole per DWG OP-6, View D-D. The second hole will be drilled later. Use a drill press to ensure that the
+hole is perpendicular to the base of the friction block.
+Step 6: Attach a nutplate to F-8119C as called-out on DWG OP-6, View D-D.
+Step 7: Gain access to the structure below the cabin floor by removing the front seat cushions, F-832
+Front Seatback, F-879 Seat Ramp, and F-829A, B, C, & D Seat Floor/Footwell sub-assembly.
+NOTE: All dimensions locating parts or features inside the aircraft are made either parallel or
+perpendicular to the top of the F-814 inboard seat ribs. Measurements parallel to the top of the seat rib
+reference the aft surface of F-804B. This means that distances are easily measured by laying a ruler on
+the top of the seat rib and butting the end against F-804B. Distances perpendicular to the top of the seat
+rib are easily measured using a tri-square referencing the top of the seat rib.
+Step 8: Make cut-out in F-814-R Inboard Seat Rib per DWG OP-6, Rib Cut-Out Detail. (F-814-L cut-out is
+covered in Step 10 below.) Use the AIL TRIM DJ Drill Template to mark the ribs for the cut-outs. The drill
+template is designed to clamp to the inboard side of the rib with the top edge flush with the top of the rib.
+The ¼ inch diameter holes near the top edge of the drill template are designed to fit over the seat rib rivet
+heads. It is possible to get the drill template reversed, so you must pay close attention to the drawing
+measurements. Be sure you are making your cut-out in the correct location.
+Step 9: Locate F-8110 Tube Guide to F-814-R per DWG OP-6, View Looking Outboard at F-814-R Seat
+Rib. Drill and cleco F-8110 to F-814-R using holes in F-8110 as drill guides. After removing chips and de-
+burring holes, F-8110 may be riveted to F-814-R.
+Step 10: Locate F-8111 Support Bracket to F-814-L per DWG OP-6, View Looking Outboard at F-814-L
+Seat Rib. Use the AIL TRIM DJ Drill Template as a guide when drilling holes in the seat rib. The drill
+template is designed to clamp to the inboard side of the rib with the top edge flush with the top of the rib.
+The ¼ inch diameter holes near the top edge of the drill template are designed to fit over the seat rib rivet
+heads. While you have the template in place, mark the F-814-L Inboard Seat Rib for the cut-out per
+Drawing OP-1, Rib Cut-Out Detail. It is possible to get the drill template reversed, so you must pay close
+attention to the drawing measurements to be sure you are drilling your holes in the correct locations. After
+drilling, cleco F-8111 to F-814-L. If necessary, run your #30 drill through the seat rib and support bracket
+to “clean-up” any slight hole mismatch. Remove the support bracket and rivet F-8119C to F-8111 per
+DWG OP-6, Sect A-A. Make the rib cut-out marked earlier. Remove any metal chips, de-burr the holes
+and cut-out, and cleco (but do not rivet) F-8111 to F-814-L.
+Step 11: Install the cotter pins through F-8109 Slide Tube per DWG OP-6, Sect A-A, and Sect C-C.
+Step 12: Install the modified SB437-4 Snap Bushing (ref Step 4) into F-8110 Tube Guide per DWG OP-6,
+Sect A-A. Slide the non-forked end of F-8109 through both rib cut-outs and into the snap bushing. See
+DWG OP-6, Sect A-A.
+Step 13: Slide the F-8119D Friction Block onto the forked end of the F-8109 slide tube. Position the
+friction block on the slide tube approximately as shown in DWG OP-6, Section A-A. Insert a bolt through
+the single 3/16 hole in F-8119D and into one of the 3/16 holes pre-punched in F-8111 Support Bracket
+clecoed to F-814-L. Clamp the friction block to the support bracket. Remove the clecos holding the
+
+
+AIL-T8 Instructions.doc 8-6-98                 1 of 2
+support bracket to the seat rib, remove the support bracket with the friction block still clamped to it, and
+start the second 3/16 inch hole through the friction block using the remaining 3/16 hole in the support
+bracket as a guide. Remove the friction block from the support bracket and finish drilling the 3/16 hole
+through the friction block on a drill press.
+Step 14: Attach two nutplates (for the bolts holding the friction block to the support bracket) to the
+support bracket. Nutplates and rivets are called-out on DWG OP-6, View D-D. Rivet the support bracket
+to the outboard side of F-814-L using the fasteners called-out on DWG OP-6, View Looking Outboard at
+F-814-L Seat Rib.
+Step 15: Assemble the F-8119E Connector Plate to the fork end of F-8109 per DWG OP-6, View D-D.
+Insert the slide tube through the friction block, insert the end of the slide tube through the snap bushing
+installed in F-8110, and attach the friction block to the support bracket using the hardware called-out in
+DWG OP-6, Section A-A.
+Step 16: Install the VA-158 extension springs in 2 places between the spring clip attached to WD-807
+and the ends of the cotter pins installed through F-8109. See DWG OP-6, Section A-A.
+Step 17: Fit the F-8119A Mount Plate and install nutplates to the left side of the cabin per DWG OP-6,
+View Looking Outboard at F-8119A. Bend one end of the Push/Pull cable per DWG OP-6, Bowden Cable
+Bend Detail and attach to F-8119B trim lever. Attach F-8119B Trim Lever and Push/Pull cable to F-8991A
+Mount Plate per DWG OP-6, Section B-B. Install the mount plate/trim lever/cable assembly to the aircraft.
+It is acceptable to slightly notch the lower edge of the F-860A armrest to allow full trim lever motion.
+Step 18: Drill a hole in the shank of the AN3 bolt used to secure the push/pull cable to F-8119E
+Connector Plate. The bolt is called-out on DWG OP-6, View D-D. The hole diameter and location is
+defined on DWG OP-6, Cable Anchor Bolt Detail.
+Step 19: Route the push/pull cable from the mounting plate to the lower tooling hole in F-805 to F-8119C
+Anchor Bracket to the F-8119E Connector Plate. Secure the end of the push/pull cable to F-8119E using
+the previously drilled AN3 bolt. See DWG OP-6, Isometric View and Section A-A. Trim and/or adjust the
+cable so that when the trim lever is in the neutral position, the slide tube is also in the neutral position.
+Step 20: Check the system for any binding or interference by running the trim lever to both extremes,
+moving the ailerons through their full range of motion. Adjust the torque on the bolts attaching F-8119D so
+that there is just enough friction to prevent slide tube movement when the trim system is moved to one
+extreme and the control stick is moved to the other. Correct any instances of interference or binding
+before proceeding.
+
+
+INSTALLING THE WD-807E SPRING CLIPS
+NOTE: The aileron trim system is not intended to correct an out-of-rig condition and has been designed
+to have only enough roll authority to overcome imbalances in fuel or passenger and baggage loading.
+Should there be any question as to whether the aircraft is properly rigged, disconnect the trim springs and
+fly the aircraft when loaded as symmetrically as possible. If during flight testing an asymmetric roll
+condition is noted, trim the aircraft in roll per Section 15 of the RV-8 Builder’s Manual before reconnecting
+the trim springs.
+Step 1: Disconnect WD-411 Front Stick and WD-412 Rear Stick from WD-807 Control Column and
+carefully rest inside the airplane. Disconnect the aileron pushrods from WD-807 Control Column.
+Disconnect WD-807 from the front and rear support bearings. Remove WD-807 from the aircraft to attach
+WD-807E Spring Retainer.
+Step 2: Locate WD-807E Spring Retainer to WD-807 Control Column per DWG OP-1, WD-807 Control
+Column and Sect B-B. A centerline marked on WD-807E and on the bottom center of WD-807 will help to
+get WD-807E properly oriented. Drill and cleco WD-807E to WD-807. De-burr holes. Thread one end of
+each of the springs over each end of WD-807, and rivet WD-807E to WD-807. While it is possible to
+remove and install springs after WD-807E is riveted in place, it is definitely easier to install springs to WD-
+807E before riveting in place.
+Step 3: Re-connect all the control system components that were disconnected in Step 1 above. The
+control system is critical to flight safety! Double check control movements and all nuts and bolts to ensure
+that nothing has been overlooked.
+
+
+
+
+AIL-T8 Instructions.doc 8-6-98                  2 of 2
+                                                                                                                                                                            11 9/32
+                                                                                                                                                                      ME6SURED FRBM RFT
+                                                                                                                                                                   SURFACE OF F-804B ALBNG
+                                                                                                                                                                       TBP BF SEAT RIB
+                                                                                                                                                                                        8 3/32
+                                                                                                                                                                                  MEASURED FRBM AFT
+                                                                                                                                                                   ^   SORF9CE     OF F-804B ALBNG                                                                       O         O
+                                                                                                                                                                                   TBP BF SEAT RIB
+                                                                                                                                                                                                                                                                         0           0                                                                                2X VA-159 NYLON WASHER
+                                                                                                                           - BF F-Blll IS                                                                                                                                                                                                                             AN960-10L WASHER
+                                                                                                                           i66INST BBTTBM                                                                                                                                                                                                                             AN310^3 NUT
+                                                                                                                           SEAT RIB AN6LE^ Q                                                                                                                                                                                                                          M524665-132 CCIIER PIN
+                                                                                                                                                                                                                                                                                                                                     19A
+
+
+                                                                                                                                                                                                                                                                         a       ^
+                                                                                                                            ----I^--7.r---
+                                                                                                                                 ^^i i                                                                                                                                                                                                   SECTION B-B'
+                                                                                                                                                                                                                                                                         AIL TRIM DJ                                                MOUNT PLATE AND LEVER                                      19B
+                                                                                                                                                                                                                                                                                                                                               ToP VIEW
+                                                                                                                                            ^I                                                                                                                    AILERON TRIM DRILL JIG
+                                                                                                                                                                                                                                                            025 OR 032 OR 040 2024-]3 ALCIAD
+
+                                                                                                                                           I^•               L
+                                                                                                                                           `-^
+
+
+
+                                                                                                                             F-BLLL SEE RIB 12x
+                                                                                                                            SUPPORr CUTOUT Lp43
+                                                                                                                            BRACKET DET6IL
+                                                                                                                                                                                                                                                                                                 0      0
+
+       LEFT
+                                                                                                                                         VIEW LOOKING OUTBOARD AT
+                                                                                                                                                 F-B14-L SEAT RIB
+
+
+
+                                                                                                                                                                                     9 3/8
+                                                                                                                                                                               ME9SURED FRBM AFT
+                                                                                                                                                                            SORFACE OF F-804B ALBNG
+                                                                                                                                                                                TBP OF SEAT RIB
+
+
+                                                                                                                                                                                 ToP EDGE OF F-B110 IS
+                                                                                                                                                                                BUTTED 6GAINST BBTTBM
+                                                                                                                                                                                ED6E OF SEAT RIB ANGLE
+                                                                                                                                                                                                                                                                                                                                              (N126CB32R SCRE.
+                                                                                                                                                                                                                                                                  AIJGN AFI EDGE OF
+                                                                                                                                                             0                                                                 F-8110 HBLE                         F-8119A wITH FT                                                               NTO F-860A & F-804)
+                                                                                                                                                                                                                                   CENTER                            EDGE OF F-805
+
+
+                                                                                                                                                                                                                                                                                 -l v4
+                                                                                                                                                                                                             ^ le
+         ISE                                                                                                                                                                                                                                                                                                  0-/--
+NOTE'. SOME I                                                                                                                                                                                                                                                                                                  1/4                          ^        F-8119B                        ^
+
+
+                                                                                                                                                                                                             P        ^011                     a
+       8LL OF MATERAL                                                           15 V16                                                                                                                                 e                                                                                                          B              1O/                           B
+  q]y DESCRPTON                                                  2
+15 7/8" 5/I6 O.D. X.058 W 6061-T6 TUBE                     NO PAINT OR
+                                                         PRIMER THIS AREA            9    3/4       3   l/L6                                                                                                                                                                                                  \                      rIo11I                                            Q
+ 24 BOWDEN CABLE
+                                                                                                                                                   D                                  o1
+   2" 3/8" O.D. VINYL TUBWG                                                                               Irz                                                                                                                                                                                                                     -                  I
+   1 F-8110 TUBE CIIIDE                                                                                              ^ ve
+   I F-8111 SUPPORT BRACKET                                                                                                                                                                                                F-B110 TUBE GUIDE
+                                                                                                                                                                                                                                                                                         25/32
+   1 F-8119A MOUNT PVaTE                                                                                                                            VIEW LOOKING OUTBOARD AT
+   1 F-8119B TRIM LEVER
+   1 F-8]19C ANCHOR BRACKET                                                                                                                                  F-814-R SEAT RIB                                                                                                                                                                             L SEE BoWEN CABLE
+   1 F-8119D FRICTION BLOCK                                                                                                                                                                                                                                                                                                                                  BEND DE[AIL
+   1 F-8119E CONNECTDR PIATE
+                                                        ----2x 01/8 ,--        --    --      -      21      4   N^nvT      BR
+
+   2 VA-158 EXTENSION SPRIN85                                    THRU          PRIMER                   THIS          AREA
+                                                                                                                                                                                                                                                                                                                                                  AN3-3A BOLT
+   1 AIL TRIM DJ DRILL TEMPLCTE
+                                                                                                                                                                                                                                                                                                                                  RCWDEN CABLE AN860-I0L WASHER
+   2 AN3-14A BOLTS                                                                                                                                                                AN3-5 BOLT                                                                                                                                                      AN3551033 NUT
+   1 AN3-5A BOLT                                                                                                                                                             AN960-IOL WASHER                                                                                                                                                     M921919WDG3 AOEL CLAMP
+   3 AN3-3A BOLIS                                                                                                                                                              AN365-1032 NUT            MS2C392-1C11 CLEVIS PIN
+   1 AN3-6 BOLT                                                                       01/8      THRU   ^//32"                                                                (AN3 BOLT MODIFIED          M524665-132 COTTER PIN
+   7 AN526C832R SCREWS                                                                HBLE      6XIS    3/l6"                                                                PER CABLE ANCHOR
+                                                                                                                                                                                                                                                                                                                                       AN3-3A BOLT
+   J AN960-10L WISHERS                                                              PERPENDICUL6R NOTE                                                                             BOLT DE[AIL)                       3/8
+   2 VA-159 WASHERS                                                                                                                                                                                      O        e    3/8                                                                                                             AN960-10L WhSHER
+                                                                                 TO SLBT FORK END OF SLIDE TUBE                                                                                                                                                                                                                        AN365-1032 NUT
+  20 AN426AD3-4 RIVEIS                                                                                                                                           BOWDEN CABLE ^
+                                                                                          MUST MATE WITH F-8119E                                                                                                                                                                                                                       M521919WDG3 ADEL CIAMP
+   2 AN4JDADlS
+                                                                                          CoNNECTOR PLATE.                                                                                                                                                                                                                             INSTALL THROOGH ExISTWG
+  20 AN365-1032 NUT
+                                                          F-8109 MANUAL SLIDE TUBE                                                                             AN3-3A BOLT                                                                                                                                                             HOLE IN F-805
+   I AN3103 NUT                                                                                                                                           AN960-10L WASHER
+   3 KI000-3 NUT PLATES                              MAKE FROM 5/16 0.D. X.058 W 6061-T6 TUBE                                                              K1000-3 NUT PLT                                                        AN3-14A ROLT
+   J K10D0-DB NUT PLTS                                              FULL SCALE                                                                         2X AN426AD3-4 RIVFIS                                                   2X(AN960-10L WASHER
+   1 M520392-1C11 CLEVIS PIN                                                                                                                        M521919WCC3 ADEL CIAMP
+   2 MS24665-132 COTTER PIN                                                                                      B 13/l6                                                                                                           K1000-3 NUTPIATE                                                                                NOTCH FLOOR TO ALLDW ROWEN
+   2 MS24665-358 COTTER PIN                                                                                 ME6SURED FRBM AFT                                                                                                      2X AN426AD3-4                                                                                   CABLE TO PASS THROUGH - COVER
+   3 M521919WDG3 ADEL CIAMPS                                                                             SURFACE OF F-894B ALDNG -7                                                                                                                                                                                                CABLE WITH 3/8' O.D. VINYL TUBWG
+   1 SB437-4 SNAP BUSHING                                                                                    Top OF SEAT RIB                                     F-8119C                                                                                                                                                           AS IT PASBES THROIIGH THE FLOGR
+                                                                                                                                                                                                        F-8119D
+                                                                                                                                                                                                       FRICTmN
+                                                                                                                                                                                                                                                                                                                                    VIEW LOOKING OUTBOARD AT
+                                                                                         0 1 0                                                                                                            BLOCK
+                                                                                                                                                                                                                                                                                                                                       F-8119A & F-8119B
+                                                                                                                                  -]2                                                   VIEW D-D'                                                                                                                                            SIDE VIEW
+                                                                                                                                                        /4                                                                                       AIRCR6FT CENTERLINE
+                                                                              2                     V8                                  ^
+
+                                                                                                                                                                                                                                                        WD-BO]E                      F-914-R SE6T RIB -
+                                                                                                                                                                                                                                                SPRING RETRINER
+                                                                                                                                                                                                                                                                                          VD-897
+                                                                                                                                                                                                                                                                                          CONTROL CGLUMN
+                                                                                         l                  l/8         ^                                                                                                                                                                                            F-8110
+                                 THRE6D VA-I58 SPRIN6                                                                                                                                                                                                                                                                TUBE GUIDE
+                                                                                                               BOWDEN CABLE
+                                  THRBO6H DPENw6 IN                                                                                                                                                                                                                                               VA-l58
+                                                                                                                BEND DETAIL                                                                                                                 71 D '
+        MS24665359             CBTTER          PIN                                                                                                                                                     F-8119E F-8119D                                                               EXTENSI ➢ N SPRIBIG, -             SB43T-4
+        EBTTER PPI                                                                                                FULL SCALE                                                      BowDEN    CABLE     CBNNECTBR FR6]]oN                                                                                                 SNAP BUSHIN61
+                               INSERT COTTER PIN                                                                                                                                                  ^   PLATE       BLOCK                                                                                                 ENLARGE I.D. TO FIT
+                            INTD HBLE IN MANU. SLIDE                                                                                                                                                                                                                                                                    F-8109 M6NU, SLIDE
+                              TUBE, BEND AND TRIM                                                   1 5/B                                                                                                                                                                                                               TUBEIINSTFLL FRBM
+                9ppkBx CDTTER PIN 9S SHDwN                                                                                                                                                                                                                                                                              INBOARD SIDE OF SEAT
+                 T/Is                                                                       4x                                                                                                                                                                                                                          RIB
+                                                                                           RI/B                                                  DRILL #44
+                                                                                          RPPRBx.                                                THRU
+                                                                                                                                                              AN3-5F BOLT                  F-8119C
+                                         F-BlB9                                                                                                                                    ANCHBR BRACKET                                                                            I
+                                       SLIDE TUBE                                                                                                                                                                                                     F-814-L SEAT RIB                   F-8199 MANU,
+                       SECT C-C                                                                                                                  l/l6                                       F-8111                                                                                        SLIDE TUBE
+              COTTER PIN INSTALLATION DETAIL                                                                                                                                      SUPPBRT BR6CKET
+                                                                                                                                        CABLE ANCHOR
+                       FULL SCALE                                                                                                        BOLT DETAIL
+                                                                                   RIB CUT-OUT                                             FULL SCALE
+                                                                                         DETAIL                                                                                                                                      VIEW A-A' TRIM ASSEMBLY
+                                                                                     FULL SCALE
+

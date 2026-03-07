@@ -1,0 +1,365 @@
+                                                                                                                                                              VAN'S AIRCRAFT, INC.
+                                                                                         F-1001K
+                                                                                         RECESS
+
+                                                    F-1039D
+                                        RUDDER PEDAL BRACE
+
+
+
+
+                                                                                                                                          SECTION 27:
+                                      F-1001A                                                                   F-1001B
+                           FIREWALL BULKHEAD                                                                    UPPER ANGLE
+
+
+
+                                                                                                                WD-1002-R-PC
+
+
+                                                                                                                                           FIREWALL
+                        F-1001G-L
+                         GUSSET                                                                                 UPPER FIREWALL BRACKET
+
+                                                                                                         F-1001J-R
+                    F-6122-1                                                                             LONGERON GUSSET
+    TRI-GEAR BRAKE BRACKET
+                                                                                                    F-1001G-R
+                                                                                                    GUSSET
+                                                                                                   F-1001F-R
+                                                                                                   DIAGONAL ANGLE
+
+                                                                                                    F-1001D
+                                                                                                    RIGHT SIDE ANGLE
+
+                                                                                                        WD-1003-R-PC
+                                                                                                        LOWER FIREWALL BRACKET
+
+
+
+
+                                                                                                      VENT TG-10-R
+                                                                                                      CABIN HEAT SELECTOR BOX
+         WD-1002-L-PC                                                                                       F-1001E-R
+      UPPER FIREWALL                                                                                        CENTER ANGLE
+            BRACKET
+                                                                                                                VENT TG-10-L
+        F-1001J-L                                                                                               CABIN HEAT SELECTOR BOX
+LONGERON GUSSET
+
+              F-1001M
+     LEFT SIDE ANGLE                                                                                                     VENT DL-10
+                                                                                                                         2.4° FLANGED DUCT,
+                                                                                                                         2 PLACES
+          F-1001F-L
+    DIAGONAL ANGLE                                                                                                                       F-1048C-1
+                                                                                                                                         FUEL VALVE BRACKET
+
+                                                                                                                                                   F-1048-R
+                                                                                                                                                   FWD FUSELAGE RIB
+                                                       WD-1004
+                                                       NOSE GEAR TENSION FITTING
+                 WD-1003-L-PC
+      LOWER FIREWALL BRACKET
+                            F-1001E-L
+                                                F-1001C
+                        CENTER ANGLE
+                                                LOWER CHANNEL
+                                                                                     F-1048-L
+                                                                            FWD FUSELAGE RIB
+                                                                            (SHOWN CUTAWAY)
+
+
+
+
+                                                                                                                                                                 DATE:07/24/14 REVISION: 0   RV-10   PAGE   27-1
+                       VAN'S AIRCRAFT, INC.
+                        CAUTION! Stainless steel edges are very sharp, handle parts with care.
+
+                       NOTE: Stainless steel will quickly dull cutting tools (drills, deburring tools and unibits). Use plenty of lubricant (Van's Aircraft uses Boelube) and keep the cutter speed low. Use a unibit to make any holes over 1/4 diameter.
+
+   Step 1: Cleco then final-drill #40 all the holes that attach the F-1001K Recess to itself (See Figure 1). Final-Drill #30 the five F-1039D Rudder Pedal Brace attach holes in the side of the recess as called out in Figure 2.
+
+   NOTE: Flush heads on all AN426 rivets should be on the front of the firewall assembly (inside face of the F-1001K Recess) to keep the forward face of the firewall and the inside face of the recess smooth.
+
+   Step 2: Dimple the holes that connect the corners of the F-1001K Recess for the head of an AN426AD3 rivet. It is permissible in this instance to dimple both the tab and flange of the recess at
+   the same time. Dimple the five F-1039D Rudder Pedal Brace attach holes for the head of an AN426AD4 rivet. Dimple the upper most rudder pedal brace hole using a female dimple die and a rivet.                             WD-1002-R-PC
+
+   Step 3: Rivet the holes that attach the F-1001K Recess to itself as called out in Figure 1. If using a Lycoming engine enlarge the three control cable holes indicated in Figure 1 to 5/8 diameter.
+   If not using a Lycoming engine final-drill and dimple these holes #40 then fill them with AN426AD3-3 rivets.
+                                                                AN426AD3-3.5,
+                                                                3 PLACES ON EACH CORNER OF THE RECESS                                                                           F-1001A                                                F-1001D
+                                                                                                                                                             F-1001B
+                                                                                                                                                                                                                                                          WD-1003-R-PC
+                                                                            LYCOMING ENGINE
+                                                                            CONTROL CABLE                                                                                                                                                     F-1001J-R
+                                                                                                                     UPPER FWD FUSE
+                                                                            FIREWALL
+                                                                                                                     RIB ATTACH HOLES
+                                                                            PENETRATION                                                                                                                                                             AN470AD4-5,
+                                                                            POINTS                                                                                                                                                                  4 PLACES
+
+                                                                                                                                                                                                                                                          F-1001K
+                                                                                                                                                    F-1001G-R                                                                                                  F-1001F-R
+                                                                                                                                               F-1039D                                                                                                              F-1001E-R
+                                                                                                                                         ATTACH HOLES
+
+
+                FIGURE 1: PREPARING THE RECESS
+                                                                                                                         F-1001G-L
+  Step 4: Cleco the F-1001B Upper Angle, F-1001C Lower Channel, F-1001D Right
+  Side Angle, F-1001E-L and -R Center Angles, F-1001F-L and -R Diagonal Angles,
+  F-1001G Gussets, F-1001K Recess, F-1001M Left Side Angle, F-6122-1 Tri-Gear                                 F-6122-1
+  Brake Bracket, WD-1002-L-PC and -R-PC Upper Firewall Brackets, WD-1003-L-PC
+  and -R-PC Lower Firewall Brackets and WD-1004 Nose Gear Tension Fittings to the
+  F-1001A Firewall Bulkhead as shown in Figure 2.
+
+  The F-1001J-L and -R Longeron Gussets come tabbed together. Break the
+  F-1001J into the left and right gussets and deburr the edges. Cleco the
+  gussets to the left and right side angles as shown in Figure 2.
+                                                                                                                                                                                                                                                                         F-1001C
+  Step 5: Final-Drill #40 all the nutplate attach rivet holes. Final-Drill the screw
+  holes for the two K1000-4 nutplates 1/4 diameter and the screw holes for the
+  fourteen K1000-3 nutplates #12. Final-Drill #40 the eight holes common to the
+  F-1001A Bulkhead and the F-6122-1 Tri-Gear Brake Bracket. Final-Drill #30 all
+  the remaining holes common between the bulkhead and the parts clecoed
+  together in Step 4. Final-Drill #30 all the holes common to the F-1001J-L and -R     WD-1002-L-PC                                                                                                                                               WD-1004,
+  Longeron Gussets and the F-1001D and F-1001M Side Angles. Final-Drill #30
+                                                                                                        F-1001M                                                                                                                                   2 PLACES
+  all remaining open holes that attach the oil cooler (see Page 27-5 Figure 1) and
+  the open holes for the upper fwd fuse ribs, see Figure 2.                                                 F-1001J-L
+                                                                                                                     AN470AD4-5,
+  Step 6: Disassemble the parts. Dimple (flush head on forward side) all rivet holes in the web of the                 4 PLACES                                                                                                      FIGURE 2: BULKHEAD ASSEMBLY
+  F-1001A Firewall Bulkhead and flanges of the F-1001K Recess. Note that the four lowest holes common to the                         F-1001F-L
+  F-1001E-L and -R Center Angles and WD-1004 Nose Gear Tension Fittings need to be dimpled with a modified
+                                                                                                                                             F-1001E-L                                                                 WD-1003-L-PC
+  dimple die set or a rivet and the female die. Machine countersink all parts that lay against the web of the firewall
+  bulkhead for the dimples in the firewall bulkhead and recess. Prime all aluminum parts if/as desired.
+
+   Step 7: Reassemble the bulkhead assembly per Step 4 except the F-1001E-L and -R Center Angles, F-1001G-L and -R Gussets and WD-1004 Nose Gear Tension Fittings.
+   Cleco the two K1000-4 and fourteen K1000-3 nutplates to the firewall as shown in Figure 2 and Page 27-5, Figure 1. Note that all but two of the nutplates attach to the aft side of the firewall, see Page 27-5, Figure 1. Rivet the assembly together per the callouts in Page
+   27-5, Figure 1. Do not rivet any of the holes common to the center angles, gussets or nose gear tension fittings until Page 27-4! If not using a Lycoming engine fill the holes that attach the oil cooler box (see Page 27-5, Figure 1) except those common with the
+   F-1001M Left Side Angle with AN426AD4-4 rivets. The finished Firewall Bulkhead Subassembly is shown in Figure 2 (note the center angles, gussets and nose gear tension fittings that are not riveted at this time are shown transparent).
+
+PAGE   27-2    RV-10      REVISION: 1   DATE: 07/24/14
+Step 1: Layout the bottom most attach hole for the F-1051J Scat Tube
+                                                                                                                                                                VAN'S AIRCRAFT, INC.
+Support on the F-1048-R Fwd Fuselage Rib using the dimensions given in                                              F-1051J
+Figure 1. The exact location is not critical.                                                                                                 12 21/32
+                                                                                                                                                                        F-1048-R
+Step 2: Drill #19 the location marked out in Step 1.
+
+Step 3: Using a #8 screw align the F-1051J Scat Tube Support parallel with
+the forward edge of the F-1048-R Fwd Fuselage Rib as shown in Figure 1.
+Match-Drill #19 the upper screw hole into the fwd fuselage rib. Remove the
+scat tube support. Final-drill #19 the lower screw hole in the scat tube
+support.
+
+Step 4: Deburr then dimple the two #19 holes drilled in the F-1048-R Fwd
+Fuselage Rib for the head of a #8 screw, flush on the outboard face.
+                                                                                                                          8 27/32
+
+
+
+
+                                                                                                             FIGURE 1: DRILLING THE F-1048-R FWD FUSELAGE RIB
+
+
+
+Step 5: Final-Drill #40 the nutplate attach holes in the F-1051J Scat Tube Support. See Figure 2.
+
+Step 6: Deburr the edges and holes in the F-1051J Scat Tube Support. Dimple the nutplate attach holes in
+the scat tube support. Dimple the nutplates. Dimple both screw holes in the scat tube support for the head
+of a #8 screw. Prime the support if desired.
+
+Step 7: Rivet nutplates to the F-1051J Scat Tube Support as shown in Figure 2.
+
+
+
+
+                                                                      K1100-08,
+                                                                      2 PLACES
+
+                                                                        AN426AD3-3.5,
+                                                                        4 PLACES
+
+
+
+
+                                                                        F-1051J
+
+
+
+
+FIGURE 2: SCAT TUBE SUPPORT NUTPLATE INSTALLATION
+
+                                                                                                                                                                   DATE:07/24/14 REVISION: 2   RV-10   PAGE   27-3
+                       VAN'S AIRCRAFT, INC.                                                                                                 Step 5: Final-Drill #30 all the holes common between the parts just clecoed together and the Firewall Bulkhead Subassembly.
+                                                                                                                                            Final-Drill #30 the holes common between the F-1048-L and -R Fwd Fuselage Ribs and the VENT DL-10 2.4° Flanged Ducts.
+                                                                                                                                            Final-Drill #40 the holes common between the F-1048C-1 Fuel Valve Bracket and the fwd fuselage ribs.
+
+  Step 1: Cleco the WD-1004 Nose Gear Tension Fitting, F-1001E-L Center Angle and F-1048-L Fwd Fuselage Rib together as shown in            Step 6: Disassemble and deburr all parts assembled in Step 1 and Step 4. Dimple the nutplate attach holes in the F-1048-L and -R
+  Figure 1 to create the Left Forward Rib Subassembly. Repeat this step to create the Right Forward Rib Subassembly. The right              Fwd Fuselage Ribs and the holes that attach the F-1048C-1 Fuel Valve Bracket for the head of an AN426AD3 rivet. Final-Drill #19
+  subassembly is a mirror of the left.                                                                                                      then dimple (flush head outbd) the hole near the oval slot in the center of the fwd fuselage ribs (see Figure 1). Prime aluminum parts
+                                                                                                                                            if/as desired.
+  Step 2: Final-Drill #30 all the holes common between the parts assembled in Step 1. Final-Drill #40 the nutplate attach holes in the
+  F-1048-L and -R Fwd Fuselage Ribs. Final-Drill #19 the screw holes for the nutplates in the fwd fuselage ribs. Final-Drill #30 the five
+  F-1039D Rudder Pedal Brace attach holes (see callout in Figure 1) in the F-1001E-L Center Angle only.
+                                                                                                                                                                                F-1001G-R
+  Step 3: Machine countersink the F-1039D Rudder Pedal Brace attach holes on the inboard face of the F-1001E-L Center Angle that will                                  F-1001E-R
+  lay against the F-1001K Recess, for the dimples in the recess.
+                                                                                                                                                                       VA-175
+                                                                                                                                                                 F-1001G-L
+                                                                                                                                                           F-1001E-L
+
+                                         F-1001E-L                   F-1039D
+                                                                     ATTACH HOLES
+
+
+
+                 AN470AD4-5,
+                  10 PLACES
+                                                                     FILE EDGE AS REQUIRED                                                                                                                                     VENT DL-10 2.4°,
+                                                                     TO NEST INSIDE F-1048-L                                                                                                                                   2 PLACES
+                                                                                                                                                                                                                               CLECO ONLY!!
+
+
+
+
+                                                                                                                                                                                                                                                RIGHT FORWARD
+                                                                                                                                                                                                                                                RIB SUBASSEMBLY
+                                                                               K1100-08,
+       AN470AD4-6,                                                             10 PLACES
+                                                                                                 DIMPLE #8                                                                                                                                                     F-1048C-1
+         8 PLACES
+                                                                                                 FLUSH HEAD OUTBD
+                                                                                            F-1048-L
+                                                                                                 MS21053-L08,
+                                                                                                 4 PLACES                                                                                                                                                        AN426AD3-4,
+                                                                                                                                                                                                                                                                 6 PLACES
+                                                                                                                AN426AD3-3.5,
+                                                                                                                2 PLACES PER NUTPLATE
+
+               WD-1004
+                                                                                                                                                                                           LEFT FORWARD
+                                                                                                                                                                                        RIB SUBASSEMBLY
+                 AN470AD4-5,
+                  50 PLACES
+                                                              K1000-08,
+                                                              3 PLACES
+                                                                                                                                                         FIGURE 2: JOINING THE FIREWALL BULKHEAD ASSEMBLY
+                                                                                                                                                                TO THE FORWARD RIB SUBASSEMBLIES
+               FIGURE 1: FITTING, ANGLE AND RIB SUBASSEMBLY
+                                                                                                                                            Step 7: Rivet the WD-1004 Nose Gear Tension Fitting, F-1001E-L Center Angle and nutplates to the F-1048-L Fwd Fuselage Rib
+  Step 4: Cleco the Left and Right Forward Rib Subassemblies and F-1001G-L and -R Gussets                                                   per the callouts in Figure 1 to create the Left Forward Rib Subassembly (place the shop head of the rivet on the outboard face of the
+  to the Firewall Bulkhead Subassembly as shown in Figure 2. Cleco the F-1048C-1 Fuel Valve Bracket between the F-1048-L and -R             nose gear tension fitting). Repeat this step to create the Right Forward Rib Subassembly.
+  Fwd Fuselage Ribs.
+                                                                                                                                            Step 8: Rivet the Left and Right Forward Rib Subassemblies and F-1001G-L and -R Gussets to the Firewall Bulkhead Subassembly
+  Insert both VENT DL-10 2.4° Flanged Ducts into the VA-175 Heat Duct Tee. Rotate the flanged ducts until their mounting plates are         per the callouts in Page 27-5, Figure 1. Rivet the F-1048C-1 Fuel Valve Bracket to the the fwd fuselage ribs per the callouts in
+  parallel with the fwd fuselage ribs (the ribs taper between the firewall bulkhead subassembly and the fuel valve bracket). Cleco the      Figure 2. Insert the VENT DL-10 2.4° Flanged Ducts into the VA-175 Heat Duct Tee, then cleco the flanged ducts to the fwd
+  flanged ducts to the fwd fuselage ribs.                                                                                                   fuselage ribs per the callouts in Figure 2.
+
+PAGE   27-4    RV-10      REVISION: 1   DATE: 07/24/14
+                                                                                                         VAN'S AIRCRAFT, INC.
+
+
+                                                                                                ALL NUTPLATES PLACED ON
+                                                                                                AFT SIDE OF FIREWALL EXCEPT
+                                                                                                THESE TWO NUTPLATES
+
+
+
+
+                                                                                                    K1000-3
+
+                                  K1000-3                  K1000-3
+
+
+
+
+                            K1000-3                                                 K1000-3
+
+
+
+
+K1000-4
+               OIL COOLER
+               BOX
+               ATTACH
+               HOLES
+
+
+
+                                      K1000-3                                 K1000-3
+
+                                                      K1000-3
+                                            K1000-3
+
+
+
+
+AN426AD3-3.5
+
+AN426AD3-4.5
+
+AN426AD4-4
+
+AN426AD4-5
+
+
+
+                                                                     F-1001E-L/R AND F-1001G-L/R ATTACH
+                                                                     DO NOT RIVET WHEN CREATING THE SUBASSEMBLY ON PAGE 27-2
+
+
+                                           FIGURE 1: BULKHEAD RIVET CALLOUTS
+                                                                                                              DATE: 07/24/14 REVISION: 1   RV-10   PAGE   27-5
+                       VAN'S AIRCRAFT, INC.
+
+
+  Step 1: Cleco, then Final-Drill #30 the F-1039D Rudder Pedal Brace to the Firewall Bulkhead Subassembly as shown in Figure 1.                Step 4: Install SB625-8 snap bushings in the Firewall Bulkhead Subassembly as shown in Figure 2.
+  Remove deburr and prime the rudder pedal brace if desired.
+                                                                                                                                               Step 5: Bolt the VENT TG-10-L and -R Cabin Heat Selector Boxes to the Firewall Bulkhead Subassembly per the callouts
+   Step 2: Rivet the F-1039D Rudder Pedal Brace to the firewall bulkhead subassembly per the callouts in Figure 1.                             in Figure 2.
+
+   Step 3: Insert two snap bushings into the F-1039D Rudder Pedal Brace as shown in Figure 1.                                                  Step 6: Proseal any gaps around the F-1001K Recess and around the holes through which the VENT TG-10-L and -R Cabin Heat
+                                                                                                                                               Selector Boxes protrude.
+
+                                                                                                                                               NOTE: Parts of the brake system can be installed at this time, see Section 36.
+
+
+
+
+                                                                                                                                     SB625-8,
+         AN426AD4-5,                                                                                                                2 PLACES
+           5 PLACES
+
+
+
+
+                                                                                                                                  AN960-10L,
+                                                                                                                                   4 PLACES
+
+                                                                                                                                    AN3-3A,
+                                                                                                                                  4 PLACES
+
+                                                                            F-1039D                                          VENT TG-10-R
+                                                                                                           CABIN HEAT SELECTOR BOX RIGHT
+
+                         SB437-4,
+                        2 PLACES                                                                                                          VENT TG-10-L
+                                                                                                                         CABIN HEAT SELECTOR BOX LEFT
+
+
+
+
+                                                                                                                                                          FIGURE 2: CABIN HEAT SELECTOR BOX INSTALLATION
+
+
+
+
+                FIGURE 1: RUDDER PEDAL
+                  BRACE INSTALLATION
+
+PAGE   27-6    RV-10      REVISION: 1   DATE: 07/24/14
+

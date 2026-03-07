@@ -1,0 +1,498 @@
+                                                                                                                                           VAN'S AIRCRAFT, INC.
+                            T-1003B-R                    T-1010
+                            TANK INBD                ANTI-ROTATION
+             VA-141                                      PLATE
+          FUEL FLANGE        RIB - AFT
+
+
+T-1005B         VA-146
+ SHIM           BEARING
+                                                                                      T-1001-L
+                                                                                   FUEL TANK SKIN
+                                                                                                                      SECTION 18:
+                                                                                                      T-1009
+                                                                                                     TANK J-
+                                                                                                    STIFFENER         FUEL TANK
+                                                                                                                  1/4 O.D.
+                                                                                                                  AL TUBE
+                                                                                                                 VENT LINE
+
+                                                                                                                                T-1002
+                                                                                                                             TANK BAFFLE
+  T-1003C-R
+  TANK INBD
+  RIB - FWD
+
+                 T-1005-L
+              TANK ATTACH
+                BRACKET                                                                                                                           T-406B
+                                                                                                                                                FUEL CAP
+                                                                                                                                                 FLANGE
+
+
+
+                                        T-1004-L                                                                                                                              T-406A
+                                     TANK INTERIOR                                                                                                                           FUEL CAP
+                                          RIB
+
+
+
+
+                                                                          T-1011
+                                                                     TANK STIFFENER,
+                                                                        14 PLACES
+
+
+
+                                                                                               T-1004-L
+                                                                                            TANK INTERIOR
+                                                                                                 RIB
+
+
+
+
+                                                                                                                                                                               T-1012
+                                                                                                                                                                            TANK ATTACH
+                                                                                                                   T-1003-L
+                                                                                                                                                                                ZEE
+                                                                                                                TANK OUTBD RIB
+
+
+                                                                                                                                              DATE: 07/24/14 REVISION: 1   RV-10   PAGE   18-1
+                         VAN'S AIRCRAFT, INC.
+                                                                                                 Step 5: Place the T-1001-L Tank Skin in the Leading Edge Assembly cradle. Remove the vinyl film from the inside surface of the tank skin
+                                                                                                 and deburr edges. Cleco all the T-1011 Tank Stiffeners and the VA-112 Drain Flange to the tank skin as shown in Figure 4.
+                         Step 1: Flute and straighten all fuel tank ribs per Section 5-12.
+                                                                                                 Final-Drill all the tank stiffeners and the drain flange to the tank skin. The most inboard rivet hole in the two tank stiffeners in the bottom of
+  Step 2: Trim T-1011 Tank Stiffeners as shown in Figure 1. (Figure 1 shows the                  the inboard rib bay do not correspond to the most inboard hole in the tank skin.
+  untrimmed stiffeners "flat" or "un-bent" for clarity.)                                         Match-Drill from the skin into the stiffeners, then remove the stiffeners and trim
+                                                                                                 the inboard ends of the stiffeners leaving 1/4 inch from the center of
+   One T-1008 Vent Line Clip is trimmed from the end of each "stick" of stiffeners. Only
+                                                                                                 the "new" hole to the end of the stiffener.
+   one vent line clip is required for each tank and extras may be discarded.
+
+   Set half the tank stiffeners aside for assembly into the right fuel tank.
+                                                                                                                                                    T-1001-L
+                                        SEPARATE PARTS
+                                      BY CUTTING BETWEEN
+                                                                                                                                                                                                                                                            T-1011
+                                      NOTCHES. FILE EDGES
+                                     SMOOTH AFTER CUTTING.
+                                                                                                                                                                                T-1011
+
+
+
+                                                                                                                                     T-1011                                                                                    T-1011 INBD             VA-112
+                     T-1011                                T-1008
+                                                                                                                  T-1011                                                                                                        (SEE TEXT)
+                                                                                                                                                                                                            T-1011
+  FIGURE 1: TANK STIFFENER TRIM DIAGRAM
+                                                                                                                                                                                             FIGURE 4: TANK SKIN &
+  Step 3: Trim T-1012 Tank Attach Zee's as shown in Figure 2. (Figure 2 shows the                                                                                   T-1011
+  untrimmed zee's "flat" or "un-bent" for clarity.)
+                                                                                                                                                                                          STIFFENERS SUB-ASSEMBLY
+
+  Note that the inboard tank attach zee has no holes for nutplate attchment.
+
+
+                                                  SEPARATE PARTS
+                                                BY CUTTING BETWEEN
+                                                NOTCHES. FILE EDGES
+                                               SMOOTH AFTER CUTTING.                                                                                      T-1004-L                                                                                    T-1003C-R
+
+
+                                                                                                                                              T-1001-L
+
+
+
+
+         T-1012 INBD                              T-1012                                       T-1003-L
+
+  FIGURE 2: TANK ATTACH ZEE TRIM DIAGRAM
+
+
+
+  Step 4: Fabricate two T-1009 Tank J-Stiffeners by cutting two pieces of J-Channel                                                                                                                                                                   T-1004-L
+  each one 64 1/4 inches long. Draw a centerline on each tank J-stiffener as shown in
+  Figure 3. Set one tank J-stiffener aside for assembly into the right fuel tank.
+                                                                                                                                                                                                                      FIGURE 5: TANK SKIN &
+                                          DRAW LINE                                                                                                                                                                    RIBS SUB-ASSEMBLY
+                                          5/16 FROM
+                                             EDGE
+                                                                                             Step 6: Cleco the T-1003-L Tank Outboard End Rib, T-1003C-R Tank Inboard Rib - Fwd, and T-1004-L Tank Interior Ribs to the T-1001-L
+                                                                                             Tank Skin as shown in Figure 5.
+
+                                                                                             Final-Drill all the ribs to the skin.
+
+
+  FIGURE 3: TANK J-STIFFENER END VIEW
+
+PAGE   18-2     RV-10       REVISION: 0   DATE: 07/24/14
+                                                                                                                                                                                VAN'S AIRCRAFT, INC.
+Step 1: Fit the T-1009 Tank J-Stiffener to the T-1001-L Tank Skin as shown in Figure 2.
+
+Position the J-stiffener such that there is 1/4 inch from the first hole center to the end of the
+J-stiffener. Align the centerline drawn on the flange of the J-stiffener with the holes in the
+tank skin, then match-drill and cleco the J-stiffener to the tank skin.
+
+                                                                                                                                                                       T-406A
+
+Step 2: Cleco the T-1005-L Tank Attach Bracket to the T-1001-L Tank Skin and                                                                  T-406B
+T-1003C-R Tank Inboard Nose Rib as shown in Figure 2.
+
+Final-Drill all tank attach bracket rivet holes to final size.
+
+                                                                                                                                                T-1008
+
+Step 3: The T-406B Fuel Cap Flange is provided with a slight bend in the fwd/aft
+direction. In preparation for fitting the fuel cap flange to the tank skin, adjust the
+amount of bend in the flange so that it conforms to the curve of the tank skin. See
+Figure 1 for the approximate shape.
+
+                                                                              STRAIGHT
+                                                                              FLANGE
+                           FWD                                   AFT
+         3/64
+
+
+
+
+                                                                             3/64
+    BENT
+  FLANGE
+                                    FIGURE 1:
+                                FUEL CAP FLANGE
+                                   EDGE VIEW                                                                                                      FIGURE 2: TANK SKIN, J-STIFFENER,
+                                       (FULL SCALE)
+                                                                                                                                                 ATTACH BRACKET, & FUEL CAP FLANGE
+                                                                                                                                                           SUB-ASSEMBLY
+
+
+
+                                                                               T-1009
+
+
+                                                                                                               Step 4: Fit and drill the T-406B Fuel Cap Flange and T-1008 Vent Clip to the T-1001-L Tank Skin as
+                                                                                                               shown in Figure 2. Use the T-406A Fuel Cap as a guide for centering the fuel cap flange in the tank
+                                                                                                               skin opening.
+
+                                                                                                    T-1005-L   The vent clip clecos through the most forward rivet hole in the cap flange.
+
+
+
+
+                                                                                                                                                                                    DATE: 07/24/14 REVISION: 0   RV-10   PAGE   18-3
+                         VAN'S AIRCRAFT, INC.                                                                        Step 3 (continued): Note that the tank attach zee's are not all installed in the same orientation. Note also that the most inboard attach zee
+                                                                                                                     has no nutplates installed on it.
+                           Step 1: Cleco nutplates to the T-1012 Tank Attach Zee's as shown
+                           in Figure 1. Note that the most inboard tank attach zee does not                          Final-Drill all attach zee to tank baffle to rib flange holes and all tank baffle to rib flange holes to #30.
+        have nutplates. Final-Drill the nutplate attach rivet holes to #40. Remove the nutplates,
+        countersink the tank attach zee's for the nutplate attach rivets, and deburr holes.                          Step 4: Cleco the T-1001-L Tank Skin to the upper and lower flanges of the T-1002 Tank Baffle.
+        Prime all attach zee's if/as desired. Rivet the nutplates to the attach zee's. Read
+        Section 5R for more information on installing nutplates.                                                     Final-Drill all tank skin to tank baffle flange holes to #40.
+
+                                                                                                                     Step 5: Final-Drill all the screw holes in the T-1001-L Fuel Tank Skin to #19.
+
+                     AN426AD3-4,                                                                                     Step 6: Machine countersink the row of holes that attach the T-1001-L Fuel Tank Skin to the T-1002 Tank Baffle. Read Section 5E for
+                      6 PLACES                                      T-1012                                           more information on countersinking and dimpling. The baffle must be in place during this step to provide a good pilot for the countersink.
+                                                                                                                     IMPORTANT: To assure proper part alignment on reassembly, leave every 10th hole un-countersunk. Go back and countersink these
+                                                                                                                     holes and install rivets after the tank has been assembled and the sealant has cured.
+
+                                                                                                                     Step 7: Permanently label the position of each T-1012 Tank Attach Zee so that they will be in the same location for final assembly as they
+                                                                  K1000-3,                                           were for prior assembly steps. Remove the attach zees and baffle.
+                                                                 3 PLACES
+                                                                                                                     NOTE: If you plan to use the capacative fuel gauge senders offered in the VAN'S AIRCRAFT ACCESSORIES CATALOG you
+                   FIGURE 1: T-1012 NUTPLATE ATTACH                                                                  should complete their installation at this point using the instructions supplied in the sender kit.
+
+                                                                                                                     Step 8: Disassemble the tank.
+
+        Step 2: Cleco the T-1003B-R Tank Inbd Rib-Aft to the T-1001-L Tank Skin and T-1005-L                         Machine countersink the top of the T-406B Fuel Cap Flange to accept the dimples in the tank skin.
+        Attach Bracket as shown in Figure 2.
+                                                                                                                     Deburr all holes in all parts. Dimple all holes as required. Do not dimple the two screw holes in the inboard edge of the T-1001-L Tank
+        Final-Drill the aft tank inboard rib to the tank skin and attach bracket.                                    Skin as shown on Page 18-5, Figure 3. Dimple the screw holes in the tank skin using the C-frame tool and a hammer rather than forming
+                                                                                                                     them with a rivet squeezer. This will result in "crisper", better looking skin dimples.
+        Step 3: Cleco the T-1002 Tank Baffle and T-1012 Tank Attach Zee's to the tank rib aft
+        flanges as shown in Figure 2.                                                                                At this point, all parts of the fuel tank should be deburred, countersunk and/or dimpled.
+
+                                                                                                                     Step 9: Prime parts if/as desired except do not prime any area that will be in the inside of the tank.
+
+
+
+
+                      T-1002
+
+
+
+
+                                                                                                    T-1001-L
+
+
+
+
+                                 T-1012
+
+
+
+
+                                                T-1012
+
+                                                                                                          T-1005-L
+                 FIGURE 2: TANK SKIN, INBD
+                 AFT RIB, BAFFLE, & ATTACH                                                           T-1003B-R
+
+                    ZEE SUB ASSEMBLY
+                                                                       T-1012 INBD
+                                                                  (NOTE: NO NUTPLATES)
+
+
+
+PAGE   18-4      RV-10      REVISION: 0   DATE: 07/24/14
+Step 1: The T-1005B and T-1005C Shims are provided as a single piece of               NOTE: Assembly steps from this point on require that sealant be
+                                                                                                                                                                                                VAN'S AIRCRAFT, INC.
+metal with the parts "tabbed together". Separate the shims from each other,           installed between mating parts.
+file-off the tabs, and deburr edges.                                                                                                                                      Step 9: Rivet the T-406B Fuel Cap Flange and T-1008
+                                                                                      Read Section 5S for more information on fuel tank sealant.                          Vent Clip to the T-1001-L Tank Skin as shown on Page
+Step 2: Final-Drill holes in T-1005B and T-1005C Shims. Use a #40 bit for the                                                                                             18-3, Figure 2. See Figure 3 for rivet call-outs.
+small holes; use a #19 bit for the large holes. Deburr all holes.                     The tank is riveted together just like any other structure with one very
+                                                                                      important difference: Apply sealant between the parts comprising a
+                                                                                                                                                                          Step 10: Rivet the T-1003C-R Tank Inbd Rib - Fwd, T-1004-L Tank Interior
+Step 3: Study Figure 1 until there is no question as to the position and/or           seam through which fuel could conceivably leak. This includes every                 Ribs, and T-1003-L Tank Outboard Rib, to the T-1001-L Tank Skin as shown
+orientation of each part or hardware item.                                            rivet.                                                                              on Page 18-2, Figure 5. See Figure 3 for rivet call-outs.
+Step 4: Dimple the two #19 holes in the T-1005B Shim which will have                  Step 6: Fabricate and install small plates made from scrap .025 or .032
+                                                                                                                                                                          Begin with the tank inbd rib - fwd and progress from inboard to outboard,
+K1100-08 Nutplates attached. Dimple the K1100-08 Nutplates and the                    aluminum to close-off the 3/16 diameter holes in the webs of the T-1003-L           finishing with the tank outboard rib.
+corresponding nutplate attach rivet holes in the shim. Rivet the K1100-08             Tank Outbd Rib, T-1003B-R Tank Inbd Rib - Aft, and T-1003C-R Tank Inbd
+Nutplates to the shim as shown in Figure 1.                                           Rib - Fwd. These holes are used to hold the ribs and formblocks in proper           Step 11: Rivet the T-1009 Tank J-Channel to the T-1001-L Tank Skin as
+                                                                                      alignment during hydropress forming of the ribs                                     shown on Page 18-3, Figure 2. See Figure 3 for rivet call-outs.
+Step 5: Attach the VA-146 Bearing, K1000-08               AN426AD3-3.5
+and MS21051-L08 Nutplates, and                                                        Step 7: Attach the VA-141 Fuel Flange, T-1010 Anti-Rotation Plate, and              To minimize mess, it is recommended to apply the sealant to the tank skin as
+T-1005B & C Shims to the                                                              nutplates to the T-1003B-L Tank Inbd Rib - Aft as shown in                          opposed to the J-stiffener. Hold the J-stiffener away from the skin while
+                                                                  T-1005C
+T-1005-L Tank Attach                                                                  Figure 2.                                                                           sliding it into place to avoid smearing sealant.
+Bracket as shown         VA-146                                     K1100-08,
+in Figure 1.                                                        2 PLACES          Step 8: Rivet the T-1011 Stiffeners and VA-112 Drain Flange to the T-1001-L         Step 12: Rivet the T-1005-L Tank Attach Bracket Sub Assembly to the
+                                                                                      Tank Skin as shown on Page 18-2, Figure 4. See Figure 3 for rivet call-out.         T-1001-L Tank Skin as shown on Page 18-3, Figure 2. See Figure 3 for rivet
+                                                                                                                                                                          call-outs.
+                                                                                      Recall that the two stiffeners on the bottom of the most inboard rib bay have
+                                                                                      been shortened to allow water accumulation to migrate aft to the drain point.       Cleco, but do not rivet the tank attach bracket to the inboard nose rib.
+           AN470AD4-5,                                                    K1000-08,
+            6 PLACES                                                      3 PLACES
+                                                                                                                     AN426AD3-5
+
+                                                                                                                     AN426AD3-4.5
+                                                                                                                                                         FIGURE 3: FUEL TANK SKIN
+                                                                                                                     AN426AD3-4                              RIVET DIAGRAM
+                  T-1005-L
+                                                                     T-1005B
+                                                                                                                     AN426AD3-3.5
+                                                              MS21051-L08,
+                                                               2 PLACES
+
+                                                               AN426AD3-4
+                         AN426AD3-4.5,
+                          10 PLACES
+                                                FIGURE 1: TANK ATTACH
+                                               BRACKET SUB-ASSEMBLY
+
+
+                                          AN470AD4-5,
+                                           2 PLACES
+
+
+           T-1010                                                                           DO NOT
+K1000-08,                                                                                   DIMPLE
+5 PLACES
+
+
+
+
+        VA-141
+                                                              T-1003B-L
+
+                                                 AN426AD3-3.5,
+                                                  10 PLACES
+
+
+              AN470AD4-5,              FIGURE 2: AFT INBOARD
+               5 PLACES               TANK RIB SUB-ASSEMBLY
+                                                                                                                                                                                                      DATE: 07/24/14 REVISION: 1   RV-10       PAGE   18-5
+                          VAN'S AIRCRAFT, INC.
+                            Step 1: Install Snap Bushings into holes pre-punched in the T-1004 Tank Interior Ribs and T-1008 Vent Clip as shown in Figure 1.
+
+                                                                                                                   T-1004-L,
+                                                                                                                   5 PLACES                                                          SB437-4,
+                                                                                                                                                                                    6 PLACES
+
+
+                                            T-1008
+
+
+
+
+                                                                                                  FIGURE 1: TANK VENT SNAP BUSHING INSTALLATION
+
+
+
+       Step 2: Fabricate the Fuel Vent Line by cutting a piece of 1/4 inch O.D. X .032 W soft aluminum tube 63 inches long. Read Section 5P for more information on Aluminum Tubing. Place an AN818-4D Nut and AN819-4D Sleeve on one end of the tube and flare
+       the end of the tube.
+
+       Step 3: Install the vent line into the tank by inserting the un-flared end into the snap bushing in the most inboard tank interior rib and feeding it through the rest of the snap bushings in the ribs and finally through the snap bushing in the vent clip installed under
+       the fuel cap flange. See Figure 2.
+
+       Hand-bend the vent line tube as required in the most outboard rib bay to allow the vent line to pass through the rib snap bushing and into the vent clip snap bushing. Hand-bend the vent line tube in the most inboard rib bay to align the flared end of the tube
+       with the bulkhead fitting that will be installed into the inboard tank end rib.
+
+       Step 4: Install the AN832-4D Bulkhead Union and AN924-4D Nut on the T-1003B-R tank end rib as shown in Figure 2.
+
+       Step 5: Rivet the T-1003B-R Tank Inbd Rib - Aft sub-assembly to the T-1001-L Fuel Tank Skin and T-1005-L Tank Attach Bracket as shown in Figure 2. See page 18-5, Figure 3 for rivet call-out.
+
+       Step 6: Thread the AN818-4D Nut onto the AN832-4D Bulkhead Union and torque the nut. Adjust the bend in the vent line if/as required to align the nut and bulkhead union. Double-check that the nut is torqued properly because this is the last time that it can
+       easily be done.
+
+
+                                                                                                                                                                                                                                                                             AN924-4D
+                                                                                                                                                                                                                                               AN832-4D
+                                                                                                                                                                               TANK VENT
+                                                                                                                                                                                  LINE                                                   AN819-4D
+                                                                                                                                                                                                                                   AN818-4D
+
+
+
+
+                                                                                                                                                                                                                                                                                AN470AD4-5,
+                                                                                                                                                                                                                                                                                 6 PLACES
+                                                                             FIGURE 2: TANK VENT LINE AND INBOARD END RIB INSTALLATION
+                                                                                                                                                                                                                                                              T-1003B-R
+
+PAGE   18-6      RV-10       REVISION: 0   DATE: 07/24/14
+                                                                                                                                                                                     VAN'S AIRCRAFT, INC.
+   NOTE: The fuel level sender units are not provided with the kit but are available in VAN'S AIRCRAFT ACCESSORIES CATALOG.
+   Use part number IE-385B for the left fuel tank; use part number IE F-385C for the right fuel tank.
+
+   Step 1: Bend the sender unit float wire to fit the fuel tank as shown in Figure 1 and as shown in the Float Wire Bending Diagram supplied
+   with the sender unit. Install the bent wire to the sender.
+
+   Step 2: Temporarily install the IE F-385B fuel level sender as shown in Figure 1 and Figure 2. Do not use tank sealant for this initial
+   installation.
+
+   Adjust the float wire bends if/as required to match the full travel of the float arm to the full height of the tank.
+
+   Make sure that the float clears the vent line and upper tank stiffener as shown in Figure 2. Bend the float wire if/as required to center the
+   float in the gap between the flange of the aft upper tank stiffener and the vent line.
+
+   Step 3: Final install the IE F-385B Fuel Level Sender as shown in Figure 1 and Figure 2. Use tank sealant for this final installation.
+
+
+
+
+                                                                                                                                                   T-1004-L
+
+
+                                                                                                                                                                                                            T-1001-L
+                                                                                                                                                                               T-1003C-R
+
+                                                                                                                                                          T-1005-L
+
+
+
+
+                                              T-1001-L
+
+                                                          FUEL SENDER                                                T-1001-L                                                                             FUEL SENDER
+                                                                                                    IE F-385B
+                                                             FLOAT                                                                                                                                           FLOAT
+
+
+
+
+                                                                       4 1/8
+    T-1004-L
+
+
+                                                                  4
+   T-1005-L
+                                                                                                                                                                                                                         AN515-8R8,
+                                                                                                                                                              T-1011 (UPPER)                                             5 PLACES
+   VENT LINE
+
+T-1011 (UPPER)
+                                                                                                                                                       VENT LINE
+FUEL SENDER
+FLOAT TRAVEL                                                                                                                     AN515-8R8,
+   RANGE                                                                                                                         5 PLACES
+                                                                                                                                                      FIGURE 2: FUEL LEVEL SENDER
+                                           FIGURE 1: FUEL LEVEL SENDER                                                                                   INSTALLATION PLAN VIEW
+                                              INSTALLATION REAR VIEW
+                                                                                                                                                                                           DATE: 07/24/14 REVISION: 0   RV-10   PAGE   18-7
+                         VAN'S AIRCRAFT, INC.                                                                                                                                                                                                                W-1001-L
+                                                                                                                                                                                                                     W-1019-L
+                           Step 1: Apply sealant to the T-1001-l Fuel Tank Skin from the T-1002 Tank Baffle rivet holes forward. Upon installation
+                           the tank baffle acts as a squeegee and the bead of sealant will be pushed ahead as the baffle is moved forward. Use a
+                            maximum of 3/16" bead of sealant; too much and the thickness can start to build-up making the tank difficult to install
+       on the wing. Put a bead of sealant along the inside edge of the flange on each end rib. Put a heavy glob of sealant where each corner of
+       the baffle will meet the end ribs (this is one of the most common locations for leaks).
+                                                                                                                                                                         W-SPAR ASSY-L
+       Put a thin smear of sealant around each of the rivet holes on the back flanges of the tank ribs.
+                                                                                                                                                             AN960-10,
+       With the tank sitting in the Leading Edge Assembly cradle, install the rear baffle by dropping it straight down on the the rear flanges of the       21 PLACES
+       ribs as shown in Figure 1.
+                                                                                                                                                             AN3-4A,
+                                                                                                                                                           18 PLACES
+       Put a cleco in every hole of the tank skin to baffle joint. After clecoing, inspect the skin to see if it is pillowed-out between the clecos.
+       The contact surface of the tank baffle flange may require pressure to force out excess sealant. The easiest method to squeeze-out
+       the excess is to apply a c-clamp or strong spring clamp between each set of rivets. If you are unsure, clamp the flange in a
+       couple of spots and see if it makes a difference.
+
+       Step 2: Install the rivets attaching the T-1002 Tank Baffle to the T-1003 and T-1004 Fuel Tank Rib flanges as shown
+       in Figure 1. Twirl the closed-end blind rivets in sealant just before installation. The solid rivets that are installed
+       through the end ribs need not be twirled in sealant.
+
+
+
+
+                                                                                                                                                                                                                                                             AN509-8R8,
+                                                                                                                                                                                                                                                             56 PLACES
+                                    T-406A
+                                                                                            AD-42H,                                                                                                                                                 T-1001-L TO W-SPAR ASSY-L;
+          AN470AD4-5,
+           6 PLACES                                                                        6 PLACES,                                                                                                                                                         19 PLACES
+                                                                                            TYPICAL                                                                                                                                                     T-1001-L TO W-1019-L
+                   AN470AD4-4,                                                                             AD-41H,
+                    2 PLACES                                                                              2 PLACES,
+                                                                                                           TYPICAL
+                                    T-1002                                                                                               AN470AD4-5,
+                                                                                                                                                                                                                                      FIGURE 2: FUEL TANK
+                                                                                                                                                                                                                     T-1001-L          TO WING ASSEMBLY
+                                                                                                                                          6 PLACES
+
+                                                                                                                                                                                          AN3-5A,
+                                                                                                                                             AN470AD4-4,                                 3 PLACES
+                                                                                                                                              2 PLACES
+
+
+
+                                                                                                                                                                                    Step 3: Apply a thin smear of sealant over each hole for mounting the T-1012 Tank Attach
+                                                                                                                                                                                    Zee's. Cleco the tank attach zee's in place. Check for proper tank attach zee orientation as
+                                                                                                                                                                                    shown in Figure 1.
+
+                                                                                                                                                                                    Install the tank attach zee to tank baffle to rib flange rivets as shown in Figure 1. Twirl the
+                                                                                                                                                                                    closed-end blind rivets in sealant just before installation. The solid rivets that are installed
+                                    T-1012
+                                                                                                                                                                                    through the end ribs need not be twirled in sealant.
+
+                                                                                                                                                                                    Step 4: Install rivets attaching the T-1001-L Fuel Tank Skin to T-1002 Tank Baffle in all skin
+                                                                                                                                                                                    holes that have been countersunk. See Page 18-5, Figure 3 for rivet call-outs. After sealant
+                                 FIGURE 1: FUEL TANK                                                                                                                                has cured, machine countersink the remaining skin holes and install rivets.
+                                   FINAL ASSEMBLY
+                                                                                                                                                                                    Step 5: Install the T-406A Fuel Cap and CAV-110 Drain Fitting as shown in Figure 1.
+                                                                       T-1012
+                                                                                                                                                                                    It is recommended to use a cut-off rubber glove finger or similar cover over the open end of the
+                                                                                                                                                                                    vent line. This is to keep debris and/or nesting insects from blocking the vent line.
+
+                                                                                                                                          CAV-110                                   Step 6: Install the tank to the spar and leading edge sub-assembly as shown in Figure 2.
+
+
+                                                                                                                                          T-1012 INBD
+                                                                                                                                     (NOTE: NO NUTPLATES)
+PAGE   18-8      RV-10      REVISION: 1   DATE: 07/24/14
+

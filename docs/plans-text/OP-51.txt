@@ -1,0 +1,135 @@
+                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+
+                   OP-51: SHEET METAL BASICS
+NOTE: Know the terms used in this section including; match-drill, final-drill, dimple countersink (or dimple) and machine        Step 4: Cut a five inch length of AA3-025X5/8X5/8 Aluminum Angle from the provided material.
+countersink. Definitions for these and other construction terms are found in Section 5 of the builder's manual. Go to
+Section 3 of the builder's manual for information on tools used for this project.                                                Step 5: Use a fine point felt tip marker to lay out the hole pattern and corner trim lines on the AA3-025X5/8X5/8 Aluminum Angle.
+                                                                                                                                 Remove hatched areas and drill #40 hole locations. See Figure 3.
+Step 1: Use a fine point felt tip marker to lay out the hole pattern on the AS3-032X4X5 Aluminum Sheet as shown in Figure 1.
+
+Step 2: Drill #40 the hole locations shown in Figure 1.
+                                                                                                                                                                     1.000
+                                                              (5.000)                                                                         REMOVE
+                                                                                                                                             HATCHED
+                                                                                                                                                                                                    DRILL #40 TYP
+                                                                                                                                                AREA
+
+
+                                                                                                                 DRILL #40
+                                                                                                                 TYP
+
+
+                                                                                                                                                                                                                       1.000
+                  .250                                                                                                                                                                                                                       REMOVED
+                                                                                                                                                                                                                                             HATCHED
+                                                                                                                                                                                                                                             AREA
+(4.000)
+                                                                                                                 AS3-032X4X5
+                                                                                                                                                                                                                                                TRIM LINE
+          2.750                                                                                                                                                                                                                                 FROM TANGENT
+                                                                                                                                           FIGURE 3: MODIFYING THE ANGLE                                                                        POINT
+
+
+
+                                                                                                                                 Step 6: Align the AA3-025X5/8X5/8 Aluminum Angle on the top surface of the AS3-020X4X5 Aluminum Sheet. Clamp in place
+                                                                                                                                 then match-drill #30 the aluminum angle to the aluminum sheet and cleco. See Figure 4.
+                                 .750
+                                 TYP
+                                                                                                                                 Step 7: Bend the edge of the AS3-020X4X5 Aluminum Sheet as shown in Figure 4 for lap joint (see Section 5K of the builder's
+                                                                                                                                 manual).
+                     .250
+
+                                                                                                                                                                                                    MATCH-DRILL
+                  .250                                                                                                                                                                                  #30 TYP
+                                                                                                                                                                                  ALIGN
+                             FIGURE 1: DRILLING THE ALUMINUM SHEET                                                                                                                SURFACES
+                                                                                                                                                                                       TOP SURFACE
+                                          MATCH-DRILL
+                                              #40 TYP
+Step 3: Align the AS3-032X4X5
+Aluminum Sheet with the                                                                                         AS3-032X4X5
+AS3-020X4X5 Aluminum Sheet                                                                                                                                                       AA3-025X5/8X5/8
+and clamp together. Match-Drill
+#40 then cleco the holes drilled in
+                                                                                                                                     AS3-020X4X5
+Step 2. See Figure 2.                                                                                                                                                                              BEND DOWN
+                                                                                                                                                                                                THIS EDGE FOR
+                                                                                                                    MARK
+Mark the surface of the aluminum                                                                                                                                                                     LAP JOINT
+                                                                                                                    THIS SIDE,
+sheets with a felt tip marker as
+                                                                                                                    2 PLACES
+shown in Figure 2. The marks
+denote the bottom surface of the
+final assembly.
+                                                                                                                                                      FIGURE 4: MATCH-DRILLING THE ANGLE TO THE SHEET
+
+Remove the clamps and clecos.
+                                                                  FIGURE 2: MATCH-DRILLING                                                                                                                      DATE OF COMPLETION:
+                                                                                                                                                                                                                PARTICIPANT:
+                                                                    THE ALUMINUM SHEETS                                                                                                                         DATE: 08/31/09 REVISION: 0    RV-ALL PAGE 51-01
+                         VAN'S AIRCRAFT, INC.                                                                                                 Step 3: Remove clecos, screws and nutplates. Deburr all parts.
+
+                                      Step 1: Cleco the AS3-032X4X5 Aluminum Sheet, the AS3-020X4X5 Aluminum Sheet and                        Step 4: Dimple the holes in the AS3-032X4X5 Aluminum Sheet called out in Figure 3. Dimple the holes in the AS3-020X4X5
+                                      AA3-025X5/8X5/8 Aluminum Angle together then final-drill as shown in Figure 1.                          Aluminum Sheet and AA3-025X5/8X5/8 Angle called out in Figure 3. Dimple the rivet holes in one of the nutplates.
+
+                                                                                                                                              Step 5: Cleco the AS3-032X4X5 Aluminum Sheet, AS3-020X4X5 Aluminum Sheet and AA3-025X5/8X5/8 Angle together.
+                                                                                                                                              Machine countersink the holes in the AS3-032X4X5 Aluminum Sheet called out in Figure 3.
+                                                                                                                    AS3-032X4X5
+                                                                                                                                              NOTE: Install all rivets with manufactured head on bottom/back side of assembly.
+
+                                                                                                                    FINAL-DRILL #30,          Step 6: Rivet the AS3-032X4X5 Aluminum Sheet, AS3-020X4X5 Aluminum Sheet and AA3-025X5/8X5/8 Angle together using
+                                                                                                                    7 PLACES                  the hardware called out in Figure 3. Rivet the nutplates called out in Figure 2 to the aluminum sheet and angle assembly.
+
+
+
+
+                                                                                                                     AS3-020X4X5
+
+                                                                                                                                                                                                                                                     AS3-032X4X5
+
+
+                                                                                                                   FINAL-DRILL #19,                  AN470AD4-4,
+                                                                                                                   2 PLACES                            7 PLACES
+
+                        TOP
+                        SURFACE
+
+
+                                                                                                                    AA3-025X5/8X5/8                                                                                                                  AS3-020X4X5
+                                                                                                                                                                                        MACHINE COUNTERSINK
+                                                                                                                                                                                               OPPOSITE SIDE
+                                                                                                                                                                                           THESE HOLES ONLY
+                                                                                                                                                                                                                                                    AN426AD3-4,
+                                                                                                                                                     AN426AD3-3.5,
+                                                                                                                                                                                                                                                    4 PLACES
+                                                                                                                                                        5 PLACES
+                                                  FIGURE 1: FINAL-DRILLING
+
+         Step 2: Use a screw to attach a nutplate to each of the #19 holes as shown in Figure 2. Use the nutplate as a guide to match-drill       DIMPLE THESE
+         #40 the nutplate rivet holes into the AS3-032X4X5 and AS3-020X4X5 Aluminum Sheets and AA3-025X5/8X5/8 Aluminum Angle.                                                                                                                    LP4-3,
+                                                                                                                                                   HOLES, FLUSH
+                                                                                                                                                                                                                                                  6 PLACES
+                                                                                                                                                  OPPOSITE SIDE
+                                    MATCH-DRILL #40
+                                                                                                                                                                                                                                                     AA3-025X5/8X5/8
+                                          4 PLACES
+
+                         AS3-020X4X5
+                                                                                                                      AA3-025X5/8X5/8
+                                                                                                                                                                        FIGURE 3: COUNTERSINK AND RIVET LOCATIONS
+         AS3-032X4X5
+
+
+
+
+                                                                                                                                K1000-08
+                                                                                                                           2X
+                                                                                                                                AN515-8R8
+
+
+
+
+                                           FIGURE 2: MATCH-DRILLING TO NUTPLATES
+PAGE   51-02 RV-ALL REVISION: 0         DATE: 08/31/09
+

@@ -1,0 +1,47 @@
+SECTION 1             INTRODUCTION                                                   RV -10   RV AIRCRAFT                                                          SECTION 1 INTRODUCTION
+
+
+
+
+                                TABLE OF CONTENTS                                             NOTE:
+                                                                                              Van’s Aircraft Inc. kits are carefully designed and tested. They will demonstrate performance
+            SECTION 1                INTRODUCTION                                             very close to quoted figures with the engines and propellers recommended. Van’s Aircraft
+            SECTION 2                DESIGN PHILOSOPHY
+                                                                                              recommends that the kits only be assembled according to the supplied plans. If the builder
+                                                                                              chooses to deviate from the plans and install a non-standard engine or to modify the aircraft to
+            SECTION 3                TOOLS AND WORKSPACE                                      a configuration other than what is called out in the plans, he or she is assuming responsibility
+            SECTION 4                PARTS INDEX                                              for the airworthiness of that modification and any effect it may have on the airworthiness of the
+            SECTION 5                CONSTRUCTION MATERIALS, PROCESSES & USEFUL INFORMATION
+                                                                                              airframe and/or powerplant. Technical support may not be available for modifications that
+                                                                                              deviate from the plans nor for installations that are not specifically recommended by Van’s
+            SECTION 6                VERTICAL STABILIZER          PAGES 1-6                   Aircraft.
+            SECTION 7                RUDDER                       PAGES 1-12
+            SECTION 8                HORIZONTAL STABILIZER        PAGES 1-14
+                                                                                              Keep in mind that insurance companies may not be willing to write a policy on an aircraft that
+            SECTION 9                ELEVATOR                     PAGES 1-20 + RIB TEMPLATE   has been modified to a configuration other than that recommended by the manufacturer. Prior
+            SECTION 10               FUSELAGE TAILCONE            PAGES 1-26                  to modification, the builder should check with their insurance provider regarding this matter.
+            SECTION 11               EMPENNAGE ATTACHMENT         PAGES 1-10
+            SECTION 12               EMPENNAGE FAIRINGS           PAGES 1-6                   If a kit is modified in any significant manner, it should not be considered an RV (type) for
+                                                                                              registration purposes.
+
+
+
+                                                                                              A WORD ABOUT THE PLANS:
+                                                                                              When the kits are shipped, they have the latest plans and manual revisions. The plans match
+                                                                                              the parts as shipped. Over time, we make changes, corrections and improvements to the
+                                                                                              manual and plans. There is no need to request newer versions. New drawings may not
+                                                                                              match the parts that you have. Changes of a minor nature are published in the bi-monthly
+                                                                                              newsletter, the Rvator. Builders are strongly urged to subscribe to the Rvator at least until the
+                                                                                              project is completed.
+                                                                                              If there is a significant change to the kit that affects flight safety, we will send letters to all
+                                                                                              builders effected. Service Bulletins are posted on our web site as well as published in the
+                                                                                              Rvator.
+
+
+
+
+                                                                                              s01r1 RV-10 1/25/05
+                                                                                                                                              1-2
+s01r1 RV-10 1/26/05
+                                                      1-1
+

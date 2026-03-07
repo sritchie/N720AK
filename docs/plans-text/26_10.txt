@@ -1,0 +1,521 @@
+                                                     AFT CENTER SECTION BULKHEAD ASSEMBLY              F-814HPP                                                                VAN'S AIRCRAFT, INC.
+                                                                            F-1016B-R                  FWD SEAT BELT ANCHOR,
+                                                                   FLOOR STIFFENERS,                   4 PLACES
+                                                                            4 PLACES                             F-1015B-R
+                                                                                                                 SEAT RIB INTERCOSTAL
+
+                                                   F-1016D
+                                    SEAT BELT ATTACH BAR,
+                                                 2 PLACES
+                                                                         F-1016H
+                                                                 GUIDE BRACKET,
+                                                                       2 PLACES
+                                                                                                                        F-1016-R
+                                                                                                                        OUTBOARD SEAT RIB
+                                                                                                                                    F-1005C-R
+                                                                                                                                    BULKHEAD
+                                                                                                                                                              SECTION 26:
+                                            VENT DL-03
+
+
+                                                                                                                                                               MID FUSE
+                                                                                                                                    SIDE CHANNEL
+                                     SCAT TUBE FLANGE,
+                                              2 PLACES                                                                                  F-1018-R
+                                                                                                                                        OUTBD REAR
+                                   F-1016F-R                                                                                            SEAT RIB
+                                    INBOARD
+                                    SEAT RIB                                                                                             F-1017A-L
+
+
+
+
+              F-1015B-L
+                                      VA-175
+                               HEAT DUCT TEE
+                                                                                                                                         REAR SEAT RIB,
+                                                                                                                                         5 PLACES
+                                                                                                                                                                RIBS &
+              SEAT RIB              F-1016F-L                                                                                            F-1017C-L
+          INTERCOSTAL
+
+           F-1016-L
+ OUTBOARD SEAT RIB
+                                    INBOARD
+                                    SEAT RIB
+                                                                                                                                         SEAT BELT
+                                                                                                                                         ATTACH LUG,
+                                                                                                                                         4 PLACES              BOTTOM
+                                                                                                                                                                SKINS
+                                                                                                                                                                FUSELAGE
+                                                                                                                                                                BULKHEAD
+                                                                                                                                                                ASSEMBLY
+
+
+
+
+                                                                                                                                                                            WD-1008-R
+                                                                                                                                                                            STEP MOUNTING BRACKET
+
+                                                                                                                                                                                    F-1017B-R
+                                                                                                                                                                                    SEAT BELT
+                                                                                                                                                                                    ATTACH RIB,
+                                                                                                                                                                                    2 PLACES
+
+
+ F-1016D TRIMMED,
+        SEAT BELT
+      ATTACH BAR,
+         2 PLACES
+        F-1015A-L,
+                                                                                                                                                                                               F-1021-R
+OUTBOARD SEAT RIB
+                               F-1005C-L                                                                                                                                                       OUTBD BAGGAGE RIB
+             F-1076           BULKHEAD
+ CENTER BOTTOM SKIN       SIDE CHANNEL
+                                                     F-1017A-R                                                                                                                      F-1020-R
+                                                REAR SEAT RIB,                                                                                                                      MID BAGGAGE RIB
+                        REAR SPAR
+                                                     5 PLACES                                                                                                                   F-1077
+                BULKHEAD ASSEMBLY
+                                                                                                                                                                                MID BOTTOM SKIN
+                                               F-1017C-R                     WD-1008-L
+                                  SEAT BELT ATTACH LUG,                 STEP MOUNTING                                                                                       F-1019-R
+                                               4 PLACES                       BRACKET                                                                                       INBD BAGGAGE RIB
+                                                                                                                                                                 F-1019-L
+                                               F-1018-L                                                                                                          INBD BAGGAGE RIB
+                                                                                           F-1017B-L
+                                           OUTBD REAR                                     SEAT BELT
+                                              SEAT RIB                                   ATTACH RIB,                                                      F-1020-L
+                                                                                           2 PLACES                                                       MID BAGGAGE RIB
+                                                                                                                                                F-1021-L
+                                                                                                                                                OUTBD BAGGAGE RIB
+                                                                                                                                                                                     DATE: 07/24/14 REVISION: 0   RV-10   PAGE   26-1
+                       VAN'S AIRCRAFT, INC.
+                                                                                             F-1066C-R
+                                                                                                              F-1066C-L
+
+  Step 1: Break apart the F-1066C Reinforcing Angles                                                            REMOVED                      Step 5: Disassemble both Right and Left Inboard Seat Rib Subassemblies. Deburr the edges and holes in all parts. Dimple the
+  into F-1066C-L and -R as shown in Figure 1.                                                                   HATCHED                      screw holes along the upper edge of the inboard seat ribs for a #8 flush head screw. Dimple all nutplate attach holes in the
+                                                                                                                AREAS                        F-1016-F-L and -R Inboard Seat Ribs. Machine countersink the F-1016D Seat Belt Attach Bars for the dimples in the seat ribs
+  Step 2: Cleco the F-1016D Seat Belt Attach Bar,                                                                                            coinciding with the holes that will attach the K1000-4 nutplates. Dimple the attach holes in the K1100-08 and MS21053-L08
+  F-1066C-L Reinforcing Angle, F-814HPP Fwd Seat Belt Anchor,                                                                                nutplates. Flute the bottom flange of the inboard seat ribs as required. Prime parts if/as desired.
+  the VENT DL-03 Scat Tube Flange, and break apart then cleco the
+  F-1016H Guide Bracket to the F-1016F-L Inboard Seat Rib to create the                                                                      Step 6: Cleco the K1000-4 nutplates and F-1016D Seat Belt Attach Bars onto the F-1016F-L and -R Inboard Seat Ribs. Rivet the
+  Left Inboard Seat Rib Subassembly                                                                                                          K1000-4 nutplates in place. Cleco the rest of the parts together except the F-1066C-L Reinforcing Angle per Step 2 to form the
+  as shown in Figure 2.                                                                                                                      Inboard Seat Rib Subassemblies.
+                                                                      FIGURE 1: BREAKING APART
+  Step 3: Final-Drill #40 the nutplate attach holes                     THE REINFORCING ANGLES                                               Step 7: Mark the holes called out "LEAVE OPEN" in Figure 3 and the holes that attach the F-1066C-L Reinforcing Angle. Rivet the
+  common to the F-1016D Seat Belt Attach Bar and                                                                                             F-1016D Seat Belt Attach Bar, F-1016H Guide Bracket, F-814HPP Fwd Seat Belt Anchor, VENT DL-03 Scat Tube Flange and
+  F-1016F-L Inboard Seat Rib. Final-Drill 1/4 dia. the                                                                                       nutplates to the F-1016F-L Inboard Seat Rib per the callouts in Figure 3 (note the rivet orintation callout). Rivet the reinforcing angle
+  bolt hole for this nutplate in the seat belt attach bar,                                                                                   to the seat belt attach bar, fwd seat belt anchor and inboard seat rib per the callouts in Figure 3 to finish the Left Inboard Seat Rib
+  F-814HPP Fwd Seat Belt Anchor and the inboard seat rib.                                                                                    Subassembly. Insert the snap bushing into the guide bracket. Repeat this step to finish the Right Inboard Seat Rib Subassembly.
+  Final-Drill #40 the nutplate attach holes and #19 the nutplate screw holes along the upper edge of the inboard seat rib. Match-Drill
+  #30 the holes called out in Figure 3 into the fwd seat belt anchor using the holes in the inboard seat rib and seat belt attach bar as a
+  drill guide. Final-Drill #30 the remaining holes common to the seat belt attach bar, F-1066C-L Reinforcing Angle, fwd seat belt
+  anchor, and the inboard seat rib. Remove the reinforcing angle then final-drill #30 the remaining holes common to the seat belt
+  attach bar, fwd seat belt anchor, and the inboard seat rib. Final-Drill #30 the holes common to the VENT DL-03 Scat Tube Flange
+  and the inboard seat rib. Final-Drill #40 the F-1016H Guide Bracket common to the inboard seat rib. See Figure 2.
+                                                                                                                                                                                                                         F-814HPP                VENT DL-03
+   Step 4: Repeat Step 2 and Step 3 to create the Right Inboard Seat Rib Subassembly. The right is a mirror image of the left.                                                                             F-1016D
+                                                                                                                                                                                             F-1016H
+                                                                                                                                                                            F-1016F-L
+
+
+                                                                                                                                                                                                                                                                    AN426AD3-3.5
+                                                                                                                                                                                   SB625-7
+                                                                                                                                                                                                                                                                     AN426AD3-6
+                                                                                                                    MS21053-L08
+                                                                  SB625-7                                                                                                                                                                                            AN470AD4-4
+                                                                                                                                                                                                 LEAVE
+                                                                                                                                                                                                  OPEN                                                               AN470AD4-6
+                                                               F-1016H
+                                F-814HPP
+                                                                                                                                                                                                                                                                     AN470AD4-7
+
+                                                                                                                                                                                                                                                                     AN470AD4-8
+
+
+
+                                                                                                                                                           F-1066C-L            LEAVE
+                  K1100-08,                                                                                                                                                      OPEN                                                    MATCH-DRILL
+                  6 PLACES                                                                                                                                                                                                         MANUFACTURED HEAD
+                                                                                                                                                                                                                                   ON F-1016D
+                                                                                                         VENT DL-03                                                                                                         MATCH-DRILL
+
+
+                                                                                                          K1000-4                                                      FIGURE 3: INBOARD SEAT RIB SUBASSEMBLY
+
+
+                                                                                                   F-1066C-L
+
+
+                                                                                      F-1016D
+                                                   F-1016F-L
+
+
+                                            FIGURE 2: INBOARD SEAT RIB SUBASSEMBLY
+                                                   (FLANGES FACE OUTBOARD)
+
+PAGE   26-2    RV-10      REVISION: 1   DATE: 07/24/14
+                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+Step 1: Remove the tabs on the two remaining instances of the F-1016D Seat Belt Attach Bar as shown in Figure 1. This will create         Step 5: Cleco the F-1015B-L Seat Rib Intercostal and F-1015E Spacer to the F-1016-L Outboard Seat Rib
+two F-1016D TRIMMED Seat Belt Attach Bars. Radius the lower edge as shown in Figure 2.                                                    as shown in Figure 3. Final-Drill #40 the holes common between these three parts. Final-Drill #40 the nutplate
+                                                                                                                                          attach holes and #19 the screw holes in the inboard flange of the seat rib intercostal. Final-Drill #19 the open
+                                                                                                                                          screw holes along the upper edge of the outboard seat rib to create the Left Outboard Seat Rib Subassembly.
+
+                                                                                        REMOVE HATCHED AREA                               Step 6: Repeat Steps 2, 3 and 5 to create the Right Outboard Seat Rib Subassembly. The right is a mirror of the left.
+
+                                                                                                                                          Step 7: Disassemble both Right and Left Outboard Seat Rib Subassemblies. Deburr the edges and holes of all parts. Place the flush
+                                                                                                                                          side of the following dimples on the inbd side of the subassembly. Dimple both nutplate attach holes in the F-1016-L and -R
+                                                                                                                                          Outboard Seat Ribs. Machine countersink the F-1016D TRIMMED Seat Belt Attach Bars for the dimples in the outboard seat ribs.
+                                                                                                                                          Dimple the screw holes in the inboard flange of the seat rib intercostals that correspond to the flush nutplates and the screw holes
+                                                                                                                                          along the upper edge of the outboard seat rib for a #8 screw. Dimple the holes common to the outboard seat ribs, F-1015E Spacers
+                                                                                                                                          and F-1015B-L and -R Seat Rib Intercostals. Dimple the nutplate attach holes in the inboard flange of the seat rib intercostals.
+                                FIGURE 1: MODIFYING THE SEAT BELT ATTACH BAR                                                              Dimple the two rivet holes in the lower flange of the outboard seat ribs that are below the lower edge of the seat belt attach bars
+                                                                                                                                          (see Figure 3). Flute the bottom flange of both the outboard seat rib subassemblies. Prime all parts if/as desired.
+Step 2: Cleco the F-1016D TRIMMED Seat Belt Attach Bar, and F-814HPP Fwd Seat Belt Anchor to the F-1016-L Outboard Seat
+Rib as shown in Figure 2.                                                                                                                 Step 8: Dimple the K1000-08, K1100-08 and MS21053-L08 nutplates. Rivet the nutplates to the inboard flange of the F-1015B-L
+                                                                                                                                          and -R Seat Rib Intercostals per the callouts in Figure 3.
+Step 3: Final-Drill #40 the nutplate attach holes in the F-1016D TRIMMED Seat Belt Attach Bar and F-1016-L Outboard Seat Rib.
+Final-Drill 1/4 dia. the bolt hole in the F-814HPP Fwd Seat Belt Anchor, seat belt attach bar and F-1016-L Outboard Seat Rib.             Step 9: Cleco the K1000-4 nutplates and F-1016D Seat Belt Attach Bars onto the F-1016-L and -R Outboard Seat Ribs. Rivet the
+Final-Drill #30 the remaining holes common between the seat belt attach bar, outboard seat rib and fwd seat belt anchor. Match-Drill      K1000-4 nutplates in place per the callouts in Figure 2. Cleco the rest of the parts together per Step 2 and Step 4 to form the Left
+#30 the holes called out in Figure 2 into the fwd seat belt anchor using the holes in the outboard seat rib and seat belt attach bar as   and Right Outboard Seat Rib Subassemblies.
+drill guides.
+                                                                                                                                          Step 10: Rivet the F-1016D TRIMMED Seat Belt Attach Bar, and F-814HPP Fwd Seat Belt Anchor to the F-1016-L Outboard Seat
+Step 4: Cut apart the F-1015EF Spacers into two F-1015E and two F-1015F Spacers. Label each part (the two parts with seven                Rib per the callouts in Figure 2 (leave the holes open as called out). Rivet the F-1015B-L Seat Rib Intercostal and F-1015E Spacer
+holes in them are F-1015E Spacers).                                                                                                       to the F-1016-L Outboard Seat Rib per the callouts in Figure 3 to finish the Left Outboard Seat Rib Subassembly. Repeat this step
+                                                                                                                                          to finish the Right Outboard Seat Rib Subassembly.
+
+
+                                                                               AN426AD3-6,                                                          K1000-08
+                           K1000-4
+                                                                               2 PLACES
+                                                                                                                                                                                                         AN426AD3-3.5,
+                                                                                        F-1016-L                                                   K1100-08                                              2 PLACES PER NUTPLATE
+
+                      F-1016D TRIMMED                                                                                                                                                                                            BUFF AND DEBURR THE BACK OF THIS
+                                                                                                                                                 F-1015B-L                                                        F-1015E        DIMPLE TO ALLOW EASE INSTALLATION
+                                                                                                                                                                                                                                 OF THE F-1015D MID CABIN SIDE COVER
+                                                                                                                                                                                                                                 SEE SECTION 35
+                        MATCH-DRILL
+  RADIUS INSIDE
+ EDGE AS REQ'D                                                                                                                                                                                                                             F-1016-L
+    TO REMOVE           LEAVE OPEN
+ INTERFERENCE                                                                                                                                  MS21053-L08
+WITH RADIUS ON                                                                                                                                                                                                                                          PLACE SHOP HEAD
+   THE BOTTOM                                                                                                                                                                                                                                           ON OTHER SIDE
+     FLANGE OF
+THE OUTBOARD
+       SEAT RIB
+
+                                                                                                                                                               DIMPLE
+                                                                                                                   F-814HPP
+                                                                                                                                                        FLUSH HEAD ON
+                                                                                                                                                          BOTTOM SIDE
+
+                                                                                                   AN470AD4-7,
+                                                                                                   9 PLACES
+
+                                                                                         AN470AD4-6,
+                                                                                         7 PLACES                                                                                                           AN426AD3-4,
+                                                                                                                                                                                                            8 PLACES
+
+
+                                                       FIGURE 2: OUTBOARD SEAT RIB SUBASSEMBLY
+                                                               (FLANGES FACE OUTBOARD)                                                                                FIGURE 3: OUTBOARD SEAT RIB SUBASSEMBLY
+
+                                                                                                                                                                                                                            DATE:07/24/14 REVISION: 1   RV-10       PAGE   26-3
+                         VAN'S AIRCRAFT, INC.
+                                                                                                                                                                                                                                     F-1066B-L
+                           Step 1: Break apart the F-1066B Flap Motor Attach Angles into F-1066B-L and -R as shown in Figure 1.
+                                                                                                                                                                                                                                           REMOVE HATCHED AREA
+       Step 2: Final-Drill #12 the bolt holes and #40 the nutplate attach holes in the F-1066A Flap Actuator Bracket and the two holes in the attach flange of the F-1066B-L Flap Motor Attach Angle.
+       Cleco the F-1066B-R Flap Motor Attach Angle to the flap actuator bracket as shown in Figure 2 and final-drill #30 the holes common between the two parts. Final-Drill 1/4 each holes in the                                               F-1066B-R
+       upright flange of the flap motor attach angles. Disassemble the two parts.
+
+       Step 3: Cleco the F-1066A Flap Actuator Bracket to the Left and Right Inboard Seat Rib Subassemblies as shown in Figure 2. Final-Drill #30 the holes common between the Flap Actuator
+       Bracket and the inboard seat rib subassemblies. Break apart the F-1016G Inboard Seat Rib Spacers into two parts. Cleco the left and right, inboard and outboard seat rib subassemblies
+       and inboard seat rib spacers to the Aft Center Section Bulkhead Assembly as shown in Figure 2. Final-Drill #30 all the holes common between the seat rib subassemblies and the aft center
+       section bulkhead assembly. Match-Drill #12 the forward flanges of the upper and lower holes in the forward flanges of the seat rib subassemblies and inboard seat rib spacers using holes in
+       the aft center section bulkhead assembly as drill guides.
+
+       Step 4: Disassemble and deburr all parts. Prime the parts if/as desired.                                                                                                                               FIGURE 1: BREAKING APART THE
+                                                                                                                                                                                                               FLAP MOTOR ATTACH ANGLES
+       Step 5: Insert the VA-175 Heat Duct Tee into the VENT DL-03 Scat Tube Flanges on the Inboard Seat Rib Subassemblies as shown in Figure 2. Rivet the two
+       nutplates to the F-1066A Flap Actuator Bracket as shown in Figure 2. Cleco the flap actuator bracket to both inboard seat rib subassemblies. Cleco the seat rib
+       subassemblies to the Aft Center Section Bulkhead Assembly.
+
+       Step 6: Rivet the F-1066A Flap Actuator Bracket to the Left and Right Inboard Seat Rib Subassemblies per the callouts in Figure 2. After the flap actuator
+       bracket is riveted to the inboard seat rib assemblies then rivet the F-1066B-R Flap Motor Attach Angle to the flap actuator bracket using the hardware             AN365-1032,
+       called out in Figure 2. Bolt the seat rib subassemblies to the aft center section bulkhead assembly as shown in Figure 2. Rivet the seat rib subassemblies           8 PLACES
+       to the aft center section bulkhead assembly as shown in Figure 2.
+
+
+                                                                                                                                                  AN960-10,
+                                                                                  AFT CENTER SECTION                                                                      VA-175
+                                                                                                                                                  8 PLACES
+                                                                                  BULKHEAD ASSEMBLY
+                                                                                                                                                                                   F-1066B-R
+
+
+
+
+                                                                                                                                                                                               VENT DL-03, 2 PLACES
+                                                                                                                                                                                                  AN470AD4-5,
+                                                                                                                                                                                                  3 PLACES
+
+                                                                                                                                                                                                        F-1066A
+                                                                                                                F-1016G,                                                                                    AN470AD4-7,
+                                                   AN470AD4-6,                                                 2 PLACES                                                                                     6 PLACES
+                                                    24 PLACES
+                                                                                                                                                                                                             AN470AD4-5,
+                                                                                                                                                                                                             6 PLACES
+                                                            AN3-12A,
+                                                           8 PLACES                                                                                                       K1000-3,
+                                                                                                                                                                                                                 RIGHT INBOARD
+                                                                                                                                                                          2 PLACES
+                                                                                                                                                                                                                 SEAT RIB SUBASSEMBLY
+                                                                                                         LEFT OUTBOARD                                                   AN426AD3-3.5,
+                                                                                                         SEAT RIB SUBASSEMBLY                                            4 PLACES
+                                                                                                                                                                                                                    RIGHT OUTBOARD
+                                                                                                                                                                                                              SEAT RIB SUBASSEMBLY
+
+                                                                                                                                                                         LEFT INBOARD
+                                                                                                                                                                         SEAT RIB SUBASSEMBLY
+
+
+                                                                   FIGURE 2: ATTACHING SEAT RIB SUBASSEMBLIES TO THE AFT CENTER SECTION BULKHEAD SUBASSEMBLY
+PAGE   26-4      RV-10      REVISION: 0   DATE: 07/24/14
+                                                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
+ Step 1: Flute the lower flange of the F-1015A-L Outboard Seat Ribs until the holes in the rib match the corresponding holes in the   Step 5: Cleco the F-1017A-L and -R Rear Seat Ribs, Left and Right Rear Seat Rib Subassemblies
+ F-1076 Center Bottom Skin. Cleco the outboard seat ribs and Inboard Seat Rib Subassemblies to the Rear Spar Bulkhead                 and F-1018-L and -R Outboard Rear Seat Ribs to the to the Rear Spar Bulkhead Assembly as shown
+ Assembly as shown in Figure 2 and Figure 3. Final-Drill #30 all the holes common between the ribs and the rear spar bulkhead.        in Figure 2 and Figure 3. Final-Drill #30 all the holes common between the ribs and the rear spar bulkhead.
+ Uncleco the outboard seat ribs and inboard seat rib subassemblies.
+                                                                                                                                      Step 6: Disassemble and deburr all parts. Final-Drill #40 and dimple the 3/32 holes in the web of the
+ Step 2: Uncleco the F-1005C-L and -R Bulkhead SIde Channels from the Rear Bulkhead Assembly. Cleco then final-drill #30 Left         F-1018-L and -R Outbd Rear Seat Ribs except the holes common to the F-1005C-L and -R Bulkhead
+ and Right Outboard Seat Rib Subassemblies to the rear spar bulkhead assembly as shown in Figure 3. Uncleco the outboard seat         Side Channels and the aft row of holes. Prime parts if/as desired.
+ rib subassemblies from the rear spar bulkhead assembly. Note that the rivets that attach this flange to the rear spar bulkhead
+ assembly are AN426AD4 rivets and that the flush head goes on the aft side of the rear spar bulkhead assembly underneath the          Step 7: Cleco the Left and Right Rear Seat Rib Subassemblies together per Step 4 then rivet them together per the callouts in
+ F-1005C-L and -R Bulkhead Side Channels, see Figure 2. Duburr and dimple these holes now for the head of an AN426AD4 rivet.          Figure 1.
+ Cleco the bulkhead side channels back in place.
+                                                                                                                                      Step 8: Cleco the Outboard Seat Rib Subassemblies to the Rear Spar Bulkhead Assembly then rivet them together per the callouts
+ Step 3: Break apart F-1017B to make the F-1017B-L and -R Seat Belt Attach Ribs. Cut apart F-1017C to make the F-1017C-L and          in Figure 2.
+ -R Seat Belt Attach Lugs.
+                                                                                                                                      Step 9: Cleco the F-1005C-L and -R Bulkhead Side Channels to the Rear Spar Bulkhead Assembly then rivet (all but the two rivet
+ Step 4: Cleco then final-drill #30 the F-1017B-L Seat Belt Attach Rib and F-1017C-L and -R Seat Belt Attach Lugs to the F-1017A-R    locations that will attach the F-1015A-L and -R Outboard Footwell Ribs) them together per the callouts in Figure 2.
+ Rear Seat Rib as shown in Figure 1. This will form a Left Rear Seat Rib Subassembly. Repeat this step to form another Left Rear
+ Seat Rib Subassembly and two Right Rear Seat Rib Subassemblies. The right assembly is a mirror of the left.                          Step 10: Cleco the F-1015A-L and -R Outboard Footwell Ribs and F-1018-L and -R Outboard
+                                                                                                                                      Rear Seat Ribs to the Rear Spar Bulkhead Assembly then rivet them together
+                                                                                                                                      per the callouts in Figure 2.
+
+                                                                                                                                      Step 11: Cleco (see Figure 3) then rivet remaining ribs working outboard to inboard to the
+                                                                                                                                      Rear Spar Bulkhead Assembly per the callouts in Figure 2.                                                         F-1005C-R
+
+                                                                                                                                                                                                          F-1015A-R
+
+                                                                                                                                                                        RIGHT OUTBOARD SEAT
+                                                                                                                                                                            RIB SUBASSEMBLY
+
+                                                                                     F-1017C-L                                                                                        RIGHT INBOARD
+                                                                                                                                                                                      SEAT RIB
+                                                                                                                                      LEFT INBOARD SEAT                               SUBASSEMBLY                                                                 F-1018-R
+                                                                                                                                       RIB SUBASSEMBLY
+                                                                                                  F-1017A-R
+                                         F-1017C-R                                                                                           LEFT OUTBOARD
+                                                                                                                                             SEAT RIB
+                                                                                                                                             SUBASSEMBLY
+                                                 F-1017B-L
+                                                                                                                                                  F-1005C-L
+                                                                                          AN470AD4-6, 8 PLACES
+
+                                    FIGURE 1: REAR SEAT RIB SUBASSEMBLY
+                                       FLUSH HEAD ON AFT SIDE OF
+                                       F-1005A UNDERNEATH F-1005C
+                                       (RIVETS ATTACH LEFT OUTBOARD SEAT RIB SUBASSEMBLY)
+ F-1005C-L                                   LEFT REAR SEAT                    LEFT REAR SEAT SUBASSEMBLY,
+                                             RIB SUBASSEMBLY      F-1017A-R    LEFT INBOARD SEAT RIB SUBASSEMBLY
+    F-1015A-L                                                                                                                                                                                                                                        F-1017A-L,
+                                                                                                                    AN426AD4-4                                                                                                                       3 PLACES
+                                                                                                                                           F-1015A-L
+     REAR
+     SPAR                                                                                                           AN470AD4-4                                                                                                                         RIGHT REAR SEAT
+ BULKHEAD                                                                                                                                     REAR SPAR                                                                                                RIB SUBASSEMBLY,
+                                                                                                                    AN470AD4-5                                                                                                     F-1017A-R,          2 PLACES
+ ASSEMBLY                                                                                                                                      BULKHEAD
+                                                                                                                                                                                                                                   3 PLACES
+                                                                                                                                               ASSEMBLY
+                                                                                                                    AN470AD4-8                                                                                         LEFT REAR SEAT
+                                                                                                                                                                        F-1018-L
+                                                                                                                                                                                                                       RIB SUBASSEMBLY,
+                                                                                                                    AN470AD4-9                                                                                         2 PLACES
+ F-1015A-L,
+   F-1018-L
+LEFT OUTBOARD SEAT                                                                                                                                                   FIGURE 3: RIB ATTACH TO REAR SPAR BULKHEAD
+   RIB SUBASSEMBLY    FIGURE 2: RIB TO REAR SPAR BULKHEAD RIVETS
+       (BULKHEAD ASSEMBLY IS SYMMETRICAL ABOUT THE CENTERLINE OF THE AIRCRAFT)
+                                                                                                                                                                                                                        DATE: 07/24/14 REVISION: 0    RV-10       PAGE   26-5
+                       VAN'S AIRCRAFT, INC.
+
+
+   Step 1: Cleco the Left and Right Rear Seat Rib Subassemblies and F-1017A-L and -R Rear Seat Ribs to the Fuselage Bulkhead
+   Assembly as shown in Figure 1. Final-Drill #30 the holes common between the parts just clecoed together. Cleco the F-1019-L and
+   -R Inbd Baggage Ribs and F-1020-L and -R Mid Baggage Ribs to the fuselage bulkhead assembly as shown in Figure 1. Final-Drill
+   #30 the holes common between the parts just clecoed together.
+                                                                                                                                                          F-1018-R
+  Step 2: Cleco the F-1021-L Outbd Baggage Rib between the F-1018-L Outbd Rear Seat Rib and the Fuselage Bulkhead Assembly
+  (See isometric view on Page 26-1). Final-Drill #40 the holes common to the outbd seat rib, outbd baggage rib and the fuselage
+  bulkhead assembly. Repeat this step for the F-1021-R Outbd Baggage Rib. Cleco then final-drill #30 the WD-1008-L and -R                                       RIGHT REAR SEAT
+  Step Mounting Brackets to the outbd baggage ribs as shown in Figure 1.                                                                                        RIB SUBASSEMBLY,
+                                                                                                                                                                2 PLACES
+  Step 3: Final-Drill #30 then
+  dimple all the holes in the upper                                                                                                                                  DIMPLE
+  flanges of the F-1020-L and -R
+  Mid Baggage Ribs and F-1021-L
+  and -R Outbd Baggage Ribs.                                                                       F-1017A-L,
+                                                                                                   3 PLACES
+  Step 4: Final-Drill #40 the hole
+  in the aft lower tabs on the
+  F-1019-L and -R Inbd Baggage
+  Rib, mid baggage rib and outbd
+  baggage rib. See Figure 1.                                                                                                                                                       FUSELAGE BULKHEAD ASSEMBLY
+
+  Step 5: Disassemble and deburr                          F-1017A-R,
+                                                                                                                                                                                                  AN470AD4-4
+  parts as required. Dimple the holes                      3 PLACES
+                                                                                                                                                                                                  TYPICAL ALL
+  final-drilled #40 in Step 2.                                                                                                                                                                    RIB TO FUSELAGE
+  Prime parts if/as desired.                                                                                                                                                                      BULKHEAD ATTACH
+  Step 6: Cleco then rivet the Left
+  and Right Rear Seat Rib
+                                                                                                                                                                                                       WD-1008-R
+  Subassemblies and F-1017A-L
+  and -R Rear Seat Ribs to the
+  F-1034 Fuselage Bulkhead
+  Assembly as shown in
+  Figure 1. Cleco then rivet                                                                                                                                                                             F-1021-R
+  the F-1019-L and -R
+  Inbd Baggage Rib and                                                                                                                                                                                      F-1020-R
+  F-1020-L and -R Mid
+  Baggage Rib to the
+  fuselage bulkhead
+  assembly as shown
+  in Figure 1.
+
+  Step 7: Cleco then rivet the
+  WD-1008-L and -R Step
+  Mounting Brackets to the
+  F-1021-L and -R Outbd
+                                               F-1018-L
+  Baggage Ribs per
+  the callout in Figure 1.                           LEFT REAR SEAT
+                                                  RIB SUBASSEMBLY,
+  Step 8: Cleco per Step 2 then rivet the                  2 PLACES
+  F-1021-L and -R Outbd Baggage Ribs to the F-1018-L
+                                                                         AN426AD3-4
+  and -R Outbd Rear Seat Ribs and the Fuselage Bulkhead
+                                                                     KEEPER RIVETS,
+  Assembly with two keeper rivets per outbd baggage rib
+                                                                  2 PLACES PER SIDE
+  as shown in Figure 1.                                                                                                                                                                                F-1019-R
+
+  Step 9: Dimple the holes common between                                             WD-1008-L
+  the upper flange of the inboard most Left                                                                                      AN470AD4-4,
+  and Right Rear Seat Subassemblies and                  CHAMFERED CORNER AT LOWER FRONT                                         32 PLACES                                             F-1019-L
+  the upper flange of the F-1034A Fuselage                     CHECK THAT TUBE IS PARALLEL
+                                                                     TO THE WEB OF F-1034A                                                                                         F-1020-L
+  Bulkhead. See Figure 1.
+                                                                               FIGURE 1: RIB TO FUSELAGE BULKHEAD ATTACH                       F-1021-L
+PAGE   26-6    RV-10      REVISION: 0   DATE: 07/24/14
+                                                                                                                                                                                                              VAN'S AIRCRAFT, INC.
+Step 1: Cleco the F-1077 Mid Bottom Skin then the F-1076 Center Bottom Skin to the ribs and bulkheads as shown in Figure 1.   Step 2: Cleco the F-1016B-L and -R Floor Stiffeners to the F-1076 Center Bottom Skin, Aft Center Section
+                                                                                                                              Bulkhead Assembly, and Rear Spar Bulkhead Assembly (see Figure 2). Final-Drill #40 all holes common
+                                                                                                                              between the F-1076 Center Bottom Skin or the F-1077 Mid Bottom Skin and the underlying ribs and bulkheads.
+                                                                                                 DO NOT DRILL OR DIMPLE       Final-Drill #30 the holes in the upper flanges of the floor stiffeners.
+                                                                                                 THE AFT TWO ROWS OF
+                                                                                                 RIVETS ON THIS SKIN          Step 3: Disassemble the F-1016B-L and -R Floor Stiffeners, F-1076 Center Bottom Skin and F-1077 Mid Bottom Skin. Deburr the
+                                                                                                                              holes and edges. Machine countersink the Aft Center Section Bulkhead Assembly holes common to the center bottom skin. Dimple
+                                                                                                                              the remaining common holes in the center bottom skin, mid bottom skin, ribs and bulkheads (except the holes that correspond to
+                                                                                                                              tabs that overlay the F-1034A Fuselage Bulkhead and F-1005A Rear Spar Bulkheads lower flange). Dimple the holes in the top and
+                                                                                                                              bottom flanges of the stiffeners except the holes in the lower tabs. Prime parts if/as desired.
+MACHINE COUNTERSINK
+ THE F-1034A FUSELAGE
+                                                                                                                              Step 4: Repeat Step 1, cleco the F-1016B-L and -R Floor Stiffeners in place then rivet the skins to the ribs, bulkheads and floor
+    BULKHEAD AND THE
+                                                                                                                              stiffeners per the rivet callouts in Page 26-8, Figure 1 and Page 26-8, Figure 2.
+           F-1005 REAR
+       SPAR BULKHEAD                                                                                               F-1077
+  AT ALL RIB OVERLAPS
+
+
+
+
+                                                                                                                                                                                                                 RIGHT INBOARD SEAT
+                                                                                                                                                                                                                    RIB SUBASSEMBLY
+
+
+                                                                                                                                                                                                 LEFT INBOARD SEAT
+                                                                                                                                                                                                  RIB SUBASSEMBLY
+
+                                                                                                                                                                                            AFT CENTER SECTION
+                                                                                                                                                                                            BULKHEAD ASSEMBLY
+
+
+
+
+                                                                                                                                                         F-1016B-L,
+                                                                                                                                                         2 PLACES
+
+
+
+
+                                                                                                                                                                                                                                                        F-1016B-R
+                                                                                                                                                                                                                                                        2 PLACES
+                                                                                                                                                                                                                                                 F-1076
+                                                                                                                                                             FIGURE 2: FLOOR STIFFENER INSTALLATION
+                                                                                                                 F-1076                                       (SOME PARTS NOT SHOWN FOR CLARITY,
+                                                                                                                                                          LEFT SIDE OF AIRCRAFT SHOWN, CALLOUTS FOR
+                                                                                                                                                            THE RIGHT SIDE ARE A MIRROR OF THE LEFT)
+                                                           FIGURE 1: BOTTOM SKINS
+                                                                                                                                                                                                                   DATE: 07/24/14 REVISION: 1   RV-10      PAGE   26-7
+                  VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                                                                                                                DO NOT RIVET
+                                                                                                                                                                (SEE SECTION 31
+                                                                                                                                                                FWD FUSE RIBS &
+                                                                                                                                                                BOTTOM SKIN)
+
+
+
+
+                                                                                       AN426AD3-3.5
+                                                                                       AN426AD3-4
+                                                                                       AN426AD3-4.5                                                         AIRCRAFT
+                                                                                                                                                            CENTERLINE
+
+
+                                                                                   AIRCRAFT
+                                                                                   CENTERLINE
+
+
+
+
+                      DRILL AND DIMPLE                                         DO NOT DRILL DIMPLE OR RIVET
+                          DO NOT RIVET                                         (SEE SECTION 32
+                                                                               TAILCONE ATTACHMENT)
+
+                                                                                                                                                            SEE FIGURE 1
+
+
+                                        FIGURE 1: MID BOTTOM SKIN RIVET CALLOUTS
+                                           (CALLOUTS ARE SYMMETRICAL ABOUT
+                                                THE AIRCRAFT CENTERLINE)
+                                                                                                              FIGURE 2: CENTER BOTTOM SKIN RIVET CALLOUTS
+                                                                                                                   (CALLOUTS ARE SYMMETRICAL ABOUT
+                                                                                                                        THE AIRCRAFT CENTERLINE)
+
+PAGE   26-8   RV-10   REVISION: 0   DATE: 07/24/14
+
