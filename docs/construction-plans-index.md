@@ -17,9 +17,9 @@ Extracted text: `docs/plans-text/*.txt` (grep-searchable)
 | 07 | 07_10.pdf | Rudder | 12 | Emp-Cone | Rudder horn, trailing edge, counterbalance weight |
 | 08 | 08_10.pdf | Horizontal Stabilizer | 14 | Emp-Cone | HS spar, ribs, skin |
 | 09 | 09_10.pdf | Elevator | 22 | Emp-Cone | Elevator horn, trim tab, counterbalance, rib template |
-| 10 | 10_10.pdf | Fuselage Tailcone | 26 | Emp-Cone | Tailcone skins, bulkheads, longerons |
-| 11 | 11_10.pdf | Empennage Attachment | 10 | Emp-Cone | HS/VS mounting, bolt torque |
-| 12 | 12_10.pdf | Empennage Fairings | 6 | Emp-Cone | HS/VS/rudder fairings, fiberglass |
+| 10 | 10_10.pdf | Fuselage Tailcone | 2 | Emp-Cone | Tailcone skins, bulkheads, longerons |
+| 11 | 11_10.pdf | Empennage Attachment | 2 | Emp-Cone | HS/VS mounting, bolt torque |
+| 12 | 12_10.pdf | Empennage Fairings | 2 | Emp-Cone | HS/VS/rudder fairings, fiberglass |
 | 13 | 13_10.pdf | Main Spar | 6 | Wing | Wing spar, spar caps, doublers |
 | 14 | 14_10.pdf | Wing Ribs | 6 | Wing | Rib forming, nose ribs |
 | 15 | 15_10.pdf | Rear Spar | 4 | Wing | Rear spar, flap hinge brackets |
@@ -31,12 +31,12 @@ Extracted text: `docs/plans-text/*.txt` (grep-searchable)
 | 21 | 21_10.pdf | Aileron | 10 | Wing | Aileron spar, skins, hinge, counterweight |
 | 22 | 22_10.pdf | Flap | 10 | Wing | Flap spar, skins, hinge |
 | 23 | 23_10.pdf | Aileron Actuation | 10 | Wing | Bellcrank, pushrods, aileron trim |
-| 24 | 24_10.pdf | Wing Tip | 4 | Wing | Wingtip attachment, lens |
+| 24 | 24_10.pdf | Wing Tip | 2 | Wing | Wingtip attachment, lens |
 | 25 | 25_10.pdf | Mid Fuselage Bulkheads | 8 | Fuselage | Center section bulkheads |
 | 26 | 26_10.pdf | Mid Fuse Ribs & Bottom Skins | 8 | Fuselage | Floor ribs, bottom skins, seat ribs |
 | 27 | 27_10.pdf | Firewall | 6 | Fuselage | Firewall assembly, stainless steel, fittings |
 | 28 | 28_10.pdf | Fwd Fuse Ribs, Bulkheads & Bottom Skin | 18 | Fuselage | Forward fuselage structure, instrument panel support |
-| 29 | 29_10.pdf | Fuselage Side Skins | 22 | Fuselage | Side skins, longerons, window frames |
+| 29 | 29_10.pdf | Fuselage Side Skins | 20 | Fuselage | Side skins, longerons, window frames |
 | 30 | 30_10.pdf | Step Installation | 4 | Fuselage | Entry step brackets |
 | 31 | 31_10.pdf | Upper Forward Fuselage Assembly | 10 | Fuselage | Roll bar, canopy frame, upper skin |
 | 31Q | 31Q_10.pdf | Upper Forward Fuse (QB alternate) | 10 | Fuselage | QuickBuild version of section 31 |
@@ -46,31 +46,31 @@ Extracted text: `docs/plans-text/*.txt` (grep-searchable)
 | 35 | 35_10.pdf | Access Covers and Floor Panels | 10 | Fuselage | Floor panels, access covers, nutplates, screws |
 | 36 | 36_10.pdf | Brake Lines | 4 | Fuselage | Brake line routing, fittings, parking brake |
 | 37 | 37_10.pdf | Fuel System | 8 | Fuselage | Fuel valve VA-178G, fuel lines ATO-035X3/8, pump, filter, flo-scan, bulkhead fittings |
-| 38 | 38_10.pdf | Rudder Pedals & Brake System | 8 | Fuselage | Rudder pedals, brake master cylinders, toe brakes, pedal adjustment |
+| 38 | 38_10.pdf | Rudder Pedals & Brake System | 10 | Fuselage | Rudder pedals, brake master cylinders, toe brakes, pedal adjustment |
 | 39 | 39_10.pdf | Control System | 12 | Fuselage | Control sticks, pushrods, bellcranks, mixer |
 | 40 | 40_10.pdf | Flap System | 8 | Fuselage | Flap motor, actuator, torque tubes, flap handle |
-| 41 | 41_10.pdf | Upper Forward Fuselage Installation | 12 | Fuselage | Canopy frame, roll bar, glareshield, windscreen |
+| 41 | 41_10.pdf | Upper Forward Fuselage Installation | 10 | Fuselage | Canopy frame, roll bar, glareshield, windscreen |
 | 41Q | 41Q_10.pdf | Upper Fwd Fuse Install (QB alternate) | 6 | Fuselage | QuickBuild version of section 41 |
 | 42 | 42_10.pdf | Rear Seat Backs | 4 | Fuselage | Rear seat back panels, hinges, latches |
-| 43 | 43_10.pdf | Cabin Cover | 6 | Fuselage | Cabin top skin, skylight, sealing |
+| 43 | 43_10.pdf | Cabin Cover | 10 | Fuselage | Cabin top skin, skylight, sealing |
 | 44 | 44_10.pdf | Wing Attachment | 5 | Finish | Wing root fairing, wing-to-fuselage bolts, F-1099 supports |
 | 45 | 45_10.pdf | Cabin Doors & Transparencies | 2 | Finish | Door frames, plexiglas, hinges, latches |
 | 45A | 45A_10.pdf | Cabin Door Safety Latch | 8 | Finish | Door safety latch mechanism |
-| 46 | 46_10.pdf | Engine Mount & Landing Gear | 7 | Finish | WD-1001-D1 engine mount, gear legs, axles |
-| 47 | 47_10.pdf | Spinner & Cowling | 8 | Finish | Spinner, upper/lower cowl, cowl hinge, air inlets |
-| 48 | 48_10.pdf | Gear Leg & Wheel Fairings | 20 | Finish | Wheel pants, gear leg fairings, intersection fairings |
-| 49 | 49_10.pdf | Seats & Seat Belts | 2 | Finish | Front/rear seats, seat belt anchors |
+| 46 | 46_10.pdf | Engine Mount & Landing Gear | 8 | Finish | WD-1001-D1 engine mount, gear legs, axles |
+| 47 | 47_10.pdf | Spinner & Cowling | 9 | Finish | Spinner, upper/lower cowl, cowl hinge, air inlets |
+| 48 | 48_10.pdf | Gear Leg & Wheel Fairings | 10 | Finish | Wheel pants, gear leg fairings, intersection fairings |
+| 49 | 49_10.pdf | Seats & Seat Belts | 4 | Finish | Front/rear seats, seat belt anchors |
 | 50 | 50_10.pdf | Cabin Heat and Ventilation | 4 | Finish | Cabin heat valve, SCAT tubing, fresh air vents |
 
 ## Firewall Forward Kit
 
 | Sec | File | Title | Pages | Key Topics |
 |-----|------|-------|-------|------------|
-| FF1 | FF1_10.pdf | Engine Installation | 2 | Dynafocal mount bolts, engine alignment |
-| FF2 | FF2_10.pdf | Cowl Baffle | 8 | Baffle plates, seals, RTV, inter-cylinder baffles |
-| FF3 | FF3_10.pdf | Control Cables | 4 | Throttle, mixture, prop cables, quadrant |
+| FF1 | FF1_10.pdf | Engine Installation | 6 | Dynafocal mount bolts, engine alignment |
+| FF2 | FF2_10.pdf | Cowl Baffle | 10 | Baffle plates, seals, RTV, inter-cylinder baffles |
+| FF3 | FF3_10.pdf | Control Cables | 2 | Throttle, mixture, prop cables, quadrant |
 | FF4 | FF4_10.pdf | Fuel System (FWF) | 4 | Firewall fuel fittings, fuel servo/injector lines |
-| FF5 | FF5_10.pdf | Oil System | 2 | Oil cooler, oil lines, vernatherm, filter |
+| FF5 | FF5_10.pdf | Oil System | 4 | Oil cooler, oil lines, vernatherm, filter |
 | FF6 | FF6_10.pdf | Exhaust System | 6 | Exhaust pipes, muffler, heat muff, EGT probes |
 
 ## Optional Parts Drawings (RV-10 Specific)
@@ -150,6 +150,37 @@ Extracted text: `docs/plans-text/*.txt` (grep-searchable)
 | Manual Section 12.pdf | Empennage Fairings | Fiberglass fairing techniques |
 | Manual Section 13.pdf | Main Spar | Spar assembly details |
 | 10 DWG 1-3 3-View, Cutaway, Flowchart.pdf | Master Flowchart | Assembly sequence, kit breakdown, 3-view drawing |
+
+## N720AK Build Deviations from Plans
+
+N720AK departs from the stock Van's plans in many areas. When searching the plans, keep these modifications in mind — the plans show the stock configuration, not what's actually installed.
+
+| Section | Plans Show | N720AK Actual | Notes |
+|---------|-----------|---------------|-------|
+| 07 | Stock rudder bottom fairing | Nutplate modification on bottom fairing | Easier removal for inspection |
+| 12 | Stock rudder bottom fairing attachment | Nutplates instead of stock | See sec 07 deviation |
+| 19 | Stock stall warning system (tab + microswitch) | **Not installed** — Dynon heated pitot with AoA | See sys-34-onspeed.md |
+| 20 | Stock wing interior | Added corrugated wire conduit through both wings | For wiring runs |
+| 24 | Wingtip with nutplates, stock lens | Piano hinge mod (secured to wingtip rib) + AeroLEDs custom insert | See sys-33-lighting.md |
+| 27 | Stock firewall | Fiberglass + titanium foil overlay, eyeball pass-throughs with Fire Barrier 3000 | Engine mount bolts through composite stack |
+| 30 | Stock step | Bushing installed inside step | |
+| 31/31Q | Stock aluminum instrument panel | AeroSport carbon fiber panel; sticks bent to fit | See sys-42-avionics.md |
+| 36 | Stock brake lines | TS Flight Lines custom brake lines | See sys-61-brakes.md |
+| 37 | Stock fuel system (mechanical fuel injection, standard valve) | EFII System32 EFI, Andair duplex valve | See sys-28-fuel-system.md, sys-73-efii.md |
+| 38 | Stock brakes | Matco RV-10 brake set upgrade, Royco 782 fluid | See sys-61-brakes.md; use Mity-Vac for bleeding |
+| 40 | Stock flap motor | Upgraded flap motor with linear encoder for position feedback | |
+| 41/41Q | Stock throttle quadrant (vernier cables) | **Not installed** — AeroSport throttle quadrant with custom cables | |
+| 45 | Stock cabin door seal | McMaster-Carr seal modification (door lip modified) | |
+| 45A | Stock cabin door safety latch | **Not installed** — Plane Around third latch system instead | |
+| 46 | Stock spinner | **Not used** — Whirlwind RV-10 propeller includes its own spinner | See sys-84-propeller.md |
+| 46 | Stock engine mount installation | Engine mount cut through fiberglass/titanium firewall stack | |
+| 48 | Stock fairings only | Added custom intersection fairings | |
+| 49 | Stock seat belts | Crow Cam Lock seat belts | |
+| FF2 | Stock baffle sealing | Extensive gap-filling — sealed every possible air leak | |
+| FF3 | Stock mixture cable + vernier | **No mixture lever** — EFII System32 controls mixture electronically | See sys-73-efii.md |
+| FF4 | Stock fuel system FWF | **Not followed** — EFII System32 fuel rail, port injectors, Aeromotive regulator | See sys-28-fuel-system.md |
+| FF6 | Stock exhaust | Vetterman exhaust system | |
+| OP-52 | Stock landing light kit | **Not used** — AeroLEDs kit with custom wingtip insert | See sys-33-lighting.md |
 
 ## Topic Cross-Reference
 
