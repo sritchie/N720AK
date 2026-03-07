@@ -1,0 +1,416 @@
+                                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+
+
+
+            SECTION 3: TOOLS AND WORKSPACE
+While building an RV requires some investment in special tools, most builders with home workshops already own many of                           Rivet Cutter: Needed for shortening rivets when the exact length rivet is not available. Not used too often, a good pair of wire snips
+the basics. In addition, there are a number of tools which are nice to have, but not essential. See the Builder's Tool                          can be used instead.
+Requirements list in this section for specific tool types and sizes required.
+                                                                                                                                                Rivet Sets: Several are required. Some builders prefer a flush set with a rubber guard around the edge to help eliminate "smiles" in
+Unless you live in a major metropolitan area, you probably have to order specialized tools by mail or online. Several mail order tool
+                                                                                                                                                the metal. Others don't. A flush rivet set with a swivel joint between the face and the shaft is available. This will help eliminate
+houses offer excellent quality and service. Van's surveyed RV builders about the quality and service provided by the various mail
+                                                                                                                                                "smiles'' by keeping the face of the set square to the work, even if the gun is held at a slight angle. These come with a rubber guard
+order tool houses. The results generally agreed with the old adage: "you get what you pay for." Inexpensive tools often proved to be
+                                                                                                                                                that must be sanded back flush with the face of the set.
+of inferior quality, resulting in frustration and poor results. We have supplied a list of tool suppliers in our printed and online catalogs.
+
+STATIONARY TOOLS                                                                                                                                Dimple Dies: Many of the skins are too thin to machine away metal for the countersunk rivets and screws, and dimpling is required.
+                                                                                                                                                Dimple dies, made from high quality tool steel, come in male/female pairs. Used in a squeezer, they form rivet shaped depressions
+Bench Grinder: A bench grinder with a Scotchbrite polishing wheel is extremely useful. While the edges of sheet metal parts can                 in sheet metal.
+be deburred and/or sanded smooth, the grinder will save many hours. Grinders with totally enclosed motors will endure the abrasive
+dust better.                                                                                                                                    Pop-rivet Dimple Dies: A special version of the dies above works with a pop rivet tool. Not used often, but goes where no other
+                                                                                                                                                tool can go. They use a common nail as a mandrel.
+Belt sander: Many builders report that a benchtop 1'' belt sander is one of their most used tools. Most of the jobs it does could be
+accomplished with a file and sandpaper, so it is not essential, but it will save a lot of time.
+                                                                                                                                                Bucking Bars: It seems that one never has enough sizes and shape bucking bars. Fortunately, any smooth piece of steel with a
+Air Compressor: Output and tank volume are not critical, but it should be capable of 75 psi. If you plan to use rotary air tools like           sufficient mass can be used for a bucking bar. Get two or three good all-around bars, and improvise with anything you have laying
+air drills or die grinders, a larger tank (20 gallons or more) will keep the compressor from running continuously. Any 1 1/2 to 2 hp            around the shop when you encounter a riveting situation where these won't fit.
+home shop compressor with enough volume to power a spray gun will be adequate. If lower noise level is desired, a compressor
+that uses a belt and speed reduction pulleys is preferable.                                                                                     Hand Seamer: Required for bending small tabs and flanges, and for straightening or re-aligning major flanges.
+
+Band Saw: Another non-essential but handy tool.
+                                                                                                                                                MicroStop Countersink: or "machine countersink cage". This tool holds a piloted cutter and has a micro-adjustable sliding sleeve
+Drill Press: One of the most useful auxiliary tools. Kit builders can manage without, but will find many uses if they have one.                 to set the depth of cut. Only one is necessary, but two, set up with different cutters, are a nice convenience.
+
+HAND TOOLS                                                                                                                                      Cleco Fasteners: Cleco is a trade name which has come into common use to mean Temporary Sheet Metal Fastener. This is a
+                                                                                                                                                little cylindrical shaped device about the size of a 45 caliber bullet. It has a spring loaded barbed pin in the end which fits into a
+Hand Held Drill Motor: A 1/4 or 3/8 inch electric hand drill will do. A variable speed reversible drill is better. Battery drills can be        drilled hole in two or more thicknesses of sheet and locks them together. More is better....many builders measure them by the quart.
+convenient, and some of the high power, high rpm models do an excellent job. A minimum of 1100 to 1200 rpm are necessary. Two
+or more electric drill motors is a good idea. For instance, you might have a drill bit in one, and a machine counter-sink in another.           Cleco Pliers: As the name implies, this is a pliers-like tool used for installing and removing temporary sheet metal fasteners.
+They are cheap enough to make this convenience affordable. Air drills are preferred by many builders because of their small size,
+high speed, and variable speed feature. They do use a lot of air, however, so plan on having a compressor with a larger tank.
+                                                                                                                                                C-Clamps: About 2 inch size.
+Drill Bits: The basic tool of RV building. We have found that High Speed Steel bits work well for small holes. "Split point" drill bits,
+either the 118 deg or the 135 deg, work especially well, giving a clean start and a round hole. Split points almost eliminate the ugly          Other Clamps: You can never have too many spring clamps. They are a quick and inexpensive way of setting up and holding
+"worm track" left when a bit does not start cleanly and spins off across the work-piece. Plexi or plastic drilling bits are designed to         assemblies together. Do not trust them to hold parts in alignment when drilling -- the springs do not provide enough clamping
+minimize the risk of chipping or cracking.                                                                                                      pressure to resist power tools. There are many types of cam clamps, almost like mini-vice grips available from different
+                                                                                                                                                manufacturers. They hold much better than spring clamps and are usually a worthwhile investment.
+Unibits: Also known as stepdrills. Drilling holes larger than 1/4 inch in thin sheet metal with a twist drill often results in distorted
+holes or parts. The Unibit cuts these larger holes in sheet aluminum cleanly and quickly, and also work very well in plexiglass. They           Metal Cutting Snips: 3 types required. Right hand, left hand, and straight cutting. WISS brand cutters are widely used. The right
+are stepped in 32nds and 16ths of an inch.                                                                                                      and left hand cutters usually have serrated edges which help in cutting curves, but leave small marks on the edge of the aluminum.
+                                                                                                                                                Choose a straight snips with smooth jaws for the neatest possible cuts.
+Deburring bits: Several styles are available. A hand swiveling type is inexpensive and works well. Adapters that fit deburring bits
+to slow turning electric screwdrivers and hand drills have become popular for large jobs, such as deburring big skins. Three flute
+                                                                                                                                                Pop-Rivet Puller: Used to set blind or pop-rivets. Most commonly available flush head Blind Rivets (often referred to as Pop-rivets,
+deburring cutters are widely available and generally work well, but they do have a tendency to chatter. Single flute deburring bits
+                                                                                                                                                a trade name) have 120 deg. head angles rather than the 100 deg. for flush head AN rivets. Thus, special dimple die sets are
+work beautifully.
+                                                                                                                                                needed for a perfect fit, although almost all builders we know use regular dimple dies and report acceptable results. We recommend
+                                                                                                                                                using the "Pop" Riveter PRP-26A, USM Corp., which will fit into the tighter spaces better than other rivet pullers. Although not
+Rivet Gun: The 3X size is preferred by most builders, although good results are possible with the lighter duty 2X. Better guns are              required, a pneumatic puller is useful and can be run with a small air-compressor.
+distinguished by a progressive or variable "hit'' rate controlled by trigger squeeze. With a good gun, it is possible to drive various
+size rivets without changing the air pressure or flow rate. Lower quality guns tend to be single speed tools, which means that once
+                                                                                                                                                Body File: Also known as a Vixen file or a SuperShear (Nicholson brand name.) Distinguished by the crescent shaped cutters
+you pull the trigger, you get all of the speed and force that the line pressure will produce. The only control you then have is the
+                                                                                                                                                across the width of the file. Not an absolutely essential tool, but is very useful for smoothing the edges of thicker gauges of
+duration (how long you hold the trigger down) or the line pressure. An inexpensive air flow regulator installed at the air inlet of the
+                                                                                                                                                aluminum.
+gun is essential on these lower quality guns and is a useful accessory on the better guns as well. Many "air chisel'' pneumatic tools
+are now available for prices far below the cost of a rivet gun. They look similar to aircraft rivet guns, but they won't do the job very
+well. Saving $150 on a rivet gun but ending up with several thousand bad looking rivets is not a good trade.                                    Files: A minimum of 3 or 4 will do. Small round, flat, and flat-face/round back.
+
+                                                                                                                                                                                                                                      DATE: 04/15/13 REVISION: 2   RV-ALL PAGE 03-01
+                                                                                                                                                                                                                                                                    (EXCEPT RV-12)
+                                  VAN'S AIRCRAFT, INC.
+                                                                         Protractor/Carpenters Level: A bubble protractor can measure the             Tubing bender: Although there are not a lot of aluminum tubes in the RVs, those that are there need to be bent properly. Fuel
+                                    angle of any surface from a horizontal or vertical reference plane. The carpenters level (2-3 ft. in length) is   lines, pitot lines etc. need to be kink free.
+                                    useful in measuring the horizontal and vertical alignment of RV parts and structural components. A bubble
+                                    protractor mounted on a straight edge of comparable length will serve the same purpose. Either the bubble         Tubing Flaring Tool: Fuel lines need to have the proper 37° flare on the end in order to seal properly. Buy one or borrow one, but
+                                    protractor or the level should be checked for accuracy before use. This can be done by finding a level (or        don't try to use an automotive 45° tool.
+                                    nearly level) surface and laying the level on it. Note the position of the bubble, and then reverse the level
+                                    end for end. Now check the bubble position again. If not the same, loosen the adjustment screw on the
+                                                                                                                                                      Heavy soft faced hammer: Select one between 12 and 24oz.
+                                    bubble and re-position. Then switch ends again and re-check. Repeat until the reading is the same
+                                    regardless of the orientation of the level. Use digital protractors and levels or "smart" levels whenever
+                                    possible.                                                                                                         Hollow Ground Planer Blade (Older Model Kits): Used in a table saw for cutting any aluminum sheet too thick for a hand shear.
+                                                                                                                                                      This results in a relatively smooth cut edge which needs little clean up afterwards. Just knock off the edges with a file and smooth
+                                                                                                                                                      the cut surface either with a fine file or a polishing wheel.
+  Circle Cutter: Also known as a fly-cutter. Used for cutting lightening holes in ribs and other thin webs, plus instrument panel holes.
+  A wicked little tool that can cause nasty damage to hands and unguarded body parts. Should be used in drill press only, never on a
+  hand-held drill.                                                                                                                                    All required riveting equipment can be purchased from one of the suppliers listed in our accessories catalog. While other suppliers
+                                                                                                                                                      are available, these have catalogs available which make shopping easier. These catalogs are also useful as a general information
+                                                                                                                                                      source about sheet metal tools.
+  Fluting Pliers: Used for crimping rib flanges, etc. to effectively shrink them and straighten the part. Several styles are available. We
+  prefer pliers that leave a crisp indentation, and avoid the type with the large rubber tips. These make a wide shallow flute which
+  gives less flat area for rivets.                                                                                                                    Studying any one or more of the tool catalogs will introduce you to many more metal working tools, some of which can also be used
+                                                                                                                                                      to advantage in aluminum aircraft construction. Several of the larger general parts suppliers such as Aircraft Spruce and Wicks
+   Edge Deburring Tools: A selection of tools as listed in the required parts list. Deburring tools are used for rounding and smoothing               publish extensive catalogs which are very valuable not only introducing the builder to the wide variety of hardware, tools, and parts
+   the edges of sheet metal parts.                                                                                                                    available, but also including useful charts and table of aircraft standards.
+
+  Hand Rivet Squeezer: Used for dimpling and setting rivets near material edges. There are cheap ones on the market, but they give                    While we feel that those tools we have listed are sufficient, some builders (or groups of builders) might have the resources and
+  poor results. Spend the money.                                                                                                                      desire to have a super well equipped shop and should be aware that there is practically no limit to the variety of tools available.
+                                                                                                                                                      Within reason, money spent on good tools is seldom regretted.
+   Pneumatic Rivet Squeezer: Used for dimpling and setting rivets near material edges. More expensive than the hand rivet
+   squeezer, but much easier on the arms.                                                                                                             Following is a list of tools compiled specifically for building the RV.
+
+  Paint Spray Gun/Respirator: Priming of internal parts of an RV requires a spray gun. Almost any quality gun will do because
+  primer finishes are not as critical as exterior painting. One of the biggest problems involved in priming is cleaning up. Often only a
+  small amount of priming is needed. Small spray guns with disposable cup reservoirs are adequate for priming. Clean up of the
+  spray nozzle is very simple, and the spray pattern quality is more than adequate for priming.                                                                                                   BUILDER'S TOOL REQUIREMENTS
+
+  Respiratory protection from primers and paints should not be taken lightly. Those warnings are on paint cans for a reason! A good                   NOTE: Tools listed as "Optional" in the following tools and materials lists make the build process easier, but are not
+  respirator (not a dust mask) is essential. In the last year or two, "fresh air" spray systems, using an oil-less compressor to supply               required to complete construction. Tools required for a specific model but optional for others will be indicated with that
+  fresh air from a remote source to a respirator or spray helmet,                                                                                     aircraft model number (i.e. "REQ RV-14").
+  have become affordable.
+
+  Hand Riveting and Dimpling Tool: This hand operated, bench                                                                                               CATEGORY                   QTY      ITEM                                                            Required/Optional
+  mounted riveting and dimpling tool is one of the most useful tools a                                                                                     Clecos                     125      Clecos 1/8"
+  builder could have. It consists of a large "C'' shaped frame with a                                                                                                                 350      Clecos 3/32"
+  driver and anvil at the open end. The driver shaft and anvil have                                                                                                                   10       Clecos 3/16"
+  guides and holders for the rivet sets and dimple dies. It uses the                                                                                                                  10       Clecos 5/32"
+  same dies as do the rivet guns and hand rivet squeezers previously                                                                                                                  4        Cleco Clamps -1" Jaw s - Side Grip
+  discussed. The force for doing the riveting or dimpling is provided                                                                                                                 4        Cleco Clamps -1/2" Jaw s - Side Grip
+  by hitting the guided tool holder with a hammer. Because the dies                                                                                                                   1        Pliers - Cleco
+  and sets are held accurately in place, good quality dimpling and
+  setting is simple. The depth of the "C'' frame is sufficient to dimple                                                                                   CATEGORY                QTY        ITEM                                                             Required/Optional
+  almost all the skins on RVs. It is rigid enough to permit setting rivets                                                                                 Cutting/Deburring Tools 1          Abrasive Cutting Disk
+  up to 3/16 inch dia., so some builders use it even for the heavy                                                                                                                 1          Hacksaw (Fine Tooth 32 Teeth per Inch Blade) or Bandsaw
+  riveting on the main wing spar (older model kits).                                                                                                                               1          Scotch Brite Wheel
+                                                                                                                                                                                   3          Scotch Brite Pads - Maroon
+  Torque wrench: This is a must have tool. Get one calibrated in inch-pounds, a foot pound wrench will do you no good. Aircraft nuts                                               1          Speed Deburring Tool
+  and bolts have specific torque values (see the Standard Aircraft Handbook or the table reprinted in Section 5V of this manual) that                                              1          Emery Cloth
+  can only be set accurately with this tool. It is very easy to over torque the small AN3 (10-32) bolts without one.                                                               1          Files - Assorted (Vixen, Bastard, Rat Tail, Rasp, Etc)
+                                                                                                                                                                                   1          File Card / Brush
+                                                                                                                                                                                   1          Multi-Burr Deburring Tool (Royal Style)
+  Taps: Used to add internal threads to drilled holes. See required tool list for specific sizes.
+
+                                                                                                                                                                                                                                                            (Continued next page)
+
+
+PAGE   03-02 RV-ALL REVISION: 2
+                 (EXCEPT RV-12)
+                                               DATE: 04/15/13
+                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+
+
+
+
+CATEGORY                QTY   ITEM                                                                            Required/Optional   CATEGORY                QTY   ITEM                                                                       Required/Optional
+Drills/Countersink/Taps 1     #3 Drill Bit                                                                                        Dim pling/Riveting      1     Dimple Die-Reduced diam. (3/8” diam.) 3/32 Female Dimple Die
+                        1     #10 Drill Bit                                                                                                               1     Dimple Die Set 1/8" (100°)
+                        1     #11 Drill Bit                                                                                                               1     Dimple Die Set 3/32" (100°)
+                        2     #12 Drill Bit                                                                                                               1     Dimple Die Set #6 Screw
+                        1     #16 Drill Bit                                                                                                               1     Dimple Die Set #8 Screw
+                        2     #19 Drill Bit                                                                                                               1     Dimple Die Set #10 Screw
+                        1     #21 Drill Bit                                                                                                               1     Dimpler 3/32" Pop Rivet
+                        1     #27 Drill Bit                                                                                                               1     Dimpler 3/32" Vice Grip
+                        3     #30 Drill Bit                                                                                                               1     Flush Head Rivet Set (Tall, 1/2" Thick - Squeezer)                         Optional
+                        1     #30 Drill Bit 12" Long                                                                                                      2     Flush Head Rivet Set (Short, 1/8" Thick - Squeezer)
+                        1     #33 Drill Bit 6” Long                                                                                                       1     Flush Sw ivel Rivet Set - Rivet gun
+                        1     #36 Drill Bit                                                                                                               1     Rivet Set - Offset 1/8" (With a Flat Ground on One Edge) - Rivet Gun
+                        5     #40 Drill Bit                                                                                                               1     Rivet Set - 1/8" Cupped Set 3.5" - Rivet Gun
+                        1     #40 Drill Bit, 12 " Long                                                                                                    1     1/8 Protuding Head Rivet Set (Tall, 1/2" Thick - Squeezer)
+                        1     #43 Drill Bit                                                                                                               1     Rivet Set - 3/32" (Cupped Set 3.5" - Squeezer)
+                        1     #52 Drill Bit                                                                                                               1     Beehive Retainer Spring (Often Supplied w ith Rivet Gun)
+                        1     1/4" Drill Bit                                                                                                              1     Quick Change Spring (For Flush Rivet Sets, maybe Supplied w ith Rivet Gun)
+                        1     5/16" Drill Bit                                                                                                             1     Back Rivet Set
+                        1     Q (or 11/32nd) Drill Bit                                                                                                    1     Hand Squeezer w ith 3” Deep Yoke
+                        1     Ream .311"                                                                                                                  1     C Frame Riveting/Dimpling Tool
+                        1     Ream 3/8"                                                                                                                   1     Back-Riveting Plate, .375[9.5mm] X 6[152mm] X 12[305mm]
+                        1     Step Drill (Uni-bit) Preferably 1/4 to 7/8"X1/16 Step Increment                                                             1     Dimple Die Organizer
+                        1     Countersink #8 Screw                                                                                                        1     3M F9460PC VHB Tape (or Fuel Tank Sealant)
+                        1     Countersink #10 Screw                                                                                                       1     Rivet Tape
+                        1     100° Machine Countersink Cutter w ith #12 Pilot                                                                             1     Rivet Cutter                                                               Optional
+                        1     100° Machine Countersink Cutter w ith #19 Pilot                                                                             1     Rivet Gauge Set
+                        1     100° Machine Countersink Cutter w ith #27 Pilot                                                                             1     Hand Blind Rivet Puller "POP" Riveter PRP-26A, USM Corp./ or Equivelant
+                        1     100° Machine Countersink Cutter w ith #30 Pilot                                                                             1     Bucking Bar - Anvil 1.9 lb.
+                        1     120° Machine Countersink Cutter w ith #30 Pilot                                 Optional                                    1     Bucking Bar - Tungsten
+                        1     100° Machine Countersink Cutter w ith #40 Pilot                                                                             1     Bucking Bar - Mini 1 lb.
+                        1     Countersink Micro Stop Cage                                                                                                 1     Bucking Bar Footed 2.2 lb.
+                        1     Drill Stops - #30 #40 #12                                                       Optional
+                        1     Angle Drill Kit (Alternately use the Economy 90° Attachment Listed Below )      REQ RV-14
+                        1     Economy 90° Drilling Attachment                                                 REQ RV-14           (Continued next page)
+                        1     Threaded Shank Drill Set 6 pc. (or min. 1 ea. #40, #30, #12 bits) for 90° Drill REQ RV-14
+                        1     1/4-28 Tap
+                        1     5/16-24 Tap
+                        1     3/8-16 Tap
+                        1     3/8-24 Tap
+                        1     4-40 Tap
+                        2     6-32 Tap
+                        1     8-32 Tap
+                        1     10-24 Tap
+                        1     T-Handle for Taps
+
+
+
+
+                                                                                                                                                                                                                 DATE: 04/15/13 REVISION: 2   RV-ALL PAGE 03-03
+                                                                                                                                                                                                                                                (EXCEPT RV-12)
+                                  VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                                                                                                      RV-14 BUILDER'S SUPPLIES REQUIREMENTS
+          CATEGORY                      QTY       ITEM                                                 Required/Optional   CATEGORY               QTY       ITEM                                                           Required/Optional
+          Pow er/Air/Shop Tools         1         Drill Motor 1/4" - Air - 2500-4000 RPM                                   Ref. Mat'ls/Supplies   1         A/C STRUCTURAL TECHNICIAN BOOK
+                                        1         Drill Motor - Battery Pow ered                                                                  1         STANDARD AIRCRAFT HANDBOOK
+                                        1         Air Tool Oil                                                                                    1         Tape Dispenser
+                                        1         Air Tool Regulator                                                                              1 Box     Permanent Markers ("Sharpie" Xtra or Ulta Fine Point)
+                                        1         Air Sw ivel                                                                                     1 Roll    String
+                                        1         Die Grinder                                                                                     1 Tube    Super Glue
+                                        1         Drill Press                                          Optional                                   1 Tube    Boelube
+                                        1         Rivet Gun , 2X and 3X or 3X Rivet Gun Only                                                      1 Can     Pipe Thread Sealant
+                                        1         6" Bench Vise                                                                                   1-2 Qt    Fuel Tank Sealant
+                                                                                                                                                  1 Tube    RTV Sealant - Red
+                                                                                                                                                  1 Tube    Clear Silicone
+          CATEGORY                      QTY       ITEM                                                 Required/Optional
+                                                                                                                                                  1 Tube    Threadlocker - Loctite or Permatex - Red
+          Hand Tools                    1         Pliers - Duck Bill
+                                                                                                                                                  1 Tube    Threadlocker - Loctite or Permatex - Blue
+                                        1         Pliers - Fluting
+                                                                                                                                                  1 Tube    Anti-Seize Paste (High temp)
+                                        1         Pliers - Needlenose
+                                                                                                                                                  3 Yds     9oz/sq yd Plain Weave "E-glass" Fabric
+                                        1         Diagonal Cutter
+                                                                                                                                                  1 Yd      Peel Ply (optional)
+                                        1         Tape Measure - Combination Fractional/Decimal Rule
+                                                                                                                                                  1 Qt      Kit of Epoxy Resin & Hardener
+                                        1         12" Steel Rule
+                                                                                                                                                  1 Qt      Acetone (for Clean-Up)
+                                        1         Punch - Assorted Sizes
+                                                                                                                                                  25        Mixing Cups (Solo™ Clear Plastic Cups Recycle Code #1 or #5)
+                                        1         Wiss Snips - Offset - Left
+                                                                                                                                                  100       Craft Sticks (a.k.a. Popsicle Sticks)
+                                        1         Wiss Snips - Offset - Right                          Optional
+                                                                                                                                                  1/4 lb    Flocked Cotton Fiber (a.k.a. "Flox")
+                                        1         Hammer - 12 oz. Dead Blow
+                                                                                                                                                  1/4 lb    Glass Spheres (a.k.a. "Micro-Balloons")
+                                        1         Dimpling Mallet
+                                                                                                                                                  1 Roll    Low -Tack "Painters" Masking Tape
+                                        1         Rubber Mallet or Heavy Soft Faced Hammer             Optional
+                                                                                                                                                  1 Roll    Mylar Packing Tape
+                                        1         Hearing Protector
+                                                                                                                                                  1 Roll    Duct Tape
+                                        1         Safety Glasses
+                                                                                                                                                  1 Kit     Fuel Tank Test Kit - See Van's Aircraft Catalog
+                                        1         Caliper (6") Dial or Digital
+                                                                                                                                                  1 Roll    Masking Paper - 24"
+                                        1         Edge Rolling Tool
+                                                                                                                                                  1 Sheet   Sandpaper - 60 Grit - 8.5X11 Sheet
+                                        1         Hand Seamer
+                                                                                                                                                  2 Sheet   Sandpaper - 80 Grit - 8.5X11 Sheet
+                                        2         Screw driver Bits - Size #2
+                                                                                                                                                  2 Sheet   Sandpaper - 100 Grit - 8.5X11 Sheet
+                                        10        Small (2") "C" Clamps
+                                                                                                                                                  1 Sheet   Sandpaper - 150 Grit - 8.5X11 Sheet
+                                        4         Large (3") Spring or "Pony" Clamps
+                                                                                                                                                  2 Sheet   Sandpaper - 220 Grit - 8.5X11 Sheet
+                                        1         Combination Wrench Set (1/4"-3/4")
+                                                                                                                                                  2 Sheet   Sandpaper - 320 Grit - 8.5X11 Sheet
+                                        1         Fish Scale (0-50lbs)
+                                                                                                                                                  5         Sanding Blocks - Various Sizes/Shapes
+                                        1         Torque Wrench (Inch/Pounds & Foot/Pounds Scale)
+                                                                                                                                                  3         Paint Brush - 1" Wide (Cheap, Natural Bristle Type)
+                                        1         Aviation Flaring Tool (Tube) 37°
+                                                                                                                                                  2         Paint Brush - 2" Wide (Cheap, Natural Bristle Type)
+                                        1         Tubing Cutter
+                                                                                                                                                  2         Paint Brush - 3" Wide (Cheap, Natural Bristle Type)
+                                        1         Tubing Bender
+                                        1         Wire Crimper/Stripper
+                                        1         OLFA RTY-2/G 45mm Rotary Cutter (or Equivalent)
+                                        1         Multimeter (w ith Continuity Check Capability)
+                                        1         Digital Level
+                                        1         0-2lb Scale (for Measuring Tank Sealant)             Optional
+                                        1         Socket Set 1/4-3/8 Drive
+
+
+
+
+PAGE   03-04 RV-ALL REVISION: 2
+                 (EXCEPT RV-12)
+                                              DATE: 04/15/13
+                                                                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+PARTS DESIGNATION SYSTEM                                                                                                                    It is not our purpose here to list information about all types of aircraft
+                                                                                                                                            hardware used in an RV. We hope that one or more of the reference
+                                                                                                                                            texts you purchase as construction aids will provide such listings. Catalogs from aircraft hardware suppliers
+All parts in an RV structure (other than standard aircraft hardware items or common vendor items) have a part number assigned to
+                                                                                                                                            listed in our accessories catalog usually have a wealth of general information of this nature, and are a
+them. Here is a typical part number, followed by an explanation of the numbering system: W-00006
+                                                                                                                                            valuable reference source even if they are old and prices are out of date.
+1. The first letter designates the major portion of the airframe in which the part is used. In this instance, "W'' denotes "WING''. Other
+prefix examples are: W - Wing, F - Fuselage, HS - Horizontal Stabilizer or Stabilator, VS - Vertical Stabilizer, R - Rudder, A - Aileron    WORKSPACE REQUIRED
+or Flaperon, FF - Firewall Forward, T - Tank, U - Undercarriage, WD - Weldment, C - Canopy.
+                                                                                                                                            We rarely encounter builders who feel that they have too much workspace; it's about like having too large a bank account -- there is
+2. The first numbers (in RV models 3, 4, 6 and 6A, 7 and 7A, 8 and 8A, 9 and 9A and 10) were allocated in blocks of 100 for our             no such thing! The derivation of the word "Homebuilt'' is obvious, and most of us have heard stories of airplanes being built in
+various models. Thus, most 800 series numbers are for the RV-8, 1000 series numbers are for the RV-10, 1200 series numbers for              basements or attics where the walls had to be knocked down to get them out when finished. We expect that some RVs will also be
+the RV-12, etc. The RV-14 and later series aircraft parts are numbered using a more generic numbering system that is not aircraft           built, or partially built, in some rather strained quarters. However, we suggest that the desired building space be about that of a two-
+specific. For example: The W-00006 does not specify a specific aircraft model, but pertains only to a wing part number 00006.               car garage (about 20 x 20 ft). While this is more than enough for building individual airframe components, it will come in handy for
+                                                                                                                                            storing completed components while others are being built, and for final assembly, etc.
+In some cases, the construction manual calls out parts from lower model number aircraft. For instance, the RV-14 ailerons use
+parts that were previously used in the RV-10 aileron. In these cases, the part is common to more than one aircraft and to avoid the         One of the tougher problems is finding a place to spray paint. Some builders choose to corrosion proof their airplanes, and the two
+confusion of having one part with two possible part numbers, only one part number is used.                                                  part epoxy primers usually used can be toxic, or, at best, unpleasant. A well ventilated spray area, partitioned or in a separate
+                                                                                                                                            building from the work area is necessary. A corner of the shop cordoned off with plastic sheet and equipped with an exhaust fan is a
+3. The suffix letter is used when a part, such as the wing spar in this instance, consists of two or more assembled parts. For              common solution.
+example: the W-1026 Torque Tube Support Assembly consists of the parts W-1026A, W-1026B, W-1026C, W-1026D.
+                                                                                                                                            A firm table with a smooth, level surface of about 3' x 6' is needed for RV construction. You will probably want a larger table or
+4. Parts which are specific to a left or right configuration will be followed by "-L" or "-R". For example FL-1005-R is a flap rib with     tables than this to hold tools, hardware, and other completed or semi-completed surfaces. Did you ever see anything even vaguely
+flanges that are bent towards the right when the part is installed in the aircraft. This is a "-R" part regardless of which side of the     resembling a table top which wasn't immediately cluttered beyond the point of use? Like shop space, you never seem to have
+aircraft the part is installed on.                                                                                                          enough table space either.
+
+Raw materials use a different numbering system.
+
+AA Aluminum Angle
+AB Aluminum Bar
+AS Aluminum Sheet
+AT Aluminum Tube
+PS Plastic Sheet/Strip
+PT Plastic Tube
+SS Steel Sheet
+SSP Stainless Steel Pin
+ST Steel Tube
+
+The next number denotes the temper, condition or alloy:
+
+0 Soft Aluminum
+3 T-3 (aluminum)
+6 T-6 (aluminum)
+4130 Steel alloy
+
+The number following the dash shows the thickness of the material
+
+-025 0.025"
+-032 0.032"
+
+Next the size is specified: An example: AS3-032x15x20 shows a part of Aluminum Sheet, temper T-3, 0.032" thick, 15"x20"
+
+When referring to parts for re-ordering or technical assistance purposes, please use the full number so that confusion can be
+avoided.
+
+Standard aircraft hardware is listed by the most common designation, usually numbers with either AN, MS, or NAS prefixes. "AN" is
+for Army/Navy, "MS" is for Military Standard, and "NAS" is for National Aerospace Standard. The numbers and letter in an aircraft
+hardware designation all tell something about the part. For example, one of the most basic is that of aircraft bolts. One example
+would be an AN3-4A, which means that it is a 3/16'' diameter bolt (first number) which is 4/8 (1/2) inch long, has fine threads (std.
+for aircraft hardware), and has an undrilled shank (A suffix).
+
+                                                                                                                                                                                                                                  DATE: 04/15/13 REVISION: 2   RV-ALL PAGE 03-05
+                                                                                                                                                                                                                                                                 (EXCEPT RV-12)
+                                  VAN'S AIRCRAFT, INC.
+                                                                                                                                          Center Line: Used for the center line of
+                                                                                                                                          holes, tubes, discs, and any other part                                                                    1 1/2 [38.1]
+                                                                                                                                          which is symmetrical on each side of the
+                                                                                                                                          center line. This is a series of long and                                                                     R3/4 [R19.1]
+  MECHANICAL DRAWINGS AND MECHANICAL DRAWING READING                                                                                      short dashes.
+
+                                                                                                                                          Detail "X": Denotes that the portion of the
+  While mechanical drawings are not a tool in the same sense of a hammer and saws, they indeed are tools in the contribution they         drawing enclosed within the circle is shown
+  make to completion of a homebuilt airplane. They are drawings which present a picture of parts and assemblies from one or more          elsewhere in greater detail.
+  viewpoints. Like a written language, mechanical drawings are only useful if the viewer can read them. RV drawings have been
+  prepared using a blend of accepted mechanical drawing practices and presentations which we feel can be most easily understood           Dimensions: Holes and radius parts are                                                      1 7/8 [47.3]
+  by the average homebuilder. The individual drawings of the respective views show what can be seen from that viewpoint plus, at          dimensioned from the center of the hole or
+  times, all hidden lines and features. Looking at the front view shows the presence of hidden lines which can only be clarified by the   from the center point of the arc describing
+  addition of one or more views. The side view provides enough information to fully understand the shape of the part. The top view        the rounded surface. Thus, the overall
+  provides yet more clarification.                                                                                                        height of the part is the base to radius                                                                                        Ø3/8 [Ø9.6]
+                                                                                                                                          center plus the arc radius. The overall
+   Since a mechanical drawing is composed mostly of lines of one form or another, we must define them. Following is a description of      height dimension is not usually given, but if
+                                                                                                                                          it is, would be listed as a reference                                                                                        R1/2 [R12.7]
+   some symbols and lines used.
+                                                                                                                                          dimension because the other is primary.
+   Solid Line: Represents a surface or an edge which is visible to the viewer.
+                                                                                                                                                                                                                                        FIGURE 4: DIMENSIONED PART
+   Hidden Line: Is a uniform line of short dashes representing an edge or surface which cannot be seen by the viewer but is important     PLANS PAGE TEMPLATE SCALING
+   to present in the drawing.
+                                                                                                                                          Some plans pages contain templates that are printed at a scale of 1:1. Double check that a plans page is scaled correctly by
+   Phantom Line: A line of interspaced long and                                                                                           measuring the border before using the template! A properly scaled border is shown in Figure 5.
+   short dashes shows the position that another part                                          TOP
+   will occupy at another state of construction or                               TOP
+   assembly. It is used to make the builder aware of
+   the relationship of other parts of the structure,                                                         ISOMETRIC                                                                  VAN'S AIRCRAFT, INC.
+   without the clutter of an assembly drawing.
+                                                                                                             VIEW
+  Bend Line: Indicates the line about which a bend
+  is to be made.
+
+  Section Line: This is used to indicate a view of a                                                                 FRONT
+  part which could be seen if the part were cut in two                             SIDE
+  and viewed from the direction of arrows at end of
+  the line. The letters correspond to the view located                                                                                                                                                                                                                 10 9/16
+  elsewhere on the drawing.                                                                                               FRONT
+                                                                                       SIDE
+
+
+
+
+                                                                                 FIGURE 1: ORTHO VIEWS
+                                                                                                                                                                   PAGE   XX-XX RV-12    REVISION: 0   DATE: 02/22/10
+
+
+
+
+                                                                                                                                                                                                                                 16
+
+
+                                                           ℄                                                                 ℄                                                                                          FIGURE 5: BORDER DIMENSIONS
+
+
+
+
+                FIGURE 2: DRILLED HOLE                               FIGURE 3: DRILLED AND THREADED HOLE
+                         (NOTE THE POINTED TIP)                                     (NOTE DOUBLE LINE SEGMENT
+                                                                                   INDICATING DEPTH OF THREAD)
+
+PAGE   03-06 RV-ALL REVISION: 2
+                 (EXCEPT RV-12)
+                                          DATE: 04/15/13
+

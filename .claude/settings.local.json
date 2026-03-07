@@ -40,7 +40,14 @@
       "Read(/Users/sritchie/Dropbox/N720AK/**)",
       "Write(/Users/sritchie/Dropbox/N720AK/**)",
       "Bash(mkdir:*)",
-      "Bash(gh pr:*)"
+      "Bash(gh pr:*)",
+      "Read(//Users/sritchie/Downloads/**)",
+      "Bash(ls:*)",
+      "Bash(pdftotext:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(DRAWINGS=\"/Users/sritchie/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Archive/Construction-Drawings\")",
+      "Bash(bash:*)"
     ]
   }
 }

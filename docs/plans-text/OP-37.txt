@@ -1,0 +1,1381 @@
+                                                                                                                                                             VAN'S AIRCRAFT, INC.
+
+
+                                                                                                                                                P4F               P3, P27
+                                                                                                                                          (+) BATT. CABLE      MASTER RELAY
+
+
+                                                                                                                                        P5
+                                                                                                                                 (-) BATT. CABLE
+                                                                                                                    P8, P9
+                                                                                                                    FLAP MOTOR
+
+                                                                                   J3, J4, J5, K1, K2
+                                                                                 IGNITION SWITCH
+
+
+
+                                                B1, B8, F1, J1, J2, L1, L2                                                                                                                            L8
+                                                 L3, L5, P2, P3, P7, P12,                                                                                                                             TAIL
+                                                  P13, P28, Q1, P2, P3                                                                                                                                POSITION
+                                                SWITCHES & BREAKERS                                                                                                                                   LIGHT
+
+
+
+
+                                  L5 - LANDING LT.
+                                    L7 - NAV. LT.
+                                 RIGHT WING ROOT
+
+
+                                                                                                                                                                   L3
+                   B4, B5, F1, J5, K2, L1,                                                                                                                         STROBE POWER SUPPLY
+                   L4, L7, L8, P2, P7, P12
+                    TERMINAL BLOCK
+
+
+
+
+          J3, J4
+        MAGNETOS
+
+                                                                                                                                                             OP-37:
+   J1, J2
+ALTERNATOR
+                                                                                                                                                              RV-10
+                                                                                                                                        L2 - LANDING LT.
+                                                                                                                                        L4 - NAV. LT.
+                                                                                                                                                             WIRING
+                                                                                                                                                            HARNESS
+                                                                                                                                        LEFT WING ROOT
+
+
+
+                                                                                                        Q1
+                                                                                                        FUEL PUMP
+
+
+                                                                             B11, K1, P17, P27, P28
+                                              B11, P17                       STARTER RELAY
+                                              STARTER
+                                                                                                                                                                DATE: 4/25/05   REVISION: 0   RV-10   PAGE OP37-1
+                      VAN'S AIRCRAFT, INC.
+
+                                                                                                The remaining two terminals on the terminal block are spares and may            Step 5: Final-Drill one hole in the F-1001A Firewall Bulkhead as shown in
+                                                                                                be used to provide power for electric trim servos, relay decks, etc. For        Figure 1. Carefully position the template on Page OP37-19, Figure 1 to avoid
+                                                                                                non "safety of flight" items the wires may be protected with in-line fuse       drilling into the F-1001M Left Side Angle on the aft side of the firewall bulkhead.
+     NOTE: This manual describes the installation of the wiring harness. However                holders.
+     stall warning, wing tip lighting and flap position light installation are not                                                                                              Use a lubricant such as Boelube (see Accessories Catalog) and turn the cutting
+     covered.                                                                                                                                                                   tool at a slow speed. Use a Unibit and support the back of the firewall with a
+                                                                                                When to Install. Ideally the wiring harness would be installed at               block of wood. File two small notches in the hole opposite each other so that the
+     OVERVIEW                                                                                   about the same time as the fuel system. The routing and attach holes            P27 cable terminal may pass through. Route the P27 cable. Cut the SB500-6
+     This kit provides the basic electrical circuits common to most aircraft. It provides       would be drilled along with the fuel system installation and the actual         snap bushing along its axis with a razor knife and fit over the P27 cable. Install
+     guidance in routing and connecting the electrical system and is adaptable to a             harness would be installed after the fuel system was in place. This             the snap bushing as per the callout.
+     variety of builder needs. It is a good starting point that will allow the builder to get   could be done prior to the cabin top installation.
+     over the hump. However, the builder will not be able to screw on a few connectors
+     and go flying since there are too many configuration possibilities which the designer      NOTE: The wire/cable part number prefix "WH" has been omitted
+     cannot anticipate and therefore must limit the scope of the design.                                                                                                                                                                         DRAW
+                                                                                                in the manual but should be used when reordering.
+                                                                                                                                                                                                                                                 CENTERLINE
+      This manual covers four general and overlapping phases of installation:                                                                                                    INSTALL SB625-8                                                 THROUGH
+                                                                                                                                                                                                                                                 RIVETS
+       - Hardware (drill routing holes, mount terminal block and switches, etc.)                HARDWARE
+       - Installation (route the harness, route individual wires and cables)                                                                                                                                                                             TEMPLATE
+       - Connection
+       - Testing                                                                                Step 1: Inventory the entire kit.
+
+     There are two main "hubs" in this system; the switches and circuit breakers cluster        Step 2: Read completely through both Section 5W of the RV-10
+     that mounts to the instrument panel and a terminal block that mounts to the sub            Construction Manual and these instructions before beginning the
+     panel.                                                                                     installation.
+
+     The switch/circuit breaker cluster is configured using combination toggle type             Step 3: Remove the F-1003A Instrument Panel. NOTE: All snap
+     switch/circuit breakers (SCB) and plain type circuit breakers (CB). A list of these is     bushing callouts will accommodate the harness as provided,
+                                                                                                                                                                                                                                                          Ø1/2
+     as follows:                                                                                including the three- conductor strobe cable which is not a part of
+                                                                                                                                                                                                                                                          FINAL-DRILL
+                                                                                                the kit, and most but not all have room for more wires. However,
+                                                                                                                                                                                                                                                          FOR SB500-6
+     Master Switch                                                                              the builder is ultimately responsible for the proper sizing of the
+                                   Activates master relay                                                                                                                   ALIGN TEMPLATE
+     Alternator SCB                                                                             snap bushings for his/her own application.
+                                   Controls power to alternator field                                                                                                                 HERE
+     Radio Master SCB              Controls power to radio +V tmnl. on tmnl. block
+                                                                                                Step 4: Size the snap bushings by laying out the harness in the                                                                                   F-1001A
+     Boost Pump SCB                Controls power to fuel pump
+     Strobe Lights SCB                                                                          fuselage using Page OP37-1 as a guide. Place the harness in the fwd.
+                                   Controls power to wing tip & rudder bottom strobes
+     Nav. Lights SCB                                                                            fuselage and unwind it but do not cut any zip ties yet since they are
+                                   Controls power to nav. lt. +V, and to the panel                                                                                                                                                     F-1001M
+                                                                                                part of the harness. As the spool of wires is unwound the branching will
+                                        lt. dim +V terminal on tmnl. block
+     Landing Lights SCB                                                                         become more obvious. Go slowly in order to avoid putting a kink in the
+                                   Controls power to landing lights
+     Stall Warning CB*                                                                          wires as they are untangled from the rest of the spool.
+                                   Controls power to stall warning system
+     Flaps CB                      Controls power to flap system
+     Instruments CB                                                                             Hold the harness in place temporarily by using spring clamps on the                                                        FIGURE 1:
+                                   Controls power to inst. +V tmnl. on tmnl. block
+     Alternator CB                                                                              F-1003B Instrument Panel Lower Flange and on the F-1068A and                                                       DRILLING HOLE IN FIREWALL
+                                   Controls power from the alternator to the switch cluster
+                                                                                                F-1068B Sub panels as it is progressively unwound. For now do not
+                                        buss bar
+                                                                                                thread the wires through existing openings in the airframe. If/as req'd
+     The terminal block mounted on the F-1068 Sub Panel provides multiple connections           make a service loop between the instrument panel and the sub panel
+     for avionics and instruments and simplifies changes and upgrades. Almost any               with the extra wire.
+     variation can be accommodated by adding or subtracting a few wires. The wires are
+     bundled with tie wraps that are easily removed and replaced. A list of the terminals       Position the harness so that the circuit breaker panel group of
+     is as follows:                                                                             terminals is nearly opposite the terminal block group of terminals. See
+                                                                                                Page OP37-13.
+     Radio +V: A connection point for avionics, controlled by the Radio Master SCB.
+     Instrument +V: A connection point for instruments and accessories controlled by the        If the builder intends to add more than a few wires to the harness the
+     Master Switch.                                                                             snap bushings should be sized accordingly. CAUTION: Do not
+     Navigation Light +V: A connection point for Nav. lights and the Panel Lt. Dimmer +V        exceed the "maximum" drill sizes where noted.
+     controlled by the Nav. Lights SCB.
+     Panel Light Dimmer +V: A connection point for panel lights, controlled by an optional      When it becomes impossible to run any more wires (those not part of
+     panel light dimmer (P/N ES DIMMER, LAMP 1.5A) and by the Nav. Lights SCB.                  the harness provided) down the left side then run them down the right.
+     Flaps +V: A connection point for the flap actuator controlled by a flap switch (or a       When finished remove the harness from the airframe.
+     control/switching module if flaps are controlled remotely from the control stick),
+     protected by a 5 amp CB.
+
+     * Supplied with wing kit.
+
+PAGE OP37-2   RV-10      REVISION: 0   DATE: 4/25/05
+                                                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
+NOTE: The wiring harness is designed to use the ES
+A-510-2K Magneto Switch With Start for an engine                 Step 3: Study the SCB/CB configuration shown in Figure 3.
+equipped with two magnetos. Changes may be necessary             This is the layout for which the wiring harness has been
+if using an alternate ignition system.                           designed. Reconfiguration may require adjustments to the
+                                                                 harness.
+Step 1: Drill a hole in the F-1003A Instrument Panel for                                                                                                                                                                                                                                                                            F-1003A
+mounting the ES A-510-2K Magneto Switch with Start as            The lateral position of the SCB/CB's may be varied slightly
+shown in Figure 1. File the opening to final size leaving the    from the design locations shown in Figure 3. If planning to
+tab. Use the template on Page OP37-19.                           make changes delay drilling these holes until after fitting the          POSSIBLE LOCATIONS
+                                                                 harness into the fuselage to verify that the wires will reach the         FOR HEADSET JACKS                            IGNITION SWITCH
+                                                                 desired locations. The terminal block is best positioned                (NOT INCLUDED IN KIT)
+                           F-1003A                               directly forward of the SCB/CB's to prevent interference with
+
+
+
+
+                                                                                                                                                                                                                                                                      STALL WARNING
+                                                                                                                                                                                                 RADIO MASTER
+                                                                 other equipment or instruments mounted in the panel. Make
+
+
+
+
+                                                                                                                                                                                                                                                                                                INSTRUMENTS
+                                                                                                                                                                                                                                                       LANDING LTS.
+
+
+
+
+                                                                                                                                                                                                                                                                                                              ALTERNATOR
+                                                                                                                                                                                                                BOOST PUMP
+                                                                                                                                                                                                                             STROBE LTS.
+                                                                 certain that the terminal block is located within reach of the
+
+
+
+
+                                                                                                                                                                                    ALT. FIELD
+                                                                 harness.
+
+
+
+
+                                                                                                                                                                                                                                           NAV. LTS.
+
+
+
+
+                                                                                                                                                                                                                                                                                        FLAPS
+                                                                                                                                                                             MSTR
+                                                                 Open locations in the SCB/CB cluster may result from
+                                                                 individual variations. If a portion of the buss bar is not used
+                                                                 insulate it with tape or heat shrink tubing as shown on Page                                                                                                                                                                                                      F-1003B
+                                                       F-1003A   OP37-13 and fill the panel hole with a cosmetic plug available
+                 2 11/16                                         at most hardware stores. This should streamline later
+                                                                 upgrades. Label all of the SCB/CB's on the front and back of                                            1
+                                                                 the F-1003B Instrument Panel Lower Flange to avoid
+                                                                                                                                                       1 1/4
+                                                                 confusion.
+                                                                                                                                                                                 FIGURE 3:
+             DRILL Ø3/4                                                                                                                                        INSTRUMENT PANEL LOWER FLANGE SCB/CB LAYOUT
+                                  2 15/16
+
+
+
+
+                                                                 Step 4: Screw the WH-801 Rt. Console Template to the F-1003B Instrument                  Step 5: Install the SCB, CB's and toggle switch as shown in Figure 4. The amp
+                                                                 Panel Lower Flange at the two alignment holes as shown in Figure 4. Use                  values on the toggle faces should be "right side up" making the "OFF" position
+                     FIGURE 1:                                   the same hardware used to attach the instrument panel. Match-Drill pilot                 down. Install the flap switch in similar fashion except locate it near to the throttle
+          DRILLING MAGNETO SWITCH HOLE                           holes in the instrument panel lower flange using the 1/8 diameter holes in               control knob or lever.
+                                                                 the rt. console template as a guide. Reposition the template to pilot-drill the
+                                                                 remaining hole. Final-Drill as per the callouts for the SCB's, CB's and the              If planning to install the ES SWITCH SPDT-MOM Small Flap Switch for Grip in
+                                                                 toggle switch. Clamp the instrument panel lower flange in a drill press (if it           the control stick mount the corresponding ES FLAP CONTROL BOARD Electric
+                                                                 has not been riveted in place) to prevent wandering off centerline.                      Flap Driver to the F-1068B-L Sub Panel Side just above the terminal block using
+Step 2: Enlarge the tooling hole
+                                                                                                                                                          the hardware supplied with the Electric Flap Driver kit.
+in the F-1068B-L Sub Panel
+Side as shown in Figure 2 using
+a Unibit. Deburr.
+
+
+
+
+                       F-1068B-L
+
+
+
+
+                  DRILL 5/8 DIA. FOR
+                  SB625-8                                                                           11X FINAL-DRILL 15/32
+
+
+                        FIGURE 2:                                          FIGURE 4: DRILLING INSTRUMENT PANEL LOWER FLANGE
+                 DRILLING THE SUB PANEL
+                                                                                                                                                                                                                                              DATE: 4/25/05                           REVISION: 0                          RV-10   PAGE OP37-3
+                       VAN'S AIRCRAFT, INC.
+                                                                                                                                                 Step 3: Fabricate the P21 and P22 Buss Bars from ES BUSS BAR-063X.5X12 copper plate as
+                          Step 1: Make WH-800A from 1/4X9/16X10 3/4 UHMW plastic and WH-800B from                                                shown in Figures 3 and 4. The WH-801 Rt. Console Template may be used to pilot-drill before
+                          3/16X9/16X10 3/4 UHMW plastic provided in the kit and shown in Figure 1. From now on                                   drilling to final size.
+                          the assembly will be referred to as the terminal block.
+
+                                                                                                                                                                                                             3 1/2
+                                                        (10 3/4)
+
+                                                                                                                                                                                        2X 1/4               P21             3X 1
+                 2X 7/8                                                       4 5/8
+                                             6X 1 1/2                                                     2X 1/4
+                                                                                                                                                            (1/2)
+
+
+                                                                                                                                                                    1/4                                                           4X DRILL #27
+
+                                                                                                                                                                             FIGURE 3: FABRICATING CIRCUIT
+                                                                                                         (3/16)
+                          FINAL-DRILL #19 FOR:                                                                (1/4)                                                               BREAKER BUSS BAR
+                          MS35206-250 8-32X1-1/4 SCREW                        WH-800A                         (9/16)
+                       7X
+                          2X AN960-8 WASHER
+                          2X AN365-832A NUT                                                                                                                                                5 1/2                                                       (1)
+                                                                        WH-800B
+                                                                                             7X COUNTER BORE
+                                                                                             3/8 DIA X 1/8 DEEP                                           2X 1/4                           P22
+         3X FINAL-DRILL #19                                                                                                                                                                                                     6X 1
+         ON CENTER                                                                           WH-800A ONLY
+
+                                                                                                                                   (1/2)
+                               FIGURE 1: FABRICATING TERMINAL BLOCK
+
+                                                                                                                                           1/4                                                                                      6X DRILL #19
+
+                                                                                                                                                                    FIGURE 4: FABRICATING SWITCH
+                                                                                                                                                                                                                                           AS REQ'D
+     Step 2: Mount the WH-800 Terminal Block to the F-1068A Sub Panel Center and F-1068B-L Sub Panel Side
+                                                                                                                                                                      CIRCUIT BREAKER BUSS BAR
+     using the hardware called out in Figure 2. Center the terminal block vertically between the gap in the AN470
+     rivets. Drill one #19 hole on either side of the assembly for ground connections. Remove any paint or primer at
+     the holes and use internal tooth lock washers to help make good electrical contact.
+
+                                                                                   F-1068A
+
+
+                                                                                      GROUND
+                                                                                                                                                                                                   Step 4: Attach the P21 Buss Bar to the cluster of plain type
+                                                                                                                                                                                                   circuit breakers and the P22 Buss Bar to the toggle type
+                                                                                                                                                                                                   switch circuit breakers using the hardware provided with the
+         7X AN365-832A                                                                                                                                                                             breakers as shown in Figure 5.
+                                                               5 5/16
+   4X MS35333-39
+                                              1
+                                            2 PL
+
+
+
+
+                                                                                                                        TERMINAL BLOCK                    P21
+
+   2X FINAL-DRILL #19
+        FOR GROUND
+                                                                                                5X AN960-8
+
+                                                        3X MATCH-                                      5X MS35206-248                                                                P22
+                                                        DRILL #19
+              F-1068B-L
+                                                                                                                                                       FIGURE 5: INSTALLING BUSS BARS
+                                                             FIGURE 2: MOUNTING TERMINAL BLOCK
+PAGE OP37-4   RV-10       REVISION: 0   DATE: 4/25/05
+                                                                                                                                                                                    VAN'S AIRCRAFT, INC.
+                                                                                              Step 3: Test fit the F-10110-L Wire Cover Assembly to the F-1013-L Fwd Fuselage Longeron (not shown). Adjust
+Step 1: Separate the F-10110A Wire Cover and the F-10110B Clip as shown in Figure 1 then      the bend angle of the F-10110B Clip if/as required until a snug friction fit is achieved.
+deburr.
+                                                                                              Step 4: Install the F-10110-L Wire Cover Assembly as shown in Figure 3 with the aft tab on the inboard side of the
+                                                                                              F-1015D-L Mid Cabin Side Cover. Match-Drill the mid cabin side cover and the F-1042-L Bulkhead Side Channel
+                                                                                              using the hole in the aft tab of the wire cover assembly as a guide.
+
+
+
+
+         F-10110B
+                                                                                                                                   F-1042-L
+
+                                                                                                                                         F-10110-L
+                                                                        F-10110A
+
+
+                                              BREAK AT TABS
+
+
+
+
+                FIGURE 1: SEPARATING WIRE COVER PARTS
+                                                                                                                                      MATCH-DRILL #40
+
+
+
+                                                                                                        F-1015D-L
+                                                                                                                            FIGURE 3: MATCH-DRILLING THE WIRE COVER, MID
+                                                                                                                            CABIN SIDE COVER AND BULKHEAD SIDE CHANNEL
+
+  Step 2: Cleco together the F-10110A Wire Cover and F-10110B Clip creating the F-10110-L   Step 5: Remove the F-10110-L Wire Cover Assembly. Replace it positioning the aft tab on the outboard side of F-1042-L
+  Wire Cover Assembly and final-drill as shown in Figure 2.                                 Bulkhead Side Channel as shown in Figure 4. Drill as per the callouts. Remove the wire cover assembly, disassemble,
+                                                                                            deburr and dimple the #40 holes.
+
+                                                                                            Remove the F-1015D-L Mid Cabin Side Cover. Deburr the holes in the mating parts. Machine countersink the bulkhead side
+                                                                                            channel and dimple the mid cabin side cover for the hardware called out on Page OP37-17, Figure 1.
+
+           F-10110B
+
+
+
+
+                                                                                                                        F-1042-L
+
+                                                                                                                             F-10110-L
+
+                                                    6X FINAL-DRILL #40
+
+
+
+
+                                            F-10110A                                                                   AN426AD3-3.5
+                                                                                                                          6 PLACES            MATCH-DRILL #19
+
+
+
+                                                                                                                           FINAL-DRILL #19
+          FIGURE 2: FINAL-DRILLING CLIP AND WIRE COVER
+
+
+                                                                                            F-1015D-L
+                                                                                                                    FIGURE 4: FINAL-DRILLING THE SIDE COVER,
+                                                                                                                           CHANNEL AND WIRE COVER
+                                                                                                                                                                                         DATE: 4/25/05   REVISION: 0   RV-10   PAGE OP37-5
+                     VAN'S AIRCRAFT, INC.
+
+
+                       Step 1: Match-Drill, deburr and dimple the F-10110A-L Wire Cover for the nutplate rivets called
+                       out in Figure 1. Prime the wire cover and the F-10110B-L Clip as desired. Rivet the nutplate        Step 3: Working from the outside of the aircraft measure
+                       onto the wire cover using the hardware called out in Figure 1.                                      and drill one hole in the outboard side of the F-1069 Fwd
+                                                                                                                           Side Skin as shown in Figure 3. Cleco the F-1016H Guide
+                       Rivet the F-10110-L Wire Cover Assembly together using the hardware called out on Page              Brackets to this hole. Match-Drill the fwd side skin using
+                       OP37-5, Figure 4 and set it aside.                                                                  the holes in the guide brackets as a guide as shown in
+                                                                                                                           Figure 3. Insert additional clecos along the way.
+
+                                                  K1000-08                                                                 Remove and break apart the guide brackets. Deburr and
+                                                                                                                           dimple all mating parts.
+
+                                                                                                                                                                                         F-1069-L
+                                                                                             F-10110A-L
+                                           AN426AD3-3.5
+
+
+
+                                                                                                                                                                                    8 1/4
+                                                  MATCH-DRILL #40
+
+
+                                                                                                                                                              7/8
+                                          FIGURE 1: ATTACHING THE NUTPLATE
+
+
+                                                                                                                                                                DRILL #40, CLECO                        F-1069-L
+
+                                                                                                                                                                MATCH-DRILL #40
+                                                                                                                                                                3 PLACES
+              Step 2: Measure and drill the two 3/4 diameter holes in                  F-1002-L
+              the F-1002-L Fwd Fuselage Bulkhead as shown in                                  F-10110-L                                                         F-1016H
+              Figure 2.
+
+              CAUTION: Do not exceed the hole diameters
+              shown.
+                                                                                                                                        FIGURE 3: DRILLING THE SKIN FOR THE GUIDE BRACKETS
+
+                                                                                                                   1 1/4
+
+
+
+
+                                                      INSTALL SB750-10                                                     Step 4: Final-drill the F-1016H Guide Brackets as shown in Figure 4. Drill using a drill press and drill
+                                                             2 PLACES                                                      press vise or clamp the part securely in a bench vise. Prime if desired. Rivet them in place as shown in
+                                                                                                                    7/8
+                                                                                                                           Figure 3 using the hardware called out in Figure 4.
+
+
+                                                                                                                    1/4
+                                                                                                                                                                                            FINAL-DRILL Ø3/4 MAX
+                                                                                                                                                                                            INSTALL SB750-10
+
+
+                                                                                                                                 4X AN426AD3-3.5
+                                                                                    2X DRILL Ø3/4 MAX.
+
+
+
+
+                                      FIGURE 2: DRILLING THE SNAP BUSHING HOLES                                                                FIGURE 4: MODIFYING THE GUIDE BRACKETS
+                                                       (REAR VIEW)
+
+PAGE OP37-6   RV-10     REVISION: 0   DATE: 4/25/05
+                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+
+
+      Step 1: Drill the attach holes in the approximate locations for the hardware
+      shown in Figure 1. Delay installation of the clamps until installing the
+      harness.
+
+      NOTE: Become familiar with the harness routing and refer back to this                FINAL-DRILL #19       Step 2: Replace the existing AN509 screw with the longer screw called out in Figure
+      detail during the actual wiring harness installation.                                AN515-8R8             2 so that the cushioned clamp may be installed. Since it is likely that additional wires
+                                                                                           MS21919WDG3           will be routed along this path the sizing of the cushioned clamp is left to the builder.
+                                                                                           AN960-8               One MS21919DG6 Cushioned Clamp is provided in the kit. The largest size the
+                                                                                           AN365-832A            F-1042-R Bulkhead Side Channel will accommodate is a DG8.
+                                                                                           2 PLACES
+                                                                                                                 Wrap safety wire around the flanges of the cushioned clamp in order to hold it closed
+                  FINAL-DRILL #19                                                                                during installation.
+                       AN515-8R8                                                            L5, L7
+                     MS21919DG6                                                             SEE FIGURE 2         When directed, route wires L5 and L7 as shown in Figure 2. For the remainder of the
+                         AN960-8                                                                                 route to the wing root mirror the path taken down the left side of the aircraft by wires
+                      AN365-832A                                                                                 L2 and L4 as shown on Pages OP37-1 and OP37-9, Figure 5.
+
+
+
+                    SB625-8                                                                                                                                             SEE STEP 2
+
+
+
+
+L2
+L3
+L4
+L8
+P3
+P8
+P9
+                                                                                     J1
+                                                                                     J2
+                                                                                     J3
+                                                                                     J4
+P27                                                                                  K1
+                                                                                                                                                                                                                  AN509-10R12
+                                                                                     P28
+                                                                P27
+Q1                                                                                                                                                                                                                      L5
+                                                                                                                                                                                                                        L7
+
+
+                                                                                                                                                                      F-1042-R
+                                      FIGURE 1: DRILLING FOR ATTACH HARDWARE
+
+
+
+
+                                                                                                             FIGURE 2: MOUNTING CUSHIONED CLAMP TO BULKHEAD SIDE CHANNEL
+
+
+
+
+                                                                                                                                                                                  DATE: 4/25/05   REVISION: 0   RV-10   PAGE OP37-7
+                     VAN'S AIRCRAFT, INC.
+                                                                                                       FINAL-DRILL #19
+                                                                F-1004K-L                             APPROXIMATELY                                          Step 1: Route wire Q1 down the left side of the fuselage through
+                                                                                                            AS SHOWN                                         the F-1084A-L Systems Brackets and into the tunnel as shown in
+                                                                            Q1          TO BOOST                                                             Figure 1. When mounting the cushioned clamp to the F-1004K-L
+                                                                                        PUMP SWITCH                                                          Center Section Side Plate and side skin keep the wire above and
+                                                                                                                                                             away from the fuel line as much as possible.
+
+
+
+                                                                                                                                                             Step 2: Fabricate one WH-1010 Fwd Bushing and one WH-1011
+                                                                                                                                                             Aft Bushing from BUSH AL-058X5/16X1.438 as shown in Figure
+                    F-1048-L                                                                                                                                 2.
+                                                                                                                                         AN365-832A                                        7/8 WH-1010
+                                                                                                                                                                                           1/2 WH-1011
+                                                                                                                                      AN960-8
+                                                                                                                               MS21919DG2
+                                                                                                                                                            (0.058)                                          (Ø5/16)
+                                                                                                                          AN515-8R8
+              WH-1011
+
+                                                                                                                                                                FIGURE 2: FABRICATE BUSHINGS
+
+
+
+
+                                                            WH-1010
+                                                                                                                                                       Step 3: Mount the cushioned clamps to the F-1048-L Fwd Fuselage
+                                                                                                          F-1084A-L                                    Rib as per Figure 3. The WH-1010 Fwd Bushing and WH-1011 Aft
+                                                                                                                                                       Bushing shown in Figure 2 keep the wire away from the fuel supply
+                                                                                                                                                       lines.
+                                                                                                             2X SB375-3
+                                                                                                                                                       NOTE: If using a fuel flow transducer substitute MS21919WDG3 in
+                                                                                                                                                       place of the MS21919DG2 clamps called out in Figures 1 & 3. The
+                                                                                                                                                       additional four MS21919WDG3's are not included in the kit.
+                                                        FIGURE 1:
+                                                  ROUTING THE HARNESS
+                                                    TO THE FUEL PUMP
+  F-1048-L
+                             AN365-832A                                                                                                          F-1048-L
+                                                                            AN515-8R8
+                          AN960-8
+
+
+    WH-1010 (FWD)
+    WH-1011 (AFT)
+
+                                                                                                                                                 13
+
+                                                                                                                               FINAL-DRILL #19                  13/16
+                                                      SB437-4                                                                                                                                                  3 1/2
+                                                                                                                               3 PLACES
+                                                                                        MS21919DG2
+                                                                                     AN960-8
+                              MS21919DG2                                                                                                                                                                       2 11/16
+                        MS35206-248 AFT
+                                                                                 AN365-832A
+                        MS35206-250 FWD
+                                                                                                                                                       2 9/16
+
+
+                                                                                                                                      FIGURE 3: ATTACHING THE HARDWARE
+PAGE OP37-8   RV-10     REVISION: 0   DATE: 4/25/05
+                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+                                                                                                               Step 3: Route the P27 cable through the
+                                                                                                               MS21266-1N Plastic Edging Grommet in the second
+Step 1: Follow the references from Figure 1 to install the mounting hardware for cable P27 and
+                                                                                                               hole from the bottom of the F-1015B-L Foot Well Rib
+others in the mid-fuselage.
+                                                                                                               Intercostal as shown in Figure 3.
+                                                                                                                                                                          Step 4: The snap bushings depicted in Figure 4
+                                                                  SEE FIGURE 4                                                                                            were provided in the Fuselage kit. To insert the
+                                                                                                               NOTE: The MS21266-1N Plastic Edging Grommet
+                                                                                                                                                                          cable in an installed bushing squeeze the bushing
+                           L3, L2, L4, L8, P3, P8, P9                                                          was included in the wing kit for use with the stall
+                                                                                                                                                                          before inserting the cable terminal. Otherwise,
+                                                                                                               warning system.
+                                                                                                                                                                          remove the snap bushing from the bulkhead before
+                                                                                                                                                                          inserting the terminal, or slit the bushing, slip it over
+                                                                                                                                                                          the cable and snap it into the hole.
+
+
+                                                 P27
+                                                                                                                         MS21266-1N
+
+                    SEE FIGURE 2
+                                                                                                          Q1
+                                                                                                                      P27
+
+
+
+               L3, L8, P3, P27
+
+                  SEE FIGURE 3
+
+
+                                                                                                                                                           F-1015B-L
+
+
+
+                                                                                                                           FIGURE 3:                                                   FIGURE 4:
+                                                                                                                  INSTALLING EDGING GROMMET                                    SQUEEZING SNAP BUSHINGS
+                SEE FIGURE 4
+
+
+                           FIGURE 1: ATTACHING HARDWARE AT MID FUSELAGE
+
+
+
+                                                                                                                 Step 5: Enlarge the pilot hole in the F-1070-L Mid
+     Step 2: Drill the F-1016-L Outboard Foot Well Rib and install the hardware called out in Figure 2.                                                                                                          FINAL-DRILL 1/2
+                                                                                                                 Side Skin as shown in Figure 5 for wires L2 and L4
+                                                                                                                 to exit the left side of aircraft. NOTE: It is assumed                                          FOR SB500-6
+                                                                                 DRILL #19                       that the three-conductor strobe wire will also
+                                                                                 AN526C832R8                     exit here, hence the bushing is sized
+                                     1/4
+                                                                                 AN960-8                         accordingly.
+                                                                                 AN365-832A
+                                                                                 MS21919DG8                      Step 6: Repeat Step 5 for the F-1070-R Mid Side
+                                                                                                                 Skin and wires L5 and L7.
+
+                                 1
+
+
+                                                                                                                                     F-1070-L
+
+                                                                                            F-1016-L
+
+
+
+
+                                                                                                                                                                                     FIGURE 5:
+                                                                                                                                                                             INSTALLING SNAP BUSHING
+                                                                                                                                                                                 (LEFT SIDE VIEW)
+                             FIGURE 2: ATTACHING CUSHIONED CLAMP
+                                                                                                                                                                               DATE: 4/25/05   REVISION: 0    RV-10        PAGE OP37-9
+                        VAN'S AIRCRAFT, INC.
+
+                                                                                                                                                                                              Step 2: Enlarge the tooling hole in the F-1016-L
+                                                                                                                                                                                              Outboard Foot Well Rib as shown in Figure 3 for
+                                                                                                                                                                                              the snap bushing called out.
+                                                                                                                 SEE FIGURE 3
+                                                                                                                                                                  F-1005
+                                                                                                                                                                                                                     FINAL-DRILL 3/8
+
+                                                                          P8, P9                                          TO FLAP SWITCH
+                                                                                                                                                                           AN515-8R8
+                                                                                                                                                                                                             SB375-3
+                                                                                                                                                                           AN960-8
+
+                                                                                                                                                                           MS21919DG2
+                                                                                                                                                                           F-10111-L
+
+                                                                                                                                                                        FINAL-DRILL #19
+                                                                                                  SEE FIGURE 4                                                                                                          F-1016-L
+                                                                                                                                                                       2X LP4-3
+
+                                                                                                                                                                       AN365-832A
+
+
+
+
+                                                                                                                                                                                                                FIGURE 3:
+                                                                                                                                                                                                       INSTALLING SNAP BUSHING
+                                                                                                                                                                                                          IN THE FOOT WELL RIB
+
+
+
+
+                                                                                    FIGURE 1: ATTACHING HARDWARE
+                                                                                                                                           Step 3: Final-Drill the F-1016F-L Inbd Foot Well Rib as shown in Figure 4 for the snap bushing
+                                                                                     FOR THE FLAP ACTUATOR WIRES                           called out. Final-Drill as shown for the cushioned clamp and attach it using the hardware called
+                                                                                                                                           out.
+
+  Step 1: Final-Drill two places as per the dimensions in Figure 2. Break apart and deburr the F-10111                                                                                    9 11/16
+  Angle Brackets into two lefts and two rights. Cleco the angle brackets to the F-1005 Rear Spar Bulkhead
+  and match-drill the rear spar bulkhead using the second hole in each angle bracket as a guide. Remove                                                                                                          1
+                                                                                                                                                                                                                                   F-1016F-L
+  the angle brackets and final-drill as per the callout in Figure 1. Deburr. Prime the angle brackets as
+  desired. Rivet the angle brackets in place as per the callouts in Figure 1.                                                                                                                                                      TOOLING HOLE
+                                                                                                                                           FINAL-DRILL #19                                          P8, P9
+                                                                                                                                              MS21919DG3                       4 3/16
+                                                                                                                                             AN526C832R8                                                                           1/4
+                                                                                                                                                  AN960-8
+                                        1                                                     1                                                AN365-832A
+               F-1005
+
+
+                                                                                                                                                                                                                               DRILL 3/8
+                                                       2X 1 5/8                                                     F-10111-L
+                                                                                                                                                                                                                               SB375-3
+
+          F-10111-R
+
+                                                                                                                    2X FINAL-DRILL # 30                                                                SUGGESTED LOCATION FOR
+                                                                                                                                                                                                       FLAP POSITIONING SYSTEM
+                                                                                                                    2X MATCH-DRILL # 30                                                                CONTROL BOX (NOT INCLUDED)
+
+
+                                             FIGURE 2: ATTACHING ANGLE BRACKETS TO THE
+                                                REAR SPAR BULKHEAD ASSY (FRONT VIEW)                                                                              FIGURE 4: ATTACHING HARDWARE TO THE
+                                                                                                                                                                 LEFT INBD FOOT WELL RIB (LEFT SIDE VIEW)
+PAGE OP37-10   RV-10     REVISION: 0   DATE: 4/25/05
+                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
+
+Step 1: Route cable P27 through the F-1005 Rear Spar Bulkhead and the F-1034A Fuselage
+Bulkhead squeezing the snap bushings as before. Follow the references in Figure 1 for the            Step 3: Drill the F-10111-L Angle Bracket as shown in Figure
+remaining tasks.                                                                                     3. Deburr and dimple the mating parts for flush rivets. Prime
+                                                                                                     as desired. Rivet the nutplate in place using the hardware
+                                                                                                     shown.
+                                                                                                                                                                          Step 5: Rivet the F-10111-L Angle Bracket to the aft side of the
+                                                                                                                                                        2X AN426AD3-3.5   F-1006B Fuselage Bulkhead and attach the remaining hardware as
+                                                                                                                  FINAL-DRILL #19                                         called out in Figure 5.
+                                       SEE
+                                                                        SEE FIGURE 2
+                                       FIGURES
+                                                                                                                                                        F-10111-L
+                                       4&5
+                                                                                                                                                                                                                              F-1006B
+
+                                                                                                    FINAL-DRILL #30
+                                      F-1021-L
+
+                                                                                                                                                        FINAL-DRILL #40                                                        AN515-8R8
+
+
+                                                                                                                                                       K1000-08
+                                                                                                                                                                                                                            MS21919WDG10
+                                                                             F-1034A
+
+
+                                                                                                                                                                                                                          F-10111-L
+
+                                                                                                        FIGURE 3: ATTACHING THE NUTPLATE                                                                           AN470AD4-4
+
+
+
+
+                                                  OPEN HOLES
+                                                                                                                                                                                            FIGURE 5:
+                                                    TO 3/4 DIA.                                                                                                                      ATTACHING THE BRACKET
+                                                 FOR SB750-10                                                                                                                         AND CUSHIONED CLAMP
+                                                                             F-1005
+                                                                                                     Step 4: Match-Drill the F-1006B Fuselage Bulkhead using the
+                                                                                                     F-10111-L Angle Bracket as a guide as shown in Figure 4.
+             FIGURE 1: HARNESS ROUTING BENEATH                                                       Deburr the parts and prime the angle bracket if desired.
+                   BAGGAGE COMPARTMENT
+
+
+
+
+Step 2: Enlarge the Ø5/8 holes in the F-1016H Guide Brackets to Ø3/4. Install them onto the
+F-1021-L Outboard Baggage Rib as shown in Figure 2 using the hardware called out and in the
+same manner as the F-10111 Angle Brackets on Page OP37-10 Step 1.
+                                                                                                                                        F-1006B
+                                          3/4
+                                                                       3/4
+                                                2X 1 5/8
+                                                                                         F-1021-L
+                                                                                                            1/2
+
+
+
+
+                                                                                                                                 7/16             F-10111-L
+            2X SB750-10
+
+                    2X F-1016H                                      4X MATCH-DRILL #30
+                                                                    4X LP4-3                                              FIGURE 4:
+                                                                                                             MATCH-DRILLING THE ANGLE BRACKET
+                   FIGURE 2: ATTACHING BRACKETS (LEFT SIDE VIEW)                                                        (REAR VIEW)
+                                                                                                                                                                                            DATE: 4/25/05   REVISION: 0    RV-10      PAGE OP37-11
+                   VAN'S AIRCRAFT, INC.
+                                                                 Step 1: Final-Drill a hole into the F-1035 Battery/Bellcrank Mount for an
+                                                                 AN4 bolt as shown in Figure 1. Deburr and remove primer from the
+                                                                                                                                                 Step 4: Mount the ES24021 Starter Relay to the left side of the F-1001A Firewall Bulkhead as shown in
+                                                                 surface of the mount where the terminal will make contact.
+                                                                                                                                                 Figure 2. The connection orientation of the starter relay is not critical but its physical orientation should be
+                                                                                                                                                 followed to prevent accidental activation under high G's.
+                                                                 Step 2: Consider mounting the strobe power supply to the F-1047C-L and
+                                                                 F-1047D-L J Stiffeners as shown in Figure 1. Hardware is not included in
+                                                                 the kit for this step. This location is based on the assumption that a single
+                                                                 strobe power supply will be used.                                                                    F-1001A
+
+                                                                 Step 3: Refer to Page 10-24 of the RV-10 Manual for mounting the ES
+                                                                                                                                                                     ES 24021
+                                                                 24115 Master Relay. This hardware was included in the
+                                                                 Empennage/Tailcone kit.
+                                                                                                                                                                    AN960-416
+                   3/4                                                                  CAUTION: Do not connect the battery cables
+                                                                                        at this time.
+                                                                                                                                                                       AN4-4A
+                                                                                        NOTE: Refer back to Figure 1 during the actual
+                                                                                        wiring harness installation to install the L3, L8,
+    FINAL-DRILL                                                      F-1035             P3, P4F, P5, and P27 wires and cables.
+            1/4
+
+
+                                                                  AN4-5A
+     9/32
+                                                               AN960-416
+
+                                                              AN365-428
+
+                                                                                                                                                                                                          FIGURE 2:
+                                                                                                                                                                                                 MOUNTING THE STARTER RELAY
+                                                             ES 25RG-XC CONCORDE BATTERY
+
+
+                                       P4F                                            MASTER
+                                                                                      RELAY
+                                                                                                                                                 Step 5: Place the battery in the F-1035 Battery/Bellcrank Mount and cover the positive terminal.
+
+
+
+
+                                                                                                                           F-1047C-L
+                                                                                                                                                 INSTALLATION AND CONNECTION
+                                         P5
+                                                                                                                           F-1047D-L             Step 6: The builder should position himself in the forward fuselage area with the end of the harness that
+                                                                                                                                                 will connect to the switches (the part with the most terminals bundled together) laying in his lap.
+                                                                                                                                                 About 30 inches from this end are the terminals that will connect to the terminal block. Temporarily install
+                                                                                                                                                 the terminals on the appropriate studs of the terminal block without tightening any nuts. Route the
+                                                                                                                           L8                    remaining wires by passing the tie-wrapped wire bundle sets through the appropriate holes following the
+                                                       P3                                                                                        routes on Page OP37-1, the schematic on Page OP37-13 and general details at large throughout this
+                                                                                                   LOCATE                                        manual.
+                                                       P27                                         STROBE
+                                                                                                   POWER                                         CAUTION: Avoid bending the wire bundles tighter than 10x the diameter of the largest wire in the
+                                                                                                   SUPPLY                                        bundle.
+
+                                                                                            L3                                                   Some of the wires are longer than necessary. Later these will be cut to final length, relabeled with the
+                                                                                                                                                 spare wire labels provided, and terminated. For now do not permanently tie or anchor the harness. Use
+                                                                                                                                                 trash bag twist ties or pieces of soft wire to temporarily hold the harness to the anchor holes. The 2 AWG
+                                                                                                                                                 battery cables will be installed individually as the connections are made. If operating a 60-amp alternator
+                                                                                                                                                 circuit J1, the 8 AWG wire running from the alternator to the buss, should not be placed inside conduit.
+                                                                                                                                                 Leaving it exposed to free air will maximize its ability to cool in case of high load such as a nearly dead
+                                                                                                                                                 battery.
+                                             FIGURE 1: DRILLING BATTERY GROUND
+
+PAGE OP37-12   RV-10     REVISION: 0   DATE: 4/25/05
+     FOR STICK GRIP SWITCH ORDER P/N: ES SWITCH SPDT-MOM                                                                                                                                                P7            18                                                                                               VAN'S AIRCRAFT, INC.
+                                                                 FLAPS DOWN             1. CUT LEAVING ENOUGH SLACK         3. CRIMP BOTH CONDUCTOR                       CIRCUIT FUNCTION LETTER
+                                                CENTER                                  FOR TWO RE-TERMINATIONS.            AND INSULATOR
+                                                                                                                                                                                WIRE NUMBER
+                                                  OFF
+                                                                                                                                                                                    WIRE GAUGE
+    FLAP                                                         FLAPS UP               2. STRIP. AVOID NICKING OR
+   MOTOR          P8   18          22                                                   CUTTING CONDUCTOR.                                                                             BARREL INSULATED
+                                                      18                                                                    4. CHECK CONTINUITY                      P7
+                                         22                             TO "FLAPS"                                                                                                 RING TONGUE TERMINAL
+                                                                                                                                                                                                                                                                                                                                                    ORDER: ES FLAP POS SWV 10
+      P9     18                                                 18
+                                                                        TERMINAL                           FABRICATING WIRES                                                        KEY
+                                                                       ON TERMINAL
+                                                                          BLOCK                                                                                                                                                            2X ES 320559                                                                                  "FLAPS" ON
+                                                                                                                                                                                                                                                                                                                                                                       1        P8 (EXTEND)
+
+
+
+
+                                                GND
+                                                                                                                                                                                                                                                                                                                                        TMNL BLOCK
+
+
+
+
+                                   BTN
+                                          BTN
+                                                                                                                                                                                                                                          OPTIONAL FUSE
+
+
+
+                              M+
+FLAP RELAY                                                                                                                                                                                                                                                                                                                                                             2
+
+
+
+
+                                                      V+
+                        M-
+                                                                                                                                                                                                                                                                                          1A                                                        18        B4               18        (RED)
+                                                                                                     LEFT                                   RIGHT                                                                       TAIL                                                                                                                                           3
+                                                                                                                  SHIELD                                                                                                                                                                                         18                                                             P9 (RETRACT)
+                                                                                                   MAGNETO                                 MAGNETO                                                                     POS. LT.                                              LEFT
+ OPTIONAL FLAP RELAY ORDER: ES FLAP CONTROL BOARD                                                                                                                                                                                                                            WING
+                                                                                              P LEAD                                           P LEAD                                                                                        L4                              ROOT                                                                OPTIONAL FLAP
+                                                                                                                                                                                                                                                                                     RIGHT                                                     POSITIONING SYSTEM
+                                                                                              GROUND                                          GROUND                                                                                                  L7                             WING
+                                                                                                                                                                                                                                  L8                                                 ROOT
+                                                                                                                             J3
+
+
+
+
+                                                                                                                                                                                                                                                          PANEL LT. DIM +V
+                                                                                                                                                                                                                                  18 18
+
+
+
+
+                                                                                                                                                                                                                                                                                               TRIM (OPTIONAL)
+                                                                                       2X ES 36154                          18S           NON IMPULSE MAG.
+                                                                                                                                          GROUND JUMPER                           WH-800
+
+
+
+
+                                                                                                                                                                                                                                       NAV. LT. +V
+                                                                                       2X ES 31890                     J4                 (IF APPLICABLE)                       SEVEN POLE
+
+
+
+
+                                                                                                                                                                                                           RADIO +V
+
+
+
+
+                                                                                                                                                                                                                                                                               FLAPS +V
+                                                                                                                                                                              TERMINAL BLOCK
+
+
+
+
+                                                                                                                                                                                                                       INST. +V
+                                                                                                                      18S
+
+
+
+
+                                                                                                                                                                                                                                                                                                                      EMPTY
+                                                                                                                                           GND                                SEE PAGE OP37-4
+                                                                                                                                           R                                                                                                                                                                                    2X ES 320559
+                                                                                                                                                                                                                                                                                                                                                                    FLAP
+CONNECTOR PLUG                                                                                                                             LR
+                                                                                                                                                                                                                                                                                                                                                                   MOTOR
+     ES 50-12159                                                                                                                           L
+                                           UNUSED WIRES                                                                                    BO                                                                                                                                                                                                           P8                     P9
+                                                                                                                                           BAT            K2    18
+                                                                                                                                           GND            J5    18                                                                                                                                                                                      18                     18
+                                                      60 AMP ALTERNATOR                                                                                                                    P2          P12            F1               L1                                     P7
+                                                                                                                                           S              K1    18
+                                                      ES 14684 (SEE NOTE 3)                                                                                                                                                                                                                                                              18        B6                               B7       18
+                                                                                                                                      IGNITION SWITCH
+                                                      (FOR 35 AMP ALT.                                                                                                                                                                                                                                                                        18        B5                          FLAP
+                                                                                                                                         ES A-510-2K
+                                                      SEE NOTE 4)                                                                                                                                                                                    18                                                                                                                             SWITCH
+                                                                                                                                                                                                                                                                                                                                                                                    ES S338T
+ES 324082                                                                                                                                                                                                                                                                                                                                      18            B4
+                                                                                                                                                                                                                                                                                                                                                                                6X ES 36152
+                                                                                                                                                                                                                                                                                                                 OPTIONAL PANEL
+                                                                                                                                                                                                                                                                                                                 LIGHT DIMMER
+                                         STRIP TO 18AWG
+                                                                                                                                                                                                                                                                                                                 ORDER: ES                                         WIRE NOMENCLATURE
+       J1                                ES 320562                                                                                                                                                                                                                                                               DIMMER, LAMP
+                                                                                                                                                                                                                                                                                                                 1.5A
+                                          J2          18
+                                                                            P2           18
+                                                                            P3           18                                                                                                                                                                   AMMETER                                                         OPTIONAL
+   BATTERY MASTER (ES 2GK54-73)
+                                                                             B1          18                                                                    SKY-TEC
+                             P22 SCB BUSS BAR                                                                                                                                                                                                                                             18
+                                                                            P28           8                                                                    149-12 LS                                                                                                                                                                                      SCB = SWITCH CIRCUIT BREAKER
+   ALT. FIELD 5A (ES PBB-5)                                                                                                                                                                                                                                                  SHUNT                                                                             CB = CIRCUIT BREAKER
+                                                                                                          ES 320562                                            STARTER
+                                                                                                                                                                                                                                                                                                                                                                  = SPLICE OR CONNECTION
+   RADIO MASTER 10A (ES PBB-10)                                             P12         16                                                                      (SEE NOTE 5)              ES 321045
+                                                                                                                                                                                                                                  K1                                     STARTER                                                                               CIRCUIT
+   BOOST PUMP 10A (ES PBB-10)                                               Q1          16           BOOST PUMP                                                                                                                                                                                                                                               FUNCTION
+                                                                                                                                                                                          REMOVE                                                                         RELAY                                                                                 LETTER      CIRCUITS
+   STROBE LIGHTS 10A (ES PBB-10)                                            L3          16          STROBE POWER SUPPLY                                                                   JUMPER ON                                                                      ES 24021                                                                                 B = BUILDER FABRICATED
+                                                                                                       2X ES 320562                                                  STARTER              SOLENOID                                                                                                                                                                F = FLIGHT INSTRUMENTS
+   NAV LIGHTS 10A (ES PBB-10)                                               L1          18                                                                                                                                                                                                                                                                        J = IGNITION
+
+   LANDING LIGHTS 20A (ES PBB-20)                                                 L2          14       LEFT WING ROOT                                                                                                        S              I                                                                                                                     K = STARTER
+                                                                                                                                                                                          P17     2                                                                           P28                                                                                 L = LIGHTING
+                                                                                  L5          14       RIGHT WING ROOT                                                                                                                                                                                                                                            P = POWER
+   STALL WRNG BRKR 2A (ES PBB-2A CB)                                        B8          18             LEFT WING ROOT                                         STUD                                                                                                                                                                                                Q = FUEL
+                                                           P13                                                                                             CONNECTED
+   FLAP BRKR 5A (ES PBB-5A CB)                                              P7          18                                                                 TO STARTER
+                                                                                                                                                                                            B11       16                                                                                                                        NOTES:
+                                                            8                                                                                                                                          2X ES 36154                                    P27                                                                       1. FOR MORE INFORMATION, SEE "ELECTRICAL WIRING NOTES" &
+   INST. +V BRKR 10A (ES PBB-10A CB)                                        F1          16                                                                                                                                                                                                                                      "RV AIRCRAFT SAMPLE WIRING SCHEMATIC" IN SECTION 5 OF THE
+                                                                                                                                            ENGINE                                                                                                                                                                              BUILDER'S MANUAL.
+   ALT. (NOTE 2) (ES CB 1648-009-060)                                       J1           8                   2X ES 320562                                                                                                                                 2
+                                                                                                                                             CASE
+                                                                                                                                                                                                                                                                                                                                2. USE ONLY 60AMP BREAKER WITH 60AMP ALTERNATOR. USE 35A
+                                                                                                                                                                                                                                                                                                                                OR 60A BREAKER WITH 35AMP ALTERNATOR.
+                       BUSS BAR JUMPER
+                                                                                                                                                 P25            P5        2                 P4F        2                                                                                                                        3. 60 AMP ALTERNATOR (AS SUPPLIED BY VAN'S) IS INTERNALLY
+                                                                      INSULATE END OF BAR
+                                                                                                                                                                                                                                                                              ES 36154                                          REGULATED AND REQUIRES NO VOLTAGE REGULATOR.
+        P21 CIRCUIT BREAKER BUSS BAR                                  WITH 1/2" DIA. HEAT SHRINK                                                   2                                                  "BAT"
+                                                                                                                                                                                BATTERY               TMNL                                                                                                                      4. FOR 35 AMP ALTERNATOR INSTALLATION SEE PAGE OP37-18.
+
+                                                                                                                                     AIRFRAME GROUND                                                                                                                          MASTER RELAY                                      5. DEPICTS SKY-TEC 149-12 LS STARTER, OTHER STARTERS MAY
+                                                                                                                                                                                                                                   P3
+                               CIRCUIT BREAKER PANEL WIRING                                                                       (TAB ON ENGINE MOUNT)                                                                                                                       ES 24115                                          REQUIRE ALTERATIONS TO SCHEMATIC.
+                                                                                                                                         TOP VIEW
+                                                                                                                                                                                                                                                                                                                                DATE: 11/12/10 REVISION: 3           RV-10          PAGE OP37-13
+                    VAN'S AIRCRAFT, INC.
+                                                                                                         Step 1: Fabricate wire B11 as per the schematic on Page OP37-13. Do not cut the wires
+                                                                                                         to final length until you have firmly established their route. Following the WD-1001-D1
+                                                                                                         Dyna-1 Engine Mount tube pass wires J1, J2 and B11 between the engine cylinders and
+                                                                                                         the induction intake tubes on the left side of the engine as per Figure 1. Route cable P17
+                                                      B11, P17                                           from the starter relay to the starter solenoid on the engine. Clamp the wires in place as
+                                                                                                         per the details. Share the oil sump attach bolts where noted. Follow the schematic on
+                                                                                                         Page OP37-13 for the connections at the alternator and starter.
+
+      SEE PAGE                                                                                           NOTE: Use the existing oil sump attach bolts. Do not over tighten them.
+        OP37-13                                                                  J3, J4
+
+
+                                                                                           WD-1001-D1
+                                                                                                                                                                                 AN3-3A
+
+                                                                                                                                                                                       MS21919DG2
+
+
+
+                                                                                                                                                                                           WD-1001-D1
+
+
+
+                                                                                                                                                                                            MS21919DG12
+
+
+
+
+                                                                                                                                                                                           AN960-10L
+
+
+                             J1, J2
+                                                                                                                                                                                        MS21042-3
+
+
+          FIGURE 1:
+    ROUTING AND ATTACHING
+   ALTERNATOR AND STARTER
+                                                                                                                                                                            AN3-4A
+           WIRING
+                                                                                                                                                                                   MS21919DG4
+
+                                                                                  AN3-3A                                                                                                MS21919DG6
+                                                                                                                                                                                        (FOR P17)
+                                                                                          MS21919DG6
+                                                                                          (FOR P17)
+                                                                                                                                                                                            WD-1001-D1
+
+                                                                                            MS21919DG4
+                                                                                                                                                                                            MS21919DG12
+
+
+
+                                                                                            C-606                                                                                          AN960-10L
+                                                                      SEE NOTE
+
+                                                                                            AN960-10L
+                                                           SEE NOTE                                                                                                                     MS21042-3
+
+       MS21919DG4                                                                         MS21042-3
+
+
+
+
+PAGE OP37-14   RV-10   REVISION: 0    DATE: 4/25/05
+                                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+                Step 1: Enlarge the hole in the ground strap attach tab on the           Step 3: Several different systems are used to help a magneto
+                WD-1001-D1 Dyna-1 Engine Mount as shown in Figure 1. Remove              provide a strong retarded spark for starting. By far the most
+                the powder coating from the side of the tab that will contact the        common is the impulse coupler. To spot an impulse coupler                     Step 4: Prepare each P-lead wire for connection to the
+                terminal to insure a good electrical connection.                         (while installed) look for the 3/4 inch spacer between the                    appropriate magneto.
+                                                                                         magneto and the accessory housing.
+                Step 2: Attach the P25 Ground Strap to the WD-1001-D1 Dyna 1                                                                                           Strip off 2 1/2 inches of the outer jacket of insulation using a
+                Engine Mount and the upper bolt on the accessory case as shown in        WARNING: Turning the propeller may cause the engine                           wire stripper, exposing the braided shielding as shown in
+                Figure 1.                                                                to fire. Before proceeding incapacitate the engine by                         Figure 2. Slide the shielding back up the wire to make it
+                                                                                         either removing the spark plugs or by attaching a ground                      bunch up like a loose sock. Use a needle to open a hole in
+                                                                                         jumper from each of the P-lead terminals to the engine                        the shielding next to the end of the insulation and pull the
+                                               MS21045-5
+                                                                                         case preventing any spark at the spak plugs.                                  center conductor wire out through this hole in the shield. Add
+                                                                    WD-1001-D1                                                                                         the heat shrink and terminals called out in Figure 2.
+                                                                                         One way to test for this type of magneto is to turn the
+                                                                       ENLARGE TO 5/16   propeller over and listen for a snapping sound which will only                Leave the P-leads disconnected until the test phase is
+                                                                       2 PLACES          come from an impulse coupling magneto.                                        completed. If the P-leads are connected while testing the
+                                                                                                                                                                       results will be incorrect.
+                                                                          P25            Because the impulse coupling retards the spark for starting
+                                                                                         the magneto without the impulse coupling cannot be used for                   WARNING: Safe the engine as per Step 3 if not already
+                                                                                         starting and must be grounded. The ES A-510-2K Magneto                        done.
+                                                                            AN960-516L   Switch with Start sold by Van's Aircraft takes care of this
+                                                                                         automatically if the engine's impulse magneto is on the left                  When the time comes (after testing) make the connections as
+                                                                                         side which is by far the most common. It comes with a jumper                  per Figures 1 and 2. For Slick magnetos, the ground screw is
+                                                                                AN5-4A                                                                                 labeled "GND" and is located near the P-lead terminal. If no
+                                                                                         that should be installed to ground out the right magneto when
+                                                                                         starting the engine. See Page OP37-13.                                        screw is designated as such then use one of the screws that
+                                                                                                                                                                       attach the ignition lead cap to the magneto. Use one of the
+                                                                                         If the engine has the impulse magneto on the right side either                MS25171-1S Small Nipple Boots at each of the P-lead
+                                                                                         swap the magnetos or change the jumper on the switch to                       connections to insulate them from accidental grounding.
+                                                                                         ground out the left magneto when starting the engine. If the
+                                                                                         engine has some other system for starting the builder is
+                                                                                         responsible for determining how to properly hook it up.                                                                        31890
+                                                                                                                                                                                                                        (18 AWG, #8 SCREW)
+                                                                                                                                                                                                                        TO GROUND
+                                                                                                                                                                       HEAT SHRINK
+                                                                                                                                                                                                                        (SHIELD MATERIAL)
+                                                                                                                                                                     AROUND SHIELD
+    ACCESSORY
+CASE HARDWARE
+                                                                                                                                                               18S       J3                                             36154
+                                                                                                                                                          (AND J4 AT MAGNETO)                                           (18 AWG, #10 BOLT)
+                                                                                                                                                                                              2 1/2                     TO P LEAD
+                                                                                                                                                                                                                        (CENTER CONDUCTOR)
+
+
+                                                                                                  CONNECT P-LEAD HERE
+                                                                                                                                                                         FIGURE 2: SEPARATING THE SHIELDING
+                                                                                         CONNECT GROUND HERE
+
+
+
+
+            FIGURE 1: INSTALLING ENGINE GROUND AND P-LEADS
+                                                                                                                                                                                                  DATE: 11/12/10 REVISION: 1   RV-10      PAGE OP37-15
+                     VAN'S AIRCRAFT, INC.
+                                                                      Step 1: Route the L8 wire down the length of the F-1047 J Stiffener.
+                                                                      Final-Drill #30 holes every 12 inches along the J Stiffener as shown in
+                                                                      Figure 1 and deburr. Use the hardware called out to attach the wire to                  Step 3: Hook up the 2 AWG cable and wire connections at the master and start
+                                                                      the J stiffener at each hole. Leave enough extra wire inside the R-1011                 relays; see Pages OP37-12 and OP37-13.
+                                                                      Rudder Bottom Fairing so that the tail position light can be removed
+                                                                      and the connectors accessed without having to remove the rudder                         CAUTION: When making cable connections to the relays a wrench on the
+                                                                      bottom fairing. (Route the strobe wire here as well if applicable.)                     stud nut adjacent to the case must be used to prevent the stud from turning
+                                                                                                                                                              and mis-aligning the contacts inside the relay.
+                                                                                                 ES 421-0108 CONNECTOR (FEMALE)
+                                                                                                                                                              Step 4: Route the cables to the battery and starter but do not hook them up yet.
+                                                                                      ES 421-0107 CONNECTOR (MALE)
+                                                                                                                                                              Step 5: Cover the relay activation wires P3 and K1 with the remaining
+                                                                                                                                                              MS25171-1S Small Nipple Boots. Cover the 2 AWG battery cable connections
+                                                                                                            L8                                   TAIL         except for cables P5 and P25 which are ground cables using the MS25171-3S
+                                                                                                                                                 POSITION     Large Nipple Boots.
+                                                                                                                                                 LIGHT LEAD
+                                                                                                                                                              Step 6: Fabricate and install wires B4, B5, B6, and B7 onto the ES S338T
+                                                                                                                                                              DPDT-CO Momentary Flap Switch using the specified wire gauge. See Page
+                                                                                                                                                              OP37-13. Cut wires P8 and P9 to final length, leaving some slack and install the
+                                                                                                                                                              terminals.
+
+                                                                                                                                                              If installing the ES SWITCH SPDT-MOM flap switch in the control stick, refer to
+               PLASTIC TIE WRAP 4" (ZIP TIE)                                                                                                                  the corresponding wiring diagram on Page OP37-13. Route two 22 AWG wires
+                     THE L8 WIRE TO F-1047                                                                                                                    from the stick grip switch to the flap relay board (ES FLAP CONTROL BOARD)
+                          EVERY 12 INCHES                                                                                                                     BTN screw terminals. A light gauge wire is not however as durable when run by
+                                                                                                                                                              itself outside of a wire bundle. Therefore, if no other switches will be used in the
+                                                                                                                                                              stick grip so that no other wires are present with which to create a small bundle, 18
+                                                                                                                                                              AWG wire should be substituted for the 22 AWG wire shown. Connect wires P8
+                                                                                                                                                              and P9 as per the detail. If the actuator direction is incorrect reverse the wires at
+                                                              FIGURE 1:                                                                                       the flap actuator later. Finally, connect the ground and +V terminal wires.
+                                                 ROUTING THE TAIL POSITION LIGHT WIRE
+                                                                                                                                                              Step 7: Double check the schematic diagram on Page OP37-13 to insure all
+                                                                                                                                                              connections have been marked off as completed except the following:
+
+                                                                                                                                                              - P4F at the positive battery terminal
+                                                                                                                                                              - P17 at the starter
+                                                                                                                                                              - J3 and J4 at the magnetos
+                                                                                                                                                              - P8 and P9 at the flap actuator
+                                Step 2: Drill through the F-1012 Fuselage                                                                                     - L2, L4, L5, L7, L8 lights at the wing roots and at the tail
+                                Bulkhead stack-up as shown in Figure 2 and
+                                deburr. Protect the wires with a piece of heat
+                                shrink at the hole. A snap bushing is not required.
+                                                                                                11/16
+                                Attach the tail position light ground wire to an
+                                existing AN3 bolt on the forward side of the
+                                F-1012 Fuselage Bulkhead using the hardware
+                                called out.
+                                                                                             DRILL
+                                                                                             Ø5/16
+
+
+
+
+                                                                                                                                   ES36154
+                                                                                                                                   (FOR 18 AWG
+                                                                                                                                    WIRE &
+                                                                                                                                   3/16 BOLT)
+
+
+
+
+                                                                                                FIGURE 2:
+                                                                                           DRILLING EXIT HOLE
+PAGE OP37-16   RV-10   REVISION: 0   DATE: 4/25/05
+                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+   Post                    TESTING
+Installation   Preflight
+
+                           Step 1: Check that unconnected wires are not shorted to the airframe.
+                                                                                                            Step 17: Install the F-10110-L Wire Cover Assembly using the hardware called out in Figure 1 upon
+                           Step 2: Check that the starter is disconnected.                                  completion of the electrical system. The F-1015D-L Fuselage Side Panel is not shown.
+
+
+                           Step 3: Check that the master switch is off.
+
+                           Step 4: Connect the positive battery cable P4F to the positive battery
+                           terminal.
+
+                           Step 5: Turn Master Switch On:
+                           Result: Master relay makes a clicking sound as it activates, +12 volts present
+                           at copper buss bar on switch console (check all voltages with a voltmeter),
+                           and +12 volts present at instrument terminal on terminal block.                                   F-10110-L
+
+                           Step 6: Turn Alt. Field Switch On:                                                                                                                                                           AN960-8
+                           Result: +7 to +10 Volts measured at green wire in alternator plug.
+                                                                                                                                                                                                                       AN365-832A
+
+                           Step 7: Turn Boost Pump Switch On:
+                           Result: Hear boost pump operate (operate for only a few seconds with no
+                           fuel).                                                                                                                                                  AN515-8R8
+
+                           Step 8: Turn Strobe Lights Switch On:
+                           Result: +12 volts present at the end of wires L3.
+
+                           Step 9: Turn Navigation Lights Switch On:
+                           Result: +12 volts present at the end of wires L4, L7, and L8 and +12 volts
+                           present at the panel light terminal on the terminal block.
+                                                                                                                                                     AN509-8R8
+                           Step 10: Turn Landing Light Switch On:
+                           Result: +12 volts present at the end of wires L2 and L5.
+
+                           Step 11: Turn Magneto Switch to "Off":
+                           Result: J3 and J4 P-lead wires both grounded (0-5 Ohms between wire
+                           terminal and airframe when checked with an ohm meter).
+
+                           Step 12: Turn Magneto Switch to "Right":                                                                                    FIGURE 1:
+                           Result: J4 grounded, J3 has infinite resistance with respect to ground.
+                                                                                                                                         INSTALLING THE WIRE COVER ASSEMBLY
+                           Step 13: Turn MagnetoSwitch to "Left":
+                           Result: J4 has infinite resistance with respect to ground, J3 is grounded.
+
+                           Step 14: Turn Magneto Switch to "Both":
+                           Result: J3 and J4 both have infinite resistance with respect to ground.          CONCLUSION
+                           Step 15: Turn Magneto Switch to "Start":
+                                                                                                            Additional instrument, avionics and panel light connections to the system are made possible by use of
+                           Result: Hear start relay activate, and +12 volts at starter end of cable P17.
+                                                                                                            the three terminals provided for this purpose on the terminal block. Two ground terminals also simplify
+                                                                                                            connections from the instrument panel and additional ground terminals may be added if/as required.
+                           Step 16: Temporarily connect wires P8 and P9 to the flap actuator leads.
+                           Move the flap switch down while observing the actuator. The actuator length
+                                                                                                            Prior to flight, make one last check of each circuit to ensure all connections and fasteners are secure.
+                           should decrease lowering the flaps. If not simply reverse the wires and
+                           recheck. Complete the wire connections using ES 320559 18 AWG Splices.
+                                                                                                            For more information, see the Department of Transportation FAA publication AC 43.13-1B, Aircraft
+                                                                                                            Inspection and Repair; Acceptable Methods, Techniques and Practices, chapter 11.
+                           When everything has checked OK installation is complete. If something does
+                           not work recheck all of the connections associated with the problem circuit.
+
+
+
+
+                                                                                                                                                                                                DATE: 4/25/05   REVISION: 0   RV-10   PAGE OP37-17
+                    VAN'S AIRCRAFT, INC.
+
+
+
+
+                 ALTERNATIVE 35AMP ALTERNATOR INSTALLATION
+
+                 Install the 35AMP Alternator.
+
+                 Make the electrical connections as depicted in Figure 1.
+
+                 Mount the voltage regulator to the firewall (not shown).
+
+                 Drill a #19 hole in the firewall to allow turning the adjusting potentiometer without removing the
+                 regulator if using an adjustable regulator (such as Van's Aircraft P/N: ES M5-150A).
+
+                 Connect the adjustable regulator's black ground wire to ground using a 22-18 AWG ring terminal and
+                 one of the regulator's mounting screws.
+
+                 Connect wire J2 to the voltage regulator input (the red wire on ES M5-150A and VR-1751) using an ES
+                 320559 22-18 AWG splice.
+
+
+
+
+                                                                B3     18
+                                  PLUG
+                               ES 50-01205
+                                                         BLK
+                                                                            WHITE WIRE IS NOT USED
+                                      ALT. FIELD
+                                          GRN
+                                                                            OUTPUT TERMINAL STUD
+                                        B2
+                                                                                             TO ALTERNATOR
+                                        18                                   J1     8
+                                                                                             BREAKER
+
+
+                                                                        35 AMP ALTERNATOR ES 14184
+                                      GRN
+                       BLACK
+                                             RED        J2     18        TO BATTERY MASTER SWITCH
+
+                                                 YELLOW WIRE IS NOT USED
+
+
+                                                     VOLTAGE REGULATOR
+                                                     FIXED P/N: ES VR-1751
+                                                     ADJUSTABLE P/N: ES M5-150A
+                                                     (FOR USE ONLY WITH 35AMP ALTERNATOR)
+
+
+
+                                             FIGURE 1:
+                              INSTALLATION OF EXTERNALLY REGULATED
+                                        35AMP ALTERNATOR
+
+
+
+
+PAGE OP37-18   RV-10   REVISION: 0   DATE: 4/25/05
+                                                                                                                                 VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                                                  RIVET
+                                                                                                  CENTERS
+
+
+                                                                                            CENTERLINE
+
+
+
+
+                                                                                                            DRILL
+                                                                                                            Ø1/2
+
+
+
+
+                                                                                                   FIGURE 1:
+                                                                                        FIREWALL PENETRATION TEMPLATE
+                                                                                                  (SCALE 1:1)
+
+
+10 9/16
+
+
+
+
+                                                                                                             EXTENDED
+                                                                                                             CENTERLINES
+                                                                                                             INDICATE SWITCH
+                                                                                                             CENTER
+
+
+                                                                                                                    FILE AWAY
+                                                                                                                    SHADED
+                                                                                                                    PORTION
+
+
+
+
+                                                                                                                     DRILL Ø3/4 HOLE HERE
+
+
+
+
+                                                                                                FIGURE: 2
+          NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!
+                                                                                         MAGNETO SWITCH TEMPLATE
+                                                                                               (SCALE 1:1)
+                                                                                   16
+                                                                                                                                     DATE: 4/25/05   REVISION: 0   RV-10   PAGE OP37-19
+                   VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                      PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE OP37-20   RV-10   REVISION: 0   DATE: 11/15/10
+

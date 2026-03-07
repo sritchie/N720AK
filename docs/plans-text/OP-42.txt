@@ -1,0 +1,51 @@
+   F-7129-L STROBE/ELT BRACKET INSTALLATION
+
+Step 1: Position F-7129-L Strobe/ELT Bracket with flange below F-786B-L and F-786C-L J-Stiffener as pictured in               Step 2: Using the holes in the lower flange of the F-7129-L StrobelELT Bracket as a template, match drill
+Figure 1 SECT A-A. Slide the strobe/ELT bracket forward and aft to find the best fit. The strobelELT bracket flanges          #30 and cleco the F-786C-L J-Stiffener.
+may be adjusted with a hand seamer if required. Take care not to twist the strobe/ELT bracket.                                Step 3: With the F-7129-L Strobe/ELT Bracket clecoed to the F-786C-L J-Stiffener, mark four evenly
+                                                                                                                              spaced hole locations on the F-786B-L J-Stiffener. Drill #30 and cleco one hole in the F-786B-L J-Stiffener
+                                                                                                                              and upper flange of the strobelELT bracket. Check that the web of the strobelELT bracket is not twisted,
+                                                                                                          F-786B-L            then drill #30 and cleco the three remaining hole locations.
+                                                                                                                              Step 4: Remove the F-7129-L StrobelELT Bracket. Deburr holes as required. Dimple the nutplate rivet
+                                                                                                                              holes in the strobetELT bracket. Refer to Figure 2 for dimple direction and location. Primer the strobe/ELT
+                                                                                                                              bracket if/as desired.
+                                                                                                                              Step 5: Dimple the nutplates. Install the nutplates on the flange side of the F-7129-L Strobe/ELT Bracket as
+                                                                                                                              shown in Figure 2.
+
+
+                                                                                                                                                              AN426AD3-3.5
+                                                                                                                                                              8 PLACES
+                                                                              F-7129-L                                                                                                                                              AN426AD3-3.5
+                                                                                                                                                                                                                                    8 PLACES
+
+                                                                                                                                                        gob
+                                                                                                          F-786C-L      K1000-08                  -o,
+                                                       i-- F-786B-L
+                                                                                                                       4 PLACES
+                                                               A                                                                                                                       K10t
+                                                                                                                                                                                      4 PLA
+                                                                                         SECTION A-A
+
+                                              F-786C-L ` .^
+                                                       A                                                               F-7129-L                                                  F-7129-L
+
+                                            F-7129-L
+                                                                                                                                       STROBE MOUNT                                                      ELT MOUNT
+
+
+
+                                                                                                                                                        FIGURE 2: ATTACHING THE NUTPLATES
+  UP
+
+            LEFT
+
+                                                                                                                              Step 6: Cleco then rivet the F-7129-L Strobe/ELT Bracket to the F-786B-L and F-786C-L J-Stiffeners using
+                                                                                                                              LP4-3 Blind Rivets.
+
+           FWD                                                                                                                NOTE: For ELT installation, the mounting bracket supplied with your ELT may not have large enough holes
+                                                                                                                              to attach to the F-71294_ StrobelELT Bracket. Drill undersized holes with a #19 drill bit.
+
+
+
+             FIGURE 1: POSITIONING THE STROBE/ELT BRACKET
+

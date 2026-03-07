@@ -1,0 +1,1131 @@
+                                                                                                               VAN'S AIRCRAFT, INC.
+
+                           F-1004K-R
+
+
+
+                                                  SECTION 28:
+                        CENTER SECTION
+                          SIDE PLATE
+
+
+        F-1042-R
+     BULKHEAD SIDE
+       CHANNEL
+
+
+      F-1001
+                                              FWD FUSE RIBS, BHDS
+FIREWALL BULKHEAD
+    ASSEMBLY
+
+
+
+         F-1048-R
+                                                  & BOTTOM SKIN
+                                                 F-1067B
+                                               SEAT FLOOR
+                                                 COVER
+                                                                                       F-1048-L
+       FWD FUSELAGE                                         SEAT FLOOR
+            RIB                                           ASSEMBLY - RIGHT          FWD FUSELAGE
+                                                                                         RIB
+                                                                                                   AFT CENTER SECTION
+           F-1043D-R
+                                                                                                   BULKHEAD ASSEMBLY
+          COVER PANEL
+                                                                                                        F-1057-L/R
+                                                                                                      MID SEAT RAIL    F-1004K-L
+                                                                                                        SUPPORT     CENTER SECTION
+                                                                                                                      SIDE PLATE
+
+
+
+
+                                             F-1033-L
+                                         CONTROL COLUMN
+                                             MOUNT
+                                                        F-1043B-L
+                                                      FWD FUSELAGE
+                                                        BULKHEAD
+                                                                  F-1084A-L
+                                                                  SYSTEMS
+                                                                  BRACKET                               WD-1021-L
+                                                                                                      LANDING GEAR                    13X F-1004-SPCR-125
+                                                                                                       MOUNT - LEFT                  PLUS F-1004-SPCR-063
+                                                                                                                                   CENTER SECTION SPACER,
+                                                                                 F-1042-L          FWD CENTER SECTION                       4 PLACES
+                                                                              BULKHEAD SIDE        BULKHEAD ASSEMBLY
+                                                                                CHANNEL
+                                                                       F-1049C-L
+                                                                     FWD FUSELAGE
+                                                      F-1050-L
+                                                                       FLOOR RIB
+                                                     FWD CABIN
+                                                    FLOOR PANEL
+
+                                                                                                                      DATE: 07/24/14 REVISION: 0   RV-10   PAGE   28-1
+                       VAN'S AIRCRAFT, INC.                                                   Step 3: Final-Drill #40 the remaining nutplate attach holes in the F-1043C-L & R          Step 4: Cleco the F-1043G-L Fwd Seat Rail Support to the F-1043 H-L Fwd Seat Rail
+                                                                                              Attach Angles. Final-Drill #19 the K1000-08 and MS21051-L08 nutplate screw holes in       Support as shown in Figure 4.
+                                                                                              the attach angles. Final-Drill #12 the K1000-3 nutplate bolt hole in the attach angles.
+                                                                                              See Figure 3.                                                                             Cleco the F-1043G-R Fwd Seat Rail Support to the F-1043H-R Fwd Seat Rail
+  Step 1: Break apart the F-1043C Attach Angle into                                                                                                                                     Support.
+  individual F-1043C-L & F-1043C-R                                                            Machine countersink the nutplate attach holes in the attach angles for the head of an
+  Attach Angles as shown                                                                      AN426AD3 rivet. See Figure 3.                                                             The two subassemblies created in this step will subsequently be referred to as Outbd
+  in Figure 1.                                                                                                                                                                          Fwd Seat Rail Support - Left and Outbd Fwd Seat Rail Support - Right
+                                                                                              Deburr the holes and edges of the attach angles.
+                                                                                                                                                                                        Final-Drill #30 the holes common between the outbd fwd seat rail supports. Final-Drill
+              F-1043C-L                          F-1043C-R                                                                                                                              #40 the nutplate attach holes in the outbd fwd seat rail supports. Final-Drill #19 the
+                                                                                                                                                                                        nutplate screw holes in the outbd fwd seat rail supports.
+
+                                                                                                                                                 K1000-3                                Machine countersink the nutplate
+                                                                                                         AN426AD3-4,                                                                    attach holes in the outbd
+                                                                                                          8 PLACES                                                                      fwd seat rail supports     AN426AD3-4,
+                                                                                                                                                                                        for the head of an             TYP
+               FIGURE 1: BREAK APART ATTACH ANGLE                                                                                                                                       AN426AD3 rivet.
+                                                                                                                                                                                                               F-1043G-L
+                                                                                                                                                                                        See Figure 4.
+                                                                                                                                                                                                                                                               MS21051-L08,
+  Step 2: Cleco the F-1043C-L & R Attach Angles to the F-1048-L & R Fwd Fuselage                                                                                                        Uncleco the outbd                                                       4 PLACES
+  Ribs as shown in Figure 2.                                                                                                                                                            fwd seat rail
+                                                                                                                                                   K1000-08                             supports, deburr
+  Final-Drill #19, #30, and #40 all holes in the flanges of the attach angles that mate to                                                                                              holes, and
+  the fwd fuselage ribs.                                                                                                                                                                deburr edges.
+
+  Uncleco the attach angles.                                                                                                                       DO NOT
+                                                                                                                                                 COUNTERSINK
+
+                                                                                                                                                                                                                                                            F-1043H-L
+                                                                                                                F-1043C-L                          MS21051-L08
+
+                                                                                                                                                                                             K1000-08
+
+
+
+                                                                                               FIGURE 3: ATTACH ANGLE NUTPLATE INSTALLATION
+                                                         F-1043C-R                                                                                                                                     AN470AD4-5,
+                                                                                                                                                                                                          TYP
+
+
+                                                                                   F-1048-R                                                                                                     FIGURE 4: OUTBD FWD SEAT RAIL SUPPORT - LEFT
+
+
+                                                                                                                                                                                        Step 5: Break apart the two F-1043F Seat Rail Support Angles into individual
+                                                                                                                                                                                        F-1043F-L & F-1043F-R Seat Rail Support Angles as shown in Figure 5.
+
+
+
+
+                                                                                                                                                                                                F-1043F-L
+                                                                                                                                                                                                                                                 F-1043F-R
+       F-1043C-L
+
+
+
+
+                                                                        F-1048-L
+                           FIGURE 2:
+       FINAL-DRILL ATTACH ANGLES TO FWD FUSELAGE RIBS
+                                                                                                                                                                                        FIGURE 5: BREAK APART SEAT RAIL SUPPORT ANGLE
+PAGE   28-2    RV-10      REVISION: 0   DATE: 07/24/14
+Step 1: Cleco the F-1043E-L and F-1043E-R Fwd Seat Rail Supports                                                                            Step 3: Cleco one of the F-1042D Spacers to the F-1042-L
+                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+                                                                                                   AN426AD3-4,
+to the F-1043F-L and F-1043F-R Seat Rail Support Angles as shown                                      TYP                                   Bulkhead Side Channel as shown in Figure 3.
+in Figure 1.
+                                                                                                                                            Cleco the remaining spacer to the F-1042-R Bulkhead Side Channel.
+Repeat.
+                                                                                       F-1043F-L                                            Final-Drill #40 the two small holes common to the bulkhead side channels and spacers and all the nutplate attach holes in the
+The two subassemblies created in this step will subsequently be                                                                             bulkhead side channels.
+referred to as Inbd Fwd Seat Rail Supports.                                F-1043E-L
+                                                                                                                                            Final-Drill #12 the four large holes common to the bulkhead side channels and spacers as shown in Figure 3.
+Final-Drill #30 the holes common between the fwd seat rail supports                                                          MS21051-L08,
+and seat rail support angles. Final-Drill #30 the holes common                                                                4 PLACES      Machine countersink the spacers for the head of an AN426AD3 rivet. See Figure 3.
+between the seat rail support angles. Final-Drill #40 the nutplate
+attach holes in the fwd seat rail supports. Final-Drill #19 the nutplate                                                 F-1043E-R          Machine countersink the nutplate attach holes in the bulkhead side channels for the head of an AN426AD3 rivet. See Figure 3.
+screw holes in the fwd seat rail supports. See Figure 1.
+                                                                                                                                            Machine countersink the nutplate screw holes. See Page 13-3, Figure 2 for details of the countersunk hole.
+Machine countersink the nutplate attach holes in the fwd seat rail
+supports for the head of an AN426AD3 rivet. See Figure 1.                                                                                   Scribe the letter "L" near the upper edge of the spacer that has been final-drilled to the left bulkhead
+                                                                                                                                            side channel. See Figure 3. Scribe the letter "R" in the same location on the spacer
+Uncleco the inbd fwd seat rail supports, deburr holes, and deburr                                                                           that has been final-drilled to the right bulkhead side channel. This will ensure that
+edges.                                                                                                                                      the spacers are riveted to the same parts and in the same
+                                                                                                                                                                                                                     F-1042-L
+                                                                                                                                            orientation as when they were final-drilled.
+                                                                           AN470AD4-7,
+                                                                            6 PLACES
+                                                                                                                                            Uncleco the spacers and bulkhead side
+                                                                                                                                            channels, deburr edges, and deburr all                K1000-08,
+                                                                                AN470AD4-5,                      F-1043F-R                  holes that have been final-drilled.                   5 PLACES
+                                                                                 5 PLACES
+                                                                                                                                                                         AN426AD3-4,
+                                                                                                                                                                            TYP
+
+                                                                            FIGURE 1: INBD FWD SEAT RAIL SUPPORT
+
+                                                                                                                                             FINAL-DRILL #12,
+                                                                                                                                                4 PLACES
+
+Step 2: Break apart the F-1042BCD Clips and Spacers into individual
+F-1042B Clips, F-1042C Clips, and F-1042D Spacers as shown in
+Figure 2.                                                                                                                                                                           UPPER EDGE
+                                                   REMOVE
+                            F-1042C               HATCHED
+                                                 AREAS, TYP
+                                                                                                                                                                                     F-1042D
+
+
+                                                                                                                                                             FIGURE 3: BULKHEAD SIDE CHANNEL NUTPLATE INSTALLATION
+
+                                                                                                                                            Step 4: Prime the following parts if/as desired:
+                                                                                                                                            F-1043C-L and F-1043C-R Attach Angles;
+                                                                                                                                            F-1043E-L and F-1043E-R Fwd Seat Rail Supports;
+                                                                                                                                            F-1043F-L and F-1043F-R Seat Rail Support Angles;
+                 F-1042D             F-1042B                                                                                                F-1043G-L, F-1043G-R, F-1043H-L, and F-1043H-R Fwd Seat Rail Supports;
+                                                                                                                                            F-1042-L and F-1042-R Bulkhead Side Channels;
+  FIGURE 2: BREAK APART CLIPS & SPACERS                                                                                                     F-1042D Spacers.
+
+                                                                                                                                            Step 5: Install nutplates to the F-1043C-L and F-1043C-R Attach Angles as shown on Page 28-2, Figure 3.
+
+                                                                                                                                            Step 6: Assemble the Left and Right Outboard Seat Rail Supports as shown on Page 28-2, Figure 4. Rivet the F-1043G-L/R
+                                                                                                                                            Fwd Seat Rail Support to the F-1043H-L/R Fwd Seat Rail Support BEFORE riveting nutplates.
+
+                                                                                                                                            Step 7: Assemble two Inbd Fwd Seat Rail Supports as shown in Figure 1.
+
+                                                                                                                                            Step 8: Install nutplates and attach F-1042D Spacers to the F-1042-L and F-1042-R Bulkhead Side Channels as shown in
+                                                                                                                                            Figure 3.
+
+
+                                                                                                                                                                                                                         DATE: 07/24/14 REVISION: 1    RV-10   PAGE   28-3
+                       VAN'S AIRCRAFT, INC.                                                                                   Step 3: Repeat Step 2 for the right side of the aircraft.
+                       Step 1: Using a #12 bit, drill a hole in the F-1033-L Control
+                       Column Mount located as shown in Figure 1.                                                             Step 4: Final-Drill #30 all holes common between F-1042-L Bulkhead Side Channel
+                                                                                                                              and the F-1004K-L Center Section Side Plate.
+  Repeat for the F-1033-R Control Column Mount.
+                                                                                                                              Final-Drill #30 all holes common between F-1043A-L Fwd Fuselage Bulkhead, the
+  Radius the corners and remove material from the middle of both control column                                               center section side plate, and the bulkhead side channel.
+  mounts as shown in Figure 1.
+                                  3/8                                                                                         Final-Drill #30 all holes (except those covered by the F-1043D-L Cover Panel)
+                                                                                                                              common between the F-1043A-L Fwd Fuselage Bulkhead and the following: Outbd
+         11/16                                                                                                                Fwd Seat Rail Support - Left; Inbd Fwd Seat Rail Support; F-1043C-L Attach Angle.
+
+                                                                                                                              Final-Drill #19 all holes common between the cover panel and either the F-1043A-L or
+                                          1 7/32                                                                              F-1043B-L Fwd Fuselage Bulkheads.
+                                                   2 7/32
+                                                                                                                              Step 5: Repeat Step 4 for the right side of the aircraft.
+  DRILL #12
+
+
+
+
+                                  REMOVE
+                               HATCHED AREA
+
+
+
+
+              9/16
+
+
+
+
+                                                                                                                                                                             F-1042-L                          AN3-4A,
+                                                                                                                                                                                                              4 PLACES
+                                                                                                                                                                  F-1043B-L
+                                          3 1/8                                                                                                                                                                          AN515-8R8,
+                                  2 1/8                                                                                                                                                                                     TYP
+                                                                                                                                                                AN3-5A,
+                                                                                                                                                               4 PLACES
+
+                                  1/4 RADIUS,                                                                                                                                                                                         F-1043D-L
+                                    TYPICAL
+                                                                                                                                                                                                                                              AN3-4A
+       FIGURE 1: DRILL AND TRIM CONTROL COLUMN MOUNT
+                                                                                                                                                                                                                                  AN3-4A,
+                                                                                                                                                                                                                                 4 PLACES
+                                                                                                                                                                                                        AN960-10,
+                                                                                                                                                                                                          TYP
+   Step 2: Bolt the F-1043B-L Fwd Fuselage Bulkhead to the F-1042-L Bulkhead Side Channel as shown in Figure 2.                                                                                       AN365-1032,
+                                                                                                                                                                                                         TYP
+  Bolt the Outbd Fwd Seat Rail Support - Left to the fwd fuselage bulkhead as shown in Figure 2.
+
+  Bolt one of the Inbd Fwd Seat Rail Supports to the fwd fuselage bulkhead as shown in Figure 2.
+
+  Bolt the F-1043C-L Attach Angle and F-1043D-L Cover Panel to the fwd fuselage bulkhead as shown in Figure 2.
+                                                                                                                                                        F-1004K-L                         F-1043A-L
+   Cleco the F-1004K-L Center Section Side Plate to the bulkhead side channel as shown in Figure 2.
+                                                                                                                                                                                    OUTBD FWD SEAT
+  Cleco the F-1043A-L Fwd Fuselage Bulkhead to the center section side plate, outbd fwd seat rail support, inbd fwd seat
+                                                                                                                                                                                   RAIL SUPPORT - LEFT
+  rail support, and attach angle as shown in Figure 2.
+
+  Install screws through the cover panel into the fwd fuselage bulkhead/attach angle, attach angle, and outbd fwd seat rail
+  support as shown in Figure 2.
+                                                                                                                                                                                                       INBD FWD SEAT
+                                                                                                                                                                                                        RAIL SUPPORT
+                                                                                                                                                                                                                                F-1043C-L
+                                                                                                                                               FIGURE 2: FWD FUSELAGE BULKHEAD SUB-ASSEMBLY
+PAGE   28-4      RV-10   REVISION: 0   DATE: 07/24/14
+Step 1: Bolt the F-1033-L Control Column Mount to the F-1043B-L Fwd Fuselage Bulkhead as shown in Figure 1.               Step 3: Remove the F-1043D-L and F-1043D-R Cover Panels from the Outbd
+                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
+                                                                                                                          Fwd Seat Rail Supports, Inbd Fwd Seat Rail Supports, and F-1043C-L and
+Bolt the F-1033-R Control Column Mount to the F-1043B-R Fwd Fuselage Bulkhead.                                            F-1043C-R Attach Angles.
+
+Align each control column mount so that it is parallel to the Inbd Fwd Seat Rail Support and Outbd Fwd Seat Rail          Final-Drill #30 the holes common to the F-1043A-L and F-1043A-R Fwd Fuselage Bulkheads, outbd and inbd fwd seat rail supports, and
+Support and clamp it in that position.                                                                                    attach angles that had been blocked by the cover panels.
+
+Match-Drill #12 three holes in each control column mount using the existing holes in the F-1043B-L/R and F-1043A-L/R      Uncleco the inbd and outbd fwd seat rail supports from the fwd fuselage bulkheads and deburr holes in the fwd seat rail supports.
+Fwd Fuselage Bulkheads as drill guides. See Figure 1.
+                                                                                                                          Step 4: Study Figure 2 until you understand the proper orientation of the F-1072 Fwd Fuse Bottom Skin, it is NOT symmetrical.
+Un-clamp and un-bolt the control column mounts from the fwd fuselage bulkheads and deburr holes in the coltrol column
+mounts.                                                                                                                   Trim the aft end of the upper flanges of the F-1049C-L & R Fwd Fuselage Floor Rib as shown in Figure 2. Trim from center-to-center of
+                                                                                                                          the two "notches" punched in the flange of each fwd fuselage floor rib.
+
+                                                                                                                          Enlarge the two pre-punched brake line pilot holes to 5/8" diameter as shown in Figure 2.
+
+                                                                                                                          Inserting clecos from the bottom up, cleco the F-1049A-L & R, F-1049B-L & R, F-1049C-L & R, F-1049D-L & R Fwd Fuselage Floor Ribs,
+                                                                                                                          two F-1048D Fuel Filter Brackets, and VA-188 Flo-Scan Mount Bracket to the fwd fuse bottom skin as shown in Figure 2.
+                                             F-1043B-L
+                                                                                                                          Final-Drill #40 all the holes common to the fwd fuse bottom skin and the parts clecoed to it.
+                                                                                            BOLT THROUGH
+                                                                                            EXISTING HOLE
+                                                                                                         AN3-6A
+                                                                                                                                              BRAKE LINE PILOT HOLE              F-1049B-L
+                                                                             AN960-10                                                        ENLARGE TO 5/8 DIAMETER                                                      F-1049D-L
+                                                                          AN365-1032
+                                                                                                                                                               F-1049C-L                                                       F-1049D-R
+                                                                                                                                                         F-1049A-L
+
+                                                                                                                                                                                                                                                     F-1049A-R
+                                                                                                                                                                                                                                                        F-1049B-R
+
+
+                                                                                                                                                                                                        VA-188
+                                                                                                                                                                                          F-1048D
+                                                              F-1043A-L
+
+
+                                                                              F-1033-L
+
+
+                                                                                                                                                                                                                                                   F-1049C-R
+
+                        FIGURE 1: MATCH-DRILL CONTROL COLUMN MOUNT                                          MATCH-DRILL
+
+
+
+
+Step 2: Remove one bolt from each of the following parts: F-1042-L Bulkhead Side Channel; Outbd Fwd Seat Rail
+Support; Inbd Fwd Seat Rail Support; F-1043C-L Attach Angle.
+                                                                                                                                                                                                                           F-1072
+Repeat for the right side of the aircraft.                                                                                                                                                                          BRAKE LINE PILOT HOLE
+                                                                                                                                                                                                                   ENLARGE TO 5/8 DIAMETER
+Final-Drill #12 the open bolt holes.
+
+Remove one of the remaining bolts in each location mentioned above and re-install in a hole that has already been                                                FIGURE 2: FINAL-DRILL FWD FUSE BOTTOM SKIN
+final-drilled.
+
+Final-Drill #12 the open bolt holes.
+
+Repeat this process until all bolt holes have been final-drilled.
+
+Un-bolt the F-1043B-L and F-1043B-R.
+
+
+                                                                                                                                                                                                                      DATE: 07/24/14 REVISION: 0   RV-10       PAGE   28-5
+                       VAN'S AIRCRAFT, INC.                                                                                              Step 3: Position the Firewall Bulkhead Assembly to the F-1072 Fwd Fuse Bottom Skin as shown in Figure 3. Cleco the F-1048-L
+                      Step 1: Cleco the subassembly of the F-1043A-L Fwd Fuselage Bulkhead, F-1043C-L Attach                             & R Fwd Fuselage Ribs to the F-1043C-L & R Attach Angles, then tip up the entire assembly so it rests on the firewall bulkhead
+                       Angle, F-1004K-L Center Section Side Plate, and F-1042-L Bulkhead Side Channel to the F-1072                      assembly. Place blocks between the work surface and the four corners of the firewall bulkhead. The blocks must be at least 3
+  Fwd Fuse Bottom Skin as shown in Figure 1.                                                                                             inches thick to keep the weight from resting on the cabin heat selector boxes.
+
+   Cleco the subassembly of the F-1043A-R Fwd Fuselage Bulkhead, F-1043C-R Attach Angle, F-1004K-R Center Section                        Inserting clecos from the bottom up, cleco the fwd fuse bottom skin to the flanges of the fwd fuselage ribs and to the bottom
+   Side Plate, and F-1042-R Bulkhead Side Channel to the F-1072 Fwd Fuse Bottom Skin as shown in Figure 1.                               flange of the firewall bulkhead assembly.
+
+   Cleco the aft tabs of the F-1049A-L & R, F-1049B-L & R, and F-1049C-L & R Fwd Fuselage Floor Ribs to the fwd                          Use a "Sharpie" pen to trace the shape of the elliptical holes in the
+   fuselage bulkheads. See Figure 1.                                                                                                     fwd fuse bottom skin onto the bottom flange of the F-1004K-L and
+                                                                                                                                                                                                                                                    FIREWALL BULKHEAD
+                                                                                                                                         F-1004K-R Center Section Side Plates. See Figure 1 and Figure 3.
+                                                                                                                                                                                                                                                        ASSEMBLY
+  Final-Drill #30 the aft tabs of the fwd fuselage floor ribs to the fuselage bulkheads.
+                                                                                                                                         Final-Drill #40 all holes common the the fwd fuse bottom skin
+       F-1004K-L                                                                                                                         and the fwd fuselage ribs, firewall bulkhead assembly,
+                                                                                                                                         center section side plates, F-1043A-L & R Fwd
+                                                                             F-1049C-L                                                   Fuselage Bulkheads, and F-1084A-L & R Systems
+                                                                                                     F-1049B-L                           Brackets. See Figure 3.
+                                         F-1042-L
+                                                                 F-1043C-R
+                                                     F-1043C-L
+
+                                         F-1043A-L
+
+                                                                                                                            F-1049A-R
+
+                                                                                                                                 F-1049B-R
+                                                                                      F-1049A-L
+                                                                                       F-1043A-R
+
+
+
+                                                                                                                               F-1049C-R                                                           F-1048-R
+                                                                                                                                                                                       F-1048-L
+
+
+           F-1084A-L                                                                                                             F-1004K-L
+
+
+
+                       F-1072                                                                                    F-1042-R
+                                                                                                                                                                  F-1043A-L
+
+
+                                                 F-1084A-R
+                                                                                                      F-1004K-R
+                 FIGURE 1: CLECO F-1043A,
+              F-1004K, AND F-1084A TO F-1072                                                                                                                                                             F-1043C-R
+
+
+
+                                                                                                                                                                                                                 F-1043A-R
+                                                                                                 F-1084B
+  Step 2: Break apart the two F-1084 Systems
+  Brackets into individual F-1084A-L, F-1084A-R, and
+  F-1084B brackets as shown in Figure 2.
+
+  Cleco the F-1084A-L and F-1084A-R Systems                                                                                             F-1084A-L
+  Brackets to the F-1072 Fwd Fuse Bottom Skin and            F-1084A-R
+  F-1043A-L and F-1043A-R Fwd Fuselage
+  Bulkheads as shown in Figure 1. Do not insert a                                                                                                   F-1072
+  cleco into the single hole in the aft tab of the
+                                                                                     F-1084A-L
+  systems brackets.
+                                                                                                                                                                           F-1043C-L
+                                                                       FIGURE 2:                                                                                                 F-1084A-R                                    F-1004K-R
+                                                             BREAK APART SYSTEMS BRACKETS                                        FIGURE 3: ADD FIREWALL BULKHEAD
+                                                                                                                                ASSEMBLY TO FWD FUSE BOTTOM SKIN
+PAGE   28-6        RV-10   REVISION: 0    DATE: 07/24/14
+Step 1: Tip the Forward Fuselage assembly down to be oriented as shown in Figure 1.                                                    Step 3: Uncleco the F-1050-L and F-1050-R Fwd Cabin Floor Panels.
+                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+                                                                                                                                       See Figure 1.
+Final-Drill #30 the holes common to the F-1001A Firewall Bulkhead and the forward tabs of the F-1049A-L & R,
+F-1049B-L & R, F-1049C-L & R, and F-1049D-L & R Fwd Fuselage Floor Ribs. See Page 28-5, Figure 2.                                      Final-Drill #40 the nutplate attach holes and #19 the nutplate screw holes in the fwd cabin floor panels.
+                                                                                                                                       See Figure 2.
+Step 2: Cleco the F-1050-L and F-1050-R Fwd Cabin Floor Panels to the F-1048-L & R Fwd Fuselage Ribs, F-1043A-L                                                                          AN426AD3-3.5,
+& R Fwd Fuselage Bulkheads, F-1001C Firewall Lower Channel, and the F-1049A-L & R, F-1049B-L & R, F-1049C-L &                                                                              6 PLACES
+R, and F-1049D-L & R Fwd Fuselage Floor Ribs. See Figure 1. The forward end of the fwd cabin floor panel slips
+UNDER the firewall lower channel.                                                                                                                                                                                     K1000-08,
+                                                                                                                                                                                                                      3 PLACES
+Final-Drill #30 all holes common to the fwd cabin floor panels and fwd fuselage floor ribs, fwd fuselage bulkheads,
+firewall bulkhead, and fwd fuselage ribs.
+
+                                   SEE
+                                FIGURE 2
+                                                                                                                          F-1001A
+
+
+
+
+                                                                                                                                                               FIGURE 2: FWD CABIN FLOOR PANEL NUTPLATE INSTALLATION
+
+                                                                                                                                                      Step 4: Deburr all edges and final-drilled holes in the F-1050-L and F-1050-R Fwd Cabin Floor Panels.
+
+                                                            F-1048-R                                                                                  Dimple the nutplate attach holes in the fwd cabin floor panels. See Figure 2.
+           F-1050-L                                   F-1048-L
+                                                                                                                                                      Dimple the holes in the fwd cabin floor panels as called-out in Figure 3.
+
+
+
+
+       F-1043A-L
+
+
+
+
+                                                                                                                                                                                                          DIMPLE
+                                                                                                                                 F-1001C
+
+
+
+                                                                                                                      F-1050-R
+
+
+
+
+             FIGURE 1: FINAL-DRILL                                                             F-1043A-R                                                                                                             DIMPLE
+           FWD CABIN FLOOR PANELS
+   (NOTE: SOME PARTS OMITTED FOR CLARITY)
+                                                                                                                                                                      FIGURE 3: FWD CABIN FLOOR PANEL DIMPLE DIAGRAM
+                                                                                                                                                                           (NOTE: PART SHOWN FLAT FOR CLARITY)
+
+                                                                                                                                                                                                                            DATE: 07/24/14 REVISION: 0   RV-10   PAGE   28-7
+                       VAN'S AIRCRAFT, INC.                                                                             Step 5: Attach the Fwd Center Section Bulkhead Assembly to the F-1048-L & R Fwd Fuselage Ribs
+                         Step 1: Remove the F-1004K-L & R Center Section Side Plates and F-1042-L & R Bulkhead Side     using bolts and clecos as shown in Figure 2.
+                         Channels from the F-1043A-L & R Fwd Fuselage Bulkheads and F-1072 Fwd Fuse Bottom Skin.
+
+  Remove the F-1084A-L & R Systems Brackets from the fwd fuse bottom skin.
+                                                                                                                                               FWD CENTER SECTION
+  Step 2: Trim the bottom flanges of the F-1004K-L & R Center Section Side                                                                     BULKHEAD ASSEMBLY
+  Plates to match the elliptical holes in the F-1072 Fwd Fuse Bottom Skin.                                                                                                   F-1048-R
+                                                                                                                                                   AN365-1032,
+   Step 3: Cleco the aft flanges of the F-1048-L & R Fwd Fuselage Ribs to the                                                                       4 PLACES           F-1048-L
+   web of the Fwd Center Section Bulkhead Assembly as shown in Figure 1.
+                                                                                                                                                   AN960-10,
+                                                                                                                                                   4 PLACES
+  Match-Drill #12 through the Fwd Center Section Bulkhead Assembly into the aft flanges
+  of the fwd fuselage ribs 4 places as shown in Figure 1.
+
+  Final-Drill #30 through the Fwd Center Section Bulkhead Assembly and
+  fwd fuselage ribs 12 places as shown in Figure 1.
+
+  Step 4: Uncleco the Fwd Center Section Bulkhead Assembly from the
+  F-1048-L & R Fwd Fuselage Ribs. Deburr the holes in all parts that
+  were drilled in the previous step.
+
+
+                                                                                 F-1048-R
+        FWD CENTER SECTION
+                                                                         F-1048-L
+        BULKHEAD ASSEMBLY                                                                                                              AN3-14A,
+                                                                                                                                      4 PLACES
+
+
+                                                                                                                                     CLECO WEB OF
+                                                                                                                                 FWD CENTER SECTION
+                                                                                                                                  BULKHEAD ASSEMBLY
+                                                                                                                               TO FLANGES OF F-1048-L & R
+
+
+
+
+                                                                                                                       FIGURE 2: BOLT FWD CENTER SECTION BULKHEAD ASSEMBLY
+                                                                                                                                        TO FWD FUSELAGE RIBS
+
+                                                                                FINAL-DRILL
+                                                                                    #30
+
+                MATCH-DRILL
+                    #12
+
+                                                                                                              F-1072
+                      FIGURE 1:
+               MATE FWD CENTER SECTION
+                BULKHEAD ASSEMBLY TO
+                  FWD FUSELAGE RIBS
+
+
+
+
+PAGE   28-8    RV-10      REVISION: 0   DATE: 07/24/14
+Step 1: Mate the Mid Fuselage Assembly to the Forward Fuselage Assembly as shown in Figure 1. The F-1076 Center Bottom
+                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+Skin (part of the Mid Fuselage Assembly) fits BETWEEN the Fwd Center Section Bulkhead Assembly and the F-1072 Fwd Fuse                           Step 2: Final-Drill #40 the holes common to the F-1076 Center Bottom Skin, Fwd
+Bottom Skin as shown in Figure 2.                                                                                                                Center Section Bulkhead Assembly, and F-1072 Fwd Fuse Bottom Skin. Note that
+                                                                                                                                                 at four locations the aft tabs of the F-1084A-L & R Systems Brackets will have been final-drilled.
+Cleco together the center bottom skin, Fwd Center Section Bulkhead Assembly, and fwd fuse bottom skin.
+                                                                                                                                                 Final-Drill #40 the holes common to the fwd fuse bottom skin, center bottom skin, and Aft Center
+Cleco together the fwd fuse bottom skin, center bottom skin, and Aft Center Section Bulkhead Assembly.                                           Section Bulkhead Assembly.
+Cleco the F-1004K-L & R Center Section Side Plates to the Aft Center Section Bulkhead Assembly,                                                  Final-Drill #40 the holes common to the F-1004K-L & R Center Section Side Plates to the Aft Center
+Fwd Center Section Assembly, and fwd fuse bottom skin as shown in Figure 1.                                                                      Section Bulkhead Assembly and Fwd Center Section Bulkhead Assembly.
+Cleco the F-1084A-L & R Systems
+Brackets to the fwd fuse bottom
+                                          F-1004K-L
+skin and Fwd Center Section
+Bulkhead Assembly as
+shown in Figure 1.
+
+
+
+
+                                                             F-1084A-L                                                                                                                                          FWD CENTER SECTION
+                                                                                                                                                                                                                BULKHEAD ASSEMBLY
+
+                                                                                                                                                                            AFT CENTER SECTION
+                                                                                                                                                                            BULKHEAD ASSEMBLY
+                                                                                       F-1084A-R
+
+
+  AFT CENTER SECTION
+  BULKHEAD ASSEMBLY                                                                                                    F-1004K-R
+
+
+
+
+                                                                                                                                      SEE
+                                                                             F-1072
+                                                                                                                                   FIGURE 2
+
+
+
+
+                                                                                                                            FWD CENTER SECTION
+                                                                                                                            BULKHEAD ASSEMBLY
+
+                                                                                                               13X F-1004-SPCR-125                                                                                                    F-1072
+                                                                                                              PLUS F-1004-SPCR-063,                                                  F-1076
+                                                                                                                     4 PLACES
+                                                                                         SEE
+                                                                                      FIGURE 2           SEE PAGE 44-11 FIG FOR
+                                                                                                          HARDWARE CALL-OUT                                                                       FIGURE 2: SKIN OVERLAP DETAIL
+                                                                                                                                   FIGURE 1:
+                                                                                                                         MATE MID FUSELAGE ASSEMBLY
+                                                                                                                        TO FORWARD FUSELAGE ASSEMBLY
+                                                                                                                                                                                                         DATE: 07/24/14 REVISION: 0   RV-10      PAGE   28-9
+                        VAN'S AIRCRAFT, INC.                                             Step 6 (continued): Machine countersink the nutplate attach holes in the web of the      Step 11: Dimple all #40 holes in all F-1049 Fwd Fuselage Floor Ribs.
+                       Step 1: Remove the F-1004K-L & R Center Section Side Plates.      fwd fuselage bulkheads to fit the head of an AN426AD3 rivet. See Figure 1.
+                                                                                                                                                                                  Dimple all #30 holes in the fwd fuselage floor ribs EXCEPT the holes in the forward
+  Machine countersink the holes on the bottom flange of the center section side plates   Deburr all holes and edges.                                                              and aft tabs and the most forward hole in the upper flange. See Page 28-5, Figure 2.
+  to fit a piece of .040 skin that has been dimpled for an AN426AD3 rivet.
+                                                                                         Step 7: Locate the F-1043B-L & R Fwd Fuselage Bulkheads.                                 Step 12: Remove the F-1072 Fwd Bottom Skin from the F-1048 Fwd Fuselage Ribs.
+  Deburr all final-drilled holes in the center section side plates.                                                                                                               See Page 28-6, Figure 3.
+                                                                                         Machine countersink the nutplate attach holes in the web of the fwd fuselage
+   Step 2: Remove the F-1084A-L & R Systems Brackets.                                        bulkheads to fit the head of an AN426AD3 rivet. See Figure 2.                        Remove the F-1048D Fuel Filter Brackets and VA-188 Flo-Scan Mount Bracket from
+                                                                                                                                                                                  the fwd bottom skin.
+  Deburr all holes and edges.                                                                        Deburr all edges and holes.
+                                                                                                                                                                                  Final-Drill #40 the nutplate attach holes in the flo-scan mount bracket. Final-Drill #12
+  Dimple all rivet holes EXCEPT the single hole in each of                                                                                                                        and 1/4 the nutplate screw holes in the flo-scan mount bracket. See Figure 3.
+  the "tabs" at each end of the systems brackets.
+                                                                                                                                                                                  Machine countersink the fuel filter brackets to fit a piece of .040 skin dimpled for an
+   Step 3: Un-cleco the F-1076 Center Bottom Skin, Fwd Center                                                                                                                     AN426AD3 rivet.
+   Section Bulkhead Assembly, Aft Center Section Bulkhead
+   Assembly, and F-1072 Fwd Fuse Bottom Skin.                                                                                                                                     Deburr holes and edges of the fuel filter brackets and flo-scan mount bracket
+
+   Separate the Mid Fuselage Assembly from the Forward Fuselage Assembly.                                                                      K1000-08,                          Dimple the rivet holes in the flo-scan mount bracket. See Figure 3.
+                                                                                                                                               4 PLACES
+  Step 4: Deburr and dimple the holes along the forward edge of the F-1076 Center
+  Bottom Skin.
+                                                                                                                                                                                              AN426AD3-3.5,
+  Step 5: Remove the Fwd Center Section Bulkhead Assembly from the F-1048 Fwd                                                                                                                   4 PLACES
+  Fuselage Ribs.
+
+  Machine countersink the holes on the bottom flange of the Fwd Center Section                                       AN426AD3-4,
+  Bulkhead Assembly to fit a piece of .032 skin that has been dimpled for an AN426AD3                                 8 PLACES
+  rivet.                                                                                                                                                                                                                                           VA-188
+
+  Deburr all holes in the Fwd Center Section Bulkhead Assembly that have been                                                                                                                   K1000-3,
+  final-drilled.                                                                                                                                                                              2 PLACES
+                                                                                                                                                                                                                                                     MK1000-428
+                                                                                         FIGURE 2: F-1043B-L NUTPLATE INSTALLATION                                                 (FOR FLO-SCAN ONLY)
+                                                                                                                                                                                                                                                     2 PLACES
+   Step 6: Remove the F-1043A-L & R Fwd Fuselage Bulkheads.                                                                                                                                                                                          (FOR FT-60 ONLY)
+  Machine countersink the holes on the bottom flange of the fwd fuselage bulkheads to    Step 8: Remove the F-1049C-L & R Fwd Fuselage Floor Ribs. See Page 28-5, Figure                       FIGURE 3: FLO-SCAN MOUNT BRACKET
+  fit a piece of .040 skin that has been dimpled for an AN426AD3 rivet.                  2.
+                                                                                                                                                                                                    NUTPLATE INSTALLATION
+               Machine countersink the holes called-out in Figure 1 to fit the head      Final-Drill #40 the row of holes nearest the web in the flange with two rows of holes.
+                 of an AN426AD4 rivet.
+                                                                                                                                                                                  Step 13: Deburr holes and edges of the F-1072 Fwd Bottom Skin.
+                                                                                         Deburr all holes and edges.
+                                                                                                                                                                                  Dimple all holes.
+                                                                                         Step 9: Remove the F-1049A-L & R and F-1049B-L & R Fwd Fuselage Floor Ribs.
+                                               K1000-08                                  See Page 28-5, Figure 2.                                                                 Step 14: Prime the following parts if/as desired:
+
+                                                                                         Deburr all holes and edges.                                                              F-1004K-L & R Center Section Side Plates
+          MACHINE
+        COUNTERSINK                                                   K1000-08           Step 10: Final-Drill #30 the aft flange of the F-1049D-L & R Fwd Fuselage Floor Ribs     F-1043A-L & R and F-1043B-L & R Fwd Fuselage Bulkheads
+        THIS SIDE FOR                                                                    to the web of the F-1048-L & R Fwd Fuselage Ribs.
+       AN426AD4 RIVET                                                                                                                                                             F-1043D-L & R Cover Panels
+                                                                                         Remove the fwd fuselage floor ribs.
+               K1000-3
+                                                                                                                                                                                  F-1048D Fuel Filter Brackets
+                                                                                         Deburr all holes and edges.
+                                            AN426AD3-4,                                                                                                                           F-1049A-L & R, F-1049B-L & R, F-1049C-L & R, and F-1049D-L & R Fwd Fuselage
+                                             10 PLACES                                                                                                                            Floor Ribs
+                                                             MACHINE
+                                                                                                                                                                                  F-1050-L & R Fwd Cabin Floor Panels
+                                                           COUNTERSINK
+                                                           THIS SIDE FOR
+                                                                                                                                                                                  F-1072 Fwd Bottom Skin
+                                                          AN426AD4 RIVET
+                                                                                                                                                                                  F-1084A-L & R and F-1084B Systems Brackets
+               FIGURE 1: F-1043A-L NUTPLATE INSTALLATION
+                                                                                                                                                                                  VA-188 Flo-Scan Mount Bracket
+PAGE   28-10    RV-10      REVISION: 0   DATE: 07/24/14
+Step 1: Dimple the nutplates that will be installed to the VA-188 Flo Scan Mount Bracket. Rivet nutplates to the flo scan mount
+                                                                                                                                                                                                               VAN'S AIRCRAFT, INC.
+bracket as shown on Page 28-10, Figure 3.                                                                                         Step 5: Rivet the Outbd Fwd Seat Rail Support - Left and one of the Inbd Fwd Seat
+                                                                                                                                  Rail Supports to the F-1043A-L Fwd Fuselage Bulkhead as shown in Figure 2.
+Step 2: Rivet nutplates to the F-1043A-L & R Fwd Fuselage Bulkheads as shown on Page 28-10, Figure 1.
+                                                                                                                                  Similarly, rivet the Outbd Fwd Seat Rail Support - Right and the remaining Inbd Fwd Seat Rail Support to the F-1043A-R Fwd
+Step 3: Rivet nutplates to the F-1043B-L & R Fwd Fuselage Bulkheads as shown on Page 28-10, Figure 2.                             Fuselage Bulkhead.
+Step 4: Rivet the F-1043C-L Attach Angle to the F-1048-L Forward Fuselage Rib as shown in Figure 1.
+
+Similarly, rivet the F-1043C-R Attach Angle to the F-1048-R Forward Fuselage Rib.
+
+
+
+                                                                                                                                                                                     OUTBD FWD SEAT
+                                                                                                                                                                                    RAIL SUPPORT - LEFT
+
+
+                                                                                                                                                                                    AN426AD4-5
+
+
+                                                                                                                                                                                                      INBD FWD SEAT
+                                                                                                                                                                                                       RAIL SUPPORT
+
+
+
+
+                                                                                             F-1048-R
+                                                                                                                                                                                                          F-1043A-L
+
+                       AN470AD4-5,
+                        11 PLACES
+
+                                                                                                                                                                                                                                                    AN426AD4-5
+                                                                                                                                                      AN470AD4-5
+
+
+
+
+                                             F-1043C-L
+
+                                                                                  F-1048-L
+                                                                                                                                                                FIGURE 2: RIVET FWD SEAT RAIL SUPPORTS
+                      FIGURE 1: RIVET F-1043C-L & R TO F-1048-L & R                                                                                                  TO FWD FUSELAGE BULKHEAD
+
+
+                                                                                                                                  Step 6: Rivet the F-1049A-L & R, F-1049B-L & R, F-1049C-L & R, F-1049D-L & R Fwd Fuselage Floor Ribs, two F-1048D Fuel
+                                                                                                                                  Filter Brackets, and VA-188 Flo-Scan Mount Bracket to the F-1072 Fwd Fuse Bottom Skin as shown on Page 28-5, Figure 2. See
+                                                                                                                                  Page 28-12, Figure 2 for rivet call-outs.
+
+                                                                                                                                  Dimple the forward tabs of the fwd fuselage floor ribs.
+
+
+
+
+                                                                                                                                                                                                                      DATE:07/24/14 REVISION: 1   RV-10    PAGE   28-11
+                      VAN'S AIRCRAFT, INC.
+                      Step 1: Rivet the F-1043A-L and F-1043A-R Fwd Fuselage
+                      Bulkheads to the F-1072 Fwd Fuse Bottom Skin as shown in
+   Figure 1. See Figure 2 for rivet call-outs.                                            LEAVE OPEN FOR
+                                                                                           COWL SUPPORT
+   Note that Figure 1 calls out "DO NOT RIVET" in four locations.                     (LYCOMING ENGINES)
+
+   Step 2: Rivet the aft tabs of the F-1049A-L and F-1049B-L Fwd Fuselage Floor Ribs to
+   the F-1043A-L Fwd Fuselage Bulkhead as shown in Figure 1.
+
+   Rivet the aft tabs of the F-1049A-R and F-1049B-R Fwd Fuselage Floor Ribs to the
+   F-1043A-R Fwd Fuselage Bulkhead as shown in Figure 1.
+
+
+
+
+                                                                          F-1049A-L
+                                                                    F-1049B-L
+
+                                                        F-1043A-L
+
+
+                                                                                                                             AN426AD3-5
+                                                                                                                             AN426AD3-4.5                 DOUBLE
+                                                                                                                             AN426AD3-4                    FLUSH
+                                                                                                                 F-1049B-R                  LEAVE OPEN   7 PLACES
+                                                                                                                             AN426AD3-3.5
+                                                                                              F-1043A-R    F-1049A-R
+                            AN470AD4-5,
+                             4 PLACES                                                                                                             FIGURE 2:
+                                                                                                                                      FWD FUSE BOTTOM SKIN RIVET DIAGRAM
+
+                                       DO NOT
+                                        RIVET
+
+
+
+
+                                                                                AN470AD4-5,
+                                                                                 4 PLACES
+
+                             F-1072
+
+
+
+
+                                                                                                           DO NOT
+                                                                                                            RIVET
+         FIGURE 1: RIVET FWD FUSELAGE BULKHEADS
+                 TO FWD FUSE BOTTOM SKIN
+
+
+PAGE   28-12   RV-10     REVISION: 0   DATE: 08/09/16
+Step 1: Rivet the F-1084A-L and F-1084A-R Systems Brackets to the F-1072 Fwd Fuse Bottom Skin and F-1043A-L and
+                                                                                                                                                                                                                     VAN'S AIRCRAFT, INC.
+F-1043A-R Fwd Fuselage Bulkheads as shown on Page 28-6, Figures 1 and 3.                                                         Step 3: Bolt the Fwd Center Section Bulkhead Assembly to the F-1048-L & R Fwd Fuselage Ribs as shown in Figure 2.
+Leave the aft three holes in each systems bracket unriveted for now. (These rivets will be installed after mating the Forward    Rivet the web of the Fwd Center Section Bulkhead Assembly to the fwd fuselage ribs as shown in Figure 2.
+Fuselage and Mid Fuselage Assemblies.)
+
+See Page 28-12, Figure 2 for rivet call-outs.
+                                                                                                                                                                                 FWD CENTER SECTION
+Step 2: It is recommended to use a thin layer of Pro-Seal between the firewall flanges and the fuselage skins.                                                                   BULKHEAD ASSEMBLY
+                                                                                                                                                                                                                         F-1048-R
+Apply Pro-Seal to the lower flange of the F-1001A Firewall Bulkhead then                                                                                                                    AN365-1032,           F-1048-L
+cleco the Firewall Assembly to the F-1072 Fwd Fuse Bottom Skin                                                                                                                                4 PLACES
+as shown in Figure 1.
+                                                                                                                                                                                           AN960-10,
+                                                                                                                                                                                           4 PLACES
+Rivet the flanges of the F-1048-L and F-1048-R Fwd Fuselage
+Ribs to the fwd fuse bottom skin. Leave the aft three holes in
+each fwd fuselage rib unriveted for now. (These rivets will be
+installed after mating the Forward Fuselage and Mid Fuselage
+Assemblies.) See Page 28-12, Figure 2 for rivet call-outs.
+
+Rivet the F-1043C-R Attach Angle to the F-1043A-R Fwd Fuselage
+Bulkhead as shown in Figure 1. Rivet the F-1043C-L Attach Angle
+to the F-1043A-L Fwd Fuselage Bulkhead.
+
+Rivet the aft tabs of the F-1049D-L and F-1049D-R Fwd Fuselage
+Floor Ribs to the webs of the fwd fuselage ribs as shown in Figure 1.
+
+Rivet the forward tabs of all the F-1049 Fwd Fuselage Floor Ribs
+to the firewall bulkhead using the rivets called-out on Page 27-5,
+Figure1.
+                                                                                                                                                                          AN3-14A,
+Rivet the lower flange of the firewall bulkhead to the fwd fuselage                                                                                                      4 PLACES
+bottom skin EXCEPT leave the five most outboard holes on each
+side unriveted for now. (These rivets will be installed
+later when attaching the cowl attach hinges.)            F-1048-R                                                                                                                     AN470AD4-5,
+                                                                                                                                                                                       12 PLACES
+                                          F-1048-L
+
+                                 AN470AD4-5,                                                                                                                           FIGURE 2:
+                                    4 PL
+                                                                                                                                                              ATTACH FWD CENTER SECTION
+                                                                          F-1043C-R
+                                                                                                                                                        BULKHEAD ASSEMBLY TO FWD FUSELAGE RIBS
+               F-1043A-L
+                                                                                                                                 F-1001A
+
+
+                                                                        F-1049D-L
+
+                                                                                        LP4-3,                                          Step 4: Mate the Mid Fuselage Assembly to the Fwd Fuselage Assembly as shown on Page 28-9, Figures 1 & 2.
+                                                                                         4 PL
+                                                                                                                                        Inserting bolts into the holes in the Fwd and Aft Center Section Bulkhead Assemblies and using the spacers between the Fwd
+                                                                                                                                        and Aft Center Section Bulkhead Assemblies ensures proper alignment of the center section bulkhead assemblies.
+
+
+                                                                                                                     F-1049D-R
+
+
+             F-1072
+
+
+
+
+                  FIGURE 1:
+          ADD FIREWALL ASSEMBLY TO                                                         F-1043A-R
+
+            FWD FUSE BOTTOM SKIN
+
+                                                                                                                                                                                                                          DATE: 07/24/14 REVISION: 0   RV-10    PAGE   28-13
+                      VAN'S AIRCRAFT, INC.                                                                                        Step 7: Bolt the F-1033-L Control Column Mount to the F-1043A-L and F-1043B-L Fwd Fuselage Bulkheads as shown in Figure 1.
+                     Step 1: Rivet the bottom flange of the Aft Center Section Bulkhead Assembly to the F-1076 Center Bottom
+                     Skin and F-1072 Fwd Fuse Bottom Skin. See Page 28-12, Figure 2 for rivet call-outs.                          Bolt the F-1033-R Control Column Mount to the F-1043A-R and F-1043B-R Fwd Fuselage Bulkheads.
+
+  Step 2: Rivet the open holes in the aft ends of the F-1048 Fwd Fuselage Ribs and F-1084A-L & R Systems Brackets to the          Step 8: Rivet the bottom flange of the F-1004K-L & R Center Section Side Plates to the F-1072 Fwd Fuse Bottom Skin. See Page
+  F-1072 Fwd Fuse Bottom Skin. See Page 28-12, Figure 2 for rivet call-outs.                                                      28-12, Figure 2 for rivet call-outs.
+
+  Step 3: Rivet the bottom flange of the Fwd Center Section Bulkhead Assembly to the F-1076 Center Bottom Skin and F-1072 Fwd     Step 9: Blind rivet the F-1043A-L Fwd Fuselage Bulkhead, forward flange of the F-1004K-L Center Section Side Plate, and F-1042-L
+  Fuse Bottom Skin. See Page 28-12, Figure 2 for rivet call-outs.                                                                 Bulkhead Side Channel as shown in Figure 1.
+
+   Step 4: Cleco the F-1004K-L & R Center Section Side Plates to the Fwd and Aft Center Section Bulkhead Assemblies. Cleco the    Blind rivet the F-1043A-R Fwd Fuselage Bulkhead, forward flange of the F-1004K-R Center Section Side Plate, and F-1042-R
+   center section side plates to the F-1072 Fwd Fuse Bottom Skin. See Page 28-9, Figure 1.                                        Bulkhead Side Channel.
+
+  Note that the forward flange of the center section side plates are FORWARD of the F-1043A-L & R Fwd Fuselage Bulkheads as       Step 10: Rivet the F-1043A-L Fwd Fuselage Bulkhead, forward flange of the F-1004K-L Center Section Side Plate, F-1042-L
+  shown on Page 28-4, Figure 2.                                                                                                   Bulkhead Side Channel, and the aft tab of the F-1049C-L Fwd Fuselage Floor Rib as shown in Figure 1. See Page 28-6, Figure 1.
+
+  Step 5: Cleco the F-1042-L & R Bulkhead Side Channels to the F-1004K-L & R Center Section Side Plates and F-1043A-L & R         Rivet the F-1043A-R Fwd Fuselage Bulkhead, forward flange of the F-1004K-R Center Section Side Plate, F-1042-R Bulkhead Side
+  Fwd Fuselage Bulkheads as shown in Figure 1 and Page 28-4, Figure 2.                                                            Channel, and the aft tab of the F-1049C-R Fwd Fuselage Floor Rib. See Page 28-6, Figure 1.
+
+   Step 6: Bolt the F-1043B-L & R Fwd Fuselage Bulkheads to the F-1043C-L & R Attach Angles, Inbd Fwd Seat Rail Supports,         Step 11: Rivet the forward flange of the F-1004K-L Center Section Side Plate, and F-1042-L Bulkhead Side Channel as shown in
+   Outbd Fwd Seat Rail Supports, and F-1042-L & R Bulkhead Side Channels as shown in Figure 1 and Page 28-4, Figure 2.            Figure 1.
+
+                                                                                                                                  Rivet the forward flange of the F-1004K-R Center Section Side Plate, and F-1042-R Bulkhead Side Channel.
+
+                                                                                                                                  Step 12: Fabricate two F-1067C Seat Floor Angles from AA6-063 X 3/4 X 3/4 as shown in Figure 2.
+                                                                   F-1042-L
+                                                                                                                                  Draw a "centerline" on each seat floor angle as shown in Figure 2. The "centerlines" are drawn on the outside surface, parallel to
+                                                                                                                                  the edges of the parts.
+
+
+                                 F-1004K-L                                                 AN3-6A,
+                                                                                          4 PLACES                                                                         17 29/32                                            (3/4)
+                                                                              F-1043B-L
+                                                                                                                                                                                                                                                      DRAW
+                                                                                                                                                                                                                                                      CENTERLINE
+                                                                     F-1049C-L                                                                                                                                                                        ON THIS SIDE
+                                   AN470AD4-5,                                                                                                                                                                                (3/4)
+                                    6 PLACES
+                                                                                                                                                   5/16
+
+
+                              AN470AD4-6,                                                                                                                                                                         F-1067C                    (1/16)
+                                                                                                                                 5/16                                         DRAW CENTERLINE
+                               4 PLACES
+
+
+
+                                                        LP4-3
+                                                                                                                                                   FIGURE 2: FABRICATE SEAT FLOOR ANGLE
+                                                    AN470AD4-7
+
+                                                                                                                                                                                                                                        FINAL-DRILL #19
+                                                                                                                                                                                                                                        ALL HOLES
+                                                                         F-1033-L
+                                                                     AN365-1032,
+                                                                                                                                  Step 13: Final-Drill #19 all the holes in the F-1067B Seat Floor
+                                                                      3 PLACES
+                                                                                                                                  Covers as shown in Figure 3.
+
+                                                                                                  AN960-10,                       Deburr the holes and edges of the seat floor covers.
+                                                                                                  4 PLACES
+                  F-1072
+
+
+
+                               FIGURE 1: INSTALL BULKHEAD SIDE CHANNEL, FWD
+                                                                                                                                                                                          F-1067B
+                             FUSELAGE BULKHEAD, AND CONTROL COLUMN MOUNT
+                                   (SOME PARTS NOT SHOWN FOR CLARITY)
+                                                                                                                                                                    FIGURE 3: SEAT FLOOR COVER
+PAGE   28-14   RV-10     REVISION: 0   DATE: 07/24/14
+Step 1: Break apart the F-1067A Seat Floors and F-1067D Seat                                            Step 3: Final-Drill #40 all nutplate attach holes in the F-1067A Seat Floors
+                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+Floor Attach Strips as shown in Figure 1.                                                               and F-1067D Seat Floor Attach Strips.
+
+File off the remnants of the "bridges" from the edges                                                   Machine countersink the nutplate attach holes in the seat floors and seat floor attach strips to fit the head of
+of each part and deburr all the edges of the                                                            an AN426AD3 rivet. See Figure 3.
+seat floors and seat floor attach strips.
+                                                                                                        Machine countersink the holes in the seat floors that are common to the seat floor attach strips and F-1067C Seat Floor Angles to fit
+Final-Drill #19 all the screw holes                                                                     the head of an AN426AD3 rivet. See Figure 3.
+in the seat floors and seat
+floor attach strips.
+
+
+
+
+                                                                                                             AN426AD3-4.5
+                                                                                                         TYP FOR F-1067C
+                                                                                                        & F-1067D ATTACH
+                                                                                                                                                                          F-1067A
+
+
+                                      F-1067A
+                                                                                              F-1067D
+                                                                                                                    F-1067D
+
+
+
+
+                            FIGURE 1: BREAK APART SEAT FLOOR AND SEAT FLOOR ATTACH STRIP
+
+
+                                                                                                                                                                                                                   K1000-08
+Step 2: Cleco one of the F-1067D Seat Floor Attach Strips to one of the                                                                                                                                            2X AN426AD3-4,
+F-1067A Seat Floors as shown in Figure 2. Figure 2 depicts a                                                                                 F-1067C
+                                                                                                                                                                                                                   TYP
+"left-side" seat floor configuration. Cleco the remaining seat
+floor attach strip to the remaining seat floor in a "right-
+side" configuration.
+
+Final-Drill #40 the holes common between
+the seat floors and seat floor attach strips.
+
+Cleco one of the F-1067C Seat Floor                                                                                                             FIGURE 3: SEAT FLOOR FINAL ASSEMBLY
+Angles to the "left" seat floor as
+shown in Figure 2. Cleco the                                              F-1067A
+remaining seat floor angle to
+the "right" seat floor.
+
+Align the centerlines drawn
+on the seat floor angles with                                                                               Step 4: Uncleco F-1067C Seat Floor Angles and F-1067D Seat Floor Attach Strips from the F-1067A Seat Floors.
+the holes punched in the
+seat floors and match-drill                                                                                 Deburr the holes and edges of the seat floors, seat floor angles, and seat floor attach strips.
+#40 the seat floor angles
+using the holes in the seat                                                                                 Prime the seat floor angles. Prime the seat floors, seat floor attach strips, and F-1067B Seat Floor Covers if/as desired.
+floors as a drill guide.
+                                                                                                            Step 5: Rivet the F-1067C Seat Floor Angles and F-1067D Seat Floor Attach Strips to the F-1067A Seat Floor as shown in
+                                         F-1067C                                                            Figure 3.
+
+                                                                                    F-1067D                 Rivet nutplates to the seat floors and seat floor attach strips as shown in Figure 3.
+
+                                                                                                            The two subassemblies created in this step will subsequently be referred to as Seat Floor
+                                                                                                            Assembly - Left and Seat Floor Assembly - Right.
+
+                                                                                                            Step 6: The Seat Floor Assembly - Left, Seat Floor Assembly - Right, and F-1067B Seat Floor Covers will not be installed at this
+                                                                                                            time. Set them aside until called for during later sections.
+                          FIGURE 2: MATE SEAT FLOOR ANGLE AND SEAT FLOOR
+                                     ATTACH STRIP TO SEAT FLOOR                                                                                                                               DATE: 07/24/14 REVISION: 0   RV-10    PAGE   28-15
+                       VAN'S AIRCRAFT, INC.
+
+                           Step 1: Trim the aft flanges of the F-1057-L and F-1057-R Mid Seat Rail Supports as shown in Figure 1.
+                           Final-Drill and machine countersink the 3/32 dia. nutplate attach holes as shown. Final-Drill #19 and
+                           deburr the screw attach holes.
+                                                                                                                                        Step 3: Cut to size two WD-1021P Shims from AS3-063 sheet stock as per the
+                                                                                                                                        dimensions shown in Figure 3.
+                           Final-Drill and deburr the 1/8 dia. rivet holes in each Mid Seat Rail Support. Final-Drill #12 as per the
+                           callout. Prime as desired.
+
+
+                                                           F-1057-R                             FINAL-DRILL #40
+                                 F-1057-L                                                       16 PLACES
+
+                                                                                                 FINAL-DRILL #30                                     1
+                                                                                                 18 PLACES
+
+                                        DRILL 1/8                                                 FINAL-DRILL #19
+                                                                                                  8 PLACES
+
+                                          TRIM                                                                                                                                             3 13/16
+                                                                                                  FINAL-DRILL #12
+                                                                                                  4 PLACES
+
+
+                                                                                                                                                             FIGURE 3: FABRICATE WD-1021P SHIMS
+                                                          3/16
+                                                                          1/2
+
+                                                 FIGURE 1: DRILL MID SEAT RAIL SUPPORTS
+
+
+                                                                                                                                       Step 4: Final-Drill as per the callout. Draw reference lines on the WD-1021-L and WD-1021-R Landing Gear
+               Step 2: Rivet the F-1057-L and F-1057-R Mid Seat Rail Supports together as shown in Figure 2.                           Mounts using the dimensions shown in Figure 4.
+
+               Rivet the nutplates to the underside of the upper flanges using a rivet squeezer. Repeat Steps 1 and 2 for
+               the second set of parts. The two subassemblies created in this step will subsequently be referred to as Mid             FINAL-DRILL #12
+               Seat Support Rails. These parts will not be installed at this time. Set them aside until after the gear legs               4 PLACES
+               have been fitted and drilled.
+                                                                                                                                                                                              DRAW
+                                                                           AN470AD4-5                                                                                WD-1021-L              REFERENCE
+                                                                           9 PLACES
+                                                                                                                                                                                              LINES                                          3/8
+
+
+                                                                                                    AN426AD3-4
+                                                                                                    16 PLACES
+
+
+
+
+                                                                                                                       MS21051-L08
+                                                                                                                       4 PLACES
+
+                                    F-1057-L
+                                                                                                                                                                                                                                            5/16
+                                                    F-1057-R
+                                                                                                                  K1000-08                                           FORWARD BRACE MOUNT PLATE
+                                                                                                                  4 PLACES
+
+
+                                                                                                                                                             FIGURE 4: DRAW REFERENCE LINES
+                                                 FIGURE 2: RIVET MID SEAT RAIL SUPPORTS
+
+
+PAGE   28-16   RV-10      REVISION: 0    DATE: 07/24/14
+Step 1: Temporarily reinstall the F-1050-L Forward Cabin Floor Panel as per Page 28-7, Figure 1.
+                                                                                                                                                                                                           VAN'S AIRCRAFT, INC.
+
+Draw a centerline through the existing forward cabin floor panel rivet holes so that it extends to the aft edge of the part as shown in Figure 1. This line will be used as a
+reference to aid in drilling through the Forward Brace Mount Plate.
+
+Temporarily install the landing gear mount using the hardware called out. Insert the WD-1021P Shim into the gap between the landing gear mount and the F-1004K-L Center
+Section Side Plate before tightening the bolts.
+                                                                                                                                                                                    Step 2: Match-Drill #30 then final-drill #12 the F-1004K-L Center Section
+Copy/transfer the rivet centerline from the forward cabin floor panel to the top surface of the forward brace mount plate so that it intersects the two existing reference lines.   Side Plate (not shown), WD-1021P Shim (not shown) and the WD-1021-L
+                                                                                                                                                                                    Landing Gear Mount (not shown) using the four pre-punched holes in the
+Drill through the forward brace mount plate, forward cabin floor panel, and F-1049C-L Forward Fuselage Floor Rib (not shown) at the two intersections of the centerline and         F-1069-L Forward Side Skin as a guide as shown in Figure 2.
+reference lines and as per the callouts in Figure 1.
+                                                                                                                                                                                    Remove the landing gear mount, shim, and forward side skin. Clean out
+                                                                                                                                                                                    the drill chips, deburr the parts and prime as desired.
+
+                                                                                                                                                                                    Remove the F-1050-L Forward Floor Panel and deburr the two #12 holes.
+
+                                  BEVEL CORNER                                                             F-1004K-L
+                                 OF F-1004C-L IF/AS
+                                 REQ'D TO INSTALL                                                                 WD-1021P
+                                   WD-1021-L-PC
+
+
+
+
+                      AN3-14A
+                    AN960-10L
+                    AN365-1032
+                     3 PLACES
+
+
+
+
+                   WD-1021-L-PC
+
+
+
+                      AN3-15A                                                                                                                                                                                                                 MATCH-DRILL #30
+                   2 X AN960-10L                                                                                                                                                                                                              FINAL-DRILL #12
+                    AN365-1032
+                     2 PLACES
+
+
+                                                                                                                                                                                                            F-1069-L
+
+
+
+
+                                                                                                                                                                                     FIGURE 2: MATCH-DRILL THROUGH SIDE SKIN
+
+
+
+                                                                                                            PILOT DRILL #30
+                                                                                                            FINAL-DRILL #12
+
+                                                                                                                    FORWARD BRACE
+                                                                                                                     MOUNT PLATE
+
+                                                                                             F-1050-L                               CENTERLINE
+
+
+
+                                                                     FIGURE 1: DRILLING THE LANDING GEAR MOUNT
+                                                                                                                                                                                                                 DATE: 07/24/14 REVISION: 0   RV-10     PAGE    28-17
+                    VAN'S AIRCRAFT, INC.
+
+
+
+
+                 Step 1: Match-Drill #40 the four nutplate rivet holes into the F-1049C-L Forward
+                 Floor Rib as shown in Figure 1. Temporarily hold the nutplates in place on the top
+                 of the forward floor rib using AN3 bolts while the holes are drilled. Match-Drill one
+                 rivet hole and cleco it before drilling the second.
+
+                 Dimple the rivet holes in the forward floor rib for the rivets called out. Rivet the
+                 nutplates into place.
+
+
+
+
+                                                                                          AN426AD3-3.5
+                                                                                          4 PLACES
+
+
+                                                                                                DRILL #40
+                                                                                                4 PLACES
+
+
+
+                                                                                                  F-1049C-L
+
+
+
+
+                                                                K1000-3
+                   F-1049B-L
+
+
+
+
+                                        FIGURE 1:
+                         INSTALL NUTPLATES IN FORWARD FLOOR RIB
+
+
+
+
+PAGE   28-18   RV-10   REVISION: 0   DATE: 07/24/14
+

@@ -1,0 +1,181 @@
+                                                             NOTE: This section describes the left wing installation. Repeat the steps on pages 2 through 11 for the right wing.
+
+                                                             Step 1: Cut apart the F-1099EFG-L Wing Root Fairing Support to make the F-1099E-L, F-1099F-L, F-1099G-L, and
+                                                             F-1099H-L Wing Root Fairing Supports as shown in Figure 1. Parts are shown flat prior to bending.
+
+
+
+
+               1
+ F-I 0 9 9 ~ - L                                                            F-1099F-L                       FIGURE 1: SEPARATE WING ROOT FAIRING SUPPORTS
+                                                             TRIM SHADED AREA
+                                                                                                                                                                                     Step 4: Install nine K1100-08 nutplates to the F-1076 Center Bottom Skin as
+                                                                                                                                                                                     shown in Figure 2. Final-Drill #40 , deburr and dimple the nutplate rivet holes and
+                                                                           Step 2: Flute the vertical flanges of the F-1099EIFIG and H-L Wing Root Fairing Supports iflas
+                                                                                                                                                                                     the nutplates. Final-Drill #19, deburr and dimple the 3/32 center screw holes to
+                                                                           required to make them follow the pattern of pre punched holes in the F-1069-L Fwd Side Skin and
+                                                                                                                                                                                     receive the F-1099B Lower Wing Root Fairing dimpled for an AN509-8R8 screw.
+                                                                           the F-1070-L Mid Side Skin as shown in Figure 2. Cleco them to the fuselage as shown in Figure
+                                                                                                                                                                                     Rivet the nutplates to the fuselage bottom skin as per the callouts.
+                                                                                                             Final-Drill #30 the holes common to the wing root fairing
+                                                                                                             supports to the fwd side skin and the mid side skin.                    Step 5: Final-Drill #40 and machine countersink the T-1001-L Fuel Tank Skin for
+                                                                                                                                                                                     the nutplate rivets as shown in Figure 3. Final-Drill #19, deburr and dimple the two
+                                                                                                             Remove all wing root fairing supports and deburr all the #30            #8 screw holes in the tank skin. Rivet the nutplates depicted to the tank skin as per
+                                                                                                             holes in the supports and to the fuselage side skins.                   the callouts.
+        FINAL-DRILL #30
+              9 PLACES                                                                                       Step 3: Bevel the lower corners of the F-1004A and F-1004B              Step 6: lnstall the VA-261 Fuel Strainer into the VA-141 Fuel Flange and tighten
+                                                                                                             Center-Section Bulkheads as well as the F-I 004F and F-1004H            as shown in Figure 3.
+                                                                                                             Center-Section Lower ForwardIAft Bars as per the detail in
+                                                                                                             Figure 2 to eliminate interference with the T-1001-L Fuel Tank
+
+
+
+
+                                                                                                                                                                               VA-26 1                              2 PLACES
+                                                                                                                                                                                                                                 \       DRILL #40
+                                                                                                                                                                                                                                         AN426AD3-3.5
+                                                                                                                                                                                                                                         4 PLACES
+
+
+                                                                                                                                                                              \              FIGURE 3: ATTACHING TANK SKIN NUTPLATES
+
+
+
+                                                                                                                                                                                                    Step 7: Fit the F-1099B Lower Wing Root Fairing to the wing
+                                                                                                                                                                                                    bending it by hand a little at a time to conform it to the shape of
+                                                                                                                                                                                                    the tank leading edge. This will be easier to do while the wings
+                                                                                                                                                                                                    are off the aircraft.
+
+
+                                                                                                                                                                                     U
+                                                                                                                                                              5 PLACES
+PAGE   44-2    1 RV-10 I   REVISION: 1   I   DATE: 6/23/08
+                                                                                                 Step 3: Insert a WD-1012 Control Stick into the WD-1011-L Left Control Stick Base. Adjust the
+                                                                                                 length of the F-I 064 Aileron Pushrod Assembly to obtain a neutral (vertical) control stick position.
+                   Step 1: Bolt the F-1064 Aileron Pushrod Assembly to the WD-1014
+                                                                                                 Tighten the jam nuts when adjustment is complete.
+                   Torque Tube Assembly as shown in Figure 1. There are two washers
+                   called-out; one washer is installed inside the torque tube clevis arm along
+                                                                                                 Step 4: Install the W-730 Bellcrank Jig in the right wing while leaving the first bellcrank jig in the left
+                   with the pushrod rod end bearing and the other washer is installed under
+                                                                                                 wing. Install the right side F-1064 Aileron Pushrod Assembly by adjusting its length as required to fit
+                   the nut.
+                                                                                                 between the WD-1011-R Right Control Stick Base and the WD-1014 Torque Tube Assembly. Since
+                                                                                                 the neutral control stick position was already determined for the left control stick the right side control
+                                                                                                 stick should already be vertical.
+
+                                                                                                 Sweep the control sticks through their full range of motion and check for interference.
+
+                                                                                                 Step 5: Position the fuel supply line near to the VA-261 Fuel Strainer fitting as shown in Figure 3. Mark the tube for cutting.
+                                                                                                 Leave enough material so that it will not be pre loaded when attached and remember to account for the flare.
+
+
+
+
+                                                                                                                                                                                                                                      - UNDERSIDE
+                                                                                                                  F-1069-L                                                                                                               OF WING TANK
+                                                                                                                  FUSELAGE
+                                                                                                                  SIDE SKIN
+                                                                                                                  (GROMMET
+                                                                                                                  NOT SHOWN)
+
+
+
+
+                                                                                                                                                                                                                                   FUEL SUPPLY LlNE
+                                              v                                                                                                                                                                                    SEE FIGURE 4.
+
+           FIGURE 1: ATTACH AILERON PUSHROD                                                                                                                                                                                        MARK END OF TUBE
+                                                                                                                                                                                                                                   HERE TO ENSURE
+                                                                                                                                                                                                                                   FLARE CAN BE MADE.
+
+
+Step 2: Rig the ailerons. Use the W-730 Bellcrank Jig to set the aileron actuation system
+(left wing shown) to its neutral position as shown in Figure 2. NOTE: It may not be
+necessary to remove the bellcrank t o aileron pushrod bolt. There should be enough
+thread protruding from the nut to allow the use of the bellcrank jig.
+
+
+
+
+                                                             W-730 FORWARD EDGE
+                                                             RESTING ON SPAR WEB
+
+
+                                                             W-730
+                                                             (REMOVE BEFORE                                                                                         FIGURE 3: MEASURE FUEL SUPPLY LINE
+                                                             FLIGHT)                                                                                                           (BOTTOM VIEW)
+
+
+
+                                                             SLIP W-730 ONTO
+                                                             EXPOSED THREAD
+
+
+
+                                                                                                                R1
+    FIGURE 2: INSTALL BELLCRANK JIG                                                                            2 PL.
+                                                                                                                                    FIGURE 4: FUEL SUPPLY LINE TEMPLATE
+                                                                                                                            Step 8: Cut the fuel supply line to the length marked earlier. Slide a coupling nut over the end of the
+                                                                                                                            tube followed by a coupling sleeve and flare the end of the tube as shown in Figure 2.
+
+          Step 1: Remove the F-Vent Line Fuselage Vent Line.
+
+          Disconnect the VA-256 Flap Pushrod.
+
+          Disconnect the F-1064 Aileron Pushrod.
+
+          Step 2: Unbolt and deburr the F-1054-L Tank Attach Angle. Prime iflas desired.
+
+          Step 3: Unbolt the rear spar from the F-1005B Rear Spar Attach Bars.
+
+          Step 4: Support the wing. Remove the drift pins from the wing sparkenter section and remove the wing.
+
+          Step 5: Deburr the hole in the rear spar and the holes F-1005B Rear Spar Attach Bars.                                                                                  FUEL LlNE
+
+
+                                                                                                                                    FIGURE 2: ASSEMBLE FUEL SUPPLY LINE
+
+
+          Step 6: Final-Drill #40 and machine countersink the T-1001-L Fuel Tank Skin for the
+          nutplate rivet attach holes as shown in Figure 1. Deburr and dimple the # I 9 screw
+                                                                                                                            Step 9: Install snap-bushings or equivalent for the pitot system entry points into the fuselage. These
+          holes in the tank skin. Rivet the nutplates to the fuel tank skin as per the callouts in                          positions are to be determined by the builder.
+          Figure 1.
+                                                                                                                            Step 10: Rivet the F-1099F-L and the F-1099G-L Wing Root Fairing Supports to the F-1069-L Forward
+          Step 7: Rivet the F-1054-L Tank Attach Angle to the T-1005-L Tank Attach Bracket as                               Side Skin and rivet the F-1099E-L and the F-1099H-L Wing Root Fairing Supports to the F-1070-L Mid
+          per the callouts in Figure 1.                                                                                     Side Skin using the rivets shown in the callouts in Figure 3.
+
+                                                                                                      MACHINE COUNTERSINK   Step 11: Rivet the three nutplates omitted on Page 44-9, Step 3 to the F-1099E-L Wing Root Fairing
+                                                                                                                            Support Angle as well as the one nutplate for the F-I 099F-L Wing Root Fairing Support Angle.
+
+
+
+
+                                                                                                     \'\, K1100-08
+                                                                                                         7 PLACES
+
+
+                                                                                                        AN470AD4-5
+                                                                                                        5 PLACES
+                       FIGURE 1:
+              ATTACH TANK SKIN NUTPLATES                                                                                    FIGURE 3: ATTACH WING ROOT FAIRING SUPPORTS
+
+PAGE   44- 10 RV-10 REVISION: 1         DATE: 6/23/08
+Step 1: Reinstall the rear spar attach hardware. See Page 44-3, Figure 3. Don't forget the cotter pin.           Step 5: Reinstall the VA-256 Flap Pushrod Assembly. See Page 44-5, Figure 2.
+
+
+Step 2: Reinstall the F-1054-L Tank Attach Angle hardware. See Page 44-3, Figure 4.                              Step 6: Reinstall the F-1099B Lower Wing Root Fairing. Five additional AN509-8R8 screws are
+                                                                                                                 required beyond those depicted on Page 44-6, Figures 1 and 2.
+
+Step 3: Reinstall the F-1064 Aileron Pushrod Assembly attach hardware. See Page 44-4, Figure 1.
+                                                                                                                 Step 7: Reinstall the F-Fuel Vent Fuselage Fuel Vent line. See Page 44-7, Figure 2.
+
+Step 4: Connect the fuel supply line to the VA-261 Fuel Strainer fitting using the hardware shown in Figure 1.
+                                                                                                                 Step 8: Permanently install the F-I 099C Wing Walk Spacer, gluing it to the top of the spar with RTV or
+                                                                                                                 Proseal. See Page 44-7, Figure 4.
+
+
+                                                                                                                 Step 9: Reinstall the F-1099A Upper Wing Root Fairing. Fifteen additional AN509-8R8 screws are
+                                                                                                                 required beyond those depicted on Page 44-9, Figure 1.
+

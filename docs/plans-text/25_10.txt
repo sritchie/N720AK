@@ -1,0 +1,541 @@
+                                                                                                                                                                     VAN'S AIRCRAFT, INC.
+
+                                                                       F-1004C-R
+                                                                                                            F-1004D-R
+                                                       CENTER SECTION BULKHEAD
+                                                                                                            CENTER SECTION BULKHEAD
+
+                                 F-1004P-L
+                            MID SEAT RAIL
+                                SUPPORT,
+                                 2 PLACES
+                                                               F-1004A
+                                                       CENTER SECTION
+                                                            BULKHEAD                                                     F-1004B
+                                                                                                                         CENTER SECTION
+                                                                                                                                                      SECTION 25:
+                                                                                                                                                       MID FUSE
+                                                                                                                         BULKHEAD
+                                                         F-1004P-R
+                                                         MID SEAT
+                                                         RAIL SUPPORT,
+                                                         2 PLACES
+
+
+
+
+                                                                                                                                                      BULKHEADS
+                                                               F-1004R-L                                            F-1004S-R
+                                                               AFT SEAT                                             AFT SEAT RAIL SUPPORT
+                                                          RAIL SUPPORT,
+         F-1004D-L                                             3 PLACES
+   CENTER SECTION
+        BULKHEAD
+                                 F-1004M
+      F-1004C-L               WEAR STRIP                                                                                                                  F-1005C-R
+CENTER SECTION                                                                                                                                            BULKHEAD SIDE CHANNEL
+     BULKHEAD
+
+                                                                                                   F-1004L                                                    F-1005B
+                                                                                                   CENTER SECTION                                             REAR SPAR
+                                                                                                   HAT STIFFENER,                                             ATTACH BAR,
+                                                                                                   2 PLACES                                                   2 PLACES
+                                                                                        F-1004R-R
+                                                                                        AFT SEAT RAIL SUPPORT,
+                                                                                        3 PLACES
+                                                                                                                                                                                          F-1034C-R
+                                                                                       F-1063B-L                                                                                          FUSELAGE BULKHEAD
+                                                                             IDLER ARM BRACKET
+                                                                              F-1005A
+                                                                  REAR SPAR BULKHEAD                                                      F-1005D
+                                                                                                                                          CROTCH STRAP LUG,
+                                                                         F-1005C-L                                                        4 PLACES
+                                                                         BULKHEAD
+                                                                         SIDE CHANNEL                                    F-1063B-R                                                  F-1034D-R
+                                                                                                                         IDLER ARM BRACKET                                          GUSSET
+
+
+
+
+                               F-1004S-L
+                               AFT SEAT RAIL SUPPORT
+
+
+             F-1004J
+             CENTER SECTION UPRIGHT BAR,
+             2 PLACES                                                                                                                            F-1034A
+                                                                                F-1034C-L                                                        FUSELAGE BULKHEAD
+         F-1004N                                                               FUSELAGE
+         STIFFENER ANGLE,                                                      BULKHEAD
+         2 PLACES
+
+
+
+
+                                                                                                             F-1034D-L
+                                                                                                             GUSSET
+
+                                                                                                                                                                            DATE: 07/24/14 REVISION: 1   RV-10   PAGE   25-1
+                        VAN'S AIRCRAFT, INC.                                                                                           Step 6: Cleco the F-1004P-L and -R Mid Seat Rail Supports together as shown in the exploded detail in Figure 4, forming two Mid
+                                                                                                                                       Seat Rail Support Subassemblies. Final-Drill #30 all holes common between the mid seat rail supports on both assemblies.
+
+                                                                                                                                       Step 7: There are four nutplate attach patterns in the upper flange on each F-1004P-L and -R Mid Seat Rail Support and three
+   Step 1: Create two F-1004N Stiffener Angles from AA6-063X3/4X3/4 per the dimensions given in Figure 1.                              nutplate attach patterns in the inboard flange of the F-1004C-L and -R Center Section Bulkheads, final-drill #19 all the screw holes
+                                                                                                                                       and #40 all the nutplate attach holes. Machine countersink the screw holes for the lower two nutplates in the inboard flange of the
+   Step 2: Mark a centerline on one outside face of each F-1004N Stiffener Angle, see Figure 2.                                        center section bulkheads for the head of an #8 screw (see Figure 4).
+
+                                                                                                                                       Step 8: Cleco the Mid Seat Rail Support Subassemblies and F-1004C-L and -R Center Section Bulkheads to the F-1004A Center
+                                                                                                                                       Section Bulkhead as shown in Figure 4. Final-Drill #30 all the holes common between the F-1004A Bulkhead and the mid seat rail
+                                                                                                                                       support subassemblies and F-1004C-L and -R Bulkheads.
+                                                                                                        CENTERLINE
+                                                                                                                                       Step 9: Match-Drill #12 the holes common between the F-1004A Center Section Bulkhead, F-1004E and F-1004F Center Section
+                                                                                                                                       Bars and the Mid Seat Rail Support Subassemblies using the holes in the center section as a drill guide. Final-Drill #12 the holes
+                                                                                                                                       common between the F-1004A Center Section Bulkhead, F-1004E and F-1004F Center Section Bars and the F-1004C-L and -R
+                                                                                                                                       Center Section Bulkheads. Mark both mid seat rail support subassemblies so they can be returned to the same positions.
+
+
+
+
+       FIGURE 1: CREATING STIFFENER ANGLES                           FIGURE 2: MARKING STIFFENER ANGLES                                                                                                                                           NUTPLATE ATTACH
+                                                                                                                                                                                                                                                  PATTERNS
+   Step 3: Clamp a F-1004N Stiffener Angle to the F-1004A Center Section Bulkhead as shown in Figure 3. Align the edge of the angle
+                                                                                                                                                        SNAP BUSHING
+   with the outboard edge of the bulkhead as shown in Figure 3. Center the centerline on the center hole common to both the bulkhead                                        F-1004P-R
+                                                                                                                                                        PILOT HOLE
+   and the stiffener angle. Clamp both parts together.
+                                                                                                                                                        ENLARGE TO 3/4 DIA.
+   Step 4: Match-Drill #30 and cleco the holes common to both the F-1004N Stiffener Angle and the F-1004A Center Section Bulkhead
+   using the center section bulkhead as a drill guide. Repeat this step for the remaining stiffener angle.                                              NUTPLATE ATTACH PATTERNS
+
+
+
+                                                                                                                                                         SNAP BUSHING HOLE
+                                                                                                                                                         ENLARGE TO 5/8 DIA.
+                                                                                                                            MACHINE
+                                                                                                                        COUNTERSINK
+                         F-1004A
+
+
+
+                                                                                                                                                                                                                                                         F-1004P-L
+
+
+                                                                                                                                                                                                                                                  SNAP BUSHING
+                                                                                                                                                                                                                                                  PILOT HOLE, 2 PLACES
+                                                                                                                                                                                                                                                  ENLARGE TO 3/4 DIA.
+                                                                                                                                                  F-1004C-R                                                                                      F-1004C-L
+                                                                                                                                                                                                                                                    MACHINE
+                                                                                                                                                    MID SEAT RAIL
+                                                                                                                                                                                                                                                    COUNTERSINK
+                                                                                       F-1004N                                                          SUPPORT
+                                                                                       (NOTE THAT THE ORIENTATION IS BACKWARDS                     SUBASSEMBLY,
+                                                                                       FROM THE INSTALLED DIRECTION TO MAKE                              2 PLACES                                                                                              F-1004E
+                                                                                       CLAMPING EASIER)
+                       ALIGN THESE
+                        TWO EDGES
+
+                                                                                                                                                                                                                                                               F-1004A
+                                 FIGURE 3: MATCH-DRILLING STIFFENER ANGLES                                                                                                                                                                                      F-1004F
+   Step 5: Remove the F-1004N Stiffener Angles from the F-1004A Center Section Bulkhead and deburr the edges on all parts.                                                     NUTPLATE ATTACH PATTERNS
+
+   Prime the stiffener angles.
+
+                                                                                                                                                       FIGURE 4: DRILLING THE FWD CENTER SECTION ASSEMBLY
+PAGE   25-2     RV-10      REVISION: 0   DATE: 07/24/14
+                                                                                                                                                                                                                         VAN'S AIRCRAFT, INC.
+Step 1: Check the dimension given in Figure 1. If the dimension on your center section is larger than that shown in Figure 1, remove
+the mid seat rail support subassemblies then remove the hatched areas as indicated in the blow up view in Figure 1. Start by             Step 4: Insert the F-Drill Bushing into one of the lower holes in the Fwd Center Section Bulkhead Assembly
+drilling #30 holes as shown in Figure 1, then carefully trim from the quadrants of the hole to the edge of the part.                     that will be match-drilled into the WD-1021-L-PC Landing Gear Mount Left. See callouts in Figure 3.
+                                                                                                                                         Match-Drill #30 a pilot hole into the landing gear mount using the F-drill bushing as a drill guide. Repeat this
+Remove the half moon area along the top edge of the center section. Be careful not to damage the spar bars.                              step to create the remaining holes in both landing gear mounts.
+
+If the F-1004A Center Section Bulkhead was trimmed deburr and prime the trimmed edge.                                                    Step 5: Remove the WD-1021-L and -R Landing Gear Mounts from the Fwd Center Section Bulkhead Assembly. Final-Drill #12 the
+                                                                                                                                         holes match-drilled #30 in Step 4.
+
+                                                                                                                                         Step 6: Temporarily bolt the WD-1021 Landing Gear Mounts to the Fwd Center Section Bulkhead Assembly and check that an AN3
+                                                                                                                                         Bolt will pass through all parts. Remove the landing gear mounts from the bulkhead assembly.
+                                                                                                       REMOVE
+                                                                     4 23/32                           HATCHED
+                            REMOVE                                                                                                       Step 7: Machine Countersink two places each side as
+                                                                     (3/8,                             AREA
+                           HATCHED                                                                                                       shown in Figure 3 to fit the head of a #10 screw.
+                                                                  2 PLACES)                                  #30,
+                              AREA
+                                                                                                             TYP.                        Step 8: Disassemble all the parts in the fwd center section
+                                                                             1/2                                                         bulkhead assembly and deburr all edges. Machine
+                                                                                                                                         countersink all the nutplate attach holes for the head
+                                                                                                                                         of an AN426AD3 rivet. Using a unibit, enlarge the snap
+                                                                                                                                         bushing holes in the F-1004C-L and -R Center Section
+                                                                                                                                         Bulkheads and F-1004A Center Section Bulkhead as
+                                                           R1                                                                            indicated in Page 25-2, Figure 4.
+                                                                                                                                         Prime parts if/as desired.
+
+
+
+
+                                                                                                                                                                                                                                        MACHINE
+                                                                                                                                            FWD CENTER SECTION                                                                          COUNTERSINK
+                                                                                                                                            BULKHEAD ASSEMBLY
+
+
+                                                                                                                                                                                                                                                      FINAL-DRILL #12
+
+
+
+
+                                                                                                                                                                                                                                                             WD-1021-L-PC
+
+
+         FIGURE 1: TRIMMING THE FWD CENTER SECTION BULKHEAD UPPER WEB                                                                                               F-DRILL BUSHING
+
+Step 2: Final-Drill #12 the holes in the upper flange of both WD-1021 Landing Gear Mounts as shown in Figure 3.
+
+Step 3: Temporarily bolt the WD-1021-L-PC Landing Gear Mount - Left to the Fwd Center Section Bulkhead Assembly as shown in
+Figure 3. This will require trimming the outboard portion of the fwd center section bulkhead lower flange to remove interference with
+the gear leg socket as shown in Figure 2. Figure 2 gives only the general idea of how the final trim will look and is not a final trim
+template. Trim the fwd center section bulkhead progressively using the landing gear mount-left as a guide. Repeat for the                                                                                                           MATCH-DRILL #30
+WD-1021-R-PC Landing Gear Mount - Right.                                                                                                                                                                                            USING F-DRILL BUSHING
+
+                                                                                                                                                                                                                                    FINAL-DRILL #12
+                                                                                                                                                                                                                                    WITH WD-1021-L-PC REMOVED
+                                                                                                 FWD CENTER SECTION BULKHEAD
+                                                                                                                                                                                                                                    FROM THE BULKHEAD ASSEMBLY
+                                                                                                 LOWER FLANGE
+                                                                                                                                                   FIGURE 3: MATCH-DRILLING THE LANDING GEAR MOUNT TO
+                                                                    REMOVE HATCHED AREA                                                              THE FORWARD CENTER SECTION BULKHEAD ASSEMBLY
+                                                                                                                                                   (SOME PARTS OF THE LANDING GEAR MOUNT ARE SHOWN
+      FIGURE 2: TRIMMING THE FWD CENTER SECTION BULKHEAD LOWER FLANGE                                                                                           TRANSPARENT FOR CLARITY)
+                                                                                                                                                                                                                               DATE: 07/24/14 REVISION: 2   RV-10   PAGE   25-3
+                       VAN'S AIRCRAFT, INC.
+
+
+
+   Step 1: Cleco the F-1004P-L and -R Mid Seat Rail Support together as shown in Figure 1. Rivet the
+   F-1004P-L and -R Mid Seat Rail Support together per the callouts in Figure 1. Repeat this step to create
+   two Mid Seat Rail Subassemblies.
+
+   Step 2: Cleco the nutplates onto the upper flanges of both mid seat rail support as shown in Figure 1.
+   Rivet the nutplates onto the upper flanges of the mid seat rail support as shown in Figure 1. Repeat this
+   step on both Mid Seat Rail Subassemblies.
+                                                                                                                                                  AN470AD4-5,
+                                                                                                                       SB750-10,                  5 PLACES
+                                                                                                                       4 PLACES
+
+                                                                                                                                                      F-1004N,
+                                                                      AN470AD4-5,                                                                     2 PLACES
+                                                                      17 PLACES
+
+                                                                               MS21051-L08,
+                                                                               2 PLACES PER F-1004P
+
+
+
+                                                                                K1000-08,
+                  AN426AD3-4,                                                   2 PLACES PER F-1004P
+       2 PLACES PER NUTPLATE                                                                                                                                       AN470AD4-5,
+                                                                                 F-1004P-L                                                                         6 PLACES
+                                                                                                           F-1004C-R
+
+
+                          F-1004P-R
+                                                                                                                                                                                                  AN3-14A,
+                                                                                                                                                                                                  8 PLACES
+
+                                                                                                                                                                                                AN426AD3-4,
+                                                                                                       MS24694S67,
+                                                                                                                                                                                                2 PLACES PER NUTPLATE
+                                                                                                         4 PLACES
+                                                                                                                           AN470AD4-5,
+                                                                                                                            36 PLACES
+                                FIGURE 1: RIVETING THE MID SEAT
+                                 RAIL SUPPORT SUBASSEMBLIES                                                              MID SEAT RAIL SUPPORT                                                     K1000-08,
+                                                                                                                                 SUBASSEMBLY,                                                      6 PLACES
+                                                                                                                                       2 PLACES
+   Step 3: Rivet the nutplates onto the inboard flange of the F-1004C-L and -R Center Section Bulkheads per
+   the callouts in Figure 2.
+                                                                                                                                                   SB625-7,
+   Step 4: Cleco the Mid Seat Rail Support Subassemblies, F-1004C-L and -R Center Section Bulkheads and                                           2 PLACES
+   F-1004N Stiffener Angles to the F-1004A Center Section Bulkhead.
+
+   Step 5: Bolt the Mid Seat Rail Support Subassemblies to the F-1004A Center Section Bulkhead per the                                                              AN960-10,
+   callouts in Figure 2. Install two screws on each side of the fwd center section assembly as shown in                                                             12 PLACES
+   Figure 2.                                                                                                                                                     AN365-1032,    F-1004A
+                                                                                                                                                                 12 PLACES AN470AD4-5,
+   Step 6: Rivet the Mid Seat Rail Support Subassemblies, F-1004C-L and -R Center Section Bulkheads and                                                                      36 PLACES
+   F-1004N Stiffener Angles to the F-1004A Center Section Bulkhead per the callouts in Figure 2.
+                                                                                                                                                                                    F-1004C-L
+   Step 7: Insert snap bushings into the F-1004C-L and -R Center Section Bulkheads per the callouts in
+   Figure 2.                                                                                                                                                                                              AN470AD4-5,
+                                                                                                                           FIGURE 2: RIVETING THE FWD CENTER SECTION BULKHEAD ASSEMBLY                      5 PLACES
+
+
+
+
+PAGE   25-4    RV-10      REVISION: 0   DATE: 07/24/14
+Step 1: Cleco the F-1004S-L and -R and the F-1004R-L and -R Aft Seat Rail Supports together as shown in Figure 1 and called out         Step 7: Align the F-1004J Center Section Upright Bars with the F-1004B
+                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+in Figure 2 to create four Aft Seat Rail Support Subassemblies. Final-Drill #30 all the holes common between both parts in all four     Center Section Bulkhead using two AN4 bolts. Final-Drill #30 the three 1/8 inch holes that attach both
+subassemblies. Final-Drill #40 the nutplate attach holes and #19 all the screw holes in the upper flanges of all the aft seat rail      center section upright bars to the center section bulkhead. Mark the upright bars forward side so they can
+supports.                                                                                                                               be returned to the same position.
+
+                                                                                                                                        Step 8: Disassemble the aft center section bulkhead assembly and deburr all edges. Enlarge the snap bushing pilot holes as
+                                                                                                                                        indicated in Figure 3 to 3/4 diameter. Machine countersink the all nutplate attach holes for the head of an AN426AD3 rivet. Machine
+                                                                                                                                        countersink the #30 holes on the forward side of the F-1004J Center Section Upright Bars for the head of an AN426AD4 rivet. Prime
+                                                                                                                                        the center section upright bars. Prime the remaining parts if/as desired.
+          MS21051-L08,
+     2 PLACES PER AFT                                                                                                                   Step 9: Cleco then rivet the four Aft Seat Rail Support Subassemblies together per the callouts in Figure 1. Rivet nutplates to the
+    SEAT RAIL SUPPORT                                                                                                                   upper flanges of the aft seat rail support subassemblies as shown in Figure 1.
+
+                                                                               AN470AD4-5,                                              Step 10: Reassemble the bulkhead per Step 4. Align the F-1004J Center Section Upright Bars with the F-1004B Center Section
+                                                                               15 PLACES                                                Bulkhead using two AN4 bolts.
+
+                                                                           AN426AD3-4,                                                  Step 11: Rivet the F-1004J Center Section Upright
+                K1000-08,                                                  2 PLACES PER NUTPLATE                                        Bars to the F-1004B Center Section Bulkhead per                                                                     F-1004D-R
+       1 PLACE PER AFT
+                                                                                                                                        the callouts in Figure 3.
+     SEAT RAIL SUPPORT
+
+                                                                      SEE FIGURE 3                                                                                                                                                                       SNAP BUSHING
+                                                                                                                                                                                                                                                         PILOT HOLE
+                                                                                                                                                                                              NUTPLATE
+                                                                                                                                                                                                ATTACH
+                                                                                                                                                                                                                                                            MACHINE
+                                                                                                                                                                                               PATTERN
+                                                  SEE FIGURE 3                                                                                                                                                                                              COUNTERSINK
+
+      FIGURE 1: TYPICAL AFT SEAT RAIL SUPPORT SUBASSEMBLY
+Step 2: Final-Drill #40 the nutplate attach holes and #19 the screw holes in the upper flange of the F-1004B Center Section
+Bulkhead and the inboard flanges of the F-1004D-L and -R Center Section Bulkheads. Machine countersink the screw holes for                                                                                                                                     F-1004S-R
+the lower two nutplates in the inboard flange of the center section bulkheads for the head of an #8 screw (see Figure 3).                                 MACHINE
+                                                                                                                                                          COUNTERSINK
+Step 3: Cut the F-1004L Hat Stiffener apart as shown in Figure 2 to form two F-1004L Hat Stiffeners. Trim the hatched area from
+either end of the hat stiffener as required to allow access to buck the rivets on the lower flange of the F-1004B Center Section
+Bulkhead.
+                                                                                                                     F-1004D-L
+
+                                         REMOVE THE HATCHED AREA,                                         SNAP BUSHING
+                                         2 PLACES                                                           PILOT HOLE,
+                                                                                                               2 PLACES
+                                                                REMOVE HATCHED AREA,
+                                                                2 PLACES                               NUTPLATE
+                                                                                                         ATTACH                                                                                                                       F-1004R-L
+                                                                                                        PATTERN
+
+                                                                          F-1004J,         F-1004G
+                                                                        2 PLACES
+                                                                                                                                                                                                                          F-1004R-R
+             FIGURE 2: HAT STIFFENER                                 AN426AD4-16,                                                                               F-1004L,
+Step 4: Cleco the Aft Seat Rail Support Subassemblies,                  6 PLACES,                                                                               2 PLACES                                              F-1004R-L
+F-1004D-L and -R Center Section Bulkheads and F-1004L              FLUSH HEAD ON
+                                                                                                                                                                       F-1004R-R                      F-1004R-R
+Center Section Hat Stiffeners to the F-1004B Center                     FWD SIDE
+Section Bulkhead.
+
+                                                                                 F-1004H                                                                                       F-1004R-L
+Step 5: Final-Drill #30 all holes common between the F-1004B Center
+Section Bulkhead and the Aft Seat Rail Support Subassemblies, F-1004D-L
+and -R Center Section Bulkheads and F-1004L Center Section Hat Stiffeners. Note that                                                                                                   FIGURE 3: AFT CENTER SECTION BULKHEAD ASSEMBLY
+only one flange of the center section hat stiffeners have holes and the other is blank.
+Match-Drill #30 the holes from the center section bulkhead into the hat stiffener.
+
+Step 6: Match-Drill #12 all holes common between the F-1004B Center Section                          F-1004B
+Bulkhead, F-1004G and F-1004H Center Section Bars and the Aft Seat Rail Support
+Subassemblies, F-1004D-L and -R Center Section Bulkheads and F-1004L Center
+Section Hat Stiffeners. Mark the seat rail support subassemblies so they can return to                                                F-1004S-L
+the same position.
+                                                                                                                                                                                                                            DATE: 07/24/14 REVISION: 0   RV-10      PAGE   25-5
+                       VAN'S AIRCRAFT, INC.
+                        Step 1: Rivet nutplates to the F-1004B, F-1004D-L and -R Center Section Bulkheads as shown in Figure 2.
+
+
+
+                                                         LEAVE OPEN
+                                                                                                     LEAVE OPEN
+                                                         AN3-13A
+          F-1004D-L                                      AN365-1032               LEAVE OPEN                                           AIRCRAFT CENTERLINE
+                                                         2X AN960-10
+                                                                                                                                                                                                         AN426AD3-4,
+                                                                                                                                                                                                          12 PLACES
+                                                                                                                                           AN470AD4-5                                                                   SB750-10,
+                                                                                                                                                                                                                        4 PLACES
+                                                                                                                                           AN470AD4-6
+                                                                                                                                                                                                        F-1004D-R
+
+                                                                                                                                           AN3-12A                                                                       K1000-08,
+                                                                                                                                           AN365-1032                                                                    6 PLACES
+                                                                                                                                           AN960-10
+
+
+
+
+                         AN3-13A                              F-1004R-R                                              F-1004R-R
+                                                                                               F-1004L
+                      AN365-1032                              F-1004S-L
+                                                                                                                  F-1004R-L
+                     2X AN960-10
+                                                 FIGURE 1: AFT BULKHEAD HARDWARE
+                                          (CALLOUTS ARE FOR THE LEFT SIDE OF THE AIRCRAFT                                                                                    F-1004L
+                                                 CALLOUTS ARE SYMMETRICAL ABOUT
+                                                                                                                                                        LP4-3,
+                                                     THE AIRCRAFT CENTERLINE)                                                                       2 PLACES
+  Step 2: Bolt the Aft Seat Rail Support Subassemblies, F-1004D-L and -R Center Section                                                                 F-1004M
+  Bulkheads and F-1004L Center Section Hat Stiffeners to the F-1004B Center Section
+  Bulkhead as shown in Figure 2.
+
+  Step 3: Rivet the F-1004D-L and -R Center Section Bulkheads, F-1004L Center Section                                               AN426AD3-4,
+  Hat Stiffeners and Aft Seat Rail Support Subassemblies to the F-1004B Center Section                                                 2 PLACES
+                                                                                                     F-1004D-L
+  Bulkhead as shown in Page 25-5, Figure 3 and per the callouts in Figure 1.                                                      PER NUTPLATE
+
+  Step 4: Insert snap bushings into the F-1004D-L and -R Center Section Bulkheads as
+  shown in Figure 2.
+                                                                                                                                                                                              F-1004B
+  Step 5: Fabricate the F-1004M Wear Strip by cutting a piece of 1/8 inch thick by 1/2 inch
+  wide UHMW plastic to 4 3/4 inches long. The wear strip may be up to 1/32 inch short but
+  must not be over length.
+
+  Drill two #30 holes centered on the width of the wear strip, each one 1 inch from the end.
+
+  Step 6: Clamp the F-1004M Wear Strip to the upper flange of the F-1004B Center Section
+  Bulkhead.
+                                                                                                                                                                 K1000-08,
+  Position the wear strip such that the aft edge of the wear strip is flush with the center                                                                      8 PLACES
+  section bulkhead upper flange aft edge and such that the wear strip is exactly centered on
+  the center section bulkhead upper flange.
+                                                                                                                                                                                  FIGURE 2: BOLTING THE AFT BULKHEAD TOGETHER
+  Match-drill two #30 holes through the center section bulkhead upper flange using the holes
+  in the wear strip as drill guides. Remove the wear strip and deburr the holes in the center
+  section bulkhead.
+
+  Step 7: Rivet the F-1004M Wear Strip to the upper flange of the F-1004B Center Section
+  Bulkhead as shown in Figure 2.
+
+PAGE   25-6    RV-10      REVISION: 2   DATE: 07/24/14
+                                                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
+Step 1: Final-Drill #40 all the nutplate attach holes and #19 all the nutplate screw holes in the F-1005A Rear Spar Bulkhead, F-1005C-L and -R Bulkhead Side Channel and F-1063B-L and -R Idler Arm
+Brackets as shown in Figure 2.
+
+Step 2: Cleco the F-1005B Rear Spar Attach Bars, F-1005C-L and -R Bulkhead Side Channels, F-1005D Crotch Strap Lugs, F-1005E-L and -R Gussets and F-1063B-L and -R Idler Arm Brackets to the
+F-1005A Rear Spar Bulkhead, as shown in Figure 2. Using Figure 1 as a guide tape over or mark the holes to be left open. Final-Drill #30 the remaining holes common between the parts just clecoed
+                                                                                                                                                                                                                          AN426AD4-5,
+together.
+                                                                                                                                                                                                                            5 PLACES                      F-1005E-R
+                                                                                                                                 F-1005D
+ DRILL                                                                           LEAVE OPEN                                                                                                    AN470AD4-5
+                          F-1005C-L                                                                                                   F-1005C-R                        DRILL AND
+  AND
+CLECO                                                                                                                                                                  CLECO ONLY
+                                                                                                                                                                                               AN470AD4-6
+ ONLY
+                                                                                                                                                                                               AN470AD4-8
+                                                                                                                                                                                                                          F-1005C-R
+
+                                                                                                                                                                              F-1005B
+                                                                                                                                                                                        PLACE ALL AN470AD4-8 SHOP
+                                                                                                                                                                                        HEADS ON AFT SIDE
+
+                                                                                                                                                                            F-1005A
+
+    LEAVE                                     FIGURE 1: REAR SPAR BULKHEAD ASSEMBLY RIVET CALLOUTS                                                               LEAVE                       MACHINE COUNTERSINK
+     OPEN                                                                                                                                                        OPEN
+
+
+
+Step 3: Disassemble and deburr all the bulkhead parts. Machine countersink the nutplate attach holes in the                                                                                                                                           K1000-08,
+F-1005C-L and -R Bulkhead Side Channels and F-1063B-L and -R Idler Arm Brackets for the head of an                                                                                                                                                    12 PLACES
+AN426AD3 rivet. Machine countersink the forward and inboard face of the bulkhead side channels for all the                     F-1005C-L
+F-1005E-L and -R Gusset attach holes. Machine countersink the three lower screw holes in the inboard
+flange of the bulkhead side channels for the head of an #8 screw (see Figure 2). Prime parts if/as desired.                         AN426AD4-5,
+                                                                                                                                    5 PLACES                  SB625-7,
+Step 4: Rivet the nutplates onto the F-1005C-L and -R Bulkhead Side Channel and F-1063B-L and -R                                                              2 PLACES
+Idler Arm Brackets as shown in Figure 2. Do not rivet nutplates onto the upper flange of the F-1005A
+                                                                                                                                        F-1005E-L
+Rear Spar Bulkhead.
+
+Step 5: Rivet the F-1005B Rear Spar Attach Bars, F-1005D Crotch Strap Lugs and F-1063B-L and -R
+Idler Arm Brackets to the F-1005A Rear Spar Bulkhead per the callouts in Figure 1 and Figure 2.
+
+Step 6: Rivet the F-1005E-L Gusset to the F-1005C-L Bulkhead Side Channel per the callouts in Figure 2.
+                                                                                                                                                                                                                                      F-1005D,
+Rivet the F-1005E-R Gusset to the F-1005C-R Bulkhead Side Channel per the callouts in Figure 2.
+                                                                                                                                                                                                                                      4 PLACES
+Step 7: Install snap bushings into the F-1005A Rear Spar Bulkhead as shown in Figure 2.
+
+                                                                                              F-1005B,                                                                                                               AN426AD3-4
+                                                                                            2 PLACES                                                                                                                 TYPICAL NUTPLATE
+                                                                                                                                                                                                                     ATTACH TO F-1063B
+                                                                                                                                                                                                      F-1063B-R
+
+                                                                                                                                                                                                  F-1063B-L
+
+
+
+
+                                                                                                                                                                                FIGURE 2: REAR SPAR BULKHEAD ASSEMBLY
+
+                                                                                                                                                              MACHINE COUNTERSINK
+
+                                                                                                                                                AN426AD3-4
+                                                                                          F-1005A                                               TYPICAL NUTPLATE
+                                                                                                                                                ATTACH TO F-1005C-L/R
+
+
+
+                                                                                                                                                                                                                     DATE: 07/24/14 REVISION: 0   RV-10   PAGE   25-7
+                       VAN'S AIRCRAFT, INC.
+
+
+
+   Step 1: Cut the F-1034D-L and -R Gussets apart from one another as shown in Figure 1.
+
+
+
+
+                        F-1034D-L                                                   REMOVE HATCHED AREA,
+                                                                                    4 PLACES
+
+
+
+
+                                                                   F-1034D-R
+                                                                                                                         F-1034C-R
+
+
+                    FIGURE 1: BREAKING APART THE GUSSETS
+
+
+
+   Step 2: Cleco the F-1034A Fuselage Bulkhead, F-1034C-L and -R Fuselage Bulkheads, and F-1034D-L and                F-1034D-R
+   -R Gussets together as shown in Figure 2.
+
+   Step 3: Final-Drill #30 all holes common between the parts clecoed together in Step 2.
+
+   Step 4: Final-Drill the nutplate attach holes for both nutplates near the center of the F-1034A Fuselage            AN470AD4-4,
+   Bulkheads upper flange. Final-Drill #19 the screw holes for these nutplates.                                        12 PLACES
+
+   Step 5: Disassemble all parts and deburr all edges. Prime parts if/as desired.
+
+   Step 6: Rivet the F-1034D-L and -R Gussets to the F-1034A Fuselage Bulkhead per the callouts in Figure 2.                                                      F-1034C-L
+   To this subassembly rivet the F-1034C-L and -R Fuselage Bulkheads per the callouts in Figure 2.
+
+   Step 7: Install snap bushings into the F-1034A Fuselage Bulkhead as shown in Figure 2.
+
+                                                                                                                                                      F-1034A
+
+
+
+                                                                                                                     SB625-7,
+                                                                                                                    2 PLACES
+                                                                                                                                                                F-1034D-L
+
+
+
+
+                                                                                                                                                                AN470AD4-4,
+                                                                                                               FIGURE 2: FUSELAGE BULKHEAD ASSEMBLY             12 PLACES
+
+
+
+
+PAGE   25-8    RV-10      REVISION: 1   DATE: 07/24/14
+

@@ -1,0 +1,593 @@
+                                                                                                                                VAN'S AIRCRAFT, INC.
+
+
+       A-1007-1C
+                                A-1008-1
+       DOUBLER
+                                DOUBLER
+                                                       A-1003-1L
+   A-1007-1B                                           SPAR
+   INBOARD
+HINGE BRACKET
+
+ A-1015-1L
+ INBOARD
+                                                                                    A-1001B-1
+                                                                                    TOP SKIN
+                                                                                                                   SECTION 21:
+ NOSE RIB
+
+                                                                                                                    AILERON
+                                                                                                    A-1011
+                                                                                                TRAILING EDGE
+
+
+
+
+                                                                                                                   A-710
+                                                                                                                STIFFENER
+
+                   A-1001A-1L
+                   NOSE SKIN
+
+
+
+
+                                           A-1004-1R
+                                           NOSE RIB                                                                                                       A-1005A-1R
+                                                                                                                                                          MAIN RIB
+
+
+
+
+                                                                       A-1009
+                                                                   COUNTERBALANCE
+
+
+                                                                                                                                                                  A-1002-1
+                                                                                                                                                                  BOTTOM SKIN
+
+
+
+
+                                                                                                                                        A-1006-1B
+                                                                                                                                       OUTBOARD
+                                                                                                                                     HINGE BRACKET
+                                                                                                                    A-1004-1R
+                                                                                                                    NOSE RIB
+
+                                                                                                                                   DATE OF COMPLETION:
+                                                                                                                                   PARTICIPANTS:
+
+                                                                                                                                   DATE: 02/23/12 REVISION: 1   RV-10   PAGE   21-01
+                       VAN'S AIRCRAFT, INC.
+                                                                                                                                    Step 5: Final-Drill #30 the .129 [3.3 mm] holes common to the A-1007-1A Inboard Hinge Brackets and the A-1015-1L and
+                          Step 1: Separate the A-1006-1 Outboard Hinge Brackets into parts A and B. Separate A-1007-1 Inboard       A-1015-1R Ribs. Final-Drill #12 the bolt holes in the inboard hinge brackets and ribs. Machine countersink the inboard hinge
+                          Hinge Brackets into parts A, B, and C. See Figure 1.                                                      bracket and deburr. See Figure 4.
+
+                                                                                                                                    Step 6: Attach the A-1006-1A Outboard Hinge Brackets to the A-1004-1R and A-1004-1L Nose Ribs with the rivets called out in
+                                                                                                                                    Figure 3.
+                                                         A-1006-1A
+                                                                                      REMOVE HATCHED AREAS                          Step 7: Rivet the A-1007-1A Inboard Hinge Brackets to the A-1015-1L and A-1015-1R Ribs with the rivets called out in Figure 4.
+                                                                                                                                    Install the nutplates called out in Figure 4.
+
+
+
+
+                                                                                                            A-1007-1B
+
+            A-1006-1B
+
+
+
+
+                                                                                                                        A-1007-1C
+
+
+
+              FIGURE 1: SEPARATING                                                                                                                                                       A-1004-1L
+                                                                                               A-1007-1A                                                                                                                                             A-1004-1R
+              THE HINGE BRACKETS
+                                                                                                                                                                                     MANUFACTURED
+   Step 2: Flute and straighten as required to adjust the flanges of the A-1004-1L and A-1004-1R Nose Ribs and A-1015-1L and                                                          HEAD THIS SIDE
+   A-1015-1R Inboard Nose Ribs to 90°.
+                                                                                                                                                                                               AN426AD4-4,                                      A-1006-1A
+                                                                                                                                                                                                      TYP                                       2 PLACES
+  Final-Drill #40, deburr and dimple all the holes in the flanged of the nose ribs and inboard nose ribs.
+
+                                                                                                             REMOVE
+                                                                                                                                                                      FIGURE 3: OUTBOARD HINGE BRACKET
+   Step 3: Buff the edges of the A-1015-1L and A-1015-1R Inboard Nose Rib flanges
+   as shown in Figure 2 on an abrasive wheel in order to minimize the tendency                               FACETED EDGES                                                 TO NOSE RIB INSTALLATION
+   for them to appear faceted instead of curved.
+                                                                                                                                                                                                                                                     MANUFACTURED
+                                                                                                                                                        FINAL DRILL #12                        A-1015-1R                                             HEAD THIS SIDE
+                                                                                                                                                        2 PLACES
+
+
+
+
+                                                                                                                                                                                                                                                          AN426AD4-4
+                                                                                                                                                                                                                                                          12 PLACES
+
+
+
+              A-1015-1L                                                                                                                                                            A-1015-1L
+
+                                        FIGURE 2: BUFF FLANGE EDGES
+                                                                                                                                                                                    MS21055-L3
+                                                                                                                                                                                               2X                                                           A-1007-1A
+                                                                                                                                                                                 2X AN426AD3-4
+  Step 4: Final-Drill #30 the .129 [3.3 mm] holes common to the A-1006-1A Outboard Hinge Brackets and the A-1004-1R and                                                                                                                                     2 PLACES
+  A-1004-1L Nose Ribs. Machine countersink the outboard hinge brackets for the head of a AN426AD4 rivet as shown in Figure 3.
+  Deburr the outboard hinge brackets and the A-1004-1R and A-1004-1L Nose Ribs.                                                                                           FIGURE 4: INBOARD HINGE BRACKET
+                                                                                                                                                                              TO NOSE RIB INSTALLATION
+PAGE   21-02 RV-10        REVISION: 1   DATE: 02/23/12
+                                                                                                                                                                                               VAN'S AIRCRAFT, INC.
+Step 1: Separate the A-1005-1L Main Ribs                                                   A-1005-1B-L                Step 5: Machine countersink the
+into A-1005-1A-L and A-1005-1B-L.                                                                                     A-1008-1 Doubler for the head of
+                                                                                                    REMOVE            AN426AD3 rivets as shown in
+Separate the A-1005-1R Main Ribs into                                                               HATCHED           Figure 3.
+A-1005-1A-R and A-1005-1B-R. See                                                                    AREAS
+Figure 1.                                                                                                             Removed the hatched areas on
+                                                                                                                      the doubler as shown in Figure 3
+Dimple the .098 [2.5 mm] holes in the main                                                                            to make 2 parts.
+ribs.
+                                                                                                                      Step 6: Prime all A-1005A-1,                REMOVE
+                                             A-1005-1A-L                                                              A-1005B-1, A-1006-1, A-1007-1,             HATCHED
+Step 2: Deburr the A-1005-1A-L and                                                                                    and A-1008-1 parts                           AREAS
+A-1005-1A-R Main Ribs and the
+A-1005-1B-L and A-1005-1B-R Main Ribs.                                                                                                                           MACHINE
+                                                           FIGURE 1: SEPARATING THE                                                                          COUNTERSINK                                           A-1008-1
+Deburr the A-1006-1B Outboard Hinge                         MAIN RIBS (LEFT SHOWN)                                                                              4 PLACES
+Brackets, A-1007-1B and A-1007-1C
+Inboard Hinge Brackets.
+                                                                                                                                                             FIGURE 3: SEPARATING THE DOUBLERS
+                                                                       A-1005B-1R
+
+                                                                                                                      Step 7: Cleco then rivet the                        MANUFACTURED
+Step 3: Machine countersink the .129 [3.3                                                                             A-1007-1B and A-1007-1C                                                     AN426AD4-4,
+                                                                                                                                                                           HEAD THIS SIDE
+mm] holes in the A-1006-1B Outboard                                                                                   Inboard Hinge Brackets to the                                               4 PLACES
+                                                    A-1005A-1R
+Hinge Brackets and A-1007-1B Inboard                                                                                  A-1005A-1L and A-1005A-1R                AN426AD3-4.5,
+Hinge Brackets to fit the head of an                                                                                  Main Ribs. Leave open the 2                 3 PLACES
+AN426AD4 rivet. See Figures 2, 4, and 5.                                                           120° DIMPLE        bottom holes as noted in Figure 4.
+                                                                                                   FLUSH THIS SIDE,
+Parts for the right aileron must be                                                                6 PLACES                                                                                                              A-1005A-1L
+countersunk on the side opposite that
+shown in Figures 2, 4, and 5.                                                          MACHINE                                                                   A-1007-1C
+                                                                                       COUNTERSINK
+                                                                                       THIS SIDE 6 PLACES
+                                                    A-1006-1B                                                                                                 A-1007-1B                     LEAVE OPEN
+Step 4: Cleco the A-1007-1B and
+A-1007-1C Inboard Hinge Brackets to each
+other. Final-Drill #12 the .188 [4.8 mm]                                            A-1005A-1L                                                             FIGURE 4: INBOARD HINGE BRACKET ATTACH
+hole and machine countersink for the head                 MACHINE
+of an AN509-10 countersunk screw. See                COUNTERSINK
+Figure 2.                                       THIS SIDE 9 PLACES
+                                                                                                                      Step 8: Cleco then rivet the
+                                                           A-1007-1C                                                  A-1006-1B Outboard Hinge
+Machine countersink the .098 [2.5 mm]
+                                                                                                                      Brackets to the A-1005A-1L and
+holes in the A-1007-1B Inboard Hinge
+                                                                                                                      A-1005A-1R Main Ribs. Leave
+Bracket to fit the head of an AN426AD3       FINAL-DRILL #12
+                                                                                                                      open the 2 bottom holes as
+rivet as shown in Figures 2 and 4.                 MACHINE                                                            noted in Figure 5.
+                                              COUNTERSINK                                         120° DIMPLE
+Parts for the right aileron must be             OTHER SIDE                                        FLUSH OTHER SIDE,                                           A-1005A-1R
+countersunk on the side opposite that                                                             6 PLACES                                                                                               AN426AD4-4,
+shown in Figures 2 and 4.                                                                                                                                                                                4 PLACES
+                                                                                                 A-1005B-1L
+                                                A-1007-1B                                                                                                     A-1006-1B
+                                                                                                                                                                                                         LEAVE OPEN
+                                                                 FIGURE 2: MACHINE COUNTERSINK
+                                                                  MAIN RIBS AND HINGE BRACKETS
+                                                                                                                                                         FIGURE 5: OUTBOARD HINGE BRACKET ATTACH
+
+
+
+
+                                                                                                                                                                                                   DATE: 02/23/12 REVISION: 1   RV-10   PAGE   21-03
+                       VAN'S AIRCRAFT, INC.
+
+
+
+  NOTE: The construction technique for the ailerons is similar to that of the rudder and elevators. The aileron uses ribs at the
+  ends only while light angle stiffeners support the rest of the skin. The aileron must be kept flat while drilling and riveting. A
+  cradle to hold the aileron in a vertical position while riveting is required. Since the aileron has a thinner cross section than the
+  flap, make the cradle using the FL-1004-L Flap Nose Rib as shown in the flap assembly manual Page 2, Figure 1. The cradle
+  need not be a perfect fit for the aileron. It is intended mainly as a support for holding the aileron in a position suitable for
+  riveting.
+
+   Assembly instructions are for the Left Aileron Assembly. The Right Aileron Assembly is a mirror of the Left.
+   The builder may choose to complete all steps for the left side before repeating those steps for the right
+   side or to complete each step for both left and right sides before moving to the next step.
+
+   Step 1: Cleco the A-1004-1R Nose Ribs to the A-1003-1L
+   Spar. See Figure 1. Cleco the A-1015-1L Inboard Nose Rib
+   and A-1008-1 Doubler to the spar.
+                                                                         A-1004-1R                                             A-1009
+                                                                         2 PLACES
+
+
+
+
+                                    A-1003-1L
+                                                                                                                                                     FIGURE 1: NOSE ASSEMBLY
+
+
+
+
+                                                                                                                                   MATCH DRILL #40
+                                                                                                                                         2 PLACES
+
+                                                                                                                                                                                    A-1001A-1L
+                                  A-1015-1L
+
+                                               A-1001A-1L
+
+
+                                                                                                                 A-1001A-1L
+
+   Step 2: Cut ST304-065X1.375X46 Steel Tube to
+   34.625 [879.5 mm] to make the A-1009 Counterbalance.
+
+  Step 3: Cleco the A-1001A-1L Nose Skin to the lower flange of the A-1003-1L Spar at
+  every third hole. Lay the A-1009 Counterbalance into the nose skin so that it is flush with
+  the outboard edge of the nose skin. Cleco the nose skin to the top flange of the spar at                                                              FIGURE 2: CLECO NOSE SKIN
+  every third hole applying downward pressure on the nose skin if/as required to insert the
+  clecos. Cleco the nose skin to the A-1004-1R Nose Ribs and to the A-1015-1L Inboard
+  Nose Rib as shown in Figure 1. Place the assembly leading edge up onto a narrow table
+  or blocks as shown in Figure 2.
+
+  Step 4: Match-Drill #40 the most outboard hole and most inboard hole of the A-1001A-1L
+  Nose Skin into the A-1009 Aileron Counterbalance. See "match-drill" call-outs in Figure 2.
+
+  Remove the nose skin.
+
+
+PAGE   21-04 RV-10        REVISION: 1   DATE: 02/23/12
+                                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+Step 1: Cleco the A-1009 Counterbalance to the A-1004-1R Nose Ribs as shown in Figure 1.                      CAUTION: Be careful to dimple the skins in the correct direction.
+
+                                                                                                              NOTE: If electing to prime, leave the skins unprimed in the area where they will contact
+                                                                                                              the A-1011 Trailing Edge because adhesive will be applied.                                                DON'T RIVET
+                                                                                                                                                                                                                         THIS HOLE                           A-1005A-1R
+                                                                                                              Step 5: Deburr and dimple the holes common to the A-710 Stiffeners, the A-1005A-1L, A-1005A-1R,             LOCATION                           (OUTBOARD)
+                                    A-1004-1R                     MARK                                        A-1005B-1L and A-1005B-1R Main Ribs and the A-1001B-1 Top Skins and A-1002-1 Bottom Skins as
+                                                                  A-1009                                      shown in Figure 3.
+
+                                                                                                              Step 6: Prime the the A-1001B-1 Top Skins, A-1002-1 Bottom Skins, and A-710 Stiffeners.
+
+                                                                                                              Step 7: Rivet the A-710 Stiffeners, the A-1005A-1L and A-1005A-1R Main Ribs, and the A-1005B-1L
+                                                                                                              and A-1005B-1R Main Ribs to the A-1001B-1 Top Skin and A-1002-1 Bottom Skin using the
+                                                                                               A-1004-1R      back-riveting method described in Section 5F.
+
+                                                                                                              See Page 21-10, Figures 3 and 4 for rivet call outs.       A-710
+                                                                                                                                                                     8 PLACES                                                                       DON'T RIVET
+                                                                                                                                   A-1005A-1L                                                                                                       THIS HOLE
+                                                                                                                                   (INBOARD)                                                                                                        LOCATION
+                                                                                                                                                                                                                                                              A-1005B-1L
+                                                                                                                                                                                                                                                              (INBOARD)
+
+
+
+                                                                                                                                                                                                   A-1001B-1
+                                                                                                                    DON'T RIVET
+                                                                                                                     THIS HOLE
+                                                                                                                                                                                                 A-710
+                                                                                                                      LOCATION
+                                                                                                                                                                                             8 PLACES
+            CLECO
+             HERE
+
+
+                                                                                                                                INBOARD
+                                                                                                                                   EDGE
+                FIGURE 1:                               AN526C632R8
+                                                                    4X
+                                                         AN365-632A
+         DRILL COUNTERBALANCE                                                                                               A-1005B-1R
+                                                                                                                          (OUTBOARD)
+Step 2: Use an extended #40 drill bit to mark the A-1009 Counterbalance to A-1004-1R
+Nose Rib attach holes on the spar by leaning the drill in alongside the rib as shown in Figure 1.
+                                                                                                                          DON'T RIVET
+Remove the counterbalance. Final-Drill #27 the marked holes and the two #40 holes in the counterbalance.                   THIS HOLE
+Final-Drill #27 the four corresponding holes in the nose ribs.                                                              LOCATION                                                                    A-1002-1
+
+Attach the counter balance to the nose ribs using the hardware called out in Figure 1. If you have difficulty getting
+a screwdriver on the head of the screw use an offset screwdriver or a Phillips bit tip held in Vise-Grip pliers at 90°.                                                                                            INDENTS ON
+                                                                                                                                                                                                                       BOTTOM
+Step 3: Cleco the A-1001A-1L Nose Skin to the A-1004-1R Nose Ribs, A-1015-1L Inboard Nose Rib, and A-1003-1L                       DETAIL                                                                            SKIN ONLY
+Spar. Match-Drill #40 into the counterbalance along its length using the holes in the leading edge of the nose skin as drill
+guides. Start drilling at one end. Insert a cleco after each hole is drilled to prevent the counterbalance from being pushed         A                                                                                                    DETAIL A
+away from the skin. Go back through and final-drill #30 these same holes. See Page 21-04, Figure 2 for hole locations.
+
+Step 4: Remove the A-1001A-1L Nose Skin.                                                                                                                    FIGURE 3: ATTACHING STIFFENERS AND MAIN RIBS TO SKINS
+
+Remove the A-1004-1R Nose Ribs and A-1015-1L Inboard Nose Rib from the spar.
+
+Step 5: Final-Drill #40 all the .094 [2.4 mm] holes in the A-710 Stiffeners. Cut the stiffeners from the angle strip provided
+and trim as shown in Figure 2. The angle strip is shown unbent for clarity.
+
+
+
+
+                                              .406
+                                           [10.3 mm]
+                                           4 PLACES
+                                                                                                                                                                                                                            DATE: 02/23/12 REVISION: 1   RV-10   PAGE   21-05
+                      VAN'S AIRCRAFT, INC.
+
+
+
+   Step 1: Cleco the top skin assembly and the A-1001A-1L Nose Skin to the
+   top flange of the spar at every other hole. Cleco the nose skin to the
+   A-1004-1R Nose Ribs, and A-1015-1L Inboard Nose Rib.
+
+   Cleco the A-1005-1A-L and A-1005-1A-R Main Ribs to the spar.
+                                                                                                                                         A-1015-1L
+   Cleco the bottom skin assembly to the spar assembly and cleco the
+   A-1005-1B-L and A-1005-1B-R Main Ribs to the top skin and spar               A-1004-1R
+   assemblies.
+
+
+
+
+                                                                             A-1001A-1L
+
+
+
+
+                                                                             A-1009
+
+
+
+
+                                                                                                                                   TOP SKIN
+                                                                                                                                   ASSEMBLY
+
+
+
+
+                                                                                            BOTTOM SKIN
+                                                                                            ASSEMBLY
+
+
+
+                                                                                                      FIGURE 1: FITTING ASSEMBLY
+
+
+
+PAGE   21-06 RV-10       REVISION: 1   DATE: 02/23/12
+                                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+Step 1: Lay the assembly flat on the table top hanging the clecos which are holding the A-1001A-1L Nose Skin to the A-1002-1        Note: Drill perpendicular to the centerline of the extrusion, not the
+Bottom Skin and A-1003-1L Spar over the edge. Use weights over the main ribs to keep it firmly against the table with no twist. A   surface of the top skin. The difference is only a few degrees, but
+straight board can be used to distribute the weight and hold the aileron flat to the table. See Figure 1.                           using the correct reference will give better results.
+
+Step 2: Check the A-1001A-1 Nose Skin for bowing with a straight edge held spanwise midway between the the leading edge and         Step 3: Cleco the A-1011 Trailing Edge, made from VA-140 Trailing
+spar. About .063 [1.6 mm] of rise is acceptable. If necessary the skin can be squeezed down by hand to minimize the bow.            Edge Extrusion, into the aileron's trailing edge. Mark the inboard and
+                                                                                                                                    outboard ends of the trailing edge where the edge of the top skin
+                                                                                                                                    assembly meets the trailing edge. See Figure 2.
+
+                                                                                                                                    Final-Drill #40 the holes common to the top skin and
+                                                                                                                                    bottom skin assemblies and trailing edge.
+
+                                                                                                                                                                                                                                                        TOP SKIN
+                                                                                                                                                                                                                                                        ASSEMBLY
+
+
+
+
+                             A-1001A-1L                                                                                                                                                                                                     A-1011
+                                                                                                                                             BOTTOM SKIN
+                                                                                                                                               ASSEMBLY
+
+
+
+
+          A-1004-1R                                                                                                                          DRILL
+                                                                                                                                    PERPENDICULAR
+                                                                                                                                      TO EXTRUSION
+                                                                                                 TOP SKIN                              CENTER LINE
+                                                                                                 ASSEMBLY                                                                                                  FIGURE 2: INSERT TRAILING EDGE
+
+
+                                                                                                                                    Step 4: Disassemble the aileron. Deburr all the parts including
+                                                                                                                                    the insides of the lightening holes in the A-1003-1L Spar.
+
+                                                                                                                                    Trim the A-1011 Trailing Edge at the marks made on the inboard
+                                                                                                                                    and outboard locations as marked in Step 3.                                    A-1003-1L
+
+                                                                                                                                    Step 5: Make a edge break in the aft edge of the A-1001A-1L
+                                                                                                                                    Leading Edge, A-1001B-1 Top Skin, and A-1002-1 Bottom Skin               A-1008-1                                           AN426AD3-5
+                                                                                                                                    (see Section 5K).
+
+BOTTOM SKIN                                                                                                                         Step 6: With the exception of the A-1011 Trailing Edge, dimple
+  ASSEMBLY                                                                                                                          wherever exterior flush rivets will be installed, including the spar
+                                                                                                                                    flanges. Since the spar is .040 thick it may bow slightly when
+                              FIGURE 1: FINAL-DRILL SPAR AND NOSE RIBS                                                              dimpled but it will straighten during final assembly.
+
+                                                                                                                                    Machine countersink the holes in the trailing edge with the tool
+                                                                                                                                    perpendicular to the surface of the part.
+
+                                                                                                                                    Dimple all remaining holes in the skins.
+
+                                                                                                                                    If electing to prime, note that the A-1009 Counterbalance is
+                                                                                                                                    stainless steel and need not be primed. The A-1011 Trailing
+                                                                                                                                    Edge should not be primed because adhesive will be applied.
+
+                                                                                                                                    Step 7: Rivet the A-1008-1 Doubler to the A-1003-1L Spar using                 FIGURE 3: ATTACHING THE
+                                                                                                                                    the rivets called out in Figure 3.                                              DOUBLER TO THE SPAR
+
+
+
+
+                                                                                                                                                                                                                           DATE: 02/23/12 REVISION: 1   RV-10      PAGE   21-07
+                       VAN'S AIRCRAFT, INC.
+                                                                                                                               LP4-3 NOSE RIBS   Step 3: Cleco the spar assembly to the A-1001A-1L Nose Skin and to the A-1004-1R Nose
+                                                                                                                               TO SPAR           Ribs as shown in Figure 1. Cleco the spar assembly to the A-1015-1L Inboard Nose Rib.
+                                                                                                                               9 PLACES
+                                                                                                                                                 Blind rivet the nose ribs to the A-1003-1L Spar using the rivets called out in Figure 1.
+   Step 1: Cleco the nose rib/counterbalance subassembly and the
+   A-1015-1L Inboard Nose Rib into the A-1001A-1L Nose Skin by installing                                                                        CAUTION: When reaching down between the skins with the bucking bar be
+   clecos into the counterbalance and all nose ribs.                                                                                             especially careful in this confined area that the bucking bar is not driven into the
+                                                                                                                                                 top aileron skin while you are concentrating on the bottom.
+
+                                                                                                                                                 Step 4: Remove the clecos from the top flange of the spar assembly and insert the top skin
+                                                                                                                                                 assembly.
+
+                                                                                                                                                 Cleco the top skin assembly to the spar at every other hole. Clamp a straight board to the
+                                            A-1004-1R                                                                                            top skin near the trailing edge (to hold the top skin straight while riveting).
+                                            2 PLACES
+                                                                                              A-1009
+                                                                                                                                                 Rivet the top skin assembly to the spar (see Page 21-09, Figure 2 for all A-1001-1L Nose
+                                                                                                                                                 Skin rivets).
+
+               A-1003-1L                                                                                                                         Rivet the A-1005A-1L and -1R Main Ribs to the spar using the rivets called-out in Figure 3.
+
+                                                                                                                                                 Cleco then rivet the bottom skin assembly to the spar.
+
+
+
+
+                                                                                         FIGURE 1: ASSEMBLE
+   A-1008-1                                                                                 'D' SHAPED CELL
+
+                                                                                                       BLIND RIVET THE
+          A-1015-1L                                                       FINAL-DRILL #34              2 LEADING HOLES             BOTTOM SKIN
+                                                                        FOR BLIND RIVETS               EACH NOSE RIB                ASSEMBLY
+                                                                                6 PLACES
+                      A-1001A-1L
+
+
+                                                                                                                                                                                                                                      A-1008-1
+
+
+
+
+  CAUTION: Damage to the nose skin may                                                                                     TOP SKIN                                                                                       AN470AD4-6,
+  result if solid rivets are substituted for                                                                              ASSEMBLY                                                                                        4 PLACES
+  the blind rivets shown in Figure 2.
+
+  Step 2: Rivet the A-1004-1R and
+  A-1015-1L Nose Ribs to the A-1001A-L
+  Nose Skin as shown in Figure 2. For rivet
+  call outs see Page 21-09, Figure 2. The                                                                                                                                      A-1001A-1L
+                                                                            A-1001A-1L                                   AN470AD4-4,
+  solid rivets can be set with a hand
+                                                                                                                           4 PLACES
+  squeezer if a .500 [12.7 mm] tall set is used
+  on the shop head side.
+
+  Final-Drill #34 the holes shown in Figure 2.
+  Blind rivet the nose skin to nose rib holes
+  as shown in Figure 2.                                                                                                    A-1004-1R
+                                                                FIGURE 2: RIVETING NOSE SKIN                                                                         FIGURE 3: ATTACH SKIN ASSEMBLIES
+PAGE   21-08 RV-10        REVISION: 2   DATE: 02/23/12
+                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+Step 1: Cleco the A-1011-1 Trailing Edge into the assembly as shown in Figure 1.                        Step 3: Remove the aileron assembly from the cradle and lay it on its
+                                                                                                        top with the trailing edge clecos hanging over the edge of the table as
+Step 2: Cleco the A-1005A-1L and A-1005B-1L Main Ribs together.                                         shown in Figure 3. Blind rivet the A-1009 Counterbalance to the
+Cleco the A-1005A-1R and A-1005B-1R Main Ribs together                                                  A-1001A-1L Nose Skin (see Figure 2 for rivet call-outs). For a nicer
+then rivet all main ribs as shown in Figure 1.                                                          finish use a small hammer to tap the top and bottom edges of the blind
+                                                                                                        rivet heads down flush to the skin so that the rivet head follows the tight
+                                                                                                        radius of the leading edge.
+
+                                                                                                        Step 4: Turn the aileron over top side up.
+                                                A-1011-1
+                                                                                                        Remove the A-1011 Trailing Edge as shown in Figure 1.
+
+                                                                                                        Complete the riveting of the aileron, refer to Section 5H for further instruction/technique. See Page 21-10, Figure 3 for trailing edge
+                                                                                                        rivet call-outs.
+
+
+
+
+              A-1005A-1R
+
+                                                                                            A-1007-1B
+
+
+
+
+                                                                              FIGURE 1:                 BLIND RIVETS
+                                                                     ATTACH HINGE BRACKETS AND
+                                                                        INSERT TRAILING EDGE
+
+
+   A-1006-1B                 CS4-4,
+                             16 PLACES
+
+
+
+                                                                                    AN426AD3-3
+                                                                                    AN426AD3-3.5
+               TOP                                                                  LP4-3
+                                                                                    MK-319-BS
+
+
+
+
+                                                                                                                                              FIGURE 3: LEADING EDGE RIVETS
+
+
+
+
+                                        FIGURE 2: NOSE SKIN RIVETS
+                                                                                                                                                                                              DATE: 02/23/12 REVISION: 0   RV-10       PAGE   21-09
+                      VAN'S AIRCRAFT, INC.
+                                                                                                                                       Step 2: The hardware called-out in Figure 2 for attachment of the outboard hinge bracket to the wing will be used during completion
+                                                                                                                                       of the aileron actuation system as covered in the "Aileron Actuation" section of the manual.
+
+
+  Step 1: The hardware called-out in Figure 1 for attachment of the inboard hinge bracket to the wing will be used during completion
+  of the aileron actuation system as covered in Section 23.
+
+
+
+
+                                                   5702-475-48 Z3                BUSHING AL .197 X .313 X .438
+                                                                                                                                                                      NAS1149F0363P
+                                                                                                                                                                           4 PLACES
+                                           F3414M
+                                                                                                                                                                        MS21042-3
+                                        (SEE "AILERON
+                                         ACTUATION")
+
+
+
+
+                                                                                                 NAS1149F0363P
+                                                                                                 2 PLACES                                                                                                                                            AN3-10A
+
+                                                                                                    MS21042-3
+
+
+
+
+                                                                                                                                                                                             OUTBOARD AILERON BRACKET
+                                                                                                                                                                                             ASSEMBLY SEE "REAR SPAR" PAGE 2
+                   AN509-10R25
+
+                                                                                                                                                             FIGURE 2: OUTBOARD HINGE BRACKET ATTACH HARDWARE
+
+                    AN3-14A
+
+
+
+                                           BUSHING AL .197 X .313 X .594                        INBOARD AILERON
+                                                                                               BRACKET ASSEMBLY
+                                                                    5702-475-48 Z3           SEE "REAR SPAR" PAGE 2
+
+
+
+                     FIGURE 1: INBOARD HINGE BRACKET ATTACH HARDWARE
+
+
+
+
+PAGE   21-10 RV-10       REVISION: 0   DATE: 02/23/12
+

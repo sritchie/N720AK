@@ -1,0 +1,182 @@
+=== PAGE 1 ===
+VAN'S AIRCRAFT, INC.
+
+OP-45: ROTAX 912 CHOKE LEVER
+
+VA-179E
+SPACER
+(NOT SUPPLIED IN KIT),
+2 PLACES
+
+VA-179G
+GUIDES,
+4 PLACES
+
+VA-179B
+CHOKE SLIDE CASE
+
+VA-179A
+CHOKE SLIDE
+
+VA-104-2
+KNOB BLACK
+
+CABLE SHEATH
+(NOT SUPPLIED IN KIT)
+
+CABLE END FERRULE
+(NOT SUPPLIED IN KIT)
+
+CABLE
+(NOT SUPPLIED IN KIT)
+
+VA-179D
+BOLT SPACER,
+2 PLACES
+
+VA-179C
+ANTI-ROTATION AND STOP PLATE
+
+VA-179F
+DRILLED BOLT,
+2 PLACES
+
+BILL OF MATERIALS
+AN3-5A              2
+AN365-1032           2
+AN426AD3-3.5         4
+AN426AD3-5           1
+AN960-10             4
+AN960-10L            2
+AT6-058X5/16X1.250   1
+K1000-3              2
+MS21266-1N           1
+VA-104-2 (KIT)       1
+VA-179A              1
+VA-179B              1
+VA-179C              1
+VA-179F              2
+
+DATE: 1/2/07  REVISION: 0  ROTAX 912  PAGE OP45-1
+
+=== PAGE 2 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Make two VA-179D Bolt Spacers from AT6-058X5/16 tubing as shown in Figure 1.
+
+Step 2: Create four VA-179G Guides from the MS21266-1N Nylon Grommet as shown in Figure 2.
+
+5/32
+
+O5/16
+
+FIGURE 1: CREATING VA-179D
+
+5/8
+
+(.058)
+
+FIGURE 2: CREATING VA-179G
+
+Step 3: Final-Drill #40 all rivet holes in the VA-179A Choke Slide, VA-179B Choke Slide Case and VA-179C Anti-Rotation and Stop
+Plate. Machine countersink the rivet hole on the outside face of the choke slide case and on one face of the anti rotation and stop
+plate. Deburr the edges of all parts in this step. Remove any bow from the choke slide. Prime parts if desired.
+
+Step 4: Install two nutplates on the VA-179B Choke Slide Case as shown in Figure 3.
+
+Step 5: Install the four VA-179G Guides as shown in Figure 3. Trim the guides to clear the cable end ferrule holes in the VA-179B
+Choke Slide Case. Install the VA-179A Choke Slide into the choke slide case. The choke slide should slide freely but not have
+excess clearance to prevent vibration when assembled. Increase the heights of the openings in the choke slide case as required.
+
+NOTE: When fully assembled with the control cables attached, the VA-179B Choke Slide Case may bow slightly depending
+on the surface that the assembly is mounted too and increase the friction. Check for this problem by making a full
+installation of the assembly without the VA-179C Anti-Rotation and Stop Plate installed (Step 7) and repeat Step 5 before
+finishing Step 7. The springs on the carburetor alone must be able to return the choke slide to the off position.
+
+Step 6: With both VA-179F Drilled Bolts in-place install the VA-179A Choke Slide into the VA-179B Choke Slide Case as shown in
+Figure 3. The choke slide can be installed with the detent notches either way.
+
+CABLE END
+FERRULE HOLE,
+2 PLACES
+
+TRIM VA-179G
+TO CLEAR HOLE
+
+AN426AD3-3.5,
+4 PLACES
+
+VA-179B
+
+K1000-3,
+2 PLACES
+
+VA-179F,
+2 PLACES
+
+VA-179G,
+4 PLACES
+
+VA-179A
+
+DETENT NOTCH,
+2 PLACES
+
+FIGURE 3: INSTALLING THE CHOKE SLIDE
+
+Step 7: Rivet the VA-179C Anti-Rotation and Stop Plate to the VA-179A Choke Slide as shown in Figure 4. Gain Access to the shop
+head of the rivets through the access hole in the VA-179B Choke Slide Case.
+
+VA-179A
+
+VA-179B
+
+VA-179C
+
+ACCESS HOLE
+
+AN426AD3-5
+
+FIGURE 4: INSTALLING VA-179C
+
+Step 8: Trim the length of the VA-179A Choke Slide and install the VA-104-2 Knob Black per the instructions provided with the knob
+black.
+
+Step 9: Create VA-179E Spacers similar to those shown in Figure 5 that will prevent the assembly from rocking during actuation.
+Due to the fact that these spacers are custom to each installation the material has not been provided in the kit. 1/4 inch thick
+spacers will provide enough clearance for the VA-104-2 Knob Black. Attach the assembly to the mount surface as shown in Figure
+5.
+
+Step 10: Attach the choke cables to the VA-179F Drilled Bolts using the VA-179D Bolt Spacers and the hardware shown in Figure 5.
+Make one last check for free operation and that the springs on the carburetor will return the choke too the off position from the full
+and half on positions. Check that the VA-179C Anti-Rotation and Stop Plate is installed and that there is no possibility of the back
+end of the VA-179A Choke Slide from coming out of the VA-179B Choke Slide Case and jamming the assembly.
+
+AN3-5A (MAY CHANGE DEPENDING
+2X  ON MOUNT SURFACE THICKNESS)
+AN960-10L
+
+MOUNT SURFACE
+
+VA-179E,
+2 PLACES
+
+CABLE SHEATH
+(NOT SUPPLIED IN KIT)
+
+CABLE END FERRULE
+(NOT SUPPLIED IN KIT)
+
+CABLE
+(NOT SUPPLIED IN KIT)
+
+VA-179F
+VA-179D
+2X  2X AN960-10
+AN365-1032
+
+VA-104-2
+
+FIGURE 5: FINAL INSTALLATION
+
+PAGE OP45-2  ROTAX 912  REVISION: 0  DATE: 1/2/07

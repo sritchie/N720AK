@@ -1,0 +1,687 @@
+                                                                                              VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                                     SECTION 39:
+                    WD-1012
+                 CONTROL STICK
+                   2 PLACES                    WD-1011-R
+                                            RIGHT CONTROL
+                                              STICK BASE
+
+
+
+                 WD-1010
+                 CONTROL
+                 COLUMN
+                                                                                      CONTROL
+                 F-1065
+               PUSHROD
+                                                                                       SYSTEM
+               ASSEMBLY
+  WD-1011-L
+LEFT CONTROL
+ STICK BASE
+                                                                         F-1063
+                                                                       ELEVATOR
+                                                                       IDLER ARM
+                                                                       ASSEMBLY
+
+
+
+
+   F-1064
+  AILERON
+ PUSHROD
+ ASSEMBLY                          F-1089
+ 2 PLACES                        ELEVATOR
+                                 PUSHROD
+                                 ASSEMBLY
+
+
+
+
+                                                                                                     F-635
+                                                              F-1090                              ELEVATOR
+                                                            ELEVATOR                              BELLCRANK
+                                                            PUSHROD
+                                                            ASSEMBLY                                                                F-1091
+                                                                                                                                  ELEVATOR
+                                                                                                                                  PUSHROD
+                                                                                                                                  ASSEMBLY
+
+
+
+
+                                                                                     F-1006
+                                                                                   FUSELAGE
+                                                                                   BULKHEAD
+
+
+
+
+                                                                                                 DATE: 12-09-08 REVISION: 1   RV-10   PAGE   39-1
+                  VAN'S AIRCRAFT, INC.
+                                                                                 WD-1013C
+                                                                                 FLAP TORQUE TUBE
+                                                                                 2 PL. SEE SECTION 40         F-1090
+                                                                                                                                        F-1091
+                                                                                                              ELEVATOR PUSHROD
+                                                                                                                                        ELEVATOR PUSHROD
+                                                                                                              ASSEMBLY
+                                                                                                                                        ASSEMBLY
+
+                                             WD-1010                                                                                                                                  RIGHT TRIM TAB
+                                             CONTROL                                                                                                                                  SEE SECTION 9
+                                             COLUMN                                                                                                CT Q-43
+                                                                                                                                             ELEVATOR TRIM CABLE
+                                                                                                                                                  2 PLACES
+                                            F-1065
+                                            PUSHROD
+                                            ASSEMBLY
+
+
+
+
+                                                                                                                                                                                      R-1005
+                                                                                                                                                                                      RUDDER HORN
+                                                                                                                                                                                      SEE SECTION 7
+
+
+                                          F-1064
+                                          AILERON PUSHROD
+                                          2 PLACES
+
+                                                                                                                                                                                       LEFT TRIM TAB
+                                                                                                                                                                                       SEE SECTION 9
+                                                                                                              FIGURE 1: TOP VIEW
+                              WD-1014
+                              AILERON TORQUE TUBE
+                              2 PL. SEE SECTION 23
+                                                                                                                                         F-1095
+                                                                                                                                     ELEVATOR TRIM
+                                                                                                                                   ACTUATOR ASSEMBLY
+                                                                                                                                     SEE SECTION 11
+
+
+
+                                                       F-1089
+                                                       ELEVATOR
+                                                       PUSHROD
+                                                       ASSEMBLY
+                                                                                                                                                                                  WD-605-L/R-1
+                                                                                                                                                                                  ELEVATOR
+                         WD-1012
+                                                       ES 85615-10                                 F-1090                                                                         HORNS
+                         CONTROL
+                                                       FLAP                                        ELEVATOR
+                         STICK
+                                                       MOTOR                                       PUSHROD
+                         2 PL.
+                                                                                                   ASSEMBLY
+                      WD-1011-L                                      F-1063
+                      LEFT CONTROL                                   ELEVATOR
+                      STICK BASE                                     IDLER ARM
+                                                                     ASSEMBLY                                                                                   F-1091
+                                                                                                                                                                           F-1053
+                                                                                                                                                                ELEVATOR
+                                                                                                                                                                           RUDDER CABLE
+                                                                                                                                                                PUSHROD
+                                                                                                                                               F-635                       2 PL. SEE SECTION 38
+                                                                                                                                                                ASSEMBLY
+                                                                                                                                               ELEVATOR
+                                                                                                                                               BELLCRANK
+                                                         VA-256      WD-1013A                                                                  SEE SECTION 10
+                                                     FLAP PUSHROD    FLAP CRANK
+                                                                                                              FIGURE 2: SIDE VIEW
+                                                          2 PL.      SEE SECTION 40
+PAGE   39-2   RV-10   REVISION: 0   DATE: 01/28/13
+                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+                                                                                                                              Step 4: Insert a VA-111 Threaded Rod End into the end of the
+Step 1: Fabricate the F-1089 Elevator Pushrod (Fwd) by cutting one piece of                                                   F-1089 Elevator Pushrod (Fwd). Proper engagement of the threaded rod end in the elevator pushrod
+AT6-035 X 1 1/8 to the length shown in Figure 1.                                                                              is when the end of the tube coincides with the edge of the taper in the threaded rod end. See Figure 3.
+
+                                                                                                                              Match-Drill #30 the threaded rod end using the pilot holes in the elevator pushrod as drill guides. Insert clecos in the holes as
+                                                                                                                              match-drilling progresses around the circumference of the elevator pushrod.
+
+                                         33                                                                     Ø1 1/8 REF.   Repeat until threaded rod ends have been match-drilled to both ends of the elevator pushrod.
+
+                                                                                                                              Mark the threaded rod ends so that they can be reinstalled in the same position as when they were match-drilled. Remove the
+                                                                                                                              threaded rod ends from the elevator pushrod and deburr all holes in all parts and prime all parts inside and out. Allow primer to
+                                                                                                                              fully cure before permanently installing the rod ends. CAUTION: Seized bearings have resulted from wet primer finding its
+                                                                                                                              way to the rod ends.
+
+                                                                                                                              Permanently install the threaded rod ends to the elevator pushrod using the rivets called-out in Figure 3.
+
+
+
+                                                                                                  0.035 REF.
+                                                                                                                                                                                                                    ALIGN THIS EDGE
+                                                                                                                                                                                                                     WITH TUBE END
+           FIGURE 1: ELEVATOR PUSHROD (FWD) FABRICATION
+
+
+                                                                                                                                                         F-1089                                                                     VA-111
+
+
+                                                                                                                                                                   MSP-42,
+                                                                                                                                                                  6 PLACES
+Step 2: Final-Drill the VA-111 threaded rod end for safety wire as shown in Figure 2.
+
+
+                                                                                                                                                             FIGURE 3: THREADED ROD END INSTALLATION
+                              FINAL DRILL 1/16 DIA.
+
+
+                                                                                  9/16
+
+                                                                                                                              Step 5: Install the rod end bearings and jam nuts into the VA-111 Threaded Rod Ends as shown in Figure 4. Theoretically
+                                                                                                                              the correct engagement of the rod end bearings yields a bearing center-to-bearing center length of 37 13/32 inches. The
+                                                                                                                              rod end bearing engagement may need to be adjusted during installation of the F-1089 Elevator Pushrod Assembly.
+
+
+
+
+                                                                                                                                                                                                         37 13/32
+
+                                                                                                                                                                      VA-111
+                  FIGURE 2: DRILL THREADED ROD END                                                                                                                  2 PLACES
+                                                                                                                                                                                                         33 REF.
+
+
+
+
+                                                                                                                                                                                          1 1/8 REF.
+Step 3: Cut out Page 39-11, Figure 1 and use it as a wraparound template for locating the rivet holes in both ends of                                                                                                      AN316-6                  MD3614M
+                                                                                                                                                                   GMM-4M-675                            F-1089           2 PLACES
+the F-1089 Elevator Pushrod (Fwd). Use clear tape to make the template into a ring and align it with the end of the                                                AT FWD END
+pushrod. Center-punch the "cross hairs" in the wraparound template. Remove the template and use a #40 drill to
+make six pilot holes in each end of the pushrod. Deburr the hole edges on the inside of the pushrod tube.
+
+                                                                                                                                                         FIGURE 4: ROD END BEARING AND JAM NUT INSTALLATION
+
+                                                                                                                                                                                                              DATE: 01/28/13 REVISION: 0   RV-10       PAGE   39-3
+                        VAN'S AIRCRAFT, INC.
+
+                           Step 1: Safety wire the forward end of the F-1089 Elevator Pushrod Assembly which has
+                           the GMM-4M-675 rod end bearing installed as shown in Figure 1. Form a loop that loosely                          Step 4 (continued): Mark the threaded rod ends so that they can be re-installed in the same position as when
+                           encircles the bearing to the right side of the rod end. This loop will be pinned by the attach                   they were match-drilled. Remove the threaded rod ends from the elevator pushrod and deburr all holes in all
+                           bolt.                                                                                                            parts and prime all parts inside and out. Allow primer to fully cure before permanently installing the rod ends.
+                                                                    F-1089                                                                  CAUTION: Seized bearings have resulted from wet primer finding its way to the rod ends.
+
+                                                                                   GMM-4M-675
+                                                                                                                                            Permanently install the threaded rod ends to the elevator pushrod using the rivets called-out in Figure 3.
+
+                                                                                       SAFETY WIRE
+
+
+
+
+                                                                                                                                                                                                                        ALIGN THIS EDGE
+                                                                                                                                                                                                                         WITH TUBE END
+                                        FIGURE 1:
+                        SAFETY WIRE ELEVATOR PUSHROD ASSEMBLY
+                                                                                                                                                                                                                                              VA-101
+
+                                                                                                                                                      F-1090
+                                                                                                                                                                    MSP-42,
+         Step 2: Fabricate one F-1090 Elevator Pushrod (Mid) by cutting one piece of AT6-035 X 1 1/2 to                                                            8 PLACES
+         the length shown in Figure 2.
+
+
+
+                                                    56 3/8
+                                                                                                                            Ø1 1/2 REF.                                            FIGURE 3:
+                                                                                                                                                                         THREADED ROD END INSTALLATION
+
+
+
+
+                                                                                                                .035 REF.
+                                                                                                                                             Step 5: Install rod end bearings and jam nuts into the VA-101 Threaded Rod Ends as shown in Figure 4.
+                                   FIGURE 2:                                                                                                 Theoretically the correct engagement of the rod end bearings yields a bearing center-to-bearing center
+                                                                                                                                             length of 60 13/16 inches. The rod end bearing engagement may need to be adjusted during installation of
+                       ELEVATOR PUSHROD (MID) FABRICATION                                                                                    the F-1090 Elevator Pushrod Assembly.
+
+
+
+
+                                                                                                                                                                                 60 13/16
+         Step 3: Cut-out Page 39-11, Figure 2 and use it as a wraparound template for locating the rivet holes in both ends of the
+         F-1090 Elevator Pushrod (Mid). Use clear tape to make the template into a ring and align it with the end of the pushrod.
+         Center-punch the "cross hairs" in the wraparound template. Remove the template and use a #40 drill to make six pilot                                                   56 3/8 REF.
+         holes in each end of the pushrod. Deburr the hole edges on the inside of the pushrod tube.
+
+
+         Step 4: Insert a VA-101 Threaded Rod End into the end of the F-1090 Elevator Pushrod (Mid). Proper engagement of the
+         threaded rod end in the elevator pushrod is when the end of the tube coincides with the edge of the taper in the threaded
+         rod end. See Figure 3.
+                                                                                                                                          VA-101
+         Match-Drill #30 the threaded rod end using the pilot holes in the elevator pushrod as drill guides. Insert clecos in the holes    2 PL.                  1 1/2 REF.                                                  AN316-6
+         as match-drilling progresses around the circumference of the elevator pushrod.                                                                                                                  F-1090               2 PL.
+                                                                                                                                                                                                                                                   MD3616M
+                                                                                                                                                                                                                                                   2 PL.
+         Repeat until threaded rod ends have been match-drilled to both ends of the elevator pushrod.                                                                    FIGURE 4:
+                                                                                                                                                          ROD END BEARING AND JAM NUT INSTALLATION
+
+PAGE   39-4    RV-10       REVISION: 0   DATE: 7/9/04
+                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+  Step 1: Assemble two F-1064 Aileron Pushrod Assemblies as shown in Figure 1.
+                                                                                                        Step 4: Attach the F-1090 Elevator Pushrod Assembly to the Bellcrank Assembly
+                                                                                                        using the hardware called out in Figure 3.
+
+                                          14 7/8
+
+
+
+                                          13 1/8
+
+
+
+
+                            9/16
+                            REF.            F-1064
+                                                          AN316-4                         M3414M
+                                                        2 PLACES                          2 PLACES
+
+
+        FIGURE 1: ASSEMBLING THE AILERON PUSHROD
+
+
+                                                                                                                               F-1090
+  Step 2: Assemble the F-1065 Pushrod Assembly as shown in Figure 2.
+                                                                                                                                    BELLCRANK
+                                                                                                                                     ASSEMBLY
+
+                                          22 5/8
+
+                                                                                                                                                            AN3-10A
+                                          20 1/2
+                                                                                                                                                            AN960-10
+                                                                                                                                                            AN365-1032
+
+
+
+                                                                                                                           FIGURE 3: PUSHROD TO BELLCRANK ASSEMBLY
+                                   9/16
+                                   REF.
+          F-1065                                            AN316-4                         M3414M
+                                                          2 PLACES                          2 PLACES
+
+
+
+              FIGURE 2: ASSEMBLING THE F-1065 PUSHROD
+
+
+Step 3: Remove the F-1035 Battery/ Bellcrank Mount, see Page 10-23.
+
+Install the F-1089 Elevator Pushrod Assembly by feeding it forward through the aft side of the F-1006
+Fuselage Bulkhead and into the position shown on Page 39-1. Make sure the forward end is forward.
+
+Install the F-1090 Elevator Pushrod Assembly by feeding it forward through the aft side of the F-1006
+Fuselage Bulkhead and into the position shown on Page 39-1.
+
+Reinstall the battery/ bellcrank mount.
+
+
+
+                                                                                                                                                                               DATE: 01/28/13 REVISION: 1   RV-10   PAGE   39-5
+                         VAN'S AIRCRAFT, INC.
+
+
+
+                                                                                                                             Step 3: Bolt the F-1063 Elevator Idler Arm Assembly to the F-1063B Idler Arm Brackets using the hardware
+         Step 1: Fabricate the F-1063C Spacer from AS3-063 as shown in Figure 1. Draw a
+                                                                                                                             shown in Figure 3.
+         horizontal centerline to use as a guide when match-drilling the part in the next step.
+                                                                                                                             Bolt the F-1089 Elevator Pushrod Assembly to the elevator idler arm assembly using the hardware shown in
+                                                                                                                             Figure 3.
+                                              1 5/8
+                                                                                1/16 REF.
+                                                                                                                             Bolt the F-1090 Elevator Pushrod Assembly to the elevator idler arm assembly using the hardware shown in
+                                              1/4                                                                            Figure 3.
+
+                           1/4
+                 1/2
+
+                                                                                                                                                                                                    5702-95-30
+                                                                                                                                                                  F-1063B-R                         2 PLACES
+                                                    Ø1/8                                                                                                                                                                    AN4-14A
+
+
+
+                                   FIGURE 1: FABRICATE SPACER
+                                                                                                                                            F-1063B-L
+
+
+
+                                                                                                                         AN960-416
+        Step 2: Cleco the two F-1063A Elevator Idler Arms, the F-1063C Spacer, and the VA-146 Flange Bearing             5 PLACES
+        together as shown in Figure 2. Adjust the spacer so that the centerline intersects the centers of the two
+        pre-punched holes in the elevator idler arm. Match-Drill and final-drill as per the callouts. Disassemble and
+        deburr all holes and edges. Prime if/as desired. Rivet the assembly together using the hardware shown in
+        Figure 2.
+                                                                                                                         AN365-428
+                                                                                                                                                                                                  F-1063
+
+
+                                                                                                                                                                                                                               AN365-1032
+                                               VA-146
+                                                                                                                                                                                                                               2 PLACES
+                    FINAL-DRILL #30
+                       6 PLACES
+
+
+
+                                                                                                                                                                                                                                AN960-10
+                                                                                                            AN470AD4-6
+                        F-1063A                                                                                                                                                                                                 2 PLACES
+                                                                                                            9 PLACES
+                       2 PLACES
+                                                                                                                                             F-1089                                                                             F-1090
+
+
+
+
+                    FINAL-DRILL #30
+
+                                                                                                                                                 AN960-10L
+                                                                                                                                                 2 PLACES                          AN3-10A
+                FINAL-DRILL #12                                                                                                                   (F-1089)                         2 PLACES
+                   2 PLACES
+                   PER PART
+                                                                            F-1063C
+                                                                                                                                                             FIGURE 3:
+                                                                                                                                            ATTACH THE ELEVATOR IDLER ARM ASSEMBLY AND
+                       MATCH-DRILL #30                                                                                                    ELEVATOR PUSHRODS (F-1063B-L/R SHOWN EXPLODED)
+
+                       FIGURE 2: DRILL AND RIVET ELEVATOR IDLER ARM
+PAGE   39-6      RV-10      REVISION: 0   DATE: 01/28/13
+                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+
+
+    Step 1: Clamp the WD-1011-L Left Control Stick Base to a drill press table as shown in Figure 1. Insert a
+    WD-1012 Control Stick into the control stick base as far as it will go. Rotate the control stick until it is planar with       Step 3: Final-Drill the WD-1011-L Left Control Stick Base and the WD-1011-R
+    the surface of the table. Match-Drill #12 through the assembly using the hole in the control stick base as a guide.            Right Control Stick Base as shown in Figure 3.
+    Support the control stick base with a block if necessary. Disassemble the parts and deburr. Repeat this step for
+    the WD-1011-R Right Control Stick Base and the other control stick.                                                                                            WD-1011-R
+
+                                                                                 MATCH-DRILL #12
+                                                                                                                                                     WD-1011-L
+
+
+
+
+WD-1012                                                                                            WD-1011-L
+
+                                                                                                                                                                                       FINAL-DRILL #12
+                                                                                           BLOCK IF NECESSARY                                                                          8 PLACES
+
+
+
+                                                                                                                                                 FIGURE 3: FINAL-DRILL CONTROL STICK BASES
+
+     FIGURE 1: MATCH-DRILL CONTROL STICKS WITH CONTROL STICK BASES
+
+                                                                                                                               Step 4: Install the WD-1010 Control Column onto the F-1033-L and F-1033-R (not shown) Control
+                                                                                                                               Column Mounts using the hardware shown in Figure 4. The right side is a mirror image of the left. The
+                                                                                                                               control column should rotate freely on the control column mounts.
+
+           Step 2: Final-Drill the WD-1010 Control Column as shown in Figure 2.
+
+
+
+                                                                                                                                                              AN3-10A
+                                                                                                                                                                                                 F-1033-L
+                                                                                                                                                                AN960-10L
+                                                          WD-1010                                                                                               2 PLACES                            AN960-10
+                                                                                                                                                                                                    3 PLACES
+                                                                                                                                                                                                                      AN365-1032
+
+
+
+
+                                                      FINAL-DRILL 1/4
+                                                      2 PLACES
+                                                                                                                                                   WD-1010
+
+
+
+           FIGURE 2: FINAL-DRILL CONTROL COLUMN                                                                                    FIGURE 4: CONTROL COLUMN INSTALLATION (LEFT SIDE SHOWN)
+
+
+                                                                                                                                                                                         DATE: 7/9/04   REVISION: 0   RV-10     PAGE   39-7
+                         VAN'S AIRCRAFT, INC.
+
+                            Step 1: Check that the length of both of the BUSHING 065 X .375 X 2.313 Control Stick Base Bushings is
+                            between 2 1/4 inches and 2 5/16 inches. Check that an AN4 bolt will fit the inside diameter of the control stick
+                            base bushings and ream if required. Deburr the ends of the control stick base bushings so that they slide easily
+                            inside the WD-1011 Control Stick Bases. See Figure 1.
+
+   The pivot tube of the control stick base must be 1/32 inch to 1/16 inch shorter than the control stick base bushing. File the ends of
+   the control stick base pivot tubes if/as required to achieve the correct length. Deburr the inside edges of the control stick base pivot     Step 3: Install the F-1065 Pushrod Assembly into the WD-1011-L and the WD-1011-R(not
+   tubes. See Figure 1.                                                                                                                         shown) Control Stick Bases using just the bolts and nuts shown in Figure 3 for now. Leave the
+                                                                                                                                                nuts finger tight.
+  Insert a control stick base bushing into each control stick base as shown in Figure 1.
+                                                                                                                                                Install the WD-1012 Control Sticks into the control stick bases using the hardware shown in
+                                                                                                                                                Figure 3. Move the control sticks through their full range of motion and check for interference.
+                                                           CONTROL STICK                                                                        NOTE: When F-1043D-L/R Cover Panels are later installed check for interference with
+                                                           BASE PIVOT TUBE                                                                      control sticks and trim the cover panels if/as necessary for clearance.
+
+                                                                              BUSHING 065 X .375 X 2.313
+
+
+
+                WD-1011-L
+
+                                                                                             DEBURR                                                                          WD-1011-L
+                                                                                             ENDS
+                                                                DEBURR INSIDE
+                                                                EDGE, BOTH ENDS
+
+                                                                                                                                                  WD-1012
+
+
+                        FIGURE 1: CONTROL STICK BASE BUSHING INSTALLATION
+
+                                                                                                                                                                      AN3-13A
+
+
+        Step 2: Bolt the WD-1011-L Control
+        Stick Base to the WD-1010 Control
+        Column using the hardware shown                                                                            WD-1010                                         AN960-10
+        in Figure 2.                                                                                                                                                  3 PL.
+                                                                                                                   AN960-416
+        If the BUSHING 065 X .375 X 2.313                                 AN4-27                                                                                AN365-1032
+        Control Stick Base Bushing is too                                                                                                                             3 PL.
+        long to fit into the control column it
+                                                                                                                   MS24665-208                                                                                                                 F-1065
+        must be trimmed along with the
+        control stick base pivot tube to                                                                                                                         F-1064
+                                                                                                                   AN310-4
+        maintain the length differential
+        described in the previous step.
+                                                                                                                                                                                                                                              AN3-10A
+        Repeat for the WD-1011-R Control                                                                                                                                                                                                      2 PL.
+        Stick Base.
+                                                                                                                                                                                                                  5702-75-60
+                                                                                                                                                                                                                  4 PL.
+
+                                          WD-1011-L
+
+                                                                                                                                               FIGURE 3: CONTROL STICK AND PUSHROD INSTALLATION
+
+                                                                                           BUSHING 065 X .375 X 2.313
+
+
+                        FIGURE 2: CONTROL STICK BASE INSTALLATION
+
+PAGE   39-8      RV-10      REVISION: 0   DATE: 01/28/13
+                                                              VAN'S AIRCRAFT, INC.
+
+
+
+
+Step 1: Adjust the length of the F-1065
+                                                                  22 7/32 REF.
+Pushrod Assembly until the WD-1012 Control
+Sticks are parallel as shown in Figure 1.
+Measure from inside to inside at the top of the
+control sticks and compare to same at the                   WD-1012
+bottom of the control sticks. When the two
+measurements are equal the control sticks
+                                                                                 WD-1012
+are parallel. NOTE: The dimensions shown
+in Figure 1 are for reference purposes only
+and need not match the builders actual
+measurements.
+
+Tighten the jam nuts. Bolt the pushrod
+assembly into the WD-1011-L and -R Control
+Stick Bases using the hardware shown on
+                                                                  22 7/32 REF.
+Page 39-8, Figure 3.
+                                                                                                        F-1065
+Step 2: Bolt the F-1064 Aileron Pushrod
+Assemblies into the WD-1011-L and -R
+Control Stick Bases using the hardware
+shown on Page 39-8, Figure 3.
+
+
+                                                  FIGURE 1: MAKE CONTROL STICKS PARALLEL
+
+
+
+
+                                                                  DATE: 01/28/13 REVISION: 1   RV-10   PAGE   39-9
+                         VAN'S AIRCRAFT, INC.
+                                                                                                                                               Step 3: Bolt the F-1089 Elevator Pushrod Assembly to the WD-1010 Control Column using the hardware
+                                                                                                                                               shown in Figure 3. The loop in the safety wire goes aroung the bearing, passing between the rod end housing
+                                                                                                                                               and the WD-1010 Control Column clevis and is captured by the AN4 bolt as shown in Figure 3. The safety
+                                                                                                                                               wire should not interfere with anything at this connection.
+   Step 1: Fabricate a simple gauge from the dimensions given in Figure 1. Material is not provided in the kit.
+
+
+
+                                                                           9
+
+                                                                          8 15/32
+
+
+                   3/4
+                           3/8                                                                                                                               F-1065                                                                       WD-1010
+
+
+                                                           1/4
+                                                                                                                                                    ORIENT NUT
+                                                                                                                                                   FOR MAXIMUM
+                                          FIGURE 1: FABRICATE MEASURING JIG                                                                         CLEARANCE
+                                                                                                                                                    WITH F-1065
+
+
+                                                                                                                                                                                                                                         AN365-428
+   Step 2: Check the neutral position of the WD-1010 Control Column. Clamp the F-635 Elevator Bellcrank in its neutral position. See Page
+   11-7. Insert an AN4 bolt through the gauge. Lower the gauge and bolt into the tunnel and slip the bolt through the control column center                                F-1089
+   clevis pinning the F-1089 Elevator Pushrod (Fwd) as shown in Figure 2. When the aft end of the gauge is butted up against the F-1004A
+                                                                                                                                                                                                                                         AN960-416
+   Center Section Bulkhead the control column is in its neutral position. Adjust the F-1089 and/or F-1090 Elevator Pushrod lengths if/as
+                                                                                                                                                                            AN4-11A                                                      2 PLACES
+   required to move the control column to its neutral position.
+
+   WARNING: In the final installation both pushrod ends must have over half the thread engaged (except where safety wire is used)
+   making it impossible for a bearing to back off the pushrod if both ends are pinned.
+
+   Perform a final check of the control system once the elevators are installed. Move the control sticks through their full range of motion.                                          SAFETY WIRE
+   The WD-605-L/R-1 Elevator Horns should contact the elevator stops before the control sticks make contact with any other structure.
+
+
+                                                                                                                                                                FIGURE 3: ELEVATOR PUSHROD (FWD) INSTALLATION
+
+
+
+
+                                                                                                          F-1089
+
+                                                                                                               WD-1010
+
+
+
+
+                                                            GAUGE
+                                                                                                                   AN365-428
+         F-1004A
+                                                                 AN4-11A
+                                                                                    AN960-416
+                                                                                    5 PLACES
+
+
+                            FIGURE 2: CONTROL COLUMN NEUTRAL POSITION
+
+
+PAGE   39-10   RV-10      REVISION: 0   DATE: 7/8/04
+                                                                                                                         VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                                                                           MATCH LINE
+
+
+
+
+                                                                                                                         ALIGN THIS EDGE
+                                                                                                                          WITH THE END
+                                                                                                                           OF THE TUBE
+
+
+
+
+                                                                                                           FIGURE 1:
+                                                                                                       F-1089 PUSHROD
+                                                                                                          RIVET HOLE
+                                                                                                                           MATCH LINE
+                                                                                                     LOCATION TEMPLATE
+
+
+
+
+  10 9/16
+[268.3 mm]
+                                                                                                                            MATCH LINE
+
+
+
+
+                                                                                                                         ALIGN THIS EDGE
+                                                                                                                          WITH THE END
+                                                                                                                           OF THE TUBE
+
+
+                                                                                                           FIGURE 2:
+                                                                                                       F-1090 PUSHROD
+                                                                                                          RIVET HOLE
+                                                                                                     LOCATION TEMPLATE
+
+                                                                                                                           MATCH LINE
+
+
+
+
+                                                                                           16
+
+                                                                                        [406.4 mm]
+             NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE! ”
+                                                                                                                            DATE: 01/28/13 REVISION: 0   RV-10   PAGE   39-11
+                   VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                      THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE   39-12   RV-10   REVISION: 0   DATE: 01/28/13
+

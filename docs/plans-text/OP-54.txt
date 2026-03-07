@@ -1,0 +1,323 @@
+                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
+
+
+OP-54: O-320/360 EXHAUST
+NOTE: Details of the engine installation that do not pertain to the exhaust system are shown for
+reference only as some features may have been omitted or are obsolete.                                                                                EX-00001
+
+Step 1: Fabricate the EX-00001F Heat Muff Clamp from the HW-00001 Hose Clamp by clamping it over
+the Heat Muff Assembly. Mark the bend locations on the                                                                                 2X EX-00001F
+clamp, then remove the hose clamp and bend as
+required to ensure a close fit around the Heat Muff                                                                                                                                        AIR INTAKE TUBE
+Assembly.
+
+WARNING: The Heat Muff Assembly must not be
+installed over the Exhaust Crossover Slip Joints.
+Doing so could cause exhaust gasses to enter the
+Heat Muff Assembly & associated ducting.
+
+Step 2: For installations using O-320 engines, trim the
+exhaust tube ends to be inserted into the Exhaust
+Crossover Slip Joints by 1 (25.4 mm) and install as
+shown in Figure 1 and Figure 2.
+
+Only install lock washers upon final installation.
+
+Step 3: For installations using O-360                                                                                     CABIN HEAT
+                                         EX-00004A                                                                              TUBE
+engines, install as shown in Figure 1
+and Figure 2.
+
+Only install lock washers upon
+final installation.                 EX-00002
+
+
+                                                                                                               EX-00005
+
+                                                                                                                                                                                        EX-00008
+                                                                                                                                                                           CARB HEAT
+                                                                                                                                EX-00003                                   TUBE
+
+                                                                                                                                EX-00003B,
+                                                                                                                                8 PL
+                                                                                                                                                                       FIGURE 2:
+                                                                                                                                                                 HEAT MUFF ASSEMBLY
+
+
+
+
+                                                                                                                                                             EA GASKET 77611
+                            HEAT MUFF ASSEMBLY
+                                                                                                                                                       NAS1149F0563P
+                                                                                                                                           MS35333-41 (LOCK WASHER)
+                                                                                                   EXHAUST                                                NUT-00003
+                                                                                                   CROSSOVER
+                                                                                                   SLIP JOINT, 2 PL
+
+
+
+                                                          FIGURE 1: EXHAUST ASSEMBLY OVERVIEW
+                                                                                                                                                                                       DATE: 09/11/14   REVISION: 1   RV 3,4,6,7,8,9 PAGE OP 54-1
+                           VAN'S AIRCRAFT, INC.
+
+
+                                                                                                                                           2X EX-00004E
+                                                  OIL SUMP
+                                                                                                                                          6X EX-00004B
+
+           2XEX-00004E
+                                                         6X AN737TW-4
+                                                                                                                                                                                                                                         3X EX-00004C
+                                                           3X EX-00004C
+                                                                                                                                               2X EX-00004A
+
+
+                                                                 6X EX-00004B
+
+                                                                         AN3-4A
+                                                                   6X    NAS1149F0363P
+                                                                         MS21042-3
+                                                                   2X EX-00004A
+
+
+
+                                                                                                                                                                                                    FWD
+
+
+
+
+                                                                                                                                                                                                                  LEFT
+                                                   UP
+                                          FWD            RIGHT
+
+
+
+
+                                                                                                                                                                                       FIGURE 3:
+                                                                                                                                                                               EXHAUST HANGER ASSEMBLY
+
+
+           FIGURE 1:
+        EXHAUST HANGER                                                      Step 1: Position the exhaust tubes as desired for cowl and engine mount clearance. Use safety wire to temporarily hold them in place if necessary.
+           ASSEMBLY                                                         Step 2: Temporarily install the EX-00004A Exhaust Hanger Brackets onto the exhaust tubes.
+
+                                                                            NOTE: The EX-00004E Exhaust Hanger Support Tab locations shown may vary between aircraft firewall forward installations, use the most convenient bolt locations on the Oil
+                                                                            Sump.
+
+                                                                            Step 3: Install the EX-00004E Exhaust Hanger Support Tabs in positions somewhat forward and above the EX-00004A Exhaust Hanger Brackets. See Figure 1.
+
+                                                                            Step 4: Trim all the EX-00004B Exhaust Support Tubes so that the ends reside in the center of their respective spans. Gaps between exhaust support tube ends should be between
+                                       1/4 [6.4 mm]                         1/4 [6.35 mm] and 1/2 [12.7 mm] to allow for motion due to engine vibration. Straight lines between the EX-00004A Exhaust Hanger Brackets and EX-00004E Exhaust Hanger Support Tabs are
+                                                                            prefferable, but may not be possible depending on engine configuration. Slight angles in the connecting geometry formed by the exhaust support tubes are acceptable.
+
+                                                                            Step 5: Once the optimum orientation and lengths for the EX-00004B Exhaust Support Tubes have been found, bend the flat ends as necessary to ensure a flat fit against the faces of the
+                                                                            mounting hardware EX-00004A Exhaust Hanger Brackets & EX-00004E Exhaust Hanger Support Tabs. This will help reduce wear and tear on the exhaust support tubes. Ensure each exhaust
+                                                                            support tube is still aligned in an approximately straight line with its counterpart.
+          ROUND CORNERS
+                                                                            Step 6: Slightly crimp the open ends of all the EX-00004B Exhaust Support Tubes, creating a tube flare that will help to retain the EX-00004C Support Tubing. Round down the sharp corners
+                                                                            created by crimping as shown in Figure 2.
+
+          FIGURE 2: TUBING DETAIL                                           Step 7: Trim the EX-00004C Support Tubing approximately as shown in Figure 2.
+                           (TYPICAL)
+                                                                            Step 8: Install all Exhaust Hanger Assembly hardware as shown in Figure 1.
+
+DATE: 09/11/14   REVISION: 1   RV 3,4,6,7,8,9   PAGE OP 54-2
+                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
+Step 1: If carb heat is not required, bend the EX-00008G
+Carb Heat Cover as shown in Figure 1 and match drill the
+three #30 holes into the EX-00008 Carb Heat Tube.
+                                                                                                                           Step 12: Match-Drill #40 the FF-01407 FAB Carb Heat Inlet to the VA-130B or VA-131B Air Box Top Plate as
+Step 2: Rivet the EX-00008G Carb Heat Cover to                                                                             shown in Figure 3.
+the EX-00008 Carb Heat Tube as shown in Figure 1.
+                                                                                                                           Step 13: Coordinate the final installation of the FF-01407 FAB Carb Heat Inlet with the final assembly of the filtered air box,
+                                                                                                                           particularly with respect to the carb heat door.
+
+
+
+
+                                               3X LP4-3
+
+
+
+
+                                                                                                                                                                          ST
+                                               EX-00008G
+                                                                                 FIGURE 1:
+
+
+
+
+                                                                                                                                                                            RA
+                                                                                                                                                                              IG
+                                                                              CARB HEAT COVER
+
+
+
+
+                                                                                                                                                                                HT
+                                                                                      (OPTIONAL)                                           CARB HEAT TUBE
+
+
+
+
+                                                                                                                                                                                     LIN
+                                                                                                                                                                                                                                                  CARBURETOR
+
+
+
+
+                                                                                                                                                                                      E
+NOTE: Perform Steps 3 thru 13 as part of the VA-130 or VA-131 Filtered Air Box fabrication and assembly                    MATCH-DRILL #40                                                                            VA-130B OR VA-131B
+                                                                                                                                                   6X
+instructions. Steps provided here are only a guide, Individual aircraft firewall forward installations may vary.               AN470AD3-4
+The position of the carb heat tube from the EX-00001 Heat Muff will affect placement of the filtered air box
+door and cutout. See Step 4.
+                                                                                                                           CARB HEAT INLET ASSEMBLY
+Step 3: Begin assembly and installation of the VA-130 or VA-131 Filtered Air Box as described in the filtered air box
+instructions. Perform enough assembly work to determine the physical alignment of the filtered air box to the induction
+                                                                                                                                                  VA-130A OR VA-131A
+air inlet on the cowling, then proceed with the steps below.                                                                                                                                        FIGURE 3:
+                                                                                                                                                                                           CARB HEAT INLET INSTALLATION
+Step 4: Temporarily install the VA-130B or VA-131B Air Box Top Plate onto the carburetor as described in the Filtered                                                           (O-320 INSTALLATION SHOWN FOR TIGHTEST CLEARANCE)
+Air Box instructions.
+
+Step 5: Use a grinder to remove the "lip" inside the tube of the FF-01407 FAB Carb Heat Inlet.
+
+Step 6: Position the FF-01407 FAB Carb Heat Inlet on as straight a line as possible with the carb heat tube from the
+EX-00001 Heat Muff on top of the VA-130B or VA-131B Air Box Top Plate. This is especially critical for O-320
+installations where there is a very short distance between the filtered air box and the heat muff carb heat tube due to
+the shorter height of the O-320 carburetor.                                                                                                      TRIM AS NECESSARY
+                                                                                                                                                 TO FIT INSIDE VA-130B OR VA-131B
+Step 7: Mark and trim the FF-01407 FAB Carb Heat Inlet to fit inside the VA-130B or VA-131B Air Box Top Plate                                                                                FF-01407
+in the position found in Step 6. Be aware of the location and travel of the VA-122 Arm per the Filtered
+Air Box instructions and make allowances in the trim of the FAB carb heat inlet accordingly.                                                                                   FINAL-DRILL #40
+                                                                                                                                                                                                      6X
+                                                                                                                                                                                   AN470AD3-4
+Step 8: Clamp the FF-01407 FAB Carb Heat Inlet Mounting Brackets to the FF-01407
+FAB Carb Heat Inlet as shown in Figure 2.
+
+Step 9: Final-Drill #40 six rivet holes into the FF-01407 FAB Carb Heat Inlet
+and FF-01407C FAB Carb Heat Inlet Mounting Brackets approximately as shown
+in Figure 2.
+                                                                                                                                                                                        2X FF-01407C,
+Step 10: Mark and trim the FF-01407C FAB Carb Heat Inlet Mounting Brackets                                                                                                TRIM AS NECESSARY TO FIT
+as shown in Figure 2.                                                                            FF-01407                                                                  INSIDE VA-130B OR VA-131B
+
+Step 11: Cleco and rivet the FF-01407C FAB Carb Heat Inlet Mounting
+Brackets to the FF-01407 FAB Carb Heat Inlet as shown in Figure 2.
+                                                                                                                          FIGURE 2: CARB HEAT INLET ASSEMBLY
+                                                                                                                              (EXACT SHAPE MAY VARY BY AIRCRAFT)
+
+                                                                                                                                                                                                                   DATE: 09/11/14   REVISION: 0   RV 3,4,6,7,8,9 PAGE OP 54-3
+                           VAN'S AIRCRAFT, INC.
+                                                                                                                                                                                                                                                           POSITION AIR
+                                                                                                                                                                                                                     Ø2 [50.8 mm]                          INTAKE HOLE
+                                                                                                                                                                                                                                                           AFT OF THIS BEND
+                                                                                                                                                                                FINAL-DRILL #30                                                            LINE
+   NOTE: The CB-907A or CB-1007A Right Aft Case Baffle may already have an air intake hole pre-punched. If present, seal this hole with a block-off.                                                        4X
+                                                                                                                                                                                    AN470AD3-4
+
+   Step 1: Create the air intake hole in the CB-902A or CB-1002A Forward Left Air Ramp as shown in Figure 1. Position the hole aft of the bend line in the CB-907A or                        VENT DL-03
+   CB-1007A Right Aft Case Baffle as shown in Figure 1.
+
+   Position the hole left and right so that the scat tube will naturally route from the Heat Muff Air Intake to the VENT DL-03 Scat Tube Flange while avoiding interference
+   from the starter or any other components.
+
+   Experiment with the scat tube routing prior to creation of the air intake hole. If necessary, the flange of the VENT DL-03 Scat Tube Flange may be bent to facilitate
+   positioning. Clamp the VENT DL-03 Scat Tube Flange into position.
+
+   Step 2: Clamp, then final-drill #30 the holes in the VENT DL-03 Scat Tube Flange to the CB-902A or CB-1002A Forward Left Air Ramp as shown in Figure 1.                                   CB-902A
+                                                                                                                                                                                         OR CB-1002A
+   WARNING: Install a vent screen in this location if the vent hole is ONLY to provide cabin heat. A vent screen installed upstream of a carburetor heat
+   system may obstruct airflow and drastically reduce engine performance.                                                                                                                                            FIGURE 1: AIR INTAKE HOLE LOCATION
+   Step 3: Rivet the VENT DL-03 Scat Tube Flange and VENT SCREEN 3X3 (optional) to the CB-902A or CB-1002A
+   Forward Left Air Ramp as shown in Figure 1.
+
+   WARNING: For proper carb heat performance, a vent screen must be installed over the cabin heat tube at the location
+   shown in Figure 3.
+
+   Step 4: (If using carb heat) Form the VENT SCREEN 3X3 over the end of the cabin heat tube coming from the Heat Muff Assembly.                                                                                         STARTER
+   See Figure 3 for location.
+
+
+
+
+                                                                                                                                                                                                                                                       E
+   Step 5: Cut lengths of scat tubing to connect the VENT DL-03 Scat Tube Flange to the heat muff air intake tube; the FF-01407
+
+
+
+
+                                                                                                                                                                                                                                                     AK
+                                                                                                                                                                                                                                                                     VENT DL-03
+   FAB Carb Heat Inlet to the heat muff carb heat tube; and the heat muff cabin heat tube to the VENT TG-10 Assembly installed on the
+
+
+
+
+                                                                                                                                                                                                                                                 INT
+   firewall in OP-29 or OP-33. See Figure 2 and Figure 3.                                                                                                                                                                                                         AN737TW, 2 PL
+
+
+
+
+                                                                                                                                                                                                                                                AIR
+   Step 6: Secure the Scat Tubes as shown in Figure 2 and Figure 3. Use additional tie-wraps and clamps as necessary to ensure
+   the scat tubes do not interfere with the oil sump drain, exhaust tube, engine mount or any other components.
+
+                                                                                                                                                                                                                         HEAT MUFF
+                                                                                               HEAT MUFF
+                                                                                                                                                                                                                                                       AIR INTAKE TUBE
+
+
+                                                                                                                                                             3X3 VENT SCREEN
+                                                                                                                                                                                                                                    CARB HEAT TUBE
+
+                                                                                                                                                                       AN737TW, 2 PL
+
+                                                   CA
+                                                     BIN
+
+
+
+
+                                                                                                                                                                                                                 CA AT
+                                                                                                                                                                                                                  HE
+                                                               HE                                                                                                                                                                          AN737TW, 2 PL
+
+
+
+
+                                                                                                                                                                                                                   RB
+                                                                 AT
+
+
+
+
+                                                                                                                                                                                                    H EAT
+                                                                                                                                                                                         C
+                                                                                                                      CARB
+                                                                                                                      HEAT
+
+
+
+
+                                                                                                                                                                                             AB
+                                                                                                                                                                                               IN
+            MS21919-DG12                                                                                                                                                                                                             FF-01407
+
+                   AN3-4
+                 AN310-3
+
+
+
+       MS21919-WDG34
+                                                                                                               FF-01407
+
+               SAFETY WIRE
+           WRAPPED AROUND                                        FIGURE 2: SCAT TUBE ROUTING                                                                                           FIGURE 3: SCAT TUBE ROUTING
+                    CLAMP                                              (O-360 INSTALLATION SHOWN)                                                                                             (O-360 INSTALLATION SHOWN)
+
+
+DATE: 09/11/14   REVISION: 0   RV 3,4,6,7,8,9   PAGE OP 54-4
+

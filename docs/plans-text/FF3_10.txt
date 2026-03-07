@@ -1,0 +1,122 @@
+=== PAGE FF3-1 ===
+SECTION FF3: CONTROL CABLES
+VAN'S AIRCRAFT, INC.
+DATE: 00/00/00 | REVISION: 0 | RV-10 | PAGE FF3-1
+
+[Title page with front view of engine compartment showing control cable routing]
+
+Callouts:
+- PROP GOV MT P-420-3, MT GOVERNOR
+- CT BLUE VPROP 72.5, PROPELLER CONTROL CABLE
+- CB-1002A, FWD LEFT AIR RAMP
+- CT BLK THROTTLE 47.5, THROTTLE CONTROL CABLE
+- CT A-740 BLACK, PUSH PULL CONTROL CABLE
+- WD-1001-D1, DYNA-1 ENGINE MOUNT
+- POST
+- FAB 360, FILTERED AIRBOX (SEE SECTION FF3)
+- CT RED VMIXTURE 51.5, MIXTURE CONTROL CABLE
+- VA-182, IO-320 THROTTLE BRCKT
+- BENDIX THROTTLE BODY
+
+
+=== PAGE FF3-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF3-2 | RV-10 | REVISION: 0 | DATE: 0/00/00
+
+NOTE: See Section 41 Upper Fwd Fuselage Installation for control cable routing aft of the Firewall Bulkhead Assembly.
+
+Step 1: Slip the snap bushings over the end of the control cables as shown in Figure 1 then route the control cables through the three holes in the F-1001K Firewall Recess as shown in Figure 2. The snap bushings can also be slit and installed around the cables already in place.
+
+Step 2: Use RTV high temperature sealant (Permatex #26B Red) or equivalent around the snap bushings as shown in Figure 1.
+
+Step 3: Bundle the control cables together and attach them to the WD-1001-D1 Dyna-1 Engine Mount using two cushioned clamps as shown in Figure 2.
+
+Step 4: Remove the forward most lock washer and nut from the threaded barrel portion of the throttle and mixture cables. Remove both lock washers and both nuts from the propeller cable.
+
+Insert the throttle control cable through the right tab on the VA-182 IO-320 Throttle Brckt and the mixture cable through the lower hole on the left tab on the IO-320 throttle brckt. Clamp the throttle and mixture cables to the IO-320 throttle brckt using the nuts and lock washers removed at the beginning of this step.
+
+Insert the propeller cable through the upper hole on the IO-320 throttle brckt's left tab then install a rubber grommet in the hole. Re-install a nut and then a lock washer to the barrel of the propeller cable. Slide the cable through the CB-1002H Fwd Mounted Prop Gov Cable Bracket then clamp the cable to the bracket with the remaining lock washer and nut. Insert the cable through the CB-1002A Fwd Left Air Ramp and install a rubber grommet in the hole. See Figure 2.
+
+Step 5: Fabricate a Post from AT6-058X5/16 as shown in Figure 3.
+
+Step 6: Slide a cushioned clamp around the carb heat cable sleeve then attach the clamp and Post to the top of the FAB 360 Filtered Airbox. Safety wire the clamp to the sleeve of the carb heat cable. Trim away the sleeve of the cable just enough to allow full travel of the arm on the carb heat door. Slide the end of the cable through the VA-181 Wire Nut on the end of the carb heat door arm then tighten the nut. When satisfied with the cable operation, bend over the end of the cable extending beyond the wire nut. See Figure 2.
+
+Connect the throttle, propeller and mixture cables to their respective control arms using the hardware called out in Figure 2. Check that all control arms move through their full range of motion without interference.
+
+FIGURE 1: FIREWALL PENETRATIONS
+Callouts:
+- CONTROL CABLE, TYP.
+- F-1001K
+- SB500-6
+- SB625-8
+- SEALANT
+- FWD
+
+FIGURE 2: ATTACHING THE CONTROL CABLES
+Callouts:
+- CT BLK THROTTLE 47.5 AND CT A-740 BLACK
+- CT BLUE VPROP 72.5
+- CT RED VMIXTURE 51.5
+- MS21919DG10
+- AN525-10R10
+- AN960-10L
+- MS21042-3
+- WD-1001-D1
+- MS21919DG12
+- VA-182
+- MS35333-43, 2 PLACES
+- AN316-7R, 2 PLACES
+- CT BLK THROTTLE 47.5
+- CT BEARING MW-3M
+- AN960-10L
+- MS21042-3
+- 5702-475-48 Z3
+- 5702-75-60, 2 PLACES
+- AN3-10A
+- SAFETY WIRE
+- AN3-17A
+- MS21919WDG3
+- CT A-740 BLACK
+- VA-181
+- BEND OVER WIRE
+- POST
+
+CABLE BUNDLE detail callouts:
+- CB-1002H
+- F-1001K
+
+THROTTLE DETAIL callouts (circular detail view):
+- 5702-75-60, 2 PLACES
+- 5702-475-48 Z3
+- AN3-10A
+- AN960-10L
+- MS21042-3
+
+CARB HEAT DETAIL callouts (lower left area)
+
+PROPELLER DETAIL callouts (upper right circular detail view):
+- 5702-75-60, 2 PLACES
+- AN960-10L
+- MS21042-3
+- CT BEARING MW-3M
+- AN315-3R
+- AN931-4-12
+- AN316-7R, 2 PLACES
+- MS35333-43, 2 PLACES
+- CB-1002A
+- CT BLUE VPROP 72.5
+
+MIXTURE DETAIL callouts (lower right circular detail view):
+- CT RED VMIXTURE 51.5
+- 5702-475-48 Z3
+- AN3-10A
+- 5702-75-60, 2 PLACES
+- CT BEARING MW-3M
+- AN315-3R (NOT SHOWN)
+- MS21042-3
+- AN960-10
+
+FIGURE 3: FABRICATING THE POST
+Dimensions:
+- (5/16) x 1 3/8
+- (.058)

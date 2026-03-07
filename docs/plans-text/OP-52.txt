@@ -1,0 +1,247 @@
+                                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
+
+
+ SECTION OP-52: LANDING LIGHT                                                                                                                                                                                                     LANDING LIGHT CUTOUT,
+                                                                                                                                                                                                                                  REMOVE HATCHED AREA
+                                                                                                                                                                                       RIVET HOLES
+NOTE: Except where separate instructions and/or figures exist for both left and right sides of the aircraft, only the left                     W-00017                                                                                   W-00017
+                                                                                                                                                                                       DIMPLE FLUSH
+side parts, assemblies, or installations will be shown.                                                                                                                           6X   THIS SIDE
+                                                                                                                                     4X SCREW HOLES
+                                                                                                                                                                                       AN426AD3-3.5
+It is the builder's choice as to whether to complete all steps for the left side before repeating those steps for the right
+side or to complete each step for both left and right sides before moving to the next step.
+
+Step 1: Align the top half of the template supplied on Page OP52-05 with the corresponding top leading edge rib rivets on
+the W-1001-L Leading Edge Skin.
+
+CAUTION: Do not use the template to mark all the holes at once!
+
+Step 2: Use a center punch to mark the center of the six rivet holes and the four screw holes that will be added to the TOP of the
+leading edge skin.
+
+Step 3: Mark the perimeter of the UPPER HALF of the landing light cutout.                                                                                                                                                                           W-1009-R
+                                                                                                                                                                                               4X SCREW HOLES
+                                                                                                                                                                                                                                              RIVET HOLES
+Step 4: Align the bottom half of the template with the corresponding bottom leading edge rivets on the leading edge skin.                 W-1001-L                                                                                            DIMPLE FLUSH
+                                                                                                                                                                                                                                         6X
+                                                                                                                                                           LANDING LIGHT CUTOUT,                                                              THIS SIDE
+Step 5: Use a center punch to mark the center of the six rivet holes and the four screw holes that will be added to the BOTTOM
+                                                                                                                                                           REMOVE HATCHED AREA                                                                AN426AD3-3.5
+of the leading edge skin.
+
+Step 6: Mark the perimeter of the LOWER HALF of the landing light cutout.
+                                                                                                                                              FIGURE 1: LANDING LIGHT CUTOUT                   FIGURE 2: LANDING LIGHT CUTOUT
+Step 7: Drill #40 the holes marked in Step 2 and Step 5 into the leading edge skin.                                                                           (UPPER)                                                   (LOWER)
+
+Step 8: Final-Drill #30 the eight screw holes. See Figure 1 and Figure 2.
+
+Step 9: Remove the material inside the perimeter of the landing light cutout and deburr the edges.
+                                                                                                                                                                   DIMPLE FLUSH
+Step 10: Dimple the #40 holes in the W-00018 Backing Plates as called-out in Figure 3.                                                                        8X   THIS SIDE,
+                                                                                                                                                                                                            MACHINE COUNTERSINK TO FIT
+                                                                                                                                                                   AN426AD3-3.5
+                                                                                                                                                                                                      4X    AN AN426AD3 RIVET
+Step 11: Machine countersink the #40 holes in the W-00017 Mount Brackets as shown in Figure 4.                                                                                                              AN426AD3-3.5
+                                                                                                                                                                        W-00018
+Step 12: Dimple the rivet holes in the leading edge skin. See Figure 1 and Figure 2.
+
+Step 13: Prime all parts as desired. Now is the recommended time to apply a finish coat of matte black
+or gloss white inside the landing light coves.
+
+Step 14: Dimple the nutplates called out in Figure 3. See Section 5.16 for more information on dimpling nutplates.          4X K1000-06
+
+Step 15: Rivet the nutplates to all four W-00018 Backing Plates. See Figure 3.
+                                                                                                                               FIGURE 3: INSTALL BACKING
+Step 16: Rivet the nutplates to both W-00017 Mount Brackets. See Figure 4.
+                                                                                                                                   PLATE NUTPLATES                                                         K1000-3
+Step 17: Rivet the W-00017 Mount Bracket to the leading edge skin. See Figure 1 and Figure 2.
+
+
+                                                                                                                                                         MACHINE COUNTERSINK TO
+                                                                                                                                                           FIT A DIMPLED .025 SKIN,    6X
+                                                                                                                                                                  TOP AND BOTTOM
+                                                                                                                                                                                              W-00017
+
+
+                                                                                                                                                                                   FIGURE 4: INSTALL MOUNT BRACKET NUTPLATES
+
+                                                                                                                                                                                                            DATE OF COMPLETION:
+                                                                                                                                                                                                            PARTICIPANTS:
+
+                                                                                                                                                                                                            DATE: 03/14/16 REVISION: 0   RV-10     PAGE:   OP52-01
+                        VAN'S AIRCRAFT, INC.
+                                                                NOTE: See Section 5.19 for tips on working with Plexiglass.               Step 5: Reinstall the W-00014 Lens into the W-1001-L Leading Edge
+                                                                                                                                          Skin. Pull on the tape to keep the lens snug against the inside leading
+                            NOTE: Be aware of "curled" edges on the lens.                                                                 edge of the wing.
+
+   Step 1: Place the W-00014 Lens over the outside of the wing as shown in Figure 1. Trace a line approximately 3/4 [19.0 mm] from        Match-Drill #30 using a plexi-bit then cleco the lens to the leading edge skin as shown in Figure 4.
+   the edge of the landing light cutout. Place the least "curled" part of the lens over the opening in the W-1001-L Leading Edge Skin.
+                                                                                                                                          Step 6: Remove the W-00014 Lens from the wing.
+   Remove the lens from the wing and trim to the line just marked.                                                                                                                                    4X MATCH-DRILL &                           W-1001-L
+                                                                                                                                          Final-Drill #27, deburr, then dimple the eights screw   CLECO, TOP & BOTTOM
+   Step 2: Cover the W-00014 Lens with masking tape to protect it. Attach additional pieces of tape around the lens as shown in           holes in the W-1001-L Leading Edge Skin to fit the
+   Figure 1.                                                                                                                              head of a #6 screw.
+
+   Step 3: Insert the W-00014 Lens into the opening in the W-1001-L Leading Edge Skin. Place the outboard edge against the                Step 7: Final-Drill #27 the screw holes in the W-00014 Lens with
+   outboard most rib flange. Pull on the tape to keep the lens snug against the inside leading edge of the wing.                          a plexi-bit.
+
+   Use a sharpie pen to trace the shape of the landing light cutout onto the lens.                                                        Machine countersink the screw holes in the lens for the
+                                                                                                                                          corresponding dimples in the W-1001-L Leading Edge Skin.
+
+                                                                                                                                          Carefully deburr the interior edges of the screw holes as the sharp edges
+                                       W-00014                                                                                            which result from countersinking are particularly susceptible to cracking.
+                                                REMOVE HATCHED AREA                                                                       Step 8: Radius any sharp edges of the W-00014 Lens. See Figure 5.                  W-00014
+
+                                                                                                                                          Smooth all trim marks with 220 grit sandpaper.
+                                                                                                                      W-00014             NOTE: Van's Aircraft recommends 3M tape (product number                        FIGURE 4: MATCH-DRILL THE LENS
+                                                      W-1001-L                                                                            F9460PC VHB).
+
+                                                                                                                                          Step 9: Use double sided tape (not included in the kit) or equivalent
+                                             3/4 [19.0 mm]                                                                                adhesive to secure the W-00018 Backing Plates to the inside face of            6X DOUBLE SIDED TAPE,
+                                                                                           TAPE
+                                                                                                                                          the W-00014 Lens as shown in Figure 5.                                                   2X W-00018
+
+                                                                                                                                          Step 10: Install the W-00014 Lens as shown in Figure 6.
+                  FIGURE 1: FITTING THE LENS                                              FIGURE 2: LENS TAPE
+                                                                                                                                          Reach through the lightening hole in the W-1019-R Leading Edge Rib
+   Step 4: Remove the W-00014 Lens from the wing.                                                                                         and push to provide leverage as the screws are tightened.
+
+   Clamp the W-0018 Backing Plates onto the W-00014 Lens as shown in Figure 3.                                                            Someone with small hands works well here.
+
+   Mark a line 1/4 [6.3 mm] from the aft edges of the backing plates, and 1/4 [6.3 mm] from the width of the landing light cutout line.   Use rubber gloves to avoid getting human skin oils
+   See Figure 3.                                                                                                                          on the clean lens for final installation.
+
+   Unclamp the backing plates.
+                                                                                                1/4 [6.3 mm]
+   Trim the lens to the line just marked. See Figure 3.                                                                                                                                                                      W-00014
+                                                                                                   REMOVE HATCHED AREA                                              W-1001-L
+
+                             W-00018, 2 PL                                                                                                     8X AN507C632R6
+
+
+          LANDING LIGHT CUTOUT LINE
+
+
+
+                                                                                                                                                                                                                                                            RADIUS ANY
+                                                                                                                                                                                                                                                            SHARP EDGES
+
+                               W-00014
+                                                                                                     1/4 [6.3 mm]
+                                                                                                                                                              W-00014                                                       FIGURE 5: FINAL LENS SHAPE
+                                                                                                                                                                                                           W-1019-R
+                       FIGURE 3: TRIMMING THE LENS
+                                                                                                                                                       FIGURE 6: INSTALLING THE LENS
+
+PAGE:   OP52-02     RV-10      REVISION: 0   DATE: 03/14/16
+                                                                                           VAN'S AIRCRAFT, INC.
+                     RIGHT WING TEMPLATE
+             NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3
+                     BEFORE USING THE TEMPLATE!
+                                                              INBOARD
+
+
+
+                                       SCREW HOLES                                                     SCREW HOLES
+
+
+
+
+                                                                                                        BOTTOM
+                                            TOP
+                                                           LANDING LIGHT CUTOUT
+                                                                   SCALE 1:1
+
+
+  10 9/16
+[268.3 mm]
+
+
+
+
+                                       SCREW HOLES                                                     SCREW HOLES
+
+
+
+           TOP LEADING                                                                                              BOTTOM LEADING
+        EDGE RIB RIVETS                                                                                             EDGE RIB RIVETS
+
+
+
+
+                                                             OUTBOARD
+
+                                                                                       REMOVE WEDGE SHAPED
+                                                           OUTBOARD SKIN EDGE     SHADED AREA FROM TEMPLATE,
+                                                                                                        TYP.
+
+
+
+                                                                                              DATE: 03/14/16 REVISION: 0   RV-10   PAGE:   OP52-03
+                    VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                         THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE:   OP52-04   RV-10   REVISION: 0   DATE: 03/14/16
+                                                                                        VAN'S AIRCRAFT, INC.
+                   LEFT WING TEMPLATE
+          NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3
+                                                               INBOARD
+                  BEFORE USING THE TEMPLATE!
+
+
+
+
+                    SCREW HOLES                                                   SCREW HOLES
+
+
+
+                             BOTTOM
+
+
+
+
+                                                                                      TOP
+                                                        LANDING LIGHT CUTOUT
+                                                               SCALE 1:1
+
+
+
+
+                    SCREW HOLES                                                   SCREW HOLES
+
+
+
+           BOTTOM LEADING                                                                                                TOP LEADING
+  10 9/16  EDGE RIB RIVETS                                                                                               EDGE RIB RIVETS
+[268.3 mm]
+
+
+
+
+                                                        OUTBOARD
+                         REMOVE WEDGE SHAPED
+                         SHADED AREA FROM TEMPLATE,          OUTBOARD SKIN EDGE
+                         TYP.
+
+
+                                                                                            DATE: 03/14/16 REVISION: 0   RV-10   PAGE:   OP52-05
+                    VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                         THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE:   OP52-06   RV-10   REVISION: 0   DATE: 03/14/16
+

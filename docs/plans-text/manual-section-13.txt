@@ -1,0 +1,195 @@
+SECTION 13 PAINTING                                                                                RV AIRCRAFT
+
+
+
+
+                       SECTION 13:                               PAINTING
+An entire book could be written on the subject of aircraft painting and still leave many questions unanswered. There
+are many surface preparations, primers, and paints available, and more coming on the market every day. Paints
+range anywhere from the older enamels and acrylic lacquers up through the newer acrylic enamels, urethanes, and
+epoxy finishes. Which one is best probably depends on the end result desired by the individual builder. However,
+the urethanes seem to be favored by most builders now because of their relative ease of application and shiny,
+maintenance free finish. The purpose of this section is only to present some general ideas, not to provide the ‘‘best
+way’’ of applying the ‘‘best’’ paint.
+
+COLOR SCHEME
+Before getting serious about the type of paint to be used and the method and technique of application, most
+builders spend many months (or years?) while building trying to decide their paint scheme. Toward this end, little
+can be offered other than the suggestion that conservative colors and paint scheme will always look good on the
+basically good lines of an RV. More daring combinations of colors and patterns may result in a ‘‘fabulous’’ paint
+scheme, or could result in an eyesore which is too ‘‘busy’’ or gaudy to be appealing. Unless you have a very good
+eye for colors and patterns, it may not be worth the gamble. We have provided two drawings; one perspective, and
+the other a three view, for you to practice on. Just run off a few dozen copies of these drawings on your office
+copier (when the boss isn’t looking), buy a box of colored pencils and start sketching out your dream scheme.
+Aside from the aesthetic aspects of color scheme selection, you might also give serious thought to recognition; i.e.;
+how well will your combination of colors stand out from the background when in flight. How visible will it be to pilots
+of other aircraft in flight? With the dense air traffic and haze of air pollution encountered around many airports, see-
+and-be-seen should be a major safety concern to all pilots. Light colors are generally considered to be the most
+visible against typical backgrounds found while flying in the USA. Yellow is probably the most universally visible,
+and can also be trimmed to provide very attractive paint schemes.
+The question of whether a painted or bare aluminum airplane goes faster is often raised. Experience with the
+prototype RVs has not provided a definitive answer, so it would appear that there is little difference in skin friction
+drag from a typical painted surface to a typical bare aluminum surface.
+
+PAINTING HEALTH HAZARDS
+Spray painting can present a health hazard, particularly with most of the newer two-part paints. Chemicals used in
+the hardeners of urethane, acrylic enamel, and epoxy paints cause them to be potentially very hazardous if
+breathed, and can be harmful even through excessive exposure to the skin. For this reason, the painting area must
+be well ventilated and a UL approved respirator must be used. A simple particle filter is just not good enough. Also,
+full coverage clothing should be used to prevent skin exposure. Builders sometimes disregard warnings on the likes
+of paint cans because they become indifferent after daily exposure to warnings on all sorts of relatively benign
+household items. But where modern paints products are concerned, the warning should be taken very seriously
+PLEASE TAKE PAINT CAN TOXIC WARNINGS SERIOUSLY!!!
+
+PAINTING: ONE EXAMPLE
+While we are not presenting this to be the proven ‘‘most ideal’’ paint and procedure, it was used on the prototype
+RV-4 under ‘‘home’’ conditions and by amateur painters. It consists simply of preparing the bare ‘‘alclad’’ aluminum
+surface with an acid wash (DuPont 255S cleaner, Martin Senour 6879 Twin Etch, etc.), followed by an application of
+Alodine, and then directly by DuPont Imron Polyurethane paint. While a primer or primer/surfacer could be used
+between the Alodine and the Imron, it was left off as a weight saving measure. Only the minimum thickness of
+Imron was used to get the desired flow-out for a slick surface. After the Alodine application, the skins were
+completely dried to remove any moisture which might later contribute to filiform skins corrosion. This was done with
+an air nozzle and repeated passes over all metal seams and rivets. The RV -6 prototype was painted with a similar
+‘‘Minimum weight’’ approach, but in this instance Ditzler Durethane paint was used.
+Painting an airplane obviously adds to its weight. The amount of weight depends on the type and amount of paint,
+primer and surface filler used. The ‘‘No-primer’’ Imron process described above will weigh about 15 lbs; about
+minimum for a complete paint job. A really elaborate paint job with all the extras could add two or three times this
+weight. In addition, heavy paint jobs will tend to shift the Center of gravity rearward because of the paint weight on
+the empennage. Control surface balance on the RVs has not been found to be critical. A normal (light) paint
+application on the ailerons and elevator will not upset their balance to a noticeable degree. However, a heavy paint
+job will require that these surfaces be re-balanced and additional counter balance weight added if necessary.
+
+
+sect 13.pub   3/5/01                                   13-1
+RV AIRCRAFT                                                                          SECTION 13 PAINTING
+
+
+
+MASKING
+Application of masking tape for color separation and pin-striping is perhaps the most time consuming part of
+painting. Masking a straight line is tough enough, but getting just the right curve or ‘‘sweep’’ to a line is an art.
+Common hardware store masking tape usually gives poor results for distinct line separation because it permits too
+much ‘‘bleed under’’. Plastic ‘‘decorator’’ tape yields a nice crisp edge, but is rather expensive. Plastic electricians
+tape works fairly well and is relatively cheap. ‘‘Scotch’’ tape also works well, but is hard to remove after painting.
+There is no doubt that a smooth, wave free surface offers less aerodynamic drag than an imperfect one, but it is not
+known how much effect this will have on the speed of an RV. Probably not much unless the entire airframe is filled
+and smoothed before painting, and then the paint is rubbed-out perfectly smooth. This would entail much work,
+would add weight, and would probably not be advisable unless the builder wanted a 100% perfect airplane rather
+than a 98% perfect one. The price for that last 2% would be high in terms of added work required.
+For the typical paint job, the builder obviously should try to work in a dust free environment so the paint surface will
+be as smooth as possible without the need for rub-out. Spanwise trim stripes should be avoided very near the wing
+leading edge. Much is being written about the effects of spanwise surface irregularities on the boundary layer
+control on airfoils, particularly those on canard configuration airplanes. The concern is that any surface irregularity
+near the wing leading edge, particularly spanwise ones, can disrupt the boundary layer airflow, upset laminar flow,
+and cause an increase in drag and a decrease in lift. On canard airplanes this can seriously affect not only
+performance, but also stability and control. On an RV, with its conventional configuration and non-laminar flow
+airfoil, the effects of surface irregularities are relatively minor. However, a rough paint trim line within the first few
+inches of the wing leading edge would probably cause a measurable effect on stall and top seeds. Trim lines more
+than 8-9 inches from the leading edge have a minimal effect, but even then should be rubbed out as smoothly as
+possible.
+
+
+
+
+sect 13.pub   3/5/01                                   13-2
+SECTION 13 PAINTING           RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-3
+RV AIRCRAFT                   SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-4
+SECTION 13 PAINTING           RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-5
+RV AIRCRAFT                   SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-6
+SECTION 13 PAINTING           RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-7
+RV AIRCRAFT                   SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-8
+SECTION 13 PAINTING           RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-9
+RV AIRCRAFT                    SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-10
+SECTION 13 PAINTING            RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-11
+RV AIRCRAFT                    SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-12
+SECTION 13 PAINTING            RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-13
+RV AIRCRAFT                    SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-14
+SECTION 13 PAINTING            RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-15
+RV AIRCRAFT                    SECTION 13 PAINTING
+
+
+
+
+sect 13.pub   3/5/01   13-16
+SECTION 13 PAINTING            RV AIRCRAFT
+
+
+
+
+sect 13.pub   3/5/01   13-17
+RV AIRCRAFT                    SECTION 13 PAINTING
+
+
+
+                       NOTES
+
+
+
+
+sect 13.pub   3/5/01   13-18
+

@@ -1,0 +1,574 @@
+                                                              VAN'S AIRCRAFT, INC.
+
+
+
+
+                                       WD-421-L
+                                                      SECTION 23:
+                                                  AILERON ACTUATION
+                                       AILERON
+                                      BELLCRANK
+
+
+
+
+                                                                                   WD-1014C
+       W-1018                                                                    TORQUE TUBE
+BELLCRANK TO AILERON                                                               COLLAR
+      PUSHROD                                                                                    WD-1014
+                                                                                                 AILERON
+                           W-1017                                                              TORQUE TUBE
+                       TORQUE TUBE
+                       TO BELLCRANK
+                         PUSHROD
+
+
+
+
+                                                                                         WD-1014
+                                                                                     AILERON TORQUE
+                                                               W-1017                     TUBE
+                                                           TORQUE TUBE
+                                                           TO BELLCRANK
+                                                             PUSHROD
+
+
+
+
+                                                                  DATE: 01/28/13 REVISION: 0   RV-10   PAGE   23-1
+                       VAN'S AIRCRAFT, INC.                                                                                 Step 3 (continued): Mark the threaded rod ends so that they can be re-installed in the same
+                        Step 1: Fabricate two W-1017A Torque Tube to Bellcrank Pushrods by cutting                          position as when they were match-drilled. Remove the threaded rod ends from the torque tube to
+                        two pieces of AT6-049 X 1 1/4 to the length shown in Figure 1.                                      bellcrank pushrods and deburr all holes in all parts and prime all parts inside and out.
+
+                                                                                                                            Permanently install the threaded rod ends to the torque tube to bellcrank pushrods using the rivets
+                                                                                                                            called-out in Figure 2.
+
+
+
+
+                                                90 5/8
+                                                                                                                   Ø1 1/4
+
+
+
+
+                                                                                                                                                                                                   ALIGN THIS EDGE
+                                                                                                                                                                                                    WITH TUBE END
+                                                                                                                              W-1017A
+
+                                                                                                                                                                                                                       VA-169
+
+                           FIGURE 1:                                                                                                    MSP-42,
+         TORQUE TUBE TO BELLCRANK PUSHROD FABRICATION                                                       .049                       6 PLACES
+
+
+
+
+                                                                                                                                                             FIGURE 2:
+                                                                                                                                                   THREADED ROD END INSTALLATION
+
+
+
+                                                                                                                            Step 4: Install rod end bearings and jam nuts into the VA-169 Threaded Rod Ends as shown in
+                                                                                                                            Figure 3. Theoretically the correct engagement of the rod end bearings yields a bearing
+                                                                                                                            center-to-bearing center length of 94 7/16 inches. The rod end bearing engagement may be
+                                                                                                                            adjusted during installation of the W-1017 Torque Tube to Bellcrank Pushrod.
+
+
+
+
+  Step 2: Cut-out Page 23-10, Figure 1 and use it as a wrap-around template for locating the rivet
+  holes in both ends of both W-1017A Torque Tube to Bellcrank Pushrods. Use clear tape to make
+  the template into a ring and align it with the end of the pushrod. Center-punch the "cross hairs" in
+  the wrap-around template. Remove the template and use a #40 drill to make six pilot holes in each
+  end of both torque tube to bellcrank pushrods. Deburr the hole edges on the inside of the pushrod
+                                                                                                                                                                             AN316-6
+  tubes.
+
+
+  Step 3: Insert a VA-169 Threaded Rod End into the end of one of the W-1017A Torque Tube to
+  Bellcrank Pushrods. Proper engagement of the threaded rod end in the torque tube to bellcrank
+  pushrod is when the end of the tube coincides with the edge of the taper in the threaded rod end.                                                                                                   MD3614M
+  See Figure 2.
+                                                                                                                                                                VA-169
+  Using a #30 bit, match-drill the threaded rod end using the pilot holes in the torque tube to bellcrank
+  pushrod as drill guides. Insert clecos in the holes as match-drilling progresses around the
+  circumference of the torque tube to bellcrank pushrod.                                                                                              FIGURE 3:
+  Repeat until threaded rod ends have been match-drilled to both ends of both torque tube to
+                                                                                                                                                ROD END BEARING AND
+  bellcrank pushrods.                                                                                                                           JAM NUT INSTALLATION
+
+PAGE   23-2    RV-10      REVISION: 0   DATE: 01/28/13
+Step 1: Fabricate two W-1018A Bellcrank to Aileron Pushrods by cutting two pieces of ST4130-035 X 1/2 to the length shown in
+                                                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+Figure 1.                                                                                                                           Step 4: Install rod end bearings and jam nuts into the AN490-HT8P Threaded Rod Ends as shown
+                                                                                                                                    in Figure 4. Theoretically the correct engagement of the rod end bearings yields a bearing
+                                                                                                                                    center-to-bearing center length of 25 1/4 inches. The rod end bearing engagement may be
+                                                                                                                                    adjusted during installation of the W-1018 Bellcrank to Aileron Pushrod.
+                                                  21 11/32                                                          Ø1/2
+
+
+                                                                                                                                                                                                     W-1018A
+
+
+                                                                                                     .035
+                                FIGURE 1:
+               BELLCRANK TO AILERON PUSHROD FABRICATION
+
+                                                                                                                                                                     F3414M
+
+Step 2: Use a #40 drill to make four pilot holes in each end of both W-1018A Bellcrank to Aileron Pushrods as shown in Figure 2.                                                                            AN490-HT8P
+Use a drill press to drill the holes and use a vee-block to support the pushrod tube while drilling. Deburr the hole edges on the
+inside of the pushrod tubes.
+                                                                                                                                                                                                AN316-4
+
+                                                                                                                                                                                               FIGURE 4:
+                                 PILOT DRILL
+                                                                                                                                                                                         ROD END BEARING AND
+ 7/32                                                                             HOLE AXIS
+                                #40, 4 PLACES                                                                      90°                                                                   JAM NUT INSTALLATION
+
+
+
+
+13/32
+                                                                                        HOLE AXIS
+                                 FIGURE 2:
+                PILOT-DRILL BELLCRANK TO AILERON PUSHROD
+
+                                                                                                                                    Step 5: Fabricate two W-1031 Aileron Bellcrank Spacers by cutting two pieces of AT6-058 X 5/16 to the length shown in Figure 5.
+
+
+Step 3: Insert an AN490-HT8P Threaded Rod End into the
+end of one of the W-1018A Bellcrank to Aileron Pushrods                                                                                                                             1 1/16
+until the step on the threaded rod end rests on the end of
+the bellcrank to aileron pushrod.
+
+Using a #30 bit, match-drill the threaded rod end using the             AN470AD4-11,
+pilot holes in the bellcrank to aileron pushrod as drill guides.         2 PLACES
+Insert clecos in the holes as match-drilling progresses.
+
+Repeat until threaded rod ends have been match-drilled to                                                                                                                                                                 .058                Ø5/16
+both ends of both bellcrank to aileron pushrods.
+
+Mark the threaded rod ends so that they can be re-installed                                                                                                                          FIGURE 5:
+                                                                   AN490HT8P
+in the same position as when they were match-drilled.                                                                                                                  AILERON BELLCRANK SPACER FABRICATION
+Remove the threaded rod ends from the bellcrank to aileron
+                                                                                                                     W-1018A
+pushrods and deburr all holes in all parts. Prime the
+bellcrank to aileron pushrod inside and out.
+
+Permanently install the threaded rod ends to the bellcrank to
+aileron pushrods using the rivets called-out in Figure 3.
+
+
+                                                                                FIGURE 3:
+                                                                      THREADED ROD END INSTALLATION
+                                                                                                                                                                                                                 DATE: 01/28/13 REVISION: 0   RV-10     PAGE   23-3
+                       VAN'S AIRCRAFT, INC.                                                                     Step 2: Install the WD-421-L Aileron Bellcrank/BUSH BR-065 X .375 X 2.781 Aileron
+                        Step 1: Check that the length of both of the BUSH BR-065 X .375 X 2.781                 Bellcrank Bushing subassembly into the left wing as shown in Figure 2.
+                       Aileron Bellcrank Bushings is between 2 3/4 inches and 2 25/32 inches.
+  Check that an AN4 bolt will fit the inside diameter of the aileron bellcrank bushings and ream if            Install the WD-421-R Aileron Bellcrank/BUSH BR-065 X .375 X 2.781 Aileron
+  required. Deburr the ends of the aileron bellcrank bushings so that they slide easily inside the             Bellcrank Bushing subassembly into the right wing.
+  WD-421 Aileron Bellcranks. See Figure 1.
+                                                                                                                When the nuts are torqued to the value called-out in Section 5V, the aileron bellcranks
+  The pivot tube of the aileron bellcrank must be 1/32 inch to 1/16 inch shorter than the aileron               must rotate freely on their aileron bellcrank bushings.
+  bellcrank bushing. File the ends of the aileron bellcrank pivot tubes if/as required to achieve the
+  correct length. Deburr the inside edges of the aileron bellcrank pivot tubes. See Figure 1.
+
+  Insert an aileron bellcrank bushing into each aileron bellcrank as shown in Figure 1.
+
+
+
+
+                                                  BUSH BR-065 X .375 X 2.781
+
+
+                                                 DEBURR INSIDE
+                                                EDGE, BOTH ENDS
+
+
+              DEBURR
+               ENDS                                                                                                                                    WD-421-L
+                                                                                                           AN4-32A                                                      LEFT WING ASSEMBLY
+                                                                                                                                                                          (UPPER WING SKIN
+                                                                        WD-421-L                                                                                        OMITTED FOR CLARITY)
+
+
+
+
+                         FIGURE 1:
+          AILERON BELLCRANK BUSHING INSTALLATION
+
+
+
+
+                                                                                                        AN960-416
+
+
+
+                                                                                                                                                       AN365-428
+
+
+
+
+                                                                                                                                   FIGURE 2:
+                                                                                                                        AILERON BELLCRANK INSTALLATION
+PAGE   23-4    RV-10      REVISION: 0   DATE: 01/28/13
+Step 1: Insert a VA-162 Pushrod End in the "long" end of two WD-1014 Aileron Torque Tubes until the step on the pushrod end          Step 3: Insert WD-1014C Torque Tube Collars in the open ends of the
+                                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+rests on the end of the aileron torque tube. See Figure 1.                                                                           WD-1014 FORWARD Forward Torque Tube Subassemblies as shown in Figure 3.
+
+Using a #30 bit, match-drill the pushrod ends using the holes in the aileron torque tubes as drill guides. See Figure 1. Install a   Using a #30 bit, match-drill the torque tube collar using the holes in the forward torque tube subassemblies as
+cleco in each hole as it is match-drilled.                                                                                            drill guides. See Figure 3. Install a cleco in each hole as it is match-drilled. Using a #12 bit, final-drill through both sides of the
+                                                                                                                                     forward torque tube subassembly and torque tube collar. Install a bolt, washer, and nut as shown in Figure 4 to hold alignment
+Mark the pushrod ends and aileron torque tubes so that the pushrod ends can be re-installed in the same orientation as when          while the other bolt hole is final-drilled #12.
+they were match-drilled. Remove the pushrod ends from the aileron torque tubes and deburr the holes. Attach the pushrod ends
+to the aileron torque tubes using the hardware called out in Figure 1.                                                                                          WD-1014 FORWARD
+
+The aileron torque tube subassemblies created in this step will subsequently be referred to as the WD-1014 FORWARD Forward
+Torque Tube Subassemblies.                                                                                                                                                                                  WD-1014C ENGAGES
+                                                                       "LONG" END                                                                                                                         FORWARD TORQUE TUBE
+                     "SHORT" END
+                                                                       OF WD-1014                                                                                                                        SUBASSEMBLY BY 1 1/2 INCH
+                      OF WD-1014
+
+
+
+
+                                                                                       VA-162
+
+
+                  WD-1014
+                                                                        MSP-42,
+                                                                       2 PLACES
+                                                                                                                                                                                                  WD-1014C
+
+                                                                                                                                                                          FIGURE 3:
+                                   FIGURE 1:                                                                                                                   MATCH-DRILL TORQUE TUBE COLLAR
+                        FORWARD TORQUE TUBE SUBASSEMBLY
+
+Step 2: Insert a VA-162 Pushrod End in the "short" end of the two remaining WD-1014 Aileron Torque Tubes until the step on the       Step 4: Mark the WD-1014 FORWARD Forward Torque Tube Subassemblies and WD-1014C Torque Tube Collars so that they
+pushrod end rests on the end of the aileron torque tube. See Figure 2.                                                               can be re-installed in the same orientation as when they were match-drilled. Remove the nut, washer, and bolt that were installed
+                                                                                                                                     during match-drilling. Remove the torque tube collars from the forward torque tube subassemblies and deburr the holes. Prime
+Using a #30 bit, match-drill the pushrod ends using the holes in the aileron torque tubes as drill guides. See Figure 2. Install a   the torque tube collars both inside and out; prime the inside of the forward torque tube subassemblies.
+cleco in each hole as it is match-drilled.
+                                                                                                                                     Attach the forward torque tube subassemblies to the torque tube collars using the hardware called out in Figure 4.
+Mark the pushrod ends and aileron torque tubes so that the pushrod ends can be re-installed in the same orientation as when
+they were match-drilled. Remove the pushrod ends from the aileron torque tubes and deburr the holes. Attach the pushrod ends                             WD-1014 FORWARD
+to the torque tubes using the hardware called out in Figure 2.
+
+The aileron torque tube subassemblies created in this step will subsequently be referred to as the WD-1014 AFT Aft Torque Tube
+Subassemblies.
+                                                         "LONG" END
+     "SHORT" END                                         OF WD-1014                                                                                        AN960-10,
+                                                                                                                                                                                                                    AN3-13A,
+      OF WD-1014                                                                                                                                           2 PLACES
+                                                                                                                                                                                                                    2 PLACES
+                                                                                                                                                       AN365-1032,
+                                                                                                                                                        2 PLACES
+
+
+                  VA-162
+
+
+
+          MSP-42,                                        WD-1014
+         2 PLACES                                                                                                                                                                                            WD-1014C
+                                                                                                                                                                                   FIGURE 4:
+                                                                                                                                                                              TORQUE TUBE COLLAR
+                                                                                                                                                                               BOLT INSTALLATION
+                                           FIGURE 2:
+                                 AFT TORQUE TUBE SUBASSEMBLY
+                                                                                                                                                                                                                              DATE: 01/28/13 REVISION: 0    RV-10       PAGE    23-5
+                        VAN'S AIRCRAFT, INC.
+                                                                                                                                                                                                                           SEE
+                     Step 1: Create the left side torque tube assembly by inserting the aft end of one of                                                                                                               FIGURE 2
+                     the WD-1014C Torque Tube Collars (which are bolted to the WD-1014 FORWARD                                                                        17 25/32
+ Forward Torque Tube Subassemblies) into the open end of one of the WD-1014 AFT Aft Torque Tube                                                                          TO
+ Subassemblies as shown in Figure 1.                                                                                                                                   17 3/4
+
+ Place the torque tube assembly on a flat surface as shown in Figure 3.
+
+ Adjust the engagement of the torque tube collar and the aft torque tube subassembly such that
+ the overall length is as shown in Figure 1.
+
+ Adjust the clocking of the torque tube collar and the aft torque tube subassembly such that when a 5/16 inch thick spacer block is                              WD-1014C
+ placed under the arm of the aft torque tube subassembly, the arm of the forward torque tube subassembly is flat on the table. See                                                                  WD-1014 AFT
+ Figures 2 and 3.
+
+ Step 2: When assured that both the engagement and clocking of the torque tube assembly is correct, use a #30 bit to match-drill             WD-1014 FORWARD
+ the torque tube collar using the holes in the aft torque tube subassembly as drill guides. Install a cleco in each hole as it is
+ match-drilled. After the first hole is match-drilled and clecoed, the torque tube assembly can be moved off of the flat surface for                           FIGURE 1:
+ drilling the remaining holes. See Figures 3 and 4. Using a #12 bit, final-drill through both sides of the torque tube and torque tube                TORQUE TUBE ASSEMBLY LENGTH
+ collar. Install a bolt, washer, and nut as shown in Page 23-7, Figure 1 to hold alignment while the other bolt hole is final drilled #12.
+                                                                                                                                                                                                                             SEE
+ Step 3: Create the right side torque tube assembly by inserting the aft end of the remaining WD-1014C Torque Tube Collar into the                                                                                        FIGURE 2
+ open end of the remaining WD-1014 AFT Aft Torque Tube Subassembly as shown in Figure 1.
+
+ Place the torque tube assembly on a flat surface as shown in Figure 4.
+                                                                                                                                                      WD-1014 FORWARD
+ Adjust the engagement of the torque tube collar and the aft torque tube subassembly such that
+ the overall length is as shown in Figure 1.
+
+ Adjust the clocking of the torque tube collar and the aft torque tube subassembly such that when a 5/16 inch thick spacer block is
+ placed under the arm of the aft torque tube sub-assembly, the arm of the forward torque tube subassembly is flat on the table. See
+ Figures 2 and 4.                                                                                                                                     WD-1014 AFT
+
+ Step 4: Drill the right side torque tube subassembly as previously described in Step 2.
+
+ Step 5: Remove the nuts, washers, and bolts that were installed during final-drilling. Remove the WD-1014 AFT Aft Torque Tube
+ Subassemblies from the WD-1014C Torque Tube Collars and deburr the holes.                                                                            5/16
+
+
+                                                      FLAT SURFACE                                                                       FIGURE 2:                                                  FLAT SURFACE
+                                                                                                                              TORQUE TUBE ASSEMBLY CLOCKING
+                                                                                                                                    (LEFT SIDE SHOWN)
+
+                           MATCH-DRILL                                                                                                                                                                                   MATCH-DRILL
+                              FIRST                       17 25/32                                                                                                                                     17 25/32             FIRST
+                                                             TO                                                                                                                                           TO
+                        SEE                                17 3/4                                                                                                                                       17 3/4                    SEE
+                                                                                                   WD-1014 FORWARD                                             WD-1014 FORWARD
+                     FIGURE 2                                                                                                                                                    WD-1014C
+                                                                                                                                                                                                                               FIGURE 2
+                                                                                WD-1014C
+                                                                         MATCH-DRILL                                                                                                  MATCH-DRILL
+                                                                           SECOND                                                                                                       SECOND
+
+
+
+                                                                           WD-1014 AFT                                                                                               WD-1014 AFT
+
+
+                                5/16 INCH THICK                                                                                                                                                                    5/16 INCH THICK
+                                SPACER BLOCK                                                                                                                                                                       SPACER BLOCK
+                                                                                                            FIGURE 4:                                   FIGURE 3:                              SEE
+                                                                   SEE                                   MATCH-DRILL                                  MATCH-DRILL                           FIGURE 2
+                                                                FIGURE 2                              TORQUE TUBE COLLAR                           TORQUE TUBE COLLAR
+                                                                                                          (RIGHT SIDE)                                 (LEFT SIDE)
+
+PAGE   23-6     RV-10      REVISION: 0   DATE: 01/28/13
+Step 1: Insert WD-1014C Torque Tube Collar (which is bolted to the WD-1014 FORWARD Forward Torque Tube Subassembly) through
+                                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
+the forward side of the 1 1/8 inch diameter hole in the spar web. See Figure 1.                                                               Step 5: Figure 2 shows the "neutral position" of the WD-1014 FORWARD Forward Torque Tube
+                                                                                                                                              Subassembly. The correct rigging of the aileron actuation system is defined by the forward torque
+Step 2: Angle the WD-1014C Torque Tube Collar down as it extends aft through the hole in the spar web and slip the WD-1014 AFT Aft            tube subassembly, WD-421 Aileron Bellcrank, and Aileron all being in their neutral positions at the same time.
+Torque Tube Subassembly over the torque tube collar. Engage the WD-1014 AFT Aft Torque Tube Subassembly and the torque tube
+collar far enough to allow the threaded ends of the torque tube subasemblies to be inserted into the flanged bearings riveted into the wing
+structure. Disengage the aft torque tube subassembly and torque tube collar slightly as the threaded ends of the torque tube
+subassemblies are inserted into the bearings. See Figure 1.
+
+Step 3: Install washers and nuts on the WD-1014 FORWARD and WD-1014 AFT Torque Tube Subassemblies as shown in Figure 1.
+
+Step 4: Check to see if the bolt holes in the WD-1014 AFT Aft Torque Tube Subassembly and WD-1014C Torque Tube Collar line-up
+properly.                                                                                                                                                                                                                                       T-1005-L
+
+If the bolt holes in the aft torque tube subassembly and torque tube collar misalign in the forward/aft direction then AN960-416 or
+AN960-416L washers should be installed between the torque tube subassemblies and the flanged bearings as required to eliminate the
+forward/aft hole misalignment. There should be little or no pre-load on the wing structure when the aileron torque tube installation is
+complete.                                                                                                                                                                  T-1003B-R
+
+Install bolts, washers, and nuts as shown in Figure 1 to attach the aft torque tube subassembly to the torque tube collar.
+                                                                                                                                                                                                                              WD-1014 FORWARD
+
+
+
+
+                                                                                                                                                                                                                                     2 9/32
+                                                                                                                                                                                                                             (WD-1014 FORWARD
+                                                                                                                                                                                                                               HOLE CENTER TO
+                                                                                                                                                                                                                              INBOARD SURFACE
+                                                                                                                         SEE                                                                                                     OF T-1003B-R)
+                                                                                        WD-1014 FORWARD               FIGURE 2
+
+
+
+                                                                    AN3-13A,
+                                                                    2 PLACES
+                                                                                                                                                                                                 FIGURE 2:
+                                                                                                                                                                                           FORWARD TORQUE TUBE
+                                                                                                                                                                                        SUBASSEMBLY NEUTRAL POSITION
+                                              AN960-416,
+                                              2 PLACES
+
+                                         AN364-428,
+                                                                                                                          SEE
+                                         2 PLACES
+                                                                                                                       FIGURE 2
+                                                                                                               WD-1014C
+
+                                                                                                         AN960-10,
+                                                                                                         2 PLACES
+
+
+
+
+                                                                                          AN365-1032,
+                                                                                           2 PLACES
+                                                            WD-1014 AFT
+                                                                                                FIGURE 1:
+                                                                                         TORQUE TUBE INSTALLATION
+
+
+
+
+                                                                                                                                                                                                                   DATE: 01/28/13 REVISION: 0    RV-10     PAGE   23-7
+                  VAN'S AIRCRAFT, INC.                                                                                      Step 1: Insert the W-1017 Torque Tube to Bellcrank Pushrod into the wing through the most forward
+                                                                                                                            lightening hole in the W-1010-R Inbd Wing Rib. Attach the torque tube to bellcrank pushrod to the
+                                                                                                                            WD-421-L Aileron Bellcrank as shown in Figure 1.
+
+                                                                                                                            Step 2: Attach the W-1017 Torque Tube to Bellcrank Pushrod to the WD-1014 AFT Aft Torque Tube
+                                                                                                                            Subassembly as shown on Figure 1. There are TWO washers called-out; one washer is installed inside
+                                                                                                                            the torque tube clevis arm along with the pushrod rod end bearing and the other washer is installed
+                                                                                                                            under the nut.
+
+                                                                                                                            Step 3: Use the W-730 Bellcrank Jig to verify that when the WD-421-L Aileron Bellcrank is in it's neutral
+                                                                                                                            position, the WD-1014 FORWARD Forward Torque Tube Subassembly is also in it's neutral position.
+
+                                                                                                                            See Figure 1 for proper position of the bellcrank jig. See Page 23-7, Figure 2 for depiction of the
+                                                                                                                            forward torque tube subassembly neutral position.
+
+                                                                                                                            Adjust the engagement of the W-1017 Torque Tube to Bellcrank Pushrod rod end bearings and jam
+                                                                                                                            nuts if/as required.
+
+                                                                                                                               Step 4: Double-check that all nuts are tight and properly torqued and that all bearings and bushings
+                                                                                                                                  rotate freely and without binding.
+
+
+
+
+                                                                                 AN3-21A
+                                                                                                      WD-421-L
+                                                                                                             EDGE RESTING
+                                                                                                             ON SPAR WEB
+
+
+
+
+                                                                        W-1031                             W-730
+                                                                                                      (REMOVE BEFORE
+                                                                       AN970-3                                                                                                                                        SEE
+                                                                                                          FLIGHT)
+                                                                        AN960-10                  HOLES IN                                                                 WD-1014 FORWARD
+                                                                                                                                                                                                                   PAGE 23-7
+                                                                                                 ALIGNMENT                                                                                                         FIGURE 2
+                                                                AN365-1032
+                                                                                             W-1017
+                                                                                                                                                                              WD-1014C
+
+
+                                                                                                                                                               WD-1014 AFT
+
+
+
+
+                                                                                                                                                                                                               SEE
+                                                                                                                                                                                                            PAGE 23-7
+                                                                                           FIGURE 1:
+                                                                                                                                                                                                            FIGURE 2
+                                                                                        TORQUE TUBE TO
+                                                                                      BELLCRANK PUSHROD                                                                                                                 T-1005-L
+                                                                                                                                                                                                         T-1003B-R
+                                                                                         INSTALLATION
+                      W-1013-L
+                                                      W-1025A
+
+
+                                                                                                                                                   AN3-10A                          AN365-1032
+                                                                                                                                                             AN960-10,
+                                                                                                                                                             2 PLACES
+
+PAGE   23-8   RV-10    REVISION: 0   DATE: 01/28/13
+Step 1: Insert the W-1018 Bellcrank to Aileron Pushrod into the wing through the hole in the W-1007 Rear Spar Assembly. Attach
+                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+the bellcrank to aileron pushrod to the WD-421-L Aileron Bellcrank as shown in Figure 1.
+
+Step 2: Attach the Aileron Assembly to the W-1014 Outboard Aileron Hinge Bracket and W-1013 Inboard Aileron Hinge Bracket
+using the hardware shown on Page 21-8, Figure 4 and Figure 3.
+
+Step 3: Attach the W-1018 Bellcrank to Aileron Pushrod Assembly to the A-1007-L Inboard Attach Bracket as shown on
+Page 21-8, Figure 2.
+
+Step 4: Temporarily attach the Flap Assembly to the three W-1025A Flap Hinge Brackets. See
+Page 22-8, Figure 4. Rotate the flap assembly trailing edge up until the inboard end of
+the nose of the flap bumps solidly against the W-1007C Rear Spar Doubler Plate.
+Secure the flap assembly in this position.
+
+Step 5: Align the trailing edge of the Aileron Assembly with the trailing edge of the
+Flap Assembly. Use spring clamps and a straight piece of aluminum angle or
+a thin wood block to hold the aileron assembly in alignment with the flap
+assembly. This establishes the neutral position of the aileron.
+
+Use the W-730 Bellcrank Jig to verify that when the aileron
+assembly is in it's neutral position, the WD-421-L Aileron
+Bellcrank is also in it's neutral position. Adjust the
+engagement of the W-1018 Bellcrank to Aileron
+Pushrod rod end bearings and jam nuts                                                                                                                       AN3-7A
+if/as required. Remove the bellcrank jig.                                                                                                                                 W-730
+                                                                                                                                          WD-421-L                   (REMOVE BEFORE
+Step 6: Double-check that all nuts are                                                                                                                                   FLIGHT)
+tight and properly torqued and that
+all bearings and bushings rotate
+freely and without
+binding.
+
+
+
+                                                                                                                                                                 AN960-10
+
+                                                                                                                                                            AN365-1032
+                                                                                                                                 W-1018
+
+
+                                                                                                                                                        W-1017
+
+
+
+
+                                                                                                                                                           FIGURE 1:
+                                                                                                                                                     BELLCRANK TO AILERON
+                                                                                                                                                     PUSHROD INSTALLATION
+                                          AILERON                                          A-1007-L
+                                       ASSEMBLY - LEFT
+                                                                                               W-1013-L
+                                                                                                                           W-1025A
+
+
+
+
+                                                                                                                                                                                DATE: 01/28/13 REVISION: 0   RV-10   PAGE   23-9
+                     VAN'S AIRCRAFT, INC.
+
+
+
+            ALIGN THIS EDGE WITH
+              THE END OF TUBE
+
+
+
+                          MATCH-LINE
+
+
+
+
+                                                                                                                                           10 9/16
+                                                                                                                                         [268.29 mm]
+
+
+        MATCH-LINE
+
+         FIGURE 1:
+       PUSHROD RIVET
+       HOLE LOCATION
+         TEMPLATE
+
+
+
+
+                                                          16
+                                                      [406.40 mm]
+                                                                    NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!
+PAGE   23-10   RV-10   REVISION: 0   DATE: 01/28/13
+

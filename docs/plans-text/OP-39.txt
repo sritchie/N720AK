@@ -1,0 +1,238 @@
+                                                                                                                         VAN'S AIRCRAFT, INC.
+                                                                                                      VA-194B
+                                                                                        MR16 RETAINER PLATE
+                                                                                                    2 PLACES
+                                                                                            VA-194C
+
+
+              OP-39:                                                                      MR16 CUP
+                                                                          LC EYF MR16 75W 2 PLACES
+                                                                 75W NARROW BEAM BULB
+                                                                   (10°-12° NARROW BEAM)
+                                                                                 2 PLACES
+
+
+            WINGTIP
+            LIGHTING
+
+                                                                 LC MR16 SOCKET
+                                                               2 PIN DISK SOCKET
+
+
+
+                                                                                VA-194A
+                                                                          LANDING LIGHT
+                                                                             BASE PLATE
+
+
+
+                                                                                                                                                         LN A650-PR-14
+                                                                                   COMPRESSION SPRING                                                    POSITION LIGHT
+                                                                                             4 PLACES                                                    AND STROBE
+                                                                                                                                                         (NOT INCLUDED IN KIT
+                                                                                                                BILL OF MATERIALS                        ORDER FROM VAN'S)
+                                                           MOUNT TUBE                                           NAME                        QTY
+                                                           6 PLACES                                             AN426AD3-3.5                24
+                                                                                                                AN426AD3-4                  24
+                                                                                                                AN515-6R8                   12
+                                                                                                                AT6-058X5/16X4              2
+                                                                                                                EA EXHST/COWL SHIELD        1'
+                                                                                                                K1000-06                    20
+                                                                                                                LC EYF MR16 75W             4
+                                                                                                                LC MR16 SOCKET              4
+                                                                                                                MS21051-L06                 4
+                                                                                                                MS35214-29                  4
+W-715-1-L                                                                                                       MS51957-36                  8
+WING TIP                                                  VA-194A                                               SPRING .26X2.9              4
+                                                          LANDING LIGHT                                         VA-194A                     2
+                                                          BASE PLATE                                            VA-194B                     4
+                    LN A650-PR-14                                                                               VA-194C                     4
+                                    VA-172-1
+      POSITION LIGHT AND STROBE
+                                    WING TIP LIGHT LENS
+             (NOT INCLUDED IN KIT                                                                                         DATE OF COMPLETION:
+              ORDER FROM VAN'S)                                                                                           PARTICIPANTS:
+
+                                                                                                                          DATE: 03/02/17 REVISION:   0   W-715-1 PAGE: OP39-01
+                         VAN'S AIRCRAFT, INC.
+                                                                                                 Step 4: Using the template given on Page OP39-5, Figure 1, mark the hatched areas and the location of the nutplate screw holes on the chordwise face of the
+                                                                                                 W-715-1-L Wing Tip as shown in Figure 4.
+
+                                                                                                 Step 5: Align the base of the LN A650-PR-14 Red Position Light and Strobe with the corresponding center marks made in Step 4, then match-drill #27 each of the
+   NOTE: This section describes the installation of the landing light and the                    three nutplate screw holes into the W-715-1-L Wing Tip.
+   position/strobe light in the left wing tip. Repeat this section for the right wing tip. The
+   right installation is a mirror of the left.                                                   Step 6: Center the VA-194A Landing Light Base Plate on the spanwise face of the wing tip as shown in Figure 4. Match-Drill #27 each of the three landing light
+                                                                                                 base plate screw holes into the wing tip. Mark the profile of the spanwise face on the aft side of the landing light base plate, remove the landing light base plate,
+   NOTE: The right side of the aircraft uses a LN A650-PG-14 Green Position Light and            then trim away the excess material.
+   Strobe and the left uses a LN A650-PR-14 Red Position Light and Strobe. Both of these
+   lights can be purchased separately or as part of a lighting system from VAN'S                 Step 7: Using an MS21051-L06 Nutplate as a drill guide, match-drill #40 the two forward most sets of nutplate attach holes into the chordwise face of the W-715-1-L
+   AIRCRAFT ACCESSORY CATALOG. The most popular lighting system is PN# LN SYS6.                  Wing Tip. Use a K1000-06 Nutplate as a drill guide to match-drill #40 the remaining nutplate attach holes into both faces of the wing tip. Orient the nutplates
+                                                                                                 approximately as shown in Figure 4.
+   Step 1: Overlay a VA-194B MR16 Retainer Plate on a VA-194C MR16 Cup as shown in
+   Figure 1. Remove the material extending beyond the perimeter of the MR16 retainer plate       Step 8: Machine countersink the nutplate attach holes for the head of an AN426AD3 rivet (flush on the outside faces).
+   shown by the shaded areas in Figure 1.
+                                                                                                 Step 9: Using the dimensions given in Figure 4, mark out the large, hatched area on the spanwise face. Remove this hatched area and the hatched areas marked
+   Repeat for the remaining MR16 cup.                                                            out in Step 4.
+                                VA-194B
+
+
+
+
+              REMOVE
+             HATCHED
+                 AREA,
+             3 PLACES
+
+                           VA-194C
+
+
+                           FIGURE 1: TRIMMING THE MR16 CUP                                                                              CHORDWISE FACE
+
+
+    Step 2: Make four Compression Springs by cutting each SPRING .26X2.9                                                     LN A650-PR-14
+    Compression Spring in half as shown in Figure 2.                                                               NUTPLATE SCREW HOLES                                            5/16
+
+                                              (2.9)
+                                HALF OF
+                                OVERALL                  CUT
+                                LENGTH
+
+
+
+
+             FIGURE 2: CUTTING THE COMPRESSION SPRING
+
+    Step 3: Manufacture six Mount Tubes from AT6-058X5/16, using the dimensions
+    given in Figure 3.
+                                                                                                                                                                                                                                                    SPANWISE FACE
+                                  (5/16
+                                [8.2 mm])
+                                                      70.0°
+                                                                                                                                                                                                           REMOVE HATCHED AREA
+
+
+                                                   1/32
+                      (0.058)                    [0.8 mm]                                                                                                     FIGURE 4: PREPARING THE WING TIP
+
+                    FIGURE 3: MAKING THE MOUNT TUBES
+
+PAGE:   OP39-02 W-715-1 REVISION: 0 DATE: 03/02/17
+                                                                                                                                                      VAN'S AIRCRAFT, INC.
+Step 1: Rivet nutplates to the W-715-1-L Wing Tip as shown in Figure 1.     Step 6: Final-Drill #27 the three screw holes in
+                                                                            each VA-194B MR16 Retainer Plate. Final-Drill
+                                                                            5/32 diameter the screw holes in the VA-194A                   COMPRESSION SPRING
+                                                                            Landing Light Base Plate.                                      4 PLACES
+
+                                                                            Step 7: Deburr the holes and edges on both the                                                                  VA-194C
+                                                                            VA-194B MR16 Retainer Plates and the VA-194A
+                                                                            Landing Light Base Plate. Prime these parts if
+                                                                            desired.
+
+                                                                            Step 8: Assemble the Landing Light
+                                                                            Subassembly using the parts and hardware
+                                                                            shown in Figure 3.
+
+
+                                                                                                           FINAL-DRILL #27
+                                                                                                                 6 PLACES
+                                                                                                                                                                                          LC EYF MR16 75W
+
+
+
+                                                                                                                                                                                       VA-194B
+                                                                                                               MS51957-36                                                  VA-194C
+                                                                                                                6 PLACES
+
+                                                                                                                                     FIGURE 3: LANDING LIGHT SUBASSEMBLY
+
+
+                                                                            Step 9: Attach the Landing Light Subassembly to the W-715-1-L Wing Tip as shown in Figure 4.
+
+                                                                            Step 10: Remove the vinyl from the forward face of each of the LC MR16 SOCKET 2 Pin Disk Sockets. Attach the 2 pin disk
+                                                                            sockets to the LC EYF MR16 75W Narrow Beam Bulbs as shown in Figure 4. Ground one wire from each of the 2 pin disk socket to
+                                                                            the aircraft frame and connect the others to +12V. Leave enough slack in these wires to allow the W-715-1-L Wing Tip to be
+                                                                            removed easily. See Section 5W for further questions about wiring.
+
+
+
+                                                                                                                                                                         CONNECT TO +12 VOLTS
+
+                                                                                                                                                                           CONNECT TO GROUND
+
+
+                                                                                                                                                                              LC MR16 SOCKET
+
+
+
+
+                                                                          W-715-1-L                   AN515-6R8
+                                                                                                       3 PLACES                                                                         LANDING LIGHT
+                                                                                                                                                                                        SUBASSEMBLY
+
+                                                                                                  FIGURE 4: LANDING LIGHT SUBASSEMBLY INSTALLATION
+
+                                                                                                                                                        DATE: 03/02/17 REVISION:   0   W-715-1 PAGE: OP39-03
+                       VAN'S AIRCRAFT, INC.
+
+
+
+   Step 1: Attach the base plate for the LN A650-PR-14 Red Position Light and Strobe to the W-715-1-L Wing Tip using the hardware
+   called out in Figure 1.
+
+   NOTE: Leave enough slack in the wires to allow the LN A650-PR-14 Red Position Light and Strobe to be removed and the
+   wire connectors to be pulled through the W-715-1-L Wing Tip and be disconnected.
+
+   Step 2: Connect the wires coming out of the LN A650-PR-14 Red Position Light and Strobe using the instructions provided from
+   Whelen (see also the instructions included with the Strobe/Position Lighting System Kit). Reassemble the remaining parts of the red
+   position light and strobe to the baseplate.
+
+   Step 3: Re-install the W-715-1-L Wing Tip to the wing. Re-install the VA-172-1 Wing Tip Light Lens.
+
+
+
+
+                                                                                                                                           AN515-6R8
+                                                                                                                                           3 PLACES
+                                                                                                                           LN A650-PR-14
+                                                         W-715-1-L                                                         (BASE PLATE)
+
+
+
+                                                                                                FIGURE 1: ATTACHING THE POSITION LIGHT AND STROBE
+
+
+
+
+PAGE:   OP39-04 W-715-1 REVISION: 0 DATE: 03/02/17
+                                                                                        VAN'S AIRCRAFT, INC.
+
+
+
+
+  10 9/16
+[268.3 mm]
+
+
+
+
+                              FIGURE 1: WING TIP TEMPLATE
+             (NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!)
+
+
+
+
+                                                  16
+                                              [406.4 mm]
+                                                                                        DATE: 03/02/17 REVISION:   0   W-715-1 PAGE: OP39-5
+                       VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                     THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE:   OP32-06 W-715-1 REVISION: 0 DATE: 03/02/17
+

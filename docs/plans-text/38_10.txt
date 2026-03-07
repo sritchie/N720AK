@@ -1,0 +1,395 @@
+=== PAGE 38-1 ===
+SECTION 38: RUDDER PEDALS & BRAKE SYSTEM
+
+VAN'S AIRCRAFT, INC.
+DATE: 6/17/04  REVISION: 0  RV-10  PAGE 38-1
+
+[Isometric overview drawing of rudder pedal and brake system installation in forward fuselage]
+
+Part callouts:
+- WD-1006-R, RUDDER PEDAL RIGHT
+- WD-1006-L, RUDDER PEDAL LEFT
+- PT-062X1/4, TYP.
+- F-1039D, RUDDER PEDAL BRACE
+- F-1052-R, BRAKE PEDAL ASSEMBLY, 2 PLACES
+- F-6122-1, TRI-GEAR BRAKE BRACKET
+- F-1039A, RUDDER PEDAL BEARING BLOCK, 2 PLACES
+- F-1039B, BEARING BLOCK MOUNT PLATE, 2 PLACES
+- F-6115, RUDDER PEDAL BEARING BLOCK
+- F-10104, RUDDER CABLE LINK, 4 PLACES
+- F-8105, BRAKE HOSE, 2 PLACES
+- F-1052-L, BRAKE PEDAL ASSEMBLY, 2 PLACES
+- F-1053, RUDDER CABLE, 2 PLACES
+- F-1048G, RUDDER CABLE GUIDE, 4 PLACES
+
+
+=== PAGE 38-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 38-2  RV-10  REVISION: 0  DATE: 6/17/04
+
+Step 1: Remove the hatched area as shown in Figure 1 from both F-1052 Brake Pedal Sets to create two F-1052A-L and -R Brake Pedals. Remove the tabs and deburr the edges on all the brake pedals.
+
+NOTE: The following steps on this page are for a right brake pedal. Repeat these steps for the other right and two left brake pedals. The left brake pedal is a mirror of the right.
+
+Step 3: Cleco the F-1052A-R Brake Pedal, F-1052B Brake Pedal Side Plate, and F-1052C Brake Pedal Doubler Plate together as shown in Figure 3.
+
+Step 4: Final Drill #30 all the holes common between the F-1052A-R Brake Pedal and the F-1052C Brake Pedal Doubler Plate. Final-Drill #30 the upper four holes common to the brake pedal and the F-1052B Brake Pedal Side Plate. Final-Drill #12 both hinge points and the master cylinder attach point (see Figure 3).
+
+Step 5: Disassemble the brake pedal and deburr all parts.
+
+Prime and paint parts if desired.
+
+Step 6: Rivet the F-1052B Brake Pedal Side Plate and F-1052C Brake Pedal Doubler Plate to the F-1052A-R Brake Pedal per the callouts in Figure 3. This will create the F-1052-R Brake Pedal Subassembly.
+
+FIGURE 1: CREATING THE BRAKE PEDALS
+[Drawing showing F-1052A-R and F-1052A-L brake pedals with REMOVE HATCHED AREA callout]
+[Note: USE A HAMMER TO REMOVE PUCKER, TYP.]
+
+Step 2: Create four F-1097 Spacers from AT6-058X5/16 per the dimensions in Figure 2.
+
+FIGURE 2: SPACER DIMENSIONS
+[Drawing showing spacer dimensions: 5/16 length, (5/16) diameter, (0.058) wall thickness]
+
+FIGURE 3: CREATING THE BRAKE PEDAL SUBASSEMBLY
+[Drawing showing assembled brake pedal with callouts:]
+- AN470AD4-5, 12 PLACES
+- F-1052C
+- F-1052A-R
+- AN470AD4-6, 4 PLACES
+- F-1052B
+- HINGE POINT
+- MASTER CYLINDER ATTACH POINT
+
+
+=== PAGE 38-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/17/04  REVISION: 0  RV-10  PAGE 38-3
+
+Step 1: Final-Drill #12 all the bolt holes in the WD-1006-L and -R Rudder Pedals.
+
+NOTE: It may be necessary to use a different mix of AN960-10 and AN960-10L washers than shown in the hardware callouts given in Figure 1. It is important that the brake pedals move freely with no friction to prevent a dragging brake. Use a plastic hammer to "slightly" adjust the brake pedal mounting ears if required.
+
+Step 2: Attach the F-1052-R Brake Pedal Subassembly to the WD-1006-R Rudder Pedal Right using the hardware called out in Figure 1.
+
+Step 3: Attach the BRAKE MAST CYL RIGHT-1 Right Brake Master Cylinder to the WD-1006-R Rudder Pedal Right and the F-1052-R Brake Pedal. Repeat Steps 1-3 to install the remaining F-1052-L and -R Brake Pedal Subassemblies. The left brake pedal subassembly installation is a mirror of the right.
+
+NOTE: When installing fluid fittings with pipe threads do not use Teflon tape. Instead use Fuel Lube or equivalent pipe thread sealing paste.
+
+Step 4: Refer to the isometric view on Page 38-1 and Page 38-6, Figure 1. Install an AN822-4D Elbow into the lower ports on both brake master cylinders on the pilot side of the aircraft. Note the clocking of the elbows in Page 38-6, Figure 1 which routes the F-8105 Brake Hoses between the upper ports of the brake master cylinders and away from the brake pedal area.
+
+Step 5: Refer again to the isometric view on Page 38-1 and Page 38-6, Figure 1 and install F 69-F-04X02 Brass Elbows in the six remaining ports on both the pilot and co-pilot brake master cylinders. Again note the clocking of the lower elbows on the co-pilot side of the aircraft in Page 38-6, Figure 1.
+
+FIGURE 1: BRAKE PEDAL INSTALLATION
+[Drawing showing brake pedal attached to rudder pedal with callouts:]
+- F-1052-R
+- WD-1006-R
+- AN960-10, 6 PLACES
+- MS24665-132, 2 PLACES
+- AN310-3, 2 PLACES
+- AN3-5
+- AN960-10L, 2 PLACES
+- AN3-6
+
+FIGURE 2: ATTACHING THE MASTER CYLINDER
+[Drawing showing master cylinder attachment with callouts:]
+- WD-1006-R
+- AN960-10L
+- AN960-10
+- AN310-3, 2 PLACES
+- MS24665-132, 2 PLACES
+- BRAKE MAST CYL RIGHT-1
+- AN3-7
+- F-1052-R
+- AN3-12
+- AN960-10
+- F-1097
+- AN960-10L
+
+
+=== PAGE 38-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 38-4  RV-10  REVISION: 0  DATE: 6/17/04
+
+Step 1: Locate the F-6115 Rudder Pedal Bearing Block. Unlike the other bearing blocks the holes for the rudder pedals pass all the way through the part. Using a drill press, drill #10 two holes through the rudder pedal bearing block as shown in Figure 1.
+
+Step 2: Cut the F-6115 Rudder Pedal Bearing Block in half as shown in Figure 1.
+
+FIGURE 1: MODIFYING THE F-1039B BEARING BLOCK
+[Drawing showing bearing block dimensions: 3/8 width, DRILL #10 2 PLACES, 1/4 edge distances, 7/8 height]
+
+Step 3: Clamp the F-1039B Bearing Block Mount Plate to the F-1039A Rudder Pedal Bearing Block as shown in Figure 2. Match-Drill #12 the holes indicated in Figure 2 approximately 1/8 deep into the bearing block. Unclamp the parts, then use a drill press to finish drilling both holes #10 in the bearing block. Repeat this step with the remaining mount plate and bearing block.
+
+Step 4: Final-Drill #12 the remaining holes in the F-1039B Bearing Block Mount Plate. Deburr the holes and edges of the bearing block mount plate. Prime the bearing block mount plate if desired.
+
+FIGURE 2: MATCH-DRILLING THE F-1039A BEARING BLOCK
+[Drawing showing:]
+- F-1039B
+- F-1039A
+- MATCH-DRILL #12 1/8 DEEP, FINAL-DRILL #10 ON A DRILL PRESS, 2 PLACES
+- ALIGN CORNERS
+
+Step 5: Bolt the F-1039B Bearing Block Mount Plate to the F-1013-L Fwd Fuselage Longeron using the hardware called out in Figure 3. Bolt the remaining mount plate to the F-1013-R Fwd Fuselage Longeron.
+
+Step 6: Slip a F-1039A Rudder Pedal Bearing Block onto either end of the WD-1006-L and -R Rudder Pedals. Bolt the bearing blocks to the F-1039B Bearing Block Mount Plates using the hardware called out in Figure 3.
+
+FIGURE 3: INSTALLING THE RUDDER PEDALS AND BEARING BLOCKS (LEFT SIDE SHOWN - RIGHT SIDE IS A MIRROR OF THE LEFT)
+[Drawing showing installation with callouts:]
+- AN3-22A, 2 PLACES
+- WD-1006-R
+- WD-1006-L
+- F-1039A
+- AN3-5A, 3 PLACES
+- F-1039B
+- GRIND WASHER AS REQ'D TO PROVIDE CLEARANCE FROM F-1013-L
+- F-1013-L
+- AN960-10, 5 PLACES
+- AN365-1032, 5 PLACES
+
+
+=== PAGE 38-5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/17/04  REVISION: 0  RV-10  PAGE 38-5
+
+Step 1: Insert upper half of the F-6115 Rudder Pedal Bearing Block under the F-1039D Rudder Pedal Brace and over the WD-1006-L and -R Rudder Pedals as shown in Figure 2. Horizontally space the upper half of the bearing block away from the left F-1039A Rudder Pedal Bearing Block per the dimension in Figure 1.
+
+Step 2: Clamp the upper half of the F-6115 Rudder Pedal Bearing Block to the F-1039D Rudder Pedal Brace. Match-Drill #12 the two vertical holes in the bearing block into the brace. Remove the upper half of the bearing block and deburr the holes in the brace.
+
+Step 3: Bolt both the upper and lower halves of the F-6115 Rudder Pedal Bearing Block to the F-1039D Rudder Pedal Brace as shown in Figure 2.
+
+FIGURE 1: BEARING BLOCK POSITION
+[Drawing showing bearing block positioned with dimension: 16 7/8 from F-1039A to F-6115]
+- F-1039A
+- F-1039D
+- F-6115
+- WD-1006-L
+- WD-1006-R
+
+FIGURE 2: INSTALLING THE BEARING BLOCK TO THE RUDDER PEDAL BRACE
+[Drawing showing installation with callouts:]
+- F-1039D
+- AN3-22A, 2 PLACES
+- MATCH-DRILL #12, 2 PLACES
+- WD-1006-L
+- F-6115
+- WD-1006-R
+- AN960-10, 2 PLACES
+- AN365-1032, 2 PLACES
+
+
+=== PAGE 38-6 ===
+VAN'S AIRCRAFT, INC.
+PAGE 38-6  RV-10  REVISION: 0  DATE: 6/17/04
+
+NOTE: Use the isometric view on Page 38-1 and Figure 1 as a reference for installations on this page.
+
+Step 1: Connect the F-8105 Brake Hoses from the AN833-4D Elbow Bulkhead Fittings (installed in Section 36 Brake Lines) located on the F-6122-1 Tri-gear Brake Bracket to the AN822-4D Elbows installed in the lower ports of the pilot master cylinders. The brake hoses should be installed so they do not chafe on one another. If hoses are rubbing protect one hose with spiral wrap or equivalent.
+
+Step 2: Create the soft brake lines that interconnect the pilot and co-pilot brake master cylinders from PT-062X1/4 (the lengths of these lines are called out in Figure 1). The brake lines interconnect the upper ports of the pilot side brake master cylinders to the lower ports on the co-pilot side brake master cylinders. The lines pass through SB437-4 Snap Bushings in the F-1039D Rudder Pedal Brace and are tie-wrapped to the WD-1006-L and -R Rudder Pedals on the co-pilot side of the aircraft. Connect the soft brake lines to the brass elbows as shown in Figure 2.
+
+Step 3: Create soft brake lines from PT-062X1/4 that are long enough to interconnect the upper ports on the co-pilot brake master cylinders to the F 271-N-04X02 Nylon Male Tee. Connect these lines to the brass elbows in the upper ports of the co-pilot brake master cylinders as shown in Figure 2. The nylon male fitting will be installed and the soft brake lines connected on the next page.
+
+FIGURE 1: BRAKE LINE INSTALLATION AFT VIEW
+[Drawing showing brake line routing with callouts:]
+- F-1001A
+- F-1039D
+- F-8105, 2 PLACES
+- AN833-4D (INSTALLED IN SECTION 36)
+- TIE-WRAP, 2 PLACES
+- F 271-N-04X02 (SEE PAGE 38-7 FOR INSTALLATION)
+- PT-062X1/4, TYP.
+- 43 INCHES LONG
+- 23 INCHES LONG
+- 18 INCHES LONG
+- AN822-4D, 2 PLACES
+- WD-1006-R
+- WD-1006-L
+- BRASS ELBOW ASSEMBLY, 6 PLACES (SEE FIGURE 2)
+- BRAKE MAST CYL RIGHT-1, 2 PLACES
+- BRAKE MAST CYL LEFT-1, 2 PLACES
+
+FIGURE 2: BRASS ELBOW ASSEMBLY
+[Detail drawing showing:]
+- F 69-F-04X02 BRASS ELBOW (1/4 TUBE - 1/8 PIPE)
+- F 63-PT3-25 BRASS INSERT NUT (PART OF ELBOW ASSEMBLY)
+- IF NECESSARY, SOFTEN IN BOILING WATER TO EASE ASSEMBLY
+- PT-062X1/4 (HIGH PRESSURE TUBE)
+- SLEEVE (PART OF ELBOW ASSEMBLY)
+- TO MASTER CYLINDER
+
+
+=== PAGE 38-7 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/17/04  REVISION: 0  RV-10  PAGE 38-7
+
+Step 1: Bolt the VA-107 Brake Reservoir to the F-1001 Firewall Bulkhead Assembly as shown in Figure 1.
+
+Step 2: Install the F 271-N-04X02 Male Nylon Tee to the VA-107 Brake Reservoir as shown in Figure 2.
+
+Step 3: Connect the brake lines created on Page 38-6 to the F 271-N-04X02 Male Nylon Tee as shown in Figure 2 and Figure 3.
+
+FIGURE 1: INSTALLING THE BRAKE RESERVOIR
+[Drawing showing brake reservoir mounted to firewall with callouts:]
+- F-1001
+- AN960-10, 6 PLACES
+- AN3-5A, 2 PLACES
+- VA-107
+
+FIGURE 2: NYLON TEE INSTALLATION
+[Drawing showing nylon tee installed on brake reservoir with callouts:]
+- F-1001
+- SEE FIGURE 3
+- F 271-N-04X02
+
+FIGURE 3: NYLON TEE ASSEMBLY
+[Detail drawing showing nylon tee components:]
+- TO BRAKE RESERVOIR
+- MALE NYLON TEE
+- O-RING SEAL
+- METAL KEEPER
+- NYLON NUT
+- PT-062X1/4
+- PT-062X1/4
+- NYLON COLLAR
+- TO LEFT MASTER CYLINDER
+- TO RIGHT MASTER CYLINDER
+
+
+=== PAGE 38-8 ===
+VAN'S AIRCRAFT, INC.
+PAGE 38-8  RV-10  REVISION: 0  DATE: 6/17/04
+
+NOTE: The spade end of the F-1053 Rudder Cable is the forward end, the clevis end is the aft end.
+
+Step 1: Insert the spade end of the F-1053 Rudder Cable through the oval shaped slot in the aft end of the F-1073-L Tailcone Side Skin Left.
+
+Step 2: Clamp the aft plastic sleeve on the F-1053 Rudder Cable to the F-1011E Rudder Cable Angle using the hardware called out in the detail view in Figure 1. Position the plastic sleeve so that both the oval slot in the F-1073-L Tailcone Side Skin Left and the hole for the cable in the F-1011 Fuselage Bulkhead are protected from the rudder cable.
+
+Step 3: Repeat Steps 1 and 2 to install the remaining rudder cable to the right side of the aircraft.
+
+Step 4: Cross the F-1053 Rudder Cables over each other and insert them through the snap bushings in the F-1085 Rudder Cable Bracket, F-1007 Bulkhead and F-1006 Bulkhead (see Figure 1).
+
+Step 5: Figure 2 shows the hardware that will eventually be used to attach the F-1053 Rudder Cables to the R-1005 Rudder Horn. Refer back to Figure 2 when final assembling the empennage to the fuselage.
+
+FIGURE 1: RUDDER CABLE ROUTING AFT FUSE
+[Drawing showing rudder cable routing through aft fuselage with callouts:]
+- F-1006
+- F-1011
+- AN3-4A, 2 PLACES
+- AN960-10L, 2 PLACES
+- PLASTIC SLEEVE
+- MS21919DG6, 2 PLACES
+- F-1053, 2 PLACES
+- F-1011E
+- ROUTE F-1053 THROUGH THIS HOLE
+- SEE PAGE 38-9
+- F-1007
+- F-1085
+- F-1053, 2 PLACES
+- NOTE THAT RUDDER CABLES CROSS EACH OTHER
+- F-1073-L
+- F-1011
+
+FIGURE 2: RUDDER CABLE TO RUDDER ATTACH
+[Detail drawing showing:]
+- F-1053
+- AN3-6
+- R-1005
+- AN960-10
+- AN310-3
+- MS24665-132
+
+
+=== PAGE 38-9 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/17/04  REVISION: 0  RV-10  PAGE 38-9
+
+Step 1: Route the F-1053 Rudder Cables through the snap bushings in the F-1034 Fuselage Bulkhead, F-1005 Rear Spar Bulkhead, F-1016H Guide Brackets and F-1004 Center Section Bulkhead Assembly as shown in Figure 1.
+
+FIGURE 1: RUDDER CABLE ROUTING THROUGH THE MID FUSELAGE
+[Drawing showing rudder cable routing with callouts:]
+- SEE PAGE 38-10
+- F-1004
+- F-1016H, 2 PLACES
+- F-1053, 2 PLACES
+- F-1034
+- F-1005
+- F-1006
+- SEE PAGE 38-8
+
+
+=== PAGE 38-10 ===
+VAN'S AIRCRAFT, INC.
+PAGE 38-10  RV-10  REVISION: 1  DATE: 11/11/04
+
+Step 1: Make four F-10104 Rudder Cable Links from 1/2 inch wide, .050 thick 4130 steel. The overall length will vary depending on the position that the rudder pedals were installed in. See Figure 1.
+
+FIGURE 1: MAKING THE RUDDER CABLE LINKS
+[Drawing showing cable link dimensions:]
+- R1/4, 2 PLACES
+- 1 AFT RUDDER PEDAL INSTALLATION
+- 2 1/4 FWD RUDDER PEDAL INSTALLATION
+- 1/4, 2 PLACES
+- #12, 2 PLACES
+
+Step 2: Drill #27 a hole in one end of the F-1048G Rudder Cable Guide per the dimensions in Figure 2. Clamp the drilled guide to an un-drilled guide and match-drill #27 the hole into both parts. Mark a centerline on the non-slotted face of one of the guides. See Figure 3. Mark this pair of guides as a set then repeat this step for the remaining two guides.
+
+FIGURE 2: DRILLING THE GUIDE
+[Drawing showing dimensions: 1/4 from edges, DRILL #27, MATCH-DRILL #27, DRAW CENTERLINE]
+
+FIGURE 3: MATCH-DRILLING THE GUIDE
+
+Step 3: Final-Drill #27 both F-1048G Rudder Cable Guide attach holes in the F-1048-L and -R Fwd Fuselage Ribs.
+
+Step 4: Assemble both F-1048G Rudder Cable Guides to the F-1048-R Fwd Fuselage Rib as shown in Figure 5 using the hole match-drilled in Step 2 (place the side with the centerline drawn in Step 2 against the fwd fuselage rib). Align the centerline with the center of the remaining hole in the fwd fuselage rib then match-drill #27 this hole into both rudder cable guides.
+
+Step 5: Remove the F-1048G Rudder Cable Guides and deburr the holes drilled in Step 3.
+
+Step 6: Place the F-1053 Rudder Cable in the slot in-between the F-1048G Rudder Cable Guides and install the guides to the F-1048-R Fwd Fuselage Rib using the hardware called out in Figure 5.
+
+Step 7: Repeat Steps 3-6 to install the remaining set of F-1048G Rudder Cable Guides to the F-1048-L Fwd Fuselage Rib.
+
+Step 8: Clamp the forward most plastic sleeve on the F-1053 Rudder Cable to the F-1048-R Fwd Fuselage Rib using the hardware called out in Figure 6. Position the plastic sleeve so that the oval slot in the fwd fuselage rib is completely protected from the rudder cable. Repeat this step to clamp the other rudder cable to the F-1048-L Fwd Fuselage Rib.
+
+FIGURE 4: ROUTING THE RUDDER CABLES THROUGH THE FORWARD FUSELAGE
+[Drawing showing cable routing with callouts:]
+- F-10104, 4 PLACES
+- SEE FIGURE 7
+- SEE FIGURE 6
+- SEE FIGURE 5
+- F-1048G, 4 PLACES
+- F-1053, 2 PLACES
+- PLASTIC SLEEVE (PART OF F-1053), 2 PLACES
+- SEE PAGE 38-9
+
+FIGURE 5: INSTALLING THE RUDDER CABLE GUIDES
+[Drawing showing:]
+- F-1048G, 2 PLACES
+- AN515-6R8, 2 PLACES
+- AN365-632, 2 PLACES
+- F-1048-R
+- F-1053
+
+FIGURE 6: RETAINING THE PLASTIC SLEEVE
+[Drawing showing:]
+- MS21919DG6
+- AN365-832
+- AN509-8R8
+- F-1048-R
+- PLASTIC SLEEVE
+- F-1053
+
+Step 9: Prime or paint the F-10104 Rudder Cable Links.
+
+Step 10: Install the F-10104 Rudder Cable Links between the WD-1006-L and -R Rudder Pedals and the F-1053 Rudder Cables. See Figure 7.
+
+NOTE: Bend the ends of the cotter pin into the slots in the castle nut to prevent them from catching on a shoe and un-bending.
+
+FIGURE 7: INSTALLING THE RUDDER CABLE LINKS
+[Drawing showing installation with callouts:]
+- WD-1006-R
+- AN23-10, 2 PLACES
+- F-10104, 2 PLACES
+- F-1053
+- AN960-10, 4 PLACES
+- AN310-3, 2 PLACES
+- MS24665-132, 2 PLACES

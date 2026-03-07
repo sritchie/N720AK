@@ -1,0 +1,153 @@
+=== PAGE 42-1 ===
+SECTION 42: REAR SEAT BACKS
+
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 42-1
+
+[Isometric overview drawing of rear seat back installation]
+
+Part callouts:
+- F-637B-R, RIGHT ANGLE
+- F-637A, SEATBACK
+- F-637B-L, LEFT ANGLE
+- F-10103A-R, RIGHT LOWER SEAT HINGE HALF
+- F-10103A-L, LEFT LOWER SEAT HINGE HALF
+- F-637C ANGLE, 2 PLACES / SEAT
+
+
+=== PAGE 42-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 42-2  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Fabricate two F-637B-R Right Angles and two F-637B-L Left Angles using AA6-125X3/4X3/4 and the information given in Figures 1 and 2.
+
+FIGURE 1: F-637B-R RIGHT ANGLE
+[Drawing showing dimensions:]
+- 26 3/8 length
+- 5/8 flange
+- R3/8 bend radius
+- (1/8) edge
+- (3/4) flange height
+- (3/4) flange width
+
+FIGURE 2: F-637B-L LEFT ANGLE
+[Drawing showing dimensions:]
+- 26 3/8 length
+- 5/8 flange
+- R3/8 bend radius
+- (1/8) edge
+- (3/4) flange height
+- (3/4) flange width
+
+Step 2: Fabricate four F-637C Angles using AA6-063X3/4X3/4 and the information given in Figure 3.
+
+FIGURE 3: F-637C LEFT ANGLE
+[Drawing showing dimensions:]
+- 16 length
+- (1/16) edge
+- (3/4) flange height
+- (3/4) flange width
+
+Step 3: Drill 1/8" holes into both F-637A Seat Backs using the dimensions given in Figure 4.
+
+FIGURE 4: DRILLING THE F-637A SEAT BACKS
+[Drawing showing hole pattern dimensions:]
+- 1 1/2 from top edge
+- 1 1/2 between rows
+- 1 1/2 spacing
+- 5/16 TYP. RADIUS OF BEND TO HOLE
+- 2 15/32 bottom margin
+- 1 1/8 bottom edge
+- 5/16 bottom margin
+- 7/16 edge spacing
+- 1 29/32 TYP. between holes
+- 7/16 edge spacing
+
+
+=== PAGE 42-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 42-3
+
+Step 1: As shown in Figure 1, align the bottom edge of the F-637B Left and Right Angles with the bottom edge of one of the F-637A Seat Backs. Align the vertex of the left and right angles with the side edges of the seat backs. Clamp the parts in position, then match-drill #30 the holes along the sides of the seat backs into the left and right angles. Repeat this step with the remaining seat back and the remaining left and right angles.
+
+Step 2: Drill 1/8" holes into two of the F-637C Angles using the dimensions given in Figure 1.
+
+Step 3: Nest one of the F-637C Angles, drilled in Step 2, under the flanges of one of the F-637A Seat Backs. The vertex of the angle will have to be filed to fit into the radius of the seat back. Align the ends of the angle with the edges of the seat back, then match-drill #30 the holes in the angle into the seat back (notice that the end holes in the angle will also be match-drilled into the tops of the F-637B Left and Right Angles).
+
+Repeat this step with the remaining seat back and angle.
+
+FIGURE 1: DRILLING THE ANGLES
+[Drawing showing F-637B-R and F-637A assembly with dimensions:]
+- 7/16
+- F-637C
+- 1 29/32 TYP.
+- 7/16
+- 3/8
+- F-637A
+
+Step 4: Remove the eyes indicated in Figures 3 and 4 from the F-10103B-R Right Upper Seat Hinge Half and the F-10103B-L Left Upper Seat Hinge Half. These are the hinge halves that were set aside on Page 33-2, Step 5.
+
+Step 5: Make the Right Seat Back Assembly by aligning the bottom edge of one of the F-637A Seat Backs with the F-10103B-R Right Upper Seat Hinge Half and one of the remaining F-637C Angles. See Figures 2 and 3.
+
+Clamp the parts in position, then match-drill #30 the holes shown in Figure 3 into the right upper seat hinge half and the angle.
+
+FIGURE 2: SEAT BACK ASSEMBLY ALIGNMENT
+[Drawing showing:]
+- F-637A
+- F-637C
+- F-10103B-R
+
+FIGURE 3: MATCH-DRILLING THE RIGHT SEAT BACK ASSEMBLY
+[Drawing showing assembly with callouts:]
+- 16
+- F-637C
+- F-10103B-R
+- REMOVE THIS EYE
+- F-637A
+
+Step 6: Make the Left Seat Back Assembly (shown in Figure 4) by repeating Step 5 with the remaining F-637A Seat Back, the remaining F-637C Angle, and the F-10103B-L Left Upper Seat Hinge Half.
+
+FIGURE 4: MATCH-DRILLING THE LEFT SEAT BACK ASSEMBLY
+[Drawing showing assembly with callouts:]
+- 16
+- F-637C
+- F-10103B-L
+- REMOVE THIS EYE
+- F-637A
+
+
+=== PAGE 42-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 42-4  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Remove the parts from the Seat Back Assemblies and deburr all the holes.
+
+Step 2: Dimple the holes in the F-637A Seat Back (flush on the back side) and machine countersink the corresponding holes in the F-637B Angles for the four flush rivets called out in Figure 1.
+
+Step 3: Prime the parts if/as desired, then reassemble the Left and Right Seat Back Assemblies. Rivet them using the rivets called-out in Figure 1.
+
+Rivet legend:
+- [circle with dot] AN426AD4-6
+- [gear symbol] AN470AD4-5
+- [gear symbol small] AN470AD4-6
+- [diamond] AN470AD4-7
+
+FIGURE 1: SEAT BACK ASSEMBLY RIVET CALL-OUT
+[Drawing showing rivet pattern on seat back assembly]
+
+Step 4: Place the Left and Right Seat Back Assemblies into position on the F-10103A Lower Seat Hinge Halves as shown in Figure 2.
+
+FIGURE 2: POSITIONING THE SEAT BACK ASSEMBLIES
+[Drawing showing:]
+- LEFT SEAT BACK ASSEMBLY
+- RIGHT SEAT BACK ASSEMBLY
+- F-10103A-R
+- F-10103A-L
+
+Step 5: Locate the two hinge pins set aside on Page 33-2, Step 5, and cut them both in half. (This should result in four 8" long hinge pins. If the pins are not at least this long, you will have to make new ones). Make a 90 degree bend in all four pins 5/8" from one end. Grind the other end to a dull point.
+
+Step 6: Secure both Seat Back Assemblies with the four hinge pins as shown in Figure 3.
+
+FIGURE 3: SECURING THE SEAT BACK ASSEMBLIES
+[Drawing showing seat backs secured with hinge pins callout:]
+- HINGE PINS

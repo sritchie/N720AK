@@ -1,0 +1,379 @@
+=== PAGE 43-1 ===
+SECTION 43: CABIN COVER
+
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 43-1
+
+[Isometric overview drawing of cabin cover installation on fuselage]
+
+Part callouts:
+- C-1001, CABIN COVER
+- WD-1043, CENTER CABIN BRACE
+- C-1005, WINDSCREEN
+- F-1071, FWD FUSE TOP SKIN
+- F-1074, TAILCONE FORWARD TOP SKIN
+- F-1073-L, TAILCONE SIDE SKIN
+- F-1070-L, MID SIDE SKIN
+- F-1069-L, FWD SIDE SKIN
+
+
+=== PAGE 43-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 43-2  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Make seven center marks on the F-1015C Mid Cabin Decks centered between the rivets shown in Figure 1. These marks are used later to locate the holes for the screws which secure the bottom of the C-1001 Cabin Cover door opening to the fuselage.
+
+Step 2: Extend the center marks to the outboard edge of the F-1015C Mid Cabin Deck, as shown in Figure 2, then transfer the marks to the F-1069 Fwd Side Skins (not shown) and F-1070 Mid Side Skins.
+
+FIGURE 1: LOCATING CENTER MARKS ON THE MID CABIN DECKS
+[Drawing showing mid cabin deck with callouts:]
+- F-1015C-L
+- CENTER MARK BETWEEN RIVETS, 7 PLACES
+
+FIGURE 2: TRANSFERRING CENTER MARKS TO THE SIDE SKINS
+[Drawing showing marks transferred to side skin with callouts:]
+- F-1015C-L
+- F-1070-L
+
+
+=== PAGE 43-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 43-3
+
+NOTE: General instructions for working with and finishing fiberglass are found in Section 5T.
+
+Step 1: The C-1001 Cabin Cover needs to be trimmed in order to fit on the fuselage. It is shown trimmed at the top of Figure 1. The portions of the cabin cover in the blow-ups are shown untrimmed.
+
+Scribe lines around the perimeter, the window openings, and door openings indicate the extent to which the cabin cover needs to be trimmed. Since these scribe lines are faint, trace over them with a fine point pen to improve their visibility. The information in the blow-ups can be used to find the scribe lines or draw new ones if necessary.
+
+The windscreen flange, the flange around the window opening, the mid side skin flange, and the tailcone forward top skin flange (not shown in the blow-ups) are all 3/4" wide.
+
+The scribe line on the lip around the door opening transitions from the lip to the vertical web along the bottom portion of the door opening.
+
+Step 2: Trim and sand to the scribe lines the tailcone forward top skin flange, the mid side skin flange, and the flange around the window opening.
+
+Step 3: Trim and sand the lip around the door opening if the scribe line is visible. If it is not visible, wait until the door is fitted in a later section.
+
+Step 4: Trim the windscreen flange and the flange around the lower, outside perimeter of the door opening.
+
+If the scribe lines which are shown jogging onto the windscreen flange in the left blow-up of Figure 1 are not visible, this area will have to be trimmed when fitting the F-1001 Cabin Cover to the fuselage. For now, trim with a margin around the area.
+
+FIGURE 1: C-1001 CABIN COVER SCRIBE LINE LOCATIONS
+[Drawing showing cabin cover with scribe line locations and callouts:]
+- TAILCONE FORWARD TOP SKIN FLANGE, 3/4
+- 3/4
+- MID SIDE SKIN FLANGE
+- WINDSCREEN FLANGE, 3/4
+- WINDOW OPENING
+- DOOR OPENING
+- IF THIS SCRIBE LINE ON THE LIP AROUND THE DOOR OPENING IS NOT VISIBLE, WAIT UNTIL THE DOOR IS BEING INSTALLED TO DRAW THE LINE AND TO TRIM THE LIP.
+- BOTTOM EDGE OF BEVEL TO SCRIBE LINE ON VERTICAL WEB, 1.0
+- 1/16 EDGE OF BEVEL TO SCRIBE LINE
+
+
+=== PAGE 43-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 43-4  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Test fit the C-1001 Cabin Cover on the fuselage. (If the F-1074 Tailcone Forward Top Skin is clecoed to the tailcone, it will have to be removed.) Note any areas of interference between the lower portion of the door opening and the fuselage structure to which it mates.
+
+Step 2: Remove the C-1001 Cabin Cover from the fuselage, then trim and sand the part to remove the areas of interference.
+
+NOTE: While trimming and sanding the lower portion of the door openings, make sure they remain "in plane" with the fuselage structure to which they mate (the F-1005C and F-1042 Bulkhead Side Channels and the F-1015C Mid Cabin Decks shown in Figure 1). This can be accomplished by spanning the two door openings with square tubing or a straight length of lumber and taping sandpaper to the ends as shown in Figure 2. Don't worry if the door openings are not perfectly "in plane" with the fuselage, structural filler will ultimately be applied to the interface areas, filling any gaps.
+
+Step 2 (continued): The portion of the cabin cover door openings which mate to the F-1015C Mid Cabin Deck will have to be sanded (which will lower the cabin cover) until the lips along the mid side skin flanges rest on the top edge of the F-1070 Mid Side Skins. (Make sure the mid side skin flanges are not longer than 3/4", otherwise they will "bottom out" on the F-1046 Mid Fuse Longerons before the lips on the mid side skin flanges reach the mid side skins.)
+
+As shown in the blow-up of Figure 2, the four lower corners of the door openings will have to have a slight radius and a relief notch sanded into them to prevent interference with the flanges at the ends of the F-1015C Mid Cabin Decks.
+
+Sand the lower ends of the windscreen flange so that they fit flush against the F-1071 Fwd Fuse Top Skin as shown in the blow-up of Figure 1.
+
+Step 3: Repeat Step 2 until the C-1001 Cabin Cover fits properly on the fuselage. The lower portion of the cabin cover door opening should have a good fit in the fuselage, but should not be so tight that it is difficult to get in place.
+
+FIGURE 1: TRIMMING THE CABIN COVER
+[Drawing showing cabin cover on fuselage with callouts:]
+- SAND TO FIT FLUSH AGAINST F-1071
+- LIP ON MID SIDE SKIN FLANGE
+- C-1001
+- F-1046-R
+- F-1005C-R
+- F-1015C-R
+- F-1042-R
+- F-1070-L
+- F-1005C-L
+- F-1015C-L
+- F-1042-L
+- F-1071
+
+FIGURE 2: TRIMMING THE CABIN COVER
+[Drawing showing cabin cover trimming details with callouts:]
+- C-1001
+- NOTCH AND RADIUS ALL FOUR CORNERS TO CLEAR FLANGES ON F-1015C
+
+
+=== PAGE 43-5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 43-5
+
+Step 1: With the C-1001 Cabin Cover on the fuselage, cleco the F-1074 Tailcone Forward Top Skin in place as shown in Figure 1. Use plenty of clecos to ensure that the skin is tight against the F-1006 Bulkhead.
+
+Step 2: Push the aft end of the C-1001 Cabin Cover up against the F-1074 Tailcone Forward Top Skin. If the aft flange of the cabin cover was trimmed to the scribe line giving a 3/4" flange, the flange should clear the F-1006 Bulkhead. If it does not clear it will have to be trimmed further. Don't trim it too much though, just enough to clear the bulkhead.
+
+Step 3: As shown in Figure 2, clamp the C-1001 Cabin Cover door openings to the aft ends of the F-1015C Mid Cabin Decks and to the top ends of the F-1005C Bulkhead Side Channels (see Page 43-4, Figure 1 for part call-outs). The forward portions of the door openings do not need to be clamped at this time.
+
+When clamping to the top of the bulkhead side channels, make sure the cabin cover fits flush against the top edge of the F-1070 Mid Side Skins (the area above the rear seat vents). The cabin cover should not push the skin outboard, nor should there be a gap between the cabin cover and the skin.
+
+Step 4: Push the aft end of the C-1001 Cabin Cover up against the F-1074 Tailcone Forward Top Skin. Match-Drill #30 the twenty-five holes, which are along the forward edge of the skin and between the rivet lines of the F-1047B Stiffeners (see Figure 3), into the cabin cover. Start at the center of the cabin cover and work outboard. Make sure to keep the drill perpendicular to the skin, and, to keep the cabin cover tight against the skin, cleco each hole as you drill.
+
+Remove the clecos securing the cabin cover to the skin, push the cabin cover away from the skin, clean out any drilling dust from between the two parts, then reinstall the clecos.
+
+Now, match-drill #30 and cleco the rest of the holes down both sides. If gapping occurs between the cabin cover and skin, remove as many clecos as necessary, and clean out any trapped drilling dust.
+
+Step 5: Match-Drill #30 the holes along the top edge of both F-1070 Mid Side Skins into the C-1001 Cabin Cover. Back-up the holes with a block of wood to keep the cabin cover tight against the side skins. Initially, match-drill and cleco about every eighth hole, then go back and finish match-drilling the rest. When finished drilling, remove the clecos, clean out the drilling dust, then reinstall the clecos.
+
+FIGURE 1: CLECOING THE TAILCONE FORWARD TOP SKIN
+[Drawing showing:]
+- F-1074
+- C-1001
+- F-1006
+- REAR SEAT VENT
+- F-1070-L
+
+FIGURE 2: CLAMPING THE CABIN COVER
+[Drawing showing cabin cover clamped to fuselage]
+
+FIGURE 3: MATCH-DRILLING THE CABIN COVER
+[Drawing showing match-drilling with callouts:]
+- F-1047B-L, RIVET LINE
+- F-1047B-R, RIVET LINE
+- C-1001
+- F-1074
+- F-1070-L
+
+
+=== PAGE 43-6 ===
+VAN'S AIRCRAFT, INC.
+PAGE 43-6  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Double check the position of the C-1001 Cabin Cover relative to the F-1070 Mid Side Skins above the rear seat vents. Once again, the cabin cover should not be pushing the skin outboard, nor should there be a gap between the cabin cover and the skin. Unclamp and readjust if necessary.
+
+Step 2: Using an angle drill or a long drill bit, match-drill #30 the seven 1/8" holes (see Figure 1) in both of the F-1005C Bulkhead Side Channels into the C-1001 Cabin Cover. Drill perpendicular to the bulkhead side channels and cleco while drilling.
+
+Final-Drill the holes using a #12 drill.
+
+Step 3: Remove the clamps from the aft end of the C-1001 Cabin Cover door opening, align the forward end of the door opening with the fuselage, then clamp the cabin cover to the F-1015C Mid Cabin Decks and the F-1042 Bulkhead Side Channels as shown in Figure 2.
+
+Step 4: Using an angle drill or a long drill bit, match-drill #30 the five 1/8" holes (see Figure 2) in both of the F-1042 Bulkhead Side Channels into the C-1001 Cabin Cover. Again, make sure to drill perpendicular to the bulkhead side channels and cleco while drilling.
+
+FIGURE 1: DRILLING THE CABIN COVER
+[Drawing showing cabin cover drilling with callouts:]
+- C-1001
+- F-1005C-L
+- F-1025E-L
+- MATCH-DRILL THIS ROW OF SEVEN 1/8" HOLES (TWO ARE HIDDEN BEHIND THE F-1025E-L)
+- REAR SEAT VENT
+
+FIGURE 2: DRILLING THE CABIN COVER
+[Drawing showing cabin cover drilling with callouts:]
+- C-1001
+- DO NOT MATCH-DRILL THESE THREE HOLES
+- MATCH-DRILL THIS ROW OF FIVE 1/8" HOLES (ONE IS HIDDEN BEHIND THE CLAMP)
+- F-1015C-L
+- F-1042-L
+
+
+=== PAGE 43-7 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 43-7
+
+Step 1: Bend the top portion of the F-1042 Bulkhead Side Channels until the F-1042F Gussets can be clecoed in place as shown in Figure 1. If the top, outboard edge of the bulkhead side channels interfere with the C-1001 Cabin Cover, trim the channels to clear. Trim only as much as is necessary to get the gussets clecoed in place. Do not be concerned with the gap between the top portion of the channels and the cabin cover, the gap will be filled with structural filler later.
+
+Step 2: With the F-1042F Gussets clecoed it place, final-drill #30 the holes common to the gussets and the F-1042 Bulkhead Side Channels.
+
+Step 3: Match-Drill #30 the three holes in the web of the F-1042 Bulkhead Side Channels into the cabin cover.
+
+Step 4: Final-Drill #12 all of the #30 holes common to the cabin cover and the F-1042 Bulkhead Side Channels.
+
+FIGURE 1: DRILLING THE GUSSETS
+[Drawing showing gusset drilling with callouts:]
+- F-1042F
+- C-1001
+- MATCH-DRILL
+- F-1042-L
+- F-1013-L
+- F-1015C-L
+
+Step 5: Clamp the middle, bottom portion of the C-1001 Cabin Cover door openings to the underlying F-1015C Mid Cabin Decks as shown in Figure 2.
+
+Step 6: Transfer the hole location marks made on Page 43-2, Step 1 to the bottom portion of the cabin cover door openings. The hole location marks are placed a half inch from the outer skin surface as shown in the figure.
+
+Step 7: At the marks made in Step 6, drill #30 the bottom portion of the cabin cover door openings, through the underlying F-1015C Mid Cabin Decks, and into the F-1013 Fwd Fuse Longerons (see Figure 1 for part call-outs). Drill perpendicular to the mid cabin decks.
+
+Final-Drill the holes using a #19 drill. CAUTION: These holes are smaller than the holes in the forward and aft portion of the door openings. Don't use the same drill as before.
+
+Step 8: Machine countersink all of the #12 holes in the forward and aft portions of the C-1001 Cabin Cover door openings for the heads of AN509-10 screws, and all of the #19 holes in the bottom portion of the door openings for AN509-8 screws. There is not enough room for a countersink cage, so you will need to use a deburring tool extension in a drill as shown in Figure 3. Countersink in line with the hole, not perpendicular to the tapered surface of the cabin cover. This will produce a countersink that is deeper on the inboard side of the hole than on the outboard side. Countersink just deep enough so that the screw is flush with the outboard side.
+
+FIGURE 2: CLAMPING AND DRILLING THE CABIN COVER
+[Drawing showing:]
+- C-1001
+- 1/2 (distance from outer surface)
+
+FIGURE 3: COUNTERSINKING THE DOOR OPENINGS
+[Drawing showing countersinking technique with:]
+- C-1001
+
+
+=== PAGE 43-8 ===
+VAN'S AIRCRAFT, INC.
+PAGE 43-8  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Final-Drill #12 the four holes at the top of the WD-1043 Center Cabin Brace.
+
+FIGURE 1: FINAL-DRILLING THE WD-1043 CENTER CABIN BRACE
+[Drawing showing:]
+- FINAL-DRILL #12 THESE FOUR HOLES
+- WD-1043
+
+Step 2: Insert the tab at the bottom of the WD-1043 Center Cabin Brace into the slot in the F-1071 Fwd Top Skin. Slide the brace as far forward as it will go, then space the bottom end of the tube off the fwd top skin using a 0.032" scrap aluminum shim.
+
+Center and then clamp the top end of the brace to the C-1001 Cabin Cover.
+
+Step 3: Match-Drill #12 one of the four holes in the top of the WD-1043 Center Cabin Brace into the C-1001 Cabin Cover. Be very careful to drill perpendicular to the cabin cover, a small change in angle can result in a significant change in hole position over the thickness of the cabin cover.
+
+Insert an AN3 bolt into the hole to maintain alignment, then match-drill the remaining three holes.
+
+FIGURE 2: MATCH-DRILLING THE CABIN COVER
+[Drawing showing cabin cover drilling with callouts:]
+- C-1001
+- WD-1043
+- F-1071
+- .032" SHIM
+
+Step 4: Two bolts are used to secure the WD-1043 Center Cabin Brace to the F-1044A Fwd Cabin Rib and the F-1044B Angle. Match-Drill #12 one of these two bolt holes in the fwd cabin rib into the tab at the bottom end of the center cabin brace and the angle. Insert an AN3 bolt, then match-drill the second hole.
+
+FIGURE 3: MATCH-DRILLING THE CENTER CABIN BRACE
+[Drawing showing:]
+- F-1071
+- WD-1043
+- F-1044A
+- F-1044B
+- THESE TWO HOLES ARE MATCH-DRILLED FROM THE F-1044A
+
+Step 5: Trim the bottom of the C-1005 Windscreen along the scribe line. General instructions for working with Plexiglass are found in Section 5U. Cutting disks are provided in the kit.
+
+Step 6: Place the windscreen on the fuselage and position it relative to the F-1071 Fwd Top Skin as shown in Figure 4. With the windscreen resting on the top of the C-1001 Cabin Cover, sight through the windscreen and mark the location of the lip on the windscreen flange of the cabin cover. Mark only the top portion of the flange lip; about 20 inches to either side of centerline. (Once this portion is trimmed, the windscreen will be able to drop down onto the flange allowing the rest of the windscreen to be marked more accurately.)
+
+Step 7: Trim the C-1005 Windscreen along the marks made in Step 6, then position the windscreen on the F-1071 Fwd Top Skin as before. With the top of the windscreen resting on the windscreen flange, finish marking the location of the flange lip on the windscreen.
+
+Step 8: Trim the C-1005 Windscreen along the marks made in Step 7, and then place it back in position. Check the fit and make any adjustments if necessary.
+
+FIGURE 4: FITTING THE WINDSCREEN
+[Drawing showing:]
+- C-1005
+- C-1001
+- F-1071
+- 10 degrees (approximate angle)
+
+
+=== PAGE 43-9 ===
+VAN'S AIRCRAFT, INC.
+DATE: 6/15/04  REVISION: 0  RV-10  PAGE 43-9
+
+Step 1: Trim the C-1004-L Rear Window to the scribe line, then test fit it on the C-1001 Cabin Cover as shown in Figure 1. Press the window securely to the cabin cover so that it contacts the entire flange around the window opening. Note any interference of the window with the lip around the flange, and trim if necessary. Repeat this step for the right rear window.
+
+FIGURE 1: FITTING THE REAR WINDOWS
+[Drawing showing:]
+- C-1004-L
+- C-1001
+
+Step 2: Remove the C-1001 Cabin Cover from the fuselage and deburr all of the holes in the fuselage drilled in this section.
+
+Step 3: Final-Drill the four #12 holes in the top of the cabin cover using a 5/16" drill. Drill from the inside to the outside surface.
+
+Step 4: Cut four F-10106 Spacers from the length of AT6-058X5/16 tubing supplied in the kit. The length of the spacers, shown in Figure 2, is slightly longer than the thickness of the C-1001 Cabin Cover.
+
+Step 5: Insert one of the F-10106 Spacers into one of the four holes in the C-1001 Cabin Cover as shown in Figure 2. Tap the spacer in until it is flush with the inside surface of the cabin cover.
+
+FIGURE 2: INSERTING SPACERS
+[Drawing showing spacer insertion with callouts:]
+- C-1001
+- F-10106
+- 1 13/32 (spacer length)
+
+Step 6: Machine countersink the F-10106 Spacer and the C-1001 Cabin Cover as shown in Figure 3. The countersink must be deep enough to flush the head of an MS24694S72 screw with the top surface of the cabin cover.
+
+Step 7: Install the second F-10106 Spacer, and then machine countersink as before. Repeat this step for the remaining spacers.
+
+FIGURE 3: COUNTERSINKING THE SPACERS
+[Drawing showing:]
+- C-1001
+- F-10106
+
+Step 8: Locate the aluminum strip that was set aside on Page 10-12, Step 1. Final-Drill #30 the single hole in the middle of the strip, then cleco it to the inside of the C-1001 Cabin Cover as shown in Figure 4.
+
+Step 9: Clamp the strip in several places along the tailcone forward top skin flange, then match-drill #30 all of the holes in the flange into the strip.
+
+FIGURE 4: DRILLING THE RIVET BACKUP STRIP
+[Drawing showing:]
+- TAILCONE FORWARD TOP SKIN FLANGE
+- ALUMINUM STRIP FROM PAGE 10-12, STEP 1
+
+
+=== PAGE 43-10 ===
+VAN'S AIRCRAFT, INC.
+PAGE 43-10  RV-10  REVISION: 0  DATE: 6/15/04
+
+Step 1: Clamp the F-10107 Rivet Backup Strips, shown in Figure 1, to the mid side skin flanges so that the bottom of the strips are even with the bottom of the flanges. Trim the ends of the strip which is on the tailcone forward top skin flange to clear the rivet backup strips (see Figure 1).
+
+Step 2: Match-Drill # 30 the holes in the mid side skin flanges into the F-10107 Rivet Backup Strips, then remove and deburr the holes in all three rivet backup strips.
+
+FIGURE 1: DRILLING THE RIVET BACKUP STRIPS
+[Drawing showing:]
+- F-10107
+- MID SIDE SKIN FLANGE
+- F-10107
+- TRIM ENDS OF STRIP ON THE TAILCONE FORWARD TOP SKIN FLANGE TO CLEAR F-10107
+- TAILCONE FORWARD TOP SKIN FLANGE
+- C-1001
+
+Step 3: Deburr, then dimple the #30 holes along the top edge of both F-1070 Mid Side Skins and along the forward edge of the F-1074 Tailcone Forward Top Skin which are common to the C-1001 Cabin Cover flanges.
+
+Machine countersink the holes in the cabin cover flanges deep enough for the dimples in the skins. If your countersink cage is too big and interferes with the joggle on the flanges, make a spacer out of scrap 0.032" aluminum as shown in Figure 2. Drill a hole in the spacer big enough to clear the cutter, then adjust the countersink cage for the correct depth accounting for the thickness of the spacer.
+
+FIGURE 2: COUNTERSINKING THE CABIN COVER
+[Drawing showing countersinking detail with callouts:]
+- C-1001
+- 0.032" SPACER
+
+Step 4: Rivet the F-1042F Gussets to the F-1042 Bulkhead Side Channels using the rivets called out in Figure 3.
+
+NOTE: The cabin cover will now be permanently installed. If you intend to paint or otherwise cover the interior, this is a good time to do it.
+
+FIGURE 3: RIVETING THE GUSSETS
+[Drawing showing:]
+- AN470AD4-5, 6 PLACES
+- F-1042F
+- F-1042-L
+
+Step 5: Place the C-1001 Cabin Cover back on the fuselage (the bottom portion of the cabin cover door openings will have to be spread apart to get them past the bent portion of the F-1042 Bulkhead Side Channels).
+
+Step 6: Cleco the F-10107 Rivet Backup Strips and the sides of the C-1001 Cabin Cover to the F-1070 Mid Side Skins. See Figure 4.
+
+Step 7: Temporarily remove the four bolts which splice together the two sets of F-1032 and F-1046 Longerons.
+
+Step 8: Apply a small bead (no more than 1/16" in diameter) of tank sealant to the tailcone forward top skin flange. This will prevent water from seeping between the flange and the F-1074 Tailcone Forward Top Skin. Apply the bead (a plastic bag with a corner cut off can be used) just aft of the #30 holes in the flange.
+
+Step 9: Cleco the F-1074 Tailcone Forward Top Skin to the tailcone and, with the remaining rivet backup strip (not shown), to the C-1001 Cabin Cover. Start clecoing from the center and work down both sides. When clecoing the skin to the F-1046 Mid Fuse Longerons, slip in the 0.032" shim that was made on Page 32-4, Step 1.
+
+Step 10: Rivet the F-1070 Mid Side Skins, the C-1001 Cabin Cover, and the F-10107 Rivet Backup Strips using the rivets called-out in Figure 4.
+
+FIGURE 4: RIVETING THE TAILCONE FORWARD TOP SKIN
+[Drawing showing riveting with callouts:]
+- TAILCONE FORWARD TOP SKIN FLANGE
+- F-1046
+- F-1032
+- C-1001
+- F-1070-L
+- F-10107
+- CS4-4, TYP.
+- F-1074
+- .032" SHIM FROM PAGE 32-4, STEP 1

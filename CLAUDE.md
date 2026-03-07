@@ -428,6 +428,23 @@ Track compliance with:
 
 When adding AD/SB entries, record: document type, number, source, subject, applicability, compliance status, date, method, and next due if recurring.
 
+## Construction Plans Index
+
+Van's RV-10 construction plans (121 PDFs) are indexed for search in `docs/`.
+
+**Index file**: `docs/construction-plans-index.md` — section directory, topic cross-reference
+**Extracted text**: `docs/plans-text/*.txt` — one file per PDF, visually transcribed from drawings
+**Source PDFs**: `~/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Archive/Construction-Drawings/`
+
+**Search workflow** when user asks about construction plans, parts, or hardware:
+1. Grep `docs/construction-plans-index.md` for topic keywords
+2. Grep `docs/plans-text/` for part numbers (AN, MS, F-xxxx) or detailed terms
+3. Read the specific PDF page visually if a drawing/figure is needed (use `Read` with `pages` parameter)
+
+**Important**: `pdftotext` does NOT extract text from these PDFs reliably — the text is rendered as vector graphics. The `.txt` files in `docs/plans-text/` were created by visually reading each PDF page and transcribing all visible text, part numbers, steps, and callouts. Some sections still need transcription — check file size (files under 100 bytes are likely incomplete).
+
+**Parts Index**: `docs/plans-text/manual-section-4-parts-index.txt` contains every Van's part number with nomenclature, material, and sub-kit assignment. Search here first for "what part number is X" questions.
+
 ## Editing Tips
 
 - Use `<!-- placeholders -->` for missing data

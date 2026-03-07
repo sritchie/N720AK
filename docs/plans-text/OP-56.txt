@@ -1,0 +1,69 @@
+                                                                                                                                                                                                                VAN'S AIRCRAFT, INC.
+
+
+SECTION OP-56: TAIL LIGHTING                                                                                                                                                                                        R-411, R-911 OR R-1011
+
+                                                                                                               Step 6: Remove the hatched area of the R-411, R-911                                                              ROUGHEN SURFACE
+NOTE: See Section 5.18 for more tips on working with the fiberglass fairing. Fiberglass will quickly
+dull tools. Locate and use the tools set aside for use in attaching the empennage fairings when                or R-1011 Rudder Bottom Fairing as shown in Figure 2.
+working with the fiberglass wing tips.                                                                         Drill Several holes around the inside of the traced line,                                                              REMOVE HATCHED AREA
+                                                                                                               but stop short of the line traced in Step 1. Finish removing
+Step 1: Center the R-00911B Rudder Fairing Doubler on the aft end of the R-411, R-911 or                       the material up to the traced line with sandpaper wrapped
+R-1011 Rudder Bottom Fairing as shown in Figure 1. Tape the rudder fairing doubler in place.                   around a round object.                                                                                                                           R-00911B
+
+Step 2: Final-Drill #30 and cleco the holes as shown in Figure 1.                                              Step 7: Use 60 grit sandpaper to roughen the surface of the                                                                                          CS4-4,
+                                                                                                               R-411, R-911 or R-1011 Rudder Bottom Fairing and the facing                                                                                          2 PL
+Step 3: Final-Drill #43 the holes as shown in Figure 1.                                                        surface of the R-00911B Rudder Fairing Doubler.
+
+Step 4: Use a marker to trace around the opening in the rudder fairing doubler.                                Step 8: Clean both surfaces well with denatured alcohol.
+
+Step 5: Machine countersink the rudder fairing doubler to fit the head of an CS4-4 rivet. See Figure 1.        Step 9: Mix a small batch of epoxy resin and add flox to a
+                                                                                                               smooth consistency that will not drip, but is not too stiff to
+                                                                                                               sag when the mixing cup is tipped from side to side.
+                                                                                                               Spread this mixture on the roughened surface of the
+                                                                                                               R-411, R-911 or R-1011 Rudder BottomFairing.
+                                                                               R-00911B
+                                                                                                               Step 10: Rivet the R-00911B Rudder Fairing Doubler to the                                                                              SCREW HOLES,
+                                                                                                               R-411, R-911 or R-1011 Rudder Bottom Fairing as shown in Figure 2.                                                                     TAP 4-40, 2 PL
+                                                                                                                                                                                                     FIGURE 2: RUDDER FAIRING
+                                                                                                               There should be just enough of the epoxy resin and flox mixture between
+                                                                                                               the parts to come up to, or just beyond the adjacent edges of the parts.                DOUBLER INSTALLATION
+                                                                                                               Sand these edges to a smooth finish after curing.
+      FINAL-DRILL #30
+            MACHINE                                                                                            Step 11: Run a #43 drill bit through the top and bottom holes. See Figure 1.
+    COUNTERSINK 120°                                                                                           Clean the drill bit before the epoxy cures. Wait until the resin is fully cured                                                        VS-410PP
+                                                                        FINAL-DRILL #43                                                                                                                                                               ON VERTICAL
+                                                                                                               before proceeding.
+                                                                                                                                                                                                                                                      STAB SPAR,
+                                                                                                               Step 12: Tap 4-40 the screw holes indicated in Figure 2.                                                                               2 PL
+
+                                                                                                               Step 13: (RV-3,4,6,7,8,9) Drill the aft systems hole as in the VS-410PP Bracket,                                                     CENTER PUNCH,
+                                                                                                               vertical stab spar, and bulkheads as called out in Figure 3.                                                                         DRILL #40,
+                                                                                                               For reference, see also Page OP56-2, Figure 1.                                                                                       FINAL DRILL #30,
+                                                                                                                                                                                                                                                    USE UNIBIT TO
+                                                                                                               Step 14: (RV-10) Drill the aft                                                                                                       ENLARGE HOLE
+          TRACE AROUND                                                                                         systems hole into the vertical                                                                                                       TO 1/4 [6.4 mm]
+           THE INSIDE OF                                                                                       stab spar and bulkheads
+           THIS OPENING                                                                                        as called out in Figure 4.
+
+                                                                                                                                                                                                                           FIGURE 3: VERTICAL STAB
+                                                                                                                                                                                                                               SYSTEMS HOLE
+                                                                                                                                                                                             CENTER PUNCH,                              (RV-3,4,6,7,8,9)
+                                                                                                                                                                                             DRILL #40,
+                                                                                                                                                                                             FINAL DRILL #30,
+                                                                                                                                                                                             USE UNIBIT TO
+                                                                                                                      VS-1010                                                                ENLARGE HOLE
+                                                                                                 (ON VERTICAL STAB SPAR), 2 PL                                                               TO 1/4 [6.4 mm]
+
+
+
+
+                                         R-411, R-911 OR R-1011                                                                                                FIGURE 4: VERTICAL STAB
+                                                                                                                                                                   SYSTEMS HOLE
+  FIGURE 1: FITTING THE RUDDER FAIRING DOUBLER                                                                                                                              (RV-10 ONLY)
+
+
+                                                                                                                                                                                                                   DATE: 05/08/15 REVISION: 0   RV-ALL
+                                                                                                                                                                                                                                                 EXCEPT RV-12
+                                                                                                                                                                                                                                                                  OP 56-1
+

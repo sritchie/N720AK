@@ -1,0 +1,397 @@
+                                                                                                                   VAN'S AIRCRAFT, INC.
+                                                            VS-1009
+                                               VERTICAL STABILIZER
+
+
+
+SECTION 12:
+                                                        TIP FAIRING                                     HS-910
+                                                                      R-1009                      HORIZONTAL
+                                                                      RUDDER TIP FAIRING                                           E-912
+                                                                                                   STABILIZER
+                                                                                                                              ELEVATOR
+                                                                                                   TIP FAIRING
+                                                                                                                             TIP FAIRING
+
+
+
+EMPENNAGE
+FAIRINGS                               VERTICAL STABILIZER
+                                                 ASSEMBLY
+
+
+
+
+                                    F-1094B,
+                          EMPENNAGE FAIRING
+
+
+
+                                                                                                                                         ELEVATOR ASSEMBLY
+
+
+
+
+      TAILCONE ASSEMBLY
+
+                                                                                                RUDDER ASSEMBLY
+
+  HS-910
+  HORIZONTAL
+  STABILIZER
+  TIP FAIRING
+
+
+
+                                                                                                 NAVIGATION / STROBE LIGHT
+                                                                                                 (NOT PROVIDED IN KIT)
+
+
+
+                                                                                R-1011
+                                                                                RUDDER BOTTOM FAIRING
+
+
+
+
+      E-912
+ ELEVATOR
+TIP FAIRING
+
+                                                                                                                       DATE: 12/09/13 REVISION: 0   RV-10   PAGE   12-1
+                        VAN'S AIRCRAFT, INC.
+                        NOTE: Tools will dull rapidly when used on fiberglass. Set aside a specific set of tools for use on                   Step 6: Trim the aft edge of the flange on the R-1009 Rudder Tip Fairing as shown in Figure 3 to remove interference between the
+                        fiberglass only. See Section 5T for more information on working with fiberglass.                                      flange and the R-1006 Rudder Trailing Edge and allow the tip to be fully inserted into the end of the rudder. Trimming the width of
+                                                                                                                                              the molded flange may also be required. See Figure 1 for correct width.
+  Step 1: Ensure that the molded recess on all the tip fairings is square as shown in Figure 1. Use a razor blade or file to remove any
+  material that may have been left from the mold.                                                                                             Step 7: Insert the R-1009 Rudder Tip Fairing into the end of the rudder assembly. Push the fairing tightly towards the front and
+                                                                             1/2 E-912, HS-910,                                               check that the aft end is aligned with the trailing edge of the rudder then match-drill #40 and cleco the rudder tip fairing using the
+                                                                               R-1009, R-1011                                                 holes in the R-1001 Rudder Skins as a drill guides. Final-Drill the holes #30. Work from front towards the trailing edge.
+                                                                                5/8 VS-1009
+                                                                                                                                              Step 8: Remove the R-1009 Rudder Tip Fairing from the rudder assembly. Deburr and dimple the rudder tip attach holes in the
+                                                                                                                                              R-1001 Rudder Skins for a CS4-4 blind rivet. Machine countersink the holes in the rudder tip fairing for the dimples in the rudder
+                                                SQUARE CORNER                                               .025                              skins.
+
+                                 FIGURE 1: CROSS SECTION OF A TYPICAL TIP                                                                     Step 9: Cleco and rivet the R-1009 Rudder Tip Fairing onto the rudder assembly per the callouts in Figure 3.
+                                          FAIRING MOLDED FLANGE
+  NOTE: Complete steps 2-5 for both the right and left elevator assemblies. E-912 Elevator Tip Fairing Installation for the left
+  side is shown.
+
+   Step 2: Trim the aft edge of the flange on the E-912 Elevator Tip Fairing as shown in Figure 2 to remove interference between the
+   flange and the E-1023 Elevator Trailing Edge and allow the tip to be fully inserted into the end of the elevator. Trimming the width of
+   the molded flange may also be required. See Figure 1 for the correct width.
+                                                                                                                                                             CS4-4,
+   Step 3: Insert the E-912 Elevator Tip Fairing into the end of the elevator. Push the fairing tightly towards the front and check that
+                                                                                                                                                         19 PLACES
+   the aft end is aligned with the trailing edge of the elevator then match-drill #40 and cleco the elevator tip fairing using the holes in                                                                                R-1009
+   the E-1001A Top Elevator Skin, E-1001B Bottom Elevator Skin and E-913 Elevator Counterbalance Skin as a drill guides. Final-Drill
+   the holes #30. Work from the front towards the trailing edge.
+
+  Step 4: Remove the E-912 Elevator Tip Fairing from the elevator assembly. Deburr and dimple the elevator tip attach holes in the
+  E-1001A Top Elevator Skin, E-1001B Bottom Elevator Skin and E-913 Elevator Counterbalance Skin for a CS4-4 blind rivet.
+  Machine countersink the holes in the elevator tip fairing for the dimples in the elevator skins.
+
+   Step 5: Cleco and rivet the E-912 Elevator Tip Fairing onto the elevator assembly per the callouts in Figure 2.
+
+
+                                                           E-913
+           CS4-4,
+       22 PLACES                                                         ELEVATOR ASSEMBLY                                                                                                                                                                  TRIM AFT EDGE
+                                                                                                                                                                                                                                                            OF MOLDED FLANGE
+                                                                                  E-1001A                                                                                                                                                                   AS REQUIRED
+                                                                                                                                                                             R-1001
+                                                                                                                                                                                                                                                        R-1001
+
+                                                                                                                                                                                 RUDDER ASSEMBLY
+
+
+
+
+                                                                                                                                                                                FIGURE 3: RUDDER TIP FAIRING INSTALLATION
+
+
+                       E-912
+
+
+
+
+                                                                                                                         E-1023
+                                                                                                                     E-1001B
+
+                                                                                                                     REMOVE HATCHED
+                               FIGURE 2: ELEVATOR TIP FAIRING INSTALLATION                                           AREA AS REQUIRED
+
+
+PAGE   12-2     RV-10      REVISION: 1   DATE: 12/09/13
+NOTE: If installing a lighting system do not permanently install the R-1011 Rudder Bottom Fairing until installation of the              Step 7: Temporarily fit a foam rib into the opening in the HS-910
+                                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+light in the fairing is complete. It is the builder option to purchase a lighting system now or wait until later in construction.        Horizontal Stabilizer Tip Fairing as shown in Figure 3. Bond this rib in place with small spots of Bondo or resin.
+Lighting systems are available in the VAN'S AIRCRAFT ACCESSORIES CATALOG. Van's Aircraft recommends lighting
+system 6, part number LN SYS6.                                                                                                           Step 8: Trim a single layer of glass fabric to fit over the temporary rib and the aft edge of the HS-910
+                                                                                                                                         Horizontal Stabilizer Tip Fairing. Lay up this layer of glass over the temporary foam rib using either epoxy or
+Step 1: Trim the aft edge of the flange on the R-1011 Rudder Bottom Fairing as shown in Figure 1 to remove interference between          polyester resin. See Figure 3.
+the flange and the R-1006 Rudder Trailing Edge and allow the fairing to be fully inserted into the bottom of the rudder. Trimming the
+width of the molded flange may also be required. See Page 12-2, Figure 1 for the correct width.                                          Step 9: After the glass has cured, remove the HS-910 Horizontal Stabilizer Tip Fairing from the horizontal stabilizer assembly,
+                                                                                                                                         then carefully remove the temporary foam rib.
+Step 2: Match-Drill #30 and cleco the R-1011 Rudder Bottom Fairing using the holes in the R-1001 Rudder Skins as a drill guides.
+Work from front towards the trailing edge.                                                                                               Step 10: Lay up additional layers of glass fabric reinforcement plies to the inner face and edges as shown in Figure 4. Cleco the
+                                                                                                                                         HS-910 Horizontal Stabilizer Tip fairing back onto the Horizontal Stabilizer while it cures. After the glass has cured trim off the extra
+Drill #30 a drain hole in the lowest point of the rudder bottom fairing.                                                                 overhanging glass even with the aft edge of the tip fairing.
+
+Step 3: Remove the R-1011 Rudder Bottom Fairing from the rudder assembly. Deburr and dimple the rudder bottom attach holes in                                                                                  1 LAYER
+the R-1001 Rudder Skins for a CS4-4 blind rivet. Machine countersink the holes in the rudder tip fairing for the dimples in the rudder                            HS-910
+                                                                                                                                                                                                               9 OZ. PER SQUARE YARD
+skins.                                                                                                                                                                                                         GLASS CLOTH
+
+Step 4: Cleco and rivet the R-1011 Rudder Bottom Fairing onto the rudder assembly per the callouts in Figure 1.
+                                                                                                                                                                                                                                   ADDITIONAL PLIES
+
+
+
+
+                                                                                                                                                               FOAM RIB
+                                                                                                        RUDDER ASSEMBLY                                    (TEMPORARY)
+
+             CS4-4,                                                                                                                                    FIGURE 3: TEMPORARY RIB                                                   FIGURE 4: FINAL LAY-UP
+         20 PLACES
+
+
+                                                                                                           R-1001                        Step 11: Deburr and dimple the horizontal stabilizer tip attach holes in the HS-1001 Horizontal Stabilizer Skin for a CS4-4 blind
+                                                                                                                                         rivet. Machine countersink the holes in the horizontal stabilizer tip fairing for the dimples in the horizontal stabilizer skins.
+
+                                                                                                                                         Step 12: Cleco and rivet the HS-910 Horizontal Stabilizer Tip Fairing onto the horizontal stabilizer assembly per the callouts in
+                                                                                                                                         Figure 5.
+
+             R-1011
+                                                                                                                                                                                                                          HS-1001
+                                                                                                                                                                                                                                               HORIZONTAL STABILIZER
+                                                                                                                                                                                                                                               ASSEMBLY
+
+
+
+
+               FIGURE 1: INSTALLING THE R-1011 RUDDER BOTTOM FAIRING
+
+NOTE: Complete steps 5 through 12 for both sides of the horizontal                     APPROX.
+                                                                                                                 1/8 MINIMUM
+stabilizer assembly.                                                                      6
+
+Step 5: Trim the width of the molded flange on the HS-910
+Horizontal Stabilizer Tip Fairing if required to meet the
+dimensions given on Page 12-2, Figure 1. Progressively
+trim away the aft edge of the horizontal stabilizer tip fairing to                                                                                HS-910
+leave a minimum 1/8 inch gap between the aft edge of the tip                                                                                                                                           CS4-4,
+fairing and the forward face of the elevator counterbalance arm.                                                                                                                                       8 PLACES
+See Figure 2. It will be necessary to temporarily attach the elevator
+to the horizontal stabilizer assembly, see Page 11-2, Step 3.
+
+Step 6: Match-Drill the HS-910 Horizontal Stabilizer Tip Fairing to                                                                                             FIGURE 5: HORIZONTAL STABILIZER TIP FAIRING INSTALLATION
+the HS-1001 Horizontal Stabilizer Skin in a similar manner as the
+elevator and rudder. See Page12-2, Step 3 and Step 7.                                 FIGURE 2: CREATING GAP
+                                                                                                                                                                                                                                DATE: 12/09/13 REVISION: 1    RV-10      PAGE   12-3
+                         VAN'S AIRCRAFT, INC.                                                                                                 Step 7: Mark and trim the aft edge of the F-1094C Gap Seal parallel with the step (see Figure 3) in the F-1094A Empennage Gap
+                                                                                                                                              Cover. The F-1094C Gap Seal has been created oversize to account for material shrinkage over time. Compress the gap seal onto
+                       Step 1: Trim the width of the molded flange on the VS-1009 Vertical Stabilizer Tip Fairing if required to meet the
+                                                                                                                                              the F-1094A Empennage Gap Cover as shown in Figure 3 leaving just enough material to properly trim the forward end of the gap
+                       dimensions given on Page 12-2, Figure 1. Trim away the aft edge of the vertical stabilizer tip fairing so the aft
+                                                                                                                                              seal. Mark and trim the forward edge of the gap seal as shown in Figure 3. This will create F-1094C-L.
+   edge is parallel and flush with the vertical edge on the VS-1001 Skin as indicated in Figure 1. This will provide a minimum 1/8 inch
+   gap between the aft face of the vertical stabilizer tip fairing and the forward face of the rudder counterbalance arm.
+                                                                                                                                              Step 8: Install the F-824B Cover Plate on the tailcone assembly, using at least two of the four lower attach holes. Cleco the F-1094A
+                                                                                                                                              Gap Cover to the tailcone assembly (the holes were left open in the Section 10 Tailcone Assembly). See Figure 3.
+   Step 2: Match-Drill #30 and cleco the VS-1009 Vertical Stabilizer Tip Fairing using the holes in the VS-1001 Vertical Stabilizer Skin
+   as a drill guide. Work from front towards the trailing edge.
+                                                                                                                                              Step 9: Match-Drill #40 the aft two lower holes indicated in Figure 3 in the F-1094A Empannage Gap Cover into the F-824PP Cover
+                                                                                                                                              Plate and F-1032-L Tailcone Longeron Left.
+   Step 3: Close in the aft facing opening of the VS-1009 Vertical Stabilizer Tip Fairing in a similar manner as presented on Page 12-3,
+   steps 7-10 and Page 12-3, Figure 3 and Figure 4.                                                                                                                                             F-1094C-L
+                                                                                                                                                                                                                                               F-1094A
+                                                                                                                                                                                                                                 STEP
+   Step 4: Deburr and dimple the VS-1009 Vertical Stabilizer Tip Fairing attach holes in the VS-1001 Vertical Stabilizer Skin for a
+   CS4-4 blind rivet. Machine countersink the holes in the vertical stabilizer tip fairing for the dimples in the vertical stabilizer skin.
+
+   Step 5: Cleco and rivet the VS-1009 Vertical Stabilizer Tip Fairing onto the vertical stabilizer assembly per the callouts in Figure 1.
+
+
+
+
+                                      VS-1009
+
+
+
+
+                                   CS4-4,
+                                8 PLACES
+
+
+
+
+              VERTICAL STABILIZER
+                        ASSEMBLY                                                                 VERTICAL EDGE                                                F-1073-L
+                                                                                                                                                                                             REMOVE HATCHED AREA
+                                                                                                                                                                                                                               REMOVE
+                                                                                                                                                                                                                              HATCHED
+                                                                                                                                                                                                                                 AREA              MATCH-DRILL
+
+                                                                                                                                                                           FIGURE 3: FITTING THE GAP SEAL AND GAP FAIRING
+                               VS-1001
+
+
+                                                                                                                                              Step 10: Install the F-1094C-L Gap Seal onto the F-1094A Empennage Gap Cover. Trial fit this subassembly onto the tailcone
+                                                                                                                                              assembly and trim away the lower inboard flange of the gap seal to clear the F-1032-L Tailcone Longeron Left, see Figure 4.
+
+                    FIGURE 1: VERTICAL STABILIZER
+                       TIP FAIRING INSTALLATION
+
+  NOTE: Steps 6-10 are for the left side only. The right side installation is a mirror of the left. Repeat steps 6-10 for the right
+  side of the aircraft.
+
+  NOTE: Gap Seal material is not provided in Empennage/Tailcone kit but will be provided in a subsequent kit.
+
+  Step 6: Cut and install a piece of Rubber Channel to create the F-1094C Gap Seal as shown in Figure 2. This will allow extra
+  material to account for material shrinkage over time and allow extra material so the ends can be trimmed to match the F-1094A
+  Empennage Gap Cover.
+                                                                                                                                                                                    F-1094C-L
+                                                                                18
+
+
+
+                                                                                                                                                                                              F-1073-L
+
+
+                                              FIGURE 2: CREATING THE GAP SEAL
+                                                                                                                                                                                                FIGURE 4: GAP SEAL TRIM
+PAGE   12-4     RV-10       REVISION: 1   DATE: 12/09/13
+                                                                                                                                                                                                     VAN'S AIRCRAFT, INC.
+                                                                                                                                       F-1075 K1000-06
+NOTE: The F-1094B Empennage Fairing is not provided in the Empennage/Tailcone kit but will be provided in a
+subsequent kit.                                                                                                                               2X AN426AD3-3.5
+                                                                                                                                              AN507C632R8
+NOTE: If required, refer to Section 5.18 MATCH-DRILLING OPAQUE FIBERGLASS PARTS.
+                                                                                                                                                                                                                              F-1094B
+NOTE: Use a slow turning drill when blind drilling to prevent the bit from wandering. Press fairing tightly against
+metal surface before drilling.
+                                                                                                                                                                                                                            VERTICAL
+                                                                                                                                                                                                                            STABILIZER
+Step 1: Place the F-1094B Empennage Fairing on the tailcone/empennage assembly. Once properly positioned, clamp
+                                                                                                                                                                                                                            ASSEMBLY
+the fairing at the trailing edge of the horizontal and vertical stabilizer assemblies. Three fasteners attach the empennage
+fairing to the F-1075 Tailcone Aft Top Skin. The holes for the screws and nutplate attach points have been left open and
+are visible through the empennage fairing.
+Use a light placed inside the empennage            A
+fairing/tailcone assembly to make the
+holes more visible. Blind-Drill #40 through
+the translucent empennage fairing into
+the screw holes in the tailcone aft top                                                                     E
+skin at all three locations.
+
+
+                                                                                                                                        3/8
+                                                                                                                                        MIN.                                                                              K1000-06
+                                                                                                                                                                                                                      29X 2X AN426AD3-4
+                                                                             B                                                                                                                                            AN507C632R8
+                                                     G                                                                                                 29/32
+                                                                                 C
+                                                                                                                                                               FIGURE 2: EMPENNAGE FAIRING INSTALLATION
+                                                                                             D                                                                                TOP VIEW
+                                                                                             F                                                                                                                   K1000-06
+                                                                                                                                                                                           F-1094B        2X AN426AD3-4.5 2X
+                                                                                                 H                      J                                                                                    AN507C632R8
+                                                         FIGURE 1: EMPENNAGE FAIRING TRIM
+Step 2: Trim the F-1094B Empennage Fairing, edge A as shown in Figure 1 to meet the
+scribe line in the part for this edge.
+                                                                                                                                                                                                                                             HORIZONTAL
+Step 3: Cleco the F-1094B Empennage Fairing onto the tailcone/empennage assembly, and reclamp the aft end                                                                                                                                    STABILIZER
+per Step 1. The remaining holes that attach the empennage fairing have been left open and can be drilled using the                                                                                                                           ASSEMBLY
+same method used in Step 1. Blind-Drill and cleco the remaining fastener locations #40. Work from the front towards
+the aft, alternating from the left to the right sides of the assembly.
+                                                                                                                                                                                                                                         SHORTEN
+Step 4: Mark the F-1094B Empennage Fairing for trimming. See Figure 1 for edge callouts. Mark edge B flush with the front edge of                                                                                                        SCREW AS
+the F-1094A Empennage Gap Cover. Edge C is indicated by a scribe line, check that this line will provide enough screw hole edge                                                                                                          REQ'D TO
+distance and remark the line if neccesary. Edge C is parallel to the inboard edge of the HS-1001 Horizontal Stabilizer Skin but different                                                                                                REMOVE
+widths at the forward and aft edges. Mark edge D flush with the aft top edge of the horizontal stabilizer skin. Edge E is indicated by a                                                                                                 INTERFERENCE
+scribe line, check that this line will provide enough edge distance and remark the line if neccesary. Edge E should parallel the aft lower                                                                                               WITH THE
+edge of the VS-1001 Vertical Stabilizer Skin and then curve upwards towards leading edge of the vertical stabilizer assembly. Mark edge                                                                                                  VERTICAL STAB
+F as shown in Figure 3 to provide a minimum 1/4 clearance between edge F and the WD-605-L/R Elevator Horns with the elevator                                                                                                             ASSEMBLY
+assembly rotated through its full range of motion. Mark edges G and H even and parallel with the lower edge of the F-1075 Tailcone Aft
+Top Skin and empennage gap cover. See Figure 3. Mark edge J even with the aft edge of the F-1073 Side Skins and vertical stabilizer skin.                                                                                                6X AN507C632R8
+
+WARNING! Do not enlarge any holes in the F-1032-L and -R Tailcone Longerons to #27 until Page 12-6.
+                                                                                                                                                                    F-1094A                                                              F-824B
+Step 5: Machine countersink the four holes (two per side) along edge G (see Figure 1) on each side of the aircraft, for the head of a #6 flush head screw.
+                                                                                                                                                                         F-1094C
+Working from the aft towards the front final-drill #27 and carefully machine countersink all holes in the empennage fairing along edges C and E, the aft
+most hole along edge H on the right and left sides of the aircraft and the three most forward fastener locations, for the head of a #6 flush head screw.                     K1000-06
+Remove F-1094B Empennage Fairing. Trim away excess material.                                                                                                          2X AN426AD3-3.5 2X
+                                                                                                                                                                                                                                              F-1073-L
+                                                                                                                                                                         AN507C632R8
+Step 6: The locations just drilled #27 require nutplates. Use a K1000-06 nutplate (aligned with a #6 screw) as a drill guide and match-drill the platenut
+attach pattern into the F-1094A Empennage Gap Cover, horizontal and vertical assemblies (note the nutplate pattern has already been pre-punched and
+dimpled in the F-1075 Tailcone Aft Top Skin). Orient the platenut attach patterns as shown in Figure 2 and Figure 3. Machine countersink the rivet holes
+that attach the aft most nutplate to the vertical stabilizer assembly. Dimple the remaining locations on the HS-1001 Horizontal Stabilizer Skin, VS-1001
+Vertical Stabilizer Skin and F-1073 Side Skin for the head of the nutplate attach rivets. Dimple then rivet the nutplates to the tailcone, horizontal and
+                                                                                                                                                                     FIGURE 3: EMPENNAGE FAIRING
+vertical assemblies as shown in Figure 2 and Figure 3.
+                                                                                                                                                                        INSTALLATION SIDE VIEW
+                                                                                                                                                                                                        DATE: 12/02/16 REVISION: 2   RV-10    PAGE   12-5
+                        VAN'S AIRCRAFT, INC.
+
+
+
+  NOTE: Steps 1-6 are for the left side only. The right side installation is a mirror of the left. Repeat steps 1-6 for the right side of the aircraft.
+
+   Step 1: Remove the horizontal and vertical stabilizer assemblies.
+
+   Step 2: Final-Drill #36 all the F-1094A Empennage Gap Cover attach holes to the F-1073-L Tailcone Side Skin Left and F-1032-L Tailcone Longeron Left.
+   See Figure 1. Final-Drill #36 the lower two aft empennage gap cover holes to the F-824B Cover Plate and tailcone longeron left. Final-Drill #36
+   the four holes (two per side) along edge G on Page 12-5, Figure 1 on each side of the aircraft.
+
+   Step 3: Remove the F-824B Cover Plate and F-1094A Empennage Gap Cover.
+                                                                                                                                                                                                         A
+   Step 4: Deburr the holes in the tailcone assembly that were drilled #36 in Step 2.
+
+  Step 5: Final-Drill #27 and deburr all but the aft most upper hole in the F-1094A Empennage Gap Cover (this hole was already final-drilled #27, see Page 12-5, Step 5).
+  Final-Drill #27 the upper two attach holes in the F-824B Cover Plate. Dimple the forward upper hole in the cover plate and all but the two aft most holes in the empennage
+  gap cover for a #6 flush head screw.                                                                                                                                                                   A
+   Step 6: Machine countersink the F-1073-L Tailcone Side Skin Left and F-1032-L Tailcone Longeron Left to accept the dimples in the F-1094A Empennage Gap
+   Cover and F-824B Cover Plate, except the aft most hole which does not need not be dimpled since the empennage fairing is machine countersunk for
+   the screw head already in this location, see Page 12-5, Figure 3 . See Figure 2, Section A-A.
+
+   Step 7: Tap the holes that were drilled #36 in Step 2 for a 6-32 screw.
+
+
+
+
+                                                                                                                                                                                                    F-1032-L
+
+
+
+
+                                                                                                      F-1032-L
+                                                                                                                                                                                         F-1073-L
+
+
+
+
+                                                                                                         F-824B
+
+
+                                                                                                       AN507C632R8,
+                                                                                                       4 PLACES
+
+
+
+                                                                                                                                                                               SECTION A-A
+                                                                                             AN507C632R8,
+                                                                                             5 PLACES
+                                   F-1094C-L
+                                                                                   F-1094A                                                                   FIGURE 2: EMPENNAGE GAP COVER AND COVER PLATE INSTALLATION
+                                        F-1073-L
+                                                                                                                                                                              SIDE VIEW AND SECTION CUTS
+
+        FIGURE 1: EMPENNAGE GAP COVER AND COVER PLATE INSTALLATION
+
+
+
+PAGE   12-6    RV-10      REVISION: 1   DATE: 12/09/13
+

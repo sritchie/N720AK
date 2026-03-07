@@ -1,0 +1,68 @@
+Step 1: Install the hardware shown in Figure 1 to the VA-168 Sender Mount. Install the
+                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+fuel and oil pressure transducers at this time as shown in Figure 1. The pressure senders
+are not included in the kit. If you plan on controlling the hobbs meter with oil pressure
+(the most common method), install a IE SPDT PRES-15 SW Oil Pressure Switch in place
+of the lower pipe plug fitting, see Figure 1. Pressure senders and the oil pressure switch
+are available through VAN'S AIRCRAFT ACCESSORY CATALOG .
+
+                                                                                                                                           MS21919WDG3
+
+
+                                                AN822-4D                                              AN960-10,
+                                                (NOTE CLOCKING)                                       2 PLACES
+                                                                                                                                                           VA-133
+                                                                                       AN3-4A,
+                                                           F 1/8 PIPE PLUG
+                                                                                     2 PLACES                                                                       MS21919DG7,
+                                                                                                                                                                    2 PLACES
+                                                                 VA-168
+                                                                                                                                                                        MS21919WDG3
+                                                                                                     AN3-3A
+
+                                                                                                        ENGINE CABLE
+                                                                                                       ROUTING HOLES
+
+                                                                                                                                                  VA-168
+                                                                     AN823-4D                                                                  AN3-5A,
+                                                                     (NOTE CLOCKING)                                                         2 PLACES
+                                           F 1/8 PIPE PLUG
+                                           OR
+                                                                                                      CT A-740 BLACK,
+                                           IE SPDT PRES-15 SW
+                                                                                                            2 PLACES
+
+           FIGURE 1: PREPARING THE SENDER MOUNT
+                                                                                                              SAFETY WIRE
+
+
+
+Step 2: Bolt the VA-168 Sender Mount to the Firewall Bulkhead Assembly. See Figure 2.                                                                                                       AN960-10L,
+                                                                                                                                                                                            2 PLACES
+Step 3: Connect the VA-133 Oil Pressure Hose to the AN822-4D elbow on VA-168
+Sender Mount upper right port. Attach the oil pressure hose to the Firewall Bulkhead
+Assembly with cushioned clamps in two places. See Figure 2.
+                                                                                                         VENT TG-10-R
+Step 4: Connect the CT A-740 BLACK Push Pull Cables to the TG-10-L and -R Heat
+Selector boxes. Clamp the cables to the Firewall Bulkhead Assembly with cushioned                                           VENT TG-10-L
+clamps. Route the cables to the instrument panel or other locations in the fuselage as
+desired. Safety wire the push pull cables to the cushioned clamps on top of the heat
+selector boxes. Fill the penetration hole for the push pull cables in the firewall bulkhead
+assembly with RTV. See Figure 2 and Figure 3.
+
+
+
+
+                                                                           CT A-740 BLACK,
+                                                                           2 PLACES
+                                                                                                     FIREWALL
+                                                                             ROUTE AS               BULKHEAD
+                                                                             DESIRED                ASSEMBLY
+
+
+                                                              AN3-3A
+                                                       MS21919WDG3                                FIGURE 2: INSTALLING COMPONENTS
+        FIGURE 3: CLAMPING THE CABIN HEAT CABLES                                                 TO THE FIREWALL BULKHEAD ASSEMBLY
+             TO THE AFT SIDE OF THE FIREWALL
+                                                                                                                                                                                         DATE: 04/02/10 REVISION: 1   RV-10   PAGE   FF1-3
+

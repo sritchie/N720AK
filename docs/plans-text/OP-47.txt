@@ -1,0 +1,51 @@
+      O P-47:
+   AHRS BRACKET                                                                                                    NOTE: The VA-259 AHRS Bracket should be perpendicular to both of the bulkheads and the bellcrank rib.
+
+Step 1: Cleco VA-259A AHRS Bracket and VA-259B AHRS BRACKET RIB together as shown in Figure 2. Final drill #40     Step 4: Drill out the 6th fastener location outboard from the F-729A Bellcrank Rib (counting the fastener in line with the row
+10 places. Remove Clecos and deburr and dimple holes. Deburr and dimple the nutplate rivet holes that match your   of fasteners on the bellcrank rib) attaching the F-707 Fuselage Bulkhead and F-778 Aft Bottom Skin. This is where the
+AHRS unit. See Figure 1. Dimple the rivet holes in the nutplates.                                                  VA-259 AHRS Bracket bottom flange will attach.
+
+Prime and finish parts if/as desired.                                                                              Step 5: From the outside of the aircraft drill out the 7th fastener location outboard from the F-729A Bellcrank Rib (counting
+                                                                                                                   the fastener for the bellcrank rib) between the F-776 or F-976 Center Bottom Skin and F-778 Aft Bottom Skin.
+Step 2: Rivet the nutplates to the VA-259A AHRS Bracket in the appropriate locations as indicated in Figure 1.
+                                                                                                                   Step 6: Machine countersink the aft most hole in the VA-259 AHRS Bracket bottom flange.
+
+                                                                        VA-259A                                    Step 7: Cleco the VA-259 AHRS Bracket to the open fastener location in the F-707 Fuselage Bulkhead and F-778 Aft Bottom
+                                                                                                                   Skin. Check that the AHRS bracket fore and aft is parallel to the F-729A Bellcrank Rib. Match drill #40 then Geco the bottom
+     GRTAHRS                                                                                                       flange of the AHRS bracket to the aft bottom skin. From the outside of the aircraft match drill the forward-most fastener
+                                                                                                                   location in the boftom flange of the AHRS bracket.
+
+                                                                                                                   Step 8: Check that the VA-259 AHRS Bracket is parallel vertically to the F-729A Bellcrank Rib. Match drill #30 then cleco the
+                                   a       °17                                                                     forward flange of the AHRS bracket to the F-706B Fuselage Bulkhead.
+
+                                                                                                                   Step 9: Check that the VA-259 AHRS Bracket shelf is perpendicular to the F-729A Bellcrank Rib. Match drill #40 and cleco
+      2X/NUTPLATE I I ^
+                                                                                                                   the AHRS bracket to the bellcrank rib and F-707 Fuselage Bulkhead.
+      AN426AD3-3.5
+                                                                  5X K1000-3 FOR                                   Step 10: Remove all clecos and the VA-259 AHRS Bracket. Deburr and dimple hole locations.
+       4X K1000-06                                                GARMIN GRS77 AHRS
+    FOR GRT AHRS                                                                                                   Step 11: Replace VA-259A AHRS Bracket, Cleco then rivet as shown in Figure 3.
+                            FIGURE 1: NUTPLATE LOCATIONS
+
+
+Step 3: Rivet the VA-259A AHRS Bracket and VA-259B AHRS BRACKET RIB together as shown in Figure 2.
+
+                                                                                                                                                                                                                         X
+                                                                                                                                                                                                                         M426AD3-3.5
+
+
+
+
+                                                                                                                                                                                                                         C
+                                                                                                                                                                                                                         426AD3-3.5
+                                                                                                       9A
+
+
+                                                                                                                                                                                                                          VA-259
+                                                                                                                              F-7061
+
+
+
+
+             FIGURE 2: ASSEMBLING THE VA-259 AHRS BRACKET                                                                                    FIGURE 3: VA-259 AS INSTALLED
+

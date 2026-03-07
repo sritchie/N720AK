@@ -1,0 +1,339 @@
+                                                                     VAN'S AIRCRAFT, INC.
+
+
+
+
+OP-55: WING TIP NAV STROBE LIGHTING
+
+
+
+
+                                                 WH-00011 WING TIP
+                                                 LIGHTING HARNESS
+
+
+
+
+                                                                                 W-1015-L WING TIP
+
+
+
+
+                    LN-201-1 WING TIP NAV LIGHT (RED)                   NOTE: Special tools required to complete this
+                                                                        section include a 5/64 Hex Wrench
+                    VA-193 WING TIP LIGHT LENS
+                                                                        DATE OF COMPLETION:
+                                                                        PARTICIPANTS:
+
+                                                                        DATE: 03/15/16 REVISION: 1   RV-ALL   PAGE OP55-01
+                       VAN'S AIRCRAFT, INC.
+                                                               NOTE: See Section 5.18 for more tips on working with the fiberglass
+                            fairings. Fiberglass will quickly dull tools. Locate and use the tools set aside for use in attaching the        AN365-632A
+                            empennage fairings when working with the fiberglass wing tips.                                              3X
+                                                                                                                                             NAS1149F0332P
+
+  Except where separate instructions and/or figures exist for both left and right sides of the aircraft, only the left side parts,
+  assemblies, or installations will be shown.
+
+  It is the builder's choice as to whether to complete all steps for the left side before repeating those steps for the right
+  side or to complete each step for both left and right sides before moving to the next step.
+
+  RV-14 Installation shown. Refer to the AeroLEDs installation instructions for more information.
+                                                                                                                                                                  TEMPLATE
+  Where required, aircraft specific templates are included on pages OP55-05 thru OP55-07. Due to variations in the wing tip,
+  the template shape may not exactly match the shape of the wing tip. Use the best approximate location and ensure the
+  wing tip nav light is parallel to the wing chord line.
+                                                                                                                                                                3X DRILL #27
+  Step 1: Remove the W-1015-L Wing Tip From the Wing.
+                                                                                                                                                          2X DRILL # 27                               MOUNTING
+  Remove the VA-193 Wing Tip Light Lens from the wing tip.                                                                                      STEP-DRILL 1/2 [12.7 mm]                              BRACKET
+                                                                                                                                                                                                             3X AN507-632R6
+  Cut out the Left Wing Tip Drilling Template on Page OP55-05. Tape the template to the wing tip as shown in Figure 1.
+
+  Use a center-punch to mark the holes on the wing tip.
+
+  Step 2: Drill #27 the three screw holes in the W-1015-L Wing Tip
+
+  Drill #27 the wire chase holes in the wing tip.                                                                                        W-1015-L
+
+  Use a step drill to enlarge to 1/2 [12.7 mm] the wire chase holes in the wing tip.                                                                                                                                  8-32 HEX
+  Trim the excess material to form a slot as shown in Figure 1.                                                                                                                                                   HEAD SCREW
+                                                                                                                                                                       WING TIP NAV LIGHT
+  Remove the Left Wing Tip Drilling Template from the wing.                                                                                                              WIRING HARNESS
+                                                                                                                                                                                                                  LN-201-1 (RED)
+  Step 3: Cover the lens of the LN-201-1 Wing Tip Nav Light with masking tape to protect it.
+
+
+                                                                                                                                                                           FIGURE 1: WING TIP NAV LIGHT INSTALLATION
+
+
+
+
+PAGE OP55-02    RV-ALL    REVISION: 1   DATE: 03/15/16
+                                                                                                                                                                                                              VAN'S AIRCRAFT, INC.
+NOTE: See Section 5.21 for more information on wire stripping and closed barrel terminals.
+
+Step 1: Strip the BLK, YEL, GRN & RED wires in the LN-201-1 Wing Tip Nav Light (RED) and crimp on the Molex Pins provided
+with the light as shown in Figure 1.
+                                                                                       LN-201-1 (RED)
+Step 2: Label the Molex Plug "C401P". See Figure 1.                                                                                MOLEX PLUG PROVIDED
+                                                                                                                                   WITH LIGHT. LABEL THIS
+Step 3: Insert the BLK, YEL, GRN & RED wires in                                                                                                   "C401P"
+the Wing Tip Nav Light Wiring Harness into C401P
+as shown in Figure 1.                                                                                                              4X MOLEX PINS
+                                                                                                                             PROVIDED WITH LIGHT
+NOTE: The Wing Tip Nav Lights and Landing Light                                                                                                                                                                                                           C401J
+are grounded to the fuselage via the L418 (YEL) wire
+in the WH-00011 Wing Tip Wiring Harness and the
+WH-00125 RV-14 Common Fuselage Wiring Harness                                                                                                                                                                                                             C401P
+                                                                                                                                             BLK                         1
+(installed later). This grounding location was chosen                                                                                        YEL                         2
+to minimize electromagnetic interference with wing                                                                                           GRN                         3
+mounted ADAHRS and Magnetometers. See Figure 4.                                                                                              RED                         4
+                                                                                                                                                                         5
+Step 4: (If landing lights will be installed) Order two "LL LED KIT A" from Van's Aircraft and connect the
+L422 (BLK) wire from C401J as described in Section OP-52A.                                                     FIGURE 1: WING TIP NAV LIGHT WIRES
+                                                                                                                                                                                                                                       LN-201-1 (RED)
+Step 5: (if Landing Lights will NOT be installed) Strip the L422 (BLK) wire coming from C401J, and the L418 (YEL) wire from the
+WH-00011 Wing Tip Lighting Harness. Connect these two wires together using the butt splice called out in Figure 3.
+                                                                                                                                                                                                FIGURE 2: CONNECT C401P & C401J
+Step 6: Install the LN-201-1 Wing Tip Nav Light as shown on Page OP55-02, Figure 1.
+
+Step 7: Connect C401P and C401J as shown in Figure 2.
+
+Step 8: Reinstall the W-1015-L Wing Tip and VA-193 Wing Tip Light Lens.                                                                                                                                      WH-00011
+
+WARNING: Do not test the wing tip nav lights without to temporarily grounding the appropriate ground wires!
+                                                                                                                                                                             C401P                  C401J
+
+                                                                                                                                                                                                                ES 320559
+
+
+
+
+                                                                                                                                                   FROM LN-201-1
+
+
+
+
+                                                                                                                                                                                                                                                                         TO C400P
+                                                                                                                                                                   BLK                1     1         L422      BLK                                L418     YEL
+                                                                                                                                                                   YEL                2     2         L424      YEL
+                                                                                                                                                                   GRN                3     3         L423      GRN
+                                                                                                                                                                   RED                4     4         L425      RED
+                                                                                                                                                                                      5     5
+
+
+
+
+                                                                                                                                                                         FIGURE 3: WING TIP LIGHTING HARNESS MODIFICATION
+                                                                                                                                                                                     (IF LANDING LIGHTS WILL NOT BE INSTALLED)
+
+
+
+
+                    FUSELAGE GROUND LOCATION
+
+
+                                             FIGURE 4: GROUND LOCATION
+
+
+                                                                                                                                                                                                                      DATE: 03/15/16 REVISION: 1     RV-ALL       PAGE OP55-03
+                      VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                             C400J
+                                                                                        1
+                                                                                        2                                     ES 421-0108
+                                                                                                              ES-00006          (FEMALE)
+  NOTE: The following instructions apply ONLY
+                                                                                        3
+  to builders installing a Dynon Skyview EFIS.
+                                                                                        4                             L940
+
+
+
+
+                                                                             WH-00125
+  NOTE: Instructions on this page assume the builder
+  has completed installation of the WH-00125 RV-14                                      5
+  Common Fuselage Harness.                                                              6                      REMOVE SOCKET & INSTALL                                                                                      GROUND WIRES
+                                                                                                               ES 421-0107 (MALE)
+  NOTE: The ES-00184 Noise Filter is located in the left                                7
+
+
+
+
+                                                                                                                                                   FUSELAGE
+  wing root as shown in Figure 3. The ground location                                   8                                    WHT   L2191
+  depicted shows a prototype RV-14. See Page OP55-03,                                                                                                                                                  L940 (FROM C400J)
+  Figure 4 for the final production version ground location.                            9                                    WHT   L2192
+
+
+  Step 1: Remove the Molex socket common to the L2191 (WHT)
+  and L2192 (WHT) wires from C400J, then cut off the socket and
+  discard it.
+                                                                                            FIGURE 1: RV-14 COMMON
+                                                                                        FUSELAGE HARNESS MODIFICATION
+  Step 2: Strip the ends of the L2191 (WHT) and L2192 (WHT) wires,           LEFT WING ROOT, ONLY PERTINENT WIRES SHOWN.
+  then crimp the wires together using the male spade connector called out                  AFS/DYNON ONLY
+  in Figure 1.
+                                                                                                                                                                                                                                      L2191 & L2192 (WHT)
+  Step 3: Fabricate the L940 wire from an 8 in. (20.32 cm) length of 18 gauge wire and the components called out in Figure 1.                                                                                                         (FROM FUSELAGE)
+
+  Step 4: Insert the Molex socket from the L940 wire into C400J as shown in Figure 1.
+                                                                                                                                                                                    TIE WRAP
+  Step 5: Connect the spade connectors to the ES-00184 Noise
+                                                                                                                                                                                        ES-00184
+  Filter as shown in Figure 2.
+
+  Step 6: Use tie-wraps to secure the ES-00184 Noise Filter                                                                                                                                        FIGURE 3: SECURING THE NOISE FILTER
+                                                                             C400J
+
+
+
+
+  approximately as shown in Figure 3.                                                   1
+
+
+
+
+                                                                                                                                                              FUSELAGE
+                                                                                                                                                                                                                 AFS/DYNON ONLY
+                                                                                                                                           L2192   WHT
+                                                                                        2
+                                                                                                                                           L2191   WHT
+                                                                                        3
+                                                                                        4
+                                                                             WH-00125
+
+
+
+
+                                                                                        5                                                                          THIS FILTER IS
+                                                                                        6                                                                          NOT REQUIRED
+                                                                                                                                                                   FOR GARMIN
+                                                                                        7
+                                                                                        8         L940   18     8   WHT
+
+
+                                                                                        9
+
+
+
+                                                                                                                                                                         ES-00184
+
+                                                                                            FIGURE 2: NOISE FILTER INSTALLATION
+                                                                                                               AFS/DYNON ONLY
+
+
+
+
+PAGE OP55-04   RV-ALL    REVISION: 1   DATE: 03/15/16
+                                                                                 VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                         WIRE CHASE
+                WIRE CHASE                            2X PILOT DRILL #30
+             2X PILOT DRILL #30
+                                                           2X Ø1/2
+                  2X Ø1/2                                 [Ø12.7 mm]
+                 [Ø12.7 mm]
+                                                   REMOVE HATCHED AREA
+           REMOVE HATCHED AREA
+
+
+
+
+                                              3X SCREW HOLES
+                      3X SCREW HOLES                #27
+                            #27
+
+
+
+
+FIGURE 1: RV-7/8 LEFT WING TIP DRILLING   FIGURE 2: RV-7/8 RIGHT WING TIP DRILLING
+               TEMPLATE                                  TEMPLATE
+
+
+
+
+                                                                                     DATE: 03/15/16 REVISION: 1   RV-ALL   PAGE OP55-05
+                    VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                                                     WIRE CHASE
+                                                                      WIRE CHASE                  2X PILOT DRILL #30
+                                                                   2X PILOT DRILL #30
+                                                                                                       2X Ø1/2
+                                                                        2X Ø1/2                       [Ø12.7 mm]
+                                                                       [Ø12.7 mm]
+                                                                                                REMOVE HATCHED AREA
+                                                                 REMOVE HATCHED AREA
+
+
+
+
+                                                                           3X SCREW HOLES   3X SCREW HOLES
+                                                                                 #27              #27
+
+
+
+
+                                                FIGURE 1: RV-9 LEFT WING TIP DRILLING        FIGURE 2: RV-9 RIGHT WING TIP DRILLING
+                                                              TEMPLATE                                     TEMPLATE
+
+
+
+
+PAGE OP55-06   RV-ALL   REVISION: 1   DATE: 03/15/16
+                                                                                   VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                                WIRE CHASE
+           WIRE CHASE                                        2X PILOT DRILL #30
+        2X PILOT DRILL #30
+                                                                  2X Ø1/2
+             2X Ø1/2
+                                                                 [Ø12.7 mm]
+            [Ø12.7 mm]
+                                                           REMOVE HATCHED AREA
+      REMOVE HATCHED AREA
+
+
+
+
+                                                           3X SCREW HOLES
+              3X SCREW HOLES                                     #27
+                    #27
+
+
+
+
+FIGURE 1: RV-10/14 LEFT WING TIP DRILLING   FIGURE 2: RV-10/14 RIGHT WING TIP DRILLING
+                TEMPLATE                                    TEMPLATE
+
+
+
+
+                                                                                         DATE: 03/15/16 REVISION: 1   RV-ALL   PAGE OP55-07
+                    VAN'S AIRCRAFT, INC.
+
+
+
+
+                                                       THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PAGE OP55-08   RV-ALL   REVISION: 1   DATE: 03/15/16
+

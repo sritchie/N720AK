@@ -1,0 +1,119 @@
+=== PAGE FF4-1 ===
+SECTION FF4: FUEL SYSTEM
+VAN'S AIRCRAFT, INC.
+DATE: 12/8/06 | REVISION: 1 | RV-10 | PAGE FF4-1
+
+[Title page with isometric view of firewall forward fuel system]
+
+Callouts:
+- VA-168, SENDER MOUNT
+- ENGINE DRIVEN FUEL PUMP
+- VA-102, FUEL PRESSURE HOSE
+- THROTTLE BODY
+- VA-138, FUEL SUPPLY HOSE
+- VA-189, FUEL LINE IO-540
+- FAB-360, FILTERED AIR BOX
+- FAB BOX DRAIN TUBE
+- FUEL OVERFLOW TUBE
+- F-10108A, SUPPORT BRACKET
+
+
+=== PAGE FF4-2 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF4-2 | RV-10 | REVISION: 1 | DATE: 12/8/06
+
+NOTE: Installation of the Fab Box Drain Tube is optional. If not using the fab box drain tube a drain hole must still be created, see Step 5. The fab box drain tube will prevent fuel from dripping onto the nose gear leg fairing. The alternate air door (see Figure 2) should be installed before installation of the fab box drain tube.
+
+Step 1: Fabricate the Fab Box Drain Tube by cutting a piece of PT-035X1/4 plastic tubing 20 1/2" long.
+
+Step 2: Insert a AN470AD6-7 rivet into one end of the Fab Box Drain Tube. Using a scotchbright wheel, make the Plug by removing the outer edge of the rivet head until the outer diameter of the rivet head matches the outer diameter of the fab box drain tube. Use coarse sandpaper to roughen the outer surface of the last two inches of the fab box drain tube. See Figure 1.
+
+Step 3: Roughen the lower surface of the FAB-360 Filtered Air Box just aft of the alternate air door opening where the fiberglass used to hold on the Fab Box Drain Tube will attach. See Figure 2.
+
+Step 4: Center the Fab Box Drain Tube and Plug on the bottom side of the FAB-360 Filtered Air Box as shown in and per the dimension given in Figure 2. Cover the fab box drain tube in four layers of 9 oz. fiberglass and epoxy resin. Allow the resin to cure.
+
+Step 5: Drill a #19 hole in front of the Air Filter, centered on the Fab Box Drain Tube. See Figure 2 and Figure 3. Deburr the top edge of this hole. Blow out any debris in the fab box drain tube.
+
+Step 6: Cut a piece of PT-062X1/4 plastic tubing 24" long to create the Fuel Overflow Tube.
+
+Step 7: Connect the Fuel Overflow Tube to the F 69-F-04X02 Brass Elbow (already installed, see Section FF1, Page 4) as shown in Figure 4.
+
+Step 8: Use cushioned clamps and the hardware shown in Figure 5 to attach the exit end of the Fuel Overflow Tube and Fab Box Drain Tube to the F-10108A Support Bracket.
+
+FIGURE 1: PREPARING THE FAB BOX DRAIN TUBE
+Callouts:
+- PLUG
+- ROUGHEN SURFACE
+- FAB BOX DRAIN TUBE
+
+FIGURE 2: GLASSING ON THE FAB BOX DRAIN TUBE
+Callouts:
+- FAB-360
+- AIR FILTER
+- DRILL #19
+- PLUG
+- FIBERGLASS
+- 1 5/8 MIN.
+- FAB BOX DRAIN TUBE
+- FAB-360
+- ALTERNATE AIR DOOR
+- FIBERGLASS
+
+SECTION A-A (VIEW ROTATED 180°)
+
+FIGURE 3: DRILLING THE DRAIN HOLE
+Callouts:
+- FAB-360
+- AIR FILTER
+- DRAIN HOLE
+
+FIGURE 4: INSTALLING THE FUEL OVERFLOW TUBE
+Callouts:
+- ENGINE DRIVEN FUEL PUMP
+- F 69-F-04X02
+- F 63-PT3-25
+- SLEEVE (PART OF ELBOW ASSEMBLY)
+- NUT (PART OF ELBOW ASSEMBLY)
+- FUEL OVERFLOW TUBE (IF NECESSARY SOFTEN IN BOILING WATER TO EASE ASSEMBLY)
+
+FIGURE 5: SUSPENDING THE TUBES
+Callouts:
+- MS21919DG4, 2 PLACES
+- FUEL OVERFLOW TUBE
+- AN525-10R7
+- F-10108A
+- FAB BOX DRAIN TUBE
+- MS21042-3
+
+
+=== PAGE FF4-3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 12/8/06 | REVISION: 1 | RV-10 | PAGE FF4-3
+
+Step 1: Connect the VA-189 Fuel Line IO-540 to the throttle body and the KB-090-T Tee fitting.
+
+Step 2: Attach the VA-102 Fuel Pressure Hose to the VA-128 Restrictor Fitting and the AN823-4D 45° elbow fitting on the bottom side of the VA-168 Sender Mount. See Figure 1.
+
+Step 3: Attach the VA-138 Fuel Supply Hose to the KB-000 straight fitting on the engine driven fuel pump and the AN837-6D 45° elbow bulkhead fitting on the firewall bulkhead. See Figure 1.
+
+FIGURE 1: INSTALLING THE FUEL LINES
+Callouts:
+- VA-168
+- AN823-4D
+- VA-102
+- ENGINE DRIVEN FUEL PUMP
+- KB-000
+- SEE SECTION 37 FUEL SYSTEM (AFT OF THE FIREWALL)
+- AN837-6D
+- VA-138
+- VA-128
+- KB-090-T
+- VA-189
+- THROTTLE BODY
+
+
+=== PAGE FF4-4 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF4-4 | RV-10 | REVISION: 0 | DATE: 02/24/05
+
+This Page Intentionally Left Blank
