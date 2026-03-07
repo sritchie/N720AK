@@ -1,774 +1,484 @@
-                                                                                                                      VAN'S AIRCRAFT, INC.
+=== PAGE 8-1 ===
+VAN'S AIRCRAFT, INC.
 
+SECTION 8: HORIZONTAL STABILIZER
 
+[Isometric exploded view of horizontal stabilizer assembly with the following part callouts:]
 
+HS-1001 SKIN
+HS-1015 SHORT STRINGER 2 PLACES
+HS-1014 LONG STRINGER 2 PLACES
+HS-1013 FRONT SPAR CAP 2 PLACES
+HS-1002 FRONT SPAR
+HS-905 NOSE RIB 4 PLACES / SIDE
+HS-1004 INSPAR RIB 4 PLACES / SIDE
+HS-1003 REAR SPAR
+HS-912 HINGE BRACKET 4 PLACES / SIDE
+HS-904 INSPAR RIB 3 PLACES / SIDE
+HS-911 INBOARD HINGE BRACKET
+HS-1016 STRINGER WEB
 
-SECTION 8:                                                                                                  HS-1001
-                                                                                                              SKIN
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 8-1
 
 
+=== PAGE 8-2 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Deburr the edges (including lightening holes) of all aluminum parts shown in Figure 1.
 
-HORIZONTAL STABILIZER
+Step 2: Cleco the HS-906 Rear Spar Doubler to the HS-1003 Rear Spar as shown in the right blowup of Figure 1.
 
-                                                                                      HS-1015
-                                                                             SHORT STRINGER
-                                                                                    2 PLACES
-                                                                        HS-1014
-                                                                LONG STRINGER                                                        HS-911
-                                                                      2 PLACES                                                       INBOARD HINGE
-                                                                                                                                     BRACKET
-                                                      HS-1013
-                                                                                                                                 HS-1016
-                                              FRONT SPAR CAP
-                                                                                                                                 STRINGER WEB
-                                                    2 PLACES
+There are four holes in the spar web not present in the doubler. Match-Drill these holes (shown in the blowup) into the doubler with a #30 drill. Be sure to drill perpendicular to the web. Except for the holes indicated in the blowup, final-drill all other 1/8" holes common to the doubler and spar using a #30 drill.
 
+Machine countersink the two indicated holes for 1/8" flush rivets. Final-Drill the four 3/16" holes (two above and two below the holes just countersunk) with a #12 drill. Drill from the spar into the doubler.
 
-                                    HS-1002
-                                FRONT SPAR
+Step 3: Final-Drill the 3/16" hole in each of the eight HS-912 Hinge Brackets using a #12 drill.
 
-                      HS-905
-                    NOSE RIB                                                   HS-1004
-              4 PLACES / SIDE                                               INSPAR RIB
-                                                                        4 PLACES / SIDE
+Cleco the hinge brackets to the HS-1003 Rear Spar as shown in the figure. Final-Drill the holes of the brackets and spar with a #30 drill.
 
+Step 4: Remove all the parts from the spar (marking them as they are removed), deburr the holes, then prime the aluminum parts if desired. Scuff the powder coating on the hinge brackets if you plan on painting them when the completed airplane is painted.
 
+Step 5: Rivet the HS-906 Rear Spar Doubler to the spar using the rivets called out in the right blowup. Make sure not to put any rivets in the holes indicated (tape over the holes as a reminder).
 
+Step 6: Rivet the HS-912 Hinge Brackets to the spar using the rivets shown in the left blowup. Place the manufactured head of the rivets on the bracket.
 
-                                                                                                HS-1003
-                                                                                                REAR SPAR
+[Figure 1 shows rear spar assembly with callouts and two detail blowups:]
 
+Right blowup:
+HS-1003
+HS-906
+AN470AD4-6 34 PLACES
+DO NOT DRILL OR RIVET THESE HOLES IN DOUBLER OR SPAR
+DO NOT RIVET
+DO NOT DRILL OR RIVET THESE HOLES IN DOUBLER OR SPAR
+MACHINE CSK THESE HOLES THIS SIDE. RIVET WITH AN426AD4-6
+HS-1003
+MATCH-DRILL #30 FROM SPAR INTO DOUBLER 4 PLACES
 
+Left blowup:
+HS-912 8 PLACES
+AN470AD4-5 4 PLACES / BRACKET
+FINAL-DRILL #12
+HS-1003
 
+FIGURE 1: REAR SPAR ASSEMBLY
 
-                                                           HS-912
-                                                           HINGE BRACKET
-                                                           4 PLACES / SIDE
-        HS-904
-    INSPAR RIB
-3 PLACES / SIDE
+PAGE 8-2  RV-10  REVISION: 0  DATE: 12/09/13
 
-                                                                                                                         DATE: 12/09/13 REVISION: 0   RV-10   PAGE   8-1
-                       VAN'S AIRCRAFT, INC.
-                                                                                                                                                                         HS-1003
-                               Step 1: Deburr the edges (including lightening holes) of all aluminum parts shown in Figure 1.
 
-   Step 2: Cleco the HS-906 Rear Spar Doubler to the HS-1003 Rear Spar as shown in the right blowup of Figure 1.
+=== PAGE 8-3 ===
+VAN'S AIRCRAFT, INC.
 
-  There are four holes in the spar web not present in the doubler. Match-Drill these holes (shown in the blowup)
-  into the doubler with a #30 drill. Be sure to drill perpendicular to the web. Except for the holes indicated in the
-  blowup, final-drill all other 1/8" holes common to the doubler and spar using a #30 drill.
+Step 1: Cleco the VA-146 Flange Bearing between the two HS-911 Inboard Hinge Brackets as shown in Figure 1. Final-Drill the six holes common to all the parts with a #30 drill and the two 3/16" holes in the flange of the hinge brackets with a #12 drill.
 
-  Machine countersink the two indicated holes for 1/8" flush rivets. Final-Drill the four 3/16"
-  holes (two above and two below the holes just countersunk) with a #12 drill. Drill
-  from the spar into the doubler.
+Disassemble, deburr, scuff the powder coating of the hinge brackets if desired, and reassemble.
 
-  Step 3: Final-Drill the 3/16" hole in each of the eight HS-912 Hinge Brackets                   HS-906
-  using a #12 drill.
+Rivet the assembly together with the rivets shown in the figure. Clamp the flanges of the two hinge brackets to something flat to make sure that they remain square to each other while riveting.
 
-  Cleco the hinge brackets to the HS-1003 Rear Spar as shown in the figure.
-  Final-Drill the holes of the brackets and spar with a #30 drill.
-                                                                                                                                                                                       AN470AD4-6
-                                                                                                                                                                                        34 PLACES
-  Step 4: Remove all the parts from the spar (marking them as they are
-  removed), deburr the holes, then prime the aluminum parts if desired.                                                                           DO NOT DRILL OR
-  Scuff the powder coating on the hinge brackets if you plan on                                                                                RIVET THESE HOLES           HS-906
-  painting them when the completed airplane is painted.                                                                                      IN DOUBLER OR SPAR
+[Figure 1 shows inboard hinge bracket assembly:]
+AN470AD4-6 6 PLACES
+HS-911 2 PLACES
+VA-146
 
-                                                                                                                                                   DO NOT RIVET
-  Step 5: Rivet the HS-906 Rear Spar Doubler to the
-  spar using the rivets called out in the right blowup.
-  Make sure not to put any rivets in the holes                                                                                            DO NOT DRILL OR
-  indicated (tape over the holes as a                                                                                                  RIVET THESE HOLES
-  reminder).                                                                                                                         IN DOUBLER OR SPAR
-                                                                                       HS-912
-                                                                                       8 PLACES
+FIGURE 1: INBOARD HINGE BRACKET ASSEMBLY RIVETS
 
+Step 2: Bolt the inboard hinge bracket assembly to the rear spar assembly using the hardware shown in Figure 2. Use the correct torque on the nuts per the chart in Section 5V.
 
+[Figure 2 shows inboard hinge bracket assembly attachment:]
+REAR SPAR ASSEMBLY
+AN3-5A 4 PLACES
+INBOARD HINGE BRACKET ASSEMBLY
+O3/16 2 PLACES
+AN365-1032 4 PLACES
+AN960-10 4 PLACES
 
+FIGURE 2: INBOARD HINGE BRACKET ASSEMBLY ATTACHMENT
 
-                                                            HS-1003                                                                                                                          MACHINE CSK
-  Step 6: Rivet the HS-912                                                                                                                                                                   THESE HOLES
-  Hinge Brackets to the spar                                                                                                                                                                 THIS SIDE.
-  using the rivets shown in                                                                                                                                                                  RIVET WITH AN426AD4-6
-  the left blowup. Place the
-  manufactured head of the
-  rivets on the bracket.
+Step 3: Using the dimensions in Figure 3, make the HS-1008-L Left Front Spar Attachment Bracket from the length of AA6-187x2x2-1/2 angle provided in the kit. Be very accurate in drilling the 1/8" hole which will be used to locate the bracket on the front spar assembly.
 
+[Figure 3 shows left front spar attachment bracket dimensions:]
+1 1/2
+27/32
+3/8
+O3/16 2 PLACES
+5/8
+R1/8 ALL CORNERS
+1 21/32
+3/4
+O1/8 THIS HOLE LOCATES PART ON FRONT SPAR ASSEMBLY
+2 1/16
+2 3/8
+1
 
-                                                                                                                                                                             HS-1003
+FIGURE 3: LEFT FRONT SPAR ATTACHMENT BRACKET
 
+Step 4: Repeat Step 3, but use the dimensions in Figure 4, to make the HS-1008-R Right Front Spar Attachment Bracket.
 
-                                                                                                                                                             MATCH-DRILL #30
-                                                                                                                                                             FROM SPAR INTO DOUBLER
-                                                                                                                                                             4 PLACES
+[Figure 4 shows right front spar attachment bracket dimensions:]
+1 1/2
+27/32
+3/8
+O3/16 2 PLACES
+5/8
+R1/8 ALL CORNERS
+1 21/32
+3/4
+O1/8 THIS HOLE LOCATES PART ON FRONT SPAR ASSEMBLY
+2 1/16
+2 3/8
+1
 
+FIGURE 4: RIGHT FRONT SPAR ATTACHMENT BRACKET
 
-                                                     AN470AD4-5
-                                                      4 PLACES /                                  FINAL-DRILL
-                                                       BRACKET                                    #12
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 8-3
 
-                                                                       HS-912
 
+=== PAGE 8-4 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                 FIGURE 1: REAR SPAR ASSEMBLY
-PAGE   8-2     RV-10      REVISION: 0   DATE: 12/09/13
-Step 1: Cleco the VA-146 Flange Bearing between the two HS-911 Inboard Hinge Brackets as shown in Figure 1. Final-Drill the six   Step 3: Using the dimensions in                            1 1/2              VAN'S AIRCRAFT, INC.
-holes common to all the parts with a #30 drill and the two 3/16" holes in the flange of the hinge brackets with a #12 drill .     Figure 3, make the HS-1008-L Left
-                                                                                                                                                                                             27/32
-                                                                                                                                  Front Spar Attachment Bracket from
-                                                                                                                                                                                      3/8
-Disassemble, deburr, scuff the powder coating of the hinge brackets if desired, and reassemble.                                   the length of AA6-187x2x2-1/2
-                                                                                                                                  angle provided in the kit. Be very
-Rivet the assembly together                                                                                                       accurate in drilling the 1/8" hole                                                 Ø3/16
-                                                                                                                                                                         5/8
-with the rivets shown in the                                               AN470AD4-6                                             which will be used to locate the                                                 2 PLACES
-figure. Clamp the flanges of                                               6 PLACES                                               bracket on the front spar assembly.
-the two hinge brackets to
-something flat to make sure
-that they remain square to                                                                                                                                            R1/8                   1 21/32
-each other while riveting.                                                            HS-911                                                                  ALL CORNERS
-                                                                                      2 PLACES
-                                                                                                                                                                             3/4
+Step 1: Trim material (shaded areas) from both ends of the two HS-1013 Front Spar Caps, the HS-1014 Long Stringer, and the HS-1015 Short Stringer as shown in Figure 1. The parts are shown unbent in the figure for clarity. Use the notches in the parts to determine the trim line and note in the figure that the trim line completely removes the notches.
 
-                                       VA-146
+Deburr and smooth all edges of the spar caps and stringers.
 
+[Figure 1 shows three parts, each shown unbent with shaded trim areas:]
+HS-1013 2 EACH
+HS-1014 2 EACH
+HS-1015 2 EACH
 
+FIGURE 1: SPAR CAP AND STRINGER TRIM
 
-                                                                                                                                                                                                                   Ø1/8
-                                                                                                                                                                                                                   THIS HOLE LOCATES
-                                FIGURE 1: INBOARD HINGE BRACKET                                                                                                                                                    PART ON FRONT SPAR
-                                                                                                                                                                                                                                                   2 3/8
-                                                                                                                                                                        2 1/16                                     ASSEMBLY
-                                        ASSEMBLY RIVETS
+PAGE 8-4  RV-10  REVISION: 0  DATE: 12/09/13
 
 
-Step 2: Bolt the inboard hinge bracket assembly to the rear spar assembly using the hardware shown in Figure 2. Use the correct
-torque on the nuts per the chart in Section 5V.
+=== PAGE 8-5 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                    FIGURE 3: LEFT FRONT SPAR ATTACHMENT                                 1
+Step 1: Deburr the edges (including the lightening holes) of the HS-1002 Front Spar.
 
-                                 REAR SPAR ASSEMBLY
-                                                                                                                                                                                    BRACKET
-                                                                                                                  AN3-5A
-                                                                                                                  4 PLACES
+Step 2: The HS-1013 Front Spar Caps are nested in the corners of the HS-1002 Front Spar with the trimmed flange of the spar cap resting against the spar web. On one of the spar caps, make a mark on the flange (the one that rests against the flange of the spar) a quarter of an inch from either end. Nest the spar cap in the spar, then, from the corresponding end of the spar, center the mark in the thirty-third flange hole. (Just for a check, make sure the other end of the spar cap covers the thirty-third hole in the other end of the spar flange.)
 
-                                                                                                                                  Step 4: Repeat Step 3, but use the                 1 1/2
-                                                                                                                                  dimensions in Figure 4, to make the
-                                                                                                                                  HS-1008-R Right Front Spar                        27/32
-                                                                                                                                  Attachment Bracket.
-                                                                                                                                                                                             3/8
-
-
-                                                                                                                                                                                                        5/8
-                                                                                                                                                                Ø3/16
-                                                                                                                                                            2 PLACES
-
-                                                                                                    INBOARD HINGE                                                                  1 21/32                      R1/8
-                                                                                                    BRACKET ASSEMBLY                                                                                            ALL CORNERS
-
-
-                                                                                                                                                                                                       3/4
-
-
-
-
-      AN365-1032
-       4 PLACES                                                                                                                                             Ø1/8
-                                                                                                                                              THIS HOLE LOCATES
-                                                                                                                                                                                                                                                 2 3/8
-                                                                                                                                             PART ON FRONT SPAR                                        2 1/16
-                                                 AN960-10
-                                                                                                                                                       ASSEMBLY
-                                                 4 PLACES
-
-
-
-
-                               FIGURE 2: INBOARD HINGE BRACKET                                                                                                                                                                           1
-                                    ASSEMBLY ATTACHMENT                                                                                                             FIGURE 4: RIGHT FRONT SPAR ATTACHMENT
-                                                                                                                                                                                    BRACKET    DATE:   REVISION:       12/09/13    0    RV-10   PAGE   8-3
-                       VAN'S AIRCRAFT, INC.
-
-
-
-   Step 1: Trim material (shaded areas) from both ends of the two HS-1013 Front Spar Caps, the HS-1014 Long Stringer, and the HS-1015 Short Stringer as shown in Figure 1. The parts are shown unbent in the figure for clarity. Use the notches in the parts to determine
-   the trim line and note in the figure that the trim line completely removes the notches.
-
-  Deburr and smooth all edges of the spar caps and stringers.
-
-
-
-
-                                                                                                     FIGURE 1: SPAR CAP AND STRINGER TRIM
-PAGE   8-4     RV-10     REVISION: 0   DATE: 12/09/13
-Step 1: Deburr the edges (including the lightening holes) of the HS-1002 Front Spar.
-                                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
-
-Step 2: The HS-1013 Front Spar Caps are nested in the corners of the HS-1002 Front Spar with the trimmed flange of the spar cap resting against the spar web. On one of the spar caps, make a mark on the
-flange (the one that rests against the flange of the spar) a quarter of an inch from either end. Nest the spar cap in the spar, then, from the corresponding end of the spar, center the mark in the thirty-third flange hole.
-(Just for a check, make sure the other end of the spar cap covers the thirty-third hole in the other end of the spar flange.)
-
-Clamp the spar cap in place, then match-drill the 1/8" holes of the spar web into the entire length of the spar cap with a #30 drill. The spar cap is somewhat bowed as supplied, so use plenty of clamps
-to make sure the spar cap is tight against the spar web and flange while drilling. Remove the spar cap, deburr the holes of the spar and spar cap, then cleco the spar cap back in place.
-It's important to deburr and clean out any chips, otherwise the spar cap won't fit tight against the spar web when match-drilling the spar flange holes.
+Clamp the spar cap in place, then match-drill the 1/8" holes of the spar web into the entire length of the spar cap with a #30 drill. The spar cap is somewhat bowed as supplied, so use plenty of clamps to make sure the spar cap is tight against the spar web and flange while drilling. Remove the spar cap, deburr the holes of the spar and spar cap, then cleco the spar cap back in place. It's important to deburr and clean out any chips, otherwise the spar cap won't fit tight against the spar web when match-drilling the spar flange holes.
 
 Clamp the spar cap to the flange of the spar, then match-drill the 3/32" holes of the spar flange into the spar cap with a 3/32" drill.
 
 Repeat this step for the second spar cap.
 
-Step 3: Deburr and smooth the edges of the HS-1007 Front Spar Doubler and the HS-1008-L and -R Front Spar Attachment Brackets, then cleco them to the
-HS-1002 Front Spar as shown in the figure.
+Step 3: Deburr and smooth the edges of the HS-1007 Front Spar Doubler and the HS-1008-L and -R Front Spar Attachment Brackets, then cleco them to the HS-1002 Front Spar as shown in the figure.
 
-Step 4: Clamp something flat to the bottom of the HS-1008-L and -R Front Spar Attachment Brackets to keep them square to each other, then
-match-drill the eight holes of the spar and spar doubler into the attachment brackets with a #30 drill. Cleco a few of these holes,
-remove the original, single cleco, and final-drill the hole with the same drill.
+Step 4: Clamp something flat to the bottom of the HS-1008-L and -R Front Spar Attachment Brackets to keep them square to each other, then match-drill the eight holes of the spar and spar doubler into the attachment brackets with a #30 drill. Cleco a few of these holes, remove the original, single cleco, and final-drill the hole with the same drill.
 
-Step 5: Except for those indicated in the figure, final-drill the 1/8" holes common to the HS-1002 Front Spar and the                                                                                                                                33rd HOLE IN
-HS-1007 Front Spar Doubler using a #30 drill.                                                                                                                                                                                                       SPAR FLANGE
+Step 5: Except for those indicated in the figure, final-drill the 1/8" holes common to the HS-1002 Front Spar and the HS-1007 Front Spar Doubler using a #30 drill.
 
-Match-drill the four 3/16" holes common to the spar and spar doubler into the HS-1013 Front
-Spar Caps with a 3/16" drill, then final-drill the holes with a #12 drill.
+Match-drill the four 3/16" holes common to the spar and spar doubler into the HS-1013 Front Spar Caps with a 3/16" drill, then final-drill the holes with a #12 drill.
 
-Step 6: Machine countersink the eight holes of the HS-1007 Front Spar Doubler
-(see figure) for 1/8" flush rivets.
+Step 6: Machine countersink the eight holes of the HS-1007 Front Spar Doubler (see figure) for 1/8" flush rivets.
 
-Step 7: Final-Drill the middle nine holes (see figure) in both flanges of the
-HS-1002 Front Spar using a #40 drill, then machine countersink them
-for 3/32" flush rivets.
-                                                                                                                                                                                                                                 HS-1007
-Step 8: Mark the parts, disassemble, deburr, prime if desired,
-then reassemble the parts in their original position.
-                                                                                                                                                                                                                                 DO NOT DRILL TO SIZE
-                                                                                                                                                                                                                                 2 PLACES
+Step 7: Final-Drill the middle nine holes (see figure) in both flanges of the HS-1002 Front Spar using a #40 drill, then machine countersink them for 3/32" flush rivets.
 
+Step 8: Mark the parts, disassemble, deburr, prime if desired, then reassemble the parts in their original position.
 
+[Figure 1 shows front spar assembly with callouts:]
+1/4 MARK
+33rd HOLE IN SPAR FLANGE [at both ends]
+HS-1013 2 PLACES
+HS-1007
+HS-1002
+HS-1008-L
+HS-1008-R
+FINAL-DRILL #40, MACH CSK
+MACHINE CSK THESE HOLES THIS SIDE
+DO NOT DRILL TO SIZE 2 PLACES
+SOMETHING FLAT
 
-                                                                                                                                                                                      MACHINE CSK
-                                                                                                                                                                                      THESE HOLES                                HS-1008-L
-                      HS-1013                                                                                                                                                         THIS SIDE
-                    2 PLACES
+FIGURE 1: FRONT SPAR ASSEMBLY
 
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 8-5
 
 
+=== PAGE 8-6 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                        HS-1008-R
+Step 1: Rivet together the HS-1002 Front Spar, the HS-1007 Front Spar Doubler, the HS-1013 Front Spar Caps, and the HS-1008-L and -R Front Spar Attachment Brackets using the rivets shown in Figure 1. Install only the rivets shown in the figure. Tape over the open holes to keep yourself from accidentally riveting them.
 
+Step 2: Install AN426AD3-4.5 rivets into the nine holes in both flanges of the HS-1002 Front Spar and the HS-1013 Spar Caps. These are the holes which were machine countersunk in Page 8-5, Step 7.
 
+[Figure 1 shows front spar doubler rivets with legend:]
+AN426AD4-6
+AN426AD4-7
+AN470AD4-6
+AN470AD4-7
+AN470AD4-9
+AN470AD4-10
+HS-1002
+HS-1013
+HS-1007
+HS-1008-R
+HS-1008-L
 
+FIGURE 1: FRONT SPAR DOUBLER RIVETS
 
-                                                                                                                                                                                                               SOMETHING
-                                                                                                                                                                                                               FLAT
+Step 3: Locate four of the HS-1004 Inspar Ribs. Remove the portion of the top and bottom flange, shown in the upper rib drawing of Figure 2, from all four ribs.
 
-                                                                                HS-1002
+Step 4: Set two of the ribs from step 3 aside, then remove the small flange, shown in the lower rib drawing of Figure 2, from the remaining two ribs.
 
+[Figure 2 shows trimming rib flanges:]
+TRIM TO HOLE [upper rib, top and bottom]
+HS-1004 TRIM TWO LIKE THIS [upper - 4 trimmed flanges]
+TRIM TO HOLE [lower rib]
+HS-1004 TRIM TWO LIKE THIS [lower - 2 trimmed flanges]
 
+FIGURE 2: TRIMMING RIB FLANGES
 
-                                                                                                                                                   FIGURE 1: FRONT SPAR ASSEMBLY
-                                       33rd HOLE IN
-                                       SPAR FLANGE
-                                                                                                                                                                                                                                     DATE: 12/09/13 REVISION: 0   RV-10   PAGE   8-5
-                       VAN'S AIRCRAFT, INC.
-                                                                                                          AN426AD4-6    AN470AD4-6   AN470AD4-9
-                                                         HS-1002                                                                                                   HS-1007
-                                                                                                          AN426AD4-7    AN470AD4-7   AN470AD4-10
+PAGE 8-6  RV-10  REVISION: 0  DATE: 12/09/13
 
-  Step 1: Rivet together the HS-1002 Front Spar,
-  the HS-1007 Front Spar Doubler, the HS-1013
-  Front Spar Caps, and the HS-1008-L and -R
-  Front Spar Attachment Brackets using the rivets
-  shown in Figure 1. Install only the rivets shown
-  in the figure. Tape over the open holes to keep                  HS-1013
-  yourself from accidentally riveting them.
 
-  Step 2: Install AN426AD3-4.5 rivets into the
-  nine holes in both flanges of the HS-1002 Front
-  Spar and the HS-1013 Spar Caps. These are
-  the holes which were machine countersunk in
-                                                                                     HS-1008-R                                                         HS-1008-L
-  the spar flanges on Page 8-5, Step 7.
+=== PAGE 8-7 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                   FIGURE 1: FRONT SPAR DOUBLER RIVETS
+Step 1: Deburr the edges of all HS-1004 Inspar Ribs. Flute (Section 5N), if necessary, the curved flanges of the ribs until the holes in the flanges are in a straight line.
 
+Step 2: The two HS-1004 Inspar Ribs which had the four flanges trimmed on Page 8-6, Step 4, need to be modified further. Use a hand seamer to bend the aft flange of the ribs open by 9 degrees as shown at the bottom of Figure 1. The forward portion of the rib must also be bent by 9 degrees as shown at the top of the figure. This bend can be accomplished by holding the forward portion of the rib against a solid surface and pressing down along the bend-line with your fingers. The part will bend along the bend-line, between the two notches shown in the figure.
 
-                                                                             TRIM TO HOLE
+[Figure 1 shows modify inspar ribs:]
+9 degrees [at top]
+BEND-LINE BETWEEN NOTCHES IN FLANGE
+HS-1004 WITH FOUR TRIMMED FLANGES
+9 degrees [at bottom]
 
-  Step 3: Locate four of the HS-1004
-  Inspar Ribs. Remove the portion of the
-  top and bottom flange, shown in the
-  upper rib drawing of Figure 2, from all
-  four ribs.
+FIGURE 1: MODIFY TRIMMED INSPAR RIBS
 
-   Step 4: Set two of the ribs from step 3
-   aside, then remove the small flange,
-   shown in the lower rib drawing of Figure
-   2, from the remaining two ribs.
+Step 3: Deburr the edges of all the HS-905 Nose Ribs. Flute, if necessary, the curved flanges of the ribs until the holes in the flanges are in a straight line.
 
-                                                                                                                                                   HS-1004
-                                                                                                                                                   TRIM TWO
-                                                                                                                                                   LIKE THIS
+Radius the corners at the forward end of the nose rib flanges (see Figure 2) to prevent them from making small dents in the skins when the ribs are installed.
 
+Step 4: Put aside all but two of the HS-905 Nose Ribs. Open the bend in the aft flange of these two nose ribs by 9 degrees.
 
+Cut a hole in the web of both nose ribs using the dimensions in the figure. The hole is used for routing the trim cables.
 
+[Figure 2 shows modify nose ribs with dimensions:]
+7/8
+1/2
+RADIUS CORNERS ALL RIBS
+1 1/8
+HS-905
+9 degrees TWO RIBS ONLY
 
-                                                                             TRIM TO HOLE
+FIGURE 2: MODIFY NOSE RIBS
 
+Step 5: Fabricate four cradles out of 3/8" (min) plywood to hold the horizontal stabilizer during construction. Make a template, used to trace the stabilizer's cross-section, by clecoing together a nose and inspar rib. The 3/16" tooling holes in the ribs can be used to square the ribs with the plywood. Offset the trace about an eighth inch to allow for the thickness of the skins and a duct tape liner. Don't waste time making the cradles perfect; they have no bearing on the alignment of the stabilizer.
 
+[Figure 3 shows fabricated plywood cradle]
 
+FIGURE 3: FABRICATE CRADLES
 
-                                                                                                                                                   HS-1004
-                                                                                                                                                   TRIM TWO
-                                                                                                                                                   LIKE THIS
-
-
-
-
-                                                                             TRIM TO HOLE
-                                                                                                 FIGURE 2: TRIMMING RIB FLANGES
-PAGE   8-6     RV-10      REVISION: 0   DATE: 12/09/13
-Step 1: Deburr the edges of all                        BEND-LINE                  Step 3: Deburr the edges of all the HS-905 Nose Ribs. Flute,
-                                                                                                                                                                  VAN'S AIRCRAFT, INC.
-                                             9°         BETWEEN
-HS-1004 Inspar Ribs. Flute (Section                                               if necessary, the curved flanges of the ribs until the holes in the flanges are in a straight line.
-5N), if necessary, the curved flanges                   NOTCHES
-of the ribs until the holes in the flanges             IN FLANGE                  Radius the corners at the forward end of the nose rib flanges (see Figure 2) to prevent them from
-are in a straight line.                                                           making small dents in the skins when the ribs are installed.
-
-Step 2: The two HS-1004 Inspar Ribs                                               Step 4: Put aside all but two of the HS-905 Nose Ribs. Open the
-which had the four flanges trimmed on                                             bend in the aft flange of these two nose ribs by 9°.
-Page 8-6, Step 4, need to be modified
-further. Use a hand seamer to bend                                                Cut a hole in the web of both nose ribs using
-the aft flange of the ribs open by 9° as                                          the dimensions in the figure. The hole                                                      7/8
-shown at the bottom of Figure 1. The                                              is used for routing the trim cables.
-forward portion of the rib must also be
-bent by 9° as shown at the top of the
-                                                                                                                                                            1/2
-figure. This bend can be accomplished
-                                                                                       RADIUS CORNERS
-by holding the forward portion of the rib
-                                                                                               ALL RIBS
-against a solid surface and pressing
-down along the bend-line with your                                                                                                                                          1 1/8
-fingers. The part will bend along the
-bend-line, between the two notches
-shown in the figure.
-                                                                                                    HS-905
-
-
-
-
-                                                                                                                                                                                                            9°
-                                                                                                                                                                                                            TWO RIBS
-                                                   HS-1004
-                                                                                                                                                                                                            ONLY
-                                                   WITH FOUR
-                                                   TRIMMED                                                                                FIGURE 2: MODIFY NOSE RIBS
-                                                   FLANGES
-
-
-                                                                                  Step 5: Fabricate four cradles out of 3/8" (min) plywood to hold the
-                                                                                  horizontal stabilizer during construction. Make a template, used to
-                                                                                  trace the stabilizer's cross-section, by clecoing together a nose and
-                                                                                  inspar rib. The 3/16" tooling holes in the ribs can be used to square
-                                                                                  the ribs with the plywood. Offset the trace about an eighth inch to
-                                                                                  allow for the thickness of the skins and a duct tape liner. Don't
-                                                                                  waste time making the cradles perfect; they have no bearing on the
-                                                                                  alignment of the stabilizer.
-
-
-
-
-                                                  9°
-
-
-
-                                                                                                                          FIGURE 3: FABRICATE
-                                                                                                                               CRADLES
-                                                       FIGURE 1: MODIFY TRIMMED
-                                                              INSPAR RIBS
-                                                                                                                                                                       DATE: 12/09/13 REVISION: 0   RV-10   PAGE   8-7
-                        VAN'S AIRCRAFT, INC.
-                                                                                                                                                                                HS-1004
-                              NOTE: Only the left side of the horizontal stabilizer is fully depicted in the rest of the manual. The right side                              4 TRIMMED
-                              is simply a mirror image of the left.                                                                                                            FLANGES
-
-  Step 1: Cleco the two modified inboard HS-905 Nose Ribs (the ribs with the hole cut in the web) to the front spar assembly as shown in Figure                    HS-1004
-  1. (Ignore the cradles and skins for now, they are introduced in a later step.) Notice that there are five holes in the spar at these two rib locations,      2 TRIMMED
-  but only three holes in the aft flange of the nose rib. Using a 1/8" drill, match-drill the two extra holes of the spar into the nose rib.                      FLANGES
-
-  Cleco into position the two inboard HS-1004 Inspar Ribs (the ribs with four trimmed flanges) and, using the same drill,                             HS-1004
-  match-drill the center hole of the nose rib and spar into the inspar rib flange.
-
-  Step 2: Cleco the rest of the HS-905 Nose Ribs to the front spar assembly as shown in the figure. Note that except
-                                                                                                                                      HS-1004
-  for the two inboard ribs, the flanges of the nose ribs are all pointed outboard. Use a #30 drill to final-drill all of the
-  holes common to the nose ribs, spar web, and the two inboard inspar ribs.
-
-   Step 3: Cleco the rest of the HS-904 and -1004 Inspar Ribs to the front spar assembly. Once again,
-   except for the two inboard inspar ribs, the flanges of all the ribs point outboard. Notice in the figure
-   that the inspar ribs with two trimmed flanges are located just outboard of the inspar ribs with four
-   trimmed flanges.
-
-  Final-Drill the holes common to the inspar ribs and the web of the front spar assembly                                               HS-904
-  using a #30 drill.
-
-  Step 4: Mark the nose and inspar ribs so that, once removed, they can be
-  reassembled in the same position on the spar.
-
-  Step 5: Deburr the edges of the HS-1001 Skins. Remove                                                HS-904
-  the vinyl from the inside surface of the skins; the added thick-
-  ness makes it difficult to install the HS-905 Nose Ribs.
-                                                                                                                                                                                                               HS-1001
-  Step 6: Set up the four cradles to support
-  the HS-1001 Skins as shown in Figure 1,
-  then clamp them to the work bench.
-  Adjust the position of the cradles, if                                                                                                                                                  INBOARD NOSE RIBS.
-                                                                     HS-904
-  necessary, while the stabilizer is being
-  clecoed together so that they don't interfere
-  with it's alignment.
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 8-7
 
-  Step 7: Insert the HS-1001 Skins into
-  the cradles. The skins are symmetrical:
-  at this point there is no top or bottom,
-  left or right. So it doesn't matter which
-  skin goes in which cradle. Just make
-  sure the angled end of the skins are
-  facing inboard.
 
-  Step 8: One at a time, remove the nose
-  ribs from the front spar assembly and
-  cleco them to the skins. Cleco the front                                                                                                                          FRONT SPAR
-  spar/ inspar rib assembly to the nose ribs                                                                                                                        ASSEMBLY
-  and the flanges of the front spar to the
-  skins. Don't cleco the inspar ribs to the
-                                                                                                                                              HS-1001
-  rest of the skins yet.
+=== PAGE 8-8 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Only the left side of the horizontal stabilizer is fully depicted in the rest of the manual. The right side is simply a mirror image of the left.
 
+Step 1: Cleco the two modified inboard HS-905 Nose Ribs (the ribs with the hole cut in the web) to the front spar assembly as shown in Figure 1. (Ignore the cradles and skins for now, they are introduced in a later step.) Notice that there are five holes in the spar at these two rib locations, but only three holes in the aft flange of the nose rib. Using a 1/8" drill, match-drill the two extra holes of the spar into the nose rib.
 
+Cleco into position the two inboard HS-1004 Inspar Ribs (the ribs with four trimmed flanges) and, using the same drill, match-drill the center hole of the nose rib and spar into the inspar rib flange.
 
-                                HS-905
-                        4 PLACES / SIDE                                                                                    FIGURE 1: CLECOING NOSE AND INSPAR RIBS
-                                                                                                                              TO FRONT SPAR ASSEMBLY AND SKINS
-PAGE   8-8      RV-10      REVISION: 0   DATE: 12/09/13
-Step 1: Cleco the HS-1014 and -1015 Long and Short Stringers together making two stringer assemblies as shown in Figure 1. With a #30 drill, final-drill the five outboard holes on each end of the stringers which
-                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-are common to both stringers. Leave the eight inboard holes alone for now. Insert the two stringer assemblies into the stabilizer by pulling back the skins (not shown in the figure) and dropping them into the
-notches in the inspar ribs. This will require lifting the entire assembly out of the cradles slightly. Cleco the skins to all of the ribs and stringers.
+Step 2: Cleco the rest of the HS-905 Nose Ribs to the front spar assembly as shown in the figure. Note that except for the two inboard ribs, the flanges of the nose ribs are all pointed outboard. Use a #30 drill to final-drill all of the holes common to the nose ribs, spar web, and the two inboard inspar ribs.
 
-Step 2: Cleco the rear spar assembly to the inspar ribs, then final-drill the holes common to the spar and
-ribs using a #30 drill. The rear spar assembly is symmetrical; there is no left or right.                      REAR SPAR
-                                                                                                                ASSEMBLY                                                                                                  FRONT SPAR
-Step 3: Cleco the HS-1016 Stringer Web to the forward side of the two stringer assemblies, then, using                                                                                                                      ASSEMBLY
-an angle drill, final-drill the holes common to the stringers and stringer web with a #30 drill. Match-drill
-the four holes in both flanges of the stringer web into the inspar ribs using the same drill.
+Step 3: Cleco the rest of the HS-904 and -1004 Inspar Ribs to the front spar assembly. Once again, except for the two inboard inspar ribs, the flanges of all the ribs point outboard. Notice in the figure that the inspar ribs with two trimmed flanges are located just outboard of the inspar ribs with four trimmed flanges.
 
-Step 4: Final-Drill all skin holes to size with a #40 drill. Try to follow a system of drilling and
-moving clecos prevent missing any holes.
+Final-Drill the holes common to the inspar ribs and the web of the front spar assembly using a #30 drill.
 
-NOTE: The empennage fairing screw holes are indicated on Page
-8-14, Figure 1 along the right side of the depicted skin. These
-holes correspond to holes on the top of the horizontal
-stabilizer (the HS-1008 Front Spar Attachment Bracket
-flanges are on the bottom of the horizontal).
+Step 4: Mark the nose and inspar ribs so that, once removed, they can be reassembled in the same position on the spar.
 
-Step 5: Mark the empennage fairing screw
-holes on the skins and on the inboard nose
-and inboard inspar ribs so that they are
-not dimpled or riveted later.
+Step 5: Deburr the edges of the HS-1001 Skins. Remove the vinyl from the inside surface of the skins; the added thickness makes it difficult to install the HS-905 Nose Ribs.
 
-Step 6: Mark the parts as
-you disassemble the
-stabilizer and deburr
-all edges and
-holes.                                                                                                                                                                                                                                                        HS-1014
+Step 6: Set up the four cradles to support the HS-1001 Skins as shown in Figure 1, then clamp them to the work bench. Adjust the position of the cradles, if necessary, while the stabilizer is being clecoed together so that they don't interfere with it's alignment.
 
+Step 7: Insert the HS-1001 Skins into the cradles. The skins are symmetrical: at this point there is no top or bottom, left or right. So it doesn't matter which skin goes in which cradle. Just make sure the angled end of the skins are facing inboard.
 
+Step 8: One at a time, remove the ribs from the front spar assembly and cleco them to the skins. Cleco the front spar/ inspar rib assembly to the nose ribs and the flanges of the front spar to the skins. Don't cleco the inspar ribs to the rest of the skins yet.
 
+[Figure 1 shows clecoing nose and inspar ribs to front spar assembly and skins:]
+HS-1004 4 TRIMMED FLANGES
+HS-1004 2 TRIMMED FLANGES
+HS-1004 [multiple callouts along spar]
+HS-904 [multiple callouts]
+HS-905 4 PLACES / SIDE
+HS-1001 [skin callouts]
+FRONT SPAR ASSEMBLY
+INBOARD NOSE RIBS.
 
-                                                                                                                                                           HS-1014 &
-                                                                                                                                                           HS-1015                                                                             HS-1015
+FIGURE 1: CLECOING NOSE AND INSPAR RIBS TO FRONT SPAR ASSEMBLY AND SKINS
 
+PAGE 8-8  RV-10  REVISION: 0  DATE: 12/09/13
 
 
-                                                                                                                                  HS-1016
-Step 7: Dimple the skins and
-rib flanges for the exterior
-rivets. However, do not dimple                                                                                                      MATCH DRILL
-the holes marked in Step 5 or                                                                                                       HOLES INTO RIBS
-the hole in each small tab of
-the inspar ribs.
+=== PAGE 8-9 ===
+VAN'S AIRCRAFT, INC.
 
-Step 8: Machine countersink                                                                                             HS-1008-L
-the holes in the flanges of the
-front and rear spars and the
-3/32" holes of the stringers.
+Step 1: Cleco the HS-1014 and -1015 Long and Short Stringers together making two stringer assemblies as shown in Figure 1. With a #30 drill, final-drill the five outboard holes on each end of the stringers which are common to both stringers. Leave the eight inboard holes alone for now. Insert the two stringer assemblies into the stabilizer by pulling back the skins (not shown in the figure) and dropping them into the notches in the inspar ribs. Cleco the skins to all of the ribs and stringers.
 
-Step 9: Prime all parts, if
-desired, in preparation
-for final assembly.
+Step 2: Cleco the rear spar assembly to the inspar ribs, then final-drill the holes common to the spar and ribs using a #30 drill. The rear spar assembly is symmetrical; there is no left or right.
 
+Step 3: Cleco the HS-1016 Stringer Web to the forward side of the two stringer assemblies, then, using an angle drill, final-drill the holes common to the stringers and stringer web with a #30 drill. Match-drill the four holes in both flanges of the stringer web into the inspar ribs using the same drill.
 
+Step 4: Final-Drill all skin holes to size with a #40 drill. Try to follow a system of drilling and moving clecos prevent missing any holes.
 
+NOTE: The empennage fairing screw holes are indicated on Page 8-14, Figure 1 along the right side of the depicted skin. These holes correspond to holes on the top of the horizontal stabilizer (the HS-1008 Front Spar Attachment Bracket flanges are on the bottom of the horizontal).
 
-                                                                                                                                      FIGURE 1: CLECOING STRINGERS, STRINGER WEB,
-                                                                                                                                                AND REAR SPAR ASSEMBLY
+Step 5: Mark the empennage fairing screw holes on the skins and on the inboard nose and inboard inspar ribs so that they are not dimpled or riveted later.
 
+Step 6: Mark the parts as you disassemble the stabilizer and deburr all edges and holes.
 
-                                                                                                                                                                                                                         DATE: 12/09/13 REVISION: 0   RV-10    PAGE   8-9
-                       VAN'S AIRCRAFT, INC.
+Step 7: Dimple the skins and rib flanges for the exterior rivets. However, do not dimple the holes marked in Step 5 or the hole in each small tab of the inspar ribs.
 
+Step 8: Machine countersink the holes in the flanges of the front and rear spars and the 3/32" holes of the stringers.
 
+Step 9: Prime all parts, if desired, in preparation for final assembly.
 
+[Figure 1 shows clecoing stringers, stringer web, and rear spar assembly:]
+REAR SPAR ASSEMBLY
+FRONT SPAR ASSEMBLY
+HS-1014
+HS-1015
+HS-1014 & HS-1015
+HS-1016
+HS-1008-L
+MATCH DRILL HOLES INTO RIBS
 
-   Step 1: Rivet the two inboard HS-1004 Inspar Ribs to the flanges of the HS-1016 Stringer Web using the rivets in Figure 1.
+FIGURE 1: CLECOING STRINGERS, STRINGER WEB, AND REAR SPAR ASSEMBLY
 
-   Step 2: Rivet the two sets of HS-1014 and -1015 Stringers together and to the HS-1016 Stringer Web using the rivets
-   called out in Figure 1.
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 8-9
 
-                                                                                                                                                         AN470AD4-5
-                                                                                                                                                         5 PLACES
-                                                                                                                                                         BOTH ENDS
 
+=== PAGE 8-10 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Rivet the two inboard HS-1004 Inspar Ribs to the flanges of the HS-1016 Stringer Web using the rivets in Figure 1.
 
+Step 2: Rivet the two sets of HS-1014 and -1015 Stringers together and to the HS-1016 Stringer Web using the rivets called out in Figure 1.
 
-                                                                                                                                AN470AD4-5
-                                                                                                                                16 PLACES
-                                                                                                                                                                        AN470AD4-5
-                                                                                                                                                              HS-1004   5 PLACES
-                                                                                                                                          HS-1016
-                                                                                                                                                                        BOTH ENDS
+[Figure 1 shows stringer and stringer web rivets:]
+AN470AD4-5 5 PLACES BOTH ENDS
+HS-1014
+HS-1015
+HS-1016
+HS-1004
+AN470AD4-4 8 PLACES
+AN470AD4-5 16 PLACES
+AN470AD4-5 5 PLACES BOTH ENDS
 
+FIGURE 1: STRINGER AND STRINGER WEB RIVETS
 
+PAGE 8-10  RV-10  REVISION: 0  DATE: 12/09/13
 
 
-                                                    HS-1015
+=== PAGE 8-11 ===
+VAN'S AIRCRAFT, INC.
 
-
-
-                    HS-1014
-
-                                                                                                        AN470AD4-4
-                                                         HS-1004                                        8 PLACES
-
-
-
-
-                                                                                                                                    HS-1015
-
-
-
-
-                                                                                                 HS-1014
-                                                                                                                                FIGURE 1: STRINGER AND STRINGER
-                                                                                                                                           WEB RIVETS
-PAGE   8-10    RV-10      REVISION: 0   DATE: 12/09/13
-                                                                                                                                                                                               VAN'S AIRCRAFT, INC.
-                                                                                                                                                                                         HS-1004
 Step 1: Press the two SB625-8 Snap Bushings into the 5/8" holes in the front spar assembly as shown in Figure 1.
 
-Step 2: Cleco the inspar Rib, stringer, and stringer web assembly (riveted on the previous page) into position on                                                          HS-1004
-the front spar assembly. Do not rivet the assembly in place at this time since it shares rivets with two nose ribs.                                                                                                    HS-904
+Step 2: Cleco the inspar Rib, stringer, and stringer web assembly (riveted on the previous page) to position on the front spar assembly. Do not rivet the assembly in place at this time since it shares rivets with two nose ribs.
 
-Step 3: Except for the two outboard HS-904 Inspar Ribs (see Figure 1), cleco the remaining inspar ribs to the front
-spar assembly. Slide the HS-1004 Inspar Ribs along the stringers to get them into position.                                                                      HS-1004
-                                                                                                                                          CLECO ONLY,
-Rivet these ribs in place using the rivets called out in the figure. The rivets called out in the blow up apply to all the         DO NOT RIVET THESE                                                               AN470AD4-4
-HS-1004 Inspar ribs except for the inboard two.                                                                                              TWO RIBS                                                                 3 PLACES
+Step 3: Except for the two outboard HS-904 Inspar Ribs (see Figure 1), cleco the remaining inspar ribs to the front spar assembly. Slide the HS-1004 Inspar Ribs along the stringers to get them into position.
 
+Rivet these ribs in place using the rivets called out in the figure. The rivets called out in the blow up apply to all the HS-1004 Inspar ribs except the inboard two.
 
+[Figure 1 shows riveting the inspar ribs:]
+HS-1004 [multiple callouts]
+HS-904
+CLECO ONLY, DO NOT RIVET THESE TWO RIBS
+LEAVE THESE TWO RIBS OFF FOR NOW
+AN470AD4-4 3 PLACES [in blowup]
+AN470AD4-5 2 PLACES [in blowup]
+AN470AD4-4 2 PLACES [in blowup]
+SB625-8 2 PLACES
+FRONT SPAR ASSEMBLY
 
+FIGURE 1: RIVETING THE INSPAR RIBS
 
-                                                                                                                             HS-1004
+DATE: 12/09/13  REVISION: 1  RV-10  PAGE 8-11
 
 
+=== PAGE 8-12 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                   HS-1004
-                                                                                                                                                                                                                                FRONT SPAR
-                                                                                                                                                                                                                                ASSEMBLY
-                                                                                                   HS-1004
+Step 1: Put both HS-1001 Skins back in the cradles. Cleco all the HS-905 Nose Ribs in place, then rivet them to the skins using the rivets shown on Page 8-14, Figure 1.
 
+Step 2: Insert the front spar/ inspar rib assembly into the skins and cleco it to the nose ribs and skins. Using the rivets shown in Figure 1, rivet the assembly to the nose ribs. (If access to the two inboard nose ribs is limited, making riveting difficult, they can be riveted after the rest of the horizontal's construction is completed. The horizontal can then be removed from the cradles giving better access.)
 
+[Figure 1 shows front spar and nose rib rivets:]
+FRONT SPAR/ INSPAR RIB ASSEMBLY
+LP4-3 3 PLACES [two callouts at different locations]
+AN470AD4-4 3 PLACES
+HS-905 4 PLACES/ SIDE
 
+Blowup detail:
+AN470AD4-7 3 PLACES
+AN470AD4-8
+AN470AD4-8
 
-                                                                  HS-904
+FIGURE 1: FRONT SPAR AND NOSE RIB RIVETS
 
+PAGE 8-12  RV-10  REVISION: 0  DATE: 12/09/13
 
-                                                                                                                                                                              SB625-8
-                                                                                                                                                                              2 PLACES
 
+=== PAGE 8-13 ===
+VAN'S AIRCRAFT, INC.
 
-LEAVE THESE TWO
-RIBS OFF FOR NOW
+Step 1: Using the rivets shown in Figure 1, rivet the last two HS-904 Inspar Ribs, on each side of the stabilizer, to the HS-1002 Front Spar web.
 
+NOTE: The rivets used for the rest of the horizontal stabilizer can be found on Page 8-14, Figure 1.
 
+Step 2: Rivet the HS-1001 Skins to the flanges of the front spar assembly. Make sure to capture the flanges of the inspar ribs where they joggle under the flanges of the front spar assembly.
 
+Step 3: Starting from the front spar assembly, rivet the skins to the flanges of the HS-1004 Inspar ribs up to the HS-1014 and -1015 Stringers.
 
-                                                              AN470AD4-4
-                                                                3 PLACES
-                                                                                                                                                        AN470AD4-5
-                                                                                                                                                          2 PLACES
+Step 4: Rivet the skins to the HS-1014 and -1015 Stringers.
 
+Step 5: Rivet the skins to the HS-904 Inspar Ribs and the remainder of the HS-1004 Inspar Ribs.
 
+Step 6: Cleco the rear spar assembly into position, then rivet it to the inspar ribs using the rivets shown in Figure 1. For clearance when the elevators are installed, place the manufactured head of the rivets on the spar.
 
+Install the two snap bushings, shown in the figure, into the holes indicated.
 
-                                                                                                                                                                              AN470AD4-4
-                                                                                                                                                                              2 PLACES
+Step 7: Finish the horizontal stabilizer by riveting the skins to the flanges of the rear spar assembly.
 
-                                                                                       FIGURE 1: RIVETING THE INSPAR RIBS
+NOTE: The HS-910 Horizontal Stabilizer Tip Fairings are installed, along with the other empennage fairings, in Section 12.
 
-                                                                                                                                                                                                   DATE: 12/09/13 REVISION: 1   RV-10   PAGE   8-11
-                       VAN'S AIRCRAFT, INC.
+[Figure 1 shows riveting the inspar ribs and rear spar:]
+AN470AD4-6 PLACE MANUFACTURED HEAD ON SPAR
+SB625-8 2 PLACES
+LP4-3 ALL INSPAR RIBS TO REAR SPAR RIVETS, EXCEPT THOSE NOTED, PLACE MANUFACTURED HEAD ON SPAR
+REAR SPAR ASSEMBLY
+HS-1004 4 PLACES/ SIDE
+HS-904
+HS-904
+HS-904
+AN470AD4-4 PLACE MANUFACTURED HEAD ON SPAR
+LP4-3 3 PLACES/ SIDE
+AN470AD4-4 3 PLACES/ SIDE
+HS-1014 AND HS-1015
 
+FIGURE 1: RIVETING THE INSPAR RIBS AND REAR SPAR
 
+DATE: 12/09/13  REVISION: 2  RV-10  PAGE 8-13
 
 
-  Step 1: Put both HS-1001 Skins back in the cradles. Cleco all the HS-905
-  Nose Ribs in place, then rivet them to the skins using the rivets shown on
-  Page 8-14, Figure 1.
+=== PAGE 8-14 ===
+VAN'S AIRCRAFT, INC.
 
-  Step 2: Insert the front spar/ inspar rib assembly into the skins and cleco it
-  to the nose ribs and skins. Using the rivets shown in Figure 1, rivet the
-  assembly to the nose ribs. (If access to the two inboard nose ribs is
-  limited, making riveting difficult, they can be riveted after the rest of the
-  horizontal's construction is completed. The horizontal can then be
-  removed from the cradles giving better access.)
+[Figure 1 shows skin rivet pattern for horizontal stabilizer with rivet legend:]
+AN426AD3-3.5
+AN426AD3-4
+AN426AD3-4.5
+AN426AD3-5
 
+HORIZONTAL STAB TIP FAIRING RIVET HOLES. LEAVE OPEN 8 PLACES
 
+EMPENNAGE FAIRING SCREW HOLES ON TOP SURFACE OF HORIZONTAL. LEAVE OPEN 5 PLACES
 
+FIGURE 1: SKIN RIVETS
 
-                                        FRONT SPAR/ INSPAR
-                                             RIB ASSEMBLY
-
-
-
-                                                                                                            LP4-3
-                                                                                                            3 PLACES
-
-
-
-
-                                                                                   LP4-3
-                                                                                   3 PLACES
-
-
-
-
-                                                                                                                                                AN470AD4-7
-                                                                                                                                                3 PLACES
-                                                                                                                                   AN470AD4-8
-                                                                                                                                                AN470AD4-8
-
-          AN470AD4-4
-                                                                                       HS-905
-            3 PLACES
-                                                                                       4 PLACES/ SIDE
-
-
-
-
-                                                                                                        FIGURE 1: FRONT SPAR AND
-                                                                                                             NOSE RIB RIVETS
-PAGE   8-12    RV-10      REVISION: 0   DATE: 12/09/13
-                                                                                                                                                  VAN'S AIRCRAFT, INC.
-                                                                                                                                     AN470AD4-6
-Step 1: Using the rivets shown in Figure 1, rivet the last two HS-904 Inspar Ribs, on each                                  PLACE MANUFACTURED
-side of the stabilizer, to the HS-1002 Front Spar web.                                                                             HEAD ON SPAR
-
-NOTE: The rivets used for the rest of the horizontal stabilizer can be found on Page 8-14,                                        SB625-8
-Figure 1.                                                                                                                       2 PLACES
-
-Step 2: Rivet the HS-1001 Skins to the flanges of the front spar assembly. Make sure to
-capture the flanges of the inspar ribs where they joggle under the flanges of the front spar
-assembly.
-                                                                                                                 LP4-3
-Step 3: Starting from the front spar assembly, rivet the skins to the flanges of the                   ALL INSPAR RIBS
-HS-1004 Inspar ribs up to the HS-1014 and -1015 Stringers.                                        TO REAR SPAR RIVETS,
-                                                                                                 EXCEPT THOSE NOTED.
-Step 4: Rivet the skins to the HS-1014 and -1015 Stringers.                                      PLACE MANUFACTURED
-                                                                                                        HEAD ON SPAR
-Step 5: Rivet the skins to the HS-904 Inspar Ribs and the remainder of the HS-1004
-Inspar Ribs.
-
-Step 6: Cleco the rear spar assembly into position, then rivet it to the
-inspar ribs using the rivets shown in Figure 1. For clearance when
-                                                                            REAR SPAR
-the elevators are installed, place the manufactured head of the
-                                                                             ASSEMBLY
-rivets on the spar.
-
-Install the two snap bushings, shown in the figure, into the
-holes indicated.
-
-Step 7: Finish the horizontal stabilizer by riveting the
-skins to the flanges of the rear spar assembly.
-
-NOTE: The HS-910 Horizontal Stabilizer Tip
-Fairings are installed , along with the other
-empennage fairings, in Section 12.                                                                         HS-1004                                HS-1014 AND
-                                                                                                        4 PLACES/                                 HS-1015
-                                                                                                              SIDE
-
-
-
-
-           AN470AD4-4                                                                   HS-904
-  PLACE MANUFACTURED
-         HEAD ON SPAR
-
-
-                                                           HS-904
-
-
-
-                       HS-904                               LP4-3
-                                                       3 PLACES/
-                                                             SIDE
-
-
-
-
-                AN470AD4-4
-                 3 PLACES/
-                      SIDE
-
-
-
-
-                                                                                                       FIGURE 1: RIVETING THE INSPAR RIBS AND
-                                                                                                                     REAR SPAR
-                                                                                                                                                     DATE: 12/09/13 REVISION: 2   RV-10   PAGE   8-13
-                      VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                                                 AN426AD3-3.5
-
-                                                                                 AN426AD3-4
-
-                                                                                 AN426AD3-4.5
-
-         HORIZONTAL STAB                                                         AN426AD3-5
-         TIP FAIRING RIVET
-       HOLES. LEAVE OPEN
-                  8 PLACES
-
-                                                                               EMPENNAGE FAIRING
-                                                                               SCREW HOLES ON
-                                                                               TOP SURFACE OF
-                                                                               HORIZONTAL.
-                                                                               LEAVE OPEN
-                                                                               5 PLACES
-
-
-
-
-                                                       FIGURE 1: SKIN RIVETS
-
-
-PAGE   8-14    RV-10    REVISION: 0   DATE: 12/09/13
-
+PAGE 8-14  RV-10  REVISION: 0  DATE: 12/09/13

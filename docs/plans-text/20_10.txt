@@ -1,353 +1,296 @@
-                                                                                                                                       VAN'S AIRCRAFT, INC.
+=== PAGE 20-1 ===
+VAN'S AIRCRAFT, INC.
 
+SECTION 20:
+BOTTOM WING SKINS
 
-      MAIN SPAR ASSEMBLY
-          (SEE SECTION 13)
+MAIN SPAR ASSEMBLY (SEE SECTION 13)
 
+REAR SPAR ASSEMBLY (SEE SECTION 15)
 
+FUEL TANK (SEE SECTION 18)
 
-    REAR SPAR ASSEMBLY
-    (SEE SECTION 15)                                               FUEL TANK
-                                                                                                                     SECTION 20:
-                                                                   (SEE SECTION 18)
+W-822PP
+WING ACCESS PLATE, 3 PLACES
 
+W-PITOT LINE
 
+PITOT TUBE
 
+W-1004-L
+BOTTOM INBD WING SKIN
 
-                                                                                      W-822PP
-                                                                                                                      BOTTOM
-                                                                                                                     WING SKINS
-                                                                                      WING ACCESS PLATE,
-                                                                                      3 PLACES
+W-1021-L
+FLAP GAP FAIRING
 
+W-1028B
+WING BOX J-STIFFENER SHORT
 
+LEADING EDGE (SEE SECTION 17)
 
+NOTE: THE LEFT WING ASSEMBLY IS SHOWN UPSIDE DOWN
 
-                                                                                                              W-PITOT LINE
+W-1024-L
+AILERON GAP FAIRING
 
-    W-1004-L
-BOTTOM INBD                                                                                                               PITOT TUBE
-  WING SKIN
+W-1005-L
+BOTTOM OUTBOARD WING SKIN
 
+W-1028A
+WING BOX J-STIFFENER LONG
 
-                        W-1021-L
-                FLAP GAP FAIRING
-                                                                                                                                           LEADING EDGE
-                                                                                                                                           (SEE SECTION 17)
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 20-1
 
-                                             W-1028B
-                         WING BOX J-STIFFENER SHORT
+=== PAGE 20-2 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: A stainless steel pitot tube with cover is available from the VAN'S ACCESSORIES CATALOG part number VENT P-100.
 
+NOTE: The pitot installation is for the left wing only.
 
+Step 1: Make the PITOT TUBE from ATO-032 X 1/4. Start with a piece of tubing at least 8 inches long, bend the tubing and then trim to match the dimensions shown in Figure 1. See Section 5P for more information on aluminum tubing. Do not flare the end yet!
 
-               NOTE: THE LEFT WING ASSEMBLY IS SHOWN UPSIDE DOWN
+APPROX. R1
 
+5
 
+3
 
-                                                                                                 W-1024-L
-                                                                                      AILERON GAP FAIRING
+FIGURE 1: PITOT TUBE
 
+Step 2: Enlarge the hole in the bottom aft row of rivets left open in Section 17 for the PITOT TUBE in the W-1001-L Leading Edge Skin and main spar assembly to 7/16 diameter.
 
-                                                                                                                                                     W-1005-L
-                                                                                                                W-1028A                              BOTTOM OUTBOARD WING SKIN
-                                                                                              WING BOX J-STIFFENER LONG
+Step 3: Install the bulkhead fitting and retaining nut onto the main spar and leading edge assembly (where the PITOT TUBE attaches), see Figure 2.
 
+Step 4: Make the W-PITOT LINE Pitot Line from ATO-032 X 1/4. Start with a piece of tubing at least 92 1/2 inches long. Insert the pitot line through snap bushings installed in the forward tooling hole of the inboard wing ribs. Slide the nut and sleeve onto the inboard end of the pitot line as shown in the exploded view in Figure 2. Check that the last sentence has been completed, lest you flare the pitot line to soon. Flare the end of the pitot line. Attach the inboard bulkhead fitting to the pitot line as shown in Figure 2.
 
+Step 5: Bend and trim the W-PITOT LINE Pitot Line to connect with the bulkhead fitting used to attach the PITOT TUBE. Insert the nut and sleeve onto the pitot line. Flare the end of the pitot line. Connect the pitot line to the outboard bulkhead fitting on the main spar assembly.
 
+Step 6: Insert the nut and sleeve onto the long leg of the PITOT TUBE as shown in Figure 3. Flare the end of the long leg of the pitot tube. The pitot tube can be installed now, but since it can easily be damaged during storage of the wings it is safest to delay the installation until the final assembly of the aircraft.
 
-                                                                                                                                          DATE: 07/24/14 REVISION: 1   RV-10   PAGE   20-1
-                        VAN'S AIRCRAFT, INC.
-                                                                                                                                                               AN818-4D
+AN818-4D
+AN819-4D
+AN832-4D
 
-                                                                                                                                                       AN819-4D
-                        NOTE: A stainless steel pitot tube with cover is available from
-                        the VAN'S ACCESSORIES CATALOG part number VENT P-100.                                                                                                                       PITOT TUBE
-                                                                                                                                                    AN832-4D
+PITOT TUBE
 
-  NOTE: The pitot installation is for the left wing only.
+W-PITOT LINE
 
-   Step 1: Make the PITOT TUBE from ATO-032 X 1/4. Start with a piece of tubing at least
-   8 inches long, bend the tubing and then trim to match the dimensions shown in Figure 1.
-   See Section 5P for more information on aluminum tubing. Do not flare the end yet!
+AN832-4D
+AN819-4D
+AN818-4D
 
+W-1010-R
 
+FIGURE 2: INBOARD PITOT LINE INSTALLATION
 
+AN924-4D
+AN819-4D
+AN818-4D
 
-                                           APPROX.
-                                             R1
+W-PITOT LINE
 
+25TH HOLE FROM INBD EDGE ON W-1001 AFT ROW OF RIVETS
 
-                                                                                                                         AN832-4D
-                                                                                                              AN819-4D
-                                                             5                                     AN818-4D
+W-1001-L
 
+FIGURE 3: OUTBOARD PITOT LINE AND PITOT TUBE INSTALLATION
 
+PAGE 20-2  RV-10  REVISION: 2  DATE: 07/24/14
 
-                                                                                                 W-PITOT
-                                                                                                    LINE
+=== PAGE 20-3 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: To prevent the WH-F1001 Wires from interfering or rubbing on the W-1017A Stick To Bellcrank Pushrod wrap the wire around the pitot tube along the entire length of the rib bay as shown in Figure 1. Cross over from the pitot tube to the main wiring run snap bushing and to the root end of the wing assembly.
 
+Step 2: Attach a set of spade connectors to the end of both WH-F1001 Wires as shown in Figure 2.
 
+Step 3: Reinstall the fuel tank to the wing per Section 18.
 
-                                              3
+PITOT TUBE
 
-                              FIGURE 1: PITOT TUBE
+WH-F1001, 2 PLACES
 
-  Step 2: Enlarge the hole in the bottom aft row of rivets left open in Section 17 for the
-  PITOT TUBE in the W-1001-L Leading Edge Skin and main spar assembly                                                                               AN924-4D
-  to 7/16 diameter.
-                                                                                                                                                      AN819-4D
-   Step 3: Install the bulkhead fitting and retaining nut onto the main spar and leading
-   edge assembly (where the PITOT TUBE attaches), see Figure 2.                                                                                          AN818-4D                           25TH HOLE FROM
-                                                                                                                                                                                            INBD EDGE ON
-  Step 4: Make the W-PITOT LINE Pitot Line from ATO-032 X 1/4. Start with a piece of                                                                      W-PITOT LINE                      W-1001 AFT ROW
-  tubing at least 92 1/2 inches long. Insert the pitot line through snap bushings installed in                                           W-1010-R                                           OF RIVETS
-  the forward tooling hole of the inboard wing ribs. Slide the nut and sleeve onto the
-  inboard end of the pitot line as shown in the exploded view in Figure 2. Check that the
-  last sentence has been completed, lest you flare the pitot line to soon. Flare the end of
-  the pitot line. Attach the inboard bulkhead fitting to the pitot line as shown in Figure 2.
+MAIN WIRING RUN SNAP BUSHING
 
-  Step 5: Bend and trim the W-PITOT LINE Pitot Line to connect with the bulkhead fitting                                                                                                       W-1001-L
-  used to attach the PITOT TUBE. Insert the nut and sleeve onto the pitot line. Flare the
-  end of the pitot line. Connect the pitot line to the outboard bulkhead fitting on the main
-  spar assembly.
+FIGURE 1: ROUTING WIRES INTO THE MAIN WING WIRE RUN
 
-  Step 6: Insert the nut and sleeve onto the long leg of the PITOT TUBE as shown in
-  Figure 3. Flare the end of the long leg of the pitot tube. The pitot tube can be installed
-  now, but since it can easily be damaged during storage of the wings it is safest to delay
-  the installation until the final assembly of the aircraft.
+WH-F1001, 2 PLACES
 
+ES 421-0108, 2 PLACES
 
+ES 421-0107, 2 PLACES
 
+FIGURE 2: FINISHING THE WIRES
 
-                                                                                                                                                                    FIGURE 3: OUTBOARD PITOT LINE
-                                                                                                       FIGURE 2: INBOARD PITOT LINE INSTALLATION                     AND PITOT TUBE INSTALLATION
-PAGE   20-2     RV-10      REVISION: 2   DATE: 07/24/14
-                                                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 20-3
 
+=== PAGE 20-4 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Complete all wire runs in both wings before the bottom skins are attached. Wire runs and systems can be added later but with much greater difficulty. The following is a list of the common systems and wire runs used in the wing. All the systems listed below are optional equipment available in the Vans Accessories Catalog. Also include with the wire runs an extra string or wire which can be used to pull additional wires through if accessories are added in the future.
 
-Step 1: To prevent the WH-F1001 Wires from interfering or rubbing on the W-1017A Stick To Bellcrank Pushrod wrap the wire                  Step 2: Attach a set of spade connectors to the end of both WH-F1001 Wires as shown in Figure 2.
-around the pitot tube along the entire length of the rib bay as shown in Figure 1. Cross over from the pitot tube to the main wiring run
-snap bushing and to the root end of the wing assembly.                                                                                     Step 3: Reinstall the fuel tank to the wing per Section 18.
+Auto Pilot: A wing leveling servo usually added in the bellcrank rib bay. Wire runs need to be added back to the root end of the wing.
 
+Angle of Attack Indicator: Pressure ports are added in the outboard-most rib bay of the leading edge assembly. Two pressure lines are routed through the spar and back to the root of the wing.
 
+Navigation and Strobe Lights: A single power wire supplies the navigation light in the tip. The light will be grounded to the outboard most wing ribs so no ground wire needs to be threaded through the wing. Use special shielded multi-conducting wire provided in the optional lighting system kit to connect the strobe light. Leave enough extra wire past the outboard-most rib of the wing to connect to the navigation and strobe lights in the forward edge of the wing tip with slack. The most common lighting system used is LN SYS6.
 
+Landing Lights: A single power wire supplies the landing lights in the wing tip. The lights will be grounded to the outboard-most wing rib.
 
-                                                                                                                                                                                      WH-F1001,
-                                                                                                       PITOT TUBE
-                                                                                                                                                                                      2 PLACES
-                                     WH-F1001,
-                                     2 PLACES
+Antenna: If installing an internal antenna within the wing tip (transmission quality will not be quite as good as an external antenna) a coax cable will need to be run to the wing tip. Make the cable from WIRE RG 58/U Coax 50 ohm cable available from Van's Aircraft.
 
+Step 2: Mark then break apart the W-1021B Flap Gap Stiffener to create the W-1021B-L and -R Flap Gap Stiffeners as shown in Figure 1.
 
+W-1021B-L
 
+REMOVE HATCHED AREAS
 
-                 MAIN WIRING RUN
-                   SNAP BUSHING
+W-1021B-R
 
+FIGURE 1: STIFFENERS
 
+Step 3: Cleco the W-1021B-L Flap Gap Stiffener to the W-1021-L Flap Gap Fairing. Cleco the flap gap fairing and W-1024-L Aileron Gap Fairing to the rear spar and top wing skins as shown in Figure 2. Final-Drill #40 the holes common to the gap fairings and wing skins. Final-Drill #30 the holes common to the gap fairings and the rear spar assembly. Final-Drill #40 the holes common between the flap gap stiffener and the flap gap fairing.
 
+Step 4: Remove the W-1021-L Flap Gap Fairing, W-1024-L Aileron Gap Fairing and W-1021B-L Flap Gap Stiffener. Deburr the edges and holes in the fairings and stiffener. Dimple the wing skins, flap gap fairings and flap gap stiffeners as required. Machine countersink the six inboard most holes in the rear spar assembly that attach the flap gap fairing for the dimple in the flap gap fairing. Prime the parts if/as desired.
 
-                                                                                                                                                                                                                                                        ES 421-0108,
-                                                                                                                                                                                                                                                        2 PLACES
+Step 5: Cleco then rivet the W-1021B-L Flap Gap Stiffener to the W-1021-L Flap Gap Fairing as shown in Figure 2 and per the callouts in Figure 4.
 
-                                                                                                                                                                                                                                                    ES 421-0107,
-                                                                                                                                                                                                                                                    2 PLACES
+Step 6: Cleco the W-1021-L Flap Gap Fairing and W-1024-L Aileron Gap Fairing back onto the top skins and rear spar. Rivet the gap fairings to the rear spar and the top skins using the call outs in Figure 3 and Figure 4.
 
+APPROXIMATE AOA PRESSURE TUBE SPAR EGRESS
 
+OUTBD MOST RIB BAY
 
+W-1024-L
 
-              FIGURE 1: ROUTING WIRES INTO THE MAIN WING WIRE RUN
-                                                                                                                                                                    FIGURE 2: FINISHING THE WIRES
+BELLCRANK RIB BAY
 
+STALL WARNING WIRES SPAR EGRESS (SEE SECTION 19)
 
+SNAP BUSHINGS FOR WIRE RUNS, TYPICAL
 
+FIGURE 2: INSTALLING THE GAP FAIRINGS
 
-                                                                                                                                                                                                                       DATE: 07/24/14 REVISION: 0     RV-10        PAGE   20-3
-                        VAN'S AIRCRAFT, INC.                                                                                                                                                                                     APPROXIMATE AOA
-                         Step 1: Complete all wire runs in both wings before the bottom skins are attached. Wire runs and systems can be added later but with much greater difficulty. The                                       PRESSURE TUBE
-                        following is a list of the common systems and wire runs used in the wing. All the systems listed below are optional equipment available in the Vans Accessories                                          SPAR EGRESS
-   Catalog. Also include with the wire runs an extra string or wire which can be used to pull additional wires through if accessories are added in the future.                                                                               OUTBD MOST
-                                                                                                                                                                                                                                             RIB BAY
-   Auto Pilot: A wing leveling servo usually added in the bellcrank rib bay. Wire runs need to be added back to the root end of the wing.
+AN426AD3-3.5
+AN470AD4-4
+AN470AD4-5
+AN426AD4-8
 
-   Angle of Attack Indicator: Pressure ports are added in the outboard-most rib bay of the leading edge assembly. Two pressure lines are routed through the spar
-   and back to the root of the wing.
+W-1021-L
 
-  Navigation and Strobe Lights: A single power wire supplies the navigation light in the tip. The light will be grounded to the outboard most wing ribs so
-  no ground wire needs to be threaded through the wing. Use special shielded multi-conducting wire provided in the optional lighting system
-  kit to connect the strobe light. Leave enough extra wire past the outboard-most rib of the wing to connect to the navigation and
-  strobe lights in the forward edge of the wing tip with slack. The most common lighting system used is LN SYS6.
+W-1021B-L
 
-  Landing Lights: A single power wire supplies the landing lights in the wing tip. The lights will be grounded to the
-  outboard-most wing rib.
+FIGURE 3: AILERON GAP FAIRING RIVET CALLOUTS
 
-   Antenna: If installing an internal antenna within the wing tip (transmission quality will not be quite as good as an
-   external antenna) a coax cable will need to be run to the wing tip. Make the cable from WIRE RG 58/U
-   Coax 50 ohm cable available from Van's Aircraft.                                                                                                                                                                                          W-1024-L
+FIGURE 4: FLAP GAP FAIRING RIVET CALLOUTS
 
-  Step 2: Mark then break apart the W-1021B Flap Gap Stiffener to create the W-1021B-L and -R
-  Flap Gap Stiffeners as shown in Figure 1.                                                                                                                                                                                    BELLCRANK RIB BAY
+PAGE 20-4  RV-10  REVISION: 1  DATE: 07/24/14
 
-                                              W-1021B-L
+=== PAGE 20-5 ===
+VAN'S AIRCRAFT, INC.
 
-                                                      REMOVE HATCHED
-                                                      AREAS
+Note: The W-1028B Wing Box J-Stiffener - Short and W-1004-L Inboard Wing Skin has already been installed in the Quick Build kit. The remaining instructions in this section are for the left wing only, the right wing is a mirror of the left.
 
-       W-1021B-R
-           FIGURE 1: STIFFENERS
-                                                                                                                                                                                             STALL WARNING WIRES SPAR EGRESS
-  Step 3: Cleco the W-1021B-L Flap Gap                                                                                                                                                       (SEE SECTION 19)
-  Stiffener to the W-1021-L Flap Gap Fairing.
-  Cleco the flap gap fairing and W-1024-L                                                                                                                                        SNAP BUSHINGS FOR WIRE RUNS,
-  Aileron Gap Fairing to the rear spar and top                                                                                                                                   TYPICAL
-  wing skins as shown in Figure 2. Final-Drill
-  #40 the holes common to the gap fairings and
-  wing skins. Final-Drill #30 the holes common to                                                                                                                        FIGURE 2: INSTALLING THE GAP FAIRINGS
-  the gap fairings and the rear spar assembly.
-  Final-Drill #40 the holes common between the flap gap
-  stiffener and the flap gap fairing.                                                                                                                                                                                                    AN426AD3-3.5
+Step 1 (Quick Build): Fabricate the W-1028A Wing Box J-Stiffener - Long by cutting a piece of J-channel, 92 1/4 inches long. Draw a centerline on the flange as shown in Figure 1.
 
-                                                                                                                                               W-1021-L                                                                                  AN470AD4-4
-  Step 4: Remove the W-1021-L Flap Gap Fairing, W-1024-L Aileron Gap Fairing and
-  W-1021B-L Flap Gap Stiffener. Deburr the edges and holes in the fairings and
-  stiffener. Dimple the wing skins, flap gap fairings and flap gap stiffeners as required.                                                                                                                                               AN470AD4-5
-  Machine countersink the six inboard most holes in the rear spar assembly that attach
-  the flap gap fairing for the dimple in the flap gap fairing. Prime the parts if/as desired.                    W-1021B-L                                                                                                               AN426AD4-8
+Draw a similar centerline on the portion of the W-1028B Wing Box J-Stiffener - Short that protrudes from beneath the installed W-1004-L Bottom Inboard Wing Skin.
 
-  Step 5: Cleco then rivet the W-1021B-L Flap Gap Stiffener to the W-1021-L Flap Gap Fairing as shown in
-  Figure 2 and per the callouts in Figure 4.
+MACHINE COUNTERSINK
 
-   Step 6: Cleco the W-1021-L Flap Gap Fairing and W-1024-L Aileron Gap Fairing back onto the top skins
-   and rear spar. Rivet the gap fairings to the rear spar and the top skins using the call outs in Figure 3 and Figure 4.
-                                                                                                                                                             FIGURE 3: AILERON GAP FAIRING RIVET CALLOUTS
+W-1004-L
 
+92 1/4
 
+5/16
 
+FIGURE 1: J-STIFFENER DETAIL
 
-                                                                                                                FIGURE 4: FLAP GAP FAIRING RIVET CALLOUTS
-PAGE   20-4     RV-10      REVISION: 1   DATE: 07/24/14
-Note: The W-1028B Wing Box J-Stiffener - Short and W-1004-L                                                                                               Step 10 (Standard Kit - Continued): When riveting the bottom
-                                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
-Inboard Wing Skin has already been installed in the Quick Build kit.                 MACHINE COUNTERSINK                                                  inboard wing skin to the W-1010-R Inboard Wing Rib, remember to rivet on the nutplates called out
-The remaining instructions in this section are for the left wing only,                                                                                    on Page 20-6, Figure 2. Do not rivet the outboard double row of rivets that will adjoin the
-the right wing is a mirror of the left.                                                                                                                   W-1005-L Bottom Outboard Wing Skin yet!
-                                                                                                                               W-1004-L
-Step 1 (Quick Build): Fabricate the W-1028A Wing Box J-Stiffener -                                                                                        Step 11: Lay the W-1028A Wing Box J-Stiffener - Long into the J-stiffener notch in the wing ribs. Cleco the W-1005-L Bottom
-Long by cutting a piece of J-channel, 92 1/4 inches long. Draw                                                                                            Outbd Wing Skin to the bottom flange of the rear spar, to the aft half of the wing ribs and to the J-stiffeners. Begin riveting per
-a centerline on the flange as shown in Figure 1.                                                                                                          the callout in Figure 2 and work forward, inboard and outboard, leaving the three outboard most ribs unriveted. Rivet callouts
-                                                                                                                                                          are found on Page 20-6, Figure 2 and Figure 3.
-Draw a similar centerline on the portion of the W-1028B Wing Box
-J-Stiffener - Short that protrudes from beneath the installed W-1004-L                                                                                                                                   Step 12: Cleco the W-1005-L Bottom Outbd Wing Skin to the main spar
-                                                                                                                                                                                  START RIVETING         assembly and rib that comprises the next rib bay immediately outboard of the
-Bottom Inboard Wing Skin.                                                                                                                                                         POINT FOR              riveted portion of the skin. Remove all clecoes from the two outboard rib bays.
-                                                                                                                                                                                  STEP 11                Carefully, so as not to form a kink, pull the unclecoed outboard portion of the
-                                                                                                                                                                                                         bottom outbd wing skin back to gain access and rivet the rib bay. Rivet callouts
-                                                                                                                                                                                                         are found on Page 20-6, Figure 2 and Figure 3. Repeat this step on each
-                                                                                                                                                                                                         remaining rib bay.
+Step 2: Place the wing top face down onto a padded surface. Insert the W-1028A Wing Box J-Stiffener - Long into the J-stiffener cutout in the wing ribs.
 
+Step 3 (Standard Kit): Insert the W-1028B Wing Box J-Stiffener - Short into the J-stiffener cutout in the wing ribs. Cleco the W-1004-L Bottom Inboard Wing Skin to the main spar, rear spar, wing ribs and stiffener.
 
+Step 3 (Quick Build Kit): Align the outboard edge of the W-1028A Wing Box J-Stiffener - Long with the web of the W-1012-R Outboard Wing Rib, then clamp the webs of both J-Stiffeners together where they overlap (Check that the rib is straight).
 
-                                                                                                                                                                         RIVET
-                                                                                                                                                                        STEP 11
-                                                                                                                                                                                                                                              W-1005-L
-                                                                                W-1010-R
-         FIGURE 1: J-STIFFENER DETAIL
-Step 2: Place the wing top face down onto a padded surface.
-Insert the W-1028A Wing Box J-Stiffener - Long into the
-J-stiffener cutout in the wing ribs.                                                                                                                                   W-1028B
+Step 4: Cleco the W-1005-L Bottom Outbd Wing Skin to the spars, ribs, stiffeners and bottom inbd wing skin (note the outboard skin overlaps the inboard skin)
 
-Step 3 (Standard Kit): Insert the W-1028B Wing Box
-J-Stiffener - Short into the J-stiffener cutout in the wing ribs.                                                                                                                                                             RIVET
-Cleco the W-1004-L Bottom Inboard Wing Skin to the main spar,                                                                                                                                                                STEP 12
-rear spar, wing ribs and stiffener.
+Step 5 (Standard Kit): Final-Drill #40 all the common holes between the W-1004-L and W-1005-L Bottom Wing Skins and the W-1028A and W-1028B Wing Box J-Stiffeners.
 
-Step 3 (Quick Build Kit): Align the outboard edge of the W-1028A
-Wing Box J-Stiffener - Long with the web of the W-1012-R Outboard
-Wing Rib, then clamp the webs of both J-Stiffeners together                                                                                                                                                      W-1028A
-where they overlap (Check that the rib is straight).
+Step 5 (Quick Build Kit): Align the line drawn on the W-1028A Wing Box J-Stiffener - Long with the center of the holes common to the line in the bottom wing skins.
 
-Step 4: Cleco the W-1005-L Bottom Outbd Wing Skin to the spars, ribs, stiffeners
-and bottom inbd wing skin (note the outboard skin overlaps the inboard skin)
-
-Step 5 (Standard Kit): Final-Drill #40 all the common holes between the W-1004-L and
-W-1005-L Bottom Wing Skins and the W-1028A and W-1028B Wing Box J-Stiffeners.
-
-Step 5 (Quick Build Kit): Align the line drawn on the W-1028A Wing Box J-Stiffener - Long
-with the center of the holes common to the line in the bottom wing skins.                          FIGURE 2: INSTALLING
-                                                                                                  THE BOTTOM WING SKINS
 Match-Drill #40 the bottom outbd wing skin to both the wing box stiffeners.
 
-Step 6: Final-Drill #40 all the holes that are common to the bottom wing skins, spars and ribs of the wing. Final-Drill #19 the screw holes for the
-nutplates called out on Page 20-6, Figure 2, that will be installed along the inboard edge of the W-1004-L Bottom Inbd Wing Skin. Match-Drill #40
-the attach holes for these nutplates into the W-1010-R Inboard Wing Rib using the bottom inbd wing skin as a drill guide.
+Step 6: Final-Drill #40 all the holes that are common to the bottom wing skins, spars and ribs of the wing. Final-Drill #19 the screw holes for the nutplates called out on Page 20-6, Figure 2, that will be installed along the inboard edge of the W-1004-L Bottom Inbd Wing Skin. Match-Drill #40 the attach holes for these nutplates into the W-1010-R Inboard Wing Rib using the bottom inbd wing skin as a drill guide.
 
 Step 7: Disassemble the bottom skins and J-stiffeners from the wing assembly.
 
 Step 8: Modify the lap joint between the W-1004-L and W-1005-L Bottom Wing Skins in a similar way as described on Page 16-2, Step 5.
 
-Step 9: Deburr the edges and holes of all parts. Dimple the W-1004-L and W-1005-L Bottom Wing Skins, except the aft most hole common with the aft most inboard nutplate, see Figure 2.
-Dimple the W-1028A and W-1028B Wing Box J-Stiffeners. Dimple the main wing ribs. Prime all parts if/as desired.
+Step 9: Deburr the edges and holes of all parts. Dimple the W-1004-L and W-1005-L Bottom Wing Skins, except the aft most hole common with the aft most inboard nutplate, see Figure 2. Dimple the W-1028A and W-1028B Wing Box J-Stiffeners. Dimple the main wing ribs. Prime all parts if/as desired.
 
-Step 10 (Standard Kit): Lay the W-1028B Wing Box J-Stiffener - Short into the J-stiffener notch in the wing ribs. Cleco the W-1004-L Bottom Inbd Wing Skin to the bottom flange of the rear spar, to
-the aft half of the wing ribs, and to the wing box J-stiffener. Carefully, so as not to form a kink, pull the unclecoed forward portion of the skin back to gain access to the rear spar with a bucking bar.
-                                                                                                                                                                                                                                                                         W-1012-R
-Rivet callouts are found on Page 20-6, Figure 2. Begin riveting at the rear spar in the center of the skin and work forward and outward toward the forward corners. As the riveting proceeds forward,
-gain access for bucking the rivets through the larger lightening holes in the wing ribs and the access holes in the skin.
-                                                                                                                                                                                                                                       DATE: 07/24/14 REVISION: 1   RV-10       PAGE   20-5
-                        VAN'S AIRCRAFT, INC.
-                                                                                                                                                        AN426AD3-3.5       AN426AD3-4.5
+Step 10 (Standard Kit): Lay the W-1028B Wing Box J-Stiffener - Short into the J-stiffener notch in the wing ribs. Cleco the W-1004-L Bottom Inbd Wing Skin to the bottom flange of the rear spar, to the aft half of the wing ribs, and to the wing box J-stiffener. Carefully, so as not to form a kink, pull the unclecoed forward portion of the skin back to gain access to the rear spar with a bucking bar. Rivet callouts are found on Page 20-6, Figure 2. Begin riveting at the rear spar in the center of the skin and work forward and outward toward the forward corners. As the riveting proceeds forward, gain access for bucking the rivets through the larger lightening holes in the wing ribs and the access holes in the skin.
 
-                                                                                                                                                        AN426AD3-4         AN426AD3-5
-   Step 1: Final-Drill #28 the forward row of holes in the W-822PP Wing Access Plate that will be used to attach the plate to the main spar
-   assembly. See Figure 1. Final-Drill #19 the remaining holes that will attach the wing access plate to the bottom skins. Repeat Step 1 for
-   all three wing access plates.
+Step 10 (Standard Kit - Continued): When riveting the bottom inboard wing skin to the W-1010-R Inboard Wing Rib, remember to rivet on the nutplates called out on Page 20-6, Figure 2. Do not rivet the outboard double row of rivets that will adjoin the W-1005-L Bottom Outboard Wing Skin yet!
 
+Step 11: Lay the W-1028A Wing Box J-Stiffener - Long into the J-stiffener notch in the wing ribs. Cleco the W-1005-L Bottom Outbd Wing Skin to the bottom flange of the rear spar, to the aft half of the wing ribs and to the J-stiffeners. Begin riveting per the callout in Figure 2 and work forward, inboard and outboard, leaving the three outboard most ribs unriveted. Rivet callouts are found on Page 20-6, Figure 2 and Figure 3.
 
-                    W-822PP
-                                                                                                                    AN507-6R6,
-                                                                                                                    4 PLACES
+Step 12: Cleco the W-1005-L Bottom Outbd Wing Skin to the main spar assembly and rib that comprises the next rib bay immediately outboard of the riveted portion of the skin. Remove all clecoes from the two outboard rib bays. Carefully, so as not to form a kink, pull the unclecoed outboard portion of the bottom outbd wing skin back to gain access and rivet the rib bay. Rivet callouts are found on Page 20-6, Figure 2 and Figure 3. Repeat this step on each remaining rib bay.
 
+W-1010-R
 
-          AN426AD3-3.5,
-   2 PLACES / NUTPLATE                                                                                              AN509-8R8,
-                                                                                                                    8 PLACES
-                                                                                                                                             K1100-08
+START RIVETING POINT FOR STEP 11
 
+RIVET STEP 11
 
+W-1005-L
 
+W-1028B
 
-                  K1100-08,
-                  8 PLACES
+RIVET STEP 12
 
+W-1028A
 
+W-1012-R
 
+FIGURE 2: INSTALLING THE BOTTOM WING SKINS
 
-                                 FIGURE 1: TYPICAL WING ACCESS PLATE ATTACH
-   Step 2: Deburr the holes and edges on all three W-822PP Wing Access Plates. Dimple the forward row of attach holes on all three wing                              FIGURE 2: BOTTOM INBOARD SKIN RIVET CALLOUTS
-   access plates for the head of a #6 screw. Dimple the remaining holes in all three wing access plates for the head of an #8 screw. Prime
-   the access plates if/as desired.
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 20-5
 
-   Step 3: Rivet the nutplates that will attach the W-822PP Wing Access Plates to the bottom wing skins. See Figure 1.
+=== PAGE 20-6 ===
+VAN'S AIRCRAFT, INC.
 
-   Step 4: Install the W-822PP Wing Access Plates to the two inboard-most locations on the bottom of the wing. Install the outboard-most
-   wing access plate temporarily with two or three fasteners, finger tight (it will be removed later to provide access for installing the aileron                      AN426AD3-3.5       AN426AD3-4.5
-   control system).
-                                                                                                                                                                       AN426AD3-4         AN426AD3-5
+Step 1: Final-Drill #28 the forward row of holes in the W-822PP Wing Access Plate that will be used to attach the plate to the main spar assembly. See Figure 1. Final-Drill #19 the remaining holes that will attach the wing access plate to the bottom skins. Repeat Step 1 for all three wing access plates.
 
+W-822PP
 
+AN507-6R6, 4 PLACES
 
+AN426AD3-3.5, 2 PLACES / NUTPLATE
 
-                  SEE FIGURE 2
-                  INBOARD
-                  BOTTOM SKIN
-                  RIVET CALLOUT
+AN509-8R8, 8 PLACES
 
+K1100-08
 
+K1100-08, 8 PLACES
 
+FIGURE 1: TYPICAL WING ACCESS PLATE ATTACH
 
-                                                                                                           FIGURE 3: OUTBOARD BOTTOM SKIN RIVET CALLOUTS
-PAGE   20-6     RV-10      REVISION: 1   DATE: 07/24/14
-
+Step 2: Deburr the holes and edges on all three W-822PP Wing Access Plates. Dimple the forward row of attach holes on all three wing access plates for the head of a #6 screw. Dimple the remaining holes in all three wing access plates for the head of an #8 screw. Prime the access plates if/as desired.
+
+Step 3: Rivet the nutplates that will attach the W-822PP Wing Access Plates to the bottom wing skins. See Figure 1.
+
+Step 4: Install the W-822PP Wing Access Plates to the two inboard-most locations on the bottom of the wing. Install the outboard-most wing access plate temporarily with two or three fasteners, finger tight (it will be removed later to provide access for installing the aileron control system).
+
+AN426AD3-3.5    AN426AD3-4.5
+AN426AD3-4      AN426AD3-5
+
+SEE FIGURE 2 INBOARD BOTTOM SKIN RIVET CALLOUT
+
+FIGURE 2: BOTTOM INBOARD SKIN RIVET CALLOUTS
+
+AN426AD3-3.5    AN426AD3-4.5
+AN426AD3-4      AN426AD3-5
+
+FIGURE 3: OUTBOARD BOTTOM SKIN RIVET CALLOUTS
+
+PAGE 20-6  RV-10  REVISION: 1  DATE: 07/24/14

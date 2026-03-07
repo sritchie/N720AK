@@ -1,188 +1,72 @@
-                                                                                                                               VAN'S AIRCRAFT, INC.
-
-
-
-
-SECTION 24:
-                                                                                                            AILERON ASSEMBLY
-
-
-
-                                                                                                               A-1006
-                                                                W-1014-L                                       OUTBOARD HINGE BRACKET
-                                                                AILERON
-
-
-WING TIP                                                       BRACKET
-                                                              ASSEMBLY
-                                                                                                                                     W-1016-L
-                                                                                                                                     WING TIP RIB
-
-
-
-
-                                                                           W-1003
-W-1001-L                                                                   TOP OUTBOARD
-LEADING EDGE                                                               WING SKIN
-SKIN
-
-
-
-
-         W-1005-L
-BOTTOM OUTBOARD
-        WING SKIN
-                                                                                      VA-193
-                                                                                      WING TIP LIGHT LENS
-
-               W-1015-L
-               WING TIP
-
-                      LN A650-PR-14          LL RV-10 MR-16
-        POSITION LIGHT AND STROBE        LANDING LIGHT KIT
-               (NOT INCLUDED IN KIT   (NOT INCLUDED IN KIT
-                ORDER FROM VAN'S)      ORDER FROM VAN'S)
-
-
-
-
-                                                                                                                                  DATE:07/24/14 REVISION: 0   RV-10   PAGE   24-1
-                      VAN'S AIRCRAFT, INC.
-                          NOTE: The following instructions are for the left wing tip only. The right wing tip is a mirror of             Step 2: Square the inside edge and corner of the lens recess in the W-1015-L Wing Tip with a file and/or a razor blade to allow the
-                          the left.                                                                                                      lens to lay flush with the wing tip.
-
-  NOTE: Fiberglass will quickly dull tools. Locate and use the tools set aside for use in attaching the empennage fairings               Step 3: Cut the VA-193 Wing Tip Light Lens in half as shown in Figure 4. Determine the right and left lenses by placing them on
-  when working with the fiberglass wing tip.                                                                                             their respective wing tips, then set the VA-193-R Right Lens aside.
-
-  Step 1: Trim away material in the shaded areas from the W-1015 Wing Tip as shown in Figure 1, Figure 2 and Figure 3. This will
-  provide clearance between the wing tip, the W-1014 Outboard Aileron Hinge Bracket Assembly and the aileron assembly. Trim both
-  the top and bottom sides of the wing tip to provide a 3/16 minimum gap between the wing tip and the outboard edge of the aileron
-  assembly (see Figure 1 and Figure 2). Trim the top of the wing tip even with the aft edge of the W-1003 Wing Skin (see Figure 1).
-  Trim the bottom of the wing tip starting with the dimensions given in Figure 2. Check that this trim provides a 3/16 gap between the                                                                                                            CUT IN HALF
-  forward edge of the A-1006 Outboard Hinge Bracket and the wing tip when the aileron is rotated to full up deflection. See Section 23
-  for aileron travel.
-
-
-                                                                     1/16
-                                                                                                W-1015-L
-                                                                                                                                                                                        FIGURE 4: LENS MODIFICATION
-                                                        W-1003
-                                                                                                                                         Step 4: Mark a trim line for the recess onto the VA-193-L Left Lens. Remove and roughly trim the left lens to within 1/8 inch of the
-                                                                                                                                         trim line. Carefully trim the left lens a little at a time to fit the recess until satisfied with the fit, then tape the left lens in place on the
-                                                                                                                                         W-1015-L Wing Tip.
-        W-1015-L
-                                                                                                                                         Step 5: Drill #40 the VA-193-L Left Lens into the W-1015-L Wing Tip at the upper and lower corners using the dimensions given in
-                                                        W-1005-L
-                                                                                                                                         Figure 5. After drilling cleco each hole. Remove the tape and check the fit. Final-Drill #28 both holes in the wing tip and the left lens.
-
-                                                                                                      11                                 Step 6: Match-Drill #40 the nutplate attach pattern into the W-1015-L Wing Tip, orient the nutplate approximately as shown in Figure
-                                                                                                   (APPROX.                              5. Countersink the VA-193-L Left Lens for the head of a #6 flush head screw and the W-1015-L WIng Tip for the AN426AD3
-                                                                                                  MEASURED                               nutplate attach rivets.
-                                                                                                ALONG SURFACE
-                                                                                                   OF PART)                              Step 7: Install the VA-193-L Left Lens using the hardware called out in Figure 5.
-
-
-
-
-                    3/16 MIN.                                 3/16 MIN.
-
-
-
-           FIGURE 1: WING TIP TOP TRIM                               FIGURE 2: WING TIP BOTTOM TRIM                                                                                                                        W-1015-L
-                                                                                                                                                                                                      5/16
-                                                                                                                                                                                                         5/16
-
-                                                                                                                                                                                                                   W-1015-L
-
-
-                                                                                                                                               AN426AD3-4,
-                                                                                                                                                     TYP.                                                                                                                     AN507-6R6,
-                                                                                                                                                         K1000-06,                                                                                                            2 PLACES
-                                                                                                                                                         2 PLACES
-                                                                                                                                                                                                                                  VA-193
-
-
-                                                                                                                                                                                       FIGURE 5: LENS INSTALL
-
-
-
-
-                                                                   FIGURE 3: WING TIP TRIM
-
-
-PAGE   24-2    RV-10     REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                                         VAN'S AIRCRAFT, INC.
-
-
-Step 1: Insert the W-1015-L Wing Tip into the wing assembly. Match-Drill #40 and cleco the wing tip attach holes using the W-1001        Step 5: Attach the W-1015-L Wing Tip to the wing assembly and insert the W-1016-L Wing Tip Rib into the aft edge of the wing tip.
-Leading Edge Skin, W-1003 Top Outbd Wing Skin and the W-1005-L Bottom Outbd Wing Skin as drill guides. Start drilling the                Properly position the wing tip rib to fit snug into the wing tip without distorting the wing tip. Flush the inboard face of the web with the
-forward most holes, then progress towards the trailing edge alternating between the top and bottom holes.                                inboard edges of the wing tip (see Figure 2). With the wing tip rib positioned, mark the ends of the flanges onto the bottom and top
-                                                                                                                                         sides of the wing tip. Using an edge distance of 5/16 layout a rivet pattern on the bottom and top of the wing tip using an
-Step 2: Remove the W-1015-L Wing Tip.                                                                                                    approximate 1 1/2 inch spacing between rivets. See Figure 2.
-
-Step 3: Final-Drill #28 all wing tip attach holes in the W-1001-L Leading Edge Skin, W-1003 Top Outboard Wing Skin and                   Step 6: Drill #40 the forward and aft most holes of the pattern created in Step 5 into the W-1015-L Wing Tip. Draw a centerline on
-W-1005-L Bottom Outboard Wing Skin, then deburr and dimple the holes for #6 flush head screws.                                           the flanges of the W-1016-L Wing Tip Rib and mark the forward most rivet location, 5/16 from the forward edge of the forward upper
-                                                                                                                                         flange. Insert the rib back into the wing tip. Use the marks visible through the holes in the wing tip for alignment. Match-Drill #40 and
-Step 4: Final-Drill the screw attach holes in the W-1015-L Wing Tip to #28. Match-drill #40 the nutplate attach pattern into the         cleco the rib using the guide holes in the wing tip. Drill #40 and cleco the remaining holes through the wing tip into the wing tip rib
-W-1015-L Wing Tip using a nutplate as a drill guide. Use a screw to position the nutplate in each hole, this will keep the nutplates     using the rivet pattern created in Step 5 as a drill guide.
-aligned and will minimize puckering of the wing skins between attach the fasteners when the wing tip is secured to the wing.
-Machine countersink the nutplate attach holes for the head of an AN426AD3 rivet. Rivet the nutplates to the wing tip as shown in         Step 7: Machine countersink the W-1016-L Tip Rib attach holes in the W-1015-L Wing Tip for the head of an AN426AD3 rivet.
-Figure 1. Machine countersink the screw holes in the tip for the corresponding dimple in the wing skin.                                  Remove and deburr the wing tip rib. Prime the tip rib if/as desired. Clean out any debris from the wing tip. Rivet the wing tip rib to
-                                                                                                                                         the wing tip per the callout in Figure 3.
-
-
-
-
-                                                                                                                                                                          5/16,                   5/16,
-                                                                                                                                                                                                                                                                      2 3/8
-                                                                                                                                                                          TYP.                    TYP.
-                                                                                                                                                                                                                                                                   REFERANCE
-                                                                                                                                                                                                                                                                      ONLY
-
-
-                                                                                                                                                                                                                                                                    W-1016-L
-                                                                                                                                                    W-1015-L
-                                                                                                                                                                         FIGURE 2: LAYING OUT THE TIP RIB RIVET PATTERN
-
-
-                                                                                                                           AN426AD3-4,
-                                                                                                                           TYP.
-
-
-
-
-                                                                            K1000-06,                                                                    AN426AD3-4,
-                                                                           42 PLACES                                                                      20 PLACES
-
-                                                                               AN507-6R6,
-                                                                                                                                                                                                                                                               W-1015-L
-                                                                               42 PLACES
-
-
-
-                                                     FIGURE 1: NUTPLATE ATTACH
-                                                                                                                                                                                                                       W-1016-L
-
-
-
-
-                                                                                                                                                                                                                    FIGURE 3: TIP RIB ISO VIEW
-                                                                                                                                                                                                               (TIP RIB SHOWN WITH HIDDEN LINES
-                                                                                                                                                                                                                          FOR CLARITY)
-
-
-
-
-                                                                                                                                                                                                                                DATE: 07/24/14 REVISION: 0   RV-10       PAGE   24-3
-                  VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                     THIS PAGE INTENTIONALLY LEFT BLANK
-
-
-
-
-PAGE   24-4   RV-10   REVISION: 0   DATE: 07/24/14
-
+=== PAGE 1 ===
+VAN'S AIRCRAFT, INC.
+SECTION 24: WING TIP
+RV-10 | PAGE 24-1 | REVISION: 0 | DATE: 07/24/14
+
+[Large isometric drawing showing the left wing tip area from above and behind, with the wing tip, outboard wing skins, aileron, and wing tip light lens visible. Callouts identify:]
+
+AILERON ASSEMBLY
+W-1014-L - AILERON BRACKET ASSEMBLY
+A-1006 - OUTBOARD HINGE BRACKET
+W-1016-L - WING TIP RIB
+W-1001-L - LEADING EDGE SKIN
+W-1003 - TOP OUTBOARD WING SKIN
+W-1005-L - BOTTOM OUTBOARD WING SKIN
+W-1015-L - WING TIP
+LN A650-PR-14 - POSITION LIGHT AND STROBE (NOT INCLUDED IN KIT, ORDER FROM VAN'S)
+LL RV-10 MR-16 - LANDING LIGHT KIT (NOT INCLUDED IN KIT, ORDER FROM VAN'S)
+VA-193 - WING TIP LIGHT LENS
+
+=== PAGE 2 ===
+VAN'S AIRCRAFT, INC.
+RV-10 | PAGE 24-2 | REVISION: 0 | DATE: 07/24/14
+
+NOTE: The following instructions are for the left wing tip only. The right wing tip is a mirror of the left.
+
+NOTE: Fiberglass will quickly dull tools. Locate and use the tools set aside for use in attaching the empennage fairings when working with the fiberglass wing tip.
+
+Step 1: Trim away material in the shaded areas from the W-1015 Wing Tip as shown in Figure 1, Figure 2 and Figure 3. This will provide clearance between the wing tip, the W-1014 Outboard Aileron Hinge Bracket Assembly and the aileron assembly. Trim both the top and bottom sides of the wing tip to provide a 3/16 minimum gap between the wing tip and the outboard edge of the aileron assembly (see Figure 1 and Figure 2). Trim the top of the wing tip even with the aft edge of the W-1003 Wing Skin (see Figure 1). Trim the bottom of the wing tip starting with the dimensions given in Figure 2. Check that this trim provides a 3/16 gap between the forward edge of the A-1006 Outboard Hinge Bracket and the wing tip when the aileron is rotated to full up deflection. See Section 23 for aileron travel.
+
+FIGURE 1: WING TIP TOP TRIM
+[Drawing showing top view of wing tip with shaded trim area. Dimensions:]
+- 1/16 (trim line offset from wing skin edge)
+- W-1015-L
+- W-1003
+- W-1005-L
+- 3/16 MIN. (gap on left side)
+- 3/16 MIN. (gap on right side)
+
+FIGURE 2: WING TIP BOTTOM TRIM
+[Drawing showing bottom view of wing tip with shaded trim area. Dimensions:]
+- W-1015-L
+- 11 (APPROX. MEASURED ALONG SURFACE OF PART)
+
+FIGURE 3: WING TIP TRIM
+[Drawing showing the overall wing tip shape from above with trim lines indicated by dashed lines showing material to be removed from the trailing edge area]
+
+Step 2: Square the inside edge and corner of the lens recess in the W-1015-L Wing Tip with a file and/or a razor blade to allow the lens to lay flush with the wing tip.
+
+Step 3: Cut the VA-193 Wing Tip Light Lens in half as shown in Figure 4. Determine the right and left lenses by placing them on their respective wing tips, then set the VA-193-R Right Lens aside.
+
+FIGURE 4: LENS MODIFICATION
+[Drawing showing the VA-193 lens with a dashed line through the center indicating where to cut]
+- CUT IN HALF
+
+Step 4: Mark a trim line for the recess onto the VA-193-L Left Lens. Remove and roughly trim the left lens to within 1/8 inch of the trim line. Carefully trim the left lens a little at a time to fit the recess until satisfied with the fit, then tape the left lens in place on the W-1015-L Wing Tip.
+
+Step 5: Drill #40 the VA-193-L Left Lens into the W-1015-L Wing Tip at the upper and lower corners using the dimensions given in Figure 5. After drilling cleco each hole. Remove the tape and check the fit. Final-Drill #28 both holes in the wing tip and the left lens.
+
+Step 6: Match-Drill #40 the nutplate attach pattern into the W-1015-L Wing Tip, orient the nutplate approximately as shown in Figure 5. Countersink the VA-193-L Left Lens for the head of a #6 flush head screw and the W-1015-L Wing Tip for the AN426AD3 nutplate attach rivets.
+
+Step 7: Install the VA-193-L Left Lens using the hardware called out in Figure 5.
+
+FIGURE 5: LENS INSTALL
+[Drawing showing the lens installation detail on the wing tip with hardware callouts:]
+- W-1015-L
+- 5/16 (dimension from edge to upper hole)
+- 5/16 (dimension from edge to lower hole)
+- W-1015-L
+- AN426AD3-4, TYP.
+- K1000-06, 2 PLACES
+- VA-193
+- AN507-6R6, 2 PLACES

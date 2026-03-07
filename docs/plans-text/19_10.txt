@@ -1,289 +1,317 @@
-                                                                        VAN'S AIRCRAFT, INC.
+=== PAGE 19-1 ===
+VAN'S AIRCRAFT, INC.
 
+SECTION 19:
+STALL WARNING SYSTEM
 
+VA-195D
+ACCESS HATCH
 
+VA-195C
+ACCESS HATCH DOUBLER
 
-  SECTION 19:
-STALL WARNING
-   SYSTEM                              VA-195D
-                                  ACCESS HATCH
+VA-195A
+MOUNT PLATE
 
+ES E22-50K
+MICRO SWITCH
 
+VA-196
+VANE
 
-                         VA-195C
-           ACCESS HATCH DOUBLER
+VA-195B
+KEEPER PLATE
 
+WH-F1001
+WIRE,
+2 PLACES
 
+W-1001-L
+LEADING EDGE SKIN
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 19-1
 
-            VA-195A
-        MOUNT PLATE
+=== PAGE 19-2 ===
+VAN'S AIRCRAFT, INC.
 
+CAUTION! Only modify the left W-1001-L Leading Edge Skin for the stall warning system and access hatch.
 
+Step 1: Remove the fuel tank from the left wing assembly.
 
+Step 2: Cleco the VA-195C Access Hatch Doubler to the W-1001-L Leading Edge Skin as shown in Figure 1 and Figure 2. Note that the front reference tab has three holes. Ignore the front two holes.
 
-        ES E22-50K
-     MICRO SWITCH
+Step 3: Match-Drill #40 the four corner radius pilot holes and the sixteen VA-195C Access Hatch Doubler attach holes indicated in Figure 2 into the W-1001-L Leading Edge Skin.
 
+Final-Drill #40 the nutplate attach holes along the inside edge of the access hatch doubler.
 
+Step 4: Use a Unibit to enlarge the four corner pilot holes created in Step 3 to 1/2 diameter. Cut between the quadrants of the four corner holes to create the cutout for the access hatch.
 
+Step 5: Remove the reference tabs indicated in Figure 2 from the VA-195C Access Hatch Doubler.
 
-                     VA-196
-                      VANE         VA-195B
-                              KEEPER PLATE
-
+Step 6: Remove the vinyl from the VA-195C Access Hatch Doubler and VA-195D Access Hatch. Deburr the edges and holes of both parts.
 
+FIGURE 1: ACCESS HATCH CUTOUT
+(WING SHOWN UPSIDE DOWN)
 
+1/2 DIAMETER, 4 PLACES
+VA-195C ATTACH HOLES, 16 PLACES
+SCREW HOLE, 10 PLACES
 
-                                             WH-F1001
-                                                 WIRE,
-                                             2 PLACES
-                                                             W-1001-L
-                                                   LEADING EDGE SKIN
-                                                                           DATE: 07/24/14 REVISION: 0   RV-10   PAGE   19-1
-                        VAN'S AIRCRAFT, INC.                                                                            Step 6 (Continued): Dimple the screw holes in the access hatch for the head of a #6 flush head screw. Dimple the screw holes in
-                                                                                                                        the doubler for the dimples in the access hatch. Dimple the remaining holes in both parts and the W-1001-L Leading Edge Skin for
-                                                                                                                        the head of an AN426AD3 Rivet.
+CORNER RADIUS PILOT HOLE 4 PLACES
 
-   CAUTION! Only modify the left W-1001-L Leading Edge Skin for the stall warning system and access hatch.              Prime both parts if/as desired.
+RV-10 REFERENCE HOLE
 
-   Step 1: Remove the fuel tank from the left wing assembly.                                                            Step 7: Rivet the nutplates onto the VA-195C Access Hatch Doubler. See Figure 3.
-
-  Step 2: Cleco the VA-195C Access Hatch Doubler to the                                                                 Rivet the access hatch doubler onto the W-1001-L Leading Edge Skin. See Figure 3.
-  W-1001-L Leading Edge Skin as shown in Figure 1 and
-  Figure 2. Note that the front reference tab has three holes.                                                          Rivet the two holes left open in the leading edge skin and W-1008-R Splice Rib that were used to locate the reference tabs in Step 2
-  Ignore the front two holes.                                                                                           with AN426AD3-4 rivets.
-
-  Step 3: Match-Drill #40 the four corner radius pilot holes                                                            Step 8: Install the VA-195D Access Hatch using the hardware called out in Figure 3.
-  and the sixteen VA-195C Access Hatch Doubler attach
-  holes indicated in Figure 2 into the W-1001-L Leading                                                      VA-195C    Step 9: Final-Drill the aft tooling hole in the W-1008-R Splice Rib to 3/8 diameter. Install the snap bushing indicated in Figure 3.
-  Edge Skin.
-                                                                                                                        Step 10: Final-Drill #40 the two sets of nutplate attach holes near the nose of the W-1008-R Splice Rib.
-  Final-Drill #40 the nutplate attach holes along the inside                                                            Final-Drill the screw holes for these two nutplates to #19. See Figure 3.
-  edge of the access hatch doubler.                                                                          W-1001-L
-                                                                                                                                                                                                                                    AN426AD3-3.5,
-   Step 4: Use a Unibit to enlarge the four corner pilot holes                                                                                                                                                                      2 PLACES / NUTPLATE
-   created in Step 3 to 1/2 diameter. Cut between the                                                                                                                                                                                              K1000-08,
-   quadrants of the four corner holes to create the cutout                                                                                                                                                                                         2 PLACES
-   for the access hatch.
-
-   Step 5: Remove the reference tabs indicated in Figure 2                                                                                           STALL WARNING GUIDE HOLES
-   from the VA-195C Access Hatch Doubler.                                                                                                                                                                                                            AFT
-                                                                                                                                              REMOVE HATCHED AREA                                                                                    TOOLING
-  Step 6: Remove the vinyl from the                              FIGURE 1: ACCESS HATCH CUTOUT                                                    W-1001-L                                                                                           HOLE
-  VA-195C Access Hatch Doubler                                                                                                            (SHOWN CUTAWAY)
-  and VA-195D Access Hatch.                                         (WING SHOWN UPSIDE DOWN)
-  Deburr the edges and holes of
-  both parts.                               1/2 DIAMETER,                            VA-195C ATTACH HOLES, 16 PLACES                                      W-1008-R
-                                               4 PLACES                                         SCREW HOLE, 10 PLACES
-                                                                                                                                                 AN426AD3-3.5,
-                                                                                                                                          2 PLACES / NUTPLATE
-                                         CORNER RADIUS
-                                            PILOT HOLE
-                                              4 PLACES
-                                                                                                                                                              K1100-06,
-                                                   RV-10                                                                                                     10 PLACES
-                                              REFERENCE
-                                                   HOLE
-                                                                                                                                                               AN426AD3-3.5,
-                                                                                                                                                                 16 PLACES
-                                              REFERENCE
-                                                    TAB
-                                                                                                                                                                                   VA-195C                                                          SB375-3
-                                                                                                                        Step 12: Dimple both sets of nutplate attach holes in                                                                   VA-195D
-                                                                                                                        the nose of the W-1008-R Splice Rib.
+REFERENCE TAB
 
-                                                 VA-195C                                                                Step 13: Rivet the nutplates onto the W-1008-R Splice
-                                                                                                                        Rib using the rivets called out in Figure 3.                 AN507-6R6,
-                                             W-1001-L                                                                                                                                10 PLACES
-                                                                                                                        Step 14: Final-Drill #10 both stall warning guide holes
-                                                                                                                        in the W-1001-L Leading Edge Skin. See Figure 3.
+VA-195C
+W-1001-L
 
-                                                                                                                        Step 15: Remove the hatched area as shown in
-                                   CUT OUT PERIMETER                                                                    Figure 3, between the quadrants of the stall warning
-                                          FOR VA-195D                                                                   guide holes with a file. Deburr the final edge.              FIGURE 3: ACCESS HATCH INSTALLATION AND
-                                        ACCESS HATCH                                                                                                                                          SPLICE RIB MODIFICATION
-                                                                                                                                                                                        (SOME PARTS OF THE WING ASSEMBLY
-                                                                        FIGURE 2: SKIN DETAIL
-                                                                      (ALL PARTS SHOWN FLAT)                                                                                              HAVE BEEN OMITTED FOR CLARITY)
-PAGE   19-2     RV-10      REVISION: 1   DATE: 07/24/14
-                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
-Step 1: Final-Drill #31 the holes in the VA-195A Mount Plate and VA-195B Keeper Plate that are used to mount the ES E22-50K             Step 5: Install the Stall Warning Subassembly on the
-Micro Switch. Machine countersink both holes of the mount plates inboard side for the flush head of a #4 screw. See Figure 1.           W-1008-R Splice Rib as shown in Figure 2. The upper screw goes through the slot in the VA-195A Mount
-                                                                                                                                        Plate and allows the angle of the Stall Warning Subassembly to be adjusted. Adjust the subassembly
-Step 2: Final-Drill #19 the hole in the VA-195A Mount Plate and VA-195B Keeper Plate that holds the #8 screw on which the               until the VA-196 Vane activates and deactivates the ES E22-50K micro switch with the minimum travel
-VA-196 Stall Warning Vane pivots. Machine countersink this hole in the mount plate on the inboard side for the flush head of a #8       possible (it is permissible to bend the arm on the micro switch if/as required).
-screw. See Figure 1.
-                                                                                                                                        Step 6: Double check that the VA-196 Vane in the at rest position is perpendicular to the surface of the wing skin. If the vane is
-Step 3: Deburr all holes and edges.                                                                                                     not perpendicular, remove the Stall Warning Subassembly and bend the vane as required. See Figure 3.
+CUT OUT PERIMETER FOR VA-195D ACCESS HATCH
 
-Prime the parts if/as desired.                                                                                                          Step 7: Make the WH-F1001 Wires by cutting two #18 gauge wires 100 inches long. Install an ES DV18-188M female spade
-                                                                                                                                        connector on one end of each wire. Double check that the spade connector is properly installed!
-Step 4: Assemble the Stall Warning Subassembly as shown in Figure 1. Do not over-torque the nut on the screw about which the
-vane pivots. Insure that the vane can rotate freely.                                                                                    Step 8: Install the WH-F1001 Wires to the COM. (common) and N.O. (normally open) terminals of the ES E22-50K Micro Switch.
-                                                                                                                                        Rout the wires inboard through the snap bushing in the W-1008-R Splice Ribs aft tooling hole. See Figure 2.
+FIGURE 2: SKIN DETAIL
+(ALL PARTS SHOWN FLAT)
 
+Step 6 (Continued): Dimple the screw holes in the access hatch for the head of a #6 flush head screw. Dimple the screw holes in the doubler for the dimples in the access hatch. Dimple the remaining holes in both parts and the W-1001-L Leading Edge Skin for the head of an AN426AD3 Rivet.
 
-                                                                                                                                                               AN960-8,                                STALL WARNING
-                                                                                                                                                              2 PLACES                                 SUBASSEMBLY
-                                                                                                                                                    AN515-8R8,
-                                                                                                                                                                                                                              ES DV18-188M,
-                                                                                                                                                     2 PLACES
-                                                                                                           MS24693S10,                                                                                                        2 PLACES
-                                                                                                           2 PLACES
+Prime both parts if/as desired.
 
-                                                                                                                                                                                                                                            W-1008-R
-                                                           OUTBOARD FACE
+Step 7: Rivet the nutplates onto the VA-195C Access Hatch Doubler. See Figure 3.
 
-                                                        AN960-4,
-                                                      14 PLACES                                                                                                                                                                          WH-F1001,
-                                         COMMON                                                                                                                                                                                          2 PLACES
+Rivet the access hatch doubler onto the W-1001-L Leading Edge Skin. See Figure 3.
 
-                                       ES E22-50K
+Rivet the two holes left open in the leading edge skin and W-1008-R Splice Rib that were used to locate the reference tabs in Step 2 with AN426AD3-4 rivets.
 
-                 AN960-4L,                                                                                                          FASTEN WIRE
-                 4 PLACES                                                                                                            TO RIB WITH
-                                                                                                                                    TIE-WRAP OR
-                                                                                                                                     EQUIVALENT
-                VA-195B
-                                                                                                                   MS24694C14
-     MS21044N04,                                                                                     VA-195A
-       2 PLACES                                                                              AN960-8,
-                                                                                             4 PLACES
+Step 8: Install the VA-195D Access Hatch using the hardware called out in Figure 3.
 
-                                                                                               NORMALLY OPEN                                       FIGURE 2: INSTALLING THE STALL WARNING SUBASSEMBLY
-           AN365-832                                                                      NORMALLY CLOSED
-                                                                                                                                                   BEND ARM IF/AS
-                                                                         VA-196                                                                        REQUIRED
+Step 9: Final-Drill the aft tooling hole in the W-1008-R Splice Rib to 3/8 diameter. Install the snap bushing indicated in Figure 3.
 
+Step 10: Final-Drill #40 the two sets of nutplate attach holes near the nose of the W-1008-R Splice Rib.
+Final-Drill the screw holes for these two nutplates to #19. See Figure 3.
 
-                                      FIGURE 1: STALL WARNING SUBASSEMBLY
-                                                                                                                                                                                                                         ES E22-50K
-                                                                                                                                                                    90°
-                                                                                                                                                                                                                            VA-196
-                                                                                                                                          MINIMIZE
-                                                                                                                                          TRAVEL
-                                                                                                                                                                                                                       BOTTOM OF
-                                                                                                                                                                                                                       VANE CUTOUT
+AN426AD3-3.5, 2 PLACES / NUTPLATE
+K1000-08, 2 PLACES
 
+STALL WARNING GUIDE HOLES
 
+REMOVE HATCHED AREA
+W-1001-L (SHOWN CUTAWAY)
 
-                                                                                                                                                    W-1001-L
+W-1008-R
 
+AN426AD3-3.5, 2 PLACES / NUTPLATE
 
-                                                                                                                                                            FIGURE 3: ACTIVATING THE MICRO SWITCH
-                                                                                                                                                                                                                         DATE: 07/24/14 REVISION: 1   RV-10      PAGE   19-3
-                       VAN'S AIRCRAFT, INC.
+K1100-06, 10 PLACES
 
+AN426AD3-3.5, 16 PLACES
 
+AFT TOOLING HOLE
 
-   Step 1: Route both WH-F1001 Wires through the snap bushing in the main spar
-   assembly as shown in Figure 1.
+VA-195C
+SB375-3
+VA-195D
 
-  Step 2: Coil and temporarily tape the wire to a rib in the main rib bay. The wires will be
-  run to the root end of the wing on Page 20-3 after the Pitot Tube has been installed.
+Step 12: Dimple both sets of nutplate attach holes in the nose of the W-1008-R Splice Rib.
 
+Step 13: Rivet the nutplates onto the W-1008-R Splice Rib using the rivets called out in Figure 3.
 
+AN507-6R6, 10 PLACES
 
+Step 14: Final-Drill #10 both stall warning guide holes in the W-1001-L Leading Edge Skin. See Figure 3.
 
-                                                                              WH-F1001,
-                                                                              2 PLACES
+Step 15: Remove the hatched area as shown in Figure 3, between the quadrants of the stall warning guide holes with a file. Deburr the final edge.
 
+FIGURE 3: ACCESS HATCH INSTALLATION AND SPLICE RIB MODIFICATION
+(SOME PARTS OF THE WING ASSEMBLY HAVE BEEN OMITTED FOR CLARITY)
 
+PAGE 19-2  RV-10  REVISION: 1  DATE: 07/24/14
 
+=== PAGE 19-3 ===
+VAN'S AIRCRAFT, INC.
 
-              MAIN SPAR
-              ASSEMBLY
-                             SNAP
-                          BUSHING
+Step 1: Final-Drill #31 the holes in the VA-195A Mount Plate and VA-195B Keeper Plate that are used to mount the ES E22-50K Micro Switch. Machine countersink both holes of the mount plates inboard side for the flush head of a #4 screw. See Figure 1.
 
+Step 2: Final-Drill #19 the hole in the VA-195A Mount Plate and VA-195B Keeper Plate that holds the #8 screw on which the VA-196 Stall Warning Vane pivots. Machine countersink this hole in the mount plate on the inboard side for the flush head of a #8 screw. See Figure 1.
 
+Step 3: Deburr all holes and edges.
 
+Prime the parts if/as desired.
 
-       FIGURE 1: ROUTING WIRES THROUGH THE MAIN SPAR
+Step 4: Assemble the Stall Warning Subassembly as shown in Figure 1. Do not over-torque the nut on the screw about which the vane pivots. Insure that the vane can rotate freely.
 
+MS24693S10, 2 PLACES
 
+OUTBOARD FACE
 
+AN960-4, 14 PLACES
 
-PAGE   19-4    RV-10      REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
- NOTE: Complete this page when wiring the fuselage. The ES Audio Warn may be located in the most                                            Step 5: Install an SB750-10 snap bushing in the F-1042-L Bulkhead
- convenient position. Allow additional wire as required.                                                                                    Side Channel as shown in Figure 1.
+COMMON
 
- Step 1: Position the ES Audio Warn on the upper forward fuselage as shown in Figure 1. Final-Drill #27 the two screw holes in the          Step 6: Make the B8 wire from #18 gauge wire. Install an
- ES Audio Warn into the upper forward fuselage. Deburr holes. See Figure 1.                                                                 ES 421-0108 spade connector on the end of B8. See Page 20-3, Figure 2.
-                                                                                                                                            Double check that the spade connector is properly installed!
- Step 2: Install the ES Audio Warn with the hardware shown in Figure 1.
-                                                                                                                                            Step 7: Route B8 as shown in Figure 1 and as diagrammed in Figure 2. It does not matter which side of the ES E22-50K
- Step 3: Cut a 3 29/32 inch length of MS21266-1N to fit inside a lightening hole in the F-1015B-L Seat Rib Intercostal. Install the strip   switch is connected to the ES PBB-2A CB circuit breaker or the ES Audio Warn.
- of MS21266-1N in the second lightening hole from the bottom. See Figure 1.
-                                                                                                                                            Step 8: Connect ES Audio Warn to the audio system as shown in Figure 2.
- Step 4: Enlarge the wing wire run hole in the F-1070-L
- Mid Side Skin and F-1015A-L Outboard Seat Rib                                                                                                                     Step 9: Test the installation by lifting the VA-196 Vane. A tone should sound when the vane is lifted.
- to a size large enough to accommodate
- the wires coming from the wing. Deburr                                                                                                                            Step 10: When properly adjusted, the stall warning will sound when approximately 10 mph
- the hole then install a snap                                                                                                                                      above actual stall speed. Flight test and make adjustments as needed. Bend the
- bushing of appropriate size.                                                                                                                                      VA-196 Vane up for higher speed activation, and down for lower speed activation.
- See Page 29-15, Figure 1.                                                                                                                                         See Page 19-3 Figure 3.
+ES E22-50K
 
+AN960-4L, 4 PLACES
 
+VA-195B
 
+MS21044N04, 2 PLACES
 
-                                                                                                               LEAVE OPEN
+AN365-832
+
+VA-196
+
+FIGURE 1: STALL WARNING SUBASSEMBLY
+
+Step 5: Install the Stall Warning Subassembly on the W-1008-R Splice Rib as shown in Figure 2. The upper screw goes through the slot in the VA-195A Mount Plate and allows the angle of the Stall Warning Subassembly to be adjusted. Adjust the subassembly until the VA-196 Vane activates and deactivates the ES E22-50K micro switch with the minimum travel possible (it is permissible to bend the arm on the micro switch if/as required).
+
+Step 6: Double check that the VA-196 Vane in the at rest position is perpendicular to the surface of the wing skin. If the vane is not perpendicular, remove the Stall Warning Subassembly and bend the vane as required. See Figure 3.
+
+Step 7: Make the WH-F1001 Wires by cutting two #18 gauge wires 100 inches long. Install an ES DV18-188M female spade connector on one end of each wire. Double check that the spade connector is properly installed!
+
+Step 8: Install the WH-F1001 Wires to the COM. (common) and N.O. (normally open) terminals of the ES E22-50K Micro Switch. Rout the wires inboard through the snap bushing in the W-1008-R Splice Ribs aft tooling hole. See Figure 2.
+
+AN960-8, 2 PLACES
+AN515-8R8, 2 PLACES
+
+STALL WARNING SUBASSEMBLY
+
+ES DV18-188M, 2 PLACES
+
+W-1008-R
+
+WH-F1001, 2 PLACES
+
+FASTEN WIRE TO RIB WITH TIE-WRAP OR EQUIVALENT
+
+MS24694C14
+
+VA-195A
+AN960-8, 4 PLACES
+
+NORMALLY OPEN
+NORMALLY CLOSED
+
+FIGURE 2: INSTALLING THE STALL WARNING SUBASSEMBLY
+
+BEND ARM IF/AS REQUIRED
+
+ES E22-50K
+90°
+VA-196
+
+MINIMIZE TRAVEL
+
+BOTTOM OF VANE CUTOUT
+
+W-1001-L
+
+FIGURE 3: ACTIVATING THE MICRO SWITCH
+
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 19-3
+
+=== PAGE 19-4 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Route both WH-F1001 Wires through the snap bushing in the main spar assembly as shown in Figure 1.
+
+Step 2: Coil and temporarily tape the wire to a rib in the main rib bay. The wires will be run to the root end of the wing on Page 20-3 after the Pitot Tube has been installed.
+
+WH-F1001, 2 PLACES
+
+MAIN SPAR ASSEMBLY
+
+SNAP BUSHING
+
+FIGURE 1: ROUTING WIRES THROUGH THE MAIN SPAR
+
+PAGE 19-4  RV-10  REVISION: 0  DATE: 07/24/14
+
+=== PAGE 19-5 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: Complete this page when wiring the fuselage. The ES Audio Warn may be located in the most convenient position. Allow additional wire as required.
+
+Step 1: Position the ES Audio Warn on the upper forward fuselage as shown in Figure 1. Final-Drill #27 the two screw holes in the ES Audio Warn into the upper forward fuselage. Deburr holes. See Figure 1.
+
+Step 2: Install the ES Audio Warn with the hardware shown in Figure 1.
+
+Step 3: Cut a 3 29/32 inch length of MS21266-1N to fit inside a lightening hole in the F-1015B-L Seat Rib Intercostal. Install the strip of MS21266-1N in the second lightening hole from the bottom. See Figure 1.
+
+Step 4: Enlarge the wing wire run hole in the F-1070-L Mid Side Skin and F-1015A-L Outboard Seat Rib to a size large enough to accommodate the wires coming from the wing. Deburr the hole then install a snap bushing of appropriate size. See Page 29-15, Figure 1.
+
+Step 5: Install an SB750-10 snap bushing in the F-1042-L Bulkhead Side Channel as shown in Figure 1.
+
+Step 6: Make the B8 wire from #18 gauge wire. Install an ES 421-0108 spade connector on the end of B8. See Page 20-3, Figure 2. Double check that the spade connector is properly installed!
+
+Step 7: Route B8 as shown in Figure 1 and as diagrammed in Figure 2. It does not matter which side of the ES E22-50K switch is connected to the ES PBB-2A CB circuit breaker or the ES Audio Warn.
+
+Step 8: Connect ES Audio Warn to the audio system as shown in Figure 2.
+
+Step 9: Test the installation by lifting the VA-196 Vane. A tone should sound when the vane is lifted.
+
+Step 10: When properly adjusted, the stall warning will sound when approximately 10 mph above actual stall speed. Flight test and make adjustments as needed. Bend the VA-196 Vane up for higher speed activation, and down for lower speed activation. See Page 19-3 Figure 3.
+
+LEAVE OPEN
+
 F-1040-L
-                                                                                                                                                     AN515-6R12,
-                                                                                                    ES AUDIO                                         2 PLACES
-                                                                                                       WARN
 
+ES AUDIO WARN
 
+AN515-6R12, 2 PLACES
 
-                                                             ES PBB-2A CB
-                                                      B8
-                                                                                               HW-00100,
-                                                                                               2 PLACES
-F-1013-L                                                   F-1042-L
+ES PBB-2A CB
+B8
 
+HW-00100, 2 PLACES
 
-                                                      SB750-10
+F-1013-L
+F-1042-L
 
+SB750-10
 
-                                                                                                                                                                                                                                AUDIO MIXER/
-                                                                                                                              AN365-632A,                                                       ES 31890                        AUDIO INPUT
-                                                                                                                                2 PLACES                                                                                                                          COMMON
-                                                                                                                                                                                                                                           ES 421-0107
-                                                                                                                                                                                           B8                                                                     TERMINAL
-                                                                                                                                                                                                                                           ES 421-0108
+AN365-632A, 2 PLACES
 
-                                                                                                                                                                                                                           18
+F-1015B-L
+MS21266-1N
 
-                                                                                                                  F-1015B-L
-                                                                                                                                                    ES PBB-2A CB                                           ES 31890
-                                                                                                                   MS21266-1N                  STALL WARNING 2A
-                                                                                                                                             CIRCUIT BREAKER OR                       CIRCUIT BREAKER     NORMALLY OPEN
-                                                                                                                  F-1015A-L                   EQUIVALENT CIRCUIT                      BUS BAR +12V
-                                                                                                                                                                                                                                                            ES E22-50K
-                                                                                                                                              PROTECTION DEVICE                       (TYPICAL INSTALLATION,
-                                                                                                                                            (NOT PROVIDED IN KIT)                     VARIATIONS POSSIBLE)
+F-1015A-L
 
+WING WIRE RUN LOCATION
 
+FIGURE 1: WIRE ROUTING AND BUZZER INSTALLATION
 
-                    WING WIRE RUN
-                         LOCATION
+ES 31890
 
+B8
 
-                                                                                                                                                                        FIGURE 2: STALL WARNING SYSTEM WIRING SCHEMATIC
+ES PBB-2A CB
+STALL WARNING 2A
+CIRCUIT BREAKER OR EQUIVALENT CIRCUIT PROTECTION DEVICE
+(NOT PROVIDED IN KIT)
 
-        FIGURE 1: WIRE ROUTING AND BUZZER INSTALLATION
-                                                                                                                                                                                                                           DATE: 07/24/14 REVISION: 1   RV-10      PAGE   19-5
-                  VAN'S AIRCRAFT, INC.
+18
 
+CIRCUIT BREAKER
+BUS BAR +12V
+(TYPICAL INSTALLATION, VARIATIONS POSSIBLE)
 
+ES 31890
+NORMALLY OPEN
 
+ES 421-0107
+ES 421-0108
 
-                                                     This Page Intentionally Left Blank
+AUDIO MIXER/AUDIO INPUT
 
+COMMON TERMINAL
 
+ES E22-50K
 
+FIGURE 2: STALL WARNING SYSTEM WIRING SCHEMATIC
 
-PAGE   19-6   RV-10   REVISION: 0   DATE: 07/24/14
-
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 19-5
+
+=== PAGE 19-6 ===
+VAN'S AIRCRAFT, INC.
+
+This Page Intentionally Left Blank
+
+PAGE 19-6  RV-10  REVISION: 0  DATE: 07/24/14

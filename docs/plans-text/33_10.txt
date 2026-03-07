@@ -1,654 +1,610 @@
-                                                                                   VAN'S AIRCRAFT, INC.
-
-
+=== PAGE 33-1 ===
+VAN'S AIRCRAFT, INC.
 
 SECTION 33:
-BAGGAGE                                           F-1080
-                                         RIGHT BAGGAGE
-                                                 COVER
+BAGGAGE AREA
 
+[Isometric drawing of baggage area looking aft, with the following part callouts:]
 
+F-1080
+RIGHT BAGGAGE COVER
 
+F-1022A-R
+BAGGAGE FLOOR
 
-AREA                         F-1022A-R
-                             BAGGAGE
-                                FLOOR
+F-10103A-R
+LOWER SEAT HINGE HALF
 
-                F-10103A-R
-              LOWER SEAT
-               HINGE HALF
-   F-1024-R
+F-1024-R
 SEAT FLOOR
 
+F-1006E
+UPPER BAGGAGE BULKHEAD CORRUGATION
 
+F-1006F
+LOWER BAGGAGE BULKHEAD CORRUGATION
 
+F-1031
+UPPER BAGGAGE DOOR SEAL CHANNEL
 
-                                                                                                                F-1006E
-                                                                                                                UPPER BAGGAGE
-                                                                                                                BULKHEAD CORRUGATION
+F-1026
+LOWER BAGGAGE DOOR SEAL CHANNEL
 
-                                                                                                            F-1006F
-                                                                                                            LOWER BAGGAGE
-                                                                                                            BULKHEAD CORRUGATION
+F-1022A-L
+BAGGAGE FLOOR
 
-                                                                                                 F-1031
-                                                                                                 UPPER BAGGAGE DOOR
-                                                                                                 SEAL CHANNEL
+F-1024-L
+SEAT FLOOR
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 33-1
 
+=== PAGE 33-2 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Complete this page for the Standard Kit only.
 
-                                                                                  F-1026
-                                                                                  LOWER BAGGAGE DOOR
-                                                                                  SEAL CHANNEL
+Step 1: Cleco the F-1024-R Seat Floor to the F-1005A Rear Spar Bulkhead, the five F-1017A-R Rear Seat Ribs, and the F-1018-R Outboard Rear Seat Rib, as shown in Figure 1.
 
+Similarly, cleco the F-1024-L Seat Floor to the rear spar bulkhead and rear seat ribs on the left side.
 
-                                                                        F-1022A-L
-                                                                        BAGGAGE FLOOR
+Step 2: Match-Drill #40 the 3/32" nutplate attachment rivet holes along the inboard edge of the F-1024 Seat Floors into the underlying F-1017A Rear Seat Ribs.
 
+Final-Drill #40 all the remaining 3/32" nutplate attachment rivet holes in both seat floors.
 
-                                                           F-1024-L
-                                                           SEAT FLOOR
+Step 3: Final-Drill #19 the center screw holes in the four nutplate hole patterns along the inboard edge of both F-1024 Seat Floors.
 
+Step 4: Except for the holes indicated in Figure 1, final-drill #30 all the 1/8" holes in both seat floors.
 
+[Figure 1 shows F-1024-R, F-1024-L seat floors clecoed in place with callouts:]
+F-1024-R
+F-1018-R
+F-1017A-R, 5 PLACES
+F-1005A
 
-                                                                                        DATE: 07/24/14 REVISION: 0   RV-10   PAGE   33-1
-                         VAN'S AIRCRAFT, INC.
-                                                                F-1024-R                                                                     Step 7: Cleco the F-1022A-L and -R Baggage Floors to the
-                          NOTE: Complete this page                                                                                           F-1006B Bulkhead, the F-1023-L and -R Baggage
-                          for the Standard Kit only.                                                                                         Floor Angles, the F-1019,-1020, and -1021
-  Step 1: Cleco the F-1024-R Seat Floor to the                                                                                               Baggage Ribs, and the F-1024-L and -R
-  F-1005A Rear Spar Bulkhead, the five F-1017A-R                                                                DO NOT FINAL-DRILL           Seat Floors as shown in Figure 3.
-  Rear Seat Ribs, and the F-1018-R                                                                              THESE 1/8" HOLES.
-  Outboard Rear Seat Rib, as                                                                                    BOTH FLOORS                  Cleco the F-10103A
-                                      F-1018-R
-  shown in Figure 1.                                                                                            (STEP 4)                     Lower Seat Hinge
-                                                                                                                                             Halves to the
-  Similarly, cleco the F-1024-L             F-1017A-R                                                                                        baggage floors
-                                            5 PLACES                                                                                         and the F-1034A                                                                                          B
-  Seat Floor to the rear spar
-                                                                                                                                                                                                                                                0   06
-  bulkhead and rear seat ribs                                                                                                                Bulkhead.                                                                                      F-1
-                                            F-1005A
-  on the left side.
-                                                                                                                                                  F-1022A-R
-  Step 2: Match-Drill #40 the 3/32" nutplate
-  attachment rivet holes along the inboard edge
-                                                                                                                                                  F-10103A-R
-  of the F-1024 Seat Floors into the underlying
-  F-1017A Rear Seat Ribs.                                                                                                                         F-1023-R
+DO NOT FINAL-DRILL THESE 1/8" HOLES. BOTH FLOORS (STEP 4)
 
-  Final-Drill #40 all the remaining 3/32" nutplate
-  attachment rivet holes in both seat floors.
-                                                                                                                                                 F-1021-R
-   Step 3: Final-Drill #19 the center screw holes in
-   the four nutplate hole patterns along the inboard
-   edge of both F-1024 Seat Floors.                                                                                                               F-1020-R
+FIGURE 1: CLECOING THE SEAT FLOORS
 
-  Step 4: Except for the holes                                                                                                                   F-1019-R
-                                            F-1024-L
-  indicated in Figure 1, final-drill
-                                                                                                                                                                                                                                                                       F-1006A
-  #30 all the 1/8" holes in both
-                                                                                                                                                  F-1034A
-  seat floors.
+Step 5: Cut two 16" lengths of AN257-P3 and remove the pins. Make the F-10103A-L and -R Lower Seat Hinge Halves using the information given in Figure 2 (don't forget to remove the two eyes indicated in the figure). The information is for the right hinge half, the left hinge half is the mirror of the right.
+Save the pins and unused hinge halves, they are used in Section 42.
 
-                                                            FIGURE 1: CLECOING THE SEAT FLOORS                                                   F-1024-R                                                                                                              F-1022A-L
+Step 6: Locate the F-10103A-R Right Lower Seat Hinge Half on the F-1022-R Baggage Floor as shown in Figure 2, then Match-Drill the holes of the seat floor into the hinge half using an 1/8" drill.
 
-  Step 5: Cut two 16" lengths of AN257-P3 and remove the pins. Make the F-10103A-L and -R Lower Seat Hinge Halves using the
-                                                                                                                                                                                            FIGURE 3: CLECOING THE BAGGAGE FLOORS
-  information given in Figure 2 (don't forget to remove the two eyes indicated in the figure) The information is for the right hinge half,   Step 8: Final-Drill #40, deburr, and dimple the holes in the vertical flange of the two
-  the left hinge half is the mirror of the right.                                                                                            F-1023B Baggage Floor Angles which are common to the F-1070 Mid Side Skins.
-  Save the pins and unused hinge
-  halves, they are used in                                                                                                                   Cleco the baggage floor angles to the mid side skins and F-1022A                     F-1023B-R                F-1070-R   F-1006C
-  Section 42.                                                                                                                                Baggage Floors as shown in Figure 4 (only the F-1023B-R
-                                                                                                                                                                                                                                       F-1022A-R
-                                                                                                                                             Baggage Floor Angle is shown).
-  Step 6: Locate the
-  F-10103A-R Right                                                                                                                           Step 9: Final-Drill #40 all of the 3/32" holes
-  Lower Seat Hinge                                                                                                                           along the inboard edge of the baggage floors common
-  Half on the F-1022-R                                                                                                                       to the F-1019 Inbd Baggage Ribs.                                                           F-10103A-R
-  Baggage Floor as
-  shown in Figure 2, then                                                                                                                    Step 10: Final-Drill #30 the following (only drill the
-  Match-Drill the holes                                                                                                                      holes specified, all other holes will be drilled later):
-  of the seat floor into
-  the hinge half using                                                                                                                       The holes common to the F-1023B Baggage
-  an 1/8" drill.                                                                                                                             Floor Angles and the F-1022A Baggage Floors.
+Repeat this step for the F-10103A-L Left Lower Seat Hinge Half and the F-1022-L Baggage Floor.
 
-  Repeat this step for                                                                                                                       The row of holes common to both
-                                 F-1022-R
-  the F-10103A-L Left                                                                                                                        baggage floors and the F-1034A Bulkhead
-  Lower Seat Hinge Half                                                                                                                      (including the F-10103A Lower Seat
-  and the F-1022-L                                                                                                                           Hinge Halves).
-  Baggage Floor.
-                                                 REMOVE THESE                                                                                                                                                                                                         F-1019-R
-                                                                                                                                             The row of holes along the forward
-                                                     TWO EYES                                                                                edge of the F-1022A Baggage Floors
-                                                                 F-10103A-R                                                                  common to the F-1024 Seat Floors.
-                                                       (MAKE FROM AN257-P3)                                                                                                                F-1024-R                                                            FIGURE 4:
-                                                                                                                                                                                            F-1034A                                                       FINAL-DRILLING THE
-                                                                  FIGURE 2: MAKING THE
-                                                                LOWER SEAT HINGE HALVES                                                                                                                                                                    BAGGAGE FLOORS
-PAGE   33-2     RV-10       REVISION: 0   DATE: 07/24/14
-Step 1 (Quick Build): Separate the F-10100 Baggage Door Shim, shown in Figure 1, into its component                                 Step 5: Trim the shaded area shown in Figure 3 from the F-1031
-                                                                                                                                                                                                               VAN'S AIRCRAFT, INC.
-parts; the F-10100A and F-10100B. (The F-10100A has already been installed as part of the quick build                               Upper Baggage Door Seal Channel.
-                                                                                                                      F-10100A
-kit and can be discarded.) Remove any remaining stubs from the edge of the F-10100B.
+[Figure 2 shows F-10103A-R hinge half with dimensions:]
+F-1022-R
+REMOVE THESE TWO EYES
+F-10103A-R (MAKE FROM AN257-P3)
+7/6
+3/8
+1/4
 
+FIGURE 2: MAKING THE LOWER SEAT HINGE HALVES
 
+Step 7: Cleco the F-1022A-L and -R Baggage Floors to the F-1006B Bulkhead, the F-1023-L and -R Baggage Floor Angles, the F-1019, -1020, and -1021 Baggage Ribs, and the F-1024-L and -R Seat Floors as shown in Figure 3.
 
+Cleco the F-10103A Lower Seat Hinge Halves to the baggage floors and the F-1034A Bulkhead.
 
-                                         FIGURE 1: SEPARATING THE F-10100
-                                                                                                                      F-10100B
-                                               BAGGAGE DOOR SHIM
+[Figure 3 shows baggage floors clecoed in place with callouts:]
+F-1022A-R
+F-10103A-R
+F-1023-R
+F-1021-R
+F-1020-R
+F-1019-R
+F-1034A
+F-1024-R
+F-1006B
+F-1006A
+F-1022A-L
+
+FIGURE 3: CLECOING THE BAGGAGE FLOORS
+
+Step 8: Final-Drill #40, deburr, and dimple the holes in the vertical flange of the two F-1023B Baggage Floor Angles which are common to the F-1070 Mid Side Skins.
+
+Cleco the baggage floor angles to the mid side skins and F-1022A Baggage Floors as shown in Figure 4 (only the F-1023B-R Baggage Floor Angle is shown).
+
+[Figure 4 shows:]
+F-1023B-R
+F-1070-R
+F-1006C
+F-1022A-R
+F-10103A-R
+F-1019-R
+
+Step 9: Final-Drill #40 all of the 3/32" holes along the inboard edge of the baggage floors common to the F-1019 Inbd Baggage Ribs.
+
+Step 10: Final-Drill #30 the following (only drill the holes specified, all other holes will be drilled later):
+
+The holes common to the F-1023B Baggage Floor Angles and the F-1022A Baggage Floors.
+
+The row of holes common to both baggage floors and the F-1034A Bulkhead (including the F-10103A Lower Seat Hinge Halves).
+
+The row of holes along the forward edge of the F-1022A Baggage Floors common to the F-1024 Seat Floors.
+
+FIGURE 4: FINAL-DRILLING THE BAGGAGE FLOORS
+
+F-1024-R
+F-1034A
+
+PAGE 33-2  RV-10  REVISION: 0  DATE: 07/24/14
+
+=== PAGE 33-3 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1 (Quick Build): Separate the F-10100 Baggage Door Shim, shown in Figure 1, into its component parts; the F-10100A and F-10100B. (The F-10100A has already been installed as part of the quick build kit and can be discarded.) Remove any remaining stubs from the edge of the F-10100B.
+
+[Figure 1 shows F-10100 shim separated into two parts:]
+F-10100A
+F-10100B
+
+FIGURE 1: SEPARATING THE F-10100 BAGGAGE DOOR SHIM
 
 NOTE: Complete the rest of this page for both the Standard and Quickbuild Kits.
 
-Step 2: Final-Drill #40 and dimple the holes in the F-10100B Baggage Door Shim and F-1026 Lower Baggage Door Seal Channel
-which are common to the F-1070-L and F-1073-L Side Skins. See Figure 2. The baggage door shim is not symmetrical, be sure to
-dimple in the correct direction.
-                                                                                                                                                                                                         FIGURE 3: TRIMMING
-Step 3: Cleco the F-1026 Lower Baggage Door Seal Channel and the F-10100B Baggage Door Shim to the F-1070-L and F-1073-L                                                                              THE F-1031 UPPER BAGGAGE
-Side Skins as shown in Figure 2. Cleco the two end-tabs of the lower baggage door seal channel to the F-1006A Bulkhead and the                                                                           DOOR SEAL CHANNEL
-F-1022A-L Baggage Floor.
+Step 2: Final-Drill #40 and dimple the holes in the F-10100B Baggage Door Shim and F-1026 Lower Baggage Door Seal Channel which are common to the F-1070-L and F-1073-L Side Skins. See Figure 2. The baggage door shim is not symmetrical, be sure to dimple in the correct direction.
 
-Step 4: There are two holes in the bottom end-tab of the F-1026 Lower Baggage Door Seal Channel. Match-Drill #30 the inboard        Step 6: Final-Drill #30 the hole in the outboard flange of the F-1031 Upper Baggage Door Seal Channel which is common to the
-hole into the F-1022A-L Baggage Floor and final-drill the outboard hole.                                                            outboard hole in the end tab of the F-1026 Lower Baggage Door Seal Channel. See Figure 4.
+Step 3: Cleco the F-1026 Lower Baggage Door Seal Channel and the F-10100B Baggage Door Shim to the F-1070-L and F-1073-L Side Skins as shown in Figure 2. Cleco the two end-tabs of the lower baggage door seal channel to the F-1006A Bulkhead and the F-1022A-L Baggage Floor.
 
-Final-Drill #30 the two holes common to the top end-tab of the lower baggage door seal channel and the F-1006A Bulkhead.            Step 7: Cleco the F-1031 Upper Baggage
-                                                                                                                                    Door Seal Channel to the F-1006A
-                                                                                                                                    Bulkhead and F-1026 Lower Baggage
-                                                                                                                                    Door Seal Channel as shown in
-                                                                       F-1006A                                                      Figure 4.                                             F-1006A
+Step 4: There are two holes in the bottom end-tab of the F-1026 Lower Baggage Door Seal Channel. Match-Drill #30 the inboard hole into the F-1022A-L Baggage Floor and final-drill the outboard hole.
 
-                                                                                                                                    Step 8: Cleco the F-1027 Close-Out
-                                                                                                                                    Panel to the F-1026 Lower Baggage
-                                                                                                                                    Door Seal Channel and the F-1006A
-                                                                                                                                    Bulkhead.
+Final-Drill #30 the two holes common to the top end-tab of the lower baggage door seal channel and the F-1006A Bulkhead.
 
-                                                                                                                                    Step 9: Match-Drill #30 the holes in      FINAL-DRILL HOLE IN
-                                                                             F-1070-L AND F-1073-L
-                                                                                                                                    the lower flange of the F-1027 Close-      F-1031 COMMON TO
-                                                                                                                                    Out Panel into the F-1022A-L                       THIS HOLE
-                                                                                                                                                                                                                                                 F-1031
-                                                                                                                                    Baggage Floor.
-                                                                                  F-10100B
-                                                                                                                                    Final-Drill #30 the holes common to
-                                                                                                                                    the vertical flange of the close-out
-                                                                                       F-1026                                       panel and the F-1006A Bulkhead,
-                                                                                                                                    and the holes common to the close-
-                                                                                                                                    out panel and the F-1026 Lower
-                                                                                                                                    Baggage Door Seal Channel.
+[Figure 2 shows lower baggage door seal channel installed:]
+F-1006A
+F-1070-L AND F-1073-L
+F-10100B
+F-1026
+MATCH-DRILL
+F-1022A-L
 
-                                                                                                                                    Step 10: Final-Drill #30 the holes
-                                                                                                                                    common to the F-1031 Upper
-                                                                                                                                    Baggage Door Seal Channel and
-                                                                                                                                    the F-1006A Bulkhead.                       F-1027
-                                                                                                                                                                                                                                                 F-1026
-                                                                                                        MATCH-DRILL
-                                                                                                                        F-1022A-L
+FIGURE 2: DRILLING THE LOWER BAGGAGE DOOR SEAL CHANNEL
 
-                                                                                                                                                                                                                                                          F-1022A-L
+Step 5: Trim the shaded area shown in Figure 3 from the F-1031 Upper Baggage Door Seal Channel.
 
+[Figure 3 shows F-1031 with shaded area to trim]
 
+FIGURE 3: TRIMMING THE F-1031 UPPER BAGGAGE DOOR SEAL CHANNEL
 
+Step 6: Final-Drill #30 the hole in the outboard flange of the F-1031 Upper Baggage Door Seal Channel which is common to the end tab of the F-1026 Lower Baggage Door Seal Channel. See Figure 4.
 
-                                                                                                                                                                            FIGURE 4: UPPER BAGGAGE
-                                                FIGURE 2: DRILLING THE LOWER                                                                                                 DOOR SEAL CHANNEL AND
-                                                BAGGAGE DOOR SEAL CHANNEL                                                                                                       CLOSE-OUT PANEL
-                                                                                                                                                                                                                    DATE: 07/24/14 REVISION: 0    RV-10      PAGE   33-3
-                       VAN'S AIRCRAFT, INC.                                                                                      Step 4: Final-Drill #40 the 3/32" holes in the aft flange of both F-1022A Baggage Floors.
+Step 7: Cleco the F-1031 Upper Baggage Door Seal Channel to the F-1006A Bulkhead and F-1026 Lower Baggage Door Seal Channel as shown in Figure 4.
 
-                                                                                                                                 Step 5: Final-Drill #30 the three rows of holes in both F-1022A Baggage
-                                                                                                                                 Floors indicated in Figure 3.
+Step 8: Cleco the F-1027 Close-Out Panel to the F-1026 Lower Baggage Door Seal Channel and the F-1006A Bulkhead.
 
-  Step 1 (Standard Kit): One of the two F-1022                                                                                   Step 6: Deburr the holes of all parts
-  Baggage Floor Stiffeners is shown (unbent) in                                                                                  drilled in this section.
-  Figure 1. Separate them into their component
-  parts (F-1022B, C, D, E, F, and G) by removing
-  the shaded areas depicted in the figure.
+Step 9: Match-Drill #30 the holes in the lower flange of the F-1027 Close-Out Panel into the F-1022A-L Baggage Floor.
 
+Final-Drill #30 the holes common to the vertical flange of the close-out panel and the F-1006A Bulkhead, and the holes common to the close-out panel and the F-1026 Lower Baggage Door Seal Channel.
 
+Step 10: Final-Drill #30 the holes common to the F-1031 Upper Baggage Door Seal Channel and the F-1006A Bulkhead.
 
+[Figure 4 shows upper baggage door seal channel and close-out panel:]
+F-1006A
+FINAL-DRILL HOLE IN F-1031 COMMON TO THIS HOLE
+F-1031
+F-1027
+F-1026
+F-1022A-L
 
-                                                                                                                                                                                                                                         FINAL-DRILL #30
+FIGURE 4: UPPER BAGGAGE DOOR SEAL CHANNEL AND CLOSE-OUT PANEL
 
-
-                                                                                                                                 NOTE: Now begins the task of dimpling. In the                                                FIGURE 3: DRILLING THE
-                                                                                                                                 following steps, to facilitate hole identification, many of
-                                                                                                                                 the parts being dimpled are shown in their installed position.                              F-1022A BAGGAGE FLOORS
-
-                                                                                                                                 Step 7: Dimple the #40 nutplate attachment rivet holes near the outboard edge of both F-1024 Seat Floors (see Figure 4). Do not
-                                                                                                                                 dimple the #19 holes.
-
-                                                                                                                                 Step 8: Dimple the holes along the forward edge of both F-1024 Seat Floors (see Figure 4) and the common holes in the underlying
-  F-1022B               F-1022C                 F-1022D                   F-1022E             F-1022F         F-1022G            flange of the F-1005A Rear Spar Bulkhead. The #19 holes are dimpled for AN509 flush head screws.
-
-                                                                                                                                 Step 9: Dimple the #30 and #40 holes along the inboard edge of both F-1024 Seat Floors (see Figure 4) and the common holes in the
-                                             FIGURE 1: SEPARATING THE F-1022                                                     underlying flange of the F-1017A Rear Seat Ribs. Do not dimple the #19 holes.
-
-                                               BAGGAGE FLOOR STIFFENERS                                                          Step 10: There are nutplate hole patterns punched in the top flange of the F-1005A and F-1034A Bulkheads between the F-1024 Seat
-                                                                                                                                 Floors. Of these holes, dimple the #40 holes in the F-1034A Bulkhead and the #40 and #19 holes in the F-1005A bulkhead.
-   Step 2 (Standard and Quickbuild Kit): Remove from the fuselage all of the parts clecoed in this section.
-
-  NOTE: Complete the rest of this page for the Standard Kit only.
-
-  Step 3: As shown in Figure 2, cleco the F-1022 Baggage Floor Stiffeners to the bottom of the F-1022A-L and -R Baggage Floors                                                      STEP 7
-  (only the right baggage floor is shown in the figure), then final-drill #40 the holes common to the parts.                                              STEP 8
-                                                                                                                                                                 F-1024-R
-                                                               F-1022B
-
-
-                                                                                 F-1022C
-       F-1022A-R
-                                                                                                  F-1022D
-                                                                                                                                                                                                                                                 F-1034A
-
-
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 33-3
 
-                                                                                                                                                                                                                       STEP 9
-
-
-
-
-                                                                                                                                                                                                                                                F-1017A
-                                   F-1022E
-
-                                                         F-1022F                                FIGURE 2: CLECOING
-                                                                              F-1022G           THE BAGGAGE FLOOR                                                                                                            FIGURE 4: DIMPLING
-                                                                                                    STIFFENERS                                                                                                                THE SEAT FLOORS
-                                                                                                                                                F-1005A
-PAGE   33-4    RV-10      REVISION: 0   DATE: 07/24/14
- Step 1 (Standard Kit): Dimple the #30 and #40 holes in both baggage floors (including the holes in the aft flange) except for the following:   Step 8 (Standard Kit): Dimple the holes in the F-1022
-                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
-                                                                                                                                                Baggage Floor Stiffeners.
- Do not dimple the holes in the F-1022A-L Baggage Floor which are common to the bottom flange of the F-1027 Close-Out Panel
- (see Figure 2 below), or the single hole indicated on the bottom of Page 33-6, Figure 2.                                                       Step 9 (Standard and Quickbuild Kit): Prime all of the parts that have been drilled and dimpled up
-                                                                                                                                                to this point if/ as desired.
- Do not dimple the holes in both baggage floors indicated in Figure 1.
-                                                                                                                                                NOTE: The seat and baggage floors will now be riveted. Although possible later, now is a
- Step 2 (Standard Kit): Dimple the #19 holes along the inboard edge of both F-1022A Baggage                                                     good time to run any cables or wires that need to pass under the seat and baggage floors.
- Floors (common to the F-1019 Inbd Baggage Ribs) for AN509 flush head screws.
-                                                                                                                                                Step 10 (Standard Kit): Rivet the F-1022 Baggage
- Step 3 (Standard Kit): Dimple all of the holes in the top flange of the F-1019                                                                 Floor Stiffeners to the F-1022A -L and -R
- Inbd Baggage Ribs for the dimples in the F-1022A Baggage Floors.                                                                               Baggage Floors using the rivets                              F-1022B
-                                                                                                                                                called-out in Figure 3.
- Step 4 (Standard Kit):
-                                                                                                                                                                                                                                F-1022C
- Dimple the #30 holes in
-                                           F-1023B
- the F-1023B Baggage                                                                                                                            F-1022A-R
- Floor Angles which                                                                                                                                                                                                                                 F-1022D
- are common to the
- F-1022A Baggage
- Floor.                                                   DO NOT DIMPLE                                                                                                                                                                                       AN426AD3-3.5
-                                                          THESE HOLES                                                                                                                                                                                         TYP
+=== PAGE 33-4 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1 (Standard Kit): One of the two F-1022 Baggage Floor Stiffeners is shown (unbent) in Figure 1. Separate them into their component parts (F-1022B, C, D, E, F, and G) by removing the shaded areas depicted in the figure.
 
+[Figure 1 shows F-1022 stiffener with shaded areas and break lines, with three lightening holes visible]
 
-                                                                                                                              F-1022A-R
-                                                                                                                              F-1019-R
+FIGURE 1: SEPARATING THE F-1022 BAGGAGE FLOOR STIFFENERS
 
+[Component parts labeled:]
+F-1022B    F-1022C    F-1022D    F-1022E    F-1022F    F-1022G
 
+Step 2 (Standard and Quickbuild Kit): Remove from the fuselage all of the parts clecoed in this section.
 
+NOTE: Complete the rest of this page for the Standard Kit only.
 
-                                                                                                                                                                                F-1022E
-                                                                                                                                                                                                                                         FIGURE 3: RIVETING
-                                                                                                     FIGURE 1: DIMPLING
-                                                                                                                                                                                                       F-1022F                          THE BAGGAGE FLOOR
-                                                                                                    THE BAGGAGE FLOORS
-                                                                                                                                                                                                                            F-1022G         STIFFENERS
-                                                                                                                                                Step 11 (Standard Kit): Rivet the nutplates shown in
- Step 5 (Standard and Quickbuild Kit): Dimple (flush                                                                                            Figure 4 to the bottom of both F-1024 Seat Floors
-                                                                                                  DIMPLE THIS ROW OF HOLES IN                   using the rivets called-out.
- on the forward side) the three holes in the vertical
-                                                                                                  F-1027 AND F-1031
- flange of the F-1027 Close-Out Panel, the four holes
- in the inboard vertical flange of the F-1031 Upper
- Baggage Door Seal Channel, and the holes in the
- F-1006A Bulkhead which are common to these
- holes.
+Step 3: As shown in Figure 2, cleco the F-1022 Baggage Floor Stiffeners to the bottom of the F-1022A-L and -R Baggage Floors (only the right baggage floor is shown in the figure), then final-drill #40 the holes common to the parts.
 
- Step 6 (Standard and Quickbuild Kit): Final-Drill #40
- and machine countersink (flush on the forward side                                                      F-1031
-                                                                   F-1006A
- for AN426AD3 rivets) the four 3/32" nutplate
- attachment rivet holes in the F-1031 Upper Baggage
- Door Seal Channel.
+[Figure 2 shows stiffeners clecoed to baggage floor:]
+F-1022B
+F-1022C
+F-1022D
+F-1022A-R
+F-1022E
+F-1022F
+F-1022G
 
- Step 7 (Standard and Quickbuild Kit): Dimple the
- two holes in the lower end-tab of the F-1026 Lower
- Baggage Door Seal Channel.
-                                                                                                                  F-1027                        AN426AD3-3.5
-                                                                                                                                                        TYP
-                                                                                                                           F-1026                                                                                                             BOTTOM SURFACE OF
-                                                                                                                                                                                                                                              F-1024-R
-                                                               F-1022A-L
-                                                                                                                                                                   K1000-08
-                                                                                                                                                                  6 PLACES
-                                                                                                                             DIMPLE HOLES
-                                                                                                                             IN END-TAB
- FIGURE 2: DIMPLING THE UPPER                                                                                                                                                                                               MS21051-L08
-
-AND LOWER BAGGAGE DOOR SEAL                                                                                                                                  FIGURE 4: RIVETING NUTPLATES
-CHANNELS AND CLOSE-OUT PANEL                                                                                                                                      TO THE SEAT FLOORS
-                                                                                                                                                                                                                       DATE: 07/24/14 REVISION: 0     RV-10      PAGE   33-5
-                     VAN'S AIRCRAFT, INC.
-
-
-
-  NOTE: The remainder of this section is to be            Step 2: Rivet in place
-  completed for both the Standard and Quickbuild          the F-1024 Seat Floors,
-  Kits.                                                   the F-1022A Baggage
-                                                          Floors, and the
-                                                          F-10103A Lower Seat
-  Step 1: Rivet the two nutplates to the F-1031 Upper     Hinge Halves using only
-  Baggage Door Seal Channel using the rivets called-out   the rivets called-out in
-  in Figure 4.                                            Figure 1. The remainder
-                                                          of the seat floors are
-                                                          riveted in a later section.
-
-
-
-
-                      F-1031
-
-
-
-                                                                     F-1024-R
-
-        K1000-3
-
-
-
-
-                                                                                        LP4-3
-        AN426AD3-3.5                                                                                   F-10103A-R
- 2 PLACES/ NUTPLATE                                                                                                                          F-1022A-R
-                                                                                        CS4-4
-                                                                                                                                             F-1022A-L
-                                                                                                       F-10103A-L
-                                                                                        AN426AD3-3.5
-
-
-
-
-                                                                     F-1024-L
-  FIGURE 1: RIVETING NUTPLATES
-  TO THE UPPER BAGGAGE DOOR
-          SEAL CHANNEL
-
+FIGURE 2: CLECOING THE BAGGAGE FLOOR STIFFENERS
 
+Step 4: Final-Drill #40 the 3/32" holes in the aft flange of both F-1022A Baggage Floors.
 
+Step 5: Final-Drill #30 the three rows of holes in both F-1022A Baggage Floors indicated in Figure 3.
 
-                                                                                                                    DO NOT DIMPLE          FIGURE 2: RIVETING
-                                                                                                                    OR RIVET THIS HOLE   THE BAGGAGE AND SEAT
-                                                                                                                                                FLOORS
-PAGE   33-6   RV-10     REVISION: 0   DATE: 07/24/14
-Step 1: Install the nutplates shown in                                                                                        Step 3: Rivet the F-1026
-                                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
-Figure 1 using the rivets called-out.                                                                                         Lower Baggage Door Seal           F-1006A
-                                                                             K1000-08                                         Channel and the F-10100B                                               LP4-3
-Step 2: Set the five rivets in the aft                                       8 PLACES ALONG                   MS21051-L08     Baggage Door Shim to the
-flange of both F-1022A Baggage                                               F-1006B                                          F-1070-L and F-1073-L Side
-Floors using the rivets called-out in                                                                                         Skins using the rivets
-                                                                                                                                                                                                             F-10100B
-Figure 1.                                                                                                                     called-out in Figure 3.
+Step 6: Deburr the holes of all parts drilled in this section.
 
-            AN426AD3-4.5                                                                                                      Rivet the bottom end-tab of
-   BOTH ENDS OF F-1006B.                                                                                                      the lower baggage door seal                                                        F-1026
-    ALL OTHER NUTPLATE                                                                                                        channel to the F-1022A-L
-          ATTACH RIVETS                                                                                                       Baggage Floor and the top
-             AN426AD3-4                                                                                                       end-tab to the F-1006A                                                                    F-1070-L AND F-1073-L
-                                                                                                                              Bulkhead using the rivets
-               AN426AD3-3.5                                                                                                   called-out in the figure. Do                                                                    AN426AD3-4.5
-           5 PLACES/ FLOOR                                                                                                    not set a rivet in the outboard                                                                 ALL F-1026 TO F-10100B
-                                                                                                                              hole of the top end-tab.                                                                        TO F-1070-L AND F-1073-L
-                                                                                                                                                                                                                              RIVETS
-                    F-1022A-R
-                                                                                                                                                                                                                                      CS4-4
-                                                                                                                                                                                                                                                F-1022A-L
-                   K1100-08
-            ALONG INBOARD
-            EDGES OF BOTH                                                                                                                        FIGURE 3: RIVETING THE LOWER
-                    F-1022A
-                                                                                                                                                 BAGGAGE DOOR SEAL CHANNEL
+[Figure 3 shows F-1022A baggage floors with rows of holes indicated:]
+FINAL-DRILL #30
 
+FIGURE 3: DRILLING THE F-1022A BAGGAGE FLOORS
 
-                                                                                                                              Step 4: Rivet the F-1031 Upper Baggage Door Seal Channel to the F-1006B Bulkhead and to the top end-tab of the F-1026 Lower
-                                                                                                                  F-1006B     Baggage Door Seal Channel using the rivets
-                                                                                                                              called-out in Figure 4.
-                                                                                                             F-1022A-L                                                             F-1006A
-                                                                                                                              Step 5: Rivet the F-1027 Close-Out Panel
-                                                                                                                              to the F-1026 Lower Baggage Door Seal
-                                                                                                                              Channel, to the F-1022A-L Baggage Floor,
-                                                                                                                              and to the F-1006A Bulkhead using the
-Step 2: Rivet the two F-1023B Baggage Floor Angles to the F-1022A Baggage Floors and F-1070 Mid Side Skins using the rivets   rivets called-out in Figure 4.
-called-out in Figure 2.
-                                                                                                                                                                LP4-3
-                                                                                         F-1023B-R            F-1022A-R                       OUTBOARD FLANGE OF
-                                                                                                                                            F-1031 T0 F-1006A RIVETS                                                                      F-1031
-                                                                                                                                                          AN426AD4-4
-                                                                                                                                                INBOARD FLANGE OF
-                                 F-1070-R                                                                                                   F-1031 T0 F-1006A RIVETS
+NOTE: Now begins the task of dimpling. In the following steps, to facilitate hole identification, many of the parts being dimpled are shown in their installed position.
 
-                                                                                                                                                                   LP4-3
-                                                                                                                                                          ALL F-1027 TO
-                                                                                                                                                          F-1026 RIVETS
+Step 7: Dimple the #40 nutplate attachment rivet holes near the outboard edge of both F-1024 Seat Floors (see Figure 4). Do not dimple the #19 holes.
 
+Step 8: Dimple the holes along the forward edge of both F-1024 Seat Floors (see Figure 4) and the common holes in the underlying flange of the F-1005A Rear Spar Bulkhead. The #19 holes are dimpled for AN509 flush head screws.
 
-                            AN426AD3-3.5                                                                 CS4-4
-                          ALL F-1023B TO                                                                 ALL F-1023B TO                                          F-1027
-                           F-1070 RIVETS                                                                 F-1022A RIVETS
-                                                                                                                                                            AN426AD4-4
-                                                                                                                                                          ALL F-1027 TO                                                                   F-1026
-                                                                                                                                                        F-1006A RIVETS
+Step 9: Dimple the #30 and #40 holes along the inboard edge of both F-1024 Seat Floors (see Figure 4) and the common holes in the underlying flange of the F-1017A Rear Seat Ribs. Do not dimple the #19 holes.
 
-                                                                                                                                                                                                                                                F-1022A-L
-                                                                                                                                                                  LP4-3
-                                                                                                                                                          ALL F-1027 TO
-                                                                                                                                                        F-1022A RIVETS
+Step 10: There are nutplate hole patterns punched in the top flange of the F-1005A and F-1034A Bulkheads between the F-1024 Seat Floors. Of these holes, dimple the #40 holes in the F-1034A Bulkhead and the #40 and #19 holes in the F-1005A bulkhead.
 
+[Figure 4 shows dimpling locations on seat floors:]
+STEP 7
+STEP 8
+F-1024-R
+F-1034A
+STEP 9
+F-1017A
+F-1005A
 
-                                                                                         FIGURE 2: RIVETING THE                                   FIGURE 4: UPPER BAGGAGE DOOR SEAL
-                                                                                         BAGGAGE FLOOR ANGLES                                        CHANNEL AND CLOSE-OUT PANEL
-                                                                                                                                                                                                       DATE: 07/24/14 REVISION:   0   RV-10 PAGE 33-7
-                       VAN'S AIRCRAFT, INC.
-                        Step 1: Remove the tab from the top flange of the F-1080 Right Baggage Cover as indicated in the blowup    Step 6: Temporarily secure the bottom of the F-1006F Lower Baggage Bulkhead Corrugation to the aft flange of the F-1022A
-                        of Figure 1 (for clarity the F-1034B Seatback Brace is not shown).                                         Baggage Floors using the screws called-out in Figure 2.
+FIGURE 4: DIMPLING THE SEAT FLOORS
 
-   Step 2: Cleco the forward end of the F-1080 Right Baggage Cover to the F-1034C-R Fuselage Bulkhead.                             Step 7: Match-Drill #19 the holes along the left side of the F-1006F Lower Baggage Bulkhead Corrugation (the right side is drilled
-                                                                                                                                   later) into the F-1027 Close-Out Panel, the F-1031 Upper Baggage Door Seal Channel, and the F-1006A Bulkhead. Cleco a few of
-   Step 3: There are four holes in the forward flange of the F-1028 Baggage Bulkhead Channel. Draw a line down the entire flange   these holes to secure the lower baggage bulkhead corrugation to the bulkhead.
-   centered on these holes, then dimple the holes for the dimples in the F-1006D Bulkhead.
-                                                                                                                                   Match-Drill #19 the three holes of the lower baggage bulkhead corrugation into the F-1028 Baggage Bulkhead Channel. Be sure
-  Step 4: Using only the top two holes in the forward flange of the F-1028 Baggage Bulkhead Channel, cleco the flange to the       the line which was drawn on the forward flange of the baggage bulkhead channel remains centered in the holes of the lower
-  F-1006D Bulkhead. Rivet the bottom end of the baggage bulkhead channel to the F-1029-R Bellcrank Rib using the rivets            baggage bulkhead corrugation while drilling.
-  called-out in the blow-up of Figure 1. (The top end is riveted after the Cabin Cover is installed in a later section.)
+PAGE 33-4  RV-10  REVISION: 0  DATE: 07/24/14
 
-   Step 5: Cleco the F-1074 Tailcone Forward Top Skin in place.         F-1006D
+=== PAGE 33-5 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1 (Standard Kit): Dimple the #30 and #40 holes in both baggage floors (including the holes in the aft flange) except for the following:
 
+Do not dimple the holes in the F-1022A-L Baggage Floor which are common to the bottom flange of the F-1027 Close-Out Panel (see Figure 2 below), or the single hole indicated on the bottom of Page 33-6, Figure 2.
 
+Do not dimple the holes in both baggage floors indicated in Figure 1.
 
-                           REMOVE TAB
-                                                               F-1074
-                                                                                                                                                                                                                                           F-1006A
+Step 2 (Standard Kit): Dimple the #19 holes along the inboard edge of both F-1022A Baggage Floors (common to the F-1019 Inbd Baggage Ribs) for AN509 flush head screws.
 
+Step 3 (Standard Kit): Dimple all of the holes in the top flange of the F-1019 Inbd Baggage Ribs for the dimples in the F-1022A Baggage Floors.
 
+Step 4 (Standard Kit): Dimple the #30 holes in the F-1023B Baggage Floor Angles which are common to the F-1022A Baggage Floor.
 
+[Figure 1 shows baggage floors with callouts:]
+F-1023B
+DO NOT DIMPLE THESE HOLES
+F-1022A-R
+F-1019-R
 
-                                                                                                                                                                                      F-1028
+FIGURE 1: DIMPLING THE BAGGAGE FLOORS
 
+Step 5 (Standard and Quickbuild Kit): Dimple (flush on the forward side) the three holes in the vertical flange of the F-1027 Close-Out Panel, the four holes in the inboard vertical flange of the F-1031 Upper Baggage Door Seal Channel, and the holes in the F-1006A Bulkhead which are common to these holes.
 
+Step 6 (Standard and Quickbuild Kit): Final-Drill #40 and machine countersink (flush on the forward side for AN426AD3 rivets) the four 3/32" nutplate attachment rivet holes in the F-1031 Upper Baggage Door Seal Channel.
 
-                                                                                                                                                                                                                                        F-1006F
+Step 7 (Standard and Quickbuild Kit): Dimple the two holes in the lower end-tab of the F-1026 Lower Baggage Door Seal Channel.
 
+[Figure 2 shows dimpling details:]
+DIMPLE THIS ROW OF HOLES IN F-1027 AND F-1031
+F-1006A
+F-1031
+F-1027
+F-1026
+F-1022A-L
+DIMPLE HOLES IN END-TAB
 
+FIGURE 2: DIMPLING THE UPPER AND LOWER BAGGAGE DOOR SEAL CHANNELS AND CLOSE-OUT PANEL
 
+Step 8 (Standard Kit): Dimple the holes in the F-1022 Baggage Floor Stiffeners.
 
-                                                                                                     F-1028                                                                                                                              F-1031
+Step 9 (Standard and Quickbuild Kit): Prime all of the parts that have been drilled and dimpled up to this point if/as desired.
 
-                               F-1034C-R
+NOTE: The seat and baggage floors will now be riveted. Although possible later, now is a good time to run any cables or wires that need to pass under the seat and baggage floors.
 
+Step 10 (Standard Kit): Rivet the F-1022 Baggage Floor Stiffeners to the F-1022A -L and -R Baggage Floors using the rivets called-out in Figure 3.
 
+[Figure 3 shows stiffeners riveted to baggage floors:]
+F-1022B
+F-1022C
+F-1022D
+AN426AD3-3.5 TYP
+F-1022A-R
+F-1022E
+F-1022F
+F-1022G
 
-                               F-1080                                                                                                                                                                                                           F-1027
+FIGURE 3: RIVETING THE BAGGAGE FLOOR STIFFENERS
 
+Step 11 (Standard Kit): Rivet the nutplates shown in Figure 4 to the bottom of both F-1024 Seat Floors using the rivets called-out.
 
+[Figure 4 shows nutplates on seat floor bottom:]
+AN426AD3-3.5 TYP
+K1000-08, 6 PLACES
+BOTTOM SURFACE OF F-1024-R
+MS21051-L08
 
+FIGURE 4: RIVETING NUTPLATES TO THE SEAT FLOORS
 
-                                                                                                         F-1029-R
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 33-5
 
-                                                                                                    TOP HOLES
-                                                                                                    AN470AD4-5
-                                                               FIGURE 1:                        BOTTOM HOLES                                                                                                                  FIGURE 2: MATCH-DRILLING
-                                                                                                                                                                       AN515-8R8
-                                                             CLECOING AND                          AN470AD4-4
-                                                                                                                                                                       2 PLACES
-                                                                                                                                                                                                                                 THE LOWER BAGGAGE
-PAGE   33-8    RV-10     REVISION: 1   DATE: 07/24/14
-                                                               RIVETING                                                                                                                                                        BULKHEAD CORRUGATION
-Step 1: If necessary, adjust the aft end of the F-1080 Right Baggage Cover so that it is aligned with   Step 4: As shown in Figure 2, cleco the F-1006E Upper
-                                                                                                                                                                                                                    VAN'S AIRCRAFT, INC.
-the edge of the F-1006F Lower Baggage Bulkhead Corrugation. Match-Drill #30 the holes in the            Baggage Bulkhead Corrugation to the F-1006F Lower
-bottom flange of the right baggage cover into the F-1022A-R Baggage Floor, then match-drill #30         Baggage Bulkhead Corrugation.                                      F-1006D                                         F-1074
-the holes in the top flange into the F-1013-R Fwd Fuse Longeron.                                                                                                           F-1006C
-                                                                                                        Match-Drill #19 the holes of the upper baggage bulkhead
-Step 2: Match-Drill #19 the holes along the right edge of the F-1006F Lower Baggage Bulkhead            corrugation into the F-1006A, C, and D Bulkheads.
-Corrugation into the aft flange of the F-1080 Right Baggage Cover and into the F-1006C Bulkhead.
-                                                                                                        Step 5: Remove the F-1006E and F Baggage
-Step 3: Final-Drill #40 the nutplate attachment rivet holes common to the F-1080 Right Baggage          Bulkhead Corrugations and the F-1074
-Cover and the F-1034C-R Fuselage Bulkhead.                                                              Tailcone Forward Top Skin.
+=== PAGE 33-6 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                                                                                                       F-1006A
+NOTE: The remainder of this section is to be completed for both the Standard and Quickbuild Kits.
 
+Step 1: Rivet the two nutplates to the F-1031 Upper Baggage Door Seal Channel using the rivets called-out in Figure 1.
 
+[Figure 1 shows nutplates on F-1031:]
+F-1031
+K1000-3
+AN426AD3-3.5, 2 PLACES/NUTPLATE
 
-                                                                                                                                                                 F-1006E
+FIGURE 1: RIVETING NUTPLATES TO THE UPPER BAGGAGE DOOR SEAL CHANNEL
 
+Step 2: Rivet in place the F-1024 Seat Floors, the F-1022A Baggage Floors, and the F-10103A Lower Seat Hinge Halves using only the rivets called-out in Figure 1. The remainder of the seat floors are riveted in a later section.
 
+[Figure 2 is a large rivet pattern diagram showing the baggage and seat floor rivet locations with legend:]
+LP4-3 [blind rivet symbol]
+CS4-4 [cherry rivet symbol]
+AN426AD3-3.5 [solid rivet symbol]
 
-                                                                                                                                                           DO NOT DRILL
-                                                                                                                                                              THIS HOLE
-                                                                                                                                                                  F-1006F
+F-1024-R
+F-1024-L
+F-10103A-R
+F-10103A-L
+F-1022A-R
+F-1022A-L
+DO NOT DIMPLE OR RIVET THIS HOLE
 
+FIGURE 2: RIVETING THE BAGGAGE AND SEAT FLOORS
 
-                                               F-1006C
-                                                                                                                                   FIGURE 2: DRILLING THE
-                                                                                                                                  UPPER BAGGAGE BULKHEAD
-                                     F-1006F                                                                                           CORRUGATION
-                 F-1013-R                                                                               Step 6: As shown in Figure 3, cleco the #19 hole in the aft flange of the F-1080 Right Baggage Cover. With the top and bottom
-                                                                                                        flanges clecoed in place, match-drill #30 the three remaining 1/8" holes in the aft flange into the F-1006C Bulkhead.                             F-1006C
-                                                                                                        Step 7: Match-Drill #40 the nutplate attachment rivet holes, for the nutplate shown in                                      F-1080
-                                                                                                                                                                                                             LP4-3
-                                                                                                        Figure 3, into the F-1006C Bulkhead and into the F-1080 Right Baggage Cover.
-                                                                                                                                                                                                             ALL F-1080
-                                                                                                                                                                                                             TO F-1013-R
-                                                                                                        Step 8: Remove the F-1080 Right Baggage Cover and deburr the holes in the baggage
-                                                                                                                                                                                                             RIVETS                                           K1000-08
-                                                                                                        cover and all the accessible, corresponding holes in the other parts.
-                                                                                                                                                                                                                                                              AN426AD3-4
-                     F-1034C-R                                                                          Step 9: Dimple the #40 nutplate attachment rivet holes in the F-1080 Right Baggage                                                                    2 PLACES
-                                                                                                        Cover and the corresponding holes in the mating parts. Prime if/ as desired.
-                     F-1080
-                                                                                                        Step 10: Rivet the F-1080 Right Baggage Cover to the F-1013-R Fwd
-                                                                                                        Fuse Longeron, the F-1022A-R Baggage Floor, and the F-1006C                                                                                           AN426AD4-4
-                                                                                                        Bulkhead using the rivets called-out in Figure 3.                                                                                                     ALL F-1080
-                                                                                                                                                                                                                                                              TO F-1006C
-                                                                                                        Step 11: Install all of                                                                                                                               RIVETS
-                                                                                                        the nutplates shown         F-1013-R
-                                                                                                        in Figure 3 using the
-                                                                                                        rivets called-out.
+PAGE 33-6  RV-10  REVISION: 0  DATE: 07/24/14
 
+=== PAGE 33-7 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Install the nutplates shown in Figure 1 using the rivets called-out.
 
-                                                                                                                                        K1000-08
-                                                                                                                                       4 PLACES
-                                                                                                                                    AN426AD3-4
-                                                                                                                                     2 PLACES/
-                                                                                  F-1022A-R                                          NUTPLATE                                                    LP4-3
-                                                                                                                                                                                                 ALL F-1080 TO
-                                                                                                                                                                                                 F-1022A-R RIVETS                                                F-1022A-R
+Step 2: Set the five rivets in the aft flange of both F-1022A Baggage Floors using the rivets called-out in Figure 1.
 
+AN426AD3-4.5
+BOTH ENDS OF F-1006B.
+ALL OTHER NUTPLATE ATTACH RIVETS AN426AD3-4
 
+AN426AD3-3.5
+5 PLACES/ FLOOR
 
-                                                                                                                                                                         FIGURE 3: DRILLING, DIMPLING,
-                         FIGURE 1: DRILLING THE RIGHT                                                                                                                       AND RIVETING THE RIGHT
-                               BAGGAGE COVER                                                                                                                                   BAGGAGE COVER                             DATE: 07/24/14 REVISION: 0   RV-10   PAGE   33-9
-                       VAN'S AIRCRAFT, INC.                                                                                 Step 5: Cleco together the F-1006E and F Baggage Bulkhead Corrugations.
-                       Step 1: Match-Drill #40 the nutplate attachment rivet holes
-                                                                                                                            Step 6: Center the F-6114B and C Wear Blocks on the shoulder harness cable notches in both sides of the F-1006E Baggage
-                       for all the nutplates shown in Figure 1 into the
-                                                                                                                            Bulkhead Corrugation.
-  F- 1006A, C, and D Bulkheads and into the F-1028 Baggage
-  Bulkhead Channel. Deburr the holes.
-                                                                                                                            Step 7: Match-Drill #30 the 1/8" holes of the F-6114B and C Wear Blocks into the F-1006F and E Baggage Bulkhead Corrugations
-                                                                                                                            respectively. Separate the baggage bulkhead corrugations.
-  Step 2: Dimple all of the nutplate attachment rivet holes
-  drilled in Step 1 except for those associated with the
-                                                                                                                            Step 8: Match-Drill #40 the nutplate attachment rivet holes, shown below the F-6114 Wear Blocks in Figure 4, into the F-1006F Lower
-  F-1027 Close-Out Panel and the F-1031 Upper
-                                                                                                                            Baggage Bulkhead Corrugation.
-  Baggage Door Seal Channel. Machine
-  countersink the holes in these parts.                                                      F-1028                         Step 9: Deburr the holes in the F-1006E and F Baggage Bulkhead Corrugations, dimple the #40 holes drilled in the previous step, and
-                                                                                                                            prime the parts if/ as desired.
-  Step 3: Rivet the nutplates shown in
-  Figure 1 to the F-1006A, C, and D                                     F-1006D
-                                                                                                                            Step 10: Rivet the nutplates shown in Figure 4 to both ends of the F-1006F Baggage Bulkhead Corrugation using the rivets called-out.
-  Bulkheads and to the F-1028
-  Baggage Bulkhead Channel
-                                                                                                                            Step 11: Rivet the F-6114B Wear Block to the F-1006F Lower Baggage Bulkhead Corrugation using LP4-3 blind rivets. Install the
-  using the rivets called out.
-                                                                                                                            rivets from the top of the wear block.
-                                                                                                  F-1006C
-                                                                                                                            Step 12: Rivet the F-6114C Wear Block to the F-1006E Upper Baggage Bulkhead Corrugation using LP4-3 blind rivets. Install the
-                  F-1006A
-                                                                                                                            rivets from the front of the baggage bulkhead corrugation, and back-up of the wear block with the washers shown.
-                                                             K1000-08
-                                                             TYP.
+[Figure 1 shows nutplates along F-1006B:]
+K1000-08, 8 PLACES ALONG F-1006B
+MS21051-L08
+F-1006B
+F-1022A-L
+F-1022A-R
+K1100-08 ALONG INBOARD EDGES OF BOTH F-1022A
 
+FIGURE 1: (not explicitly titled in drawing, shows nutplate installation on aft baggage area)
 
-                                                       AN426AD3-3.5
-                                                       2 PLACES/ NUTPLATE                                                                                                                                                                    F-6114C
-                                                                                                                                                                                           SHOULDER HARNESS
-                                                                                                                                                                                           CABLE NOTCHES
+Step 2: Rivet the two F-1023B Baggage Floor Angles to the F-1022A Baggage Floors and F-1070 Mid Side Skins using the rivets called-out in Figure 2.
 
+[Figure 2 shows baggage floor angles:]
+F-1070-R
+F-1023B-R
+F-1022A-R
+AN426AD3-3.5, ALL F-1023B TO F-1070 RIVETS
+CS4-4, ALL F-1023B TO F-1022A RIVETS
 
-                                                                                                                                                                                                                                            AN960-4L
-                                                                                                                                                                                                                                            2 PLACES/ SIDE
-       F-1031
-                                                                                                                                                                                                                                              F-6114B
+FIGURE 2: RIVETING THE BAGGAGE FLOOR ANGLES
 
+Step 3: Rivet the F-1026 Lower Baggage Door Seal Channel and the F-10100B Baggage Door Shim to the F-1070-L and F-1073-L Side Skins using the rivets called-out in Figure 3.
 
+Rivet the bottom end-tab of the lower baggage door seal channel to the F-1022A-L Baggage Floor and the top end-tab to the F-1006A Bulkhead using the rivets called-out in the figure. Do not set a rivet in the outboard hole of the top end-tab.
 
+[Figure 3 shows:]
+F-1006A
+LP4-3
+F-10100B
+F-1026
+F-1070-L AND F-1073-L
+AN426AD3-4.5, ALL F-1026 TO F-10100B TO F-1070-L AND F-1073-L RIVETS
+CS4-4
+F-1022A-L
 
-   F-1027
+FIGURE 3: RIVETING THE LOWER BAGGAGE DOOR SEAL CHANNEL
 
+Step 4: Rivet the F-1031 Upper Baggage Door Seal Channel to the F-1006B Bulkhead and to the top end-tab of the F-1026 Lower Baggage Door Seal Channel using the rivets called-out in Figure 4.
 
+Step 5: Rivet the F-1027 Close-Out Panel to the F-1026 Lower Baggage Door Seal Channel, to the F-1022A-L Baggage Floor, and to the F-1006A Bulkhead using the rivets called-out in Figure 4.
 
-                                                                                             FIGURE 1: ATTACHING
-                                                                                           NUTPLATES TO THE F-1006
-                                                                                           BULKHEAD AND BAGGAGE                                                                         AN426AD3-3.5
-                                                                                              BULKHEAD CHANNEL                                                                   2 PLACES/ NUTPLATE
-                                                                                                                                        F-1006E
-                                                                                                                                                                                                            K1000-08
-  Step 4: Modify the two sets of F-6114B and C Wear Blocks using the dimensions given in                    1                                                                                         2 PLACES/ SIDE
-  Figures 2 and 3.
-                                       (2)
-                                                                                     3/8                        3/8
-                                                                           Ø1/8
-                            3/8                            3/8          2 PLACES
-                                                                                                                                             F-1006F
-                1/4                                                                                                   (1)
-       (1/2)
+[Figure 4 shows:]
+F-1006A
+LP4-3, OUTBOARD FLANGE OF F-1031 TO F-1006A RIVETS
+AN426AD4-4, INBOARD FLANGE OF F-1031 TO F-1006A RIVETS
+LP4-3, ALL F-1027 TO F-1026 RIVETS
+AN426AD4-4, ALL F-1027 TO F-1006A RIVETS
+LP4-3, ALL F-1027 TO F-1022A RIVETS
+F-1031
+F-1027
+F-1026
+F-1022A-L
 
-                                                                                  3/16
-              Ø1/8
-           2 PLACES                                                                                         3/16
-                            FIGURE 2: F-6114B                                                    (2)
-                               WEAR BLOCK                                                                                      FIGURE 4: INSTALLING
-                                                                                         FIGURE 3: F-6114C                       THE WEAR BLOCKS
-PAGE   33-10    RV-10       REVISION: 0   DATE: 07/24/14                                    WEAR BLOCK
-
+FIGURE 4: UPPER BAGGAGE DOOR SEAL CHANNEL AND CLOSE-OUT PANEL
+
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 33-7
+
+=== PAGE 33-8 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Remove the tab from the top flange of the F-1080 Right Baggage Cover as indicated in the blowup of Figure 1 (for clarity the F-1034B Seatback Brace is not shown).
+
+Step 2: Cleco the forward end of the F-1080 Right Baggage Cover to the F-1034C-R Fuselage Bulkhead.
+
+Step 3: There are four holes in the forward flange of the F-1028 Baggage Bulkhead Channel. Draw a line down the entire flange centered on these holes, then dimple the holes for the dimples in the F-1006D Bulkhead.
+
+Step 4: Using only the top two holes in the forward flange of the F-1028 Baggage Bulkhead Channel, cleco the flange to the F-1006D Bulkhead. Rivet the bottom end of the baggage bulkhead channel to the F-1029-R Bellcrank Rib using the rivets called-out in Figure 1. (The top end is riveted after the Cabin Cover is installed in a later section.)
+
+Step 5: Cleco the F-1074 Tailcone Forward Top Skin in place.
+
+[Figure 1 shows:]
+REMOVE TAB
+F-1006D
+F-1074
+F-1028
+F-1034C-R
+F-1080
+F-1029-R
+TOP HOLES AN470AD4-5
+BOTTOM HOLES AN470AD4-4
+
+FIGURE 1: CLECOING AND RIVETING
+
+Step 6: Temporarily secure the bottom of the F-1006F Lower Baggage Bulkhead Corrugation to the aft flange of the F-1022A Baggage Floors using the screws called-out in Figure 2.
+
+Step 7: Match-Drill #19 the holes along the left side of the F-1006F Lower Baggage Bulkhead Corrugation (the right side is drilled later) into the F-1027 Close-Out Panel, the F-1031 Upper Baggage Door Seal Channel, and the F-1006A Bulkhead. Cleco a few of these holes to secure the lower baggage bulkhead corrugation to the bulkhead.
+
+Match-Drill #19 the three holes of the lower baggage bulkhead corrugation into the F-1028 Baggage Bulkhead Channel. Be sure the line which was drawn on the forward flange of the baggage bulkhead channel remains centered in the holes of the lower baggage bulkhead corrugation while drilling.
+
+[Figure 2 shows:]
+F-1006A
+F-1028
+F-1006F
+F-1031
+F-1027
+AN515-8R8, 2 PLACES
+
+FIGURE 2: MATCH-DRILLING THE LOWER BAGGAGE BULKHEAD CORRUGATION
+
+PAGE 33-8  RV-10  REVISION: 1  DATE: 07/24/14
+
+=== PAGE 33-9 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: If necessary, adjust the aft end of the F-1080 Right Baggage Cover so that it is aligned with the edge of the F-1006F Lower Baggage Bulkhead Corrugation. Match-Drill #30 the holes in the bottom flange of the right baggage cover into the F-1022A-R Baggage Floor, then match-drill #30 the holes in the top flange into the F-1013-R Fwd Fuse Longeron.
+
+Step 2: Match-Drill #19 the holes along the right edge of the F-1006F Lower Baggage Bulkhead Corrugation into the aft flange of the F-1080 Right Baggage Cover and into the F-1006C Bulkhead.
+
+Step 3: Final-Drill #40 the nutplate attachment rivet holes common to the F-1080 Right Baggage Cover and the F-1034C-R Fuselage Bulkhead.
+
+[Figure 1 shows right baggage cover installed:]
+F-1006C
+F-1006F
+F-1013-R
+F-1034C-R
+F-1080
+F-1022A-R
+
+FIGURE 1: DRILLING THE RIGHT BAGGAGE COVER
+
+Step 4: As shown in Figure 2, cleco the F-1006E Upper Baggage Bulkhead Corrugation to the F-1006F Lower Baggage Bulkhead Corrugation.
+
+Match-Drill #19 the holes of the upper baggage bulkhead corrugation into the F-1006A, C, and D Bulkheads.
+
+Step 5: Remove the F-1006E and F Baggage Bulkhead Corrugations and the F-1074 Tailcone Forward Top Skin.
+
+[Figure 2 shows:]
+F-1006D
+F-1074
+F-1006C
+F-1006E
+DO NOT DRILL THIS HOLE
+F-1006F
+F-1006A
+
+FIGURE 2: DRILLING THE UPPER BAGGAGE BULKHEAD CORRUGATION
+
+Step 6: As shown in Figure 3, cleco the #19 hole in the aft flange of the F-1080 Right Baggage Cover. With the top and bottom flanges clecoed in place, match-drill #30 the three remaining 1/8" holes in the aft flange into the F-1006C Bulkhead.
+
+Step 7: Match-Drill #40 the nutplate attachment rivet holes, for the nutplate shown in Figure 3, into the F-1006C Bulkhead and into the F-1080 Right Baggage Cover.
+
+Step 8: Remove the F-1080 Right Baggage Cover and deburr the holes in the baggage cover and all the accessible, corresponding holes in the other parts.
+
+Step 9: Dimple the #40 nutplate attachment rivet holes in the F-1080 Right Baggage Cover and the corresponding holes in the mating parts. Prime if/as desired.
+
+Step 10: Rivet the F-1080 Right Baggage Cover to the F-1013-R Fwd Fuse Longeron, the F-1022A-R Baggage Floor, and the F-1006C Bulkhead using the rivets called-out in Figure 3.
+
+Step 11: Install all of the nutplates shown in Figure 3 using the rivets called-out.
+
+[Figure 3 shows riveting and nutplate details:]
+F-1013-R
+K1000-08, 4 PLACES
+AN426AD3-4, 2 PLACES/NUTPLATE
+LP4-3, ALL F-1080 TO F-1013-R RIVETS
+AN426AD4-4, ALL F-1080 TO F-1006C RIVETS
+K1000-08, 2 PLACES
+LP4-3, ALL F-1080 TO F-1022A-R RIVETS
+F-1022A-R
+
+FIGURE 3: DRILLING, DIMPLING, AND RIVETING THE RIGHT BAGGAGE COVER
+
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 33-9
+
+=== PAGE 33-10 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Match-Drill #40 the nutplate attachment rivet holes for all the nutplates shown in Figure 1 into the F-1006A, C, and D Bulkheads and into the F-1028 Baggage Bulkhead Channel. Deburr the holes.
+
+Step 2: Dimple all of the nutplate attachment rivet holes drilled in Step 1 except for those associated with the F-1027 Close-Out Panel and the F-1031 Upper Baggage Door Seal Channel. Machine countersink the holes in these parts.
+
+Step 3: Rivet the nutplates shown in Figure 1 to the F-1006A, C, and D Bulkheads and to the F-1028 Baggage Bulkhead Channel using the rivets called-out.
+
+[Figure 1 shows nutplate locations:]
+F-1006D
+F-1028
+F-1006A
+F-1031
+F-1027
+K1000-08 TYP.
+AN426AD3-3.5, 2 PLACES/NUTPLATE
+F-1006C
+
+FIGURE 1: ATTACHING NUTPLATES TO THE F-1006 BULKHEAD AND BAGGAGE BULKHEAD CHANNEL
+
+Step 4: Modify the two sets of F-6114B and C Wear Blocks using the dimensions given in Figures 2 and 3.
+
+[Figure 2 shows F-6114B wear block dimensions:]
+(2)
+3/8    3/8
+(1/2)    1/4
+O1/8, 2 PLACES
+3/8    3/8
+
+FIGURE 2: F-6114B WEAR BLOCK
+
+[Figure 3 shows F-6114C wear block dimensions:]
+1
+3/8    3/8
+(1)
+O1/8, 2 PLACES
+3/16
+3/16
+(2)
+
+FIGURE 3: F-6114C WEAR BLOCK
+
+Step 5: Cleco together the F-1006E and F Baggage Bulkhead Corrugations.
+
+Step 6: Center the F-6114B and C Wear Blocks on the shoulder harness cable notches in both sides of the F-1006E Baggage Bulkhead Corrugation.
+
+Step 7: Match-Drill #30 the 1/8" holes of the F-6114B and C Wear Blocks into the F-1006F and E Baggage Bulkhead Corrugations respectively. Separate the baggage bulkhead corrugations.
+
+Step 8: Match-Drill #40 the nutplate attachment rivet holes, shown below the F-6114 Wear Blocks in Figure 4, into the F-1006F Lower Baggage Bulkhead Corrugation.
+
+Step 9: Deburr the holes in the F-1006E and F Baggage Bulkhead Corrugations, dimple the #40 holes drilled in the previous step, and prime the parts if/as desired.
+
+Step 10: Rivet the nutplates shown in Figure 4 to both ends of the F-1006F Baggage Bulkhead Corrugation using the rivets called-out.
+
+Step 11: Rivet the F-6114B Wear Block to the F-1006F Lower Baggage Bulkhead Corrugation using LP4-3 blind rivets. Install the rivets from the top of the wear block.
+
+Step 12: Rivet the F-6114C Wear Block to the F-1006E Upper Baggage Bulkhead Corrugation using LP4-3 blind rivets. Install the rivets from the front of the baggage bulkhead corrugation, and back-up of the wear block with the washers shown.
+
+[Figure 4 shows wear block installation:]
+F-6114C
+SHOULDER HARNESS CABLE NOTCHES
+AN960-4L, 2 PLACES/SIDE
+F-6114B
+AN426AD3-3.5, 2 PLACES/NUTPLATE
+K1000-08, 2 PLACES/SIDE
+F-1006E
+F-1006F
+
+FIGURE 4: INSTALLING THE WEAR BLOCKS
+
+PAGE 33-10  RV-10  REVISION: 0  DATE: 07/24/14

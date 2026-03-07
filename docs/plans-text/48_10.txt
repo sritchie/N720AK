@@ -1,1158 +1,338 @@
-                                                                         VAN'S AIRCRAFT, INC.
+=== PAGE 1 ===
+SECTION 48: GEAR LEG & WHEEL FAIRINGS
 
-SECTION 48:
- GEAR LEG
- & WHEEL
- FAIRINGS
-
-                           U-1018A
-             NOSE GEAR LEG FAIRING
-
-
-
-
-                                                               U-1020-L
-                                                               UPPER INTERSECTION
-                                          U-1020-R             FAIRING
-                        U-1013A           UPPER INTERSECTION
-           WHEEL FAIRING FRONT            FAIRING
-
-
-                     U-1013B
-         WHEEL FAIRING REAR            U-1017A                           U-1057A
-                                       GEAR LEG FAIRING            WHEEL FAIRING
-                                       2 PLACES                           FRONT
-                                                                       2 PLACES
-                                                                                              U-1057B
-                                                                                        WHEEL FAIRING
-                                     U-1019-R                                                   REAR
-                                     LOWER INTERSECTION                                     2 PLACES
-                                     FAIRING
-
-
-
-
-                                                                             DATE: 01/28/13 REVISION: 0   RV-10   PAGE   48-1
-                         VAN'S AIRCRAFT, INC.
-                                                                                                                          Step 3: Use coarse sandpaper glued to a straight stick as a disposable file to remove any material that prevents the halves from
-                            NOTE: This section provides instruction for the installation of the left wheel only.          matching smoothly. Take the time required to precision fit the wheel fairing halves.
-                            The right side is a mirror of the left.
-                                                                                                                          Assemble the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear. Tape them in this position and place a reference mark
-  NOTE: If transparent, the fairings in this section must remain transparent to accomplish the installation.              across the seam. Slit the tape on the seam with a razor blade and use this mark to realign the fairings during assembly.
-  Do not sand or prime either side of the fairings until directed to do so or until installation is complete.
-
-  If the fairings are opaque, refer to Section 5.18 MATCH-DRILLING OPAQUE FIBERGLASS PARTS.
-                                                                                                                                                                                                                                    CAREFULLY FIT FORWARD AND
-  The U-1057-A Wheel Fairing Front and U-1057B Wheel Fairing Rear should mate as accurately as possible.                                                                                                                            AFT FAIRING HALVES TO
-  Due to the variations in fiberglass molds it is necessary to first make the parts fit.                                                                                                                                            DETERMINE EDGE TRIM.
-                                                                                                                                                               SEE STEP 1                                                           TRIM AS REQUIRED.
-   Step 1: The U-1057A Wheel Fairing Front has been laid up so that there are overlapping layers of cloth along its
-   centerline. The area of overlap is thicker than the rest of the fairing. Sand down this thicker area so that the aft
-   edge of the wheel fairing front is the same thickness all along its length.
-                                                                                                                                           U-1057A
-                                                                                                                                                                                                                            U-1057B
-
-
-
-                                                                                                                                                                   FIGURE 3: FIT AND TRIM FAIRING HALVES
-
-
-
-                                                                          LOCALLY REMOVE MATERIAL
-                                                                          BUILD-UP FOR PROPER FIT
-                                                                          WITH WHEEL FAIRING REAR
-
-
-
-               U-1057A                       FIGURE 1: PREP FRONT FAIRING
-                                                                                                                           Fairings greatly reduce the drag an otherwise unfaired wheel and gear leg would create. Just as important as the fairing itself is its
-                                                                                                                           alignment. Due to the gear leg design, once off the runway the gear leg and wheel position and orientation change. Therefore the
-                                                                                                                           fairings must be aligned to the aircraft while the aircraft is in a flight attitude. This is achieved by jacking and leveling the aircraft
-                                                                                                                           allowing the landing gear to assume their in flight position. The fairings are then aligned to the aircraft centerline, not the wheel.
-
-           Step 2: Square up the inside corner of molded step in the U-1057B Wheel Fairing Rear as
-           required to allow for a good fit of the fairing halves as shown in Figure 2. A coarse file                        To align the fairing several reference marks are needed. Some on the fairing
-           works well.                                                                                                      and at least one on the floor representing the aircraft centerline.
-
-
-                     INSIDE CORNER OF                                                                                      Step 4: Draw a vertical centerline on the U-1057B Wheel Fairing Rear
-                     MOLDED STEP                                                                                           as shown in Figure 4. Place a mark at the midpoint of the vertical
-                                                                                                                           centerline as shown in Figure 4.
-
-
-                                                                                                                                                                                                                                                   VERTICAL
-                                                                                                                                                                                                                                                   CENTERLINE
-
-
-
-                                                                                                                                                                                                                                                   MIDPOINT
-                             3/4                                                                                                                                                                                                                   OF VERTICAL
-                                                                                                                                                                                                                                                   CENTERLINE
-
-
-                                                                                                     U-1057B
-
-
-                                                                                                                                                  U-1057B
-
-                                                   FIGURE 2: PREP REAR FAIRING
-                                                                                                                                                                    FIGURE 4: DRAW REFERENCE LINES
-PAGE   48-02    RV-10      REVISION: 1   DATE: 12/02/16
-                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
-                                                                                 4 1/2
-                                                                                 2 PL.
-Step 1: Make a 'V' block or similar holding                                                                                       Step 3: Tape the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear halves
-fixture from 1/4 inch thick or greater plywood as                                                                                 together as per Figure 3.
-                                                                                                   1 3/4
-shown in Figure 1.
-                                                                                                   2 PL.
-
-
-
-
-                                                                                                                                                U-1057A
-
-
-                                                                                                           8
-
-
-                                                                                                                                                                                                                       U-1057B
-
-                                                                                                  2
-
-
-
-
-                                                             14
-
-
-                                                        FIGURE 1: FABRICATE 'V' BLOCK                                                                FIGURE 3: TAPE FAIRING HALVES TOGETHER
-
-
-
-
-                                                                                                                              Step 4: Drill and cleco the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear halves together
-Step 2: Place the U-1057B Wheel Fairing Rear on the bench and make it plumb using a square so that the reference line         as per Figure 4. Measure down from the centerline marked earlier. Drill and cleco beginning at the top of the
-on the fairing is vertical. Mark a centerline as shown by measuring horizontally across the forward opening of the fairing    fairings. Center the holes in the middle of the flange fore and aft. Work down the sides to help minimize bulging
-as shown in Figure 2. Position a square at the midpoint of this distance and mark the top of the wheel fairing rear.          and mismatch between the fairing halves. The fairings as supplied are symmetrical (no right or left hand fairing) but the
-Extend the mark 1/2" aft of the molded step. This reference mark will serve to align the wheel fairing along its roll axis.   asymmetrical fastener pattern will establish the left and right fairings. The 1/2 inch hole is a start for the U-1001-L Main
-                                                                                                                              Gear Leg entry point and will be trimmed more later.
-
-
-
-                                                                                                                                                        2 1/2      2 1/2
-                                                                                           SQUARE                                                                                               DRILL #40
-                                                                                                                                                                                                7 PLACES                   U-1057A                 U-1057B
-                                                                                                                                             4 3/4                             4 3/4
-                     MARK CENTERLINE
-                                                                                           ALIGN FAIRING TO
-                                                                                           VERTICAL USING
-                                                                                           VERTICAL CENTER-
-                                                                                           LINE AND SQUARE                                              DRILL #40
-                                                                                                                                      4                 DRILL 1/2                       4 1/4
-
-                                                                                                                                                                                                                                                    MATING
-                                                                                                                                                                                                                                                    SURFACE
-                                      L
-                                                                                                                                     5 3/8                                             5 1/4
-                                                    L
-                                                                                                                                                                                                                                 3/8
-                                                                                           V BLOCK
-
-                                                                                U-1057B                                                                     U-1057A                CENTERLINE
-
-
-
-                                                                                                                                                     FIGURE 4: FASTENER SPACING (FRONT VIEW - LEFT FAIRING)
-                          FIGURE 2: MARK FAIRING CENTERLINE
-                                                                                                                                                                                                              DATE: 01/28/13 REVISION: 0   RV-10      PAGE   48-3
-                          VAN'S AIRCRAFT, INC.
-                                                                                                                                  Step 3: Place the trimmed U-1017A-L Gear
-                                                                                                                                  Leg Fairing on the gear leg as shown in
-                                                                                                                                  Figure 2. Clamp the trailing edge closed with
-       Gear leg fairings are very important for drag reduction. While it may seem that a fairing on the main wheel and tire
-                                                                                                                                  two or three spring clamps.
-       would add more speed than one on a small round gear leg just the opposite is true. On our two place models wheel
-       fairings add about 3-4 mph but the gear legs add at least 8 mph. The combined wheel and gear leg fairings add
-                                                                                                                                  Check the reference tape to be sure the gear
-       around 12 mph to the top speed. Looking at it another way - it would take an additional 27 horsepower to achieve
-                                                                                                                                  leg fairing is not twisted. Adjust the position
-       the 12 mph contribute by the fairings. Obviously a good fairing installation is necessary if high speeds are to be had
-                                                                                                                                  of the fairing to align the gear leg centerline
-       from an RV.
-                                                                                                                                  marks with the gear leg centerline.
-
-                                                                                                                                  The lower end of the gear leg fairing should
-                                                                                                                                  sit nearly flush on the U-1057-L Wheel
-       Step 1: Place the U-1017A Gear Leg Fairing leading edge down on a table or other flat surface and use a square
-                                                                                                                                  Fairing. Some variation may occur depending
-       at one end to position the trailing edge exactly above the leading edge. Make sure that the other end of the fairing
-                                                                                                                                  on how accurately the wheel fairing was
-       also has the trailing edge exactly above the leading edge. This will verify that the fairing was molded without twist.
-                                                                                                                                  aligned and the gear leg fairing was trimmed.
-       If/as required straighten the trailing edge of the gear leg fairing by sanding it with a long (12 in.) sanding block.
-                                                                                                                                  In subsequent steps the gear leg fairing will
-                                                                                                                                  be more accurately aligned but for now trim
-       To avoid building in a twist add reference marks to the trailing edge by beginning with the fairing in the "no-twist"
-                                                                                                                                  only as needed to generally seat the gear leg
-       position. Place two or three spring clamps on the trailing edge. Wrap a short piece of tape around the trailing edge
-                                                                                                                                  fairing onto the wheel fairing.
-       at each end then use a razor blade to split it along the trailing edge. If the fairing becomes twisted the edges of the
-       tape will not line up. Check the alignment frequently during installation.                                                                                                                                                                         U-1017A-L
-                                                                                                                                  Remove the gear leg fairing from the gear
-                                                                                                                                  leg.
-
-                                                                                                                                                                                                                                                        U-1057-L
-       Step 2: Remove Page 48-13 and cut along the U-1017A Upper Trim Template cut line. Smooth the template over
-       the outside of the fairing aligning it to the leading edge parting line. Use spring clamps to hold it in place. Mark the
-       upper cut line on the fairing blank. Make two tick marks, one on each end of the fairing as per the callout in Figure
-       1. Remove the template and repeat for the other blank.
-
-       Cut the template along the U-1017A Lower Trim Template cut line. Use the dimension given in Figure 1 for                                                                  FIGURE 2: INSTALLING GEAR LEG FAIRINGS
-       positioning the lower template and then outline the lower end. NOTE: When the text of the template is visible a
-       U-1017A-L will be formed. Make the tick marks here as well. Reverse the template so the text will not be visible
-       and wrap it around the bottom of the other fairing blank and mark the lower cut line to form a U-1017A-R.
-
-       Extend the gear leg centerline marks about 1/4" toward the center of the part. The marks will be helpful later when
-       positioning the fairings to the gear legs.
-
-       Trim off the top and bottom ends of the fairing. After trimming, file or saw notches approximately 1/16" deep in the
-       ends of the fairing at the gear leg centerline marks.                                                                      Step 4: Remove the hinge pin from the U-1017B Gear Leg Fairing Hinge. Trim the hinge material to the length shown in
-                                                                                                                                  Figure 3. The hinge will initially overhang each end by about 1" to help clamp the hinge to the fairing. Reinsert the hinge pin.
-
-                                                                                                                                  Mark but do not drill the rivet locations on each of the hinge segments as shown in Figure 3. Offset the rivet locations on the
-                                                        24 21/32                                                                  opposite hinge by 1/8" to prevent the clecos from interfering with one-another. When drilling the hinge to the fairing the
-                                                                                                                                  fastener location marks will be visible through the translucent fairing.
-                                                              TICK MARKS                               GEAR LEG
-                                                                 4 PL.                                 CENTERLINE
-                                                                                                                                  MARK                                                                   1/4 TYP.                             U-1017B
-                                                                                                                                  THIS
-                                                                                                                                  SIDE
-
-                                                                                                                                                         2 1/4
-                                                                                                       TRIM AWAY
-                                                                                                                                                         2 PL.
-                                                                                                       CROSSHATCHED                                                    1 17/32
-                                                                                                       AREAS. 2 PL.                                                     TYP.
-                                   U-1017A                                  TEMPLATE
-                                                                                                                                                                                                               26
-
-
-                  FIGURE 1: TRIMMING THE FAIRING (LEFT SHOWN)                                                                                                                                     FIGURE 3: CUTTING HINGE HALVES
-
-PAGE   48-8       RV-10      REVISION: 0   DATE: 01/28/13
-                                                                                                                                                                                            VAN'S AIRCRAFT, INC.
-
-Step 1: Position the U-1017B Gear Leg Fairing Hinge and hinge pin
-inside the U-1017A Gear Leg Fairing as shown in Figure 1. With the
-                                                                                                            U-1017A
-trailing edge of the fairing taped closed turn the fairing trailing edge
-down to allow the hinge to locate itself.
-                                                                                                                                      Step 3: Un-cleco the hinge from the fairing and clean out any metal chips. Deburr holes and trim
-Do not force the hinge farther aft (down) into the fairing. When                                                                      the 1" excess hinge from each end. Because the fairing is quite thin we recommend you keep
-assembled the hinge should be holding the trailing edge closed with a                                                                 the hinge clecoed to the fairing while countersinking. The holes in the hinge will guide the
-slight amount of pressure. Mark the fairing as shown in Figure 1 so                                                                   countersink cutter and keep it from elongating the holes in the fairing. Cleco the hinge to the
-that the hinge can be put back in the same place later.                                                                               fairing and countersink the fairing for AN426AD3 rivets. Rivet the hinge to the fairing using a
-                                                                                                         MARK FAIRING HERE            hand squeezer. Do not fully set the rivets as in a metal structure. This would cause the thin
-Remove the hinge from the fairing and remove the hinge pin from the                                      AT BOTH ENDS                 composite fairing to crack around the holes. Repeat for the other hinge half.
-hinge.
-                                                                                                                                      Insert the hinge pin joining the trailing edge. Use a long sanding block to remove any excess
-                                                                                                                                      "tail" on the fairing and even up the sides of the trailing edge.
-
-                                                                                                                                      Remove the hinge pin and bend the lower 1" to 90°. Grind the other end to an offset point (see
-                                                                                                                                      Page 47-7). Drill a #40 hole through the upper surface of the lower end of the fairing so that the
-                                                                                                           U-1017B                    hinge can be safety wired at final assembly as shown in Figure 3.
-
-                                                                                                                                      Hereafter the U-1017A Gear Leg Fairing will be referred to as U-1017.
-
-
-                                                                              FIGURE 1:
-                                                                     POSITIONING HINGE IN FAIRING
-
-
-                                                                                                                                                                                                      U-1017A-L
-
-
-                                                                                                                                                                                                       U-1001-L
-
-
-Step 2: Position the marked hinge inside the trailing edge of the fairing and clamp the ends of one hinge half in place.
-With the hinge ends clamped in position, begin at one end and drill #40 through the fairing and hinge using the fastener
-locations marked on the hinge to position the holes. Use light pressure and high drill speed allowing the bit to cut
-through without distorting the hinge. Work from one end of the fairing to the other, clecoing each hole before drilling the
-next. Mark the final trim locations on the hinge before removing it from the fairing.
-                                                                                                                                       RETAIN HINGE PIN WITH
-                                                                                                                                       PIECE OF SAFETY WIRE
-                                                                                                                                       THROUGH #40 HOLE IN                                           SAFETY WIRE
-                                                                                                                                       GEAR LEG FAIRING AND
-                                                                                                                                       AROUND BENT END OF                                                           U-1017B
-                             U-1017A
-                                                                                                                                             HINGE PIN
-
-
-
-                                                                                                                                                       HINGE PIN
-                                            TEMPORARY HINGE LOCATING MARKS
-
-
-                                                        MARK END OF HINGE
-
-
-                                                                                                                                                                                                              AN426AD3-3.5
-
-
-
-                                                                                        DRILL #40                                                    FIGURE 3: HINGE PIN RETENTION DETAIL
-                                                                   U-1017B
-                                                                                        15 PL.                                1 1/2
-
-
-                        FIGURE 2: DRILLING FAIRING AND HINGE HALVES
-
-                                                                                                                                                                                                  DATE: 01/28/13 REVISION: 0   RV-10       PAGE   48-9
-                        VAN'S AIRCRAFT, INC.
-                                                                                                                                               Step 2: Drop plumb bobs from the aircraft centerline to the floor and snap a line on the floor between theses two
-                                                                                                                                               points. Create a displaced centerline (parallel to the real centerline) on the floor beneath an arbitrary point "A" on
-                                                                                                                                               the horizontal part of the WD-1007-L Step. It could be established elsewhere but the step is very convenient spot.
-                                                                                                                                               Drop a plumb bob from point "A" to the floor and measure the span wise distance "X" from below point "A" to the
-                                                                                                                                               center of the fuselage. Snap a line from below the step forward past the gear leg fairing the distance "X" from and
-                                                                                                                                               parallel to the aircraft centerline. This is the displaced centerline. Drop a plumb bob from the leading edge of the
-                                                                                                                                               U-1017-L Gear Leg Fairing to the displaced centerline as shown in Figure 2. This locates point "B" on the leading
-          The gear leg fairing must be aligned with no load on the wheels simulating the in-flight condition of the gear legs.                 edge of the fairing.
-          The following steps require the aircraft to be supported by jacks far enough off the ground that the wheels no
-          longer touch. Level the aircraft at the F-1015C-L/R Mid Cabin Decks as shown in Figure 1. WARNING: Use
-          caution while the airplane is on jacks. Don't let it tip or it will fall off the jacks!
-
-          Step 1: Slip the U-1017-L Gear Leg Fairing over the gear legs and brake lines and insert the hinge pin from the
-          bottom. The hinge pin is thin enough to curve during insertion without taking excessive permanent bend.
-
-          Roughly align the gear leg fairing to the airflow and the notched centerline marks with the gear leg centerline.
-          Clamp the gear leg fairing to the gear leg to temporarily hold it in place.
-
-          The alignment of the fairings is important and can significantly affect the way the airplane flies. While a very
-          careful "eyeball" alignment job might come close this is made difficult because of the sweep back of the gear legs.                                                                                   U-1017-L
-
-
-
-                                                                                                                                                                                               B
-                                                                                                                                                                                       X
-                                                                                                                                                                                                              Y
-
-
-
-                                                                                                                                               AIRCRAFT CENTERLINE                                    DISPLACED CENTERLINE ON FLOOR
-
-
-                                                                                     F-1015C-L/R
-
-
-
-
-                                                                                                                                 WD-1007-L/R
-
-
-
-                                                                             B                                       A
-                                                                                                                                 SPRING
-                                                                      Y                                       Y                  CLAMP         Step 3: Wrap a string around the leading edge of the U-1017-L Gear Leg Fairing as shown in Figure 3 at
-                                                                                                                                               point "B" (see Figure 1) and pull both ends tight to the spring clamp at "A". Be sure the string is level and
-                                                                                                                                               parallel to the F-1015C-L Mid Cabin Deck. Measuring from the floor will be adequate here. When the
-                                                                                                                                               leading and trailing edges of the gear leg fairing are centered between the strings as shown in Figure 3 the
-                                                                                                                                               gear leg fairing is properly aligned.
-
-
-               FIGURE 1: LEVELING AIRCRAFT AND ALIGNING GEAR LEG FAIRINGS
-                                                                                                                                                            U-1017-L                STRING
-
-
-                                                                                                                                                                                                                                 Z
-
-                                                                                                                                                                                                                           Z
-
-
-
-
-                                                                                                                                                            FIGURE 3: ALIGNING GEAR LEG FAIRINGS
-
-
-PAGE   48-10    RV-10      REVISION: 0   DATE: 01/28/13
-                                                                                                                                                                                    VAN'S AIRCRAFT, INC.
-Step 1: Clamp the U-1017-L Gear Leg Fairing to the U-1001-L Gear Leg (not shown). The U-1019-L Lower and
-U-1020-L Upper Intersection Fairings must be aligned to the gear leg fairing and the gear leg fairing alignment
-must be maintained while the intersection fairings are being installed. Once permanently installed the                 Step 3: Drill #40 and cleco the U-1019-L
-intersection fairings will hold the gear leg fairing in place.                                                         Lower Intersection Fairing at approximately
-                                                                                                                       the locations shown.
-Apply a parting agent such as automotive wax, PVA (a special liquid parting agent) or brown mylar packaging
-tape on the gear leg fairing and U-1057-L Wheel Fairing surfaces to prevent adhesion since the intersection            Step 4: Remove the U-1019-L AND U-1020-L
-fairings must part from all adjoining surfaces.                                                                        Intersection Fairings and U-1057-L Wheel
-                                                                                                                       Fairings. Install nuplates on the inside surface
-Slip the lower intersection fairing around the gear leg fairing and fit it to the U-1057-L Wheel Fairing as shown in   of the wheel fairings as shown in Section A-A.
-Figure 1. The intersection fairings are fabricated with only two layers of fiberglass so they should be flexible
-enough for making adjustments.
-
-Clamp the lower intersection fairing together at its aft edge. Excess material has been added to the intersection
-fairings to secure them to the wheel and gear leg fairings. Do not trim them until after additional layers of                      5 PLACES
-fiberglass have been added.                                                                                                     SEE SECTION A-A
-
-Align the lower intersection fairing to the gear leg fairing and fit it to the wheel fairing. Secure it with spring                                                                                                          U-1017-L
-clamps and duct tape.
-
-Add two more layers of fiberglass to reinforce and constrain the intersection fairing to its final shape. Epoxy
-resin must be used when adding layers to the epoxy intersection fairings. Two layers of 9 oz. fiberglass cloth                                                                            A
-over top of the original intersection fairings should be sufficient.
-                                                                                                                                                                                                                             U-1019-L
-Drill and cleco the intersection fairing to the wheel fairing when cured as per Figure 2. Remove the part and trim                                                   1/2
-to final size.                                                                                                                                                       MIN.
-                                                                                                                                                                                                 A
-OPTIONAL: For a smoother transition from the lower intersection fairing to the wheel fairing see Page 48-12.
-
-Step 2: Repeat Step 1 for the U-1020-L Upper Intersection Fairing. See Page 48-12, Figure 1.
-                                                                                                                                                                                                                  U-1057-L
-
-
-
-
-                                                                                                                                        FIGURE 2: ATTACHING LOWER INTERSECTION FAIRING
-
-
-
-
-      U-1057-L                                                                     U-1017-L                                                                  U-1019-L
-                                                                                                                                                             U-1057-L
-
-
-
-
-                                                                                                                                                                                          AN507C632R8
-
-                                                                                                                                                                                          K1000-06
-                                                                                                      U-1020-L                                                                            AN426AD3-4
-
-
-                                                                                      U-1019-L
-                                                                                                                                                                            SECTION A-A
-
-
-                      FIGURE 1: INSTALLING INTERSECTION FAIRINGS
-                                                                                                                                                                                          DATE:01/28/13   REVISION:0   RV-10      PAGE   48-11
-                    VAN'S AIRCRAFT, INC.
-
-
-
-                       Optional: Trim away most of the
-                       flange (mating surface) of the
-                       U-1019 Lower Intersection Fairing
-                       as shown in the Optional Section
-                                                               U-1019-L                     U-1057-L
-                       A-A. Drill the screw attach holes.
-                       Remove the int. fairing. Reinforce
-                       the intersection fairing by building     EPOXY/
-                       up its inner surface around the        THICKENER                     AN507C632R8
-                       screw holes with a small amount of      BUILDUP
-                                                                                            K1000-06
-                       epoxy/thickener mixture. When
-                                                                                            AN426AD3-4
-                       cured countersink the screw holes.
-
-                       Cover the intersection fairing in
-                       release solution. Attach it to the
-                       wheel fairing and apply a slurry of
-                       epoxy resin and thickener to the
-                       sanded surface of the wheel pant.
-                       Once the slurry is hardened, sand
-                                                                       OPTIONAL SECTION A-A
-                       it to a smooth surface.                         (SEE FIG. 2 PAGE 48-11)
-
-
-
-
-                                              1/2              7 7/8
-                                                                                      U-1020-L
-
-                  SCREW #6X1/2 SS SMS                                                   AN509-8R8
-                      3 PLACES                                                          K1000-08
-                                                                                        AN426AD3-3.5
-
-                                                                   1/2
-                                                                   MIN.
-
-
-
-
-                                                      1          9 11/16
-
-                 DRILL AND
-               TIE W/ SAFETY                                                                              F-1099B-L
-                    WIRE                                                        U-1017A-L
-
-
-                                                           FIGURE 1:
-                                             ATTACHING UPPER INTERSECTION FAIRING
-                                                         BOTTOM VIEW
-
-
-
-
-PAGE   48-12   RV-10   REVISION: 0   DATE: 01/28/13
-                                                                                                                                                                                                                    48-13
-                                                                                                                                                                                                                    RV-10 PAGE
 VAN'S AIRCRAFT, INC.
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 48-1
 
+[Title page with overview illustration showing RV-10 aircraft from front-left quarter view with all fairings labeled]
 
+Callouts on illustration:
+- U-1018A NOSE GEAR LEG FAIRING
+- U-1013A WHEEL FAIRING FRONT
+- U-1013B WHEEL FAIRING REAR
+- U-1020-R UPPER INTERSECTION FAIRING
+- U-1020-L UPPER INTERSECTION FAIRING
+- U-1017A GEAR LEG FAIRING, 2 PLACES
+- U-1019-R LOWER INTERSECTION FAIRING
+- U-1057A WHEEL FAIRING FRONT, 2 PLACES
+- U-1057B WHEEL FAIRING REAR, 2 PLACES
 
+=== PAGE 2 ===
+VAN'S AIRCRAFT, INC.
+PAGE 48-02  RV-10  REVISION: 1  DATE: 12/02/16
 
-                                                                                                                                                                                                                        01/28/13 REVISION: 0
-                                                                                                                                                                                                                DATE:
-                                                                                                                              GEAR LEG CENTERLINE - TOP
-                                                                                                                                                          TEMPLATE
+NOTE: This section provides instruction for the installation of the left wheel only. The right side is a mirror of the left.
 
+NOTE: If transparent, the fairings in this section must remain transparent to accomplish the installation. Do not sand or prime either side of the fairings until directed to do so or until installation is complete.
 
+If the fairings are opaque, refer to Section 5.18 MATCH-DRILLING OPAQUE FIBERGLASS PARTS.
 
+The U-1057-A Wheel Fairing Front and U-1057B Wheel Fairing Rear should mate as accurately as possible. Due to the variations in fiberglass molds it is necessary to first make the parts fit.
 
-                                                                                                                                                  GEAR LEG CENTERLINE - BOT
-                                                                                                                                                                              TOM TEMPLATE
+Step 1: The U-1057A Wheel Fairing Front has been laid up so that there are overlapping layers of cloth along its centerline. The area of overlap is thicker than the rest of the fairing. Sand down this thicker area so that the aft edge of the wheel fairing front is the same thickness all along its length.
 
+FIGURE 1: PREP FRONT FAIRING
+[Drawing showing U-1057A front fairing with callout: LOCALLY REMOVE MATERIAL BUILD-UP FOR PROPER FIT WITH WHEEL FAIRING REAR]
 
+Step 2: Square up the inside corner of molded step in the U-1057B Wheel Fairing Rear as required to allow for a good fit of the fairing halves as shown in Figure 2. A coarse file works well.
 
+FIGURE 2: PREP REAR FAIRING
+[Drawing showing U-1057B rear fairing with callouts: INSIDE CORNER OF MOLDED STEP, dimension 3/4]
 
-                                                                                                        ALIGN WITH THE TOP
-                                                                                                        EDGE OF THE U-1017A
-                                                                                                        GEAR LEG FAIRING
+Step 3: Use coarse sandpaper glued to a straight stick as a disposable file to remove any material that prevents the halves from matching smoothly. Take the time required to precision fit the wheel fairing halves.
 
+Assemble the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear. Tape them in this position and place a reference mark across the seam. Slit the tape on the seam with a razor blade and use this mark to realign the fairings during assembly.
 
+FIGURE 3: FIT AND TRIM FAIRING HALVES
+[Drawing showing assembled fairing halves with callouts: SEE STEP 1, U-1057A, U-1057B, CAREFULLY FIT FORWARD AND AFT FAIRING HALVES TO DETERMINE EDGE TRIM. TRIM AS REQUIRED.]
 
+Fairings greatly reduce the drag an otherwise unfaired wheel and gear leg would create. Just as important as the fairing itself is its alignment. Due to the gear leg design, once off the runway the gear leg and wheel position and orientation change. Therefore the fairings must be aligned to the aircraft while the aircraft is in a flight attitude. This is achieved by jacking and leveling the aircraft allowing the landing gear to assume their in flight position. The fairings are then aligned to the aircraft centerline, not the wheel.
 
-                                                                                                                                        U-1017A TRIM TEMPLATE
-                       NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!
+To align the fairing several reference marks are needed. Some on the fairing and at least one on the floor representing the aircraft centerline.
 
+Step 4: Draw a vertical centerline on the U-1057B Wheel Fairing Rear as shown in Figure 4. Place a mark at the midpoint of the vertical centerline as shown in Figure 4.
 
+FIGURE 4: DRAW REFERENCE LINES
+[Drawing showing U-1057B rear fairing with callouts: VERTICAL CENTERLINE, MIDPOINT OF VERTICAL CENTERLINE]
 
+=== PAGE 3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 48-3
 
-                                                                                                                                                                                              LOWER TRIM LINE
+Step 1: Make a 'V' block or similar holding fixture from 1/4 inch thick or greater plywood as shown in Figure 1.
 
+FIGURE 1: FABRICATE 'V' BLOCK
+[Drawing showing V-block dimensions: 4 1/2 (2 PL.), 1 3/4 (2 PL.), 8 height, 2 width at bottom, 14 length]
 
+Step 2: Place the U-1057B Wheel Fairing Rear on the bench and make it plumb using a square so that the reference line on the fairing is vertical. Mark a centerline as shown by measuring horizontally across the forward opening of the fairing as shown in Figure 2. Position a square at the midpoint of this distance and mark the top of the wheel fairing rear. Extend the mark 1/2" aft of the molded step. This reference mark will serve to align the wheel fairing along its roll axis.
 
-                                                                                                                               UPPER TRIM LINE
+FIGURE 2: MARK FAIRING CENTERLINE
+[Drawing showing U-1057B on bench with callouts: MARK CENTERLINE, SQUARE, ALIGN FAIRING TO VERTICAL USING VERTICAL CENTER-LINE AND SQUARE, L (two dimension lines), V BLOCK]
 
+Step 3: Tape the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear halves together as per Figure 3.
 
+FIGURE 3: TAPE FAIRING HALVES TOGETHER
+[Drawing showing U-1057A and U-1057B taped together]
 
+Step 4: Drill and cleco the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear halves together as per Figure 4. Measure down from the centerline marked earlier. Drill and cleco beginning at the top of the fairings. Center the holes in the middle of the flange fore and aft. Work down the sides to help minimize bulging and mismatch between the fairing halves. The fairings as supplied are symmetrical (no right or left hand fairing) but the asymmetrical fastener pattern will establish the left and right fairings. The 1/2 inch hole is a start for the U-1001-L Main Gear Leg entry point and will be trimmed more later.
 
-                                                                                                                                                                                                 E
-                                                                                                                                                                              IM TEMPLATE CUT LIN
-                                                                                                                                                                      W ER TR
-                                                                                                                                                            U-1017A LO
-                                                                                                [406.4 mm]
-                                                                                                    16
+FIGURE 4: FASTENER SPACING (FRONT VIEW - LEFT FAIRING)
+[Drawing showing front view of assembled fairing with dimensions and callouts:
+- 2 1/2 spacing at top (2 places)
+- 4 3/4 (two places, left and right)
+- DRILL #40, 7 PLACES (top row, between U-1057A and U-1057B)
+- DRILL #40, DRILL 1/2 (center hole)
+- 4 1/4
+- 5 3/8 (left side)
+- 5 1/4 (right side)
+- 3/8 (at mating surface)
+- U-1057A labeled on left
+- CENTERLINE labeled at bottom
+- MATING SURFACE labeled on right]
 
+=== PAGE 4 ===
+VAN'S AIRCRAFT, INC.
+PAGE 48-4  RV-10  REVISION: 1  DATE: 2/20/19
 
+Step 1: Fabricate a 1" wide shim approximately 1/4" thick (not provided in kit) and position it temporarily between the brake disc and the U-1010-L Main Wheel Fairing Bracket to keep it from deflecting excessively when drilling through from the outside of the fairing as shown in Figure 1.
 
+Use scrap pieces of aluminum with strips of duct tape added to achieve a snug fit.
 
-                                                                                                                                                                                                E
-                                                                                                                                                                                TEMPLATE CUT LIN
-                                                                                                                                                                       PER TRIM
-                                                                                                             [268.3 mm]
+FIGURE 1: SHIM MAIN WHEEL FAIRING BRACKET
+[Drawing showing U-1010-L bracket with SHIM and BRAKE DISC labeled]
 
+Step 2: Mark nutplate locations on the U-1010-L Main Wheel Fairing Bracket using a "sharpie" pen as per the dimensions shown in Figure 2. Place the marks on the side facing the fairing.
 
+FIGURE 2: MARK SCREW LOCATIONS
+[Drawing showing U-1010-L bracket with dimensions: 2X 5/16, 2X 5/16, 2X 1/2, 2X 7/8. Callouts: FUTURE NUTPLATE LOCATION TYP., U-1010-L]
 
+Step 3: Place the assembled U-1057A Wheel Fairing Front and the U-1057B Wheel Fairing Rear into the 'V' block with the wheel opening facing upward as shown in the Iso View of Figure 3. Rotate the assembled fairing until the centerline drawn at the back of the wheel fairing rear is vertical. Measure up from the table as per the callouts to the midpoint of the vertical centerline at the aft end of the wheel fairing rear. This levels the assembled fairing. Measure up from the table the same amount at the forward end of the wheel fairing front and place a horizontal reference mark as shown in Figure 3. Disassemble the fairings.
 
-                                                                                                                                                             U-1017A UP
-                                                                                                               10 9/16
-                     VAN'S AIRCRAFT, INC.
+FIGURE 3: MARK HORIZONTAL REFERENCE POINT ON WHEEL FAIRING FRONT
+[Drawing showing fairing in V block with callouts: UNDERSIDE OF FAIRING, MARK HORIZONTAL REFERENCE POINT, MIDPOINT OF VERTICAL CENTERLINE, H (dimension at both ends), ISO VIEW, U-1057B-L, V BLOCK, U-1057A-L, APPROX. 11 5/8, 7 1/16 (two places)]
 
+Step 4: Fabricate a spacer as per Figure 4. The dimension of the spacer is based on a 15X6.0-6 tire. If necessary adjust the height of the spacer to compensate for a different tire size, tire wear and/or inflation pressure by referring to the vertical dimension 8 7/8" on Page 48-5, Figure 1.
 
+FIGURE 4: FABRICATE SPACER
+[Drawing showing spacer with dimensions: 1 1/4 height, 7/8 width (two places)]
 
+Step 5: Raise the airplane on jacks so the tires are just off the ground (zero to 1/16" gap). Level the airplane longitudinally and laterally at the F-1015C Mid Cabin Deck. NOTE: DO NOT FORGET TO LEVEL THE AIRCRAFT.
 
-                                                     THIS PAGE INTENTIONALLY LEFT BLANK
+It may be necessary to remove and reinstall the wheels several times while adjusting the fit of the U-1010-L Main Wheel Fairing Bracket to the U-1057A/B Wheel Fairing. WARNING: Use caution while the airplane is on jacks. Don't let it tip or it will fall off the jacks.
 
+=== PAGE 5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 2/20/19  REVISION: 1  RV-10  PAGE 48-5
 
+Step 1: Install the spacer by taping it to the top of the tire as shown in Figure 1. Center the U-1057B-L Wheel Fairing Rear over the tire and spacer. Trim U-1057B-L Wheel Fairing Rear as shown in Figure 2. Mark the area of interference with the U-1001-L Main Gear Leg, remove the fairing, locally trim a small amount of the fairing, reposition the fairing over the wheel, mark and trim as required to achieve the correct final position. Trim until a 1/8-1/4 in. gap exists between the gear leg and the wheel fairing rear.
 
+The wheel fairing rear is positioned correctly in the fore/aft direction when the center of the U-01004 Axle Nut Standoff lines up with the aft edge of the molded step as shown in Figure 1.
 
-PAGE   48-14 RV-10    REVISION: 0   DATE: 01/28/13
-                                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
-NOTE: The nose wheel fairing is a two piece fiberglass assembly. It attaches to the nose wheel fork with brackets riveted
-to the wheel fairing.
+Block up the aft end of the wheel fairing rear to position the center of the aft edge of the fairing roughly 9 5/16" off the floor.
 
-NOTE: If transparent, the nose wheel fairings must remain transparent to accomplish the installation. Do not sand or                        Step 4: Drill the U-1013A Wheel Fairing Front and the U-1013B Wheel Fairing Rear screw
-prime their interior or exterior surfaces until directed to or upon the completion of the installation.                                     locations as per the callout in Figure 3 installing clecos along the way. Begin at the top and
-                                                                                                                                            progress toward the bottom of the fairing.
-If the fairings are opaque, refer to Section 5.18 MATCH-DRILLING OPAQUE FIBERGLASS FAIRINGS.
+If necessary, adjust/bend the U-1010-L Main Wheel Fairing Bracket flanges during the next few steps to achieve a reasonably good fit with the wheel fairing as the fairing is aligned to the wheel. This may even require removing the wheel and bracket several times. The fit need not be perfect as thickened epoxy will take up some of the space between the bracket and fairing.
 
-Step 1: Fit the U-1013A Wheel Fairing Front and U-1013B Wheel Fairing Rear together. The wheel fairing rear has a recessed lip
-on the front so the smaller wheel fairing front will fit flush. This lip may be uneven. Trim it to a constant width as shown in Figure 1.
-                                                                                                                                                                DRILL #40
-Step 2: Fit the U-1013A Wheel Fairing Front over the lip of the U-1013B Wheel Fairing Rear and trim, grind or file either of them as                              8 PL.
-needed to achieve a good fit. Do not worry about a mismatch at the top center of the fairing halves since this area will be trimmed
-away later to clear the WD-1017 Nose Gear Leg Assembly. Tape them into a best fit position and place a reference mark across
-the seam. Use this mark to realign the fairings during assembly.
-                                                                                                                                                   U-1013A
+FIGURE 1: POSITIONING THE WHEEL FAIRING REAR
+[Side view drawing with callouts: U-1001-L, SPACER, MOLDED STEP, 1 1/4 GAP, 8 7/8, EDGE OF MOLDED STEP IS COINCIDENT WITH CENTER OF U-01004, BLOCKING, U-01004, U-1057B-L, U 15X6.0-6, APPROX. 9 5/16 (15 IN. TIRE)]
 
+FIGURE 2: TRIMMING WHEEL FAIRING REAR
+[Drawing showing U-1001-L, U-1057B-L with trim area indicated]
 
-                               U-1013B                                                                                                                                                                                     U-1013B
+Step 3: Align the U-1057B-L Wheel Fairing Rear in rotation to the tire by using the tire tread as an alignment guide as shown in Figure 3.
 
+In this case the vertical axis of the fairing is intended to be parallel with the vertical axis of the wheel and tire tread ... not the wheel perpendicular to the floor.
 
+Use blocks and/or shims to hold the fairing in place.
 
+FIGURE 3: ALIGNING FAIRING IN ROTATION
+[Drawing showing U-1057B-L with callouts: REFERENCE MARK, ADHESIVE TAPE, U-01004, U 15X6.0-6]
 
-          U-1013A
-                                                       3/4
+Step 4: Slide the U-1057A-L Wheel Fairing Front onto the U-1057B-L Wheel Fairing Rear. Trim the wheel fairing front where it interferes with the U-1001-L Main Gear Leg and brake line (not shown) until the wheel fairing front can be clecoed to the wheel fairing rear as shown in Figure 4.
 
+Check that the fairing is parallel to the floor and Shim as needed to make the front and rear dimensions the same. Mark wheel fairing front and rear around the wheel opening to yield clearance called for in Figure 4.
 
+Remove the wheel fairing front. Trim around wheel opening.
 
-                                                                                                                                                                    FIGURE 3: DRILLING FAIRINGS
+FIGURE 4: ALIGNING FAIRING IN PITCH
+[Drawing showing assembled fairing on gear leg with callouts: U-1001-L, U-1057A-L, U-1057B-L, APPROX. 9 5/16 (two places), TRIM FAIRING AROUND WHEEL OPENING FOR 5/8 MIN. GAP]
 
+=== PAGE 6 ===
+VAN'S AIRCRAFT, INC.
+PAGE 48-6  RV-10  REVISION: 1  DATE: 2/20/19
 
+NOTE: Drill parallel to the axis of the U-01004 Axle Nut Standoff, not perpendicular to the surface of the fairing.
 
+Step 1: Drill the U-1057B-L Wheel Fairing Rear as per the callout at the intersection of the U-01004 Axle Nut Standoff and the molded step as shown in Figure 1. Mark the hole location for drilling from the inside. Pull the fairing forward and drill with a right angle drill from the inside out, or translate the hole location to the outside surface and drill.
 
-                         FIGURE 1: FITTING FAIRING HALVES                                                                                          Step 5: Draw a vertical centerline on the U-1013B Wheel Fairing Rear as shown in Figure 4.
-                                                                                                                                                   Place a mark at the midpoint of the vertical centerline as shown in Figure 4.
+Recheck the location of the wheel fairing rear and make corrections if/as required.
 
+Final-Drill as per the callout.
 
-Step 3: Mark the screw locations that will join the                                                           2X 1 5/16
-U-1013A Wheel Fairing Front and the U-1013B Wheel
-Fairing Rear as per the dimensions shown in Figure 2 and
-                                                                        U-1013A
-Section A-A.
-                                                                                                                   2X 3 15/16
-                                                                                                                                                                                    U-1013B
-                                                                                                                                                                                                                                                VERTICAL
-                                                                                                                                                                                                                                                CENTERLINE
-                                               U-1013B
+FIGURE 1: DRILL FAIRING
+[Drawing showing fairing with callouts: EDGE OF MOLDED STEP IS COINCIDENT WITH U-01004, U-1001-L, PILOT DRILL #30 FINAL DRILL 1/4, U-1057B-L, APPROX. 9 5/16 (two places), U-01004, U 15X6.0-6]
 
-    A
-                                                                                                                                                                                                                                                MIDPOINT
-                                                                                                                            2X 3 15/16
-                                                                                                                                                                                                                                                OF VERTICAL
-                                                                                                                                                                                                                                                CENTERLINE
-                      3/8 TYP.
+NOTE: The wheels are toed in. If the wheel fairing is made parallel to the wheel it will be misaligned.
 
+Step 2: Cleco the U-1057A-L Wheel Fairing Front to the U-1057B-L Wheel Fairing Rear. Insert a 1/4 bolt through the fairing and screw it into the U-01004 Axle Nut Standoff without tightening it down. Carefully adjust the wheel fairing position until it is aligned with the aircraft centerline as shown in Figure 2.
 
+To accomplish this drop plumb bobs from the fore and aft center of the fuselage and snap a chalk line through these marks, transferring the aircraft centerline to the floor. Measure from this centerline to the points depicted in Figure 2. When all the measurements are equal the fairings are parallel to the aircraft centerline.
 
+FIGURE 2: ALIGNING MAIN WHEEL FAIRINGS WITH THE AIRCRAFT CENTERLINE
+[Bottom view drawing showing both fairings with callouts: H, H, AIRCRAFT CENTERLINE, Y, Y, U-1057A-L, U-1057B-L]
 
-            A                                                                                                             2X 3 3/16
+Step 3: Shim between the fairings and the tire to keep the fairing from moving while drilling. Working from the inboard side of the U-1057A Wheel Fairing Front and U-1057B Wheel Fairing Rear sight through the translucent fairing and locate the "sharpie" pen marks. Drill the fairings and bracket at the four nutplate locations as shown in Figure 3.
 
-     U-1013A                                                                                                                                           FIGURE 4: DRAW REFERENCE LINES AT AFT END OF FAIRING
+Remove the wheel fairings.
 
-  FIGURE 2: DRILLING ATTACH HOLES                                                                                       2X 1 3/4
-                                                                                             SECTION A-A
-                                                                                                                                                                                                                   DATE: 12/02/16 REVISION: 1   RV-10   PAGE   48-15
-                          VAN'S AIRCRAFT, INC.
+Roughen the inside of the wheel fairings aggressively at the #36 holes. Reinforce an area about 3" in diameter around each hole with one or two layers of fiberglass cloth. When cured drill up to #27 the four #36 holes in the fairings.
 
-                                                                                                                                                Step 3: Fabricate two U-1024 Standoffs from 3/4 x 1 1/2 x 1 3/16 2024-T351 aluminum block
-                                                                                                                                                as provided. Hacksaw to the shape depicted and drill as shown in Figure 3.
-                                                                                                                             SQUARE
+This is also a good time to roughen the inside of the fairing at the 1/4 hole which will later prevent having to remove the rear fairing just to do so.
 
-       Step 1: Place the U-1013B
-       Wheel Fairing Rear on the                                                                                             ALIGN FAIRING TO                      3/4              Ø3/8 THRU
-       bench and make it plumb using                                                                                         VERTICAL USING
-       a square so that the reference                  MARK CENTERLINE
-                                                                                                                             VERTICAL CENTER-
-                                                                                                                                                                                                                                     U-1024
-       line on the fairing is vertical.                                                                                      LINE AND SQUARE
+FIGURE 3: DRILLING THE FAIRINGS AND BRACKETS
+[Drawing showing U-1057A-L and U-1057B-L with callout: DRILL #36, 4 PL.]
 
-       Mark a centerline as shown by                                                   MOLDED
-       measuring horizontally across                                                   STEP                                                                                             3/8
-       the forward opening of the
-       fairing as shown in Figure 1.
-                                                                          L
-       Position a square at the midpoint                                        L
-       of this distance and mark the top
-       of the wheel fairing rear.                                                                                                                            3/8
-                                                                                                                           V BLOCK
-       Extend the mark 1/2" aft of the
-       molded step. This reference
-       mark will serve to align the                                                                         U-1013B
-       wheel fairing along its roll axis.                                                                                                                                                                                            (1 3/16)
-                                                                                                                                                                                              1/8
+Step 4: Tap the U-1010-L Main Wheel Fairing Bracket for 6-32 screws. This will allow the temporary mounting of the fairings to the bracket (for final alignment) with 6-32 screws rather than clecoing to the bracket which tends to flatten the fairing at that location. Reattach the wheel fairings to the main wheel fairing bracket with 6-32 screws and check their alignment using Page 48-5, Steps 3 and 4, and Step 2 on this page.
 
-                                                             FIGURE 1: MARK FAIRING CENTERLINE
+Step 5: If misaligned remove the appropriate screw(s) and elongate the screw hole(s) with a small round file to correctly position the fairing. Replace the screws and recheck. Repeat until the fairings are properly aligned. Later, the epoxy/flox mixture will replace the material removed by elongating the screw holes.
 
-                                                                                                                                                                         (1 1/2)                                        (3/4)
+Remove the fairings. Coat the 6-32 screw threads with candle wax to prevent epoxy from filling them up. Aggressively roughen the inside of the wheel fairings at the screw locations. Tape the main wheel fairing bracket tabs to prevent the epoxy/flox mixture from bonding to them. If the epoxy/flox is allowed to engulf the edges of the bracket the fairings will be difficult to remove. Prevent this by using clay or shims to add thickness to the outboard side of the bracket especially near the edges.
 
+Mix epoxy and flox (cotton or glass) to the consistency of peanut butter and build up the areas around the two screws on both the forward and aft main wheel fairings. Attach the wheel fairings to the bracket and to each other while the mixture is wet. Use enough epoxy/flox so that when assembled a recessed area will be created that will help lock in the bracket and reduce the bearing loads on the fiberglass at the screw hole. Check the wheel fairing alignment.
 
+Step 6: When cured remove the U-1057A-L Wheel Fairing Forward. NOTE: The U-1057B-L Wheel Fairing Rear may remain in place for the following step.
 
+=== PAGE 7 ===
+VAN'S AIRCRAFT, INC.
+DATE: 2/20/19  REVISION: 2  RV-10  PAGE 48-7
 
-       Step 2: Tape the U-1013A and B Wheel Fairing halves together and place them into the 'V' block with the wheel opening facing                                      FIGURE 3: FABRICATE STANDOFF
-       upward as shown in the Iso View of Figure 2. Rotate the assembled fairing about its long axis until the vertical centerline drawn at
-       the back of the wheel fairing rear is vertical and check it with a square.
+The U-01004 Axle Nut Standoff butts to the U-1057B-L Wheel Fairing Rear at a spot where the wheel fairing rear is sloped.
 
-       Level the wheel fairing by measuring from the bench to the midpoint of the vertical centerline at the aft end the distance shown.
-       Mark the forward end of the fairing as shown.
+Step 1: Form in place a surface parallel to the outboard end of the axle nut standoff using more epoxy/flox mixture. Having already roughened the inner surface of the U-1057B-L Wheel Fairing Rear aggressively using coarse sandpaper at the 1/4" hole the epoxy mix may be applied to the fairing without having to remove it from the bracket. Apply mold release or tape to the axle nut standoff if you want to be able to remove it later.
 
+Apply an epoxy/flox mixture to the inside of both wheel fairings in the area adjacent to the nut standoff as shown in Figure 1. Cleco the wheel fairing front to the wheel fairing rear. Ideally a pocket will also be formed in which the nut standoff may seat.
 
+Allow the mixture to harden then remove the wheel fairings.
 
+FIGURE 1: BUILDING UP FAIRING AT AXLE NUT STANDOFF
+[Drawing showing cross-section with callouts: U-1057B-L, EPOXY/FLOX, PROTECT THREADS W/ CANDLE WAX, HW LP24693C296, U-01004, U-01004, U-1057B-L]
 
-                                                         U-1013B
-                  U-1013A
+Step 2: Final-Drill #19 the four nutplate screw holes in the U-1010-L Main Wheel Fairing Bracket as shown in Figure 2. Final-Drill #40, countersink and deburr the nutplate attach holes as shown in Figure 2 and attach the hardware as per the callouts.
 
+FIGURE 2: ATTACHING NUTPLATES TO BRACKET
+[Drawing showing U-1010-L bracket with callouts: K1000-08, 4 PL., AN426AD3-5, 8 PL.]
 
+Step 3: Cleco together the U-1057A-L Wheel Fairing Front and U-1057B-L Wheel Fairing Rear. Final-Drill #19 the two fairing to bracket attach holes in the wheel fairing front and wheel fairing rear as shown in Figure 3. Countersink these holes to accept AN507C832R8.
 
-         MARK
+Final-Drill #28 three (of the seven) evenly spaced #40 screw attach holes. Disassemble and deburr. Install three K1000-06 nutplates at these #28 holes (see Figure 4). Final-Drill #40 and countersink for nutplate rivets as shown in Figure 4. Deburr the holes. Rivet the nutplates to the wheel fairing rear as per the callouts.
 
-                                                                                                                      ISO VIEW
+Step 4: Reassemble the fairing halves using three #6 screws and clecos at the rest of the holes. Final-Drill #28 the remainder of the #40 holes. Disassemble. Install the remaining nutplates. Reassemble using #6 screws.
 
+Countersink the #28 holes in the U-1057A-L Wheel Fairing Front as per the callout in Figure 4.
 
-           7 15/32                                                                                7 15/32
-                                                                         'V' BLOCK
+FIGURE 3: FINAL DRILLING THE FAIRINGS
+[Drawing showing fairing halves with callouts: U-1057A-L, FINAL-DRILL #28, 7 PL., DRILL #19, U-1057B-L]
 
-                                                                       APPROX. 14 1/4
-                                 1 1/8
+FIGURE 4: RIVETING NUTPLATES TO FAIRING
+[Drawing showing fairing assembly with callouts: COUNTERSINK FOR AN507C632R8, 7 PL., U-1057B-L, U-1057A-L, K1000-06, 7 PL., AN426AD3-4, 14 PL.]
 
+Step 5: Attach the U-1057A-L Wheel Fairing Front and U-1057B-L Wheel Fairing Rear to the U-1010-L Main Wheel Fairing Bracket using the hardware as per the callouts in Figure 5.
 
-                       FIGURE 2: MARK FAIRING CENTERLINE AT ITS NOSE
+FIGURE 5: ATTACHING MAIN WHEEL FAIRINGS
+[Drawing showing assembled fairing with callouts: U-1057B-L, AN507C632R8, 7 PL., AN507C832R8, U-1057A-L]
 
-PAGE   48-16      RV-10       REVISION: 0   DATE: 01/28/13
-                                                                                                                                                                                         VAN'S AIRCRAFT, INC.
-Step 1: Mark screw locations on the U-1013C-L and -R Nose Wheel - Fairing Bracket
-flanges as per Figure 1. The marks will be visible through the wheel fairing. Drill and
-deburr the forward attach hole as per the callout.
-                                                                                                  Step 3: Support the aft end of the U-1013B Wheel Fairing Rear using blocks as shown in Figure 3. Position the
-                                                                                                  wheel fairing rear on the U-1013C-L/R Nose Wheel - Fairing Brackets using the dimensions given. Bend the
-                                                                                                  nose wheel - fairing brackets as required to fit to the inside surface of the wheel fairing rear.
+=== PAGE 8 ===
+VAN'S AIRCRAFT, INC.
+PAGE 48-8  RV-10  REVISION: 0  DATE: 01/28/13
 
+Gear leg fairings are very important for drag reduction. While it may seem that a fairing on the main wheel and tire would add more speed than one on a small round gear leg just the opposite is true. On our two place models wheel fairings add about 3-4 mph but the gear legs add at least 8 mph. The combined wheel and gear leg fairings add around 12 mph to the top speed. Looking at it another way - it would take an additional 27 horsepower to achieve the 12 mph contribute by the fairings. Obviously a good fairing installation is necessary if high speeds are to be had from an RV.
 
+Step 1: Place the U-1017A Gear Leg Fairing leading edge down on a table or other flat surface and use a square at one end to position the trailing edge exactly above the leading edge. Make sure that the other end of the fairing also has the trailing edge exactly above the leading edge. This will verify that the fairing was molded without twist.
 
-             4X 1/2
-                                                     4X 3/4
+If/as required straighten the trailing edge of the gear leg fairing by sanding it with a long (12 in.) sanding block.
 
-                                                                        U-1013C-R
+To avoid building in a twist add reference marks to the trailing edge by beginning with the fairing in the "no-twist" position. Place two or three spring clamps on the trailing edge. Wrap a short piece of tape around the trailing edge at each end then use a razor blade to split it along the trailing edge. If the fairing becomes twisted the edges of the tape will not line up. Check the alignment frequently during installation.
 
-                                                                                                         TRIM FLANGE
-                                                                                                         IF/AS REQ'D
+Step 2: Remove Page 48-13 and cut along the U-1017A Upper Trim Template cut line. Smooth the template over the outside of the fairing aligning it to the leading edge parting line. Use spring clamps to hold it in place. Mark the upper cut line on the fairing blank. Make two tick marks, one on each end of the fairing as per the callout in Figure 1. Remove the template and repeat for the other blank.
 
+Cut the template along the U-1017A Lower Trim Template cut line. Use the dimension given in Figure 1 for positioning the lower template and then outline the lower end. NOTE: When the text of the template is visible a U-1017A-L will be formed. Make the tick marks here as well. Reverse the template so the text will not be visible and wrap it around the bottom of the other fairing blank and mark the lower cut line to form a U-1017A-R.
 
+Extend the gear leg centerline marks about 1/4" toward the center of the part. The marks will be helpful later when positioning the fairings to the gear legs.
 
+Trim off the top and bottom ends of the fairing. After trimming, file or saw notches approximately 1/16" deep in the ends of the fairing at the gear leg centerline marks.
 
-                                                                                                                                                 SPACER
+FIGURE 1: TRIMMING THE FAIRING (LEFT SHOWN)
+[Drawing showing U-1017A with template, callouts: 24 21/32, TICK MARKS 4 PL., GEAR LEG CENTERLINE, TEMPLATE, TRIM AWAY CROSSHATCHED AREAS. 2 PL.]
 
-                                                                        DRILL Ø3/8
-                                                                        DEBURR                                                                                       U-1013C-L/R
-                                                                                                                        7/8X1X1 REF.
-                                                                                                                                                                                                       U-1013B
+Step 3: Place the trimmed U-1017A-L Gear Leg Fairing on the gear leg as shown in Figure 2. Clamp the trailing edge closed with two or three spring clamps.
 
+Check the reference tape to be sure the gear leg fairing is not twisted. Adjust the position of the fairing to align the gear leg centerline marks with the gear leg centerline.
 
+The lower end of the gear leg fairing should sit nearly flush on the U-1057-L Wheel Fairing. Some variation may occur depending on how accurately the wheel fairing was aligned and the gear leg fairing was trimmed.
 
-        FIGURE 1: MARKING SCREW LOCATIONS
+In subsequent steps the gear leg fairing will be more accurately aligned but for now trim only as needed to generally seat the gear leg fairing onto the wheel fairing.
 
+Remove the gear leg fairing from the gear leg.
 
-Step 2: Tape the spacer to the top of the tire as shown in Figure 2. Slide the U-1013C-R Nose
-Wheel - Fairing Bracket onto the axle at the gap in the washer stack-up and then bolt it to the
-WD-1030 Nose Fork using the hardware shown. NOTE: Omit the two washers until the
-access hole is drilled. Slide the U-1013B Wheel Fairing Rear into place. Slide the
-U-1013C-L Nose Wheel - Fairing Bracket into place between the wheel fairing rear and the
-nose fork bolting it to the nose fork as per the callouts.
+FIGURE 2: INSTALLING GEAR LEG FAIRINGS
+[Drawing showing gear leg with U-1017A-L and U-1057-L labeled]
 
-                                                                                                                                                                                                                                           8 5/32
-                                                                                                                                                                                                                                (6 3/4)
+Step 4: Remove the hinge pin from the U-1017B Gear Leg Fairing Hinge. Trim the hinge material to the length shown in Figure 3. The hinge will initially overhang each end by about 1" to help clamp the hinge to the fairing. Reinsert the hinge pin.
 
-                      U-1013C-R                                      FILE IF/AS REQ'D TO ALIGN                                                                       BLOCKS SUPPORT
-                                                                     Ø3/8 HOLE IN PART W/                                                                             FAIRING DURING
-         SPACER                                                      Ø3/8 HOLE IN WD-1030                                                                               ALIGNMENT
+Mark but do not drill the rivet locations on each of the hinge segments as shown in Figure 3. Offset the rivet locations on the opposite hinge by 1/8" to prevent the clecos from interfering with one-another. When drilling the hinge to the fairing the fastener location marks will be visible through the translucent fairing.
 
+FIGURE 3: CUTTING HINGE HALVES
+[Drawing showing U-1017B hinge with dimensions: 1/4 TYP., 2 1/4 (2 PL.), 1 17/32 TYP., 26 total length, MARK THIS SIDE]
 
-    ADHESIVE                                                                                                      UNDEFLECTED
-      TAPE                                                                                                            TIRE
-                                                                                                                                                                               20 5/32
-   WD-1030
+=== PAGE 9 ===
+VAN'S AIRCRAFT, INC.
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 48-9
 
+Step 1: Position the U-1017B Gear Leg Fairing Hinge and hinge pin inside the U-1017A Gear Leg Fairing as shown in Figure 1. With the trailing edge of the fairing taped closed turn the fairing trailing edge down to allow the hinge to locate itself.
 
-                                                                U-1013B
+Do not force the hinge farther aft (down) into the fairing. When assembled the hinge should be holding the trailing edge closed with a slight amount of pressure. Mark the fairing as shown in Figure 1 so that the hinge can be put back in the same place later.
 
-                                                                U-1013C-L
-                                                                                                                       FIGURE 3: ALIGNING THE WHEEL FAIRING REAR
-                                                              U-1024
-                                                              AN960-616 (SEE NOTE)
-                                                              WASHER LOCK 3/8 (SEE NOTE)
-                                                              SCREW 3/8-24X1 3/4
+Remove the hinge from the fairing and remove the hinge pin from the hinge.
 
+FIGURE 1: POSITIONING HINGE IN FAIRING
+[Drawing showing U-1017A fairing cross-section with U-1017B hinge, callouts: MARK FAIRING HERE AT BOTH ENDS]
 
+Step 2: Position the marked hinge inside the trailing edge of the fairing and clamp the ends of one hinge half in place. With the hinge ends clamped in position, begin at one end and drill #40 through the fairing and hinge using the fastener locations marked on the hinge to position the holes. Use light pressure and high drill speed allowing the bit to cut through without distorting the hinge. Work from one end of the fairing to the other, clecoing each hole before drilling the next. Mark the final trim locations on the hinge before removing it from the fairing.
 
-   FIGURE 2: ATTACHING THE BRACKETS AND THE WHEEL FAIRING
-                                                                                                                                                                                               DATE: 01/28/13 REVISION: 1   RV-10   PAGE   48-17
-                           VAN'S AIRCRAFT, INC.                                                                                                           Step 3: Tap the U-1013C-L/R Nose Wheel - Fairing Brackets for 6-32 screws as shown in Figure 3.
-                                                                                                                                                          Reattach the wheel fairings to the main wheel fairing bracket with 6-32 screws and check their
-                                                                                                                                                          alignment.
+FIGURE 2: DRILLING FAIRING AND HINGE HALVES
+[Drawing showing U-1017A fairing with U-1017B hinge installed along trailing edge, callouts: U-1017A, TEMPORARY HINGE LOCATING MARKS, MARK END OF HINGE, U-1017B, DRILL #40, 15 PL., 1 1/2 spacing]
 
+Step 3: Un-cleco the hinge from the fairing and clean out any metal chips. Deburr holes and trim the 1" excess hinge from each end. Because the fairing is quite thin we recommend you keep the hinge clecoed to the fairing while countersinking. The holes in the hinge will guide the countersink cutter and keep it from elongating the holes in the fairing. Cleco the hinge to the fairing and countersink the fairing for AN426AD3 rivets. Rivet the hinge to the fairing using a hand squeezer. Do not fully set the rivets as in a metal structure. This would cause the thin composite fairing to crack around the holes. Repeat for the other hinge half.
 
-       Measure forward from the aft edge of the U-1013A Wheel Fairing Front the distance shown in Figure 1. Cut the hole with a 1 1/2 Dia. hole                                                                           DRILL #36
-       saw aligning the hole with the center of the wheel fairing front. Saw forward from the aft edge of the wheel fairing front to meet the tangent                                                                     TAP 6-32
-       points of the hole. Careful work will allow reuse of the piece to fill in the gap over the flange of the wheel fairing rear. Trial fit the wheel                                                                   4 PLACES
-       fairing front and sand to fit allowing 1/16-3/32 clearance between the cutout edges and the nose gear leg assembly. This slot will be visible
-       so take the time required to do a good job. Cleco the wheel fairing front to the wheel fairing rear.
+Insert the hinge pin joining the trailing edge. Use a long sanding block to remove any excess "tail" on the fairing and even up the sides of the trailing edge.
 
+Remove the hinge pin and bend the lower 1" to 90 degrees. Grind the other end to an offset point (see Page 47-7). Drill a #40 hole through the upper surface of the lower end of the fairing so that the hinge can be safety wired at final assembly as shown in Figure 3.
 
+Hereafter the U-1017A Gear Leg Fairing will be referred to as U-1017.
 
+FIGURE 3: HINGE PIN RETENTION DETAIL
+[Drawing showing assembled fairing on gear leg with callouts: U-1017A-L, U-1001-L, RETAIN HINGE PIN WITH PIECE OF SAFETY WIRE THROUGH #40 HOLE IN GEAR LEG FAIRING AND AROUND BENT END OF HINGE PIN, SAFETY WIRE, U-1017B, HINGE PIN, AN426AD3-3.5]
 
-                                                                                                                                                                                                                               U-1013C-R
-                                                  WD-1017
+=== PAGE 10 ===
+VAN'S AIRCRAFT, INC.
+PAGE 48-10  RV-10  REVISION: 0  DATE: 01/28/13
 
-                                        DRILL 1 1/2
+The gear leg fairing must be aligned with no load on the wheels simulating the in-flight condition of the gear legs. The following steps require the aircraft to be supported by jacks far enough off the ground that the wheels no longer touch. Level the aircraft at the F-1015C-L/R Mid Cabin Decks as shown in Figure 1. WARNING: Use caution while the airplane is on jacks. Don't let it tip or it will fall off the jacks!
 
+Step 1: Slip the U-1017-L Gear Leg Fairing over the gear legs and brake lines and insert the hinge pin from the bottom. The hinge pin is thin enough to curve during insertion without taking excessive permanent bend.
 
+Roughly align the gear leg fairing to the airflow and the notched centerline marks with the gear leg centerline. Clamp the gear leg fairing to the gear leg to temporarily hold it in place.
 
+The alignment of the fairings is important and can significantly affect the way the airplane flies. While a very careful "eyeball" alignment job might come close this is made difficult because of the sweep back of the gear legs.
 
-                               1 9/16                                                                                                                     FIGURE 3: DRILLING AND TAPPING NOSE WHEEL - FAIRING BRACKETS
-                                                                                                       U-1013B
+FIGURE 1: LEVELING AIRCRAFT AND ALIGNING GEAR LEG FAIRINGS
+[Drawing showing aircraft on jacks with callouts: F-1015C-L/R, WD-1007-L/R, B, A, Y, Y, SPRING CLAMP]
 
-                            U-1013A
+Step 2: Drop plumb bobs from the aircraft centerline to the floor and snap a line on the floor between these two points. Create a displaced centerline (parallel to the real centerline) on the floor beneath an arbitrary point "A" on the horizontal part of the WD-1007-L Step. It could be established elsewhere but the step is very convenient spot. Drop a plumb bob from point "A" to the floor and measure the span wise distance "X" from below point "A" to the center of the fuselage. Snap a line from below the step forward past the gear leg fairing the distance "X" from and parallel to the aircraft centerline. This is the displaced centerline as shown in Figure 2. Drop a plumb bob from the leading edge of the U-1017-L Gear Leg Fairing. This locates point "B" on the displaced centerline as shown in Figure 2.
 
+FIGURE 2: MEASURING FROM AIRCRAFT CENTERLINE AND FLOOR
+[Drawing showing top-down view with callouts: U-1017-L, B, X, Y, AIRCRAFT CENTERLINE, DISPLACED CENTERLINE ON FLOOR]
 
-                                                         CUTOUT                                                                                           Step 4: Follow the procedures on Page 48-6 Step 5 for applying epoxy to the inside of the fairings.
+Step 3: Wrap a string around the leading edge of the U-1017-L Gear Leg Fairing as shown in Figure 3 at point "B" (see Figure 1) and pull both ends tight to the spring clamp at "A". Be sure the string is level and parallel to the F-1015C-L Mid Cabin Deck. Measuring from the floor will be adequate here. When the leading and trailing edges of the gear leg fairing are centered between the strings as shown in Figure 3 the gear leg fairing is properly aligned.
 
-                                                                                                                                                          Step 5: When cured remove the U-1013A Wheel Fairing Front and U-1013B Wheel Fairing Rear.
-                                                                                                                                                          Remove the U-1013C-L/R Nose Wheel - Fairing Brackets.
-                             FIGURE 1: CUTTING THE SLOT IN THE WHEEL FAIRING FRONT
-
-
-
-                                                                                                                                                          Step 6: Final-Drill the U-1013C-L/R Nose Wheel - Fairing Brackets for nutplate rivets and screws as
-   Step 2: Recheck the alignment of the U-1013 Wheel Fairing with the floor as shown in Figure 2. Sight through the U-1013B Wheel                         shown in Figure 4. Deburr and countersink the nutplate attach rivet holes for flush rivets. Prime the
-   Fairing Rear and drill through the wheel fairing rear and the U-1013C-L/R Nose Wheel - Fairing Brackets. Drill the 1 in. Dia. access                   nose wheel - fairing brackets and attach the nutplates shown.
-   holes as per the callouts in Figure 2. Shim between the tire and the fairing if/as required to hold the fairing in place while drilling. Mark
-   the wheel opening clearance as shown. Remove the fairings and trim the opening.
-
-
-                                                                                   DRILL 1 DIA.
-                                                                                   2 PLACES                                                                              FINAL-DRILL #19
-                                                                                                                                                                                                                                       FINAL-DRILL #40
-                                                                                                                                                                               4 PLACES
-                                                                                                                                                                                                                                       8 PLACES
-                                                                                      DRILL #40
-                         U-1013                                                       8 PLACES
-
-
-                                                                                                                                                                        AN426AD3-4
-                                                                                       U-1013C-L/R                                                                        8 PLACES
-                                                                                                                                                                                                                                         U-1013C-R
-
-
-                         8 5/32                                                                                           8 5/32
-                                                                                                                (6 3/4)
-
-
-                                                                                                                                                                                                                             K1000-08
-                                                                                    5/8 MIN. 360°                                                                                                                            4 PLACES
-
-
-                                      FIGURE 2: ALIGNING FAIRING IN PITCH
-                                                                                                                                                                         FIGURE 4: ATTACHING NUTPLATES TO BRACKETS
-PAGE   48-18      RV-10       REVISION: 0   DATE: 01/28/13
-                                                                                                                                                                                                VAN'S AIRCRAFT, INC.
-
-Step 1: Cleco the U-1013A Wheel Fairing Front and the U-1013B Wheel Fairing Rear
-together as shown in Figure 1. Refer to the callouts in Figures 1 & 2 and to the main wheel
-                                                                                                                             Step 3: Attach the U-1013C-L/R Nose Wheel - Fairing Brackets to the
-fairing instructions on Page 48-7, Steps 3 & 4 for the proper sequences.
-                                                                                                                             U-1013B Wheel Fairing Rear as per the hardware called out in Figure 3.
-
-
-
-
-            FINAL-DRILL #28
-           COUNTERSINK FOR
-             AN507C632R8
-               8 PLACES
-                                                                                                                                                                                                                                   U-1013B
-
-    U-1013A                                                                                                                      U-1013C-R
-
-                                                                              U-1013B
-
-                                                                                                                                                                                                                                    AN507C832R8
-                                                                                                                                                                                                                                    8 PLACES
-
-
-
-
-FIGURE 1: FINAL DRILLING THE FAIRING AND COUNTERSINKING
-
-                                                                                                                                                                               U-1013C-L
-
-
-
-                                                                                                                                   FIGURE 3: ATTACHING NOSE WHEEL - FAIRING BRACKETS
-
-Step 2: Cut to fit the piece of fiberglass scrap created earlier to serve as a filler and position it on the wheel fairing
-rear directly behind the WD-1017 Nose Gear Leg. Final-Drill as shown in Figure 2, countersink and rivet it to the
-wheel fairing rear as shown in the Detail.
-
-                                                                                                                             Step 4: Slide the U-1013B Wheel Fairing Rear onto the axle at the gap in the washer stack-up. Bolt it to the
-                                                                                                          FINAL-DRILL #40    WD-1030 Nose Fork at the U-1013C-L/R Nose Wheel - Fairing Brackets as shown in Figure 4 using the hardware
-                                                                        SCRAP FROM                                           called out on Page 48-17 Figure 2. Attach the U-1013A Wheel Fairing Front to the wheel fairing rear as shown.
-                                                                                                          2X AN426AD3-6
-                                                                          U-1013A
-
-
-   FINAL DRILL #19                                 U-1013B
-  COUNTERSINK FOR
-    AN507C832R8                                                                                                   U-1013B
-                                                                                                                             AN507C632R8                                            U-1013C-L/R
-        8 PL.
-                                                                                                                                8 PLACES
-                                                                                                                                                                                                                U-1013B
-                                                                                                                                   U-1013A
-
-                                                                                            DETAIL
-                                                                             K1000-06
-                                                                             AN426AD3-4
-                                                                             8 PL.
-
-
-                                                           FINAL-DRILL #40
-                                                           COUNTERSINK
-
-
-
-      FIGURE 2: RIVETING NUTPLATES TO THE WHEEL FAIRING REAR                                                                                    FIGURE 4: FINAL FAIRING ATTACHMENT
-
-                                                                                                                                                                                                      DATE: 01/28/13 REVISION: 0    RV-10    PAGE   48-19
-                        VAN'S AIRCRAFT, INC.
-
-
-
-  NOTE: The nose gear leg fairing is a simple fiberglass wraparound
-  fairing much like the main gear leg fairings and is installed in almost
-  exactly the same way.
-
-  NOTE: If transparent, the nose gear leg fairing must remain                                        3 31/32                                                                                  36 3/4 REF.
-  transparent to accomplish the installation. Do not sand or prime its
-  exterior until installation is complete.                                                                                                                                                                                                       REMOVE CROSS-
-                                                                                                                                                                          27 1/32                                                                HATCHED AREAS
-  If the fairing is opaque, refer to Section 5.18 MATCH-DRILLING
-  OPAQUE FIBERGLASS PARTS.
-                                                                                                                       TANGENT POINT                                             U-1018A
-   Step 1: Cut out the templates for the U-1018A Nose Gear Leg Fairing
-                                                                                                                    REMOVE CROSS-
-   found at the end of this section.
-                                                                                                                    HATCHED AREA
-   Step 2: Drape the Aft Template over the U-1018A Nose Gear Leg Fairing
-   and position it as per Figure 1. Double check that the measurement was
-   taken to the cutout (shaded area) and not to the forward edge of the                                        U-1018A TRIM TEMPLATE - FORWARD                               U-1018A TRIM TEMPLATE - AFT
-   template. Transfer the outline to the part and trim as shown in Figure 1.
-
-   Step 3: Glue the Forward Template to a piece of stiff paper and position it                                                         FIGURE 1: TRIMMING THE NOSE GEAR LEG FAIRING
-   onto the U-1018A Nose Gear Leg Fairing as per Figure 1. Transfer the
-   outline to the part and trim accordingly. The template defines a
-   conservative 'zero clearance' fit with the nose wheel fairing so the gear leg
-   fairing should require additional trimming.
-
-
-
-                                                                                                                     Step 5: With the U-1013 Wheel Fairing in place fit the U-1018A Nose Gear Leg Fairing to the WD-1017 Nose Gear Leg Assembly as shown in
-                                                                                                                     Figure 3. Align the gear leg fairing by sliding it fore and aft along the nose gear to find the best fit and by using the dimension given in Figure 3.
-                                                                                                                     Section A-A depicts the fairing nested onto the nose gear leg assembly. Trim the nose gear leg fairing where it interferes with the nose wheel
-   Step 4: Remove a 1 in. wide strip of fiberglass from the top center of the U-1018A Nose                           fairing. Rotate the nose wheel from side to side to check for clearance.
-   Gear Leg Fairing as shown in Figure 2. This will allow the aft part of the fairing to slip over
-   and later attach to the WD-1017 Nose Gear Leg Assembly.                                                           Step 6: Mark the outline of the small WD-1017 Nose Gear Leg Assembly fairing
-                                                                                                                     brackets onto the U-1018A Nose Gear Leg Fairing by sighting through the fairing.
-
-                                                                                                                     Remove the nose gear leg fairing.
-
-
-
-                                                            1
-                                                                                                                                                                      WD-1017
-                                                                                                                                                                                              A
-                                                                      REMOVE CROSS-
-                                                                      HATCHED AREA
-                                                                                                                                                                                                                          MARK NOSE GEAR LEG
-                                                                                                                                                                                                                          ASSEMBLY FAIRING
-                                                                                                                                                       APPROX.                                       A
-                                                                                                                                                                                                                          BRACKET OUTLINE
-                                                                                                                                                         5 1/8
-                                                                                                                                                                                                                          4 PLACES
-                                                                                                                           TANGENT POINT                                                      U-1018A
-                                                                                                                                                                                                                                                          WD-1017
-
-
-                               U-1018A                                                                                                                                  3/16 TO 1/4                                                                        U-1018A
-
-
-                                                                                                                                                                                                                                                                      SECTION A-A
-
-
-            FIGURE 2: MODIFYING THE NOSE GEAR LEG FAIRING                                                                                                                                                 FIGURE 3:
-                                                                                                                                        U-1013
-                                                                                                                                                                                             ALIGNING THE NOSE GEAR LEG FAIRING
-PAGE   48-20    RV-10      REVISION: 1   DATE: 12/02/16
-Step 1: Make the U-1018C Nose Gear Leg Hinge from "piano hinge .063." Draw a rivet centerline the full
-                                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
-length of the outside of both halves of the nose gear leg hinge as per the dimension shown in Figure 1.
-Nest the hinge into the U-1018A Nose Gear Leg Fairing (referred to hereafter as "fairing") as shown
-allowing it to extend beyond both ends of the fairing. Transfer the centerline mark from the hinge to the
-fairing at the fairing ends where the hinge hangs out.
-                                                                                                                                               Step 3: Insert the U-1018C Nose Gear Leg Hinge into the U-1018A Nose Gear Leg Fairing aligning
-                                                                                                                                               the rivet centerline of the hinge with the holes in the fairing. Clamp it at each end. Use a new drill bit
-                                                                           U-1018A                                                             and high speed putting as little force on the hinge as possible to avoid pushing it away from the fairing
-                                           U-1018A                                                                                             while drilling. Match-Drill #40 the hinge using the #40 holes in the fairing as guides inserting clecos
-                                                                             U-1018C
-                                                                                                                                               after drilling each hole.
-
-                                                                                                                                               Countersink the fairing to accept the rivets called out in Figure 2. Remove the hinge and deburr.
-
-                                                                                                                                               Cleco the hinge to the outside of the fairing and transfer the outline of the WD-1017 Nose Gear Leg
-                                                                                                  1/4                                          assembly fairing brackets to the hinge. Remove and notch the hinge as shown in Figure 2. It is
-                                                                                                                                               acceptable to omit the hinge altogether where it interferes with the nose gear leg assembly fairing
-                                                                                                                                               brackets.
-
-                                                                                                             MARK FAIRING HERE                 Remove the hinge pin from the hinge and cut the hinge halves to length.      Do not cut the hinge pin
-                                                                                                                                               yet.
-
-                                                                                                                                               Reinstall the hinge and rivet it to the fairing as per Figure 2. Use the same riveting technique as for the
-                                                                                                   HINGE RIVET                                 main gear leg fairings, see Page 48-9 Step 3.
-                                                                                                   CENTERLINES
-              FIGURE 1:
-                                                                            DETAIL
-        ALIGNING PIANO HINGE
-                                                                                                                                               Step 4: Hereafter the part number "U-1018 Nose Gear Leg Fairing" shall include the U-1018A Nose
-                                                                                                                                               Gear Leg Fairing and U-1018C Nose Gear Fairing Hinge.
-
-                                                                                                                                               To keep the hinge pin from sliding down the fairing bend a 1/4 in. by 90° leg at the top. Cut the
-                                                                                                                                               opposite end to length and grind to an offset point (see Page 47-7).
-Step 2: Remove the U-1018C Nose Gear Leg Hinge from inside the U-1018A Nose Gear Leg Fairing. Lay the
-fairing on its side and draw a rivet centerline the length of the fairing by connecting the two marks made in the
-previous step. Lay out the rivet pattern as depicted in Figure 2. Flip the fairing over and lay out the rivet pattern
-for the other side.
-
-Drill #40 the fairing at the hinge attach rivet locations.
-
-
-
-                                                                                                                                           31 1/2
-
-
-                                                                                                                                                                                                              U-1018A
-
-
-
-                                       2X 5/16                                                                          U-1018C
-
-
-
-
-                                                                                                                            DRILL #40                                                     6X 1 5/16
-                                                                             4X 5/16                                                                        13X 1 15/32
-                            NOTCH HINGE AT OUTLINES                                                                         AN426AD3-3.5                                                                                         .063 HINGE PIN              1/4
-                                       OF BRACKETS                                                                          23 PLACES                                                                                                                        MIN.
-                                         2X PER SIDE
-
-
-                                                                                               FIGURE 2: NOTCHING, DRILLING AND RIVETING THE PIANO HINGE
-                                                                                                           (SOME PARTS OMITTED FOR CLARITY)
-
-                                                                                                                                                                                                                   DATE: 01/28/13 REVISION: 0   RV-10         PAGE   48-21
-                       VAN'S AIRCRAFT, INC.
-
-
-                                                                                                                           Step 3: Reinstall the U-1018 Nose Gear Leg Fairing onto the WD-1017 Nose Gear Leg Assembly using the hardware
-                                                                                                                           shown in Figure 3.
-         Step 1: Reinstall the U-1018 Nose Gear Leg Fairing
-         to the WD-1017 Nose Gear Leg Assembly and                                         WD-1017                         Install and tighten the hose clamp at the aft end of the nose gear leg. If necessary soften the fiberglass tab with a heat
-         install the hinge pin.
-                                                                                                                           gun in order to prevent it from cracking as the hose clamp is tightened.
-         Drill #19 the four attach holes in the fairing by
-         sighting through the fairing at the holes in the
-         WD-1017 Nose Gear Leg Assembly fairing brackets
-                                                                                                                                                                                                                          AN737TW-66
-         as shown in Figure 1 and Detail A.
-                                                                                                                                                                                              U-1018
-
-
-
-
-                                                                                                                 U-1018
-
-
-                                                                                                       DRILL #19
-                                                                                                       4 PLACES
-
-                                                                                 DETAIL A
-                                                                                                                                                                                                                                             WD-1017
-                                                                                                                                                                                                       AN526C832R8
-                                                                                                                                                                                                       4 PLACES
-
-
-                FIGURE 1: DRILLING THE NOSE GEAR LEG FAIRING                                                              FIGURE 3: ATTACHING NOSE GEAR LEG FAIRING TO NOSE GEAR LEG ASSEMBLY
-
-
-
-
-         Step 2: Remove the U-1018 Nose Gear Leg Fairing. Final-Drill #40 the rivet holes and countersink them
-         for the rivets called out in Figure 2. Rivet nutplates to the WD-1017 Nose Gear Leg Assembly as per
-         Figure 2.
-                                               WD-1017
-
-
-
-
-                               K1000-08
-                               4 PLACES
-
-
-
-
-                                                         AN426AD3-3.5
-                                                         8 PLACES
-                            DETAIL B
-
-
-                  FIGURE 2: RIVETING NUTPLATES TO THE NOSE GEAR LEG ASSEMBLY
-
-
-PAGE   48-22   RV-10      REVISION: 0   DATE: 01/28/13
-                                                                                                                                              VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                                                                                                      REMOVE SHADED AREA
-              OUTLINE REPRESENTS NET FIT WITH U-1013C.
-
-
-
-
-                                                                                                                                      2 PLACES
-                                                                                                                 REMOVE SHADED AREA
-              PASTE TO FILE FOLDER OR CARD STOCK.
-
-
-
-
-                                                         U-1018A TRIM TEMPLATE - FORWARD
-
-
-
-
-                                                                                            DIMENSION
-                                                                                           REFERENCES
-                                                                                            THIS EDGE
-
-
-  10 9/16
-
-[268.29 mm]
-
-
-
-
-                                                                                                                                            TRIM HERE
-                                                                                                                                            FOR IO-540.
-                                                                                                        U-1018A TRIM TEMPLATE - AFT       LEFT SIDE ONLY.
-
-
-
-
-                                                                                                            16
-
-            NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!                      [406.40 mm]
-                                                                                                                                                  DATE: 01/28/13 REVISION: 0   RV-10   PAGE   48-23
-                     VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                     THIS PAGE INTENTIONALLY LEFT BLANK
-
-
-
-
-PAGE   48-24 RV-10    REVISION: 0   DATE: 01/28/13
-
+FIGURE 3: ALIGNING GEAR LEG FAIRINGS
+[Drawing showing fairing with string alignment, callouts: U-1017-L, STRING, Z, Z]

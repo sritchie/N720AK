@@ -1,391 +1,297 @@
-                                                                                                                         VAN'S AIRCRAFT, INC.
+=== PAGE 6-1 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                               VS-1006
-                                                                                               TOP RIB
+SECTION 6: VERTICAL STABILIZER
 
+[Isometric exploded view of vertical stabilizer assembly with the following part callouts:]
 
+VS-1001 VERTICAL STAB SKIN
+VS-1006 TOP RIB
+VS-1017 HINGE DOUBLER
+VS-1002 FRONT SPAR
+VS-1012 TOP RUDDER HINGE BRACKET
+VS-1013 MIDDLE NOSE RIB
+VS-1007 MIDDLE INSPAR RIB
+VS-1003 REAR SPAR
+VS-1011 MIDDLE RUDDER HINGE BRACKET
+VS-1014-R REAR SPAR CAP
+VS-1005 BOTTOM NOSE RIB
+VS-1004 BOTTOM INSPAR RIB
+VS-1010 BOTTOM RUDDER HINGE BRACKET
+R-1007B RUDDER STOP
+VS-1008 REAR SPAR DOUBLER
 
+DATE: 12/09/13  REVISION: 1  RV-10  PAGE 6-1
 
-                                                                                                          SECTION 6:
-       VS-1001                                                                       VS-1017
-VERTICAL STAB
-          SKIN
-                                   VS-1012
-                                   TOP RUDDER
-                                                       VS-1002
-                                                   FRONT SPAR
-                                                                                      HINGE
-                                                                                    DOUBLER
-                                                                                                          VERTICAL
-                                   HINGE BRACKET
 
+=== PAGE 6-2 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                          STABILIZER
-                                                                                                         VS-1007
-                                                                                                         MIDDLE INSPAR
-                                                                                                         RIB
+Step 1: Trim flange material (shaded areas) from opposite ends of the two VS-1014 Rear Spar Caps using the dimensions (which apply to both spar caps) in Figure 1. Make sure to trim the material from the longer of the two flanges. (When marking the parts for trimming, clamp them to a table or back to back to remove the bow in the parts.) Once trimmed the spar caps become dedicated left and right parts (VS-1014-L and VS-1014-R respectively) as labeled in the figure. Deburr (Section 5B) the edges of both spar caps to prevent them from scratching mating parts.
 
+[Figure 1 shows two VS-1014 spar caps with dimensions and labels:]
+LONGER FLANGE
+SHORTER FLANGE
+VS-1014-R [top piece, with dimension 44 5/8 along length]
+VS-1014-L [bottom piece, with dimension 9/16 at trimmed end]
 
-                                                VS-1013                                                  VS-1003
-                                           MIDDLE NOSE                                                   REAR SPAR
-                                                    RIB
+FIGURE 1: VS-1014 SPAR CAPS
 
+Step 2: Nest the VS-1014-L & -R Rear Spar Caps into the corners of the VS-1003 Rear Spar as shown in Figure 2. Note that the trimmed flange of the rear spar caps fits against the web of the rear spar. Flush the bottom of the rear spar caps with the bottom edge of the spar flanges then clamp them in place along the spar flange.
 
+Starting from the bottom of the spar, match-drill about every fourth hole of the rear spar web into the spar caps using a 1/8" drill (ignore the 3/16" upper attach bolt holes; these holes are drilled in Step 5). Cleco each hole as you drill and be sure to drill perpendicular to the spar web, particularly any holes common to the VS-1010 and VS-1011 Bottom and Middle Rudder Hinge Brackets. After reaching the top of the spar caps, go back with the same drill and match-drill the remaining 1/8" holes of the rear spar web into the spar caps.
 
+Remove the spar caps and deburr the holes. Clear away any chips, then cleco the rear spar caps back in place.
 
-                                   VS-1011
-                                   MIDDLE RUDDER
-                                   HINGE BRACKET
+Step 3: Match-Drill the flange holes of the VS-1003 Rear Spar into the VS-1014-L and -R Rear Spar Caps using a #40 drill, cleco as you go.
 
+Once again, remove the spar caps and deburr the holes. Clear away any chips, then cleco the rear spar caps back in place.
 
+Step 4: Deburr the edges of the VS-1008 Rear Spar Doubler. Cleco the doubler, the VS-1014-L and -R Spar Caps, the VS-1010 Bottom Rudder Hinge Brackets, and the VS-1011 Middle Rudder Hinge Brackets to the VS-1003 Rear Spar as shown in Figure 2. Cleco the VS-1012 Top Rudder Hinge Brackets and the VS-1017 Hinge Doubler in place.
 
-
-                       VS-1014-R
-                  REAR SPAR CAP
-
-                                               VS-1005                  VS-1004
-                                          BOTTOM NOSE            BOTTOM INSPAR
-                         VS-1010                   RIB                      RIB
-                 BOTTOM RUDDER
-                  HINGE BRACKET
-                                   R-1007B
-                                   RUDDER STOP                                       VS-1008
-                                                                                  REAR SPAR
-                                                                                   DOUBLER
-
+With all the parts clecoed together, use a #30 drill to final-drill the holes of the top, middle, and bottom rudder hinge brackets, the hinge doubler, and all the 1/8" holes of the spar doubler and spar caps.
 
-                                                                                                                            DATE: 12/09/13 REVISION: 1   RV-10   PAGE   6-1
-                      VAN'S AIRCRAFT, INC.                                                                                               Step 2: Nest the VS-1014-L & -R Rear Spar Caps into the corners of the VS-1003 Rear Spar as shown in Figure 2. Note that the
-                                                                                                                                         trimmed flange of the rear spar caps fits against the web of the rear spar. Flush the bottom of the rear spar caps with the bottom
-                                                                                                                                         edge of the spar flanges then clamp them in place along the spar flange.
+Step 5: Match-Drill the upper attach bolt holes of the VS-1003 Rear Spar and VS-1008 Rear Spar Doubler into the VS-1014-L and -R Spar Caps using a 3/16" drill. Don't final-drill these holes to size (#12) yet; this is done when the vertical stabilizer is fitted to the tailcone.
 
-  Step 1: Trim flange material (shaded areas) from opposite ends of the two VS-1014 Rear Spar Caps using the dimensions (which           Starting from the bottom of the spar, match-drill about every fourth hole of the
-  apply to both spar caps) in Figure 1. Make sure to trim the material from the longer of the two flanges. (When marking the parts for   rear spar web into the spar caps using a 1/8" drill (ignore the 3/16" upper
-  trimming, clamp them to a table or back to back to remove the bow in the parts.) Once trimmed the spar caps become dedicated           attach bolt holes; these holes are drilled in Step 5). Cleco each hole as you
-  left and right parts (VS-1014-L and VS-1014-R respectively) as labeled in the figure. Deburr (Section 5B) the edges of both spar       drill and be sure to drill perpendicular to the spar web, particularly any                                           VS-1012
-  caps to prevent them from scratching mating parts.                                                                                     holes common to the VS-1010 and VS-1011 Bottom and Middle
-                                                                                                                                         Rudder Hinge Brackets. After reaching the top of the spar caps,
-                                                                                                                                         go back with the same drill and match-drill the remaining 1/8"
-                                                                                                                                         holes of the rear spar web into the spar caps.
-                                                                                                                                                                                                               VS-1017                                        VS-1014-R
-                                                                                                                                         Remove the spar caps and deburr the holes. Clear away
-             LONGER                                                                                                                      any chips, then cleco the rear spar caps back in place.
-             FLANGE
-                                                                                                                                         Step 3: Match-Drill the flange holes of the VS-1003 Rear Spar into the
-                                                                                                                                                                                                                                                              VS-1014-L
-                                                                                                                                         VS-1014-L and -R Rear Spar Caps using a #40 drill, cleco as you go.
+Step 6: Machine countersink (Section 5E) all of the #30 holes on the forward side of the VS-1008 Spar Doubler, below the upper attach bolt holes, for 1/8" flush rivets.
 
-                                                                                                                                         Once again, remove the spar caps and deburr the holes. Clear away
-                                                                                                                                         any chips, then cleco the rear spar caps back in place.
+[Figure 2 shows rear spar assembly with the following callouts:]
+VS-1012
+VS-1017
+VS-1014-R
+VS-1014-L
+VS-1011
+VS-1003
+VS-1010
+VS-1008
 
-                                                                                                                                         Step 4: Deburr the edges of the VS-1008 Rear Spar Doubler. Cleco the doubler,
-                                                                                                                                         the VS-1014-L and -R Spar Caps, the VS-1010 Bottom Rudder Hinge Brackets,
-                                                                                                                                         and the VS-1011 Middle Rudder Hinge Brackets to the VS-1003 Rear Spar as
-             SHORTER
-                                                                                                                                         shown in Figure 2. Cleco the VS-1012 Top Rudder Hinge Brackets and the
-             FLANGE
-                                                                                                                                         VS-1017 Hinge Doubler in place.                                                                                                VS-1011
+UPPER ATTACH BOLT HOLES:
+MACHINE CSK ALL #30 HOLES
+BELOW THESE TWO HOLES
+FLUSH ON THIS (FORWARD) SIDE.
 
-                                                                                                                                         With all the parts clecoed together, use a #30 drill to final-drill the holes of the top,
-                                                                                                                                         middle, and bottom rudder hinge brackets, the hinge doubler, and all the 1/8" holes
-                                                                                                                                         of the spar doubler and spar caps.
-
-                                         VS-1014-R                                                                                       Step 5: Match-Drill the upper attach bolt holes of the VS-1003             VS-1003
-                                                                                                                                         Rear Spar and VS-1008 Rear Spar Doubler into the VS-1014-L
-                                                                                                                                         and -R Spar Caps using a 3/16" drill. Don't final-drill these holes
-                                                                                                                                         to size (#12) yet; this is done when the vertical stabilizer is fitted
-                                                                                                                                         to the tailcone.
+FLUSH BOTTOM OF SPAR CAP WITH BOTTOM OF REAR SPAR FLANGE
 
-                                                                                                                                         Step 6: Machine countersink (Section 5E) all of the #30 holes
-                                                                                                                                         on the forward side of the VS-1008 Spar Doubler, below the
-                                                                                                                                         upper attach bolt holes, for 1/8" flush rivets.
-
-
-
-
-                                                                                                                                                                     UPPER ATTACH BOLT HOLES:
-                                                                                                                                                                     MACHINE CSK ALL #30 HOLES
-                                                                                                                                                                       BELOW THESE TWO HOLES
-                                         VS-1014-L                                                                                                                FLUSH ON THIS (FORWARD) SIDE.
-                                                                                                                                                                                                                                                                        VS-1010
-
-
-
-
-                                                                                                                                LONGER                                                                 VS-1008                                             FLUSH BOTTOM OF
-                                                                                                                                FLANGE
-                                                                                                                                                                                                                                                           SPAR CAP WITH
-                                                                                                                                                                                                                                                           BOTTOM OF REAR
-                                                                                                                               SHORTER
-                                                                                                                                                                                                                                                           SPAR FLANGE
-                                                                                                                               FLANGE
-                                              FIGURE 1: VS-1014 SPAR CAPS
-                                                                                                                                                                                                                          FIGURE 2: REAR SPAR ASSEMBLY
-
-PAGE   6-2    RV-10      REVISION: 1   DATE: 12/09/13
-                                                                                                                                                                                         VAN'S AIRCRAFT, INC.
-Step 1: Deburr the edges of all remaining parts to prevent scratching during fitting.                         Step 3: Remove the vinyl from the inside surface of the VS-1001 Vertical
-                                                                                                              Stab Skin then cleco it to the skeleton as shown in Figure 2.
-Step 2: As shown in Figure 1, cleco together all the parts of the vertical
-stabilizer skeleton: the rear spar assembly, the VS-1006 Top Rib, the                                         Step 4: Final-Drill all the holes common to the skin and skeleton with a
-VS-1004 and VS-1007 Inspar Ribs, the VS-1002 Front Spar,                                                      #40 drill, then remove the skin from the skeleton and deburr the holes.
-and the VS-1005 and VS-1013 Nose Ribs.
-                                                                                                              Step 5: Empennage fairing screw holes are indicated on Page 6-6,
-Final-Drill all the holes common to the                                                                       Figure 1, along the bottom edge of the depicted skin. Mark the
-parts in the skeleton using a #30 drill.                                                                      corresponding holes in the VS-1001 Vertical Stab Skin, and in the
-                                                                                                              flanges of the VS-1005 Bottom Nose Rib, the VS-1004 Bottom
-                                                                                                              Inspar Rib, and the VS-1003 Rear Spar.
-                                                                                          VS-1006
-                                                                                                              Step 6: Dimple all the holes of the VS-1001 Vertical Stab Skin
-                                                                                                              except for the following: the eight vertical stab tip fairing
-                                                                                                              attachment holes at the top of the skin (see Page 6-6, Figure
-                                                                                                    VS-1003   1) and the holes just marked in Step 5. Depending on the
-                                                                                                              vintage of your "C" frame tool, you may not be able to reach
-                                                                                                              all of the holes to dimple. The unreachable holes can be
-                                                                                                              dimpled with a pop rivet dimple die set available from tool
-                                                                                                              suppliers.
+FIGURE 2: REAR SPAR ASSEMBLY
 
-                                                                                                              Step 7: Remove the ribs from the front and rear spars
-                                                                                                              then deburr all of the rib holes. Except for the holes
-                                                                                                              marked in Step 5, dimple all of the rib side flange holes
-                                                                                                              (including the hole in the small tabs at the front of
-                                           VS-1002                                                            the VS-1004 & -1007 Inspar ribs).
+PAGE 6-2  RV-10  REVISION: 1  DATE: 12/09/13
 
 
+=== PAGE 6-3 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Deburr the edges of all remaining parts to prevent scratching during fitting.
 
-                                                                                                                                                                                                                                        MACHINE CSK THESE HOLES IN
-                                                                                                              Step 8: Machine countersink (Section 5E) the
+Step 2: As shown in Figure 1, cleco together all the parts of the vertical stabilizer skeleton: the rear spar assembly, the VS-1006 Top Rib, the VS-1004 and VS-1007 Inspar Ribs, the VS-1002 Front Spar, and the VS-1005 and VS-1013 Nose Ribs.
 
+Final-Drill all the holes common to the parts in the skeleton using a #30 drill.
 
+[Figure 1 shows skeleton assembly with the following callouts:]
+VS-1006
+VS-1003
+VS-1002
+VS-1007
+VS-1013
+VS-1004
+VS-1005
 
+FIGURE 1: SKELETON ASSEMBLY
 
-                                                                                                                                                                                                                                         SPAR FLANGES. SEE STEP 8.
-                                                                                                              flange holes in the VS-1003 Rear Spar which
-                                                                                                              are common to the VS-1001 Vertical Stab Skin
-                                                                                                              and to the VS-1014-L and -R Rear Spar Caps
-                                                                                                              (see note along the side of Figure 2). Do not,
-                                                                                                              however, countersink the holes in the spar
-                                                                                        VS-1007               (located at the bottom of the skin) which
-                                                                                                              were marked in Step 5. The countersink
-                                                                                                              should be deep enough to accept the
-                                                                                                              dimple of the skin. Leave the spar caps
-                                                                                                              clecoed in place during this operation.
+Step 3: Remove the vinyl from the inside surface of the VS-1001 Vertical Stab Skin then cleco it to the skeleton as shown in Figure 2.
 
-              VS-1013                                                                                         Step 9: Disassemble the rear spar
-                                                                                                              assembly and deburr all holes. Be
-                                                                                                              sure to mark (Section 5C) the rudder
-                                                                                                              hinge brackets as they are removed
-                                                                                                              so they can be reinstalled in the
-                                                                                                              same position as drilled.                 VS-1001
+Step 4: Final-Drill all the holes common to the skin and skeleton with a #40 drill, then remove the skin from the skeleton and deburr the holes.
 
-                                                                                                              Step 10: Dimple the flange holes of
-                                                                                                              the VS-1003 Rear Spar above the
-                                                                                                              machine countersunk holes.
+Step 5: Empennage fairing screw holes are indicated on Page 6-6, Figure 1, along the bottom edge of the depicted skin. Mark the corresponding holes in the VS-1001 Vertical Stab Skin, and in the flanges of the VS-1005 Bottom Nose Rib, the VS-1004 Bottom Inspar Rib, and the VS-1003 Rear Spar.
 
-                                                                                                              Step 11: Final-Drill #12 the single
-                                                                                        VS-1004               3/16" hole in each of the VS-1010
-                                                                                                              Bottom, VS-1011 Middle, and
-                                                                                                              VS-1012 Top Rudder Hinge
-                                                                                                              Brackets. Deburr the holes.                          FIGURE 2: SKIN ATTACHMENT
-                                                                                                                                                                          TO SKELETON
+Step 6: Dimple all the holes of the VS-1001 Vertical Stab Skin except for the following: the eight vertical stab tip fairing attachment holes at the top of the skin (see Page 6-6, Figure 1) and the holes just marked in Step 5. Depending on the vintage of your "C" frame tool, you may not be able to reach all of the holes to dimple. The unreachable holes can be dimpled with a pop rivet dimple die set available from tool suppliers.
 
- VS-1005
+Step 7: Remove the ribs from the front and rear spars then deburr all of the rib holes. Except for the holes marked in Step 5, dimple all of the rib side flange holes (including the hole in the small tabs at the front of the VS-1004 & -1007 Inspar ribs).
 
+Step 8: Machine countersink (Section 5E) the flange holes in the VS-1003 Rear Spar which are common to the VS-1001 Vertical Stab Skin and to the VS-1014-L and -R Rear Spar Caps (see note along the side of Figure 2). Do not, however, countersink the holes in the spar (located at the bottom of the skin) which were marked in Step 5. The countersink should be deep enough to accept the dimple of the skin. Leave the spar caps clecoed in place during this operation.
 
-                                                     FIGURE 1: SKELETON ASSEMBLY
+Step 9: Disassemble the rear spar assembly and deburr all holes. Be sure to mark (Section 5C) the rudder hinge brackets as they are removed so they can be reinstalled in the same position as drilled.
 
-                                                                                                                                                                                            DATE: 12/09/13 REVISION: 1   RV-10   PAGE   6-3
-                       VAN'S AIRCRAFT, INC.                                                                                          Step 7: Reassemble the rear spar assembly as
-                                                                                                                           VS-1015   shown on Page 6-2, Figure 2. Make sure the
-                                                         VS-1002
-                                                                                                                                     countersunk holes at the bottom of the VS-1008
-                                                                                                                                     Rear Spar Doubler are facing forward.
-  Step 1: Cleco the VS-1015 Front Spar Doubler to the aft side of
-  the VS-1002 Front Spar as shown in Figure 1. Final-Drill the                                                                       Rivet (Section 5D) the parts shown in Figure 4 using
-  holes of the doubler and spar using a #30 drill.                                                                                   the rivets called out. Leave open the holes for the
-                                                                                                                                     VS-1007 Middle Inspar Rib and the two top holes of
-  Remove the front spar doubler and deburr the holes.                                                                                the upper VS-1010 Bottom Rudder Hinge Bracket
-                                                                                                                                     (these holes are final-drilled #12 when the vertical
-   Step 2: Deburr all the holes in the flanges and web                                                                               stabilizer is fitted to the tailcone).
-   of the front spar.
+Step 10: Dimple the flange holes of the VS-1003 Rear Spar above the machine countersunk holes.
 
-  Dimple the four bottom holes in the front
-  spar (see figure) and machine countersink               DIMPLE
-  (Section 5E) the corresponding holes in           THESE HOLES
-  the front spar doubler. Dimple the flange       FLUSH THIS SIDE
-                                                                                                     FIGURE 1: FRONT SPAR
-  holes of the front spar for the skin.                                                              DOUBLER ATTACHMENT
+Step 11: Final-Drill #12 the single 3/16" hole in each of the VS-1010 Bottom, VS-1011 Middle, and VS-1012 Top Rudder Hinge Brackets. Deburr the holes.
 
+[Figure 2 shows skin attachment to skeleton with the following callouts:]
+VS-1001
+MACHINE CSK THESE HOLES IN SPAR FLANGES. SEE STEP 8.
 
+FIGURE 2: SKIN ATTACHMENT TO SKELETON
 
-  Step 3: Separate the R-1007 Rudder Stop parts, shown in Figure 2, into individual components; the R-1007A Striker Plates and the
-  R-1007B Rudder Stops. File off any remaining stubs and deburr the edges. The striker plates will be used in the rudder assembly
-                                                                                                                                                                           LEAVE OPEN
-  and can be set aside for now.
-                                                                                                                                                                             3 PLACES
-                                              R-1007A
+DATE: 12/09/13  REVISION: 1  RV-10  PAGE 6-3
 
-                                                                                                      R-1007B
 
+=== PAGE 6-4 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Cleco the VS-1015 Front Spar Doubler to the aft side of the VS-1002 Front Spar as shown in Figure 1. Final-Drill the holes of the doubler and spar using a #30 drill.
 
+Remove the front spar doubler and deburr the holes.
 
-                            R-1007B
+Step 2: Deburr all the holes in the flanges and web of the front spar.
 
-                                                                            FIGURE 2: RUDDER STOP                                                                                                   AN470AD4-5
-                                                                               PARTS SEPARATION
-                                                                                                                                                                                                    AN470AD4-7
+Dimple the four bottom holes in the front spar (see figure) and machine countersink (Section 5E) the corresponding holes in the front spar doubler. Dimple the flange holes of the front spar for the skin.
 
-                                                                                                                                                                                                    AN426AD4-6
+DIMPLE THESE HOLES
+FLUSH THIS SIDE
 
-  Step 4: Cleco the R-1007B Rudder Stops to the upper of the two VS-1010 Bottom Rudder Hinge Brackets as shown in Figure 3.                                                                         AN426AD4-7
-  Be careful to cleco the rudder stops as shown, the hole pattern will allow them to be clecoed in reverse.
+[Figure 1 shows front spar with doubler attached:]
+VS-1002
+VS-1015
 
-  Final-Drill the holes with a #30 drill, mark and remove the rudder stops, then deburr the holes.
+FIGURE 1: FRONT SPAR DOUBLER ATTACHMENT
 
+Step 3: Separate the R-1007 Rudder Stop parts, shown in Figure 2, into individual components; the R-1007A Striker Plates and the R-1007B Rudder Stops. File off any remaining stubs and deburr the edges. The striker plates will be used in the rudder assembly and can be set aside for now.
 
-  Step 5: Double check that all parts are properly deburred and prime the parts,
-   if desired, in preparation for riveting. If you plan on painting the VS-1010,
-  -1011, and -1012 Rudder Hinge Brackets when the completed airplane is
-  painted, you should first scuff the powder coat with sand paper
-  or some other type of abrasive pad.                                                                                  VS-1010
+[Figure 2 shows rudder stop parts:]
+R-1007A
+R-1007B
+R-1007B
 
-                                                                                                                                                                          LEAVE OPEN          LEAVE OPEN
-   Step 6: Rivet (section 5D) the R-1007B Rudder                                                                           R-1007B
-   Stops to the VS-1010 Rudder Hinge Bracket of
-   Step 4 using the rivets called out in Figure 3.          AN470AD4-6 RIVETS
-                                                                    6 PLACES
+FIGURE 2: RUDDER STOP PARTS SEPARATION
 
+Step 4: Cleco the R-1007B Rudder Stops to the upper of the two VS-1010 Bottom Rudder Hinge Brackets as shown in Figure 3. Be careful to cleco the rudder stops as shown, the hole pattern will allow them to be clecoed in reverse.
 
+Final-Drill the holes with a #30 drill, mark and remove the rudder stops, then deburr the holes.
 
+Step 5: Double check that all parts are properly deburred and prime the parts, if desired, in preparation for riveting. If you plan on painting the VS-1010, -1011, and -1012 Rudder Hinge Brackets when the completed airplane is painted, you should first scuff the powder coat with sand paper or some other type of abrasive pad.
 
-                                                                       R-1007B
-                                                                                                         FIGURE 3: RUDDER
-                                                                                                                                                                                            FIGURE 4: REAR SPAR
-                                                                                                         STOP ATTACHMENT
-                                                                                                                                                                                                  RIVETS
-PAGE   6-4     RV-10      REVISION: 0   DATE: 12/09/13
-                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
-Step 1: Attach the VS-1012 Top Rudder Hinge Brackets and the VS-1017 Hinge Doubler to the VS-1003 Rear Spar using the rivets       Step 3: Attach the parts shown in Figure 3 using the
-called out in Figure 1.                                                                                                            rivets called out. Leave the VS-1004 Bottom Inspar Rib
-                                                                                                                                   and the VS-1005 Bottom Nose Rib clecoed to allow
-                                                                                                                                   removal for access to the interior.
-                                                                                                                                                                                            VS-1006
+Step 6: Rivet (section 5D) the R-1007B Rudder Stops to the VS-1010 Rudder Hinge Bracket of Step 4 using the rivets called out in Figure 3.
 
+AN470AD4-6 RIVETS
+6 PLACES
 
+[Figure 3 shows rudder stop attachment:]
+VS-1010
+R-1007B
+R-1007B
 
+FIGURE 3: RUDDER STOP ATTACHMENT
 
-                          VS-1003
+Step 7: Reassemble the rear spar assembly as shown on Page 6-2, Figure 2. Make sure the countersunk holes at the bottom of the VS-1008 Rear Spar Doubler are facing forward.
 
+Rivet (Section 5D) the parts shown in Figure 4 using the rivets called out. Leave open the holes for the VS-1007 Middle Inspar Rib and the two top holes of the upper VS-1010 Bottom Rudder Hinge Bracket (these holes are final-drilled #12 when the vertical stabilizer is fitted to the tailcone).
 
-                                                                                                  VS-1012
+LEAVE OPEN
+3 PLACES
 
+[Figure 4 shows rear spar rivets with rivet legend:]
+AN470AD4-5
+AN470AD4-7
+AN426AD4-6
+AN426AD4-7
 
-            AN470AD4-4                                                                                                                                                                                                                            VS-1003
-              8 PLACES
+LEAVE OPEN [at bottom left]
+LEAVE OPEN [at bottom right]
 
-                                                                                                                                                                                                         AN470AD4-4
-                                                                                                                                                                                                         11 PLACES
+FIGURE 4: REAR SPAR RIVETS
 
-                                                                                     AN470AD4-5
-                                                                                     8 PLACES
-  VS-1017                                                                                                                                                           VS-1002
+PAGE 6-4  RV-10  REVISION: 0  DATE: 12/09/13
 
 
+=== PAGE 6-5 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Attach the VS-1012 Top Rudder Hinge Brackets and the VS-1017 Hinge Doubler to the VS-1003 Rear Spar using the rivets called out in Figure 1.
 
-                                                                                                                                                                                                                      VS-1007
-                      FIGURE 1: TOP RUDDER HINGE BRACKET
-                           AND HINGE DOUBLER RIVETS
+[Figure 1 shows top rudder hinge bracket and hinge doubler rivets:]
+VS-1003
+VS-1012
+AN470AD4-4
+8 PLACES
+AN470AD4-5
+8 PLACES
+VS-1017
 
-                                                                                                                                                                                                       AN470AD4-7
-                                                                                                                                                                                                      CLECO ONLY!
-Step 2: Attach the VS-1015 Front Spar Doubler to the VS-1002 Front Spar using the rivets called out in Figure 2.                         VS-1013                                                DO NOT RIVET UNTIL
-                                                                                                                                                                                                  PAGE 6-6, STEP 7.
-                                                                                                                                                                                                          2 PLACES                           AN470AD4-6
-                                                                                                                                                                                                                                             CLECO ONLY!
-                                                                                                                                                                                                                                             DO NOT RIVET UNTI
-                                                                                            VS-1015
-                                                                                                                                                                                                                                             PAGE 6-6, STEP 7.
+FIGURE 1: TOP RUDDER HINGE BRACKET AND HINGE DOUBLER RIVETS
 
-                VS-1002
-                                                                                                                                           AN470AD4-4
-                                                                                                                                          CLECO ONLY!
-                                                                                                                                    DO NOT RIVET UNTIL
-                                                                                                                                      PAGE 6-6, STEP 7.
-                                                                                                                                              3 PLACES                                                          VS-1004
+Step 2: Attach the VS-1015 Front Spar Doubler to the VS-1002 Front Spar using the rivets called out in Figure 2.
 
-                                                                                                    AN470AD4-5
-                                                                                                    TOP 6 HOLES
+[Figure 2 shows front spar doubler rivets:]
+VS-1002
+VS-1015
+AN470AD4-5
+TOP 6 HOLES
+AN426AD4-5
+BOTTOM 4 HOLES
 
-                                                                               AN426AD4-5
-                                                                               BOTTOM 4 HOLES
-                                                                                                                               VS-1005
+FIGURE 2: FRONT SPAR DOUBLER RIVETS
 
+Step 3: Attach the parts shown in Figure 3 using the rivets called out. Leave the VS-1004 Bottom Inspar Rib and the VS-1005 Bottom Nose Rib clecoed to allow removal for access to the interior.
 
-                               FIGURE 2: FRONT SPAR DOUBLER                                                                                                                          FIGURE 3: RIB RIVETS
-                                           RIVETS
+[Figure 3 shows rib rivets with the following callouts:]
+VS-1006
+VS-1003
+AN470AD4-4
+11 PLACES
+VS-1002
+VS-1007
+AN470AD4-7
+CLECO ONLY!
+DO NOT RIVET UNTIL
+PAGE 6-6, STEP 7.
+2 PLACES
 
-                                                                                                                                                                                                             DATE: 12/09/13 REVISION: 1   RV-10     PAGE   6-5
-                       VAN'S AIRCRAFT, INC.                                                           VERTICAL STAB TIP FAIRING ATTACHMENT HOLES
-                                                                                                      LEAVE OPEN
-                                                                                                      8 PLACES
+VS-1013
+AN470AD4-4
+CLECO ONLY!
+DO NOT RIVET UNTIL
+PAGE 6-6, STEP 7.
+3 PLACES
 
-   Step 1: Cleco the VS-1001 Vertical Stab Skin to the skeleton. Use plenty of clecos                                                                               AN426AD3-3.5
-   to keep the parts aligned while riveting. Figure 1 provides rivet sizes for the                                                                                  AN426AD3-4
-   vertical stab skin.                                                                                                                                              AN426AD3-4.5
+VS-1004
 
-  Step 2: Remove the VS-1005 Bottom Nose Rib to gain access to the VS-1013
-  Middle Nose Rib. Rivet the skin to the middle nose rib starting at the VS-1002
-  Front Spar and moving forward on both sides.
+AN470AD4-6
+CLECO ONLY!
+DO NOT RIVET UNTIL
+PAGE 6-6, STEP 7.
 
-   Step 3: Rivet the VS-1006 Top Rib to the skin forward of the front spar only.
+VS-1005
 
-  Step 4: Cleco the bottom nose rib back in place and rivet it to the skin only,
-  not to the front spar. Do not install rivets into the holes which will be used
-  to attach the empennage fairing.
+FIGURE 3: RIB RIVETS
 
-  Step 5: Rivet the skin to the front spar on both sides. The portion of
-  the spar below the VS-1007 Middle Inspar Rib can be reached by
-  removing the VS-1004 Bottom Inspar Rib. Make sure to capture
-  the holes in the tabs of the middle inspar rib which are common
-  to the front spar flanges. Since the bottom inspar rib is removed,
-  do not rivet the bottom hole in the front spar flange. Access to
-  the upper portion of the spar requires removing some of the
-  clecos in the skin along the top rib and rear spar. Remove as
-  few as possible to insure that the parts remain aligned and
-  only uncleco one side at a time.
+DATE: 12/09/13  REVISION: 1  RV-10  PAGE 6-5
 
-  Step 6: Replace any clecos previously removed for access,
-  then rivet the skin to the middle inspar rib and to the
-  remainder of the top rib.
 
-  Step 7: Cleco the bottom inspar rib in place. Rivet the
-  spar flanges of the bottom ribs to the spars using the
-  rivets called out on Page 6-5, Figure 3. With the
-  exception of the empennage fairing screw holes, rivet
-  the skin to the bottom inspar rib.
+=== PAGE 6-6 ===
+VAN'S AIRCRAFT, INC.
 
-  Step 8: Rivet the skin to the rear spar leaving the
-  bottom hole open for the empennage fairing.
+Step 1: Cleco the VS-1001 Vertical Stab Skin to the skeleton. Use plenty of clecos to keep the parts aligned while riveting. Figure 1 provides rivet sizes for the vertical stab skin.
 
-  Step 9: Finish riveting the VS-1014-L and -R
-  Rear Spar Caps to the rear spar, below the
-  skin, with AN470AD3-4 rivets.
+Step 2: Remove the VS-1005 Bottom Nose Rib to gain access to the VS-1013 Middle Nose Rib. Rivet the skin to the middle nose rib starting at the VS-1002 Front Spar and moving forward on both sides.
 
-  NOTE: The VS-1009 Vertical Stabilizer Tip
-  Fairing is installed, along with the other
-  empennage tip fairings, in section 12.
+Step 3: Rivet the VS-1006 Top Rib to the skin forward of the front spar only.
 
+Step 4: Cleco the bottom nose rib back in place and rivet it to the skin only, not to the front spar. Do not install rivets into the holes which will be used to attach the empennage fairing.
 
+Step 5: Rivet the skin to the front spar on both sides. The portion of the spar below the VS-1007 Middle Inspar Rib can be reached by removing the VS-1004 Bottom Inspar Rib. Make sure to capture the holes in the tabs of the middle inspar rib which are common to the front spar flanges. Since the bottom inspar rib is removed, do not rivet the bottom hole in the front spar flange. Access to the upper portion of the spar requires removing some of the clecos in the skin along the top rib and rear spar. Remove as few as possible to insure that the parts remain aligned and only uncleco one side at a time.
 
+Step 6: Replace any clecos previously removed for access, then rivet the skin to the middle inspar rib and to the remainder of the top rib.
 
-                                                                                                                                                   EMPENNAGE FAIRING SCREW HOLES
-                                                                                                                                                   LEAVE OPEN
-                                                                                                                                                   18 PLACES
+Step 7: Cleco the bottom inspar rib in place. Rivet the spar flanges of the bottom ribs to the spars using the rivets called out on Page 6-5, Figure 3. With the exception of the empennage fairing screw holes, rivet the skin to the bottom inspar rib.
 
+Step 8: Rivet the skin to the rear spar leaving the bottom hole open for the empennage fairing.
 
-                                                                                        FIGURE 1: VERTICAL STABILIZER SKIN RIVETS
-PAGE   6-6      RV-10 REVISION: 0     DATE: 12/09/13
-
+Step 9: Finish riveting the VS-1014-L and -R Rear Spar Caps to the rear spar, below the skin, with AN470AD3-4 rivets.
+
+NOTE: The VS-1009 Vertical Stabilizer Tip Fairing is installed, along with the other empennage tip fairings, in section 12.
+
+VERTICAL STAB TIP FAIRING ATTACHMENT HOLES
+LEAVE OPEN
+8 PLACES
+
+[Figure 1 shows vertical stabilizer skin rivet pattern with rivet legend:]
+AN426AD3-3.5
+AN426AD3-4
+AN426AD3-4.5
+
+EMPENNAGE FAIRING SCREW HOLES
+LEAVE OPEN
+18 PLACES
+
+FIGURE 1: VERTICAL STABILIZER SKIN RIVETS
+
+PAGE 6-6  RV-10  REVISION: 0  DATE: 12/09/13

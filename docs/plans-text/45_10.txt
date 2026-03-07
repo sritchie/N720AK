@@ -1,60 +1,195 @@
-                                                                                                                                                                                VAN'S AIRCRAFT, INC.
-Step 1: Remove the C-1002-L/R Doors from the fuselage. Complete the tasks described on Page 45A-02, Step 1 through Page 45A-07, Step 5.
+=== PAGE 45-1 ===
+SECTION 45:
+CABIN DOORS &
+TRANSPARENCIES
+VAN'S AIRCRAFT, INC.
 
-Step 2: Remove all latch mechanism parts from the doors.
+[Title page - isometric view of cabin area with doors and transparencies labeled]
 
-Finish-out the fiberglass surfaces of the doors that are on the interior of the cabin. See Section 5T, Fiberglass.
+C-1001
+CABIN COVER
 
-Blind rivet the C-1013 Gas Strut Attach Brackets to the C-1002-L/R Door as shown on Page 45-16, Figure 2.
+WD-1018-L
+CABIN HINGE
 
-Final paint the inner surface of the door.
+C-1002-R
+DOOR
 
-Re-install all latch mechanism parts to the doors.
+WD-1018-R
+CABIN HINGE
 
-Step 3: The VA-198 Door Seal is installed as one continuous length of extruded rubber that begins/ends anywhere on the bottom edge of the C-1002-L/R Door, but not
-closer than 6 inches to either the forward or aft corner. The door seal is attached to the door as shown in Figures 1 and 2.
+WD-1022
+DOOR HANDLE ASSEMBLY
 
-The door seal is glued to the door with a clear silicone sealant. (Van's aircraft used 3M "Super Silicone Sealant, Clear" supplied in semi-rigid tube form for use with a
-caulking gun.) Clecos are used every two to three inches to hold the door seal in place while the glue cures. Strips of scrap .025 or .032 aluminum 1 inch wide by 2 1/2 to 3
-1/2 inches long are used to spread the cleco clamping pressure more evenly over the door seal.
+C-1005
+WINDSCREEN
 
-Step 4: Fabricate the Fwd Latch
-Pin Plate and Aft Latch Pin Plate                     VA-198
-from pieces of scrap .032
-aluminum as shown in                                               C-1002-L
-Figures 3, and 4.
+F-1071
+FWD FUSE TOP SKIN
 
-Attach both latch pin plates with
-blind rivets as shown in Figure 1.
+C-1016
+GAS STRUT
 
-Step 5: Attach the C-1002-L/R
-Doors to the fuselage.
+C-1002-L
+DOOR
 
-Step 6: Install the C-1016 Gas
-Struts as shown on Page 45-16,
-Figures 1 and 2.
+C-656
+CANOPY
+HANDLE
 
-Step 7: Complete the tasks
-described on Page 45A-07, Step 7
-through the end of Section 45A.
+VA-198
+DOOR SEAL
 
+C-1010
+CABIN PIN BLOCK
 
+C-1011-L
+FWD LATCH PIN
 
+DATE: 1/14/05  REVISION: 0  RV-10  PAGE 45-1
 
-                                             FIGURE 3: FWD LATCH PIN PLATE
-         13/32
-       2 PLACES          6.8°
-                                                       Ø15/32                       1 9/16
+=== PAGE 45-2 ===
+VAN'S AIRCRAFT, INC.
 
+Note: The terms "bag side" and "tool side" are used in this section. "Bag side" refers to the "rough"
+side of the part which shows the weave of the fabric and may have wrinkles and other surface
+irregularities. "Tool Side" refers to the "smooth" side of the part which is an exact mirror of the mold upon which the
+part was layed-up and cured.
 
+Step 1: Trim the outside perimeter and window flange of the C-1002A-L and -R Cabin Door Outer Shells as shown in Figure 1.
 
-                                                                                                         13/16
-                                                            9/32
-                         1/4
-                     2 PLACES                                                      Ø1/8,
-                      1 13/16                                                   2 PLACES
-                                                                     3 1/4
+There are six "dimples" molded into the tool side of each cabin door outer shell; one near the lower door forward edge, one near
+the lower door aft edge, and one in the window flange near each of the four corners of the window. Drill a #40 hole through the
+cabin door outer shell at the center of each of the six dimples. These holes are "index holes" used to locate the door shells to
+each other and to the fuselage.
 
+Draw two lines on the window flange of each cabin door outer shell,
+one line 3/4 inch offset from the window joggle and one line 1 1/4 inch
+offset from the window joggle. See Figure 1, Sect A-A.
 
-                                                                                                                                                                                   DATE: 12/07/09 REVISION: 1   RV-10   PAGE   45-17
-
+On the 1 1/4 inch window joggle offset line, make a mark
+approximately every 1 1/2 inch around the window
+perimeter. Drill a #40 hole at each mark.
+
+SAND
+SHADED
+AREAS
+
+WINDOW
+FLANGE
+INDEX HOLE
+
+AFT
+INDEX
+HOLE
+
+WINDOW
+FLANGE
+INDEX HOLE
+
+A [section line]
+
+A [section line]
+
+FIGURE 1:
+PREPARE DOOR OUTER SHELL
+
+WINDOW          DRAW LINE          BAG SIDE
+PERIMETER
+
+3/4
+1 1/4
+1 3/4
+MINIMUM
+
+TOOL SIDE
+
+OUTSIDE
+PERIMETER
+
+FWD
+INDEX
+HOLE
+
+3/4 MINIMUM
+EXCEPT AT AFT
+INDEX HOLE
+
+SCRIBE
+LINE
+
+SECT A-A
+
+Step 2: Trim the outside perimeter and window flange of the C-1002B-L and -R Cabin Door Inner Shells as shown in Figure 2.
+
+The tool side of each cabin door inner shell has molded-in dimples that correspond to the dimples molded into the C-1002A-L and
+R Cabin Door Outer Shells. Drill a #40 hole through the cabin door inner shell at the center of each of the six dimples.
+
+Step 3: Sand the bag side surface of the C-1002A-L
+and -R Cabin Door Outer Shells in the areas that
+will mate to the C-1002B-L and -R Cabin Door
+Inner Shells. The mating areas are shown
+shaded in Figure 1.
+
+Step 4: Sand the bag side surface of the
+C-1002B-L and -R Cabin Door Inner
+Shells in the areas that will mate to
+the C-1002A-L and -R Cabin Door
+Outer Shells. The mating areas
+are shown shaded in Figure 2.
+
+SAND
+SHADED
+AREAS
+
+WINDOW
+FLANGE
+INDEX HOLE
+
+WINDOW
+FLANGE
+INDEX HOLE
+
+FWD
+INDEX
+HOLE
+
+WINDOW
+PERIMETER
+
+1 1/2
+MINIMUM
+
+BAG SIDE
+
+WINDOW
+FLANGE
+INDEX HOLE
+
+B [section line]
+
+B [section line]
+
+FIGURE 2:
+PREPARE DOOR INNER SHELL
+
+AFT
+INDEX
+HOLE
+
+OUTSIDE
+PERIMETER
+
+WINDOW
+FLANGE
+INDEX HOLE
+
+1 1/4 MINIMUM
+EXCEPT AT AFT
+INDEX HOLE
+
+TOOL SIDE
+
+SECT B-B
+
+PAGE 45-02  RV-10  REVISION: 0  DATE: 1/14/05

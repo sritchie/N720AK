@@ -1,68 +1,193 @@
-Step 1: Install the hardware shown in Figure 1 to the VA-168 Sender Mount. Install the
-                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-fuel and oil pressure transducers at this time as shown in Figure 1. The pressure senders
-are not included in the kit. If you plan on controlling the hobbs meter with oil pressure
-(the most common method), install a IE SPDT PRES-15 SW Oil Pressure Switch in place
-of the lower pipe plug fitting, see Figure 1. Pressure senders and the oil pressure switch
-are available through VAN'S AIRCRAFT ACCESSORY CATALOG .
+=== PAGE 1 ===
+SECTION FF1: ENGINE INSTALLATION
 
-                                                                                                                                           MS21919WDG3
+VAN'S AIRCRAFT, INC.
+DATE: 1/26/05  REVISION: 0  RV-10  PAGE FF1-1
 
+[Title page with detailed illustration showing Lycoming IO-540 engine installed on engine mount, viewed from front-left quarter]
 
-                                                AN822-4D                                              AN960-10,
-                                                (NOTE CLOCKING)                                       2 PLACES
-                                                                                                                                                           VA-133
-                                                                                       AN3-4A,
-                                                           F 1/8 PIPE PLUG
-                                                                                     2 PLACES                                                                       MS21919DG7,
-                                                                                                                                                                    2 PLACES
-                                                                 VA-168
-                                                                                                                                                                        MS21919WDG3
-                                                                                                     AN3-3A
+Callouts on illustration:
+- WD-1001-D1 DYNA-1 ENGINE MOUNT
+- J-3804-20 ENGINE MOUNT ISOLATOR SET, 4 PLACES
+- VA-133 OIL PRESSURE HOSE
+- CT A-740 BLACK PUSH PULL CONTROL CABLE, 2 PLACES
+- VA-119 IE VMP HOSE 21.5
+- VA-168 SENDER MOUNT
+- VA-186 OIL COOLER BOX ASSEMBLY
+- PROP GOV MT P-420-17 MT GOVERNOR
+- LYCOMING IO-540 PARALLEL VALVE ENGINE
 
-                                                                                                        ENGINE CABLE
-                                                                                                       ROUTING HOLES
+=== PAGE 2 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF1-2  RV-10  REVISION: 0  DATE: 1/26/05
 
-                                                                                                                                                  VA-168
-                                                                     AN823-4D                                                                  AN3-5A,
-                                                                     (NOTE CLOCKING)                                                         2 PLACES
-                                           F 1/8 PIPE PLUG
-                                           OR
-                                                                                                      CT A-740 BLACK,
-                                           IE SPDT PRES-15 SW
-                                                                                                            2 PLACES
+NOTE: This section covers installation of an IO-540 parallel valve Lycoming Engine.
 
-           FIGURE 1: PREPARING THE SENDER MOUNT
-                                                                                                              SAFETY WIRE
+NOTE: Use lubricant when drilling or cutting stainless steel throughout this section.
 
+Step 1: Remove the VA-186B-L and -R Gussets from the VA-186A Oil Cooler Box as shown in Figure 1. Deburr the edges of all three parts.
 
+FIGURE 1: SEPARATING THE GUSSETS FROM THE OIL COOLER BOX
+[Drawing showing VA-186B-L and VA-186B-R gussets separated from VA-186A box, with REMOVE HATCHED AREA callout]
 
-Step 2: Bolt the VA-168 Sender Mount to the Firewall Bulkhead Assembly. See Figure 2.                                                                                                       AN960-10L,
-                                                                                                                                                                                            2 PLACES
-Step 3: Connect the VA-133 Oil Pressure Hose to the AN822-4D elbow on VA-168
-Sender Mount upper right port. Attach the oil pressure hose to the Firewall Bulkhead
-Assembly with cushioned clamps in two places. See Figure 2.
-                                                                                                         VENT TG-10-R
-Step 4: Connect the CT A-740 BLACK Push Pull Cables to the TG-10-L and -R Heat
-Selector boxes. Clamp the cables to the Firewall Bulkhead Assembly with cushioned                                           VENT TG-10-L
-clamps. Route the cables to the instrument panel or other locations in the fuselage as
-desired. Safety wire the push pull cables to the cushioned clamps on top of the heat
-selector boxes. Fill the penetration hole for the push pull cables in the firewall bulkhead
-assembly with RTV. See Figure 2 and Figure 3.
+Step 2: Cleco the VA-186B-L and -R Gussets to the VA-186A Oil Cooler Box as shown in Figure 2. Cleco the oil cooler box to itself. This will create the VA-186 Oil Cooler Box Assembly.
 
+Step 3: Final-Drill #40 the VA-186B-L and -R Gussets to the VA-186A Oil Cooler Box. Final-Drill #40 the nutplate attach holes in the oil cooler box. Final-Drill #30 the oil cooler box to itself.
 
+Step 4: Disassemble the VA-186 Oil Cooler Box Assembly. Dimple the rivet holes in the VA-186A Oil Cooler Box and VA-186B-L and -R Gussets, flush head on the forward and outside faces.
 
+Step 5: Rivet the VA-186B-L and -R Gussets and nutplates to the VA-186A Oil Cooler Box as shown in Figure 2. Rivet the oil cooler box to itself as shown in Figure 2.
 
-                                                                           CT A-740 BLACK,
-                                                                           2 PLACES
-                                                                                                     FIREWALL
-                                                                             ROUTE AS               BULKHEAD
-                                                                             DESIRED                ASSEMBLY
+FIGURE 2: ASSEMBLING THE OIL COOLER BOX ASSEMBLY
+[Drawing showing assembled oil cooler box with callouts:
+- AN426AD3-4, 8 PLACES
+- AN426AD3-4, 2 PLACES / NUTPLATE
+- VA-186B-R
+- K1000-3, 6 PLACES
+- AN426AD4-4, 8 PLACES]
 
+Step 6: Rivet the VA-186 Oil Cooler Box Assembly to the Firewall Bulkhead Assembly using the callouts in Figure 3.
 
-                                                              AN3-3A
-                                                       MS21919WDG3                                FIGURE 2: INSTALLING COMPONENTS
-        FIGURE 3: CLAMPING THE CABIN HEAT CABLES                                                 TO THE FIREWALL BULKHEAD ASSEMBLY
-             TO THE AFT SIDE OF THE FIREWALL
-                                                                                                                                                                                         DATE: 04/02/10 REVISION: 1   RV-10   PAGE   FF1-3
-
+FIGURE 3: INSTALLING THE OIL COOLER BOX ASSEMBLY
+[Drawing showing oil cooler box mounted on firewall bulkhead with callouts:
+- AN426AD4-4, ALL VA-186 TO FIREWALL BULKHEAD ASSEMBLY RIVETS
+- AN426AD4-5
+- VA-186
+- FIREWALL BULKHEAD ASSEMBLY]
+
+=== PAGE 3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 04/02/10  REVISION: 1  RV-10  PAGE FF1-3
+
+Step 1: Install the hardware shown in Figure 1 to the VA-168 Sender Mount. Install the fuel and oil pressure transducers at this time as shown in Figure 1. The pressure senders are not included in the kit. If you plan on controlling the hobbs meter with oil pressure (the most common method), install a IE SPDT PRES-15 SW Oil Pressure Switch in place of the lower pipe plug fitting, see Figure 1. Pressure senders and the oil pressure switch are available through VAN'S AIRCRAFT ACCESSORY CATALOG.
+
+FIGURE 1: PREPARING THE SENDER MOUNT
+[Drawing showing VA-168 sender mount with fittings, callouts:
+- AN822-4D (NOTE CLOCKING)
+- F 1/8 PIPE PLUG
+- OIL PRESSURE TRANSDUCER PORT
+- VA-168
+- FUEL PRESSURE TRANSDUCER PORT
+- AN823-4D (NOTE CLOCKING)
+- F 1/8 PIPE PLUG OR IE SPDT PRES-15 SW]
+
+Step 2: Bolt the VA-168 Sender Mount to the Firewall Bulkhead Assembly. See Figure 2.
+
+Step 3: Connect the VA-133 Oil Pressure Hose to the AN822-4D elbow on VA-168 Sender Mount upper right port. Attach the oil pressure hose to the Firewall Bulkhead Assembly with cushioned clamps in two places. See Figure 2.
+
+Step 4: Connect the CT A-740 BLACK Push Pull Cables to the TG-10-L and -R Heat Selector boxes. Clamp the cables to the Firewall Bulkhead Assembly with cushioned clamps. Route the cables to the instrument panel or other locations in the fuselage as desired. Safety wire the push pull cables to the cushioned clamps on top of the heat selector boxes. Fill the penetration hole for the push pull cables in the firewall bulkhead assembly with RTV. See Figure 2 and Figure 3.
+
+FIGURE 2: INSTALLING COMPONENTS TO THE FIREWALL BULKHEAD ASSEMBLY
+[Drawing showing firewall bulkhead with all components mounted, callouts:
+- MS21919WDG3
+- AN960-10, 2 PLACES
+- VA-133
+- AN3-4A, 2 PLACES
+- MS21919DG7, 2 PLACES
+- MS21919WDG3
+- AN3-3A
+- ENGINE CABLE ROUTING HOLES
+- VA-168
+- AN3-5A, 2 PLACES
+- CT A-740 BLACK, 2 PLACES
+- SAFETY WIRE
+- VENT TG-10-R
+- VENT TG-10-L
+- AN960-10L, 2 PLACES
+- FIREWALL BULKHEAD ASSEMBLY]
+
+FIGURE 3: CLAMPING THE CABIN HEAT CABLES TO THE AFT SIDE OF THE FIREWALL
+[Drawing showing cable clamping detail with callouts:
+- CT A-740 BLACK, 2 PLACES
+- ROUTE AS DESIRED
+- AN3-3A
+- MS21919WDG3]
+
+=== PAGE 4 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF1-4  RV-10  REVISION: 1  DATE: 2/22/05
+
+NOTE: Refer to Figure 1 for Steps 1 through 4 on this page.
+
+Install all fittings with the clocking angle depicted in Figure 1.
+
+Step 1: Install a KB-000 Straight fitting into the fuel pump inlet on the right side of the engine driven fuel pump. Install a KB-090-T Tee Fitting to the fuel pump outlet on the left side of the engine driven fuel pump. Install a VA-128 Restrictor Fitting into the female port in the tee fitting. Install an F 69-F-04X02 Brass Elbow to the overflow port on the aft side of the engine driven fuel pump (leave the nut and ferrule on at this time).
+
+Step 2: Install an AN823-8D 45 degree Elbow fitting in both oil cooler ports.
+
+Step 3: Install a VA-128 Restrictor Fitting into the oil pressure port.
+
+Step 4: Install a AN816-4D Nipple in the manifold pressure/priming port on the #5 Cylinder.
+
+Step 5: Install the PROP GOV MT P-420-17 to the front of the engine per the instructions supplied with the governor. See Figure 2.
+
+NOTE: Install any other accessories to rear of the engine at this time.
+
+FIGURE 1: ATTACHING FLUID AND PRESSURE FITTINGS TO THE ENGINE
+[Detailed drawing of engine rear showing all fittings with callouts:
+- UPPER OIL COOLER PORT
+- AN823-8D (NOTE CLOCKING)
+- TACHOMETER CONNECTION
+- VACUUM ACCESSORY PAD
+- OIL PRESSURE PORT
+- VA-128
+- #5 CYLINDER MANIFOLD PRESSURE/PRIMING PORT
+- AN816-4D
+- AN823-8D
+- FUEL OVERFLOW PORT
+- VA-128
+- KB-090-T
+- F 69-F-04X02
+- FUEL PUMP OUTLET
+- ENGINE DRIVEN FUEL PUMP
+- HARDWARE SUPPLIED WITH ENGINE
+- KB-000
+- FUEL PUMP INLET
+- LOWER OIL COOLER PORT]
+
+FIGURE 2: INSTALLING THE PROPELLER GOVERNOR
+[Drawing showing front of engine with PROP GOV MT P-420-17 mounted]
+
+=== PAGE 5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 1/26/05  REVISION: 0  RV-10  PAGE FF1-5
+
+Step 1: Attach the engine to the WD-1001-D1 DYNA-1 Engine Mount using the hardware shown in Figure 1 at all four engine attach points (Figure 1 only depicts the upper two attach points). See Section 5V, Nut and Bolt Torques.
+
+FIGURE 1: INSTALLING THE ENGINE TO THE ENGINE MOUNT
+[Detailed exploded view drawing showing engine mount hardware stack-up with callouts:
+- WD-1001-D1
+- AN7-26
+- J-3804-20 DUROMETER
+- J-3804-20 SPACER
+- IO-540 DYNAFOCAL 1 ENGINE MOUNT BOSS (ENGINE OMITTED FOR CLARITY)
+- J-3804-20 DUROMETER
+- AN960-716
+- AN310-7
+- MS24665-283]
+
+[Second drawing showing engine being lowered onto mount from above]
+
+=== PAGE 6 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF1-6  RV-10  REVISION: 0  DATE: 1/26/05
+
+Step 1: Drill a 3/8 diameter hole in the Firewall Bulkhead Assembly at the location called out in Figure 1. The dimensions are relative to the upper right bolt that attached the WD-1001-D1 Dyna 1 Engine Mount.
+
+Step 2: Install the IE VMP INSTALL KIT per the callouts in Figure 1 and the instructions provided with the kit.
+
+FIGURE 1: INSTALLING THE MANIFOLD PRESSURE HOSE
+[Drawing showing manifold pressure hose routing from engine to firewall with callouts:
+- FIREWALL BULKHEAD ASSEMBLY
+- WD-1001-D1
+- AN816-4D (ALREADY INSTALLED ON PAGE FF1-4)
+- 3 (dimension)
+- 1 3/16 (dimension)
+- AN SPACER, 4D
+- AN924-4D
+- PT .094X.156
+- TO TRANSDUCER
+- VA-119
+- VA-170 (FOR VAN'S MANIFOLD PRESSURE GAUGE, OTHER GAUGES MAY REQUIRE A DIFFERENT FITTING)]
+
+[Detail inset showing close-up of hose connection at engine end]

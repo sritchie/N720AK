@@ -1,157 +1,108 @@
-                                                                                                                VAN'S AIRCRAFT, INC.
+SECTION 31: UPPER FORWARD FUSELAGE ASSEMBLY
+Van's Aircraft, Inc.
+RV-10
+Date: 07/24/14
 
+=== PAGE 1 ===
+PAGE 31-1 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-       SECTION 31:
-UPPER FORWARD FUSELAGE
-       ASSEMBLY
-                                                                F-1045-R
-                                                            FWD FUSELAGE RIB                 F-1068B-R
-                                                                                           SUB PANEL SIDE
+SECTION 31: UPPER FORWARD FUSELAGE ASSEMBLY
 
-                                                                                                  F-1071B
-                                                                                            HAND HOLD DOUBLER
-                                                                                                                        F-1003C-R
-                                                                                                                       INST PANEL
-                                                   F-1044A
-                                                                                                                     ATTACH FLANGE
-                                              FWD FUSELAGE RIB
+[Isometric drawing showing the upper forward fuselage structure from a forward-left perspective, with the fwd fuse top skin, sub panel, instrument panel area, and fwd fuselage ribs visible]
 
+Part callouts:
+- F-1045-R FWD FUSELAGE RIB
+- F-1068B-R SUB PANEL SIDE
+- F-1071B HAND HOLD DOUBLER
+- F-1003C-R INST PANEL ATTACH FLANGE
+- F-1071 FWD FUSE TOP SKIN
+- F-1068A SUB PANEL CENTER
+- F-1044A FWD FUSELAGE RIB
+- F-1003E INST PANEL ATTACH FLANGE
+- F-1044D ANGLE
+- F-1044E ANGLE
+- F-1044B ANGLE
+- F-1003D INST PANEL ATTACH FLANGE
+- F-1071B HAND HOLD DOUBLER
+- F-1045-L FWD FUSELAGE RIB
+- F-1068B-L SUB PANEL SIDE
+- F-1003C-L INST PANEL ATTACH FLANGE
+- F-1003A INSTRUMENT PANEL
+- F-1003B INST PANEL LOWER FLANGE
 
-            F-1071
-                                                                         F-1003E
-      FWD FUSE TOP SKIN
-                                                                       INST PANEL
-                                                                     ATTACH FLANGE
+=== PAGE 2 ===
+PAGE 31-2 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Fabricate the F-1044C Spacer from AS3-063 x .625 as shown in Figure 1.
 
-                                F-1068A
-                           SUB PANEL CENTER
-                                                F-1044D
-                                                ANGLE
+[Drawing showing F-1044C spacer dimensions:]
+- 5/8 (width)
+- 13 9/32 (length)
+- End view: 5/16, O1/8, 5/16 (cross-section)
 
+FIGURE 1: FABRICATE SPACER
 
-                                                  F-1044E                       F-1044B
-                                                  ANGLE                         ANGLE
-                                                                         F-1003D
-                                                                       INST PANEL
-                                                                     ATTACH FLANGE
+Step 2: Fabricate the F-1044B Angle from AA6-125 x 3/4 x 3/4 as shown in Figure 2.
 
+[Drawing showing F-1044B angle dimensions:]
+- 149.0 degrees (bend angle)
+- O1/8 (hole)
+- 3 (flange length)
+- 7/16 (height)
+- 17 5/16 (overall length)
 
-            F-1045-L                                              F-1071B
-                                                            HAND HOLD DOUBLER                         F-1003A
-       FWD FUSELAGE RIB                                                                          INSTRUMENT PANEL
+FIGURE 2: FABRICATE ANGLE
 
-         F-1068B-L
-       SUB PANEL SIDE
-                                                                                                   F-1003B
-                                                                                          INST PANEL LOWER FLANGE
+Step 3: Fabricate the F-1003D and F-1003E Inst Panel Attach Flanges from AA3-032 x 3/4 x 3/4 as shown in Figure 3.
 
+[Drawing showing dimensions:]
+- 11 13/16 (F-1003D); 11 1/8 (F-1003E)
+- (1/32) edge distance
+- (3/4) flange width
+- (3/4) flange height
 
+FIGURE 3: FABRICATE INST PANEL ATTACH FLANGES
 
+Step 4: Break apart the F-1044DEF Angle into individual F-1044D, F-1044E, and F-1044F Angles as shown in Figure 4.
 
-                             F-1003C-L
-                            INST PANEL
-                          ATTACH FLANGE
+[Drawing showing three angle pieces:]
+- F-1044D
+- F-1044F
+- F-1044E
 
+FIGURE 4: BREAK APART ANGLES
 
+Step 5: Flute and straighten the flanges of the F-1003C Inst Panel Attach Flange per Section 5N.
 
+Cut apart the inst panel attach flange into individual F-1003C-L and F-1003C-R Inst Panel Attach Flanges as shown in Figure 5.
 
-                                                                                                                    DATE: 07/24/14 REVISION: 0   RV-10   PAGE   31-1
-                       VAN'S AIRCRAFT, INC.                                                                                    Step 4: Break apart the F-1044DEF Angle into individual F-1044D, F-1044E, and F-1044F Angles as shown in Figure 4.
+[Drawing showing:]
+- CUT AWAY HATCHED AREA AND DISCARD
+- F-1003C-L
+- F-1003C-R
 
+FIGURE 5: BREAK APART INST PANEL ATTACH FLANGES
 
+=== PAGE 3 ===
+PAGE 31-3 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Final-Drill #40 all the nutplate attach holes in the F-1003C-L & R Inst Panel Attach Flanges as shown in Figure 1.
 
-   Step 1: Fabricate the F-1044C Spacer from AS3-063 x .625 as shown in Figure 1.
-                                                                                                                        5/16
-                                                                                                    Ø1/8
+Final-Drill #19 all the nutplate screw holes in the inst panel attach flanges as shown in Figure 1.
 
-                             5/8                                                                                                                                                                                   F-1044F
-                                                                                                                                                                 F-1044D
+Deburr all final-drilled holes in the inst panel attach flanges.
 
-                                                                                                                        5/16
-                                                         13 9/32
+Dimple the nutplate attach holes in the inst panel attach flanges. See Figure 1. Dimple the nutplates that will be attached to the inst panel attach flanges.
 
-                                                                                                                                                                                      F-1044E
+Rivet nutplates to the inst panel attach flanges as shown in Figure 1.
 
-                                       FIGURE 1: FABRICATE SPACER                                                                                              FIGURE 4: BREAK APART ANGLES
+[Drawing showing:]
+- AN426AD3-3.5, TYP
+- F-1003C-L
+- K1000-08, 5 PLACES
 
+FIGURE 1: INST PANEL ATTACH FLANGE NUTPLATE INSTALLATION
 
-   Step 2: Fabricate the F-1044B Angle from AA6-125 x 3/4 x 3/4 as shown in Figure 2.
-
-
-
-
-                         149.0°    Ø1/8                                  3
-
-
-
-
-                                                                                                           7/16                Step 5: Flute and straighten the flanges of the F-1003C Inst Panel Attach Flange per Section 5N.
-
-                                                                                                                               Cut apart the inst panel attach flange into individual F-1003C-L and F-1003C-R Inst Panel Attach Flanges as shown in Figure 5.
-                                                        17 5/16
-
-                                       FIGURE 2: FABRICATE ANGLE
-                                                                                                                                                                       CUT AWAY HATCHED
-                                                                                                                                                                       AREA AND DISCARD
-   Step 3: Fabricate the F-1003D and F-1003E Inst Panel Attach Flanges from AA3-032 x 3/4 x 3/4 as shown in Figure 3.
-                                                                                                                                                          F-1003C-L
-                                                                                        (1/32)
-
-
-
-                                                                                                       (3/4)
-
-
-
-                                                                                            (3/4)
-                                       11 13/16 (F-1003D);
-                                        11 1/8 (F-1003E)                                                                                                                                                               F-1003C-R
-
-
-
-                   FIGURE 3: FABRICATE INST PANEL ATTACH FLANGES
-
-                                                                                                                                                     FIGURE 5: BREAK APART INST PANEL ATTACH FLANGES
-
-
-
-
-PAGE   31-2    RV-10     REVISION: 0   DATE: 07/24/14
-Step 1: Final-Drill #40 all the nutplate attach holes in the F-1003C-L & R Inst Panel Attach Flanges as shown in Figure 1.      Step 3: Final-Drill #40 the nutplate attach holes in the F-1045-L & R
-                                                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
-                                                                                                                                Fwd Fuselage Ribs as shown in Figure 3.
-Final-Drill #19 all the nutplate screw holes in the inst panel attach flanges
-as shown in Figure 1.                                                                                                           Final-Drill #19 the nutplate screw holes in the fwd fuselage ribs as shown in Figure 3.
-
-Deburr all final-drilled holes in the             AN426AD3-3.5,                                                                 Final-Drill #30 the rivet holes in the forward flanges of the fwd fuselage rib as shown in Figure 3.
-inst panel attach flanges.                            TYP
-                                                                                                                                 Deburr all final-drilled holes in the fwd fuselage rib.
-Dimple the nutplate attach holes in the
-inst panel attach flanges. See Figure 1.                                                                                         Dimple the nutplate attach holes and the rivet holes in the forward
-Dimple the nutplates that will be attached                                                                                       flanges of the fwd fuselage rib. See Figure 3. Dimple the
-to the inst panel attach flanges.                                                               F-1003C-L                        nutplates that will be attached to the fwd fuselage ribs.
-
-Rivet nutplates to the inst panel attach                                                                                         Rivet nutplates to the fwd fuselage ribs
-flanges as shown in Figure 1.                                                                                                    as shown in Figure 3.
-                                                                         K1000-08,
-                                                                         5 PLACES
-
-
-
-
-                                                                                                                                                                                                                                       FINAL-DRILL #30,
-                                                                                                                                                                                                                                          7 PLACES
-                                                                          FIGURE 1:                                                  K1000-08
-                                                                  INST PANEL ATTACH FLANGE
-                                                                                                                                                                                                           F-1045-L
-                                                                    NUTPLATE INSTALLATION
-
-
-
-
-                                                                                                                               AN426AD3-3.5                    FIGURE 3: FWD FUSELAGE RIB NUTPLATE INSTALLATION
 Step 2: Final-Drill #40 the nutplate attach holes in the F-1044A Fwd Fuselage Rib as shown in Figure 2.
 
 Final-Drill #19 the nutplate screw hole in the fwd fuselage rib as shown in Figure 2.
@@ -160,126 +111,95 @@ Final-Drill #30 the rivet holes in the forward flange of the fwd fuselage rib as
 
 Deburr all final-drilled holes in the fwd fuselage rib.
 
-Dimple the nutplate attach holes and the rivet holes in the forward flange
-of the fwd fuselage rib. See Figure 2. Dimple the nutplates that
-will be attached to the fwd fuselage rib.
+Dimple the nutplate attach holes and the rivet holes in the forward flange of the fwd fuselage rib. See Figure 2. Dimple the nutplates that will be attached to the fwd fuselage ribs.
 
-Rivet nutplates to the fwd fuselage rib
-as shown in Figure 2.
+Rivet nutplates to the fwd fuselage rib as shown in Figure 2.
 
+[Drawing showing:]
+- K1000-08
+- FINAL-DRILL #30, 8 PLACES
+- F-1044A
+- AN426AD3-3.5
 
+FIGURE 2: FWD FUSELAGE RIB NUTPLATE INSTALLATION
 
+Step 3: Final-Drill #40 the nutplate attach holes in the F-1045-L & R Fwd Fuselage Ribs as shown in Figure 3.
 
-                                                                                                            FINAL-DRILL #30,
-             K1000-08                                                                                          8 PLACES
+Final-Drill #19 the nutplate screw holes in the fwd fuselage ribs as shown in Figure 3.
 
+Final-Drill #30 the rivet holes in the forward flanges of the fwd fuselage rib as shown in Figure 3.
 
+Deburr all final-drilled holes in the fwd fuselage rib.
 
-                                                                                 F-1044A
+Dimple the nutplate attach holes and the rivet holes in the forward flanges of the fwd fuselage rib. See Figure 3. Dimple the nutplates that will be attached to the fwd fuselage ribs.
 
+Rivet nutplates to the fwd fuselage ribs as shown in Figure 3.
 
+[Drawing showing:]
+- K1000-08
+- AN426AD3-3.5
+- F-1045-L
+- FINAL-DRILL #30, 7 PLACES
 
+FIGURE 3: FWD FUSELAGE RIB NUTPLATE INSTALLATION
 
-     AN426AD3-3.5                       FIGURE 2: FWD FUSELAGE RIB NUTPLATE INSTALLATION
+=== PAGE 4 ===
+PAGE 31-4 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Using the edge of a table or other straight edge, bend the lower portion of the F-1068A Sub Panel Center as shown in Figure 1.
 
-                                                                                                                                                                                                                          DATE: 07/24/14 REVISION: 0   RV-10   PAGE   31-3
-                        VAN'S AIRCRAFT, INC.                                                                   Step 4: Cleco the F-1044A Fwd Fuselage Rib, F-1044D, E, & F Angles, F-1045-L & R Fwd Fuselage Ribs, F-1068A Sub Panel Center,
-                                                                                                               F-1068B-L & R Sub Panel Sides, and F-1083 Control Cable Bracket as shown in Figure 3.
+[Drawing showing:]
+- BEND LINE
+- F-1068A
+- 7.3 degrees
 
-                                                                                                               Final-Drill #30 all holes common to the parts clecoed together.
-   Step 1: Using the edge of a table or other straight
-   edge, bend the lower portion of the F-1068A
-   Sub Panel Center as shown in Figure 1.
-                                                                                                                                                                                                 F-1068B-R
-                                                                                                                                                                                 F-1045-R
+FIGURE 1: BEND SUB PANEL CENTER
 
+Step 2: Using the edge of a table or other straight edge, bend the lower portions of the F-1068B-L and F-1068B-R Sub Panel Sides as shown in Figure 2.
 
+[Drawing showing:]
+- BEND LINE
+- F-1068B-L
+- 7.3 degrees
+- 1/4
 
+FIGURE 2: BEND SUB PANEL SIDE
 
-                                                                                  F-1068A
+Step 3: Flute and straighten the curved flanges of the F-1068B-L and F-1068B-R Sub Panel Sides per Section 5N.
 
-                                                                                                                                              F-1044D
-                                  BEND LINE
-                                                                                                                                           F-1044A
+Step 4: Cleco the F-1044A Fwd Fuselage Rib, F-1044D, E, & F Angles, F-1045-L & R Fwd Fuselage Ribs, F-1068A Sub Panel Center, F-1068B-L & R Sub Panel Sides, and F-1083 Control Cable Bracket as shown in Figure 3.
 
-                                                                 FIGURE 1:
-                                                          BEND SUB PANEL CENTER
+Final-Drill #30 all holes common to the parts clecoed together.
 
+FIGURE 3: SUB-PANEL & FWD FUSELAGE RIB ASSEMBLY
+[Isometric drawing showing the sub-panel and fuselage rib assembly with labeled parts:]
+- F-1068B-R
+- F-1045-R
+- F-1044D
+- F-1044A
+- F-1044F
+- F-1044E
+- F-1068A
+- F-1045-L
+- F-1083
+- F-1068B-L
 
+=== PAGE 5 ===
+PAGE 31-5 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Insert the F-1044B Angle and F-1044C Spacer through the angle shaped opening in the F-1068A Sub Panel Center.
 
-                                                                                                                             F-1044F
+Cleco the angle and spacer to the F-1044A Fwd Fuselage Rib as shown in Figure 1.
 
+[Drawing showing:]
+- F-1044C (FITS BETWEEN F-1044A AND F-1044B)
+- ANGLE SHAPED OPENING
+- F-1068A
+- F-1044A
+- F-1044B
+- INSERT CLECO
 
-                                                                                            F-1045-L
-
-                                                                                                                                   F-1044E                                       F-1068A
-
-
-  Step 2: Using the edge of a table or other straight
-  edge, bend the lower portions of the F-1068B-L and
-  F-1068B-R Sub Panel Sides as shown in Figure 2.
-
-
-
-
-                               BEND LINE
-                                                                                                                                                                 FIGURE 3:
-                                                                                                                        F-1083
-                                                                                                                                                                SUB-PANEL &
-                                                                                                                                                         FWD FUSELAGE RIB ASSEMBLY
-                                                          F-1068B-L
-
-
-                                                                                                   F-1068B-L
-
-
-
-
-              FIGURE 2: BEND SUB PANEL SIDE
-
-   Step 3: Flute and straighten the curved flanges of
-   the F-1068B-L and F-1068B-R Sub Panel Sides per
-   Section 5N.
-
-
-
-
-PAGE   31-4     RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Insert the F-1044B Angle and F-1044C Spacer through the angle shaped opening in the F-1068A Sub Panel Center.
-                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
-                                                                                                                        Step 3: Using a long #30 drill bit, drill downward through the pilot hole near the middle of the F-1001B Upper
-Cleco the angle and spacer to the F-1044A Fwd Fuselage Rib as shown in Figure 1.                                        Firewall Angle and through the upper surface of the F-1001K Firewall Recess. See Figure 3.
-                                                      F-1044C
-                                                  (FITS BETWEEN                                                         The new hole in the firewall recess will allow for drilling back up into the F-1044B Angle.
-                                                    F-1044A AND
-                                                      F-1044B)                                                          Use care when drilling so as not to enlarge the pilot hole in the upper firewall angle.
-        ANGLE SHAPED
-          OPENING
-
-                                                                                           F-1044A
-                     F-1068A
-
-
-
-
-                                                                                 F-1044B                                                                               DRILL #30
-                                                              INSERT CLECO
-
-
-                                                                                                                                                                             F-1001K
-
-
-
-
-                                                                    FIGURE 1:                                                                  PILOT HOLE
-                                                              CLECO ANGLE & SPACER                                                              IN F-1001B
-                                                               TO FWD FUSELAGE RIB
-                                                                                                                               F-1001B
-                                                             (SOME PARTS NOT SHOWN)
-                                                                                                                                                                      NEW HOLE
-                                                                                                                                                                      IN F-1001K
+FIGURE 1: CLECO ANGLE & SPACER TO FWD FUSELAGE RIB (SOME PARTS NOT SHOWN)
 
 Step 2: Remove the F-1083 Control Cable Bracket from the F-1068A Sub Panel Center.
 
@@ -291,327 +211,282 @@ Deburr the holes and edges of the control cable bracket.
 
 Dimple the nutplate attach holes. See Figure 2.
 
+[Drawing showing:]
+- AN426AD3-3.5, 8 PLACES
+- K1000-08, 4 PLACES
 
+FIGURE 2: CONTROL CABLE BRACKET NUTPLATE INSTALLATION
 
-                                                                                                                                                 FIGURE 3: DRILL THROUGH FIREWALL UPPER ANGLE
-        AN426AD3-3.5,
-          8 PLACES
-                                                                                                                                                              INTO FIREWALL RECESS
+Step 3: Using a long #30 drill bit, drill downward through the pilot hole near the middle of the F-1001B Upper Firewall Angle and through the upper surface of the F-1001K Firewall Recess. See Figure 3.
 
+The new hole in the firewall recess will allow for drilling back up into the F-1044B Angle.
 
-                                                                K1000-08,
-                                                                4 PLACES
+Use care when drilling so as not to enlarge the pilot hole in the upper firewall angle.
 
+[Drawing showing:]
+- F-1001B
+- PILOT HOLE IN F-1001B
+- F-1001K
+- NEW HOLE IN F-1001K
+- DRILL #30
 
+FIGURE 3: DRILL THROUGH FIREWALL UPPER ANGLE INTO FIREWALL RECESS
 
+=== PAGE 6 ===
+PAGE 31-6 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-                                                                      FIGURE 2:
-                                                               CONTROL CABLE BRACKET
-                                                                NUTPLATE INSTALLATION
-                                                                                                                                                                                                              DATE: 07/24/14 REVISION: 0   RV-10   PAGE   31-5
-                       VAN'S AIRCRAFT, INC.                                                                                                                                 Step 3: Final-Drill #19 all holes in the F-1003A Instrument Panel.
-                        Step 1: Cleco the Sub Panel/Fwd Fuselage Rib Subassembly to the forward fuselage as shown in Figure 1.
-                       It is permissible to slightly spread the F-1040-L & R Upper Fuse Channels to allow clearance for installation.                                       Step 4: Final-Drill #19 all nutplate screw holes in the F-1003B Inst Panel Lower
-                                                                                                                                                                            Flange.
-  Final-Drill #30 four places F-1068B-L to F-1002-L and four places F-1068B-R to F-1002-R as shown in Figure 1.
-                                                                                                                                                                            Final-Drill #40 the rivet holes in the end tabs and nutplate attach holes in the inst panel
-  Rotate the F-1044B Angle on the cleco holding it and the F-1044C Spacer to the F-1044A Fwd Fuse Rib until the forward tab of the angle                                    lower flange. See Figure 2.
-  rests on the upper surface of the F-1001B Firewall Upper Angle. Adjust the bend angle of the tab on the angle if/as required to rest flat on
-  the firewall upper angle.                                                                                                                                                 Machine countersink the nutplate attach holes to fit the head of an AN426AD3 rivet.
-                                                                                                   SUB PANEL/                                                               See Figure 2.
-  Match-Drill #30 and cleco the angle and spacer to the fwd fuselage rib in two            FORWARD      FUSELAGE RIB
-  places (once in the middle of the angle and once in the forward end of the angle)              SUBASSEMBLY                                                                Machine countersink the rivet holes in the end tabs to fit the dimples in the fuselage
-                                                                                                                                                                            side skin. Make a dimple test sample by drilling and dimpling a scrap of .032
-  using the holes in the fwd fuselage rib as drill guides.
-                                                                                                                                                                            aluminum for an AN426AD3 rivet. See Figure 2. See Section 5E.
-  Step 2: Match-Drill #30 upward through the pilot hole in the upper surface of
-  the F-1001K Firewall Recess, through the pilot hole
-  in the F-1001B Upper Firewall Angle and                                                                                                                                   Rivet nutplates to the inst panel lower flange as shown in Figure 2.
-  into the forward tab of the F-1044B Angle.
-  See Page 31-5, Figure 3.
-                                                                                                      F-1044C
-   Cleco the forward tab of the F-1044A Angle                                                     (BETWEEN ANGLE
-   to the upper firewall angle.                                                                       AND RIB)
+Step 1: Cleco the Sub Panel/Fwd Fuselage Rib Subassembly to the forward fuselage as shown in Figure 1. It is permissible to slightly spread the F-1040-L & R Upper Fuse Channels to allow clearance for installation.
 
+Final-Drill #30 four places F-1068B-L to F-1002-L and four places F-1068B-R to F-1002-R as shown in Figure 1.
 
+Rotate the F-1044B Angle on the cleco holding it and the F-1044C Spacer to the F-1044A Fwd Fuse Rib until the forward tab of the angle rests on the upper surface of the F-1001B Firewall Upper Angle. Adjust the bend angle of the tab on the angle if/as required to rest flat on the firewall upper angle.
 
-                                                                                                                                         F-1040-R
+Match-Drill #30 and cleco the angle and spacer to the fwd fuselage rib in two places (once in the middle of the angle and once in the forward end of the angle) using the holes in the fwd fuselage rib as drill guides.
 
-                                                                                        F-1044B
+Step 2: Match-Drill #30 upward through the pilot hole in the upper surface of the F-1001K Firewall Recess, through the pilot hole in the F-1001B Firewall Upper Angle and into the forward tab of the F-1044B Angle. See Page 31-5, Figure 3.
 
+Cleco the forward tab of the F-1044A Angle to the upper firewall angle.
 
-   F-1001B                                                                                                                                F-1002-R
-                                                                                                      FINAL DRILL #30,
-                                                                                                          4 PLACES
-                                                                                                         EACH SIDE
-                                                                                                                                                                                                                            F-1003B
+[Drawing showing:]
+- SUB PANEL/FORWARD FUSELAGE RIB SUBASSEMBLY
+- F-1044C (BETWEEN ANGLE AND RIB)
+- F-1044B
+- F-1001B
+- FINAL DRILL #30, 4 PLACES EACH SIDE
+- F-1002-L
+- F-1040-L
+- F-1040-R
+- F-1002-R
 
+FIGURE 1: CLECO SUB PANEL/FWD FUSELAGE RIB SUBASSEMBLY TO FUSELAGE
 
+Step 3: Final-Drill #19 all holes in the F-1003A Instrument Panel.
 
+Step 4: Final-Drill #19 all nutplate screw holes in the F-1003B Inst Panel Lower Flange.
 
-                                                                                                                                                                                  AN426AD3-4,
-                                                                                                                                                                                     TYP
-                                                                                                                                                                                                                                   K1000-08,
-                                                                                                                                                                                                                                     TYP
-                                                   F-1002-L
-                                                     F-1040-L
+Final-Drill #40 the rivet holes in the end tabs and nutplate attach holes in the inst panel lower flange. See Figure 2.
 
+Machine countersink the nutplate attach holes to fit the head of an AN426AD3 rivet. See Figure 2.
 
+Machine countersink the rivet holes in the end tabs to fit the dimples in the fuselage side skin. Make a dimple test sample by drilling and dimpling a scrap of .032 aluminum for an AN426AD3 rivet. See Figure 2. See Section 5E.
 
+Rivet nutplates to the inst panel lower flange as shown in Figure 2.
 
-                                                                                          FIGURE 1:
-                                                                              CLECO SUB PANEL/FWD FUSELAGE RIB                                                                                  FIGURE 2:
-                                                                                  SUBASSEMBLY TO FUSELAGE                                                                            INSTRUMENT PANEL LOWER FLANGE
-                                                                                                                                                                                          NUTPLATE INSTALLATION
+[Drawing showing:]
+- F-1003B
+- AN426AD3-4, TYP
+- K1000-08, TYP
+- FINAL-DRILL #40 AND MACHINE COUNTERSINK, 2 PLACES EACH END
 
+FIGURE 2: INSTRUMENT PANEL LOWER FLANGE NUTPLATE INSTALLATION
 
-                                                                                                                                                      FINAL-DRILL #40 AND
-                                                                                                                                                     MACHINE COUNTERSINK,
-                                                                                                                                                      2 PLACES EACH END
+=== PAGE 7 ===
+PAGE 31-7 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-PAGE   31-6    RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Attach the F-1003B Inst Panel Lower Flange and F-1003C-L & R Inst Panel
-                                                                                                                                                                                   VAN'S AIRCRAFT, INC.
-Attach Flanges to the F-1003A Instrument Panel as shown in Figure 1.
+Step 1: Attach the F-1003B Inst Panel Lower Flange and F-1003C-L & R Inst Panel Attach Flanges to the F-1003A Instrument Panel as shown in Figure 1.
 
-Position the F-1003D and F-1003E Inst Panel Attach Flanges over the
-instrument panel and flute the outboard ends as required to
-match the instrument panel upper edge
-contour. See Figure 1. Locate the flutes    F-1003E
-                                                                                                 F-1003C-R                                                                  F-1071B
-in the inst panel attach flanges between
-the instrument panel screw holes
-as shown in Figure 1.
+Position the F-1003D and F-1003E Inst Panel Attach Flanges over the instrument panel and flute the outboard ends as required to match the instrument panel upper edge contour. See Figure 1. Locate the flutes in the inst panel attach flanges between the instrument panel screw holes as shown in Figure 1.
 
-                     F-1003D                                                         AN526C832R8,
-                                                                                         TYP
+[Drawing showing:]
+- F-1003E
+- F-1003C-R
+- AN526C832R8, TYP
+- F-1003D
+- F-1003A
+- F-1003C-L
+- LOCATE FLUTES BETWEEN SCREW HOLES
+- F-1003B
 
-         F-1003A                                LOCATE
-                                            FLUTES BETWEEN
-F-1003C-L                                    SCREW HOLES
-                                                                                                                                          F-1071B
-                                                                                                                                                                                  F-1071
+FIGURE 1: INSTRUMENT PANEL SUBASSEMBLY
 
+Step 2: Attach the subassembly of F-1003A Instrument Panel, F-1003B Inst Panel Lower Flange, and the F-1003C-L & R Inst Panel Attach Flanges to the F-1044A, F-1045-L, & F-1045-R Fwd Fuselage Ribs as shown in Figure 2.
 
-                                                                                                  F-1003B
+Step 3: Cleco the F-1071 Fwd Fuse Top Skin to the flanges of F-1001A, F-1003C-L & R, F-1044A, F-1045-L & R, F-1068A, F-1068B-L & R, and to the F-1040-L & R Fwd Fuselage Channels as shown in Figure 2.
 
-                                                                                                                                                     F-1001A
-                                                                                                                                                                         F-1068A
-                                                                                                                                                                               F-1068B-R
-                                                                     FIGURE 1:
-                                                                                                                                                                             F-1045-R
-                                                                INSTRUMENT PANEL
-                                                                                                                                                                                            F-1003C-R
-                                                                   SUBASSEMBLY
-                                                                                                                                                                                                                     F-1040-R
+Note that the fwd fuse top skin is NOT symmetrical and that it must be installed such that the "slot" is on the leftside of the F-1044A Fwd Fuselage Rib. See Figure 2.
 
+Step 4: Form the F-1071B Hand Hold Doublers to match the countour of the F-1071 Fwd Fuse Top Skin as it is clecoed in place. The forming process will create one "Left" hand hold doubler and one "Right" hand hold doubler.
 
-
-
-Step 2: Attach the subassembly of F-1003A Instrument Panel, F-1003B Inst Panel Lower Flange, and the F-1003C-L & R
-Inst Panel Attach Flanges to the F-1044A, F-1045-L, & F-1045-R Fwd Fuselage Ribs as shown in Figure 2.
-                                                                                                                                           F-1003A                            AN526C832R8,
-Step 3: Cleco the F-1071 Fwd Fuse Top Skin to the flanges of F-1001A, F-1003C-L & R, F-1044A, F-1045-L & R,                                                                     3 PLACES
-F-1068A, F-1068B-L & R, and to the F-1040-L & R Fwd Fuselage Channels as shown in Figure 2.                                               F-1045-L             F-1044A
-
-Note that the fwd fuse top skin is NOT symmetrical and that it must be installed such that the "slot" is on the
-leftside of the F-1044A Fwd Fuselage Rib. See Figure 2.
-                                                                                                                  F-1068B-L
-Step 4: Form the F-1071B Hand Hold Doublers to match the countour of the F-1071 Fwd Fuse Top Skin
-as it is clecoed in place. The forming process will create one "Left" hand hold doubler and one                                                                                                       F-1003B
-"Right" hand hold doubler.
-                                                                                                                              F-1003C-L
 Cleco the hand hold doublers to the fwd fuse top skin as shown in Figure 2.
 
-Match-Drill #40 each of the hand hold doublers to the fwd fuse top skin in the four places where there is no
-hole pre-punched in the fwd fuse top skin.
-                                                                                                                                                                               FIGURE 2:
-Final-Drill #40 each of the hand hold doublers to the fwd fuse top skin and the sub-structure in all the                                                                  CLECO FWD FUSE TOP
-places where there are matching pre-punched holes.                                                                                                                         SKIN TO FUSELAGE
-                                                                                                                                               F-1040-L
-Trace around the perimeter of each of the hand hold doublers with a sharpie pen. This will show where
-the fwd fuse skin is NOT to be dimpled.
+Match-Drill #40 each of the hand hold doublers to the fwd fuse top skin in the four places where there is no hole pre-punched in the fwd fuse top skin.
 
-Step 5: Final-Drill #40 the F-1071 Fwd Fuse Top Skin to the sub-structure through all holes not yet
-final-drilled.
-                                                                                                                                                                                        DATE: 07/24/14 REVISION: 0     RV-10    PAGE   31-7
-                        VAN'S AIRCRAFT, INC.                                                                                                   Step 8: Dimple the holes in the flanges of the F-1001A Firewall Bulkhead that are common to the F-1071 Fwd Fuse Top Skin. See
-                        Step 1: Position the F-1003D Inst Panel Attach Flange simultaneously against the F-1071 Fwd Fuse Top Skin              Page 31-7, Figure 2.
-                        and the forward side of the F-1003A Instrument Panel (See Page 31-7, Figure 1). Match-Drill #40 and cleco the
-  inst panel attach flange using the holes in the fwd fuse top skin as drill guides. Be sure that the inst panel attach flange is in contact   Step 9: Machine countersink the holes in the F-1040-L & R Upper Fuse Channels and F-1042-L & R Bulkhead Side Channels that
-  with the forward surface of the instrument panel when match-drilling.                                                                        are common to the F-1071 Fwd Fuse Top Skin. Countersink deep enough to fit the dimples in the fwd fuse top skin. Make a dimple
-                                                                                                                                               test sample by drilling and dimpling a scrap of .032 aluminum for an AN426AD3 rivet. See Page 31-7, Figure 2. See Section 5E.
-  Step 2: Position the F-1003E Inst Panel Attach Flange simultaneously against the F-1071 Fwd Fuse Top Skin and the forward side
-  of the F-1003A Instrument Panel (See Page 31-7, Figure 1). Match-Drill #40 and cleco the inst panel attach flange using the holes in         Most "micro-stop" countersink cages will interfere with the upper edge of the F-1069 Fwd Side Skins. In this case, the
-  the fwd fuse top skin as drill guides. Be sure that the inst panel attach flange is in contact with the forward surface of the instrument    countersinking is best done "free-hand" with a countersink cutter in a drill motor.
-  panel when match-drilling.
-                                                                                                                                               Step 10: Remove the subassembly of F-1003A Instrument Panel, F-1003B Inst Panel Lower Flange, and the F-1003C-L & R Inst
-   Step 3: Match-Drill #19 through the screw holes in the F-1003A Instrument Panel and into the F-1003D and F-1003E Inst Panel                 Panel Attach Flanges from the F-1044A, F-1045-L, & F-1045-R Fwd Fuselage Ribs. See Page 31-7, Figures 1 and 2.
-   Attach Flanges.
-                                                                                                                                               Remove the inst panel attach flanges and inst panel lower flange from the instrument panel.
-   Step 4: Final-Drill #40 the F-1071 Fwd Fuse Top Skin to the sub-structure through all holes not yet match-drilled or final-drilled.
-                                                                                                                                               Deburr all open rivet holes and edges of the inst panel attach flanges then dimple all rivet holes EXCEPT the two most inboard rivet
-   Step 5: Remove the F-1003D and F-1003E Inst Panel Attach Flanges. Using a nutplate as a drill guide, match-drill #40 two nutplate           holes which lie under the F-1071B Hand Hold Doublers. See Page 31-7, Figure 2.
-   attach holes for each screw hole. See Figure 1.
-                                                                                                                                               Step 11: Remove the Sub-Panel/Fwd Fuselage Rib Subassembly from the forward fuselage. See Page 31-6, Figure 1.
-  Deburr the holes and edges of the inst panel attach flanges.
-                                                                                                                                               Disassemble the Sub-Panel/Fwd Fuselage Rib Subassembly into it's individual components. See Page 31-4, Figure 3.
-  Dimple the nutplate attach holes and                    AN426AD3-3.5,
-  skin attach holes. See Figure 1.                            TYP                                                                              Deburr the holes and edges of all parts.
+Final-Drill #40 each of the hand hold doublers to the fwd fuse top skin and the sub-structure in all the places where there are matching pre-punched holes.
 
-                                                                                                                                               Dimple the skin attach rivet holes in the F-1044A and F-1045-L & R Fwd Fuselage Ribs, F-1068A Sub Panel Center, and F-1068B-L
-                                                                                                                                               & R Sub Panel Sides.
-                                  F-1003E
-                                                                                                                                               Step 12: Prime the F-1044B Angle. Prime all other parts if/as desired.
+Trace around the perimeter of each of the hand hold doublers with a sharpie pen. This will show where the fwd fuse skin is NOT to be dimpled.
 
-                                                                                                                                               Step 13: Dimple the nutplates that will be attached to the F-1003D & E Inst Panel Attach Flanges and F-1083 Control Cable Bracket.
-                                                                                                                                               See Figure 1 and Page 31-5, Figure 2.
+Step 5: Final-Drill #40 the F-1071 Fwd Fuse Top Skin to the sub-structure through all holes not yet final-drilled.
 
-                                                                                                                                               Step 14: Rivet nutplates to the F-1003D & E Inst Panel Attach Flanges and F-1083 Control Cable Bracket as shown in Figure 1 and
-                                                                                                                                               Page 31-5, Figure 2.
+FIGURE 2: CLECO FWD FUSE TOP SKIN TO FUSELAGE
+[Large isometric drawing showing:]
+- F-1071B (two locations)
+- F-1071
+- F-1003C-R
+- F-1003E
+- F-1003D
+- F-1001A
+- F-1068A
+- F-1068B-R
+- F-1045-R
+- AN526C832R8, 3 PLACES
+- F-1003A
+- F-1003B
+- F-1068B-L
+- F-1045-L
+- F-1003C-L
+- F-1040-R
+- F-1040-L
 
-                                                                                                                                               Step 15: Rivet the F-1044B Angle, F-1044C Spacer, and F-1044D, E, & F Angles
-                                                                                                                                               to the F-1044A Fwd Fuselage Rib as shown in Figure 2.
+=== PAGE 8 ===
+PAGE 31-8 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-                                                                                                                                                                             AN470AD4-7
+Step 1: Position the F-1003D Inst Panel Attach Flange simultaneously against the F-1071 Fwd Fuse Top Skin and the forward side of the F-1003A Instrument Panel (See Page 31-7, Figure 1). Match-Drill #40 and cleco the inst panel attach flange using the holes in the fwd fuse top skin as drill guides. Be sure that the inst panel attach flange is in contact with the forward surface of the instrument panel when match-drilling.
 
+Step 2: Position the F-1003E Inst Panel Attach Flange simultaneously against the F-1071 Fwd Fuse Top Skin and the forward side of the F-1003A Instrument Panel (See Page 31-7, Figure 1). Match-Drill #40 and cleco the inst panel attach flange using the holes in the fwd fuse top skin as drill guides. Be sure that the inst panel attach flange is in contact with the forward surface of the instrument panel when match-drilling.
 
-                                                                                                                                                                                                                                      AN470AD4-7,
-                                                                                                                                                                                                                                       10 PLACES
-                                                                                                                                                                       F-1044D
-                                                                                                  F-1003D
+Step 3: Match-Drill #19 through the screw holes in the F-1003A Instrument Panel and into the F-1003D and F-1003E Inst Panel Attach Flanges.
 
-                                                                          K1000-08,
-                                                                                                                                                           F-1044A
-                                                                            TYP
-                                                        FIGURE 1:
-                                                INST PANEL ATTACH FLANGE
-                                                  NUTPLATE INSTALLATION
+Step 4: Final-Drill #40 the F-1071 Fwd Fuse Top Skin to the sub-structure through all holes not yet match-drilled or final-drilled.
 
-   Step 6: Machine countersink the rivet holes in the F-1071B Hand Hold Doublers to fit the head of an AN426AD3 rivet. See Page
-   31-7, Figure 2.
+Step 5: Remove the F-1003D and F-1003E Inst Panel Attach Flanges. Using a nutplate as a drill guide, match-drill #40 two nutplate attach holes for each screw hole. See Figure 1.
 
-  Uncleco the hand hold doublers from the F-1071 Fwd Fuse Top Skin and deburr holes and edges.                                                                                                                                         F-1044C         F-1044B
+Deburr the holes and edges of the inst panel attach flanges.
 
-  Step 7: Uncleco the F-1071 Fwd Fuse Top Skin from the sub-structure. When unclecoing, mark the holes in the sub-structure that
-  lie under the F-1071B Hand Hold Doublers with a sharpie pen so that they will not be dimpled later.                                                                                                             F-1044E
-                                                                                                                                                                          F-1044F
-  Deburr the holes and edges of the fwd fuse top skin then dimple all holes EXCEPT those that are under the F-1071B Hand Hold
-  Doublers.                                                                                                                                                                                                     FIGURE 2:
-                                                                                                                                                                            AN470AD4-5                FWD FUSELAGE RIB SUBASSEMBLY
-PAGE   31-8     RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Rivet the F-1044 Fwd Fuselage Rib Subassembly and F-1083 Control Cable
-                                                                                                                                                                    VAN'S AIRCRAFT, INC.
-Bracket to the F-1068A Sub Panel Center as shown in Figure 1.
+Dimple the nutplate attach holes and skin attach holes. See Figure 1.
 
-Step 2: Rivet the F-1068B-L Sub Panel Side and F-1045-L Fwd Fuselage                       AN470AD4-4
-Rib to the F-1068A Sub Panel Center as shown in Figure 1.                                                         AN470AD4-5,
-                                                                                                                   4 PLACES
-Rivet the F-1068B-R Sub Panel Side and
-                                                        F-1044
-F-1045-R Fwd Fuselage Rib to
-                                                     SUBASSEMBLY
-the sub panel center as
-shown in Figure 1.
-                                                                 F-1045-R
+[Drawing showing:]
+- F-1003E
+- AN426AD3-3.5, TYP
+- K1000-08, TYP
 
+FIGURE 1: INST PANEL ATTACH FLANGE NUTPLATE INSTALLATION
 
+Step 6: Machine countersink the rivet holes in the F-1071B Hand Hold Doublers to fit the head of an AN426AD3 rivet. See Page 31-7, Figure 2.
 
+Uncleco the hand hold doublers from the F-1071 Fwd Fuse Top Skin and deburr holes and edges.
 
-                   F-1045-L
+Step 7: Uncleco the F-1071 Fwd Fuse Top Skin from the sub-structure. When unclecoing, mark the holes in the sub-structure that lie under the F-1071B Hand Hold Doublers with a sharpie pen so that they will not be dimpled later.
 
-                                                                                                                      F-1068B-R
+Deburr the holes and edges of the fwd fuse top skin then dimple all holes EXCEPT those that are under the F-1071B Hand Hold Doublers.
 
+Step 8: Dimple the holes in the flanges of the F-1001A Firewall Bulkhead that are common to the F-1071 Fwd Fuse Top Skin. See Page 31-7, Figure 2.
 
+Step 9: Machine countersink the holes in the F-1040-L & R Upper Fuse Channels and F-1042-L & R Bulkhead Side Channels that are common to the F-1071 Fwd Fuse Top Skin. Countersink deep enough to fit the dimples in the fwd fuse top skin. Make a dimple test sample by drilling and dimpling a scrap of .032 aluminum for an AN426AD3 rivet. See Page 31-7, Figure 2. See Section 5E.
 
+Most "micro-stop" countersink cages will interfere with the upper edge of the F-1069 Fwd Side Skins. In this case, the countersinking is best done "free-hand" with a countersink cutter in a drill motor.
 
-                                                                  AN470AD4-4                        AN470AD4-5,
-                                                                                                     7 PLACES
-                                                                                                 F-1068A
+Step 10: Remove the subassembly of F-1003A Instrument Panel, F-1003B Inst Panel Lower Flange, and the F-1003C-L & R Inst Panel Attach Flanges from the F-1044A, F-1045-L, & F-1045-R Fwd Fuselage Ribs. See Page 31-7, Figures 1 and 2.
 
+Remove the inst panel attach flanges and inst panel lower flange from the instrument panel.
 
-  F-1068B-L                                                                                 AN470AD4-4,
-                                                                                             6 PLACES
+Deburr all open rivet holes and edges of the inst panel attach flanges then dimple all rivet holes EXCEPT the two most inboard rivet holes which lie under the F-1071B Hand Hold Doublers. See Page 31-7, Figure 2.
 
-                                                                                                                                                                                               AN426AD3-4.5
+Step 11: Remove the Sub-Panel/Fwd Fuselage Rib Subassembly from the forward fuselage. See Page 31-6, Figure 1.
 
-                  AN470AD4-5,                                         F-1083                                                                                                                   AN426AD3-4
-                   4 PLACES
-                                                   AN470AD4-4,
-                                                                                  FIGURE 1:
-                                                    7 PLACES                                                                                                                                   AN426AD3-3.5
-                                                                         SUB PANEL/FWD FUSELAGE RIB
-                                                                                SUBASSEMBLY
+Disassemble the Sub-Panel/Fwd Fuselage Rib Subassembly into it's individual components. See Page 31-4, Figure 3.
 
+Deburr the holes and edges of all parts.
 
+Dimple the skin attach rivet holes in the F-1044A and F-1045-L & R Fwd Fuselage Ribs, F-1068A Sub Panel Center, and F-1068B-L & R Sub Panel Sides.
 
-Step 3: Rivet the F-1071 Fwd Fuse Top Skin to the Sub Panel/Fwd Fuselage Rib
-Subassembly using the rivets and riveting sequence shown in Figure 2.
+Step 12: Prime the F-1044B Angle. Prime all other parts if/as desired.
 
-Install the rivets sequentially beginning with the rivet row labeled "RIVET 1st" through
-the rivet row labeled "RIVET 5th" only. See Figure 2.
+Step 13: Dimple the nutplates that will be attached to the F-1003D & E Inst Panel Attach Flanges and F-1083 Control Cable Bracket. See Figure 1 and Page 31-5, Figure 2.
 
-Install the rivets in the rivet rows labeled "RIVET 6th" and "RIVET 7th" beginning each
-row with the most inboard rivet and progressing outboard. See Figure 2.
+Step 14: Rivet nutplates to the F-1003D & E Inst Panel Attach Flanges and F-1083 Control Cable Bracket as shown in Figure 1 and Page 31-5, Figure 2.
 
-                                                                                                                                               NOT RIVETED IN
-                                                                                                                                               THIS SECTION
+Step 15: Rivet the F-1044B Angle, F-1044C Spacer, and F-1044D, E, & F Angles to the F-1044A Fwd Fuselage Rib as shown in Figure 2.
 
+[Drawing showing:]
+- AN470AD4-7
+- F-1044D
+- F-1044A
+- AN470AD4-7, 10 PLACES
+- F-1044C
+- F-1044B
+- F-1044F
+- F-1044E
+- AN470AD4-5
 
+FIGURE 2: FWD FUSELAGE RIB SUBASSEMBLY
 
+=== PAGE 9 ===
+PAGE 31-9 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-                                                                                                                                             FIGURE 2:
-                                                                                                                                  FWD FUSE TOP SKIN RIVET DIAGRAM
-                                                                                                                                                                       DATE: 07/24/14 REVISION: 0   RV-10     PAGE   31-9
-                     VAN'S AIRCRAFT, INC.
-                     Step 1: Rivet the F-1003C-L & R Inst Panel Attach Flanges to the F-1071 Fwd Fuse Top Skin as shown in
-                     Figure 1. Use the rivets and riveting sequence shown in Page 31-9, Figure 2.
+Step 1: Rivet the F-1044 Fwd Fuselage Rib Subassembly and F-1083 Control Cable Bracket to the F-1068A Sub Panel Center as shown in Figure 1.
 
-  Step 2: Rivet the F-1003D and F-1003E Inst Panel Attach Flanges to the F-1071 Fwd Fuse Top Skin as shown in Figure 1. Use the
-  rivets and riveting sequence shown in Page 31-9, Figure 2.
+Step 2: Rivet the F-1068B-L Sub Panel Side and F-1045-L Fwd Fuselage Rib to the F-1068A Sub Panel Center as shown in Figure 1.
 
-  Step 3: Rivet the two F-1071B Hand Hold Doublers to the F-1071 Fwd Fuse Top Skin as shown in Figure 1. Use the rivets shown in
-  Page 31-9, Figure 2.
+Rivet the F-1068B-R Sub Panel Side and F-1045-R Fwd Fuselage Rib to the sub panel center as shown in Figure 1.
 
-  Step 4: Temporarily attach the F-1003A Instrument Panel and F-1003B Inst Panel Lower
-  Flange to the Upper Forward Fuselage Subassembly and set aside for now.
+[Drawing showing:]
+- F-1044 SUBASSEMBLY
+- F-1045-R
+- AN470AD4-4
+- AN470AD4-5, 4 PLACES
+- F-1068B-L
+- AN470AD4-5, 4 PLACES
+- AN470AD4-4, 6 PLACES
+- AN470AD4-4, 7 PLACES
+- AN470AD4-5, 7 PLACES
+- F-1068A
+- F-1083
 
-  The attachment of the upper forward fuselage subassembly is covered in
-  a later section of the assembly manual. Now is a good time to plan the
-  lay-out and installation of the items that will be mounted in and/or                                                                                               F-1071B
-  behind the instrument panel. Pay particular attention to
-  placement of equipment so as to avoid interference
-  with the upper forward fuselage structure.
+FIGURE 1: SUB PANEL/FWD FUSELAGE RIB SUBASSEMBLY
 
+Step 3: Rivet the F-1071 Fwd Fuse Top Skin to the Sub Panel/Fwd Fuselage Rib Subassembly using the rivets and riveting sequence shown in Figure 2.
 
+Install the rivets sequentially beginning with the rivet row labeled "RIVET 1st" through the rivet row labeled "RIVET 5th" only. See Figure 2.
 
+Install the rivets in the rivet rows labeled "RIVET 6th" and "RIVET 7th" beginning each row with the most inboard rivet and progressing outboard. See Figure 2.
 
-                                                                    F-1071B
-                                                                                                                                                         F-1003C-R
+FIGURE 2: FWD FUSE TOP SKIN RIVET DIAGRAM
+[Large rivet pattern diagram showing the F-1071 fwd fuse top skin with riveting sequence]
 
+Rivet sequence labels:
+- RIVET 1st
+- RIVET 2nd
+- RIVET 3rd
+- RIVET 4th
+- RIVET 5th
+- RIVET 6th
+- RIVET 7th
+- RIVET 8th
+- RIVET 9th
+- RIVET 10th
+- RIVET 11th
+- RIVET 12th
+- RIVET LAST
+- NOT RIVETED IN THIS SECTION (two areas marked)
 
-                                                                                                                                             F-1003E
+Parts labeled:
+- F-1068B-R
+- F-1071B (two locations)
+- F-1068A
 
+Rivet Legend:
+- Diamond: AN426AD3-4.5
+- 4-pointed star: AN426AD3-4
+- Triangle: AN426AD3-3.5
 
+=== PAGE 10 ===
+PAGE 31-10 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Rivet the F-1003C-L & R Inst Panel Attach Flanges to the F-1071 Fwd Fuse Top Skin as shown in Figure 1. Use the rivets and riveting sequence shown in Page 31-9, Figure 2.
 
-                                                                                                                                   F-1003D
+Step 2: Rivet the F-1003D and F-1003E Inst Panel Attach Flanges to the F-1071 Fwd Fuse Top Skin as shown in Figure 1. Use the rivets and riveting sequence shown in Page 31-9, Figure 2.
 
+Step 3: Rivet the two F-1071B Hand Hold Doublers to the F-1071 Fwd Fuse Top Skin as shown in Figure 1. Use the rivets shown in Page 31-9, Figure 2.
 
+Step 4: Temporarily attach the F-1003A Instrument Panel and F-1003B Inst Panel Lower Flange to the Upper Forward Fuselage Subassembly and set aside for now.
 
+The attachment of the upper forward fuselage subassembly is covered in a later section of the assembly manual. Now is a good time to plan the lay-out and installation of the items that will be mounted in and/or behind the instrument panel. Pay particular attention to placement of equipment so as to avoid interference with the upper forward fuselage structure.
 
-                                                                                                        F-1071
-                                                                                                       (SHOWN
-                                                                                                    TRANSPARENT)
-
-
-                                                                                            F-1003C-L
-                                                                                                                                         FIGURE 1:
-                                                                                                                              INST PANEL ATTACH FLANGES AND
-                                                                                                                             HAND HOLD DOUBLER INSTALLATION
-
-
-
-
-PAGE   31-10   RV-10    REVISION: 0   DATE: 07/24/14
-
+FIGURE 1: INST PANEL ATTACH FLANGES AND HAND HOLD DOUBLER INSTALLATION
+[Large isometric drawing showing the completed upper forward fuselage assembly with labeled parts:]
+- F-1071B (two locations)
+- F-1003C-R
+- F-1003E
+- F-1003D
+- F-1071 (SHOWN TRANSPARENT)
+- F-1003C-L

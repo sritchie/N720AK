@@ -1,746 +1,554 @@
-                                                                      R-1003B                                        VAN'S AIRCRAFT, INC.
-                                                                      TOP RIB
-                                R-1014
-                       COUNTERBALANCE                                           R-1010G
-                               WEIGHT                                           SHEAR CLIP
-                                     R-1012
-                                                                                    R-1015G-R
+=== PAGE 7-1 ===
+VAN'S AIRCRAFT, INC.
+
+SECTION 7: RUDDER
+
+[Isometric exploded view of rudder assembly with the following part callouts:]
+
+R-1003B TOP RIB
+R-1014 COUNTERBALANCE WEIGHT
+R-1012 COUNTERBALANCE RIB
+R-1003A TOP RIB
+R-608PP REINFORCEMENT PLATE
+R-1001-L LEFT SKIN
+R-607PP REINFORCEMENT PLATE
+R-1002 SPAR
+R-1001-R RIGHT SKIN
+R-1005 HORN
+R-1010A SHEAR CLIP
+R-1015A-L STIFFENER
+R-1004A BOTTOM RIB
+R-1010G SHEAR CLIP
+R-1015G-R STIFFENER
+R-1015G-L STIFFENER
+R-1006 TRAILING EDGE
+R-1015A-R STIFFENER
+
+DATE: 11/08/16  REVISION: 0  RV-10  PAGE 7-1
 
 
-                                                                                                              SECTION 7:
-                            COUNTERBALANCE
-                                                                                    STIFFENER
-                                        RIB
-                                                R-1003A
-                                                TOP RIB
+=== PAGE 7-2 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Separate the R-1003 Top Rib parts, shown in Figure 1, into individual components: the R-1003A and R-1003B. The shaded areas shown in the figure should be completely removed. Deburr all edges to prevent scratching during fitting.
+
+[Figure 1 shows top rib parts with callouts:]
+R-1003B
+R-1003A
+TRIM TO NOTCH
+
+FIGURE 1: TOP RIB PARTS SEPARATION
+
+Step 2: Separate the R-1004 Bottom Rib parts, shown in Figure 2, as described in Step 1.
+
+[Figure 2 shows bottom rib parts with callouts:]
+R-1004A
+R-1004B
+TRIM TO NOTCH
+
+FIGURE 2: BOTTOM RIB PARTS SEPARATION
+
+Step 3: Separate the R-1010 Shear Clip parts, shown unbent in Figure 3, as described in Step 1.
+
+[Figure 3 shows seven shear clips in a strip, labeled left to right:]
+R-1010G
+R-1010F
+R-1010E
+R-1010D
+R-1010C
+R-1010B
+R-1010A
+
+FIGURE 3: SHEAR CLIP SEPARATION
+
+PAGE 7-2  RV-10  REVISION: 0  DATE: 12/09/13
 
 
+=== PAGE 7-3 ===
+VAN'S AIRCRAFT, INC.
 
-
-                                                     R-608PP
-                                              REINFORCEMENT
-                                                       PLATE
-                                                                                             R-1015G-L
-                                                                                             STIFFENER
-                                                                                                              RUDDER
-
-                      R-1001-L
-                      LEFT SKIN
-
-
-
-
-                                                                                                  R-1006
-                                                                                                  TRAILING EDGE
-                                                     R-607PP
-                                              REINFORCEMENT
-                                                       PLATE
-
-
-
-
-                                                          R-1002
-                                                           SPAR
-  R-1001-R
-RIGHT SKIN
-
-
-
-
-                                                     R-1010A
-                                                  SHEAR CLIP
-                                                                                                         R-1015A-R
-                                                                                                         STIFFENER
-
-
-
-             R-1005                                 R-1015A-L
-             HORN                                  STIFFENER
-
-
-                                                                      R-1004A
-                                                                   BOTTOM RIB
-                                                                                                                        DATE: 11/08/16 REVISION: 0   RV-10   PAGE   7-1
-                       VAN'S AIRCRAFT, INC.
-
-
-
-   Step 1: Separate the R-1003 Top Rib parts, shown in Figure 1, into individual components: the R-1003A and R-1003B. The shaded areas shown in the figure should be completely removed. Deburr all edges to prevent scratching during fitting.
-
-
-
-
-                                                                                                                                                                                               R-1003B
-
-
-
-
-                                                                                                                                                                                                                                    TRIM TO NOTCH
-
-
-
-
-                                                                                                                                                                                                R-1003A
-
-
-                                                                                              FIGURE 1: TOP RIB PARTS SEPARATION
-
-
-   Step 2: Separate the R-1004 Bottom Rib parts, shown in Figure 2, as described in Step 1.
-
-
-
-
-                                                                                                                                                                                              R-1004A
-
-
-
-
-                                                                                                                                                                                             R-1004B
-
-
-                                                                                         FIGURE 2: BOTTOM RIB PARTS SEPARATION
-
-
-   Step 3: Separate the R-1010 Shear Clip parts, shown unbent in Figure 3, as described in Step 1.
-
-                                                   R-1010G              R-1010F                      R-1010E                    R-1010D                            R-1010C                                R-1010B                                 R-1010A
-
-
-
-
-                                                                                               FIGURE 3: SHEAR CLIP SEPARATION
-PAGE   7-2     RV-10     REVISION: 0   DATE: 12/09/13
-                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
 Step 1: Remove the shaded areas from the seven R-1015 Stiffeners (shown unbent) according to Figure 1. Each stiffener produces a left and right part when trimmed.
 
+[Figure 1 shows seven stiffener pairs with labels and dimensions:]
+TRIM TO NOTCH
+
+R-1015A-R [left side] --- 1/4 --- R-1015A-L [right side]
+R-1015B-R --- 1/4  1/4 --- R-1015B-L
+R-1015C-R --- 1/4  1/4 --- R-1015C-L
+R-1015D-R --- 1/4  1/4 --- R-1015D-L
+R-1015E-R --- 1/4  1/4 --- R-1015E-L
+R-1015F-R --- 1/4  1/4 --- R-1015F-L
+R-1015G-R --- 1/4  1/4 --- R-1015G-L
+
+FIGURE 1: STIFFENER SEPARATION
+
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 7-3
 
 
+=== PAGE 7-4 ===
+VAN'S AIRCRAFT, INC.
 
-TRIM TO
- NOTCH
+Step 1: Cleco the R-1004A and R-1004B Bottom Rib Halves together, as shown in Figure 1. Final-Drill the holes common to the two parts using a #30 drill.
 
+[Figure 1 shows bottom rib assembly:]
+R-1004B
+R-1004A
 
-                         R-1015A-R                                                                                                            1/4                                                             R-1015A-L
+FIGURE 1: R-1004 BOTTOM RIB ASSEMBLY
 
+Step 2: Finish all the edges of the R-1005 Rudder Horn. Final-Drill the two nutplate attachment rivet holes, shown in Figure 2, using a #30 drill. Countersink these holes, as well as the other two holes shown in the figure, for 1/8" rivets.
 
+[Figure 2 shows rudder horn with callouts:]
+NUTPLATE ATTACH RIVET HOLES. CSK THIS SIDE
+CSK THESE HOLES THIS SIDE
 
+FIGURE 2: R-1005 RUDDER HORN
 
-                         R-1015B-R                                                                                                1/4   1/4                                                                   R-1015B-L
+Step 3: Cleco the R-1005 Rudder Horn to the R-1004A Bottom Rib Half using the three holes shown in Figure 3. The R-1004B Bottom Rib Half is unsupported forward of the last cleco which attaches it to the R-1004A. Use a "C" clamp to hold it in position with the R-1004A and the horn (make sure not to cover any of the holes on top of the horn). Lay a straight edge along the flange of the R-1004B to make sure it remained straight.
 
+Match-Drill the six holes of the horn into the bottom rib halves using a #30 drill. Cleco the four outboard holes of this pattern and remove the clecos from the front of the horn.
 
+[Figure 3 shows horn attachment to bottom rib:]
+R-1004B
+R-1004A
+R-1005
 
+FIGURE 3: ATTACHMENT OF HORN TO BOTTOM RIB
 
-                        R-1015C-R                                                                                       1/4                         1/4                                                       R-1015C-L
+Step 4: Deburr the edges of the R-1002 Spar (including the lightening holes) and the two R-1007A Striker Plates (which were set aside in section 6), then cleco together all the parts shown in the Figure 4.
 
+Step 5: Final-Drill all the holes common to the parts shown using a #30 drill. Note that the two nutplate attachment rivet holes in the horn do not have matching holes in the spar. The nutplate is attached, in a later step, to the horn only.
 
+Step 6: Machine countersink the holes of the striker plates for 1/8" rivets, flush on the forward side. Make sure the holes of the striker plates are oriented as shown in the figure before countersinking or you will end up with either two left or two right striker plates.
 
+[Figure 4 shows bottom rib attachment to spar:]
+R-1002
+R-1004A
+R-1005
+R-1007A
+MACH CSK THIS SIDE
+NUTPLATE ATTACHMENT RIVET HOLES
 
-                        R-1015D-R                                                                            1/4                                             1/4                                              R-1015D-L
+FIGURE 4: ATTACHMENT OF BOTTOM RIB TO SPAR
 
-
-
-
-                         R-1015E-R                                                                 1/4                                                               1/4                                      R-1015E-L
-
-
-
-
-                         R-1015F-R                                                      1/4                                                                                1/4                                R-1015F-L
-
-
-
-
-                        R-1015G-R                                            1/4                                                                                                 1/4                          R-1015G-L
-                                                                                                                FIGURE 1: STIFFENER SEPARATION
-
-                                                                                                                                                                                          DATE: 12/09/13 REVISION:0   RV-10   PAGE   7-3
-                      VAN'S AIRCRAFT, INC.
-                                                                                                                                    Step 3: Cleco the R-1005 Rudder Horn to the R-1004A Bottom Rib Half using the three holes shown in Figure 3. The R-1004B
-                                                                                                                                    Bottom Rib Half is unsupported forward of the last cleco which attaches it to the R-1004A. Use a "C" clamp to hold it in position with
-                                                                                                                                    the R-1004A and the horn (make sure not to cover any of the holes on top of the horn). Lay a straight edge along the flange of the
-                                                                                                                                    R-1004B to make sure it remained straight.
-   Step 1: Cleco the R-1004A and R-1004B Bottom Rib Halves together, as shown in Figure 1. Final-Drill the holes common to the
-   two parts using a #30 drill.                                                                                                     Match-Drill the six holes of the horn into the bottom rib halves using a #30 drill.
-                                                                                                                                    Cleco the four outboard holes of this pattern and remove the clecos from
-                                                                                                                                    the front of the horn.
-
-                                                                                                                                                                                 R-1004B
+PAGE 7-4  RV-10  REVISION: 0  DATE: 12/09/13
 
 
-                                                                                  R-1004B
+=== PAGE 7-5 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Cleco the R-1015A-L and -R Stiffeners to the R-1010A Shear Clip as shown in Figure 1. Make sure the aft end of the left stiffener is positioned on top of the right stiffener.
 
-
-
-                                                                                                                                                                                                                                             R-1004A
-
-
-
-
-                                                                                                                                                                                                                          R-1005
-
-
-
-                                            R-1004A                                                                                                                        FIGURE 3: ATTACHMENT OF HORN TO BOTTOM RIB
-
-
-                                                                                                                                    Step 4: Deburr the edges of the R-1002 Spar (including the lightening holes) and the two R-1007A Striker Plates (which were set
-                                                                                                                                    aside in section 6), then cleco together all the parts shown in the Figure 4.
-
-                                                                                                                                    Step 5: Final-Drill all the holes common to the parts shown using a #30 drill. Note that the two nutplate attachment rivet holes in
-                                                                                                                                    the horn do not have matching holes in the spar. The nutplate is attached, in a later step, to the horn only.
-
-                                                                                                                                    Step 6: Machine countersink the holes of the striker plates for 1/8" rivets, flush on the forward side. Make sure the holes of the
-                                   FIGURE 1: R-1004 BOTTOM RIB ASSEMBLY                                                             striker plates are oriented as shown in the figure before countersinking or you will end up with either two left or two right striker
-                                                                                                                                    plates.
-
-
-  Step 2: Finish all the edges of the R-1005 Rudder Horn. Final-Drill the two nutplate attachment rivet holes, shown in Figure 2,
-  using a #30 drill. Countersink these holes, as well as the other two holes shown in the figure, for 1/8" rivets.
-
-
-
-
-                                                                                                                                               R-1002
-                                                                                                                                                                                                                                                               R-1004A
-
-
-
-
-                                                                                                                                                 MACH CSK
-                                                                                                                                                 THIS SIDE                                                                                                     R-1005
-
-
-
-NUTPLATE ATTACH                                                                                       CSK THESE HOLES
-                                                                                                      THIS SIDE                                                                                                           NUTPLATE ATTACHMENT
-    RIVET HOLES.
-                                                                                                                                                                                                                          RIVET HOLES
-   CSK THIS SIDE
-
-                                           FIGURE 2: R-1005 RUDDER HORN
-                                                                                                                                       R-1007A
-                                                                                                                                                                                              FIGURE 4: ATTACHMENT OF BOTTOM RIB TO SPAR
-PAGE   7-4     RV-10     REVISION: 0   DATE: 12/09/13
-                                                                                                                                                                        VAN'S AIRCRAFT, INC.
-Step 1: Cleco the R-1015A-L and -R Stiffeners to the R-1010A Shear Clip as shown in Figure 1. Make sure the aft end of the left
-stiffener is positioned on top of the right stiffener.
-
-Final-Drill all the holes common to the shear clip and stiffeners . (The only purpose of the aft most hole in the stiffeners is to keep
-the hole in front of it aligned while it is drilled. It will not be riveted during final assembly.)
+Final-Drill all the holes common to the shear clip and stiffeners. (The only purpose of the aft most hole in the stiffeners is to keep the hole in front of it aligned while it is drilled. It will not be riveted during final assembly.)
 
 Step 2: Repeat step 1 for the rest of the R-1015 Stiffeners and R-1010 Shear Clips shown in Figure 2.
-                                                                                                                                                                                     R-1010G
+
 Step 3: Cleco the shear clip/ stiffener assemblies to the R-1002 Spar as shown in the figure.
-                                                                                                                                                                                     R-1015G-L
-                                                                                                                                                                                     R-1015G-R
-Step 4: Cleco the R-607PP and R-608PP Reinforcement Plates to the R-1002 Spar as shown.                                                                           R-608PP
+
+Step 4: Cleco the R-607PP and R-608PP Reinforcement Plates to the R-1002 Spar as shown.
 
 Step 5: Final-Drill all the holes of the shear clips and reinforcement plates which are common to spar web using a #30 drill.
 
+[Figure 1 shows typical shear clip/stiffener assembly:]
+R-1010A
+R-1015A-L
+R-1015A-R
 
+FIGURE 1: TYPICAL SHEAR CLIP/ STIFFENER ASSEMBLY
 
+[Figure 2 shows shear clip and reinforcement plate attachment to spar with all callouts:]
+R-1010G
+R-1015G-L
+R-1015G-R
+R-608PP
+R-1010F
+R-1015F-L
+R-1015F-R
+R-1010E
+R-1015E-L
+R-1015E-R
+R-607PP
+R-1010D
+R-1015D-L
+R-1015D-R
+R-1002
+R-1010C
+R-1015C-L
+R-1015C-R
+R-1010B
+R-1015B-L
+R-1015B-R
+R-1010A
+R-1015A-L
+R-1015A-R
 
-                                                                                                                                                                                         R-1010F
-                                                                                                                                                                                         R-1015F-L
-                                                                                                                                                                                         R-1015F-R
+FIGURE 2: SHEAR CLIP AND REINFORCEMENT PLATE ATTACHMENT TO SPAR
 
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 7-5
 
 
+=== PAGE 7-6 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                                             R-1010E
-                                                                                                                                                                                             R-1015E-L
-                                                                                                                                                                                             R-1015E-R
+Step 1: Cleco the R-1012 Counterbalance Rib to the R-1002 Spar as shown in Figure 1. Final-Drill the two holes that attach the rib to the spar with a #30 drill. (The R-1010G Shear Clip may be temporarily removed from the spar while final-drilling these holes.)
 
+Step 2: Cleco together the R-1003A and R-1003B to form the Top Rib, then final-drill the common holes (except for the spar attachment hole) with a #30 drill. Cleco the rib to the spar, using the holes shown in the figure, then final-drill these using the same drill.
 
+[Figure 1 shows top and counterbalance rib attachment:]
+R-1003B
+R-1003A
+R-1010G
+R-1002
+R-1012
 
-                                                                          R-1010A
+FIGURE 1: TOP AND COUNTERBALNCE RIB ATTACHMENT
 
+Step 3: Deburr the edges of both R-1001 Skins, then cleco one of the skins to the rudder skeleton as shown in Figure 2.
 
+Step 4: Cleco the R-1006 Trailing Edge to the R-1001 Skin.
 
-                                                                                                                                                                   R-607PP                       R-1010D
-                                                                                                                                                                                                 R-1015D-L
-                                                                                                                                                                                                 R-1015D-R
+The ends of the trailing edge extend beyond the skins. Mark the locations of the skin edges on the trailing edge, then remove the trailing edge and file or sand the ends to the marks.
 
-                                                                                                                                            R-1002
+Cleco the trailing edge back in place with the cleco going through the skin and into the trailing edge.
 
+Step 5: Cleco the second skin (not shown in the figure) to the skeleton and to the trailing edge.
 
-                                     R-1015A-L
+Step 6: Final-Drill all the holes common to the R-1001 Skins and rudder skeleton with a #40 drill. When drilling the R-1002 Spar and R-1006 Trailing Edge, start at the middle of the spar and work toward the ends; drill and cleco every hole. Drill the holes of the trailing edge perpendicular to the chordline of the rudder, not to the skin.
 
-                                                                                                                                                                                                     R-1010C
-                                                                                                                                                                                                     R-1015C-L
-                                                                                                                                                                                                     R-1015C-R
+Step 7: Remove the R-1001 Skins and mark the insides as "left" or "right".
 
+Step 8: Put a slight bend in the trailing edge of the R-1001 Skins so that they will lay down flat and tight on the R-1006 Trailing Edge after riveting (see Section 5K).
 
+Step 9: Remove the R-607PP and R-608PP reinforcement plates and mark the sides which go against the R-1002 Spar web.
 
+Step 10: Completely disassemble the rest of the rudder and deburr all holes and any edges that have not yet been deburred.
 
-                                                                                            R-1015A-R
+Step 11: Dimple the holes in the skins (make sure to dimple from the correct side!) and the corresponding holes in the flanges of the stiffeners, spar, and ribs.
 
+Step 12: Machine countersink the holes in the R-1006 Trailing Edge (on both sides) for the 3/32" dimples in the skins. Countersink perpendicular to the trailing edge face.
 
-                                                                                                                                                                                                         R-1010B
-                                                                                                                                                                                                         R-1015B-L
-                                                                                                                                                                                                         R-1015B-R
+Step 13: If desired, prime the parts in preparation for final riveting.
 
+[Figure 2 shows skin and trailing edge attachment to skeleton:]
+R-1001
+R-1006 (MAKE FROM VA-140)
+R-1003B
+R-1003A
+R-1010G
+R-1002
+R-1012
 
+FIGURE 2: SKIN AND TRAILING EDGE ATTACHMENT TO SKELETON
 
+PAGE 7-6  RV-10  REVISION: 0  DATE: 11/08/16
 
-                                                                                                                                                                                                              R-1010A
-                                                   FIGURE 1: TYPICAL SHEAR                                                                     FIGURE 2: SHEAR CLIP AND                                       R-1015A-L
-                                                   CLIP/ STIFFENER ASSEMBLY                                                               REINFORCEMENT PLATE ATTACHMENT                                      R-1015A-R
-                                                                                                                                                       TO SPAR
-                                                                                                                                                                             DATE:12/09/13 REVISION: 0   RV-10       PAGE   7-5
-                        VAN'S AIRCRAFT, INC.                                                      Step 3: Deburr the edges of both R-1001 Skins, then cleco one
-                                                                                                  of the skins to the rudder skeleton as shown in Figure 2.
 
-                                                                                                  Step 4: Cleco the R-1006 Trailing edge to the R-1001 Skin.
-  Step 1: Cleco the R-1012 Counterbalance Rib to the R-1002 Spar as
-  shown in Figure 1. Final-Drill the two holes that attach the rib to the                         The ends of the trailing edge extend beyond
-  spar with a #30 drill. (The R-1010G Shear Clip may be temporarly                                                                                                     R-1001
-                                                                                                  the skins. Mark the locations of
-  removed from the spar while final-drilling these holes.)                                        the skin edges on the trailing edge,
-                                                                                                  then remove the trailing edge and
-  Step 2: Cleco together the R-1003A and R-1003B to form the Top                                  file or sand the ends to the marks.
-  Rib, then final-drill the common holes (except for the spar attachment
-  hole) with a #30 drill. Cleco the rib to the spar, using the holes shown                        Cleco the trailing edge back in place
-  in the figure, then final-drill these holes using the same drill.                               with the cleco going through the skin
-                                                                                                  and into the trailing edge.
+=== PAGE 7-7 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                  Step 5: Cleco the second skin (not
-                                                                                                  shown in the figure) to the skeleton
-                                                                                                  and to the trailing edge.
+Step 1: Rivet together the R-1004A & B Bottom Rib halves using the rivets in Figure 1.
 
-                                                                                                  Step 6: Final-Drill all the holes common to the
-                                                                                                  R-1001 Skins and rudder skeleton with a
-                                                                                                  #40 drill. When drilling the R-1002 Spar and
-                                                                                                  R-1006 Trailing Edge, start at the middle of the
-                          R-1003B                                                                 span and work toward the ends; drill and cleco
-                                                                                                  every hole. Drill the holes of the trailing edge
-                                                                                                  perpendicular to the chordline of the rudder, not
-                                                                                                  to the skin.
+Step 2: Rivet the nutplate to the R-1005 Horn using the rivets called out in the figure.
 
-                                                                                                  Step 7: Remove the R-1001 Skins and mark the
-                                                                                                  insides as "left" or "right".
+Rivet the horn to the R-1004A & B Bottom Rib halves with the rivets shown.
 
-                                                                                                  Step 8: Put a slight bend in the trailing edge of
-                                                                                                  the R-1001 Skins so that they will lay down flat
-                                                                                                  and tight on the R-1006 Trailing Edge after
-                                                                                                  riveting (see Section 5K).
+[Figure 1 shows bottom rib and horn rivets:]
+R-1005
+AN426AD4-6
+2 PLACES
+AN470AD4-6
+6 PLACES
+K1000-6
+AN470AD4-4
+7 PLACES
+R-1004A
+R-1004B
 
-                                                                                                  Step 9: Remove the R-607PP and R-608PP
-              R-1003A                                                                             reinforcement plates and mark the sides which
-                                                                               R-1010G            go against the R-1002 Spar web.
+FIGURE 1: BOTTOM RIB AND HORN RIVETS
 
-                                                                                                  Step 10: Completely disassemble the rest of the
-                                                                                                  rudder and deburr all holes and any edges that
-                                                                                                  have not yet been deburred.
-                                                                             R-1002
-                                                                                                  Step 11: Dimple the holes in the skins (make sure
-                                                                                                  to dimple from the correct side!) and the
-                                                                                                  corresponding holes in the flanges of the
-                                                                                                  stiffeners, spar, and ribs.
+Step 3: Rivet the R-608PP Reinforcement Plate to the R-1002 Spar as shown in Figure 2.
 
-                                                                                                  Step 12: Machine countersink the holes in the
-             R-1012                                                                               R-1006 Trailing Edge (on both sides) for the 3/32"
-                                                                                                  dimples in the skins. Countersink perpendicular
-                                                                                                  to the trailing edge face.
+Rivet the nutplate to the reinforcement plate and spar using the rivets called out in the figure.
 
-                                                                                                  Step 13: If desired, prime the parts in preparation
-                                                                                                  for final riveting.
+Step 4: Repeat step 3 for the R-607PP Reinforcement Plate (as located on Page 7-5, Figure 2) using the same rivets and an additional nutplate.
 
+[Figure 2 shows reinforcement plate rivets:]
+R-1002
+AN470AD4-5
+6 PLACES
+R-608PP
+AN470AD4-6
+2 PLACES
+K1000-6
 
-                                                                                                                                                                  R-1006
-                                                                                                                                                                  (MAKE FROM VA-140)
-                                                                              FIGURE 1: TOP AND
-                                                                             COUNTERBALNCE RIB
-                                                                                 ATTACHMENT                                    FIGURE 2: SKIN AND TRAILING
-                                                                                                                             EDGE ATTACHMENT TO SKELETON
-PAGE   7-6        RV-10   REVISION: 0   DATE: 11/08/16
-                                                                                                           AN426AD4-6   Step 5: Back rivet (se Section 5F) all the
-                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
-                                                                                                           2 PLACES     R-1015 Stiffeners to the R-1001 Skins, as
-Step 1: Rivet together the R-1004A & B Bottom Rib
-halves using the rivets in Figure 1.                        R-1005                                                      shown in Figure 2, using the rivets shown on
-                                                                                                                        page 7-12, Figure 3. Riveting tape, which is
-Step 2: Rivet the nutplate to the R-1005 Horn using                                                                     very useful for holding rivets in place while
-the rivets called out in the figure.                                                                                    back-riveting, is available from the Van's
-                                                                                                                        Aircraft Accessories Catalog.
-Rivet the horn to the R-1004A & B Bottom Rib                 AN470AD4-6
-halves with the rivets shown.                                  6 PLACES
+FIGURE 2: REINFORCEMENT PLATE RIVETS
 
+Step 5: Back rivet (se Section 5F) all the R-1015 Stiffeners to the R-1001 Skins, as shown in Figure 2, using the rivets shown on page 7-12, Figure 3. Riveting tape, which is very useful for holding rivets in place while back-riveting, is available from the Van's Aircraft Accessories Catalog.
 
-                                                                                                              K1000-6
+[Figure 3 shows riveting stiffeners with all stiffener callouts:]
+R-1001-L [left skin]
+R-1015G-L
+R-1015G-R
+R-1001-R [right skin]
+R-1015F-L
+R-1015F-R
+R-1015E-L
+R-1015E-R
+R-1015D-L
+R-1015D-R
+R-1015C-L
+R-1015C-R
+R-1015B-L
+R-1015B-R
+R-1015A-L
+R-1015A-R
 
-                                               AN470AD4-4                                                                  R-1001-L                                       R-1015G-L   R-1015G-R                                     R-1001-R
-                                                 7 PLACES
+FIGURE 3: RIVETING STIFFENERS
 
+DATE: 12/09/13  REVISION: 0  RV-10  PAGE 7-7
 
 
+=== PAGE 7-8 ===
+VAN'S AIRCRAFT, INC.
 
-                   R-1004A
-                                                                                                                                                                          R-1015F-L   R-1015F-R
+Step 1: Position the R-1003A Top Rib half on the R-1001-L Skin as shown in Figure 1. Rivet it in place using the rivets called out on page 7-12, Figure 3. However, leave open the forward three holes to allow the skin to be pulled back for access when attaching the counterbalance weight.
 
-                                                                                                 R-1004B
+[Figure 1 shows R-1003A top rib half riveted to left skin:]
+DO NOT RIVET [at forward three holes]
+R-1003A
+R-1001-L
 
+FIGURE 1: RIVETING THE R-1003A TOP RIB HALF
 
+Step 2: Rivet the R-1003B Top Rib half to the R-1001-R Skin as shown in Figure 2. Use the rivets called out on Page 7-12, Figure 3 and, once again, leave the forward three holes open.
 
-                                                                         FIGURE 1: BOTTOM RIB AND
-                                                                               HORN RIVETS                                                                               R-1015E-L    R-1015E-R
+[Figure 2 shows R-1003B top rib half riveted to right skin:]
+DO NOT RIVET [at forward three holes]
+R-1003B
+R-1001-R
 
+FIGURE 2: RIVETING THE R-1003B TOP RIB HALF
 
+Step 3: Use the rivets called out on Page 7-12, Figure 3 to attach the R-1004 Bottom Rib to the R-1001-R Skin as positioned in Figure 3.
 
+[Figure 3 shows bottom rib riveted to right skin]
 
-                                                                                                                                                                         R-1015D-L     R-1015D-R
-Step 3: Rivet the R-608PP Reinforcement
-Plate to the R-1002 Spar as shown in
-Figure 2.
+FIGURE 3: RIVETING THE R-1004 BOTTOM RIB
 
-Rivet the nutplate to the reinforcement                         R-1002
-plate and spar using the rivets called out                                                                                                                              R-1015C-L      R-1015C-R
-in the figure.
+PAGE 7-8  RV-10  REVISION: 0  DATE: 12/09/13
 
-Step 4: Repeat step 3 for the R-607PP
-Reinforcement Plate (as located on Page
-7-5, Figure 2) using the same rivets and
-an additional nutplate.                                                   AN470AD4-5
-                                                                          6 PLACES                                                                                      R-1015B-L       R-1015B-R
 
-                                                                            R-608PP
+=== PAGE 7-9 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Rivet the R-1010 Shear Clips to their respective stiffeners on the R-1001-R Skin using LP4-3 blind rivets as shown in Figure 1.
 
+NOTE: The tank sealant currently sold by Van's has a working time of two hours. Steps 3 through 8 will have to be accomplished within this time.
 
+Step 2: Mix (follow the mixing directions on the can) and apply a THIN coat of tank sealant to both surfaces of the R-1006 Trailing Edge.
 
-                                                                                AN470AD4-6                                                                              R-1015A-L       R-1015A-R
-                                                                                2 PLACES
+Cleco the trailing edge to the R-1001-R skin as shown in Figure 1.
 
+[Figure 1 shows shear clip to stiffener attachment with callouts:]
+R-1010G
+R-1010F
+R-1006
+R-1010E
+R-1010D
+R-1010C
+R-1001-R
+R-1010B
+LP4-3
+2 PLACES PER SHEAR CLIP
+R-1010A
+R-1004
 
-                                                                                       K1000-6
+FIGURE 1: SHEAR CLIP TO STIFFENER ATTACHMENT
 
+Step 3: Position the R-1001-L Skin on the R-1001-R Skin as shown in Figure 2. Make sure the R-1015A-L Stiffener is positioned correctly relative to the R-1015A-R Stiffener and the R-1010A Shear Clip (see Page 7-5, Figure 1), then cleco the bottom of the skin to the R-1004 Bottom Rib. Capture the left skin with the bottom cleco in the trailing edge.
 
-                                                                                                                                                              FIGURE 3: RIVETING STIFFENERS
+Step 4: Have someone roll back the R-1001-L Skin so that the aft end of the bottom stiffeners (R-1015A) can be riveted. Of the two holes in the aft end of the stiffeners, only the forward hole is riveted. Install an LP4-3 blind rivet into this hole.
 
-                                     FIGURE 2: REINFORCEMENT PLATE RIVETS
-                                                                                                                                                                                               DATE: 12/09/13 REVISION: 0   RV-10    PAGE   7-7
-                       VAN'S AIRCRAFT, INC.
+Join the forward end of the stiffener to the R-1010A Shear Clip with two blind rivets.
 
+Step 5: Repeat Step 4 for the rest of the stiffeners and shear clips. Once again, make sure the stiffeners are positioned correctly; the aft end of the left stiffener on top of the right stiffener and the forward end of the stiffener under the shear clip. Capture the left skin with the clecos in the trailing edge as each stiffener set is riveted.
 
+When you get to the top of the rudder, make sure the R-1003A & B Top Rib halves are oriented correctly; the R-1003B on top of the R-1003A.
 
-                                                                                                                                        Step 2: Rivet the R-1003B Top Rib half to the
-   Step 1: Position the R-1003A Top Rib half on the R-1001-L Skin as shown in Figure 1. Rivet it in place using the rivets called out   R-1001-R Skin as shown in Figure 2. Use the
-   on page 7-12, Figure 3. However, leave open the forward three holes to allow the skin to be pulled back for access when attaching    rivets called out on Page 7-12, Figure 3 and,
-   the counterbalance weight.                                                                                                           once again, leave the forward three holes
-                                                                                                                                        open.
-                                                                                                                                                                                      DO NOT
-                                                                                                                                                                                       RIVET
+Step 6: Cleco the rest of the holes in the trailing edge and wipe away any sealant that squeezes out. Make sure the parts fit tightly; there should be no globs of sealant holding the skins and trailing edge apart.
 
+Step 7: Rivet the R-1004 Bottom Rib flange to the R-1001-L skin with the rivets called out on Page 7-12, Figure 3. The last hole in the rib flange, near the trailing edge (see Figure 2), will have to be riveted with a CCR264SS-3-2 blind rivet. There is not enough room to use a solid rivet and rivet squeezer. As the blind rivet is inserted into the hole, it will "bottom out" on the rivet in the opposite flange before the head is flush with the skin. With the rivet in the hole, squeeze the rivet slightly to create some clearance, push the rivet head flush, then finish setting the rivet.
 
+Step 8: Lay the rudder on a flat workbench with the trailing edge clecos hanging just over the edge. Place a 3" - 4" wide board on top of the rudder, with the edge of the board resting against the clecos, and distribute enough weights along the board to hold the trailing edge flat against the workbench.
 
+Allow the sealant to cure for a couple days before continuing.
 
-                                                                                                                                                                                                R-1003B
+[Figure 2 shows joining the skins:]
+R-1003B
+R-1006
+R-1003A
+LP4-3
+R-1001-R
+R-1001-L
+CCR264SS-3-2
+THIS HOLE ONLY
 
+FIGURE 2: JOINING THE SKINS
 
+DATE: 11/08/16  REVISION: 0  RV-10  PAGE 7-9
 
 
-                                                                                                     DO NOT
-                                                                                                     RIVET
+=== PAGE 7-10 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: After curing, remove the clecos from the trailing edge. Clear the holes of any sealant with a 100 degree deburring cutter (be careful not to remove any aluminum) and a #40 drill spun with your fingers.
 
+Step 2: Cleco the R-1002 Spar to the R-1010 Shear Clips, then rivet them together using the rivets shown in Figure 1. For clarity, the left skin is not shown in the figure.
 
-                                                                                          R-1003A
-                                                                                                                                                                                                    R-1001-R
+[Figure 1 shows riveting the spar to the shear clips:]
+R-1002
+LP4-3
+ALL HOLES IN EACH SHEAR CLIP
 
+FIGURE 1: RIVETING THE SPAR TO THE SHEAR CLIPS
 
+Step 3: Rivet the R-1004 Bottom Rib, the R-1005 Horn, and the R-1007 Striker Plates to the R-1002 Spar web using the Rivets called out in Figure 2 (for clarity, the skins are not shown). The top hole in the striker plate and the corresponding hole in the horn are both countersunk to keep the material thickness within the grip range of the blind rivet. Place the flush head of the blind rivet on the striker plate.
 
+[Figure 2 shows riveting the horn and striker plates:]
+R-1002
+LP4-3
+2 PLACES
+CS4-4
+2 PLACES
+R-1007
+R-1004
+R-1005
+AN426AD4-6
+2 PLACES
+AN470AD4-6
+3 PLACES
 
-                                                                                                                                                              FIGURE 2: RIVETING THE R-1003B TOP
-                                                                                                                                                                           RIB HALF
+FIGURE 2: RIVETING THE HORN AND STRIKER PLATES
 
-                                                                            R-1001-L
+Step 4: Rivet the R-1003 Top Rib together and to the R-1002 Spar with the rivets called out in Figure 3. The R-1001 Skins are not shown.
 
+Step 5: Rivet the R-1001 Skins to the spar flanges with the rivets shown on Page 7-12, Figure 3. For now, leave open the two holes in the spar flanges (one hole per flange) which are common to the R-1012 Counterbalance Rib.
 
+Step 6: Rivet the R-1012 Counterbalance Rib to the R-1002 Spar with the rivets shown in Figure 3.
 
-                                                                                                                                        Step 3: Use the rivets called out on Page 7-12,
-                                                                                                                                        Figure 3 to attach the R-1004 Bottom Rib to the
-                                                                                                                                        R-1001-R Skin as positioned in Figure 3.
+Now that the counterbalance rib is in place, go ahead and rivet the holes in the spar flange, which were left open in Step 5, using the rivets called out on Page 7-12, Figure 3.
 
+Step 7: Except for the three forward holes in the side flanges of the R-1003 Top Rib and R-1012 Counterbalance Rib, rivet the skin to the rib.
 
+[Figure 3 shows riveting the top and counterbalance rib:]
+AN470AD4-4
+5 PLACES FORWARD OF SPAR
+R-1003
+AN470AD4-4
+2 PLACES
+DO NOT RIVET, 12 PLACES
+R-1012
+LP4-3
+2 PLACES
+LP4-3
+R-1002
 
+FIGURE 3: RIVETING THE TOP AND COUNTERBALANCE RIB
 
-                          FIGURE 1: RIVETING THE R-1003A TOP
-                                       RIB HALF
+PAGE 7-10  RV-10  REVISION: 0  DATE: 11/08/16
 
 
-                                                                                                                                                                                          FIGURE 3: RIVETING THE R-1004
-                                                                                                                                                                                                   BOTTOM RIB
-PAGE   7-8     RV-10      REVISION: 0   DATE: 12/09/13
-                                                                       Step 3: Position the R-1001-L Skin on the R-1001-R Skin as shown in Figure 2. Make
-                                                                                                                                                            VAN'S AIRCRAFT, INC.
-Step 1: Rivet the R-1010 Shear                                         sure the R-1015A-L Stiffener is positioned correctly relative to the R-1015A-R
-Clips to their respective stiffeners on                                Stiffener and the R-1010A Shear Clip (see Page 7-5, Figure 1), then cleco
-                                           R-1010G                                                                                                              R-1003B
-the R-1001-R Skin using LP4-3 blind                                    the bottom of the skin to the R-1004 Bottom Rib. Capture the left skin
-rivets as shown in Figure 1.                                           with the bottom cleco in the trailing edge.
+=== PAGE 7-11 ===
+VAN'S AIRCRAFT, INC.
 
-NOTE: The tank sealant currently                                       Step 4: Have someone roll back the R-1001-L Skin so that the
-sold by Van's has a working time of                                    aft end of the bottom stiffeners (R-1015A) can be riveted.
-                                                                       Of the two holes in the aft end of the stiffeners, only the                                    R-1006                   R-1003A
-two hours. Steps 3 through 8 will
-have to be accomplished within this                                    forward hole is riveted. Install an LP4-3 blind rivet
-time.                                                                  into this hole.
-                                           R-1010F
-Step 2: Mix (follow the mixing                                         Join the forward end of the stiffener to the
-directions on the can) and apply a                                     R-1010A Shear Clip with two blind rivets.
-                                                              R-1006
-THIN coat of tank sealant to both
-surfaces of the R-1006 Trailing                                        Step 5: Repeat Step 4 for the rest of the
-Edge.                                                                  stiffeners and shear clips. Once again,
-                                                                       make sure the stiffeners are positioned
-Cleco the trailing edge to the                                         correctly; the aft end of the left stiffener
-R-1001-R skin as shown in Figure 1.        R-1010E                     on top of the right stiffener and the
-                                                                                                                                       LP4-3
-                                                                       forward end of the stiffener under the
-                                                                       shear clip. Capture the left skin with
-                                                                       the clecos in the trailing edge as
-                                                                       each stiffener set is riveted.
+NOTE: Trailing edges are riveted with "double-flush" rivets. These are standard rivets, but instead of setting the shop head on a flat surface, it is set in a dimple and ends up flush with the skin surface. However, a double flush rivet will not look the same on both sides. The factory flush head will set almost perfectly flat. The finished shop head will be flush with the skin, but it will not fill the dimple completely... it's been described as "an acorn sitting in a dimple." Do not fall into the trap of trying to use a longer rivet to "fill the hole." A longer rivet will bend over rather than set properly.
 
-                                                                       When you get to the top of the rudder,
-                                                                       make sure the R-1003A & B Top Rib                         R-1001-R
-                                                                       halves are oriented correctly; the
-                                           R-1010D
-                                                                       R-1003B on top of the R-1003A.                                                                                                    R-1001-L
+Step 1: Insert the rivets shown on Page 7-12, Figure 3 into the trailing edge holes. Tape all the rivets in place and flip the rudder over. Put blocks on either side of the back-riveting plate so the rudder can stay flat as it slides over the plate. Weight the rudder down to the work surface so it remains straight while riveting.
 
-                                                                       Step 6: Cleco the rest of the holes in the trailing
-                                                                       edge and wipe away any sealant that squeezes
-                                                                       out. Make sure the parts fit tightly; there should
-                                                                       be no globs of sealant holding the skins and trailing
-                                                                       edge apart.
+Rivet the trailing edge of the Rudder Assembly using the method outlined in Sections 5.6 Back Riveting, and 5.8 Riveted Trailing Edges.
 
-                                          R-1010C                      Step 7: Rivet the R-1004 Bottom Rib flange to
-                                                                       the R-1001-L skin with the rivets called out on
-                                                                       Page 7-12, Figure 3. The last hole in the rib flange,
-                                                                       near the trailing edge (see Figure 2), will have to be
-                                          R-1001-R                     riveted with a CCR264SS-3-2 blind rivet. There
-                                                                       is not enough room to use a solid rivet and rivet
-                                                                       squeezer. As the blind rivet is inserted into the
-                                                                       hole, it will "bottom out" on the rivet in the opposite
-                                           R-1010B                     flange before the head is flush with the skin. With
-                                                                       the rivet in the hole, squeeze the rivet slightly to
-                                                                       create some clearance, push the rivet head flush,                                                                    CCR264SS-3-2
-                                             LP4-3
-                                                                       then finish setting the rivet.                                                                                       THIS HOLE ONLY
-                                     2 PLACES PER
-                                        SHEAR CLIP
-                                                                       Step 8: Lay the rudder on a flat workbench with
-                                                                       the trailing edge clecos hanging just over the edge.
-                                                                       Place a 3" - 4" wide board on top of the rudder, with
-                                          R-1010A                      the edge of the board resting against the clecos, and
-                                                                       distribute enough weights along the board to hold the
-                                                                       trailing edge flat against the workbench.
+Step 2: Roll the leading edge of the skins according to the instructions in section 5J. However, a 1-1/4 inch diameter pipe works better for rolling the leading edge of the RV-10 rudder than the size given in Section 5J. Also, due to the size of this rudder, it is easier to roll one section of the leading edge at a time (section between hinge cutouts) verses rolling the entire leading edge as described in Section 5J. Begin by rolling the section of leading edge closest to the counterbalance rib, then roll the middle section, and finally the section closest to the horn.
 
-                                                                       Allow the sealant to cure for a couple days before
-                                                                       continuing.
+Make a slight bend along the leading edge of the skin which is on the outside (it doesn't matter which skin overlaps the other). Cleco the leading edges together, final-drill the holes with a #30 drill, then rivet them together with the rivets called out on Page 7-12, Figure 3.
 
+Step 3: Cleco the skins to the three forward holes in the side flanges of the R-1003 Top Rib and R-1012 Counterbalance Rib as shown in Figure 2.
 
+Insert a #8 screw into the upper hole in the R-1014 Counterbalance Weight and pin the weight to the front flange of the top rib as shown in Figure 1. Center and clamp the counterbalance weight in place.
 
-                                                     R-1004
-                                                                                                                                                                           FIGURE 2: JOINING
-                                                                                                                                                                               THE SKINS
-           FIGURE 1: SHEAR CLIP TO
-           STIFFENER ATTACHMENT
-                                                                                                                                                               DATE: 11/08/16 REVISION: 0     RV-10      PAGE   7-9
-                       VAN'S AIRCRAFT, INC.                       Step 3: Rivet the R-1004 Bottom Rib, the R-1005
-                                                                                                                                                                LP4-3
-                                                                  Horn, and the R-1007 Striker Plates to the R-1002
-                                                                                                                                                                2 PLACES
-                                                                  Spar web using the Rivets called out in Figure 2 (for
-                                                                  clarity, the skins are not shown). The top hole in the
-                                                                  striker plate and the corresponding hole in the horn
-                                                                  are both countersunk to keep the material thickness
-   Step 1: After curing, remove the clecos from
-                                                                  within the grip range of the blind
-   the trailing edge. Clear the holes of any
-                                                                  rivet. Place the flush head of the
-   sealant with a 100° deburring cutter (be
-                                                                  rivet on the striker plate.
-   careful not to remove any aluminum) and a
-   #40 drill spun with your fingers.                                                                         R-1002
+Match-Drill the counterbalance rib flange using the lower hole in the counterbalance weight as a guide.
 
-  Step 2: Cleco the R-1002 Spar to the R-1010
-  Shear Clips, then rivet them together using                                                                  CS4-4
-  the rivets shown in Figure 1. For clarity, the                                                           2 PLACES
-  left skin is not shown in the figure.
+Step 4: Temporarily secure the R-1014 Counterbalance Weight to the front of the R-1003 Top Rib and the R-1012 Counterbalance Rib with #8 screws. It is not necessary to countersink the weight yet, this is done in a later step.
 
+[Figure 1 shows riveting the leading and trailing edges and locating the counterbalance weight:]
+R-1003
+R-1012
+MATCH-DRILL #19
+R-1014
+#8 SCREW
+2 PLACES
 
-                                                                                                                                                                                          R-1005
-                                                                                                       R-1007                                                                R-1004
+FIGURE 1: RIVETING THE LEADING AND TRAILING EDGES AND LOCATING THE COUNTERBALANCE WEIGHT
 
-                                                                                                                AN426AD4-6                                      AN470AD4-6
-                                                                                                                  2 PLACES                                      3 PLACES
+Step 5: With your fingers, fold the skins around the counterbalance weights just enough to leave a crease, then remove the clecos and the counterbalance weight.
 
+[Figure 2 shows creasing the skins around the counterbalance area]
 
-                                                                                                                                      FIGURE 2: RIVETING THE HORN
-                                                                                                                                          AND STRIKER PLATES
+FIGURE 2: CREASING THE SKINS
 
+Step 6: Clamp the skins, along the crease, between two pieces of wood. (Sand a very small radius along the edge of the wood to prevent cracking the skin, and drill the wood to clear any dimples in the skins.) Using a soft face hammer, bend the skins to about 85 degrees. Hold the wood securely to prevent the hammer from buckling the skins behind the wood blocks. To prevent marks on the skin, place another piece of wood over the skin and hammer on the wood instead of directly on the skin. A second set of hands is helpful.
 
-                                                                  Step 4: Rivet the R-1003 Top Rib together and to the R-1002 Spar with the rivets called out in Figure 3. The R-1001 Skins are not shown.
-                                                         R-1002
-                                                                  Step 5: Rivet the R-1001 Skins to the spar
-                                                                  flanges with the rivets shown on Page
-                                                                  7-12, Figure 3. For now, leave open                                            AN470AD4-4
-                                                                  the two holes in the spar flanges                                              5 PLACES FORWARD
-                                                                  (one hole per flange) which                                                    OF SPAR
-                                                                  are common to the
-                                                                  R-1012 Counter-                                                                                   R-1003
-                                                                  balance Rib.
+Temporarily reinstall the R-1014 Counterbalance Weight (put the screws in from the rib side of the weight just to locate it) and recleco the skins. If the two skins don't fit together reasonably well, clamp and bend the skins until they do.
 
-                                                      LP4-3       Step 6: Rivet the
-                                               ALL HOLES IN                                                                                                                      AN470AD4-4
-                                                                  R-1012 Counterbalance                                                                                          2 PLACES
-                                            EACH SHEAR CLIP       Rib to the R-1002 Spar
-                                                                  with the rivets shown in
-                                                                  Figure 3.
+[Figure 3 shows finishing bend in skins with clamp and hammer illustration]
 
-                                                                  Now that the counterbalance             DO NOT
-                                                                  rib is in place, go ahead and           RIVET,                                                                       LP4-3
-                                                                  rivet the holes in the spar             12 PLACES
-                                                                  flange, which were left open
-                                                                  in Step 5, using the rivets called
-                                                                  out on Page 7-12, Figure 3.
-                                                                                                                    R-1012
-                                                                  Step 7: Except for the three forward
-                                                                  holes in the side flanges of the R-1003                               LP4-3
-                                                                  Top Rib and R-1012 Counterbalance Rib,                            2 PLACES
-                                                                  rivet the skin to the rib.
+FIGURE 3: FINISHING BEND IN SKINS
 
+DATE: 11/08/16  REVISION: 1  RV-10  PAGE 7-11
 
 
+=== PAGE 7-12 ===
+VAN'S AIRCRAFT, INC.
 
-                               FIGURE 1: RIVETING THE
-                              SPAR TO THE SHEAR CLIPS                                         FIGURE 3: RIVETING THE TOP AND                                                 R-1002
-                                                                                                   COUNTERBALANCE RIB
-PAGE   7-10    RV-10      REVISION: 0   DATE: 11/08/16
-NOTE: Trailing edges are riveted with "double-flush" rivets. These are standard rivets, but                           Step 5: With your fingers, fold the skins around the
-                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
-instead of setting the shop head on a flat surface, it is set in a dimple and ends up flush                           counterbalance weights just enough to leave a
-                                                                                                  R-1003
-with the skin surface. However, a double flush rivet will not look the same on                                        crease, then remove the clecos and the
-both sides. The factory flush head will set almost perfectly flat. The                                                counterbalance weight.
-finished shop head will be flush with the skin, but it will
-not fill the dimple completely... it's been described as                     R-1012
-"an acorn sitting in a dimple." Do not fall into the
-trap of trying to use a longer rivet to " fill the
-hole." A longer rivet will bend over rather
-than set properly.
+Step 1: Once again, cleco the skins to the top and counterbalance ribs as shown in Figure 1. Tape the edge of the overlapping skin securely to the underlying skin.
 
-
-Step 1: Insert the rivets shown on Page 7-12,
-Figure 3 into the trailing edge holes. Tape all
-the rivets in place and flip the rudder over. Put
-blocks on either side of the back-riveting plate                               MATCH-DRILL #19
-so the rudder can stay flat as it slides over the
-plate. Weight the rudder down to the work surface                              R-1014
-so it remains straight while riveting.
-                                                                                #8 SCREW
-Rivet the trailing edge of the Rudder Assembly using                            2 PLACES
-the method outlined in Sections 5.6 Back Riveting,
-and 5.8 Riveted Trailing Edges.
-
-Step 2: Roll the leading edge of the skins according to the instructions in section 5J.
-However, a 1-1/4 inch diameter pipe works better for rolling the leading edge of the RV-10
-rudder than the size given in Section 5J. Also, due to the size of this rudder, it is easier to                                                                FIGURE 2: CREASING THE SKINS
-roll one section of the leading edge at a time (section between hinge cutouts) verses rolling
-the entire leading edge as described in Section 5J. Begin by rolling the section of leading                           Step 6: Clamp the skins, along the crease, between two pieces of wood. (Sand a very small radius along the edge
-edge closest to the counterbalance rib, then roll the middle section, and finally the section                         of the wood to prevent cracking the skin, and drill the wood to clear any dimples in the skins.) Using a soft face
-closest to the horn.                                                                                                  hammer, bend the skins to about 85°. Hold the wood securely to prevent the hammer strikes from buckling the
-                                                                                                                      skins behind the wood blocks. To prevent marks on the skin, place another piece of wood over the skin and
-Make a slight bend along the leading edge of the skin which is on the outside (it doesn't                             hammer on the wood instead of directly on the skin. A second set of hands is helpful.
-matter which skin overlaps the other). Cleco the leading edges together, final-drill the holes
-with a #30 drill, then rivet them together with the rivets called out on Page 7-12, Figure 3.                         Temporarily reinstall the R-1014 Counterbalance Weight (put the
-                                                                                                                      screws in from the rib side of the weight just to locate it)
-Step 3: Cleco the skins to the three forward holes in the side flanges of the R-1003 Top Rib                          and recleco the skins. If the two skins don't fit
-and R-1012 Counterbalance Rib as shown in Figure 2.                                                                   together reasonably well, clamp and bend
-                                                                                                                      the skins until they do.
-Insert a #8 screw into the upper hole in the R-1014 Counterbalance Weight and pin the
-weight to the front flange of the top rib as shown in Figure 1. Center and clamp the
-counterbalance weight in place.
-
-Match-Drill the counterbalance rib flange using the lower hole in the counterbalance weight
-as a guide.
-
-Step 4: Temporarily secure the R-1014 Counterbalance Weight to the front of the R-1003
-Top Rib and the R-1012 Counterbalance Rib with #8 screws. It is not necessary to
-countersink the weight yet, this is done in a later step.
-
-
-
-
-                                                                                                                                                              FIGURE 3: FINISHING BEND IN SKINS
-                                                                  FIGURE 1: RIVETING THE LEADING AND TRAILING EDGES
-                                                                      AND LOCATING THE COUNTERBALANCE WEIGHT
-                                                                                                                                                                                        DATE: 11/08/16 REVISION: 1   RV-10    PAGE   7-11
-                        VAN'S AIRCRAFT, INC.
-
-
-   Step 1: Once again, cleco the skins to the top and
-   counterbalance ribs as shown in Figure 1. Tape the
-   edge of the overlapping skin securely to the
-   underlying skin.
-
-   Remove one of the #8 screws holding the
-   counterbalance weight in place and insert
-   a #19 drill bit into the hole. As shown in the
-   figure, backup the skins with a block of wood
-   and strike the drill bit with a hammer to leave
-   a mark on the skin. Rotate the drill bit 90°
-   then strike it again. Replace the screw and
-   repeat the process for the counter-balance
-   weight hole in the other rib.
-
-   Remove the clecos. The mark in the skin is
-   in the form of a dimple with the concave
-   portion of the dimple on the inside surface of
-   the skin. Pull back the skin and drill the two
-   dimples with a #40 drill. Cleco the skins back
-   in place, with the drilled skin on top, re-tape to pull
-   the skins tight, then match drill one of the holes into
-   the unmarked skin with a #30 drill. Cleco this hole then                                                        CS4-4
-   match drill the other hole with the same drill. Now, remove
-   one of the screws holding the counterbalance weight in place                                                    AD-41-ABS
-   and drill through the entire assembly with a #19 drill. Replace the
-   screw then drill the other hole.                                                                                AN426AD3-3
-
-   Step 2: Deburr the holes and put a light bend along                                                             AN426AD3-3.5
-   the edge of the outside skin. Dimple both skins for
-   #8 screws and machine countersink the R-1014                                                                    AN426AD3-4
-   Counterbalance Weight to accept the dimples.
-
-   Step 3: Drill #40 the nutplate attach holes in the fwd                  FIGURE 1: LOCATING THE COUNTERBALANCE
-   flange of the counterbalance rib. See Section 5.16.                            WEIGHT HOLES IN THE SKINS
-  Rivet the nutplates to the rib flanges. See Figure 2
-                                                                                         K1000-08
-  call-outs.                                                                        2X
-                                                                                         2X AN426AD3-3.5
-   Secure the counterbalance weight using the screws
-   called out in Figure 2.
-
-  Step 4: If the skins "pillow" between the screws, drill
-  a #30 hole directly between the two screws into the
-  skins and the counterbalance weight. You might get
-  lucky and hit the hole already in the weight but, if not,
-  you have a matching hole now!
-
-  Remove the two screws and drill out the hole just
-  drilled in the weight with a #19 drill (only the skins are
-  riveted, the #19 hole in the weight provides clearance            2X AN509-8R12
-  for the body of the rivet). Deburr the skin holes,
-  dimple for a 1/8" flush rivet, and replace the
-  hardware. Install a CS4-4 into the dimpled hole.
-
-  Step 5: Rivet the remaining twelve matching holes in
-  the skins, top rib, and counterbalance rib with the
-  rivets shown in Figure 3 to complete your rudder
-  assembly!                                                              FIGURE 2: SECURING THE COUNTERBALANCE
-                                                                                         WEIGHT                      FIGURE 3: RUDDER          SEE STEP 5,
-                                                                                                                        SKIN RIVETS     PAGE 7-9 FOR THIS
-PAGE   7-12     RV-10      REVISION: 1   DATE: 11/08/16                                                                                 RIVET IN LEFT SKIN
-
+Remove one of the #8 screws holding the counterbalance weight in place and insert a #19 drill bit into the hole. As shown in the figure, backup the skins with a block of wood and strike the drill bit with a hammer to leave a mark on the skin. Rotate the drill bit 90 degrees then strike it again. Replace the screw and repeat the process for the counter-balance weight hole in the other rib.
+
+Remove the clecos. The mark in the skin is in the form of a dimple with the concave portion of the dimple on the inside surface of the skin. Pull back the skin and drill the two dimples with a #40 drill. Cleco the skins back in place, with the drilled skin on top, re-tape to pull the skins tight, then match drill one of the holes into the unmarked skin with a #30 drill. Cleco this hole then match drill the other hole with the same drill. Now, remove one of the screws holding the counterbalance weight in place and drill through the entire assembly with a #19 drill. Replace the screw then drill the other hole.
+
+Step 2: Deburr the holes and put a light bend along the edge of the outside skin. Dimple both skins for #8 screws and machine countersink the R-1014 Counterbalance Weight to accept the dimples.
+
+Step 3: Drill #40 the nutplate attach holes in the fwd flange of the counterbalance rib. See Section 5.16.
+
+Rivet the nutplates to the rib flanges. See Figure 2 call-outs.
+
+Secure the counterbalance weight using the screws called out in Figure 2.
+
+Step 4: If the skins "pillow" between the screws, drill a #30 hole directly between the two screws into the skins and the counterbalance weight. You might get lucky and hit the hole already in the weight but, if not, you have a matching hole now!
+
+Remove the two screws and drill out the hole just drilled in the weight with a #19 drill (only the skins are riveted, the #19 hole in the weight provides clearance for the body of the rivet). Deburr the skin holes, dimple for 1/8" flush rivet, and replace the hardware. Install a CS4-4 into the dimpled hole.
+
+Step 5: Rivet the remaining twelve matching holes in the skins, top rib, and counterbalance rib with the rivets shown in Figure 3 to complete your rudder assembly!
+
+[Figure 1 shows locating the counterbalance weight holes in the skins, with drill bit and hammer illustration]
+
+FIGURE 1: LOCATING THE COUNTERBALANCE WEIGHT HOLES IN THE SKINS
+
+[Figure 2 shows securing the counterbalance weight:]
+2X K1000-08
+2X AN426AD3-3.5
+2X AN509-8R12
+
+FIGURE 2: SECURING THE COUNTERBALANCE WEIGHT
+
+[Figure 3 shows rudder skin rivets pattern with rivet legend:]
+CS4-4
+AD-41-ABS
+AN426AD3-3
+AN426AD3-3.5
+AN426AD3-4
+
+SEE STEP 5, PAGE 7-9 FOR THIS RIVET IN LEFT SKIN
+
+FIGURE 3: RUDDER SKIN RIVETS
+
+PAGE 7-12  RV-10  REVISION: 1  DATE: 11/08/16

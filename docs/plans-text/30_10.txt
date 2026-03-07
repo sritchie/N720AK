@@ -1,207 +1,129 @@
-                                                                                            VAN'S AIRCRAFT, INC.
+SECTION 30: STEP INSTALLATION
+Van's Aircraft, Inc.
+RV-10
+Date: 07/24/14
 
+=== PAGE 1 ===
+PAGE 30-1 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-   SECTION 30:                                                                         WD-1008-R
-                                                                                       STEP MOUNTING BRACKET
+SECTION 30: STEP INSTALLATION
 
+[Isometric drawing showing the aft fuselage/baggage area from the left side with the step installation. The rear spar bulkhead assembly, baggage ribs, mid bottom skin, and step mounting brackets are visible.]
 
+Part callouts:
+- WD-1008-R STEP MOUNTING BRACKET
+- WD-1007-R STEP
+- F-1021-R OUTBD BAGGAGE RIB
+- F-1005A REAR SPAR BULKHEAD
+- F-1020-R MID BAGGAGE RIB
+- F-1077 MID BOTTOM SKIN
+- F-1019-R INBD BAGGAGE RIB
+- F-1019-L INBD BAGGAGE RIB
+- F-1020-L MID BAGGAGE RIB
+- F-1021-L OUTBD BAGGAGE RIB
+- WD-1008-L STEP MOUNTING BRACKET
+- WD-1007-L STEP
+- F-1038 STEP SUPPORT BLOCK, 2 PLACES
 
+NOTE: SOME PARTS NOT SHOWN FOR CLARITY
 
-STEP INSTALLATION                                                                                    WD-1007-R
-                                                                                                     STEP
+=== PAGE 2 ===
+PAGE 30-2 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Note: This entire section depicts the installation of the left step only. The right step installation is a mirror of the left.
 
+Step 1: Drill the F-1038 Step Support Block per the callouts in Figure 1.
 
-                                                                                                                      F-1021-R
-                          F-1005A
-                                                                                                                      OUTBD BAGGAGE RIB
-                       REAR SPAR
-                        BULKHEAD
+[Drawing of F-1038 Step Support Block showing:]
+- 3/8, TYP. (two holes at top)
+- DRILL #10, 4 PLACES
+- 3/8, TYP. (two holes at bottom)
 
+FIGURE 1: DRILLING THE STEP SUPPORT BLOCK
 
+Step 2: Deburr the edge of the WD-1007-L Step as shown in Figure 2.
 
+[Drawing of WD-1007-L step tube showing:]
+- DEBURR THIS EDGE (arrow pointing to edge)
 
-                                                                                                                                  F-1020-R
-                                                                                                                                  MID BAGGAGE
-                                                                                                                                  RIB
+FIGURE 2: DEBURRING THE STEP
 
-                                                                                                                              F-1077
-                                                                                                                              MID BOTTOM SKIN
-                                                                                                                  F-1019-R
-                                                                                                                  INBD BAGGAGE RIB
-                                                                                                 F-1019-L
-                                                                                                 INBD BAGGAGE RIB
+Step 3: Insert the round portion of the WD-1007-L Step into the WD-1008-L Step Mounting Bracket then slip the F-1038 Support Block over the end of the tube. Slide the support block inboard and rotate as required to flush the support block against the web of the F-1020-L Mid Baggage Rib.
 
-                       WD-1008-L
-                                                                                   F-1020-L
-                       STEP
-                                     F-1038                                        MID BAGGAGE RIB
-                       MOUNTING
-                       BRACKET       STEP SUPPORT
-           WD-1007-L                 BLOCK,                                  F-1021-L
-           STEP                      2 PLACES                                OUTBD BAGGAGE RIB
+Step 4: Cleco the forward portion of the F-1022A-L Baggage Floor to the fuselage as shown in Figure 3. To keep the free end the baggage floor out of the way cleco the aft flange to the holes along the lower edge of the F-1034B Seat Back Brace, see Section 29.
 
+Step 5: Adjust the position of the F-1038 Support Block to make the round portion of the WD-1007-L Step parallel to both the upper edge and web of the F-1005A Rear Spar Bulkhead. Match-Drill #12 at least two of the holes drilled in Step 1 into the F-1020-L Mid Baggage Rib. Temporally bolt these holes to the mid baggage rib. Remove the step and match-drill #12 the remaining holes.
 
+Step 6: Remove the F-1022A-L Baggage Floor. Mark the top, aft and outboard face of the F-1038 Support Block as shown in Figure 4. Remove the support block. Deburr the holes in the F-1020-L Mid Baggage Rib.
 
+Step 7: Remove the WD-1007-L Step and set it aside. Bolt the F-1038 Support Block to the F-1020-L Mid Baggage Rib as shown in Figure 4.
 
-                                    NOTE: SOME PARTS NOT SHOWN FOR CLARITY
+FIGURE 3: DRILLING THE SUPPORT BLOCK ATTACH HOLES
+[Drawing showing:]
+- F-1022A-L (SHOWN TRANSPARENT)
+- F-1005A
+- F-1038
+- WD-1007-L
+- WD-1008-L
+- F-1020-L
 
+FIGURE 4: ATTACHING THE SUPPORT BLOCK
+[Drawing showing bolt detail:]
+- AN3-11A, 4 PLACES
+- AN960-10, 4 PLACES
+- AN365-1032, 4 PLACES
+- F-1038
 
+=== PAGE 3 ===
+PAGE 30-3 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Adjust the spanwise position of the WD-1007-L Step so the weld at the top of the step is flush with the F-1070-L Mid Side Skin as shown in Figure 1.
 
-                                                                                                 DATE: 07/24/14 REVISION: 0   RV-10   PAGE   30-1
-                        VAN'S AIRCRAFT, INC.
+[Drawing showing:]
+- F-1021-L
+- WD-1008-L
+- F-1070-L
+- WD-1007-L
 
+FIGURE 1: SETTING THE STEP SPANWISE POSITION
 
-  Note: This entire section depicts the installation of the left step only. The right      Step 3: Insert the round portion of the WD-1007-L Step into the WD-1008-L Step                Step 6: Remove the F-1022A-L Baggage Floor. Mark the top, aft and outboard face of
-  step installation is a mirror of the left.                                               Mounting Bracket then slip the F-1038 Support Block over the end of the tube. Slide the       the F-1038 Support Block as shown in Figure 4. Remove the support block. Deburr the
-                                                                                           support block inboard and rotate as required to flush the support block against the web of    holes in the F-1020-L Mid Baggage Rib.
-   Step 1: Drill the F-1038 Step Support Block per the callouts in Figure 1.               the F-1020-L Mid Baggage Rib.
-                                                                                                                                                                                         Step 7: Remove the WD-1007-L Step and set it aside. Bolt the F-1038 Support Block to
-                                 3/8,                                                      Step 4: Cleco the forward portion of the F-1022A-L Baggage Floor to the fuselage as           the F-1020-L Mid Baggage Rib as shown in Figure 4.
-                                 TYP.                                                      shown in Figure 3. To keep the free end the baggage floor out of the way cleco the aft
-                                                                                           flange to the holes along the lower edge of the F-1034B Seat Back Brace, see Section
-                                                                                           29.
+Step 2: Use the dimension given in Figure 2 to set the proper sweep angle of the WD-1007-L Step. The dimension given is from the lower aft edge of the F-1004B Center Section Bulkhead stub to the leading edge of the step (not the leading edge of the step end plate).
 
-                                                                                           Step 5: Adjust the position of the F-1038 Support Block to make the round portion of the
-                                                                                           WD-1007-L Step parallel to both the upper edge and web of the F-1005A Rear Spar
-       3/8,                                                                                Bulkhead. Match-Drill #12 at least two of the holes drilled in Step 1 into the F-1020-L Mid
-       TYP.                                                           DRILL                Baggage Rib. Temporally bolt these holes to the mid baggage rib. Remove the step and
-                                                                       #10,                match-drill #12 the remaining holes.
-                                                                    4 PLACES                                   F-1022A-L
-                                                                                                   (SHOWN TRANSPARENT)
-                                                                                                                                                                                                                     F-1038
+[Drawing showing:]
+- F-1004B (AFT LOWER CORNER)
+- WD-1007-L
+- LEADING EDGE OF STEP
+- 45 1/4 (dimension)
 
+FIGURE 2: SETTING THE STEP SWEEP BACK ANGLE
 
+Step 3: Once the sweep back angle of the WD-1007-L Step has been set, use the guide hole shown in Figure 3 to match-drill #30 through the step, WD-1008-L Step Mounting Bracket and F-1077 Mid Bottom Skin.
 
+Step 4: Cleco the F-1022A-L Baggage Floor to the fuselage as shown in Figure 3. Match-Drill #30 from the bottom of the aircraft through the baggage floor using the hole drilled in Step 3 as a guide. Step 3 and this step provide pilot holes that can be enlarged to gain access to the step attach hardware in the future if the WD-1007-L Step needs to be replaced. It is ok to leave the #30 hole in the bottom of the aircraft as a drain hole.
 
-       FIGURE 1: DRILLING THE STEP SUPPORT BLOCK
+Step 5: Remove the F-1022A-L Baggage Floor and final-drill #12 the hole drilled in Step 3 through just the WD-1008-L Mounting Bracket and WD-1007-L Step.
 
-                                                                                           F-1005A
+Step 6: Remove the WD-1007-L Step and deburr all holes drilled in Step 3 through Step 5. Prime the step. Paint the step if desired.
 
+FIGURE 3: DRILLING THE STEP
+[Drawing showing:]
+- F-1022A-L (SHOWN TRANSPARENT)
+- WD-1007-L
+- GUIDE HOLE
+- WD-1008-L
+- F-1077
 
-   Step 2: Deburr the edge of the WD-1007-L Step as shown in Figure 2.
-                                                                                        F-1038
+=== PAGE 4 ===
+PAGE 30-4 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Bolt the WD-1007-L Step to the WD-1008-L Mounting Bracket as shown in Figure 1.
 
+Step 2: Touch-up any primer that may have been scraped off the WD-1007-L Step.
 
-
-                                                    DEBURR THIS EDGE
-
-
-
-                                                                                                                                                                                                             AN3-11A,
-                                                                                                                                                                                                            4 PLACES          AN960-10,
-                                                                                                                                                                                                                              4 PLACES
-                                                                                                                                                                                                                                          AN365-1032,
-                                                                                                                                                                                                                                            4 PLACES
-
-                                                                                                                                                                                                     FIGURE 4: ATTACHING THE SUPPORT BLOCK
-
-
-                                                                                                                                             WD-1007-L
-                                                                                                                       WD-1008-L                                  F-1020-L
-
-
-                                                                                        FIGURE 3: DRILLING THE SUPPORT BLOCK ATTACH HOLES
-
-
-              FIGURE 2: DEBURRING THE STEP
-
-PAGE   30-2    RV-10       REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-
-
-
-Step 1: Adjust the spanwise position of the WD-1007-L Step so the weld at the top of the step is flush with the F-1070-L Mid Side Skin as shown in Figure 1.     Step 3: Once the sweep back angle of the WD-1007-L Step has been set, use the guide
-                                                                                                                                                                 hole shown in Figure 3 to match-drill #30 through the step, WD-1008-L Step Mounting
-                                                                                                                                                                 Bracket and F-1077 Mid Bottom Skin.
-
-                                                        F-1021-L                                                                                                 Step 4: Cleco the F-1022A-L Baggage Floor to the fuselage as shown in Figure 3.
-                                                                                                                                                                 Match-Drill #30 from the bottom side of the aircraft through the baggage floor using the
-                                                                                                                                                                 hole drilled in Step 3 as a guide. Step 3 and this step provide pilot holes that can be
-                                                                WD-1008-L                                                                                        enlarged to gain access to the step attach hardware in the future if the WD-1007-L Step
-                                                                                                                                                                 needs to be replaced. It is ok to leave the #30 hole in the bottom of the aircraft as a drain
-                                                                   F-1070-L                                                                                      hole.
-                                                WD-1007-L
-                                                                                                                                                                 Step 5: Remove the F-1022A-L Baggage Floor and final-drill #12 the hole drilled in Step
-                                                                                                                                                                 3 through just the WD-1008-L Mounting Bracket and WD-1007-L Step.
-
-                                                                                                                                                                 Step 6: Remove the WD-1007-L Step and deburr all holes drilled in Step 3 through Step
-FIGURE 1: SETTING THE STEP SPANWISE POSITION                                                                                                                     5. Prime the step. Paint the step if desired.
-                                                                                                                                                                                                                                     F-1022A-L
-                                                                                                                                                                                                                                     (SHOWN
-                                                                                                                                                                                                                                     TRANSPARENT)
-
-Step 2: Use the dimension given in Figure 2 to set the proper sweep angle of the WD-1007-L Step. The dimension given is from the lower aft edge of the F-1004B
-Center Section Bulkhead stub to the leading edge of the step (not the leading edge of the step end plate).
-                                                                                                                                                                                WD-1007-L
-
-                                                                                                                                                                             GUIDE
-                                                                                                                                                                              HOLE
-
-
-
-
-                                                                                                                                                                          WD-1008-L
-
-
-                                                                                                                                                                          F-1077
-
-
-
-
-                                                                                                                                                                                   FIGURE 3: DRILLING THE STEP
-
-
-
-
-                                                                       45 1/4
-      F-1004B
- (AFT LOWER
-    CORNER)                                                                                         WD-1007-L
-
-                                                                                                   LEADING EDGE
-              FIGURE 2: SETTING THE STEP SWEEP BACK ANGLE                                               OF STEP
-
-
-
-
-                                                                                                                                                                                                            DATE: 07/24/14 REVISION: 0   RV-10       PAGE   30-3
-                      VAN'S AIRCRAFT, INC.
-
-
-
-   Step 1: Bolt the WD-1007-L Step to the WD-1008-L Mounting Bracket as shown in Figure 1.
-
-   Step 2: Touch-up any primer that may have been scraped off the WD-1007-L Step.
-
-
-
-
-                             AN3-20A
-
-
-
-                         WD-1008-L
-
-
-
-
-                                                                        AN960-10
-
-
-
-                                                                        WD-1007-L
-
-                                                                    AN365-1032
-
-
-
-                                FIGURE 1: BOLTING THE STEP IN PLACE
-
-
-
-
-PAGE   30-4   RV-10      REVISION: 0   DATE: 07/24/14
-
+FIGURE 1: BOLTING THE STEP IN PLACE
+[Drawing showing bolt detail through step tube and mounting bracket:]
+- AN3-20A
+- WD-1008-L
+- AN960-10
+- WD-1007-L
+- AN365-1032

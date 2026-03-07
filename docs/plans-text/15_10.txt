@@ -1,240 +1,225 @@
-                                                                                                  VAN'S AIRCRAFT, INC.
-
-
-
+=== PAGE 15-1 ===
+VAN'S AIRCRAFT, INC.
 
 SECTION 15:
 REAR SPAR
 
-           MAIN SPAR AND RIB ASSEMBLY
-                      (SEE SECTION 14)
-                                                                                                                                    W-1007C
-                                                                                                                                    REAR SPAR
-                                                                                                                 W-1007B            DOUBLER PLATE
-                                                                                                                 REAR SPAR
-                                                                                                                 REINF. FORK
+[Isometric view of left wing rear spar assembly with main spar and ribs]
 
+MAIN SPAR AND RIB ASSEMBLY
+(SEE SECTION 14)
 
+W-1007C
+REAR SPAR
+DOUBLER PLATE
 
+W-1007B
+REAR SPAR
+REINF. FORK
 
-                                                                                          W-1007D-L INBOARD
-                                                                                          REAR SPAR DOUBLER
+W-1007D-L INBOARD
+REAR SPAR DOUBLER
 
-
-
-
-                                                                     W-1007A-L
-                                                                     REAR SPAR WEB
-
-
-
-
-                                                                       W-1013-L
-                                                                       AILERON HINGE
-                                                                       BRACKET ASSEMBLY
-                                                W-1007D-L OUTBOARD
-                                                REAR SPAR DOUBLER
-
-
-
-
-     W-1007A-L
-                                     W-1007E-L
+W-1007A-L
 REAR SPAR WEB
-                                     REAR SPAR DOUBLER
 
+W-1013-L
+AILERON HINGE
+BRACKET ASSEMBLY
 
+W-1007D-L OUTBOARD
+REAR SPAR DOUBLER
 
+W-1007A-L
+REAR SPAR WEB
 
-                                                                                                      DATE: 07/24/14 REVISION: 0   RV-10   PAGE   15-1
-                      VAN'S AIRCRAFT, INC.
+W-1007E-L
+REAR SPAR DOUBLER
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 15-1
 
-  Note: Before working on assembling the aileron hinge bracket assemblies, refer to page 15-1 to become familiar with the          Step 3: Cleco the W-1013A TRIMMED Aileron Hinge Bracket Spacer, W-1013C-LX and W-1013C-R AIleron Hinge Bracket Sides
-  bracket's orientation as installed on the aircraft.                                                                              together as shown in Figure 3. Match-Drill #30 all common attach holes. Machine countersink the aft holes (as indicated in Figure 3)
-                                                                                                                                   on the inboard face of the W-1013C-R Aileron Hinge Bracket Side for the head of an AN426AD4 rivet. Repeat this process for the
-  Step 1: Of the four W-1013A Aileron Hinge Bracket Spacers supplied in the kit two will be used in the W-1014-L/R Aileron Hinge   right outboard aileron bracket assembly.
-  Bracket Assemblies and will need the aileron stop tab trimmed off as shown in Figure 1.
+=== PAGE 15-2 ===
+VAN'S AIRCRAFT, INC.
 
+Note: Before working on assembling the aileron hinge bracket assemblies, refer to page 15-1 to become familiar with the bracket's orientation as installed on the aircraft.
 
-                                                                                                                                                                                                                                   W-1013C-R
-                                                                                                                                                            W-1013C-LX
+Step 1: Of the four W-1013A Aileron Hinge Bracket Spacers supplied in the kit two will be used in the W-1014-L/R Aileron Hinge Bracket Assemblies and will need the aileron stop tab trimmed off as shown in Figure 1.
 
-                                                                 REMOVE HATCHED AREA
+REMOVE HATCHED AREA
 
+FIGURE 1: HINGE BRACKET SPACER TRIM FOR
+OUTBOARD AILERON HINGE BRACKET ASSEMBLIES
 
+Step 2: Cleco the W-1013A Aileron Hinge Bracket Spacer, W-1013B-L and W-1013C-L Aileron Hinge Bracket Sides together as shown in Figure 2. Final-Drill #30 all common attach holes. Machine countersink the aft holes as indicated in Figure 2 on the outboard face of the W-1013C-L Aileron Hinge Bracket Side for the head of an AN426AD4 rivet. See Section 5E for more information on countersinking. Repeat this process for the right inboard aileron bracket assembly.
 
+W-1013B-L
 
-                                                                                                                                                                                                                                                  AN470AD4-7,
-                                                                                                                                                                                                                                                  10 PLACES
+W-1013C-L
 
+AN470AD4-6,
+3 PLACES
 
+AN470AD4-7,
+7 PLACES
 
+AN426AD4-7,
+5 PLACES
 
-                                                                                                                                               BEARING-COM-3-5
+W-1013A
 
-                                                                                                                                                   W-1013A TRIMMED
-                                                                                                                                                                                                                                AN426AD4-7,
-                         FIGURE 1: HINGE BRACKET SPACER TRIM FOR                                                                                                                   MACHINE
-                                                                                                                                                                                                                                5 PLACES
-                       OUTBOARD AILERON HINGE BRACKET ASSEMBLIES                                                                                                               COUNTERSINK
+BEARING-COM-3-5
 
+MACHINE COUNTERSINK
 
+FIGURE 2: INBOARD AILERON BRACKET ASSEMBLY
 
-  Step 2: Cleco the W-1013A Aileron Hinge Bracket Spacer, W-1013B-L and W-1013C-L Aileron Hinge Bracket Sides together as                                      FIGURE 3: OUTBOARD AILERON BRACKET ASSEMBLY
-  shown in Figure 2. Final-Drill #30 all common attach holes. Machine countersink the aft holes as indicated in Figure 2 on the
-  outboard face of the W-1013C-L Aileron Hinge Bracket Side for the head of an AN426AD4 rivet. See Section 5E for more
-  information on countersinking. Repeat this process for the right inboard aileron bracket assembly.
+Step 3: Cleco the W-1013A TRIMMED Aileron Hinge Bracket Spacer, W-1013C-LX and W-1013C-R Aileron Hinge Bracket Sides together as shown in Figure 3. Match-Drill #30 all common attach holes. Machine countersink the aft holes (as indicated in Figure 3) on the inboard face of the W-1013C-R Aileron Hinge Bracket Side for the head of an AN426AD4 rivet. Repeat this process for the right outboard aileron bracket assembly.
 
-                                                                                                                                   Step 4: Disassemble all parts.
+W-1013C-LX
 
-                                                                                                                                   Thoroughly deburr the edges and holes in all parts.
-                                                                                                 W-1013B-L
-                                                                                                                                   Prime all parts if/as required.
-                        W-1013C-L
-                                                                                                                                   Step 5: Press a BEARING-COM-3-5 into all W-1013A and W-1013A TRIMMED Aileron Hinge Bracket Spacers as shown in Figure 2
-                   AN470AD4-6,                                                                                                     and Figure 3. Use a 7/16 inch, 3/8 inch drive socket to push and a 9/16 inch, 3/8 inch drive socket to push into. Squeeze with a vise
-                     3 PLACES                                                                                                      or c-clamp.
+W-1013C-R
 
-                                                                                                                                   Step 6: Cleco the assemblies back together per Step 2 and Step 3. Press the aft ends of the assemblies together to insure that the
-                                                                                                                                   BEARING-COM-3-5 bearings are seated into the recesses on the aileron hinge bracket sides and not spreading the assemblies aft
-                                                                                                                                   edges apart.
-                   AN470AD4-7,
-                     7 PLACES                                                                                                      Step 7: Rivet the assemblies together using the rivet callouts shown in Figure 2 and Figure 3. Set the rivets in a random pattern to
-                                                                                                                                   inhibit warping in the final assemblies. Set the W-1013-R assembly aside for use in the right wing rear spar assembly. Set both the
-                                                                                                W-1013A                            W-1014-L and W-1014-R Outboard Aileron Bracket Assemblies aside, to be installed after the W-1002 Top Inboard Wing Skin and
-                               AN426AD4-7,                                                                                         W-1003 Top Outboard Wing Skin are riveted in place. This will allow access to buck the outboard-most rivet on the upper flange of
-                                                                                        BEARING-COM-3-5                            the W-1007A-L Rear Spar Web.
-                                 5 PLACES
+AN470AD4-7,
+10 PLACES
 
-                                        MACHINE COUNTERSINK
+BEARING-COM-3-5
 
-                                       FIGURE 2: INBOARD AILERON BRACKET ASSEMBLY
+W-1013A TRIMMED
 
-PAGE   15-2   RV-10      REVISION: 1   DATE: 07/24/14
-                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+AN426AD4-7,
+5 PLACES
 
+MACHINE
+COUNTERSINK
 
+FIGURE 3: OUTBOARD AILERON BRACKET ASSEMBLY
 
-Step 1: With the W-1007D Rear Spar Doubler Plate oriented as shown in Figure 1 draw a line parallel with the edge of the doubler        Step 3: Align the W-1007D Rear Spar Doubler Plates by nesting the upper flange underneath the upper
-per the dimensions given. Repeat this process on all four rear spar doubler plates.                                                     flange of the W-1007A-L Rear Spar Web and centering the line drawn in step 1 with the outboard-most
-                                                                                                                                        row of attach holes (inboard-most row on right wing) for each doubler plate. Match-Drill #30 all holes
-                                                                                                                                        used to attach the doubler plate to the web of the rear spar web, using the rear spar web as a drill guide.
-                                                                                                                                        Match-Drill #40 all common attach holes in the upper flange of the rear spar web and the rear spar
-                                                                                                                                        doubler plate using the rear spar web as a drill guide. This will create an W-1007D-L INBOARD
-                                                                                                                                        DOUBLER and W-1007D-L OUTBOARD DOUBLER, see the isometric view on page 15-1.
+Step 4: Disassemble all parts.
 
+Thoroughly deburr the edges and holes in all parts.
 
+Prime all parts if/as required.
 
+Step 5: Press a BEARING-COM-3-5 into all W-1013A and W-1013A TRIMMED Aileron Hinge Bracket Spacers as shown in Figure 2 and Figure 3. Use a 7/16 inch, 3/8 inch drive socket to push and a 9/16 inch, 3/8 inch drive socket to push into. Squeeze with a vise or c-clamp.
 
-                                                                                                                                                                                     W-1007A-L
+Step 6: Cleco the assemblies back together per Step 2 and Step 3. Press the aft ends of the assemblies together to insure that the BEARING-COM-3-5 bearings are seated into the recesses on the aileron hinge bracket sides and not spreading the assemblies aft edges apart.
 
+Step 7: Rivet the assemblies together using the rivet callouts shown in Figure 2 and Figure 3. Set the rivets in a random pattern to inhibit warping in the final assemblies. Set the W-1013-R assembly aside for use in the right wing rear spar assembly. Set both the W-1014-L and W-1014-R Outboard Aileron Bracket Assemblies aside, to be installed after the W-1002 Top Inboard Wing Skin and W-1003 Top Outboard Wing Skin are riveted in place. This will allow access to buck the outboard-most rivet on the upper flange of the W-1007A-L Rear Spar Web.
 
+PAGE 15-2  RV-10  REVISION: 1  DATE: 07/24/14
 
+=== PAGE 15-3 ===
+VAN'S AIRCRAFT, INC.
 
-                                           FIGURE 1: MARKING W-1007D
-                                                                                                                                                                                                                                                    W-1007D
+Step 1: With the W-1007D Rear Spar Doubler Plate oriented as shown in Figure 1 draw a line parallel with the edge of the doubler per the dimensions given. Repeat this process on all four rear spar doubler plates.
 
+5/16
 
+FIGURE 1: MARKING W-1007D
 
+Step 2: Align the W-1007E Rear Spar Doubler Plate by nesting the upper flange underneath the upper flange of the W-1007A-L Rear Spar Web and aligning the doubler plate's outboard edge with outboard edge of the rear spar web. Match-Drill #30 all holes used to attach the doubler plate to the web of the rear spar web using the rear spar web as a drill guide. Match-Drill #40 all common attach holes in the upper flange of the rear spar web and the rear spar doubler plate using the rear spar web as a drill guide. This will create W-1007E-L.
 
-Step 2: Align the W-1007E Rear Spar Doubler Plate by nesting the upper flange underneath the upper flange of the W-1007A-L                                                                                      W-1007D
-Rear Spar Web and aligning the doubler plate's outboard edge with outboard edge of the rear spar web. Match-Drill #30 all holes
-used to attach the doubler plate to the web of the rear spar web using the rear spar web as a drill guide. Match-Drill #40 all common
-attach holes in the upper flange of the rear spar web and the rear spar doubler plate using the rear spar web as a drill guide. This           FIGURE 2: MATCH-DRILL THE W-1007D REAR SPAR DOUBLER PLATES
-will create W-1007E-L.
+W-1007A-L
 
+W-1007E
 
-                                                                                                                                        Step 4: With the the W-1007D Outboard Rear Spar Doubler Plate clecoed in place, trace the aileron pushrod hole in the W-1007A-L
-                                                                                                                                        Rear Spar Web onto the doubler plate. Remove the doubler plate.
+FIGURE 2: MATCH-DRILLING THE
+REAR SPAR DOUBLER PLATE
 
-                                                                                                                                        Mark, center punch and pilot drill #30 the center of the radii as shown in Figure 3. Remove the remaining material. Smooth the
-                                                                                  W-1007A-L                                             edges of the hole as required.
+Step 3: Align the W-1007D Rear Spar Doubler Plates by nesting the upper flange underneath the upper flange of the W-1007A-L Rear Spar Web and centering the line drawn in step 1 with the outboard-most row of attach holes (inboard-most row on right wing) for each doubler plate. Match-Drill #30 all holes used to attach the doubler plate to the web of the rear spar web, using the rear spar web as a drill guide. Match-Drill #40 all common attach holes in the upper flange of the rear spar web and the rear spar doubler plate using the rear spar web as a drill guide. This will create an W-1007D-L INBOARD DOUBLER and W-1007D-L OUTBOARD DOUBLER, see the isometric view on page 15-1.
 
-                                                                                                                                                                         R1/2                                         R1/2
+W-1007A-L
 
+W-1007D
 
+W-1007D
 
+FIGURE 2: MATCH-DRILL THE W-1007D REAR SPAR DOUBLER PLATES
 
-                                                             W-1007E
+Step 4: With the the W-1007D Outboard Rear Spar Doubler Plate clecoed in place, trace the aileron pushrod hole in the W-1007A-L Rear Spar Web onto the doubler plate. Remove the doubler plate.
 
+Mark, center punch and pilot drill #30 the center of the radii as shown in Figure 3. Remove the remaining material. Smooth the edges of the hole as required.
 
-                                                                                                                                                                                                                                         R3/8
+R1/2                    R1/2
 
+R3/8
 
-                                         FIGURE 2: MATCH-DRILLING THE
-                                           REAR SPAR DOUBLER PLATE
+FIGURE 3: COPYING THE AILERON PUSHROD HOLE INTO
+W-1007D-L OUTBOARD REAR SPAR DOUBLER
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 15-3
 
-                                                                                                                                                         FIGURE 3: COPYING THE AILERON PUSHROD HOLE INTO
-                                                                                                                                                              W-1007D-L OUTBOARD REAR SPAR DOUBLER
+=== PAGE 15-4 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                                                                             DATE: 07/24/14 REVISION: 0   RV-10   PAGE   15-3
-                            VAN'S AIRCRAFT, INC.
+Step 1: Cleco the W-1007B Rear Spar Reinforcement Fork, W-1007C Rear Spar Doubler Plate, W-1007D-L INBOARD Rear Spar Doubler, W-1007D-L OUTBOARD Rear Spar Doubler, W-1013-L Aileron Hinge Bracket Assembly and main spar and rib assembly to the W-1007A-L Rear Spar Web as shown in Figure 1. Match-Drill #30 the holes common between the rear spar parts and all three W-1025B Flap Hinge Ribs. Final-Drill #30 all common attach holes that have rivet callouts shown in Figure 2 including all holes that will attach the main wing ribs to the rear spar. Note that all the rib to spar attach points are not shown in Figure 2. Final-Drill #40 the holes common between the lower rear spar web flange and the ribs lower aft tab.
 
-                           Step 1: Cleco the W-1007B Rear Spar Reinforcement Fork, W-1007C Rear Spar Doubler Plate, W-1007D-L INBOARD Rear Spar Doubler, W-1007D-L
-                           OUTBOARD Rear Spar Doubler, W-1013-L Aileron Hinge Bracket Assembly and main spar and rib assembly to the W-1007A-L Rear Spar Web                                                 MAIN SPAR AND RIB ASSEMBLY
-       as shown in Figure 1. Match-Drill #30 the holes common between the rear spar parts and all three W-1025B Flap Hinge Ribs. Final-Drill #30 all common attach                                           (SEE SECTION 14)
-       holes that have rivet callouts shown in Figure 2 including all holes that will attach the main wing ribs to the rear spar. Note that all the rib to spar attach
-       points are not shown in Figure 2. Final-Drill #40 the holes common between the lower rear spar web flange and the ribs lower aft tab.
-                                                                                                                                                                                                                   W-1025B-L
-       Step 2: Machine countersink the bottom row of rivet holes on the W-1007C Rear Spar Doubler Plate where indicated
-       in Figure 2 for the head of an AN426AD4 rivet. Machine Countersink the holes in the upper flange of
-       the rear spar web that correspond to the W-1007D-L INBOARD, W-1007D-L OUTBOARD and
-       W-1007E-L Rear Spar Doublers. See Figure 2.
+Step 2: Machine countersink the bottom row of rivet holes on the W-1007C Rear Spar Doubler Plate where indicated in Figure 2 for the head of an AN426AD4 rivet. Machine Countersink the holes in the upper flange of the rear spar web that correspond to the W-1007D-L INBOARD, W-1007D-L OUTBOARD and W-1007E-L Rear Spar Doublers. See Figure 2.
 
-       Step 3: Disassemble all parts. Deburr the edges and holes for all parts.
+Step 3: Disassemble all parts. Deburr the edges and holes for all parts.
 
-       Final-Drill #40 and dimple the 26 inboard most holes that are located in the
-       upper flange of the W-1007A-L Rear Spar Web above the W-1007B Rear Spar
-       Reinforcement Fork.
-                                                                                                                                                                                                                                                        W-1007C
-       Dimple the holes in the ribs lower aft tab and the holes in the W-1007A-L
-       Rear Spar Web lower flange that correspond to the tabs.
-                                                                                                                                                                                                                                         W-1007B
-       Prime all parts if/as required.
+Final-Drill #40 and dimple the 26 inboard most holes that are located in the upper flange of the W-1007A-L Rear Spar Web above the W-1007B Rear Spar Reinforcement Fork.
 
+Dimple the holes in the ribs lower aft tab and the holes in the W-1007A-L Rear Spar Web lower flange that correspond to the tabs.
 
-                                                                                                                                                                                                        W-1025B-R
+Prime all parts if/as required.
 
+MAIN SPAR AND RIB ASSEMBLY
+(SEE SECTION 14)
 
+W-1025B-L
 
+W-1007C
 
-                                                                                                                                                                                                W-1007D-L INBOARD
+W-1007B
 
+W-1025B-R
 
+W-1007D-L INBOARD
 
+W-1025B-R
 
-                                                                                                                                                  W-1025B-R
+W-1007D-L
+OUTBOARD
 
+W-1013-L
 
+W-1007A-L
 
-                                                                                                                                               W-1007D-L
-                                                                                                                                               OUTBOARD
+W-1007E-L
 
-                                                                                                                                                W-1013-L           Step 4: Reassemble parts per step 1. Rivet parts together per the rivet callouts in shown in Figure 2.
-                                                                                                                                                                   Note that some holes do not have rivet callouts and will be left open to attach the aileron and flap
-                                                                                                                                                                   gap fairings in section 16. Tape over or mark these holes temporarily to prevent accidentally riveting
-                                                                                                                W-1007A-L                                          in these locations. Rivet the W-1013-L Aileron Hinge Bracket Assembly last to improve access to the
-                                                                                                                                                                   rib at that location for riveting.
+FIGURE 1: REAR SPAR FINAL ASSEMBLY
 
-       AN470AD4-4
-       AN470AD4-5                                                                      W-1007E-L             FIGURE 1: REAR SPAR FINAL ASSEMBLY
+Step 4: Reassemble parts per step 1. Rivet parts together per the rivet callouts in shown in Figure 2. Note that some holes do not have rivet callouts and will be left open to attach the aileron and flap gap fairings in section 16. Tape over or mark these holes temporarily to prevent accidentally riveting in these locations. Rivet the W-1013-L Aileron Hinge Bracket Assembly last to improve access to the rib at that location for riveting.
 
-       AN470AD4-6
-       AN470AD4-7                                                                      MACHINE                                                         MACHINE
-       AN470AD4-8                                                                      COUNTERSINK                                                     COUNTERSINK
-                                 MACHINE                                                                                                                                                                            FINAL-DRILL AND DIMPLE,
-       AN426AD4-8                                                                            W-1007D-L OUTBOARD                                            W-1007D-L INBOARD
-                                 COUNTERSINK                  W-1007A-L                                                                                                                                             26 PLACES
-                                                                                                                          TYPICAL RIB ATTACH
-                               W-1007E-L                                                                                                                   W-1007B
+[Rivet legend:]
+AN470AD4-4
+AN470AD4-5
+AN470AD4-6
+AN470AD4-7
+AN470AD4-8
+AN426AD4-8
 
+MACHINE COUNTERSINK
+W-1007E-L
 
+W-1007A-L
 
+MACHINE COUNTERSINK
+W-1007D-L OUTBOARD
 
-                                                                                                                   FIGURE 2: REAR SPAR RIVET CALLOUTS                                                                         W-1007C
+TYPICAL RIB ATTACH
 
+MACHINE COUNTERSINK
+W-1007D-L INBOARD
 
-PAGE   15-4        RV-10       REVISION: 1   DATE: 07/24/14
-
+W-1007B
+
+FINAL-DRILL AND DIMPLE,
+26 PLACES
+
+W-1007C
+
+FIGURE 2: REAR SPAR RIVET CALLOUTS
+
+PAGE 15-4  RV-10  REVISION: 1  DATE: 07/24/14

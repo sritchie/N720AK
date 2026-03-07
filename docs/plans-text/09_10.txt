@@ -1,1172 +1,942 @@
-                                                                                                                                                                        VAN'S AIRCRAFT, INC.
+=== PAGE 9-1 ===
+VAN'S AIRCRAFT, INC.
+
+SECTION 9: ELEVATORS
+
+[Isometric exploded view of elevator assembly with the following part callouts:]
+
+E-1015 RIGHT TRIM ACCESS REINFORCEMENT PLATE
+WD-605-R-1 RIGHT ELEVATOR HORN
+WD-605-L-1 LEFT ELEVATOR HORN
+E-615 TRIM ACCESS REINFORCEMENT PLATE
+WD-415 TRIM CABLE ANCHOR BRACKET
+E-1002 FRONT SPAR
+E-905 ROOT RIB
+E-917 AND -918 OUTBOARD AND INBOARD TRIM TAB HORN
+E-1017 AND -1018 OUTBOARD AND INBOARD TRIM TAB HORN
+E-910 HINGE REINFORCEMENT PLATE 2 PLACES / ELEVATOR
+E-1008B RIB HALF 8 PLACES / ELEVATOR
+E-1008A RIB HALF 8 PLACES / ELEVATOR
+E-614 COUNTERWEIGHT
+E-904 INBOARD TIP RIB
+E-903 OUTBOARD TIP RIB
+E-1022 SHEAR CLIP
+E-1007 REAR SPAR
+E-1023 TRAILING EDGE
+TRAILING EDGE RIB 2 PLACES / ELEVATOR
+TRIM TAB RIB 3 PLACES / TRIM TAB
+E-920 LEFT TRIM TAB SPAR
+E-1020 RIGHT TRIM TAB SPAR
+E-913 COUNTERBALANCE SKIN
+
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-1
 
 
+=== PAGE 9-2 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Separate the sixteen E-1008 Elevator Ribs into individual parts by removing the material shown in Figure 1. Deburr all edges.
+
+REMOVE SHADED AREA BETWEEN NOTCHES. 2 PLACES
+
+[Figure 1 shows separating the elevator ribs:]
+E-1008B
+E-1008A
+
+FIGURE 1: SEPARATING THE ELEVATOR RIBS
+
+Step 2: Deburr the edges of all elevator parts.
+
+Step 3: Cleco all the E-1008A & B Rib Halves together as shown in Figure 2. This is the correct orientation of the rib halves, and will ensure proper hole alignment when they are attached to the skins.
+
+Using a #30 drill, final-drill the four common holes of the rib halves. Label each half so that they will remain paired together throughout the construction of the elevators.
+
+[Figure 2 shows drilling the rib halves:]
+E-1008B
+E-1008A
+
+FIGURE 2: DRILLING THE RIB HALVES
+
+Step 4: Make sure the flanges of the E-903 Outboard and E-904 Inboard Tip Ribs, shown in Figure 3, are bent 90 degrees. Adjust them with a hand seamer if necessary.
+
+Step 5: Straighten the E-904 and E-903 Tip Ribs by fluting between the pre-punched holes in the flanges. Check for straightness using the matching holes in the E-913 Counterbalance Skin.
+
+Step 6: Make two Tip Rib Assemblies (one for each elevator) by clecoing together the E-903 and E-904 Tip ribs and the E-913 Counterbalance Skin as shown in Figure 3. Remove any vinyl from mating surfaces before clecoing.
+
+Final-Drill the common 1/8" holes in the rib webs using a #30 drill and the common 3/32" holes in the rib flanges and counterbalance skin using a #40 drill. Do not drill the line of holes around the counterbalance skin which do not match-up with a rib, or the holes in the top and bottom of the counterbalance skin indicated by the circle in the figure.
+
+Final-Drill the three 3/16" holes at the front of the ribs with a #12 drill.
+
+[Figure 3 shows drilling the tip rib assembly:]
+E-904
+E-913
+E-903
+DO NOT DRILL THESE HOLES
+
+FIGURE 3: DRILLING THE TIP RIB ASSEMBLY
+
+Step 7: Separate the four E-1022 Shear Clips by removing the material show in Figure 4.
+
+Final-Drill all the holes in the shorter flange of the shear clips with a #30 drill, then deburr the holes and any unfinished edges.
+
+[Figure 4 shows separating the E-1022 shear clips:]
+REMOVE SHADED AREAS
+LONGER FLANGE
+SHORTER FLANGE
+
+FIGURE 4: SEPARATING THE E-1022 SHEAR CLIPS
+
+PAGE 9-2  RV-10  REVISION: 0  DATE: 01/28/13
 
 
-        SECTION 9:
-        ELEVATORS                                                                                                                                   E-1015
-                                                                                                                                        RIGHT TRIM ACCESS
-                                                                                                                                     REINFORCEMENT PLATE
+=== PAGE 9-3 ===
+VAN'S AIRCRAFT, INC.
 
-
-                                                                                                                               WD-605-R-1
-                                                                                                                    RIGHT ELEVATOR HORN
-
-                                                                                                                              WD-605-L-1
-                                                                                                                    LEFT ELEVATOR HORN
-                                                                                                                          E-615
-                                                                                                                   TRIM ACCESS
-                                                                                                           REINFORCEMENT PLATE
-
-                                                                                                                        WD-415
-                                                                                                                    TRIM CABLE
-                                                                                                               ANCHOR BRACKET
-
-                                                                                                         E-1002
-                                                                                                    FRONT SPAR                                                                                          E-1020
-                                                                                                                                                             E-905                                      RIGHT TRIM
-                                                                                                                                                             ROOT RIB                                   TAB SPAR
-                                                                                                                                                              E-917 AND -918                E-1017 AND -1018
-                                                                                                                                                              OUTBOARD AND                  OUTBOARD AND INBOARD
-                                                                                E-910                                                                         INBOARD TRIM                  TRIM TAB HORN
-                                                         HINGE REINFORCEMENT PLATE                                                                            TAB HORN
-                                                                 2 PLACES / ELEVATOR
-
-
-
-                                               E-1008B
-                                              RIB HALF
-                                  8 PLACES / ELEVATOR
-                                                                                                                                            TRIM TAB RIB
-                                                                                                                                            3 PLACES / TRIM TAB
-                                           E-1008A
-                                          RIB HALF
-                              8 PLACES / ELEVATOR
-             E-614
-             COUNTER-
-             WEIGHT
-                        E-904                                                                                     E-920
-                                                                                                                  LEFT TRIM
-                        INBOARD
-                        TIP RIB                                                                                   TAB SPAR
-
-
-                                                                                              E-1022
-                                                                                              SHEAR CLIP
-                                                                                        E-1007
-                                                                                        REAR SPAR
-     E-903
-OUTBOARD                                                                   E-1023
-   TIP RIB                                                                 TRAILING EDGE
-
-                                                              TRAILING EDGE RIB
-                                                              2 PLACES / ELEVATOR
-
-                                                                                                                                                                           DATE: 01/28/13 REVISION: 0   RV-10   PAGE   9-1
-                        VAN'S AIRCRAFT, INC.                                                               Step 4: Make sure the flanges of the E-903 Outboard
-                                                                                                           and E-904 Inboard Tip Ribs, shown in Figure 3,
-                                                                                                           are bent 90°. Adjust them with a hand
-                                                                                                           seamer if necessary.
-  Step 1: Separate the sixteen E-1008 Elevator Ribs into individual
-  parts by removing the material shown in Figure 1.                                                        Step 5: Straighten the E-904
-                                                                                                                                                                                                                 E-904
-  Deburr all edges.                                                                                        and E-903 Tip Ribs by fluting
-                                                                                                           between the pre-punched
-   Step 2: Deburr the edges of all                                                                         holes in the flanges. Check
-   elevator parts.                                                                                         for straightness using the
-                                                                                                           matching holes in the E-913
-                                                                                                           Counterbalance Skin.
-                                     E-1008B
-                                                                                                           Step 6: Make two Tip Rib
-                                                                                                           Assemblies (one for each elevator)
-                                                                                                           by clecoing together the E-903 and E-904
-                                                                                                           Tip ribs and the E-913 Counterbalance Skin
-                                                                                                           as shown in Figure 3. Remove any vinyl from
-                                                                                                           mating surfaces before clecoing.                                                                      DO NOT DRILL
-                                                                                                                                                                                                                 THESE HOLES
-                                                                                                           Final-Drill the common 1/8" holes in the rib webs
-                                                                                                           using a #30 drill and the common 3/32" holes in the rib
-                                                                                                           flanges and counterbalance skin using a #40 drill. Do not                                                            E-903
-                                                                                                           drill the line of holes around the counterbalance skin which do
-                                                                                                           not match-up with a rib, or the holes in the top and bottom of the            E-913
-                                                                                                           counterbalance skin indicated by the circle in the figure.
-                                                                                      E-1008A
-         REMOVE SHADED                                                                                     Final-Drill the three 3/16" holes at the front of the ribs with
-           AREA BETWEEN                                                                                     a #12 drill.
-                                                                                                                                                                                    FIGURE 3: DRILLING THE TIP
-       NOTCHES. 2 PLACES                                                                                                                                                                 RIB ASSEMBLY
-                                                                    FIGURE 1: SEPARATING THE
-                                                                         ELEVATOR RIBS
-                                                                                                           Step 7: Separate the four E-1022 Shear Clips by removing the material show in Figure 4.
-  Step 3: Cleco all the E-1008A & B Rib Halves together as shown in Figure 2.
-  This is the correct orientation of the rib halves, and will ensure proper                                Final-Drill all the holes in the shorter flange of the shear clips with a #30 drill,
-  hole alignment when they are attached to the skins.                                                      then deburr the holes and any unfinished edges.
-
-  Using a #30 drill, final-drill the four common holes of the rib                                                                                                                                                         LONGER
-  halves. Label each half so that they will remain paired                                                                                                                                                                 FLANGE
-  together throughout the construction of the elevators.                                                                REMOVE SHADED AREAS
-
-
-
-
-                                    E-1008B
-
-
-
-
-                                                                                                                                                                                                                         SHORTER
-                                                                                                                                                                                                                         FLANGE
-
-                                                                                                 E-1008A
-
-
-
-
-                                                                        FIGURE 2: DRILLING THE                                                                                         FIGURE 4: SEPARATING THE
-                                                                             RIB HALVES                                                                                                    E-1022 SHEAR CLIPS
-PAGE   9-2     RV-10       REVISION: 0   DATE: 01/28/13
-NOTE: There is a close out tab on the two E-1001A Top Skins and the two E-1001B Bottom Skins that must be bent prior to                  Step 1: Remove the vinyl from the skins in the area of the tab.
-                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-assembling the elevators. At this point, the top skins are identical and the bottom skins are identical. However, once the tabs are      Mark the bend line on the skins as shown in Figure 2.
-bent in the direction shown in Figure 1, the skins become dedicated left or right. The tabs will make it easier to identify the inside
-surface of the skins throughout the building process; they are directed toward the inside of the elevators.
+NOTE: There is a close out tab on the two E-1001A Top Skins and the two E-1001B Bottom Skins that must be bent prior to assembling the elevators. At this point, the top skins are identical and the bottom skins are identical. However, once the tabs are bent in the direction shown in Figure 1, the skins become dedicated left or right. The tabs will make it easier to identify the inside surface of the skins throughout the building process; they are directed toward the inside of the elevators.
 
 Follow the steps on this page to bend the tabs on all four skins.
 
+Step 1: Remove the vinyl from the skins in the area of the tab. Mark the bend line on the skins as shown in Figure 2.
+
+[Figure 2 shows locating the bend line:]
+CLOSE OUT TAB
+THIS HOLE NOT PRESENT IN BOTTOM SKINS
+BEND LINE
+
+FIGURE 2: LOCATING THE BEND LINE
+
+[Figure 1 shows close out tab bend directions:]
+E-1001A [top skin with tabs labeled BEND TAB DOWN and BEND TAB UP]
+E-1001B [bottom skin with tab labeled BEND TAB UP and BEND TAB DOWN]
+
+FIGURE 1: CLOSE OUT TAB BEND DIRECTIONS
+
+Step 2: Clamp a skin between the surface of a work bench and a piece of wood with the bend line at the edge of the workbench as shown in Figure 3.
+
+Step 3: Begin forming the bend by hand using a small, wood block, then finish the bend by tapping back and fourth along the tab with a flush rivet set in a rivet gun that has been turned down low. Finish the bend to 90 degrees with a hand seamer.
+
+[Figure 3 shows bending the close out tab:]
+E-1001A
+WORK BENCH
+
+FIGURE 3: BENDING THE CLOSE OUT TAB
+
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-3
 
 
+=== PAGE 9-4 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                                                                 CLOSE OUT TAB
+NOTE: Only the left elevator is fully depicted in the rest of the manual; the right elevator is simply the mirror image of the left. Unless otherwise specified, any instructions given for the left elevator applies to the right as well. Assemble both elevators at the same time. This will help to prevent mistakes and speed up the construction process.
 
+Step 1: Cleco the E-910 Hinge Reinforcement Plates to both E-1002 Front Spars, as shown in Figure 1, then final-drill all the 1/8" holes common to the spars and plates using a #30 drill.
 
-                                                                                                                                                                                                                 THIS HOLE NOT PRESENT IN BOTTOM SKINS
+Mark the plates so that they can be reinstalled in the same position. Remove the plates from the spars and set them aside.
 
+Step 2: Final-Drill the trim cable routing hole, indicated in Figure 1, in both E-1002 Front Spars to 5/8 using a Unibit step drill. Make sure to drill the bottom of the two holes. Drilling these holes dedicates the spars as left and right, so mark them accordingly.
 
-                                                                                                                                                                                                                 BEND LINE
+Step 3: Cleco the E-1002 Front Spars to the E-1001B Bottom Skins as shown in Figure 1 (be sure the tabs in the skins are directed as shown). Install the clecos from the skins into the spars.
 
+[Figure 1 shows clecoing the front spar:]
+E-1002
+CABLE ROUTING HOLE FINAL-DRILL 5/8"
+E-910 2 PLACES/ SPAR
+E-1001B
 
+FIGURE 1: CLECOING THE FRONT SPAR
 
-
-                                                                                                                                                                                                           FIGURE 2: LOCATING THE
-                                            E-1001A                                                                                                                                                              BEND LINE
-
-                                                                                                           BEND TAB                      Step 2: Clamp a skin between the surface of a work bench and a piece of wood with the bend line at the edge of the workbench as
-                                                                                                              DOWN                       shown in Figure 3.
-
-                                                                                                                                         Step 3: Begin forming the bend by hand using a small, wood block, then finish the bend by tapping back and fourth along the tab
-                                                                                                                                         with a flush rivet set in a rivet gun that has been turned down low. Finish the bend to 90° with a hand seamer.
-
-
-                                                                                                                                                                                                                                                        WORK BENCH
-
+PAGE 9-4  RV-10  REVISION: 0  DATE: 01/28/13
 
 
+=== PAGE 9-5 ===
+VAN'S AIRCRAFT, INC.
 
-                                                    BEND TAB                                                              BEND TAB UP
-                                                    DOWN
-
-
-
-
-                                                                                                       E-1001B
-
-
-
-                                                   BEND TAB UP
-
-
-
-
-                                                       FIGURE 1: CLOSE OUT TAB                                                                                                                                   E-1001A
-                                                           BEND DIRECTIONS
-                                                                                                                                                                                FIGURE 3: BENDING THE
-                                                                                                                                                                                    CLOSE OUT TAB
-
-                                                                                                                                                                                                                           DATE: 01/28/13 REVISION: 0   RV-10     PAGE   9-3
-                        VAN'S AIRCRAFT, INC.
-                            NOTE: Only the left elevator is fully depicted in the rest of the manual; the right elevator is simply
-                            the mirror image of the left. Unless otherwise specified, any instructions given for the left elevator
-   applies to the right as well. Assemble both elevators at the same time. This will help to prevent mistakes and speed up the
-   construction process.
-
-   Step 1: Cleco the E-910 Hinge Reinforcement Plates to both E-1002 Front Spars, as shown in Figure 1, then final-drill
-   all the 1/8" holes common to the spars and plates using a #30 drill.                                                                         E-1002
-
-  Mark the plates so that they can be reinstalled in the same position. Remove the plates from the spars and set
-  them aside.                                                                                                                                                 CABLE ROUTING HOLE
-                                                                                                                                                              FINAL-DRILL
-   Step 2: Final-Drill the trim cable routing hole, indicated in Figure 1, in both E-1002 Front Spars                                                         5/8"
-   to 5/8 using a Unibit step drill. Make sure to drill the bottom of the two holes. Drilling
-   these holes dedicates the spars as left and right, so mark them accordingly.                             CABLE ROUTING HOLE
-                                                                                                                    FINAL-DRILL
-   Step 3: Cleco the E-1002 Front Spars to the E-1001B Bottom                                                               5/8"
-   Skins as shown in Figure 1 (be sure the tabs in the
-   skins are directed as shown). Install the
-   clecos from the skins into the
-   spars.
-
-
-
-                                                                                                                                                                                   E-1001B
-
-
-
-
-                                               E-1002
-
-
-
-
-                                                          E-910
-                                                          2 PLACES/
-                                                          SPAR
-
-
-
-
-                                                                                                   E-1001B
-
-
-                                                                                                                                     FIGURE 1: CLECOING THE
-                                                                                                                                          FRONT SPAR
-
-
-
-
-PAGE   9-4      RV-10      REVISION: 0   DATE: 01/28/13
-Step 1: Cleco the E-1008 Ribs (the rib halves should still be clecoed together) and the E-905 Root Rib
-                                                                                                                                                               VAN'S AIRCRAFT, INC.
-to the E-1002 Front Spar and to the E-1001B Bottom Skin as shown in Figure 1. Note that, except for
-the root ribs, the flanges of all the ribs are directed outboard on both elevators. The holes in the front
-spar used to attach the root ribs are 3/32" while the holes for the other ribs are 1/8". This is intentional,
-so don't be tempted to drill them to match the rest.
+Step 1: Cleco the E-1008 Ribs (the rib halves should still be clecoed together) and the E-905 Root Rib to the E-1002 Front Spar and to the E-1001B Bottom Skin as shown in Figure 1. Note that, except for the root ribs, the flanges of all the ribs are directed outboard on both elevators. The holes in the front spar used to attach the root ribs are 3/32" while the holes for the other ribs are 1/8". This is intentional, so don't be tempted to drill them to match the rest.
 
 Step 2: Cleco the E-1007 Rear Spar to the E-1008 and E-905 Ribs and E-1001B Bottom Skin.
-                                                                                                                                             E-1007
-Step 3: Final-Drill the two holes at the outboard end of the E-1007 Rear Spar (the holes that don't
-                                                                                                                                    E-1022
-match with a rib) using a #30 drill. Final-Drill the holes common to the E-1008 Ribs and the E-1002 and
-E-1007 Spars using a #30 drill. Final-Drill the holes common to the root rib and spars using a #40 drill.                                                                                              E-1008
-                                                                                                                                                                                                       8 PLACES/
-Step 4: Cleco an E-1022 Shear Clip to the E-1007 Rear Spar and to the E-1008 Rib shown in Figure 1.                                                                                                    ELEVATOR
-The longer flange of the shear clip is positioned inboard of the tab in the E-1001B Skin (see Page 9-7,
-Figure 1). The clecos attaching the shear clip to the rib and spar need to be installed from the inside of
-the elevator to keep the holes in the longer flange of the shear clip accessible for drilling later.
-(Remember to do this to the right elevator as well.)
 
+Step 3: Final-Drill the two holes at the outboard end of the E-1007 Rear Spar (the holes that don't match with a rib) using a #30 drill. Final-Drill the holes common to the E-1008 Ribs and the E-1002 and E-1007 Spars using a #30 drill. Final-Drill the holes common to the root rib and spars using a #40 drill.
 
+Step 4: Cleco an E-1022 Shear Clip to the E-1007 Rear Spar and to the E-1008 Rib shown in Figure 1. The longer flange of the shear clip is positioned inboard of the tab in the E-1001B Skin (see Page 9-7, Figure 1). The clecos attaching the shear clip to the rib and spar need to be installed from the inside of the elevator to keep the holes in the longer flange of the shear clip accessible for drilling later. (Remember to do this to the right elevator as well.)
 
+[Figure 1 shows clecoing the ribs and rear spar:]
+E-1007
+E-1022
+E-1008 8 PLACES/ ELEVATOR
+E-905
+E-1001B
+E-1002
 
-                                                                              E-905
+FIGURE 1: CLECOING THE RIBS AND REAR SPAR
 
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-5
 
 
+=== PAGE 9-6 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                    E-1001B
+Step 1: Cleco the E-615 Trim Access Reinforcement Plate to the E-1001B Bottom Skin on the left elevator and the E-1015 Trim Access Reinforcement Plate to the bottom skin on the right elevator as shown in Figure 1.
 
+Step 2: Final-Drill the holes common to the reinforcement plates and skins, and the nutplate attachment rivet holes around the opening in the reinforcement plates, using a #40 drill.
 
-                                                                                                                                                      E-1002
+[Figure 1 shows drilling the trim access reinforcement plates:]
+E-1015
+E-615
+E-1001B
 
+FIGURE 1: DRILLING THE TRIM ACCESS REINFORCEMENT PLATES
 
+Step 3: Cleco the E-921 Elevator Gusset to the E-905 Root Rib and the E-1007 Rear Spar as shown in Figure 2. Adjust the angle of the gusset, if necessary, to fit the angle made by the rib and spar.
 
+Step 4: Remove one of the clecos attaching the gusset to the rib, then final-drill the hole with a #30 drill. Install a cleco in this hole, final-drill the second hole with the same drill, and cleco.
 
-                                                                                                                FIGURE 1: CLECOING THE
-                                                                                                                  RIBS AND REAR SPAR
+Repeat the procedure for the attachment holes to the rear spar.
 
+[Figure 2 shows drilling the elevator gussets:]
+E-921
+E-1007
+E-905
 
+FIGURE 2: DRILLING THE ELEVATOR GUSSETS
 
-                                                                                                                                                                  DATE: 01/28/13 REVISION: 0   RV-10    PAGE   9-5
-                        VAN'S AIRCRAFT, INC.                                                                E-1015
-                                                                                                                                  Step 5: Cleco an E-1022 Shear Clip to the E-1007 Rear Spar as shown in Figure 3.
-                           Step 1: Cleco the E-615 Trim Access                                                                    Step 6: Cleco the tip rib assembly (made up of the E-903 Outboard Tip Rib, the E-904 Inboard Tip Rib, and the E-913 Counterbalance
-                            Reinforcement Plate to the                                                                            Skin) to the E-1022 Shear Clip, the E-1002 Front Spar, and the E-1001B Bottom Skin. There are four holes which are used to attach
-  E-1001B Bottom Skin on the left elevator and the
-                                                                                                                                  the tip rib assembly to the front spar; two on the web of the outboard tip rib and two on the aft flange of the inboard tip rib.
-  E-1015 Trim Access Reinforcement Plate to                       E-615
-  the bottom skin on the right elevator as                                                                                        Final-Drill the holes common to the tip rib assembly and shear clip, and the tip rib assembly and front spar using a #30 drill.
-  shown in Figure 1.
+Step 5: Cleco an E-1022 Shear Clip to the E-1007 Rear Spar as shown in Figure 3.
 
-  Step 2: Final-Drill the holes common                                                                                                           E-1022
-  to the reinforcement plates and skins,                                                                                                                                                                            E-903
-  and the nutplate attachment rivet                                                                                                     E-1001B
-  holes around the opening in the
-  reinforcement plates, using a
-  #40 drill.                                                                                                            E-1001B   E-1007                                                                                                         E-913
+Step 6: Cleco the tip rib assembly (made up of the E-903 Outboard Tip Rib, the E-904 Inboard Tip Rib, and the E-913 Counterbalance Skin) to the E-1022 Shear Clip, the E-1002 Front Spar, and the E-1001B Bottom Skin. There are four holes which are used to attach the tip rib assembly to the front spar; two on the web of the outboard tip rib and two on the aft flange of the inboard tip rib.
 
+Final-Drill the holes common to the tip rib assembly and shear clip, and the tip rib assembly and front spar using a #30 drill.
 
+[Figure 3 shows clecoing the tip rib assembly:]
+E-1022
+E-903
+E-1001B
+E-1007
+E-913
+E-1002
+E-904
 
-                  E-1001B
+FIGURE 3: CLECOING THE TIP RIB ASSEMBLY
 
+Step 7: Cleco the E-1001A Top Skin to the structure of the elevator as shown in Figure 4. The close out tab in the top skin is positioned between the E-1022 Shear Clip and the tab in the E-1001B Bottom Skin.
 
+Step 8: Insert a VA-140 Trailing Edge wedge between the E-1001A Top Skin and E-1001B Bottom Skin. Align the end hole of the trailing edge wedge with the outboard hole in the trailing edge of the skins. Cleco in place, then mark the edges of one of the skins on the trailing edge wedge. Remove the trailing edge wedge, trim at the marks (it's now an E-1023), then cleco it back in place. The remaining, trimmed portion of the trailing edge wedge is used on the right elevator.
 
+[Figure 4 shows clecoing the top skin and trailing edge:]
+E-1001A
+E-1001B
+TIP RIB ASSEMBLY
+E-1023 (CUT FROM VA-140)
+REMOVE, USE ON RIGHT ELEVATOR
 
-                                                                                                                                                                                                                   E-1002
+FIGURE 4: CLECOING THE TOP SKIN AND TRAILING EDGE
 
+PAGE 9-6  RV-10  REVISION: 1  DATE: 01/28/13
 
 
-                                                                    FIGURE 1: DRILLING THE TRIM                                                                                                                                   E-904
-                                                                  ACCESS REINFORCEMENT PLATES
+=== PAGE 9-7 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                                                            FIGURE 3: CLECOING THE
-   Step 3: Cleco the E-921 Elevator Gusset to the E-905 Root Rib and the E-1007 Rear Spar as shown in Figure 2. Adjust the                                                                                     TIP RIB ASSEMBLY
-   angle of the gusset, if necessary, to fit the angle made by the rib and spar.
-                                                                                                                E-921             Step 7: Cleco the E-1001A Top Skin to the structure of the elevator as shown in Figure 4.
-   Step 4: Remove one of the clecos attaching the                                                                                 The close out tab in the top skin is positioned between the E-1022 Shear Clip and the tab in
-   gusset to the rib, then final-drill the hole with                                                                              the E-1001B Bottom Skin.
-                                                                                                                     E-1007
-   a #30 drill. Install a cleco in this hole,                                                                                                                                                   E-1001A
-                                                         E-905
-   final-drill the second hole with the                                                                                           Step 8: Insert a VA-140 Trailing Edge wedge between
-   same drill, and cleco.                                                                                                         the E-1001A Top Skin and E-1001B Bottom Skin.
-                                                                                                                                  Align the end hole of the trailing edge wedge
-  Repeat the procedure for the                                                                                                    with the outboard hole in the trailing edge
-  attachment holes to the                                                                                                         of the skins. Cleco in place, then mark the
-  rear spar.                                                                                                                      edges of one of the skins on the trailing
-                                                                                                                                  edge wedge. Remove the trailing edge
-                                                                                                                                  wedge, trim at the marks (it's now an
-                                                                                                                                  E-1023), then cleco it back in place.
-                                                                                                                                  The remaining, trimmed portion of
-                                                                                                                                  the trailing edge wedge is used
-                                                                                                                                  on the right elevator.
+Step 1: Match-Drill the 1/8" hole in the close out tab of the E-1001A Top Skin into the tab of the E-1001B Bottom Skin using a #30 drill. Cleco this hole, then match-drill the two holes of the E-1022 Shear Clip into both skin tabs using the same drill.
 
+[Figure 1 shows match-drilling the skin close out tabs:]
+E-1001A
+E-1022
+MATCH-DRILL THIS HOLE FIRST
 
+FIGURE 1: MATCH-DRILLING THE SKIN CLOSE OUT TABS
 
+Step 2: Remove the clecos securing the E-905 Root Ribs to the E-1002 Front Spars. Cleco the WD-605-L-1 Left Elevator Horn and the WD-605-R-1 Right Elevator Horn to the root ribs and front spars of their respective elevators as shown in Figure 2.
 
-                                                                                                                                     TIP RIB                                                                                                             REMOVE,
-                                                                                                                                  ASSEMBLY                                                                                                           USE ON RIGHT
-                                                                                                                                                                                                                                                        ELEVATOR
-                                                                                                                                                                                                                                                E-1023
-                                                                                                                                                                                                                                                (CUT FROM VA-140)
-       FIGURE 2: DRILLING THE
-         ELEVATOR GUSSETS                                                                                                                  FIGURE 4: CLECOING THE TOP
-                                                                                                                                                                                                                                   E-1001B
-                                                                                                                                              SKIN AND TRAILING EDGE
-PAGE   9-6     RV-10      REVISION: 1   DATE: 01/28/13
-Step 1: Match-Drill the 1/8" hole in the close out tab of the E-1001A Top Skin into the tab of the E-1001B Bottom Skin using a #30    Step 4: Position the WD-415 Trim Cable Anchor Brackets on the two
-                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
-drill. Cleco this hole, then match-drill the two holes of the E-1022 Shear Clip into both skin tabs using the same drill.             E-616 Cover Plates as shown in Figure 3. The brackets are located on
-                                                                                                                                      opposite sides of the cover plates for the left and right elevators.
+Final-Drill the six holes common to the horns and front spars, and the six holes common to the horns and root ribs using a #30 drill.
 
-                                                                                                                                      Drill four #30 holes, located approximately as shown, through the brackets and cover plates.
+Step 3: Final-Drill all the holes of the E-1001A & B Skins and the underlying structure using a #40 drill. When drilling the E-1002 Front and E-1007 Rear Spars, start drilling mid span and work toward the root and tip. Cleco each hole.
 
-                                                                                                                                                                                          DRILL #30
-                                                                                                                                                                                          4 PLACES/ BRACKET
-   E-1001A
+Final-Drill the holes for the F-1023 Trailing edge perpendicular to the chord line of the elevator, not perpendicular to the skins.
 
+[Figure 2 shows final-drilling the elevator horns:]
+E-905
+WD-605-L-1
+WD-605-R-1
+E-1002
 
+FIGURE 2: FINAL-DRILLING THE ELEVATOR HORNS
 
+Step 4: Position the WD-415 Trim Cable Anchor Brackets on the two E-616 Cover Plates as shown in Figure 3. The brackets are located on opposite sides of the cover plates for the left and right elevators.
 
-                                                                                                                                                                                              WD-415
-                                                                              E-1022                                                       1 1/2
-                        MATCH-DRILL THIS HOLE FIRST
+Drill four #30 holes, located approximately as shown, through the brackets and cover plates.
 
+[Figure 3 shows locating and drilling the trim cable anchor brackets:]
+DRILL #30 4 PLACES/ BRACKET
+WD-415
+1 1/2
+E-616 FOR LEFT ELEVATOR
+E-616 FOR RIGHT ELEVATOR
 
+FIGURE 3: LOCATING AND DRILLING THE TRIM CABLE ANCHOR BRACKETS
 
+Step 5: The attachment hardware for the E-616 Cover Plate is shown in Figure 4 for reference purposes. Dimple the cover plate and the E-615 Reinforcement Plate to accept the dimple in the cover plate.
 
-                                                            FIGURE 1: MATCH-DRILLING
-                                                                                                                                                                                          E-616 FOR                                                    E-616 FOR
-                                                            THE SKIN CLOSE OUT TABS                                                                                                       LEFT ELEVATOR                                                RIGHT ELEVATOR
+Dimple all the #40 holes in the reinforcement plate for the dimples in the skin and for the 3/32" flush rivets used to attach the nutplates. The K1100 nutplates will accommodate the dimple for the screws in the reinforcement plate, but will have to be dimpled for the nutplate attachment rivets (see Section 5R).
 
+Step 6: Repeat Step 5 for the E-1015 Reinforcement Plate and E-616 Cover Plate on the right elevator. (The dimple is on the opposite side of the cover plate on the right elevator.)
 
+Step 7: Completely disassemble both elevators. Mark all the parts so that they can be reassembled in the same position. Make sure to mark the inside surface of the skins to prevent dimpling the holes in the wrong direction.
 
-                                                                                                                                                                         FIGURE 3: LOCATING AND DRILLING
-                                                                                                                                                                        THE TRIM CABLE ANCHOR BRACKETS
-Step 2: Remove the clecos securing the E-905 Root Ribs to the E-1002 Front Spars. Cleco the WD-605-L-1 Left
-Elevator Horn and the WD-605-R-1 Right Elevator Horn to the root ribs and front spars of their respective
-elevators as shown in Figure 2.
-                                                                                                                                      Step 5: The attachment hardware for the E-616 Cover Plate is shown in Figure 4 for reference purposes. Dimple the cover plate
-                                                                                                                                      for the screws and the E-615 Reinforcement Plate to accept the dimple in the cover plate.
-Final-Drill the six holes common to the horns and front spars, and the six holes common to the horns
-and root ribs using a #30 drill.
-                                                                                                                                      Dimple all the #40 holes in the reinforcement plate for the dimples
-                                                                                                                                                                                                                      K1100-06
-                                                                                                                                      in the skin and for the 3/32" flush rivets used to attach the
-Step 3: Final-Drill all the holes of the E-1001A & B Skins and the underlying structure                                                                                                                               7 PLACES
-                                                                                                                                      nutplates. The K1100 nutplates will accommodate the
-using a #40 drill. When drilling the E-1002 Front and E-1007 Rear Spars, start
-                                                                                                                                      dimple for the screws in the reinforcement plate, but
-drilling mid span and work toward the root and tip. Cleco each hole.
-                                                                                                                                      will have to be dimpled for the nutplate attachment
-                                                                                                                                      rivets (see Section 5R).
-Final-Drill the holes for the F-1023 Trailing
-edge perpendicular to the chord line of the elevator, not
-                                                                                                                                      Step 6: Repeat Step 5 for the E-1015                                                                          E-615
-perpendicular to the skins.                                                     E-905                                                 Reinforcement Plate and E-616 Cover Plate                                                                     (E-1015 RIGHT SIDE)
-                                                                                                                                      on the right elevator. (The dimple is on the
-                                                                                                                                      opposite side of the cover plate on the right
-                                                            WD-605-L-1                                                                elevator.)
+Step 8: Deburr all holes and any unfinished edges.
 
-                                                                                                                                      Step 7: Completely disassemble both elevators.
-                                                                                                                                      Mark all the parts so that they can be reassembled
-                                       WD-605-R-1                                                                                     in the same position. Make sure to mark the inside
-                                                                                                                                      surface of the skins to prevent dimpling the holes in
-                                                                                                                             E-1002
-                                                                                                                                      the wrong direction.
+Step 9: Dimple the holes in the E-1001A & B Skins (don't forget the three holes in the close out tabs), and the E-913 Counterbalance Skin.
 
-                                                                                                                                      Step 8: Deburr all holes and any unfinished edges.
+[Figure 4 shows dimpling the cover and reinforcement plates:]
+K1100-06 7 PLACES
+E-615 (E-1015 RIGHT SIDE)
+E-616
+AN507-6R6 7 PLACES
 
-                                                                                                                                      Step 9: Dimple the holes in the E-1001A & B Skins
-                                                                                                                                      (don't forget the three holes in the close out tabs),                                                         E-616
-                                                                                                                                      and the E-913 Counterbalance Skin.
+FIGURE 4: DIMPLING THE COVER AND REINFORCEMENT PLATES
 
-                                                                                                                                                                                                                                                    AN507-6R6
-                                                                                                                                                                                                                                                    7 PLACES
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-7
 
-                                                                       FIGURE 2: FINAL-DRILLING                                                                    FIGURE 4: DIMPLING THE COVER
-                                                                         THE ELEVATOR HORNS                                                                         AND REINFORCEMENT PLATES
-                                                                                                                                                                                                                       DATE: 01/28/13 REVISION: 0   RV-10       PAGE   9-7
-                       VAN'S AIRCRAFT, INC.
 
+=== PAGE 9-8 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Dimple the holes in both flanges of the E-1002 Front Spars to accept the skin dimples.
 
-   Step 1: Dimple the holes in both flanges of the E-1002 Front Spars to accept the skin dimples.
+Step 2: Machine countersink the inboard twenty-nine holes in the top flange (THE TOP FLANGE ONLY!) of the E-1007 Rear Spars to accept the skin dimples. See Figure 1. Machine countersinking these holes provides a flat surface on the underside of the flange to attach the trim tab hinge.
 
-  Step 2: Machine countersink the inboard twenty-nine holes in the top flange (THE TOP
-  FLANGE ONLY!) of the E-1007 Rear Spars to accept the skin dimples. See Figure 1. Machine
-  countersinking these holes provides a flat surface on the underside of the flange to attach the
-  trim tab hinge.
+Dimple the remaining holes in both flanges of the rear spar.
 
-  Dimple the remaining holes in both flanges of the rear spar.
+Step 3: Dimple the three holes in the front spars and the two holes in the rear spars, which are used to attach the root ribs, for 3/32" flush rivets. Dimple flush the side of the spars indicated in Figure 1.
 
-  Step 3: Dimple the three holes in the front spars and the two holes in the rear spars, which are
-  used to attach the root ribs, for 3/32" flush rivets. Dimple flush the side of the spars indicated in
-  Figure 1.
+Step 4: Dimple the forward and aft flanges of the E-905 Root Ribs to accept the dimples made in the webs of the spars. Dimple the top and bottom flanges to accept the skin dimples.
 
-   Step 4: Dimple the forward and aft flanges of the E-905 Root Ribs to
-   accept the dimples made in the webs of the spars. Dimple the
-   top and bottom flanges to accept the skin dimples.
+[Figure 1 shows dimpling the front and rear spars:]
+MACHINE CSK THESE 29 HOLES TOP OF SPAR ONLY
+E-1007
+E-1002
+E-905
+DIMPLE FLUSH OTHER (AFT) SIDE 2 PLACES
+DIMPLE FLUSH THIS (FRONT) SIDE 3 PLACES
 
+FIGURE 1: DIMPLING THE FRONT AND REAR SPARS
 
+PAGE 9-8  RV-10  REVISION: 0  DATE: 01/28/13
 
 
-                                                                              E-1007
+=== PAGE 9-9 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Dimpling can cause flanges to bend slightly. Make sure the flanges of the E-1002 Front Spar and E-1007 Rear Spar are still bent at the angle indicated in Figure 1. Adjust with hand seamers if necessary.
 
+[Figure 1 shows checking the flange angles:]
+84 degrees
+96 degrees
+E-1002
+E-1007
 
+FIGURE 1: CHECKING THE FLANGE ANGLES OF THE FRONT AND REAR SPARS
 
-         DIMPLE FLUSH
-       OTHER (AFT) SIDE
-              2 PLACES
-                                                                                                                             E-1002
+Step 2: Dimple the holes in the long flange of the inboard E-1022 Shear Clip for 1/8" flush rivets, flush on the side shown in Figure 2. (The shear clip attached to the E-903 Outboard Tip Rib does not need to be dimpled.)
 
-                                   E-905
+[Figure 2 shows dimpling the shear clip:]
+E-1022
+DIMPLE THESE HOLES FLUSH THIS SIDE
 
+FIGURE 2: DIMPLING THE SHEAR CLIP
 
+Step 3: Dimple the flanges of the E-1008A & B Rib halves, shown in Figure 3, to accept the dimples in the skins.
 
+[Figure 3 shows dimpling the rib halves:]
+E-1008B
+E-1008A
 
-                       DIMPLE FLUSH THIS (FRONT) SIDE
-                                            3 PLACES
+FIGURE 3: DIMPLING THE RIB HALVES
 
+Step 4: Dimple the two holes, indicated in Figure 4, in the web of the E-904 Inboard Tip Rib for 1/8" flush rivets.
 
-                                                                                                          FIGURE 1: DIMPLING THE FRONT
-                                                                                                                AND REAR SPARS
+Dimple the corresponding holes in the E-903 Outboard Tip Rib for the dimples in the inboard tip rib.
 
-PAGE   9-8     RV-10      REVISION: 0   DATE: 01/28/13
-Step 1: Dimpling can cause flanges                                                                                                      Step 4: Dimple the two holes, indicated in Figure 4, in the web of the
-                                                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
-to bend slightly. Make sure the                           84°                                                                           E-904 Inboard Tip Rib for 1/8" flush rivets.
-flanges of the E-1002 Front Spar
-and E-1007 Rear Spar are still bent                                                                                                     Dimple the corresponding holes in the E-903 Outboard Tip Rib for the dimples in the inboard tip rib.
-at the angle indicated in Figure 1.
-Adjust with hand seamers if                                                                         96°                                 Step 5: Dimple the top and bottom flanges of the E-903 and E-904 Tip Ribs for the skin dimples.
-necessary.
+Step 5: Dimple the top and bottom flanges of the E-903 and E-904 Tip Ribs for the skin dimples.
 
+[Figure 4 shows dimpling the tip ribs:]
+E-903
+E-904
+DIMPLE FLUSH THIS SIDE
 
+FIGURE 4: DIMPLING THE TIP RIBS
 
+Step 6: Machine countersink the holes on both sides of the E-1023 Trailing Edge, shown in Figure 5, for the 3/32" dimples in the skins. Countersink perpendicular to the trailing edge face.
 
-                                       E-1002                             E-1007
-                                                                                                                                                                  E-903
+Step 7: Put a slight bend in the trailing edge of the E-1001A & B Skins so that they will lay down flat and tight on the E-1023 Trailing Edge after riveting (see Section 5K).
 
+Step 8: Foam ribs are bonded to the trailing edge of the E-1001A & B Skins in a later step. The bonding agent (fuel tank sealant) requires a clean, scuffed surface for proper adhesion. To accomplish this, mask the inside surfaces of the E-1001A & B Skins around the locations for the trailing edge ribs. (The rib locations can be found on Page 9-14, Figure 4.) Scuff the skins in the locations of the ribs with 150 grit aluminum oxide sandpaper, clean the scuffed area with acetone until all sanding residue is removed, then remove the masking.
 
+[Figure 5 shows machine countersinking the trailing edge:]
+E-1001A
+E-1023
+E-1001B
 
+FIGURE 5: MACHINE COUNTERSINKING THE TRAILING EDGE
 
-                                                              FIGURE 1: CHECKING THE FLANGE
-                                                            ANGLES OF THE FRONT AND REAR SPARS
+DATE: 01/28/13  REVISION: 1  RV-10  PAGE 9-9
 
-                                                                                                                                                                                                                                   DIMPLE FLUSH
-Step 2: Dimple the holes in the long flange of the inboard E-1022 Shear Clip for 1/8" flush rivets, flush on the side shown in Figure
-                                                                                                                                                                                                                                       THIS SIDE
-2. (The shear clip attached to the E-903 Outboard Tip Rib does not need to be dimpled.)                                                                                                               E-904
 
-                                                                                                                                                                                          FIGURE 4: DIMPLING THE
-                                                                                                                                                                                                 TIP RIBS
-                                                       E-1022
+=== PAGE 9-10 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Clean and prime all parts as desired. If priming the interior surface of the elevator skins, first mask off the locations of the trailing edge foam ribs so that they will be bonded to bare aluminum.
 
-                                                                                                                                        Step 6: Machine countersink the holes on both sides of the E-1023 Trailing Edge, shown in Figure 5, for the 3/32" dimples in the
-                                                                                                                                        skins. Countersink perpendicular to the trailing edge face.
+Step 2: Rivet all the common 1/8" holes of the E-903 and E-904 Tip Ribs using the rivets called out in Figure 1.
 
-                                                                                         DIMPLE THESE HOLES                             Step 7: Put a slight bend in the trailing edge of the E-1001A & B Skins so that they will lay down flat and tight on the E-1023 Trailing
-                                                                                         FLUSH THIS SIDE                                Edge after riveting (see Section 5K).
-                                                            FIGURE 2: DIMPLING THE
-                                                                                                                                        Step 8: Foam ribs are bonded to the trailing edge of the E-1001A & B Skins in a later step. The bonding agent (fuel tank sealant)
-                                                                 SHEAR CLIP                                                             requires a clean, scuffed surface for proper adhesion. To accomplish this, mask the inside surfaces of the E-1001A & B Skins around
-                                                                                                                                        the locations for the trailing edge ribs. (The rib locations can be found on Page 9-14, Figure 4.) Scuff the skins in the locations of the
-Step 3: Dimple the flanges of the E-1008A & B Rib halves, shown in Figure 3, to accept the dimples in the skins.                        ribs with 150 grit aluminum oxide sandpaper, clean the
-                                                                                                                                        scuffed area with acetone until all sanding residue
-                                                                                                                                        is removed, then remove the masking.
+[Figure 1 shows riveting the tip ribs:]
+E-903
+E-904
+THESE TWO AN426AD4-4
+ALL OTHERS AN470AD4-4
 
+FIGURE 1: RIVETING THE TIP RIBS
 
+Step 3: Rivet the E-913 Counterbalance Skin to the E-903 and E-904 Tip Ribs using AN426AD3-3.5 rivets. Start riveting with the center holes at the front of the skin and work your way back, around the top and bottom. Don't rivet the six holes at the ends of the counterbalance skin which are common to the E-1001A & B Elevator Skins.
 
+[Figure 2 shows riveting the counterbalance skin:]
+E-913
+E-903
+E-904
+DON'T RIVET THESE HOLES. TOP AND BOTTOM
+START RIVETING HERE
 
-                                    E-1008B
+FIGURE 2: RIVETING THE COUNTERBALANCE SKIN
 
+Step 4: Rivet the two E-910 Hinge Reinforcement Plates, and the associated nutplate, to both E-1002 Front Spars using the rivets called out in Figure 3.
 
+Step 5: Rivet the E-905 Root Ribs to the E-1002 Front Spars with the rivets shown in the figure.
 
-                                                                                                                                                                                                                                                                  E-1001A
+Step 6: Install the snap bushing, called out in Figure 3, into the hole indicated.
 
-                                                                                                                                                                                                                                                                  E-1023
-                                                                                                                                                                                                                                                                  E-1001B
+[Figure 3 shows riveting the reinforcement plates and root ribs:]
+AN426AD3-3.5 3 PLACES
+E-905
+E-1002
+SB625-8
+E-910
+AN470AD4-6 2 PLACES/ PLATE
+AN470AD4-5 10 PLACES/ PLATE
+K1000-6
 
+FIGURE 3: RIVETING THE REINFORCEMENT PLATES AND ROOT RIBS
 
+Step 7: Rivet the WD-605-L-1 and WD-605-R-1 Elevator Horns to their respective E-1002 Front Spars and E-905 Root Ribs using the rivets shown in Figure 4.
 
+[Figure 4 shows riveting the elevator horns:]
+E-905
+WD-605-L-1
+E-1002
+AN470AD4-4 12 PLACES
 
-                                                                                                                                                                                                                               FIGURE 5: MACHINE
-                                                                                                E-1008A
-                                                                                                                                                                                                                              COUNTERSINKING THE
-                                                                                                                                                                                                                                 TRAILING EDGE
-                                                            FIGURE 3: DIMPLING THE
-                                                                 RIB HALVES
-                                                                                                                                                                                                                             DATE: 01/28/13 REVISION: 1   RV-10      PAGE   9-9
-                       VAN'S AIRCRAFT, INC.                                                                                                 Step 4: Rivet the two E-910 Hinge Reinforcement Plates, and the associated
-                                                                                                                                                                                                                                                       AN426AD3-3.5
-                                                                                                                                                                                                                                                       3 PLACES
-                         Step 1: Clean and prime all parts as desired. If priming the interior surface of the elevator                      nutplate, to both E-1002 Front Spars using the rivets called out
-                         skins, first mask off the locations of the trailing edge foam ribs so that they will be bonded to bare aluminum.   in Figure 3.
+FIGURE 4: RIVETING THE ELEVATOR HORNS
 
-   Step 2: Rivet all the common 1/8" holes of the E-903 and E-904 Tip Ribs using the rivets called out in Figure 1.                         Step 5: Rivet the E-905 Root Ribs to the E-1002
-                                                                                                                                                                                                                                                                   E-905
-                                                                                                                                            Front Spars with the rivets shown in
-                                                                                                                                            the figure.
-                                                                                                                           THESE TWO
-                                                                                                                           AN426AD4-4
-                                                                                                                                            Step 6: Install the snap bushing,
-                                                                                                                           ALL OTHERS                                                                                                          SB625-8
-                                                                                                                                            called out in Figure 3, into
-                                                                                                                           AN470AD4-4
-                                                                                                                                            the hole indicated.                                                           E-1002
+PAGE 9-10  RV-10  REVISION: 1  DATE: 01/28/13
 
 
+=== PAGE 9-11 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Rivet the nutplates to the E-615 and E-1015 Reinforcement Plates using the rivets called out on Page 9-20, Figure 2.
 
-                                                                                                                                                                                              E-910
-                                        E-903
+Step 2: Back rivet the E-615 and E-1015 Reinforcement Plates to the E-1001B Skins using the rivets called out in the blowup of Figure 1.
 
-                                                                                                                                                                                                AN470AD4-6
-                                                                                                                                                                                                2 PLACES/ PLATE
-                                                                                                                                                                                                  K1000-6
+Step 3: Back rivet all E-1008 Rib halves to the E-1001 Skins using the rivets called out on Page 9-20, Figures 1 & 2. The correct position of the rib halves on the skins is shown in Figure 1.
 
+Step 4: Rivet the E-1007 Rear Spars to the aft flanges of the E-1008B Rib halves using the rivets shown in the figure. Include the two E-1022 Shear Clips, which share holes with the aft flange of the ribs, when riveting the spars. The spars are riveted to the skins on the next page.
 
-                                                                                                                                                                                                      FIGURE 3: RIVETING THE REINFORCEMENT
-                                                                                                                                                                    AN470AD4-5
-                                                                                                                                                                    10 PLACES/ PLATE                           PLATES AND ROOT RIBS
-                                                                                                                       E-904
+Step 5: Rivet the remaining E-1022 Shear Clips to the outboard end of the E-1007 Rear Spars.
 
+Step 6: Rivet the E-921 Elevator Gussets to the inboard end of the E-1007 Rear Spars.
 
+[Figure 1 shows riveting parts to the elevator skins with callouts:]
+E-1001A
+E-1022 LONG FLANGE DIMPLED
+E-1022 LONG FLANGE NOT DIMPLED
+E-1007
+AN470AD4-4 2 PLACES/ RIB HALF
+AN470AD4-4 2 PLACES
+AN470AD4-4 2 PLACES
+E-921
+E-1001A
+E-615
+E-1015
+E-1001B
 
-                                                                                                                                            Step 7: Rivet the WD-605-L-1 and WD-605-R-1 Elevator Horns to their respective E-1002 Front Spars and E-905 Root
-                                                                                                                                            Ribs using the rivets shown in Figure 4.
+Blowup detail:
+K1100-06 7 PLACES
+AN426AD3-3.5 2 PLACES / NUTPLATE
+E-1001B
 
+FIGURE 1: RIVETING PARTS TO THE ELEVATOR SKINS
 
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-11
 
-                                         FIGURE 1: RIVETING THE TIP RIBS
 
+=== PAGE 9-12 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Rivet the E-1007 Rear Spar to the E-1001B Bottom Skin on the right elevator (see Page 9-11 for part reference) using the rivets called out on Page 9-20, Figure 2. The portion of the rear spar along the trim tab cut-out (the area that doesn't have the skin hanging beyond the spar) can easily be riveted with a rivet squeezer. Riveting the rest of the spar requires some set-up work. Turn the elevator over on a work bench, align the edge of the rear spar flange with the edge of the bench, then spring clamp the spar flange to the work bench (see Figure 1). You can then reach under the skin with a bucking bar and rivet the spar.
 
-   Step 3: Rivet the E-913 Counterbalance Skin to the E-903 and E-904 Tip Ribs using                                                                                                E-905
-   AN426AD3-3.5 rivets. Start riveting with the center holes at the front of the
-   skin and work your way back, around the top and bottom. Don't rivet                                                         START
-   the six holes at the ends of the counterbalance skin which are                                                                                                                                                                                              E-1002
-                                                                                                                               RIVETING
-   common to the E-1001A & B Elevator Skins.                                                                                   HERE
-                                                                                                                                                                                                                                           AN470AD4-4
-                                                         E-913                                                                                                                                                                             12 PLACES
+Step 2: Similarly, on the left elevator, rivet the E-1007 Rear Spar to the E-1001A Top Skin using the rivets called out on Page 9-20, Figure 1. Here, however, don't install the squeezed rivets along the spar in the area of the trim tab cut-out. This is the portion of the spar to which the trim tab hinge is attached later.
 
-                                                                                                                                                                                  WD-605-L-1
-                              DON'T RIVET
-                            THESE HOLES.
-                         TOP AND BOTTOM
+[Figure 1 shows riveting the right elevator rear spar to skin:]
+E-1007
+E-1001B
+WORK BENCH
 
+FIGURE 1: RIVETING THE RIGHT ELEVATOR REAR SPAR TO SKIN
 
+NOTE: Riveting the second skin to the elevator rear spar (Steps 3-5) requires making a special bucking bar. If you prefer not to make the bucking bar, it is acceptable to substitute MK-319 blind rivets for the solid rivets. The blind rivets are not supplied in the kit, but can be purchased through Van's Aircraft.
 
+Step 3: Make the bucking bar shown in Figure 2. It should be at least one inch wide.
 
-              E-903
-                                                                           E-904
+[Figure 2 shows bucking bar dimensions:]
+12-14
+3
+7/8
+3/4
+1/8
 
+FIGURE 2: BUCKING BAR DIMENSIONS
 
+Step 4: Position the second E-1001 Skin in place on both elevators. Make sure the E-1008 Rib halves are positioned as shown in Figure 4, then cleco the skin to the E-1007 Rear Spar and cleco the rib halves to each other.
 
-                                                FIGURE 2: RIVETING THE                                                                              FIGURE 4: RIVETING THE
-                                                COUNTERBALANCE SKIN                                                                                    ELEVATOR HORNS
+Step 5: Rivet the second flange of the E-1007 Rear Spar to the E-1001B Bottom Skin of the left elevator first to give you some practice before riveting the more visible top skin on the right elevator.) Position the skin of the left elevator on the work bench, as shown in Figure 3, with the edge of the work bench extending slightly beyond the elevator trailing edge. Insert the bucking bar made in Step 3 between the skins, and, with the bar resting on the edge of the work bench, rivet the spar to the skin using the rivets called out on Page 9-20, Figure 2.
 
-PAGE   9-10    RV-10      REVISION: 1   DATE: 01/28/13
-Step 1: Rivet the nutplates to the E-615 and E-1015 Reinforcement Plates using the rivets called out
-                                                                                                                                                                          VAN'S AIRCRAFT, INC.
-on Page 9-20, Figure 2.
+Repeat Step 5 (using the rivets called out on Page 9-20, Figure 1) for the second flange of the rear spar and the E-1001A Top Skin of the right elevator.
 
-Step 2: Back rivet the E-615 and E-1015 Reinforcement Plates to the E-1001B Skins using the rivets
-called out in the blowup of Figure 1.
-                                                                                                                                                        E-1001A
-Step 3: Back rivet all the E-1008 Rib halves to the E-1001 Skins using the rivets called out on Page
-9-20, Figures 1 & 2. The correct position of the rib halves on the skins is shown in Figure 1.
+[Figure 3 shows riveting the rear spars to the skins:]
+SKIN BEING RIVETED
+BUCKING BAR
+WORK BENCH
 
-Step 4: Rivet the E-1007 Rear Spars to the aft flanges of the E-1008B Rib halves using the rivets
-shown in the figure. Include the two E-1022 Shear Clips, which share holes with the aft flange of the
-ribs, when riveting the spars. The spars are riveted to the skins on the next page.
+FIGURE 3: RIVETING THE REAR SPARS TO THE SKINS
 
-Step 5: Rivet the remaining E-1022 Shear Clips
-to the outboard end of the E-1007 Rear Spars.                                                           AN470AD4-4
-                                                                                                        2 PLACES/       AN470AD4-4
-Step 6: Rivet the E-921 Elevator Gussets to the                                                         RIB HALF
-inboard end of the E-1007 Rear Spars.                                E-1022                                             2 PLACES
-                                                                     LONG FLANGE
-                                                                     DIMPLED
-                                                                                                                        E-921
+Step 6: Rivet the E-1008 Rib halves together, with blind rivets, through the four holes common to each rib set as shown in Figure 4. If you have very large hands you may find installing the aft two rivets in each rib set challenging. You can either enlist a helper that has smaller hands, or use tubes or pipes slipped on the rivet tool's handles to extend them. Occasionally the rivet doesn't fully set with one stroke of the handles. Because it is very difficult to reposition the tool when setting the aft two rivets, you can use a small tool made from .063 scrap, shown in Figure 5, as a spacer. To finish setting the rivet, release the handles, slip the tool between the rivet puller and the rivet's head, and finish squeezing.
 
-                                                                     AN470AD4-4
-                                                                     2 PLACES                                          E-1001A
+[Figure 4 shows riveting the rib halves:]
+E-1008B
+E-1008A
+LP4-3 4 PLACES
 
+FIGURE 4: RIVETING THE RIB HALVES
 
+[Figure 5 shows spacing tool dimensions:]
+3/4
+5
+3/8
+3/32
 
+FIGURE 5: SPACING TOOL
 
-              E-1022                           E-1007
-              LONG FLANGE
-              NOT DIMPLED
+PAGE 9-12  RV-10  REVISION: 1  DATE: 01/28/13
 
 
-              AN470AD4-4
-              2 PLACES
-                                                                                                                                                               K1100-06
-                                                                                                                                                              7 PLACES
+=== PAGE 9-13 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                         AN426AD3-3.5
-                                                                                                                                                  2 PLACES / NUTPLATE
-
-
-
-                                                                                                                         E-615
-
-                                                                                                                                             E-1015
-
-
-
-
-                                                                                               E-1001B
-                                                                                                                                                            E-1001B
-
-
-
-                                                                                                           FIGURE 1: RIVETING PARTS TO THE
-                                                                                                                   ELEVATOR SKINS
-                                                                                                                                                                             DATE: 01/28/13 REVISION: 0   RV-10   PAGE   9-11
-                           VAN'S AIRCRAFT, INC.                                                                                               Step 4: Position the second E-1001 Skin in place on both elevators. Make sure the E-1008 Rib halves are positioned as shown in
-                                                                                                                                              Figure 4, then cleco the skin to the E-1007 Rear Spar and cleco the rib halves to each other.
-                             Step 1: Rivet the E-1007 Rear Spar to the E-1001B Bottom Skin on the right elevator (see Page 9-11 for
-                              part reference) using the rivets called out on Page 9-20, Figure 2. The portion of the rear spar along the
-                                                                                                                                              Step 5: Rivet the second flange of the E-1007 Rear Spar to the E-1001B Bottom Skin of the left elevator. (Rivet the skin of the left
-   trim tab cut-out (the area that doesn't have the skin hanging beyond the spar) can easily be riveted with a rivet squeezer. Riveting
-                                                                                                                                              elevator first to give you some practice before riveting the more visible top skin on the right elevator.) Position the elevator on the
-   the rest of the spar requires some set-up work. Turn the elevator over on a work bench, align the edge of the rear spar flange with
-                                                                                                                                              work bench, as shown in Figure 3, with the edge of the work bench extending slightly beyond the elevator trailing edge. Insert the
-   the edge of the bench, then spring clamp the spar flange to the work bench (see Figure 1). You can then reach under the skin with
-                                                                                                                                              bucking bar made in Step 3 between the skins, and, with the bar resting on the edge of the work bench, rivet the spar to the skin
-   a bucking bar and rivet the spar.
-                                                                                                                                              using the rivets called out on Page 9-20, Figure 2.
-  Step 2: Similarly, on the left elevator, rivet the E-1007 Rear Spar to the E-1001A Top Skin using the rivets called out on Page 9-20,
-                                                                                                                                              Repeat Step 5 (using the rivets called out on Page 9-20, Figure 1) for the second flange of the rear spar and the E-1001A Top Skin
-  Figure 1. Here, however, don't install the squeezed rivets along the spar in the area of the trim tab cut-out. This is the portion of the
-                                                                                                                                              of the right elevator.
-  spar to which the trim tab hinge is attached later.
-
-                                                                                                                                                                                                                                                 SKIN BEING
-                                                                                                                                                                                                                                                 RIVETED
-                                                                                                                                                                                                                                                                      BUCKING BAR
-
-
-                                                                                                E-1007
-                                                                                                                    E-1001B
-
-
-
-
-                                                                                                                                                                                                                                                         WORK BENCH
-                                                                                                                                                                                              FIGURE 3: RIVETING THE REAR
-                                                                                                                                                                                                  SPARS TO THE SKINS
-                                                                                                  WORK BENCH
-
-
-                                              FIGURE 1: RIVETING THE RIGHT
-                                                                                                                                              Step 6: Rivet the E-1008 Rib halves together, with blind rivets, through the four holes common to each rib set as shown in Figure 4.
-                                              ELEVATOR REAR SPAR TO SKIN                                                                      If you have very large hands you may find installing the aft two rivets in each rib set challenging. You can either enlist a helper that
-                                                                                                                                              has smaller hands, or use tubes or pipes slipped on the rivet tool's handles to extend them. Occasionally the rivet doesn't fully set
-                                                                                                                                              with one stroke of the handles. Because it is very difficult to reposition the tool when setting the aft two rivets, you can use a small
-                                                                                                                                              tool made from .063 scrap, shown in Figure 5, as a spacer. To finish setting the rivet, release the handles, slip the tool between the
-  NOTE: Riveting the second skin to the elevator rear spar (Steps 3-5) requires making a special bucking bar. If you prefer not to            rivet puller and the rivet's head, and finish squeezing.
-  make the bucking bar, it is acceptable to substitute MK-319 blind rivets for the solid rivets. The blind rivets are not supplied in the
-  kit, but can be purchased through Van's Aircraft.
-                                                                                                                                                                                                                                                               3/4
-   Step 3: Make the bucking bar shown in Figure 2. It should be at least one inch wide.
-
-
-
-
-                                                                     12-14                                                                                E-1008B
-                       3                                                                                                                                                                                                     LP4-3
-                                                                                                                                                                                                                             4 PLACES
-              7/8
-                                                                                                                                                                                                                                                                            5
-
-
-                                                                                                                               3/4
-
-   1/8                                                                                                                                                                                                                                          3/8
-
-
-                                                                                                                                                                                                                  E-1008A
-                                                      FIGURE 2: BUCKING BAR
-                                                           DIMENSIONS                                                                                                                                                                                                   3/32
-
-
-
-                                                                                                                                                                  FIGURE 4: RIVETING THE RIB                                                      FIGURE 5: SPACING
-                                                                                                                                                                            HALVES                                                                      TOOL
-PAGE   9-12         RV-10   REVISION: 1   DATE: 01/28/13
-Step 1: Cleco the left and right front spar assemblies to the E-1008 Ribs and E-1001 Skins as shown in Figure 1.
-                                                                                                                                                           VAN'S AIRCRAFT, INC.
+Step 1: Cleco the left and right front spar assemblies to the E-1008 Ribs and E-1001 Skins as shown in Figure 1.
 
 Step 2: Rivet the E-1002 Front Spar to the forward E-1008 Rib flanges using the rivets called out in the figure.
 
-Step 3: Place the elevators on a flat work surface with the clecos securing the E-1001 Skins to the E-1002 Front
-Spars hanging over the edge. Rivet the skins to the spars using the rivets shown on Page 9-20, Figures 1 & 2.
-For the time being, however, leave out the rivets in the spar flanges outboard of the outboard most E-1008 Rib
-and inboard of the inboard most rib. Not installing these rivets leaves the outboard and inboard sections of the
-elevators accessible for riveting the E-903 and E-904 Tip Ribs and the E-921 Elevator Gusset.
-
-
-
-
-                                                                                                                                                                                   E-1001A
-
-
-
-
-                                                                                                                                                                                   E-1001B
-
-
-                                                                                                                                                                                           LP4-3
-                                                                                                                                                                                           3 PLACES/ RIB
-
-
-
-
-                                                                                                                                                  E-1002
-
-
-
-
-                                                E-905
-
-
-
-
-                                                                                                                   FIGURE 1: RIVETING THE FRONT
-                                                                                                                          SPAR ASSEMBLY
-
-                                                                                                                                                              DATE: 01/28/13 REVISION: 0     RV-10    PAGE   9-13
-                         VAN'S AIRCRAFT, INC.                     E-1001A                                                                    NOTE: The trailing edge of the elevators will be bonded and
-                                              AN426AD3-3.5                                                                                   riveted like the rudder trailing edge in Section 7, except that the
-                                              2 PLACES                                                                                       two foam ribs are bonded in place as well.
-
-  Step 1: Rivet the aft flange                                                                                                               Step 7: Cut four trailing edge ribs from the two PVC-750 X 2 X
-  of the E-905 Root Rib to the                                                                                                               5.25 blocks supplied in the kit. Glue the templates, found on the
-  E-1007 Rear Spar using the                                                                                                                 last page of this section, onto the foam blocks using a spray
-  rivets shown in Figure 1.                                                                                                                  adhesive. Cut the ribs from the blocks (a band saw works well
-                                                                                                                                             here), then use a sanding block to finish the edges exactly to the
-  Step 2: Remove clecos and                                                                                                                  template lines.
-  lift the corner of one of the
-  E-1001 Skins to gain access
-  to the E-921 Elevator Gusset
-  (not visible in the figure).
-  Using the rivets shown, rivet                                                                                                                                                                                                                     FIGURE 3: TRAILING
-  the gusset to the root rib
-  web.                                                                                                                                                                                                                                                  EDGE RIBS
-                      AN470AD4-4
-                        2 PLACES                                                                                                             Step 8: Apply a thin (no more than 1/32") coat of tank sealant (mix by follow the directions on the can) to the surfaces of the trailing
-                                          E-905                                                                                              edge ribs that contact the skins and rear spar. Insert the ribs in place between the skins.
-
-  Step 3: On this end of the                                                                                                                 The skins will no longer be separated, so make sure the close out tab on the top skin is "sandwiched" between the close
-  elevator, rivet the E-1001                                                                                                                 out tab on the bottom skin and the E-1022 Shear Clip.
-  Skins to the flanges of the
-  E-905 Root Rib and E-1002                                                                                                                  Step 9: Apply a thin coat of tank sealant to both surfaces of the E-1023 Trailing Edge, then cleco it in position
-  Front Spar using the rivets                                                                                                                between the skins as shown in Figure 4.
-  shown on Page 9-20,
-  Figures 1 & 2.                                                                                                           E-1001B           Step 10: Place the elevators on a flat workbench with the trailing edge clecos hanging just over the
-                                                                                                           E-1002                            edge. Place a 5" - 6" wide board on top of the elevators, with the edge of the board resting
-                                                                                                                                             against the clecos. Place weights over the trailing edge ribs to ensure a good bond, and
-                                                                  FIGURE 1: RIVETING THE ROOT                                                distribute enough weights along the board to hold the trailing edge flat against the
-                                                                      RIB, SPARS, AND SKINS                                                  workbench. Allow the sealant to cure for a couple of days before continuing.
-
-                                                                                                                                             Step 11: After curing, remove the clecos from the trailing edge and
-  Step 4: The elevator is shown upside down in Figure 2. Cleco the tip rib assembly to the elevator, then rivet the assembly to the E-
-                                                                                                                                             clear the holes of any sealant with a drill spun with your fingers.
-  1022 Shear Clip using the rivets called out in the figure. Access to the clip can be gained from between the skins at the trailing edge.
-                                                                                                                                             Step 12: Use the instructions for riveting the rudder
-   Step 5: Remove the clecos required to lift the corner of the E-1001B Bottom Skin to gain access to the back of the E-1002 Front
-                                                                                                                                             trailing edge in Section 7, Page 7-11, Step 1 as
-   Spar. Rivet the tip rib assembly to the front spar using the rivets shown in the figure.
-                                                                                                                                             a guide for riveting the elevator trailing
-                                                                                                                                             edge. The rivets for the trailing
-  Step 6: The rivets used in this step can be found on Page 9-20, Figures 1 & 2. Rivet the E-1001A Top Skin to the
-                                                                                                                                             edge are called out on Page                                                                                                   E-1007
-  flange of the E-1002 Front Spar. Rivet the skin to the E-913 Counterbalance Skin and the flange of the
-                                                                                                                                             9-20, Figure 1.
-  E-903 Outboard Tip rib. Don't rivet to the flange of the tip rib aft of the rear spar; the E-1023
-  Trailing Edge still needs to be inserted.
-  The two holes common only to the               THESE TWO HOLES ARE
-  counterbalance skin and elevator           BLIND RIVETED IN THIS SKIN
-  skin (the same holes that blind
-  rivets are called for in the figure              E-1001B                                                                                                                                                                                                                  TRAILING
-  for the E-1001B Bottom Skin)                                                                                                                                                                                                                                              EDGE RIB.
-  can be accessed in the                                                                                                                                                                                                                                                    2 PLACES/
-  E-1001 Top Skin for solid                                                                                                                                                                                                                                                 ELEVATOR
-                                  AN470AD4-4
-  riveting at this point.
-                                     6 PLACES
-  Repeat this step for
-  riveting the E-1001B                                E-1022
-  Bottom Skin to the front                                                                                                                                                                                                                      E-1023
-  spar and tip rib assembly.
-  Remember not to rivet the
-  skin to the outboard tip rib                                                                                                  E-1001A
-  aft of the rear spar. The two
-  holes which call for blind rivets        E-903                                                                              E-1002
-  in the figure, will need to be final-
-  drilled with a 7/64" drill.                       E-913
-                                                                                                                                                                                                                                             FIGURE 4: RIVETING THE
-                                                          FIGURE 2: RIVETING                                                                                                                                                                     TRAILING EDGE
-PAGE   9-14     RV-10       REVISION: 2   DATE: 01/28/13 THE TIP RIB ASSEMBLY
-Step 1: Finish riveting the E-1001 Skins to the flanges of the E-903 Outboard Tip Rib, aft of the rear spar, using the rivets called out   Step 8: Remove the material indicated by the shaded areas in the left
-                                                                                                                                                                                                                         VAN'S AIRCRAFT, INC.
-on Page 9-20, Figure 1 & 2.                                                                                                                drawing of Figure 3 from all four E-614 Counterweights. Notice that
-                                                                                                                                           the two holes are closer to the bottom edge in the drawing, so be sure to trim the weight accordingly.
-Step 2: Rivet the E-1022 Shear Clip to the close out tabs in the E-1001 Skins using the rivets shown in Figure 1. Install a blind rivet
-in the remaining hole in the close out tabs aft of the shear clip.                                                                         Remove the raised portion on the back side of ONLY TWO of the counter weights. This portion is indicated by the shaded area in
-                                                                                                                                           the right drawing.
-Step 3: Make a slight bend along the leading edge of the E-1001A Top Skin so it lays flush on the E-1001B Bottom Skin after rolling
-and riveting.
-                                                                                                                                                                11/32                                            1/4
-Step 4: Roll the leading edge of the E-1001 Skins in the same way as the rudder. Again, use
-a 1-1/4" diameter pipe, and begin by rolling the section of the leading edge closest to the                                                                 1
-tip ribs.
-
-Step 5: Cleco the leading edge together with the E-1001A Top Skin on top
-of the E-1001B Bottom Skin, then final-drill the holes along the leading                                                                                                                                                                    REMOVE RAISED (SHADED)
-edge with a #30 drill.                                                                                                                                                                                                                      PORTION FROM ONLY TWO
-                                                                                                                                                                                                                                            WEIGHTS
-Step 6: Secure the leading edge with the rivets
-shown on Page 9-20, Figure 1.                                                                                                                   TRIM ALL
-                                                                                                                                           FOUR WEIGHTS
-NOTE: The portion of the                  CS4-4                                                                                                 LIKE THIS
-rear spar's top flange along          3 PLACES
-the trim tab cutout (on both
-                                        E-1022
-elevators) is riveted when
-the trim tab is attached.
-
-                                                                                                            E-1001B
-                                                                                                                                                          3/4
-
-
-                                                                                         E-1001A
-                                                                                                                                                         3/32                                  FIGURE 3: TRIMMING THE
-                                                                                                                                                                                               E-614 COUNTER WEIGHTS
-                                                                                                                                           Step 9: Attach the E-614 Counter Weights to the tip ribs using the hardware in Figure 4. Notice that the counter weight without the
-                                                                                                                                           raised portion is attached to the inboard side of the ribs. This weight is thin enough to completely nest within the overhanging E-913
-                                                                                                                                           Counterbalance Skin, thereby maintaining the required clearance with the horizontal stabilizer when the elevator is attached to it.
-
-
-                                                 FIGURE 1: ROLLING THE
-                                                     LEADING EDGE
-                                                                                                                                                                                                                                        AN3-13A
-                                                                                                                                                                                                                                        2 PLACES
-
-
-                                                                                                                                                                                                                             E-614
-Step 7: Rivet the two WD-415 Trim Cable Attachment                                                                                                                                                                           WITHOUT RAISED PORTION
-                                                                                                                                               E-614
-Brackets to their corresponding E-616 Cover Plates
-using the blind rivets called out in Figure 2. Place the                                            WD-415
-head of the rivet on the cover plate.
-                                                               LP4-3
-                                                           4 PLACES
-
-
-
-
-                                                                                                                     E-616
-
-
-                                                                                                                                                                 AN960-10
-                                                                                                                                                                 2 PLACES
-
-                                                                                                                                                                 AN365-1032
-                                                                                                                                                                 2 PLACES
-                                                                  FIGURE 2: RIVETING THE TRIM                                                                                    FIGURE 4: ATTACHING
-                                                                    CABLE ANCHOR BRACKETS                                                                                       THE COUNTER WEIGHTS                           DATE: 01/28/13 REVISION:   0   RV-10 PAGE 9-15
-                      VAN'S AIRCRAFT, INC.                                                                                             NOTE: Only the left trim tab is shown and described in the rest                         E-920
-                          Step 1: Make six trim tab clamping blocks out of a 3/4" thick wood board using the dimensions in Figure 1.   of this section. Make the right tab (the mirror image of the left)        (E-1020 RIGHT SIDE)
-                                                                                                                                       at the same time.
-
-                                                                                                                                       Step 3: Mask the inside surface of the E-919 Trim Tab Skin around the locations for
-                                                                          6 1/2
-                                                                                                                                       the trim tab ribs. The rib locations can be found on Page 9-17, Figure 3. Scuff
-                                                                                                                                       the skin in the location of the ribs with 150 grit aluminum oxide sandpaper,
-                                                                5 21/32                                                                clean the scuffed area with acetone until all sanding residue is removed,
-                                                                                                                                       then remove the masking.
-                                                           5 1/16
-                                                                                                                                       Step 4: Complete the trailing edge bend on the E-919
-                                                                                                                                       Trim Tab Skin using the home-made brake shown in
-                                                                                                                                       Section 5, Figures 5-5 & 5-7. Cleco the E-920
-                                                                                                                                       Trim Tab Spar to the skin as shown in Figure
-                                                                                                                                       3, then, using one of the trim tab clamp
-                                                                                                                                       blocks made in Step 1, check that
-                                                                                                                                       the entire length of the skin is
-                                                                                                                                       bent fully and uniformly                                                                                       E-919
-                                                                                                                                       with no ballooning                                                                                             (E-1019 RIGHT SIDE)
-          1 3/32                                                                                                                       or puckering.
-  2 1/2
-                                                                                                                                                                                                                              TRIM TAB CLAMP BLOCK
-
-
-                                                                                                                                                                                                                           FIGURE 3: COMPLETING THE
-                                                                                                                                                                                                                              TRAILING EDGE BEND
-                                                                                                                                       Step 5: Bend the two tabs on both ends of the E-919 (E -1019 right side) Trim Tab Skins. To accomplish this, make two wood
-                                                                                                                                       wedges having the same geometry as the cutout in the trim tab clamp blocks made in Step 1 (you may be able to use the wedges
-                                              FIGURE 1: TRIM TAB CLAMP                                                                 cut from the clamp blocks if they are in good shape). Radius the edges a 1/32" to prevent cracking the skin.
-                                                       BLOCKS
-                                                                                                                                       As shown in Figure 4, position the wedges parallel to, but offset 1/32" from, the straight portion of the skin forward and
-  Step 2: Make six trim tab ribs from the three PVC-750 x 2 x 4.5 foam blocks supplied in the kit. Using the templates found on the    aft of the tab. Place double sticky-back tape between the wedges and skin, to prevent the wedges from sliding,
-  last page of this section, cut out the ribs as you did with the trailing edge ribs earlier.                                          then clamp the trim tab skin and the two wedges to a workbench as shown in Figure 5.
-
-                                                                                                                                       Begin bending the tab around the wedge by hand using a small, wood block, then finish the bend
-                                                                                                                                       by tapping back and fourth along the tab with a flush rivet set in a rivet gun that has been
-                                                                                                                                       turned down low. The tab with the two holes lays on top of the other.
-
-                                                                                                                                                                                                                 E-919
-
-
-                                                                                                                                            1/32                                WEDGE
-                                                                                                                                                                                                                                                                    WEDGE
+Step 3: Place the elevators on a flat work surface with the clecos securing the E-1001 Skins to the E-1002 Front Spars hanging over the edge. Rivet the skins to the spars using the rivets shown on Page 9-20, Figures 1 & 2. For the time being, however, leave out the rivets in the spar flanges outboard of the outboard most E-1008 Rib and inboard of the inboard most rib. Not installing these rivets leaves the outboard and inboard sections of the elevators accessible for riveting the E-903 and E-904 Tip Ribs and the E-921 Elevator Gusset.
 
+[Figure 1 shows riveting the front spar assembly:]
+E-1001A
+E-1001B
+LP4-3 3 PLACES/ RIB
+E-1002
+E-905
+DO NOT RIVET FLANGES TO SKINS IN THIS AREA TOP OR BOTTOM [at both ends]
 
+FIGURE 1: RIVETING THE FRONT SPAR ASSEMBLY
 
+PAGE 9-13  RV-10  REVISION: 0  DATE: 01/28/13
 
-                                                                                                                                       WEDGE
 
+=== PAGE 9-14 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Rivet the aft flange of the E-905 Root Rib to the E-1007 Rear Spar using the rivets shown in Figure 1.
 
+Step 2: Remove clecos and lift the corner of one of the E-1001 Skins to gain access to the E-921 Elevator Gusset (not visible in the figure). Using the rivets shown, rivet the gusset to the root rib web.
 
-                                                                                                                                       TAB ON
-                                                                                                                                         E-919
-                                                                                                                                                                                                                                                               WORKBENCH
-                                                                                                                                            1/32
-                                                                                  FIGURE 2: TRIM TAB RIBS
-                                                                                                                                                   FIGURE 4: LOCATING                                                                     FIGURE 5: CLAMPING
-                                                                                                                                                      THE WEDGES                                                                             WITH WEDGES
-PAGE   9-16    RV-10     REVISION: 0   DATE: 01/28/13
-Step 1: Once again, cleco the E-920 Trim Tab Spar to the E-919 Trim Tab Skin. Slip the clamp blocks over both ends of the skin to        Step 5: Disassemble and deburr all parts.
-                                                                                                                                                                                                                        VAN'S AIRCRAFT, INC.
-hold the skin in the proper shape as shown in Figure 1. Match-Drill the holes of the outer tabs into the inner tabs using a #30 drill.
-                                                                                                                                         Step 6: Dimple all the holes in the E-919 Trim Tab Skin and the #40 holes (which were drilled in Step 3)
-Step 2: Remove the clamp blocks, then mark the lower surface of the skin at the web of the E-920 Trim Tab Spar for the 15° bend          in the E-917 & -918 Trim Tab Horns.
-shown in Figure 1. Remove the spar, make the bend, then replace the spar.
-                                                                                                                                         Dimple the holes in the bottom flange of the E-920 Trim Tab Spar. Machine countersink the holes in the top flange to leave a
-                                                                                                                                         smooth surface for mounting the trim tab hinge.
+Step 3: On this end of the elevator, rivet the E-1001 Skins to the flanges of the E-905 Root Rib and E-1002 Front Spar using the rivets shown on Page 9-20, Figures 1 & 2.
 
-                                                                                                                                         Step 7: Mask the inside of the skin for the foam ribs at the locations shown in Figure 3, then prime all the parts in preparation for
-                                                                                                                                         final assembly.
+[Figure 1 shows riveting the root rib, spars, and skins:]
+E-1001A
+AN426AD3-3.5 2 PLACES
+AN470AD4-4 2 PLACES
+E-905
+E-1002
+E-1001B
 
+FIGURE 1: RIVETING THE ROOT RIB, SPARS, AND SKINS
 
-      E-920
-         15° BEND
-          IN E-919
+Step 4: The elevator is shown upside down in Figure 2. Cleco the tip rib assembly to the elevator, then rivet the assembly to the E-1022 Shear Clip using the rivets called out in the figure. Access to the clip can be gained from between the skins at the trailing edge.
 
+Step 5: Remove the clecos required to lift the corner of the E-1001B Bottom Skin to gain access to the back of the E-1002 Front Spar. Rivet the tip rib assembly to the front spar using the rivets shown in the figure.
 
+Step 6: The rivets used in this step can be found on Page 9-20, Figures 1 & 2. Rivet the E-1001A Top Skin to the flange of the E-1002 Front Spar. Rivet the skin to the E-913 Counterbalance Skin and the flange of the E-903 Outboard Tip Rib. Don't rivet to the flange of the tip rib aft of the rear spar; the E-1023 Trailing Edge still needs to be inserted. The two holes common only to the counterbalance skin and elevator skin (the same holes that blind rivets are called for in the figure for the E-1001B Bottom Skin) can be accessed in the E-1001 Top Skin for solid riveting at this point.
 
+Repeat this step for riveting the E-1001B Bottom Skin to the front spar and tip rib assembly. Remember not to rivet the skin to the outboard tip rib aft of the rear spar. The two holes which call for blind rivets in the figure, will need to be final-drilled with a 7/64" drill.
 
-CLAMP
-BLOCK                                                                                                                                                                                                                                                        3/4
+THESE TWO HOLES ARE BLIND RIVETED IN THIS SKIN
+E-1001B
+AN470AD4-6 PLACES
+E-1022
+E-903
+E-913
 
-                                                            FIGURE 1: DRILLING AND                                                                                                                                                                     7 13/16
-                                                               BENDING THE SKIN
-                                                                                                                                                                                                                                        16
+FIGURE 2: RIVETING THE TIP RIB ASSEMBLY
 
+NOTE: The trailing edge of the elevators will be bonded and riveted like the rudder trailing edge in Section 7, except that the two foam ribs are bonded in place as well.
 
-Step 3: Remove the shaded area, shown in                                                                                                                                                    FIGURE 3: TRIM TAB
-Figure 2, from the E-917 & -918 Trim Tab
-Horns. Make sure to keep the edge                                                                                                                                                             RIB LOCATIONS
-distance of the remaining hole when
-                                                    E-920
-trimming.
-                                                                                                                                         Step 8: Rivet the E-917 & -918 Trim Tab Horns and the bottom flange (bottom flange only!) of the E-920 Trim Tab Spar to the
-Step 4: Cleco the E-917 & -918 Trim                                                                                                      E-919 Trim Tab Skin with the rivets called out on Page 9-19, Figure 2.
-Tab Horns to the E-919 Trim Tab Skin
-and to the bottom flange of the E-920                                                                                                    Step 9: Apply tank sealant to all of the mating surfaces of each foam, trim tab rib (no more than
-Trim Tab Spar as shown in Figure 2.                                                                                                      1/32" thick) and put them in place inside the trim tab.
-                                            E-919
-Final-Drill the holes common to the
-horns, skin, and spar using a                                                                                                            Slip the three clamp blocks onto the trim tab, directly over the ribs, and push them tight.
-#40 drill.
-                                                                                                                                         Cleco the top flange of the E-920 Trim Tab Spar to the E-919 Trim Tab Skin.
+Step 7: Cut four trailing edge ribs from the two PVC-750 X 2 X 5.25 blocks supplied in the kit. Glue the templates, found on the last page of this section, onto the foam blocks using a spray adhesive. Cut the ribs from the blocks (a band saw works well here), then use a sanding block to finish the edges exactly to the template lines.
 
-                                                                                                                                         Step 10: Rivet the bent tabs on the sides of the trim tabs using the
-                                                                                                                                         blind rivets shown on Page 9-19, Figure 2.
+[Figure 3 shows trailing edge ribs - foam blocks]
 
-                                                                                                                                         Set the trim tabs aside for a few days to allow the
-                                                                                                                                         sealant to cure.
+FIGURE 3: TRAILING EDGE RIBS
 
+Step 8: Apply a thin (no more than 1/32") coat of tank sealant (mix by follow the directions on the can) to the surfaces of the trailing edge ribs that contact the skins and rear spar. Insert the ribs in place between the skins.
 
+The skins will no longer be separated, so make sure the close out tab on the top skin is "sandwiched" between the close out tab on the bottom skin and the E-1022 Shear Clip.
 
+Step 9: Apply a thin coat of tank sealant to both surfaces of the E-1023 Trailing Edge, then cleco it in position between the skins as shown in Figure 4.
 
-                                               E-918
-                                 (E-1018 RIGHT SIDE)
+Step 10: Place the elevators on a flat workbench with the trailing edge clecos hanging just over the edge. Place a 5" - 6" wide board on top of the elevators, with the edge of the board resting against the clecos. Place weights over the trailing edge ribs to ensure a good bond, and distribute enough weights along the board to hold the trailing edge flat against the workbench. Allow the sealant to cure for a couple of days before continuing.
 
+Step 11: After curing, remove the clecos from the trailing edge and clear the holes of any sealant with a drill spun with your fingers.
 
+Step 12: Use the instructions for riveting the rudder trailing edge in Section 7, Page 7-11, Step 1 as a guide for riveting the elevator trailing edge. The rivets for the trailing edge are called out on Page 9-20, Figure 1.
 
-                                                                                                              TRIM SHADED
-                                                                                                              AREA FROM
-                                                       E-917
-                                                                                                              BOTH HORNS
-                                         (E-1017 RIGHT SIDE)
+[Figure 4 shows riveting the trailing edge:]
+E-1007
+TRAILING EDGE RIB. 2 PLACES/ ELEVATOR
+E-1023
+E-1001A
+E-1002
+19 1/16
+10 5/16
 
+FIGURE 4: RIVETING THE TRAILING EDGE
 
-                                                                        FIGURE 2: TRIMMING AND                                                                                   FIGURE 4: BONDING THE
-                                                                      DRILLING THE TRIM TAB HORNS                                                                                      FOAM RIBS                              DATE: 01/28/13 REVISION: 0   RV-10      PAGE   9-17
-                        VAN'S AIRCRAFT, INC.                                                                                       Step 4: Using the single hole in the trim tab hinge drilled in Step 2, cleco
-                                                                                                                                   the trim tab on top of the hinge as shown in Figure 3.
+PAGE 9-14  RV-10  REVISION: 2  DATE: 01/28/13
 
-                                                                                                                                   Adjust the trim tab so that it's even with the rest of the hinge,
-                                                                                                                                   then match-drill the holes of the trim tab into the hinge
-   Step 1: Cut two 35 inch long trim tab hinges (one left and one right)
-                                                                                                                                   in the same way the hinge was drilled from the
-   from the length of AN257-P3 piano hinge provided in the kit.
-                                                                                                                                   elevator.
-   Step 2: Drill the holes in the end of the hinge according
-   to the dimensions in Figure 1.
 
+=== PAGE 9-15 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Finish riveting the E-1001 Skins to the flanges of the E-903 Outboard Tip Rib, aft of the rear spar, using the rivets called out on Page 9-20, Figure 1 & 2.
 
+Step 2: Rivet the E-1022 Shear Clip to the close out tabs in the E-1001 Skins using the rivets shown in Figure 1. Install a blind rivet in the remaining hole in the close out tabs aft of the shear clip.
 
-                                 #40
-                                 2 PLACES
+Step 3: Make a slight bend along the leading edge of the E-1001A Top Skin so it lays flush on the E-1001B Bottom Skin after rolling and riveting.
 
+Step 4: Roll the leading edge of the E-1001 Skins in the same way as the rudder. Again, use a 1-1/4" diameter pipe, and begin by rolling the section of the leading edge closest to the tip ribs.
 
+Step 5: Cleco the leading edge together with the E-1001A Top Skin on top of the E-1001B Bottom Skin, then final-drill the holes along the leading edge with a #30 drill.
 
+Step 6: Secure the leading edge with the rivets shown on Page 9-20, Figure 1.
 
-                                                                 FIGURE 1: CUTTING AND DRILLING
-                                                                      THE TRIM TAB HINGE
+NOTE: The portion of the rear spar's top flange along the trim tab cutout (on both elevators) is riveted when the trim tab is attached.
 
-   Step 3: Using one of the holes just drilled in the trim tab hinge, cleco the hinge to the elevator as shown in Figure 2.
+[Figure 1 shows rolling the leading edge:]
+CS4-4 3 PLACES
+E-1022
+E-1001B
+E-1001A
 
-  Adjust the rest of the hinge so that it's even with the edge of the E-1001A Top Elevator Skin and the top flange of the                                                                              FIGURE 3: MATCH-DRILLING THE TRIM
-  E-1007 Rear Spar. Using a #40 drill, match-drill the inboard most hole in the elevator and rear spar into the hinge,                                                                                    TAB HINGE FROM THE TRIM TAB
-  cleco the hole, then match-drill and cleco one of the holes near the middle of the hinge. Now match-drill the
-  remaining holes.
+FIGURE 1: ROLLING THE LEADING EDGE
 
-                                                                                                                                   Step 5: Mark the inboard end of the hinge so that it can be trimmed even with the elevator and trim tab.
+Step 7: Rivet the two WD-415 Trim Cable Attachment Brackets to their corresponding E-616 Cover Plates using the blind rivets called out in Figure 2. Place the head of the rivet on the cover plate.
 
-                                                                                                                                   Step 6: Remove the hinge from the elevator and trim tab, then remove the pin from the hinge. Trim the hinge halves at the
-                                                                                                                         E-1001A   marks made in Step 5. (The pin is left long so that it can be bent and secured to the elevator. This prevents the pin from sliding
-                                                                                                                                   out of the hinge in service.)
+[Figure 2 shows riveting the trim cable anchor brackets:]
+WD-415
+LP4-3 4 PLACES
+E-616
 
-                                                                                                                                   Step 7: Rivet the hinge halves to the elevator using the rivets called out on Page 9-20, Figure 1, and to the trim tab using the
-                                                                                                                                   rivets called out on Page 9-19, Figure 2.
+FIGURE 2: RIVETING THE TRIM CABLE ANCHOR BRACKETS
 
-                                                                                                                                   Step 8: Attach the trim tab to the elevator by sliding the hinge pin back into the hinge halves.
+Step 8: Remove the material indicated by the shaded areas in the left drawing of Figure 3 from all four E-614 Counterweights. Notice that the two holes are closer to the bottom edge in the drawing, so be sure to trim the weight accordingly.
 
+Remove the raised portion on the back side of ONLY TWO of the counter weights. This portion is indicated by the shaded area in the right drawing.
 
+[Figure 3 shows trimming the E-614 counter weights with dimensions:]
+11/32
+1/4
+1
+3/4
+3/32
+TRIM ALL FOUR WEIGHTS LIKE THIS
+REMOVE RAISED (SHADED) PORTION FROM ONLY TWO WEIGHTS
 
+FIGURE 3: TRIMMING THE E-614 COUNTER WEIGHTS
 
-                      TRIM TAB HINGE
+Step 9: Attach the E-614 Counter Weights to the tip ribs using the hardware in Figure 4. Notice that the counter weight without the raised portion is attached to the inboard side of the ribs. This weight is thin enough to completely nest within the overhanging E-913 Counterbalance Skin, thereby maintaining the required clearance with the horizontal stabilizer when the elevator is attached to it.
 
+[Figure 4 shows attaching the counter weights:]
+AN3-13A 2 PLACES
+E-614 WITHOUT RAISED PORTION
+E-614
+AN960-10 2 PLACES
+AN365-1032 2 PLACES
 
-                                                                                                                                                                                                                      MARK EDGE OF SKINS
-                                                                                                                                                                                                                      ON HINGE
-              FIGURE 2: MATCH-DRILLING THE TRIM
-                TAB HINGE FROM THE ELEVATOR                                                                                                                                                                                           FIGURE 4: TRIMMING
-                                                                                                                                                                                                                                      THE TRIM TAB HINGE
-PAGE   9-18     RV-10      REVISION: 0   DATE: 01/28/13
-Step 1: Drill a 1/16" diameter hole in the E-1007 Rear Spar and the aft
-                                                                                                                  VAN'S AIRCRAFT, INC.
-flange of the E-905 Root Rib located approximately as shown in Figure 1.
+FIGURE 4: ATTACHING THE COUNTER WEIGHTS
 
-Step 2: Bend the hinge pin as shown in the figure, trim off any excess,
-then secure it with safety wire to the hole just drilled.
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-15
 
-This completes the construction of the elevators. The E-616
-Cover Plates and the trim tab control cables are attached
-in Section 11. The E-912 Elevator Tip Fairings are
-attached in Section 12.
 
+=== PAGE 9-16 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Make six trim tab clamping blocks out of a 3/4" thick wood board using the dimensions in Figure 1.
 
+[Figure 1 shows trim tab clamp block dimensions:]
+6 1/2
+5 21/32
+5 1/16
+1 3/32
+2 1/2
 
-                                                                                                 BOTTOM SURFACE
-                                                                                   TOP SURFACE
-                                           HINGE PIN
+FIGURE 1: TRIM TAB CLAMP BLOCKS
 
+NOTE: Only the left trim tab is shown and described in the rest of this section. Make the right tab (the mirror image of the left) at the same time.
 
+Step 2: Make six trim tab ribs from the three PVC-750 x 2 x 4.5 foam blocks supplied in the kit. Using the templates found on the last page of this section, cut out the ribs as you did with the trailing edge ribs earlier.
 
+[Figure 2 shows trim tab ribs being cut from foam blocks]
 
-                                                     DRILL Ø1/16
-                                                                                                                                             AN426AD3-3.5
-                                                               E-1007
-                                                                                                                                             AN426AD3-4
-                                                                                                                                             CS4-4
-                                                                           E-905
-                                                                                                                                      FIGURE 2: TRIM
-                                                                                                                                      TAB SKIN RIVETS
-                                    FIGURE 1: BENDING AND
-                                    SECURING THE HINGE PIN
+FIGURE 2: TRIM TAB RIBS
 
-                                                                                                                     DATE: 01/28/13 REVISION: 0   RV-10   PAGE   9-19
-                  VAN'S AIRCRAFT, INC.
+Step 3: Mask the inside surface of the E-919 Trim Tab Skin around the locations for the trim tab ribs. The rib locations can be found on Page 9-17, Figure 3. Scuff the skin in the location of the ribs with 150 grit aluminum oxide sandpaper, clean the scuffed area with acetone until all sanding residue is removed, then remove the masking.
 
+Step 4: Complete the trailing edge bend on the E-919 Trim Tab Skin using the home-made brake shown in Section 5, Figures 5-5 & 5-7. Cleco the E-920 Trim Tab Spar to the skin as shown in Figure 3, then, using one of the trim tab clamp blocks made in Step 1, check that the entire length of the skin is bent fully and uniformly with no ballooning or puckering.
 
+[Figure 3 shows completing the trailing edge bend:]
+E-920 (E-1020 RIGHT SIDE)
+E-919 (E-1019 RIGHT SIDE)
+TRIM TAB CLAMP BLOCK
 
+FIGURE 3: COMPLETING THE TRAILING EDGE BEND
 
-                                                     AD-41-ABS      AN426AD3-4.5
-                                                     AN426AD3-3     CS4-4
-                                                     AN426AD3-3.5   MK-319-BS
-                                                     AN426AD3-4
+Step 5: Bend the two tabs on both ends of the E-919 (E-1019 right side) Trim Tab Skins. To accomplish this, make two wood wedges having the same geometry as the cutout in the trim tab clamp blocks made in Step 1 (you may be able to use the wedges cut from the clamp blocks if they are in good shape). Radius the edges a 1/32" to prevent cracking the skin.
 
+As shown in Figure 4, position the wedges parallel to, but offset 1/32" from, the straight portion of the skin forward and aft of the tab. Place double sticky-back tape between the wedges and skin, to prevent the wedges from sliding, then clamp the trim tab skin and the two wedges to a workbench as shown in Figure 5.
 
+Begin bending the tab around the wedge by hand using a small, wood block, then finish the bend by tapping back and forth along the tab with a flush rivet set in a rivet gun that has been turned down low. The tab with the two holes lays on top of the other.
 
+[Figure 4 shows locating the wedges:]
+E-919
+1/32
+WEDGE
+TAB ON E-919
+1/32
 
-PAGE   9-20   RV-10   REVISION: 0   DATE: 01/28/13
-                                                                                                VAN'S AIRCRAFT, INC.
+FIGURE 4: LOCATING THE WEDGES
 
+[Figure 5 shows clamping with wedges:]
+E-919
+WEDGE
+WEDGE
+WORKBENCH
 
+FIGURE 5: CLAMPING WITH WEDGES
 
+PAGE 9-16  RV-10  REVISION: 0  DATE: 01/28/13
 
-  10 9/16
-[268.29 mm]
 
+=== PAGE 9-17 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Once again, cleco the E-920 Trim Tab Spar to the E-919 Trim Tab Skin. Slip the clamp blocks over both ends of the skin to hold the skin in the proper shape as shown in Figure 1. Match-Drill the holes of the outer tabs into the inner tabs using a #30 drill.
 
+Step 2: Remove the clamp blocks, then mark the lower surface of the skin at the web of the E-920 Trim Tab Spar for the 15 degree bend shown in Figure 1. Remove the spar, make the bend, then replace the spar.
 
-                                                                                      16
-                                                                                  [406.40 mm]
-         NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!
-                                                                                                   DATE: 01/28/13 REVISION: 0   RV-10   PAGE   09-21
-                   VAN'S AIRCRAFT, INC.
+[Figure 1 shows drilling and bending the skin:]
+E-920
+15 degrees BEND IN E-919
+CLAMP BLOCK
 
+FIGURE 1: DRILLING AND BENDING THE SKIN
 
+Step 3: Remove the shaded area, shown in Figure 2, from the E-917 & -918 Trim Tab Horns. Make sure to keep the edge distance of the remaining hole when trimming.
 
+Step 4: Cleco the E-917 & -918 Trim Tab Horns to the E-919 Trim Tab Skin and to the bottom flange of the E-920 Trim Tab Spar as shown in Figure 2. Final-Drill the holes common to the horns, skin, and spar using a #40 drill.
 
-                                                      THIS PAGE INTENTIONALLY LEFT BLANK
+[Figure 2 shows trimming and drilling the trim tab horns:]
+E-920
+E-919
+E-918 (E-1018 RIGHT SIDE)
+E-917 (E-1017 RIGHT SIDE)
+TRIM SHADED AREA FROM BOTH HORNS
 
+FIGURE 2: TRIMMING AND DRILLING THE TRIM TAB HORNS
 
+Step 5: Disassemble and deburr all parts.
 
+Step 6: Dimple all the holes in the E-919 Trim Tab Skin and the #40 holes (which were drilled in Step 3) in the E-917 & -918 Trim Tab Horns.
 
-PAGE   09-22   RV-10   REVISION: 0   DATE: 01/28/13
-
+Dimple the holes in the bottom flange of the E-920 Trim Tab Spar. Machine countersink the holes in the top flange to leave a smooth surface for mounting the trim tab hinge.
+
+Step 7: Mask the inside of the skin for the foam ribs at the locations shown in Figure 3, then prime all the parts in preparation for final assembly.
+
+[Figure 3 shows trim tab rib locations with dimensions:]
+3/4
+7 13/16
+16
+
+FIGURE 3: TRIM TAB RIB LOCATIONS
+
+Step 8: Rivet the E-917 & -918 Trim Tab Horns and the bottom flange (bottom flange only!) of the E-920 Trim Tab Spar to the E-919 Trim Tab Skin with the rivets called out on Page 9-19, Figure 2.
+
+Step 9: Apply tank sealant to all of the mating surfaces of each foam, trim tab rib (no more than 1/32" thick) and put them in place inside the trim tab.
+
+Slip the three clamp blocks onto the trim tab, directly over the ribs, and push them tight.
+
+Cleco the top flange of the E-920 Trim Tab Spar to the E-919 Trim Tab Skin.
+
+Step 10: Rivet the bent tabs on the sides of the trim tabs using the blind rivets shown on Page 9-19, Figure 2.
+
+Set the trim tabs aside for a few days to allow the sealant to cure.
+
+[Figure 4 shows bonding the foam ribs with clamp blocks on trim tab]
+
+FIGURE 4: BONDING THE FOAM RIBS
+
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-17
+
+
+=== PAGE 9-18 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Cut two 35 inch long trim tab hinges (one left and one right) from the length of AN257-P3 piano hinge provided in the kit.
+
+Step 2: Drill the holes in the end of the hinge according to the dimensions in Figure 1.
+
+[Figure 1 shows cutting and drilling the trim tab hinge:]
+#40 2 PLACES
+1/4
+1/4
+35
+
+FIGURE 1: CUTTING AND DRILLING THE TRIM TAB HINGE
+
+Step 3: Using one of the holes just drilled in the trim tab hinge, cleco the hinge to the elevator as shown in Figure 2.
+
+Adjust the rest of the hinge so that it's even with the edge of the E-1001A Top Elevator Skin and the top flange of the E-1007 Rear Spar. Using a #40 drill, match-drill the inboard most hole in the elevator and rear spar into the hinge, cleco the hole, then match-drill and cleco one of the holes near the middle of the hinge. Now match-drill the remaining holes.
+
+[Figure 2 shows match-drilling the trim tab hinge from the elevator:]
+E-1001A
+TRIM TAB HINGE
+
+FIGURE 2: MATCH-DRILLING TAB HINGE FROM THE ELEVATOR
+
+Step 4: Using the single hole in the trim tab hinge drilled in Step 2, cleco the trim tab on top of the hinge as shown in Figure 3.
+
+Adjust the trim tab so that it's even with the rest of the hinge, then match-drill the holes of the trim tab into the hinge in the same way the hinge was drilled from the elevator.
+
+[Figure 3 shows match-drilling the trim tab hinge from the trim tab]
+
+FIGURE 3: MATCH-DRILLING THE TRIM TAB HINGE FROM THE TRIM TAB
+
+Step 5: Mark the inboard end of the hinge so that it can be trimmed even with the elevator and trim tab.
+
+Step 6: Remove the hinge from the elevator and trim tab, then remove the pin from the hinge. Trim the hinge halves at the marks made in Step 5. (The pin is left long so that it can be bent and secured to the elevator. This prevents the pin from sliding out of the hinge in service.)
+
+Step 7: Rivet the hinge halves to the elevator using the rivets called out on Page 9-20, Figure 1, and to the trim tab using the rivets called out on Page 9-19, Figure 2.
+
+Step 8: Attach the trim tab to the elevator by sliding the hinge pin back into the hinge halves.
+
+[Figure 4 shows trimming the trim tab hinge:]
+MARK EDGE OF SKINS ON HINGE
+
+FIGURE 4: TRIMMING THE TRIM TAB HINGE
+
+PAGE 9-18  RV-10  REVISION: 0  DATE: 01/28/13
+
+
+=== PAGE 9-19 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Drill a 1/16" diameter hole in the E-1007 Rear Spar and the aft flange of the E-905 Root Rib located approximately as shown in Figure 1.
+
+Step 2: Bend the hinge pin as shown in the figure, trim off any excess, then secure it with safety wire to the hole just drilled.
+
+This completes the construction of the elevators. The E-616 Cover Plates and the trim tab control cables are attached in Section 11. The E-912 Elevator Tip Fairings are attached in Section 12.
+
+[Figure 1 shows bending and securing the hinge pin:]
+HINGE PIN
+DRILL O1/16
+E-1007
+E-905
+
+FIGURE 1: BENDING AND SECURING THE HINGE PIN
+
+[Figure 2 shows trim tab skin rivets pattern with legend:]
+TOP SURFACE
+BOTTOM SURFACE
+AN426AD3-3.5
+AN426AD3-4
+CS4-4
+
+FIGURE 2: TRIM TAB SKIN RIVETS
+
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 9-19
+
+
+=== PAGE 9-20 ===
+VAN'S AIRCRAFT, INC.
+
+[Figure 1 shows E-1001A top skin rivet pattern with legend:]
+AD-41-ABS
+AN426AD3-3
+AN426AD3-3.5
+AN426AD3-4
+AN426AD3-4.5
+CS4-4
+MK-319-BS
+
+FIGURE 1: E-1001A TOP SKIN RIVETS
+
+[Figure 2 shows E-1001B bottom skin rivet pattern with legend:]
+AD-41-ABS
+AN426AD3-3
+AN426AD3-3.5
+AN426AD3-4
+AN426AD3-4.5
+CS4-4
+MK-319-BS
+
+FIGURE 2: E-1001B BOTTOM SKIN RIVETS
+
+PAGE 9-20  RV-10  REVISION: 0  DATE: 01/28/13
+
+
+=== PAGE 09-21 ===
+VAN'S AIRCRAFT, INC.
+
+[Full-page template sheet with outlines for foam ribs:]
+
+TRAILING EDGE RIB TEMPLATES [two templates on left side]
+
+TRIM TAB RIB TEMPLATES [three templates on right side]
+
+10 9/16 [268.29 mm] [height dimension on left]
+16 [406.40 mm] [width dimension on bottom]
+
+NOTE: CHECK PRINTED SCALE 1:1 PER SECTION 3 BEFORE USING THE TEMPLATE!
+
+DATE: 01/28/13  REVISION: 0  RV-10  PAGE 09-21
+
+
+=== PAGE 09-22 ===
+VAN'S AIRCRAFT, INC.
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+PAGE 09-22  RV-10  REVISION: 0  DATE: 01/28/13

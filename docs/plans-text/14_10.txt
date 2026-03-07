@@ -1,402 +1,561 @@
-                                                                                                                                                VAN'S AIRCRAFT, INC.
-                                                                                                                                     W-1012-R
-                                                                                                                                     TRIMMED
-                                                                                                                                    OUTBOARD
-                                                                                                                                     WING RIB
-                                                                                                                     W-1012-L
-                                                                                                     W-1012-L
+=== PAGE 14-1 ===
+VAN'S AIRCRAFT, INC.
 
+SECTION 14:
+WING RIBS
 
-      SECTION 14:                                                                       W-1011-L                   OUTBOARD
-                                                                                                   OUTBOARD
-                                                                                       INBOARD                      WING RIB
-                                                                                                    WING RIB
-                                                                                       WING RIB
-                                                                          W-1025B-R
-                                                                     FLAP HINGE RIB,                   W-1011-R
-                                                                           2 PLACES                    INBOARD
+[Isometric view of left wing spar and rib assembly]
 
+W-1012-R
+TRIMMED
+OUTBOARD
+WING RIB
 
-       WING RIBS                                                             W-1025A
-                                                                 FLAP HINGE BRACKET,
-                                                                            3 PLACES
-                                                                                                       WING RIB
+W-1012-L
+OUTBOARD
+WING RIB
 
+W-1012-L
+OUTBOARD
+WING RIB
 
+W-1011-L
+INBOARD
+WING RIB
 
+W-1011-R
+INBOARD
+WING RIB
 
-                                                                        W-1011-L
-                                                                       INBOARD
-                                                                       WING RIB
-                                                      W-1011-R
-                                                      NOTCHED
-                                        W-1011-L       INBOARD
-     W-1025B-L                         INBOARD        WING RIB
-     FLAP HINGE RIB                    WING RIB
-                                                   W-1011-R
-                                                   INBOARD
-           W-1011-R               W-1011-R         WING RIB
-           INBOARD                INBOARD
-           WING RIB               WING RIB
+W-1025B-R
+FLAP HINGE RIB,
+2 PLACES
 
-                W-1011-R                                                                                                  MAIN SPAR ASSEMBLY
-                INBOARD          W-1011-L
-                                                                                                                          (SEE SECTION 13)
-                WING RIB         INBOARD
-                                 WING RIB
-                      W-1011-L
-                      INBOARD
-                      WING RIB
+W-1025A
+FLAP HINGE BRACKET,
+3 PLACES
 
-                                                                                                    STEPPED BARS
+W-1011-L
+INBOARD
+WING RIB
 
+W-1011-R
+NOTCHED
+INBOARD
+WING RIB
 
+W-1011-R
+INBOARD
+WING RIB
 
+W-1011-L
+INBOARD
+WING RIB
+
+W-1011-R
+INBOARD
+WING RIB
+
+W-1011-R
+INBOARD
+WING RIB
+
+W-1011-L
+INBOARD
+WING RIB
+
+W-1011-L
+INBOARD
+WING RIB
+
+W-1025B-L
+FLAP HINGE RIB
+
+W-1011-R
+INBOARD
+WING RIB
+
+W-1011-R
+INBOARD
+WING RIB
+
+W-1011-L
+INBOARD
+WING RIB
+
+MAIN SPAR ASSEMBLY
+(SEE SECTION 13)
+
+STEPPED BARS
 
 W-1010-R
 INBOARD
 WING RIB
 
-       W-1029B-L
-    TORQUE TUBE
+W-1029B-L
+TORQUE TUBE
 SUPPORT BRACKET
 
-            W-1029A-L
-         TORQUE TUBE
-     SUPPORT BRACKET
+W-1029A-L
+TORQUE TUBE
+SUPPORT BRACKET
 
-                                                                                                                                                   DATE: 07/24/14 REVISION: 1   RV-10   PAGE   14-1
-                        VAN'S AIRCRAFT, INC.
-                                                                                                             Step 6: Cleco the VA-146 Flange Bearing in-between the W-1029A-L and W-1029B-L Torque Tube Support Brackets. Cleco the assembly to the upper
-                                                                                                             and lower flanges of the W-1010-R Inboard Wing Rib as shown in Figure 5. (The support brackets cleco into the fourth and fifth holes back from the
-                                                                                                             front of the main flange not counting the tab.) Clamp the W-1029C Angle flush against the aft face of the W-1029B-L Torque Tube Support Bracket and
-                                                                                                             the inboard face of the inboard wing rib.
-  Note: This entire section depicts the wing rib installation for the left wing only. The right wing is a
-  mirror of the left.
-                                                                                                             Step 7: Match-Drill #30 and cleco the W-1010-R Inboard Wing Rib to the W-1029C Angle using the holes in the rib as a drill guide.
-   Step 1: Flute and straighten all ribs per Section 5N.
-                                                                                                             Step 8: Match-Drill #30 and cleco the W-1029A-L and W-1029B-L Torque Tube Support Brackets to the W-1029C Angle at two attach points using the
-                                                                                                             support brackets as a drill guide. Use a right angle drill or extension bit for best results. Match-drill the holes common between the torque tube support
-   Step 2: Cut a piece of AA6-063X3/4X3/4, 7 13/16 inches long as shown in Figure 1.
-                                                                                                             brackets and the VA-146 Flange Bearing. Disassemble all parts from the inboard wing rib. Cleco the W-1029B-L Torque Tube Support Bracket to the
-                                                                                                             angle at the two locations just drilled and Match-Drill #30 the remaining attach holes.
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 14-1
 
+=== PAGE 14-2 ===
+VAN'S AIRCRAFT, INC.
 
+Note: This entire section depicts the wing rib installation for the left wing only. The right wing is a mirror of the left.
 
-                                                                                                                                                               W-1029C
-                                                                                                                                                                                                                   W-1029A-L
+Step 1: Flute and straighten all ribs per Section 5N.
 
+Step 2: Cut a piece of AA6-063X3/4X3/4, 7 13/16 inches long as shown in Figure 1.
 
-                                                                                                                                                        W-1010-R
-                         FIGURE 1: CUTTING THE W-1029C ANGLE
-   Step 3: Cut a piece of .063 2024-T3 ALCLAD and mark the alignment lines per the dimensions in Figure 2.
+FIGURE 1: CUTTING THE W-1029C ANGLE
 
-                                                    6 15/32                                          5/8
-                                                                                                                                                                                                                   VA-146
-       5/16
-                                                                                                                                                                                                               W-1029B-L
+Step 3: Cut a piece of .063 2024-T3 ALCLAD and mark the alignment lines per the dimensions in Figure 2.
 
+6 15/32                    5/8
 
-                                                                                                   5/16
+5/16
 
-              FIGURE 2: CUTTING AND MARKING THE W-1029D SPACER
-   Step 4: Cut a piece of .063 2024-T3 ALCLAD and mark the alignment lines per the dimensions in Figure 3.
-                                                                                                                                                         FIGURE 5: MATCH-DRILLING W-1029C ANGLE
-                                          1 13/32             5/8
+5/16
 
-                        5/16                                                                                 Step 9: Cleco the W-1025B-L Flap Hinge Rib and W-1025A Flap Hinge Bracket to the W-1010-R Inboard Wing Rib as shown in Figure 7. Final-Drill all
-                                                                                                             common attach holes in the assembly to #30.
+FIGURE 2: CUTTING AND MARKING THE W-1029D SPACER
 
-                                                                                                             Step 10: Cleco the W-1025B-R Flap Hinge Rib and W-1025A Flap Hinge Bracket to the two alignment holes in the W-1011-L Inboard Wing Rib as
-                                         5/16                                                                shown in Figure 8. Match-Drill #30 the inboard wing rib using the holes in the flap hinge rib and bracket as a drill guide. Final-Drill #30 the two
-                                                                                                             alignment holes. Repeat this process to create two assemblies as shown in Figure 8. Ream the flap attach hole in all flap hinge brackets to 3/8.
-              FIGURE 3: CUTTING AND MARKING THE W-1029E SPACER
-  Step 5: Clamp W-1029A-L Torque Tube Support Bracket, W-1029D Spacer and W-1029E Spacer together                                                                                                                         W-1025B-R
-  with the centerlines drawn in steps 2 and 3 aligned with the holes in the support bracket as shown in                                                      FLAP ATTACH HOLE
-  Figure 4. Match-Drill the spacers #30 using the torque tube support bracket as a drill guide.                                                                                                                             W-1025A
+Step 4: Cut a piece of .063 2024-T3 ALCLAD and mark the alignment lines per the dimensions in Figure 3.
 
-                                                                                                                                                        W-1025B-L
-                                                                                                                                                        W-1025A                                                                         W-1011-L
-                           W-1029E
-                                                                    W-1029A-L                                                                                          W-1010-R
+1 13/32            5/8
 
+5/16
 
+5/16
 
-                               W-1029D
+FIGURE 3: CUTTING AND MARKING THE W-1029E SPACER
 
+Step 5: Clamp W-1029A-L Torque Tube Support Bracket, W-1029D Spacer and W-1029E Spacer together with the centerlines drawn in steps 2 and 3 aligned with the holes in the support bracket as shown in Figure 4. Match-Drill the spacers #30 using the torque tube support bracket as a drill guide.
 
+W-1029E
 
+W-1029A-L
 
-                                                                                                                   FIGURE 7: INBOARD FLAP HINGE ASSEMBLY                                       FIGURE 8: OUTBOARD FLAP HINGE ASSEMBLIES
+W-1029D
 
-PAGE   14-2     RV-10      REVISION: 2   DATE: 07/24/14
-                                                                                                                                                                                                                VAN'S AIRCRAFT, INC.
+Step 6: Cleco the VA-146 Flange Bearing in-between the W-1029A-L and W-1029B-L Torque Tube Support Brackets. Cleco the assembly to the upper and lower flanges of the W-1010-R Inboard Wing Rib as shown in Figure 5. (The support brackets cleco into the fourth and fifth holes back from the front of the main flange not counting the tab.) Clamp the W-1029C Angle flush against the aft face of the W-1029B-L Torque Tube Support Bracket and the inboard face of the inboard wing rib.
 
+Step 7: Match-Drill #30 and cleco the W-1010-R Inboard Wing Rib to the W-1029C Angle using the holes in the rib as a drill guide.
 
-Step 1: Remove the flange and flange radius from the top and bottom tabs of a single W-1011-R Inboard Wing Rib as shown in             Step 5: Cleco the W-1025B-R Flap Hinge Rib and W-1025A Flap Hinge Bracket to the W-1011-L Inboard Wing Rib. Rivet the flap
-Figure 1. This notch will remove interference between the outboard-most tank attach nutplate and the W-1011-R Inboard Wing Rib         hinge rib and flap hinge bracket to the inboard wing rib as shown in Figure 3. Repeat this process to create two assemblies using
-that attaches to the main spar assembly at that span wise location. The amount of trim is the same on both the top and bottom tab.     the W-1011-L Inboard Wing Rib.
+Step 8: Match-Drill #30 and cleco the W-1029A-L and W-1029B-L Torque Tube Support Brackets to the W-1029C Angle at two attach points using the support brackets as a drill guide. Use a right angle drill or extension bit for best results. Match-drill the holes common between the torque tube support brackets and the VA-146 Flange Bearing. Disassemble all parts from the inboard wing rib. Cleco the W-1029B-L Torque Tube Support Bracket to the angle at the two locations just drilled and Match-Drill #30 the remaining attach holes.
 
+W-1029C
 
+W-1029A-L
 
-                                                                TAB
+W-1010-R
 
+VA-146
 
-                                                                                                                                                                         W-1011-L
+W-1029B-L
 
+FIGURE 5: MATCH-DRILLING W-1029C ANGLE
 
+Step 9: Cleco the W-1025B-L Flap Hinge Rib and W-1025A Flap Hinge Bracket to the W-1010-R Inboard Wing Rib as shown in Figure 7. Final-Drill all common attach holes in the assembly to #30.
 
-                                                                                                                                                                                                         AN470AD4-7,
-                                                                                                                                                                                                         16 PLACES
+Step 10: Cleco the W-1025B-R Flap Hinge Rib and W-1025A Flap Hinge Bracket to the two alignment holes in the W-1011-L Inboard Wing Rib as shown in Figure 8. Match-Drill #30 the inboard wing rib using the holes in the flap hinge rib and bracket as a drill guide. Final-Drill #30 the two alignment holes. Repeat this process to create two assemblies as shown in Figure 8. Ream the flap attach hole in all flap hinge brackets to 3/8.
 
+FLAP ATTACH HOLE
 
-                                                                                                                                                                   W-1025A
+W-1025B-R
 
-                                                                                                                                                                                                         W-1025B-R
+W-1025B-L
+W-1025A
 
-                             REMOVE HATCHED AREA
-                                                                                                                                                                                               FIGURE 3: OUTBOARD FLAP HINGE ASSEMBLY
-                                                                                                                                       Step 6: Cleco and rivet the VA-146 Flange Bearing, W-1029A-L and W-1029B-L Torque Tube Support Brackets, W-1029C Angle,
-                               FIGURE 1: NOTCHING TO                                                                                   W-1029D and W-1029E Spacers together as shown in Figure 4.
-                               REMOVE INTERFERENCE
-                                                                                                                                       Step 7: Cleco and rivet the W-1029C Angle and support bracket assembly to the web of the W-1010-R Inboard Wing Rib as shown
-                                                                                                                                       in Figure 4.
+W-1025A
+
+W-1010-R
+
+W-1011-L
+
+FIGURE 7: INBOARD FLAP HINGE ASSEMBLY       FIGURE 8: OUTBOARD FLAP HINGE ASSEMBLIES
+
+PAGE 14-2  RV-10  REVISION: 2  DATE: 07/24/14
+
+=== PAGE 14-3 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Remove the flange and flange radius from the top and bottom tabs of a single W-1011-R Inboard Wing Rib as shown in Figure 1. This notch will remove interference between the outboard-most tank attach nutplate and the W-1011-R Inboard Wing Rib that attaches to the main spar assembly at that span wise location. The amount of trim is the same on both the top and bottom tab.
+
+TAB
+
+19/32
+
+REMOVE HATCHED AREA
+
+FIGURE 1: NOTCHING TO
+REMOVE INTERFERENCE
+
 Step 2: Remove the aft flange but not the flange radius from the W-1012-R Outboard Wing Rib as shown in Figure 2.
-                                                                                                                                       Step 8: Cleco and rivet the W-1025B-L Flap Hinge Rib and W-1025A Flap Hinge Bracket to the W-1010-R Inboard Wing Rib as
-                                                                                                                                       shown in Figure 4.
-                                                                                                                                                                                                 AN470AD4-6,         W-1029A-L
-                                                                                                                                                                                                       6 PLACES           W-1029E
-                                                                                                                                                                                 AN470AD4-5,
-                                                                                                                                                                                   6 PLACES
-                                                                                            REMOVE HATCHED                                                                                                                                              AN470AD4-5
-                                                                                            AREA
 
-                                                                                                                                                      W-1025B-L
+REMOVE HATCHED
+AREA
 
-     FIGURE 2: REMOVING THE AFT FLANGE                                                                                                                     AN470AD4-7,                                                                                  AN470AD4-5,
-                                                                                                                                                           16 PLACES                                                                                    6 PLACES
-       OF THE OUTBOARD-MOST WING RIB
+FIGURE 2: REMOVING THE AFT FLANGE
+OF THE OUTBOARD-MOST WING RIB
 
-Step 3: Cleco the W-1010-R Inboard Wing Rib, W-1011-L/R Inboard Wing Ribs and W-1012-L/R Outboard Wing Ribs to the main                                                                                                                                  VA-146
-spar assembly as shown in the isometric view on Page 14-1.
-                                                                                                                                                                                                                                                   W-1029D
-                                                                                                                                                                                               W-1029C
-Match-Drill to #12 the upper and lower attach points on the W-1010-R and all the W-1011-L/R Inboard Wing Ribs that will be
-attached with bolts to the main spar assembly (see Page 14-6, Figure 1), using the holes in the main spar assembly as a drill guide.
-Use a wood block to support the forward flange of the ribs while drilling.                                                                                                                                                            W-1029B-L
+Step 3: Cleco the W-1010-R Inboard Wing Rib, W-1011-L/R Inboard Wing Ribs and W-1012-L/R Outboard Wing Ribs to the main spar assembly as shown in the isometric view on Page 14-1.
 
-Final-Drill #30 all the remaining common attach holes in the forward flange of the ribs and web of the main spar assembly.                                                    W-1010-R
+Match-Drill to #12 the upper and lower attach points on the W-1010-R and all the W-1011-L/R Inboard Wing Ribs that will be attached with bolts to the main spar assembly (see Page 14-6, Figure 1), using the holes in the main spar assembly as a drill guide. Use a wood block to support the forward flange of the ribs while drilling.
 
-Final-Drill #40 all the common attach holes in the upper and lower rib tabs and the flanges of the main spar assembly.                                                       FIGURE 4: INBOARD FLAP HINGE AND TORQUE
-Step 4: Disassemble the ribs from the main spar assembly. Disassemble the W-1025A Flap Hinge Brackets and W-1025B-L Flap                                                         TUBE SUPPORT BRACKET ASSEMBLY
-                                                                                                                                                             W-1025A
-Hinge Ribs from the inboard ribs.
+Final-Drill #30 all the remaining common attach holes in the forward flange of the ribs and web of the main spar assembly.
+
+Final-Drill #40 all the common attach holes in the upper and lower rib tabs and the flanges of the main spar assembly.
+
+Step 4: Disassemble the ribs from the main spar assembly. Disassemble the W-1025A Flap Hinge Brackets and W-1025B-L Flap Hinge Ribs from the inboard ribs.
 
 Deburr all holes in all parts. Prime all parts if/as desired.
 
-                                                                                                                                                                                                                      DATE: 07/24/14 REVISION: 0    RV-10    PAGE   14-3
-                       VAN'S AIRCRAFT, INC.
+Step 5: Cleco the W-1025B-R Flap Hinge Rib and W-1025A Flap Hinge Bracket to the W-1011-L Inboard Wing Rib. Rivet the flap hinge rib and flap hinge bracket to the inboard wing rib as shown in Figure 3. Repeat this process to create two assemblies using the W-1011-L Inboard Wing Rib.
 
+W-1011-L
 
-  NOTE: Before enlarging holes and installing snap bushings, check the snap bushing size by inserting the anticipated wires and AOA lines etc. (see Page 20-3) through a SB625-7 Snap
-  Bushing. If the snap bushing is too big order and install a smaller snap bushing from VAN'S ACCESSORY CATALOG to prevent wires from chaffing. Once the penetration size has
-  been established, enlarge holes to final size using a unibit.
+AN470AD4-7,
+16 PLACES
 
-  Step 1: This step is for the left wing only. Enlarge the forward tooling hole to 7/16 diameter and install a SB437-4 Snap Bushing in the W-1010-R Inboard Wing Rib and all but the two most outboard                     W-1010-R
-  instances of the W-1011-L/R Inboard Wing Ribs, see Figure 1 and Figure 2.
+W-1025A
 
-   Step 2: Enlarge the wire run pilot hole to 5/8 diameter in all W-1011-L/R Inboard Wing Ribs and W-1012-L/R Outboard Wing Ribs and install SB625-7 Snap Bushings oriented as shown in Figure 2.
+W-1025B-R
 
-  Enlarge the wire run pilot hole to 5/8 diameter in the W-1010-L/R Inboard Wing Rib (this will make a small notch in the W-1029C Angle, which is acceptable). Install an SB625-7 Snap Bushing,
-  inserted from the inboard side of the rib as shown in Figure 2.
-                                                                                                                                                                          SB437-4,
-                                                                                                                                                                        10 PLACES
+FIGURE 3: OUTBOARD FLAP HINGE ASSEMBLY
 
+Step 6: Cleco and rivet the VA-146 Flange Bearing, W-1029A-L and W-1029B-L Torque Tube Support Brackets, W-1029C Angle, W-1029D and W-1029E Spacers together as shown in Figure 4.
 
+Step 7: Cleco and rivet the W-1029C Angle and support bracket assembly to the web of the W-1010-R Inboard Wing Rib as shown in Figure 4.
 
+Step 8: Cleco and rivet the W-1025B-L Flap Hinge Rib and W-1025A Flap Hinge Bracket to the W-1010-R Inboard Wing Rib as shown in Figure 4.
 
-                                                                                                                                                                                                               SB625-7,
-                                                                                                                                                                                                               15 PLACES
+AN470AD4-6,
+6 PLACES
 
+W-1029A-L
 
-             PITOT LINE                    SB625-7
-                                                                                                                                                                                                         W-1011-L,
-             PENETRATION               WIRE RUN PENETRATION
-                                                                                                                                                                                                         5 PLACES
-             (TOOLING HOLE)
-         SB437-4
-                    FIGURE 1: ENLARGING PILOT HOLES
-                       FOR SYSTEM PENETRATIONS
+W-1029E
 
-                                                                                                                                                             W-1011-R NOTCHED
+AN470AD4-5,
+6 PLACES
 
+AN470AD4-5
 
+W-1025B-L
 
+AN470AD4-7,
+16 PLACES
 
-                                                                                                                                          FIGURE 2: INSTALLING SNAP BUSHINGS
-                                                                                                                              (RIBS ARE DEPICTED ARRANGED AS INSTALLED IN THE AIRCRAFT)
+AN470AD4-5,
+6 PLACES
 
+VA-146
 
+W-1029D
 
-                                                                                                                  W-1011-R,
-                                                                                                                  5 PLACES
+W-1029C
 
-                                                                                           W-1012-L,
-                                                                                           2 PLACES
+W-1029B-L
 
+W-1010-R
 
+W-1025A
 
+FIGURE 4: INBOARD FLAP HINGE AND TORQUE
+TUBE SUPPORT BRACKET ASSEMBLY
 
-                                                        W-1012-R TRIMMED
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 14-3
 
+=== PAGE 14-4 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Before enlarging holes and installing snap bushings, check the snap bushing size by inserting the anticipated wires and AOA lines etc. (see Page 20-3) through a SB625-7 Snap Bushing. If the snap bushing is too big order and install a smaller snap bushing from VAN'S ACCESSORY CATALOG to prevent wires from chaffing. Once the penetration size has been established, enlarge holes to final size using a unibit.
 
-PAGE   14-4    RV-10     REVISION: 1   DATE: 07/24/14
-                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-Step 1: Apply a protective layer of tape near the rib attach points to cover the stepped bars on the forward side of the main spar
-assembly as shown in Figure 1. This will help prevent damage to the main spar during riveting.
-                                                                                                                                                                                                AN470AD4-7,
-                                                                                                                                                                                                  5 PLACES
-                                                                                                                                                                                  AN470AD4-7,
-                                                                                                                                                                                    5 PLACES
-                   MAIN SPAR
-                   ASSEMBLY                                                                                                                                                     AN426AD3-4,
-                                                                                                                                                                                  2 PLACES
-                                                                                                                                                                                AN470AD4-7,
-                                                                         TAPE,                                                                                                    5 PLACES
-                                                                                                                                                                  AN426AD3-4,
-                                                                         TYP.
-                                                                                                                                                                     2 PLACES
-                                                                                                                                                                  AN470AD4-7,
-                                                                                                                                                                    5 PLACES
-                                                                                                                                                                  AN426AD3-4,
-       RIB ATTACH HOLE                                                                                                                                              2 PLACES
-                                                                                                                                                  AN426AD3-4,     AN470AD4-7,                                                            W-1010-R
-                                                                                                                                                     2 PLACES       5 PLACES
-                                                                                                                                                    AN470AD4-7,
-                                                                      FIGURE 1:                                                                        5 PLACES
-                                                                                                                                           AN426AD3-4,
-                                                                   PROTECTIVE TAPE                                                           2 PLACES
-                                                                                                                             AN426AD3-4,       AN470AD4-7,
-                                                                                                                               2 PLACES          5 PLACES
-Step 2: Cleco the W-1010-R and W-1011-L/R Inboard Wing Ribs and W-1012-L/R Outboard Wing Ribs to
-                                                                                                                                 AN470AD4-7,
-the main spar assembly. There may be some misalignment between the holes punched between the
-                                                                                                                                   5 PLACES
-C Channel Spar Web and the Doubler at the three most outboard attachment locations for the inboard wing ribs.
-Run a #30 drill through these holes if required to insert clecos.                                                     AN470AD4-7,
-                                                                                                                        5 PLACES
-Final-Drill #40 the forward most hole in the forward tabs of the seven
-inboard most W-1011-L/R Inboard Wing Ribs.
-                                                                                                       AN470AD4-7,
-                                                                                                         5 PLACES                                                                                                                    W-1011-L,
-Step 3: Rivet the forward flange of all the wing ribs except the W-1012-R Trimmed                                                                                                                                                    5 PLACES
-Outboard Wing Rib to the main spar assembly as shown in Figure 2. The                AN470AD4-7,
-outboard most wing rib will be riveted in assembly with the W-1009-R                   5 PLACES
-Leading Edge Rib in Section 17. When riveting the three most inboard
-wing ribs, attach the outboard most rib first and then work inboard.       AN470AD4-7,
-                                                                                 5 PLACES
-Rivet the forward most hole in the forward tabs of the seven
-inboard most W-1011-L/R Inboard Wing Ribs                       AN470AD4-5,
-to the main spar assembly.                                        4 PLACES
+Step 1: This step is for the left wing only. Enlarge the forward tooling hole to 7/16 diameter and install a SB437-4 Snap Bushing in the W-1010-R Inboard Wing Rib and all but the two most outboard instances of the W-1011-L/R Inboard Wing Ribs, see Figure 1 and Figure 2.
 
-Step 4: Remove the protective tape and       AN470AD4-5,
-adhesive residue from the                      4 PLACES
-main spar assembly.                                                                                                                                                             W-1011-R NOTCHED
+Step 2: Enlarge the wire run pilot hole to 5/8 diameter in all W-1011-L/R Inboard Wing Ribs and W-1012-L/R Outboard Wing Ribs and install SB625-7 Snap Bushings oriented as shown in Figure 2.
 
+Enlarge the wire run pilot hole to 5/8 diameter in the W-1010-L/R Inboard Wing Rib (this will make a small notch in the W-1029C Angle, which is acceptable). Install an SB625-7 Snap Bushing, inserted from the inboard side of the rib as shown in Figure 2.
 
+PITOT LINE
+PENETRATION
+(TOOLING HOLE)
 
-       MAIN SPAR ASSEMBLY
+SB437-4
 
-              CLECO ONLY                                                                                                                                     FIGURE 2: RIVETING THE WING RIBS
-                                                                                                                                                                TO THE MAIN SPAR ASSEMBLY
+SB625-7
+WIRE RUN PENETRATION
 
-                                                                                                                                               W-1011-R,
-                                                                                                                                               5 PLACES
+FIGURE 1: ENLARGING PILOT HOLES
+FOR SYSTEM PENETRATIONS
 
+W-1010-R
 
+SB437-4,
+10 PLACES
 
-                                                                                                                   W-1012-L,
-                                                                                                                   2 PLACES
+SB625-7,
+15 PLACES
 
+W-1011-L,
+5 PLACES
 
-                                                                                               W-1012-R
-                                                                                               TRIMMED
-                                                                                                                                                                                                          DATE:07/24/14 REVISION:1     RV-10     PAGE   14-5
-                           VAN'S AIRCRAFT, INC.
-                                                                                                                                                                                                            W-1012-R
-                                                                                                                                                                                                            TRIMMED
-                                                                                                                                                                                          W-1012-L,
-   Step 1: Install bolts in the upper and lower attach holes on the inboard ribs as indicated in Figure 1. Torque bolts per values given in Section 5V.                                   2 PLACES
-                                                                                                                                                                AN3-5A
-                                                                                                                                                                AN960-10
-                                                                                                                                                                AN365-1032
-                                                                                                                                                AN3-6A
-                                                                                                                                                AN960-10
-                                                                                                                                                AN365-1032
-                                                                                                                                                         W-1011-R,
-                                                                                                                             AN3-7A                      5 PLACES
-                                                                                                                             AN960-10
-                                                                                                                             AN365-1032
+W-1011-R NOTCHED
 
-                                                                                                          AN3-11A                       W-1011-L,
-                                                                                                          AN960-10                      5 PLACES
-                                                                                                          AN365-1032
-              AN3-21A                                                    W-1011-R NOTCHED
-              AN960-10                                      AN3-16A
-                                                                                       AN3-12A
-              AN365-1032                                    AN960-10
-                                                                                       AN960-10
-                                                            AN365-1032
-                                                                                       AN365-1032
-                AN3-20A
-                AN960-10                                                                                                                                                                                                     MAIN SPAR ASSEMBLY
-                                                                         AN3-13A
-                AN365-1032                                               AN960-10
-                                                                         AN365-1032
-                   AN3-20A
-                   AN960-10                            AN3-15A
-                                                       AN960-10                                                                                                                                                                     AN3-5A
-                   AN365-1032
-                                                       AN365-1032                                                                                                                                                                   AN960-10
-                       AN3-17A                                                                                                                                                                                                      AN365-1032
-                       AN960-10
-                       AN365-1032                                                                                                                                                                                      AN3-5A
-                                                                                                                                                                                                                       AN960-10
-                                                                                                                                                                                                                       AN365-1032
-                                                                                                                                                                                                          AN3-6A
-                                                                                                                                                                                                          AN960-10
-                                                                                                                                                                                                          AN365-1032
+FIGURE 2: INSTALLING SNAP BUSHINGS
+(RIBS ARE DEPICTED ARRANGED AS INSTALLED IN THE AIRCRAFT)
 
-                                                                                                                                                                                             AN3-7A
-                                                                                                                                                                                             AN960-10
-                                                                                                                                                                                             AN365-1032
+W-1011-R,
+5 PLACES
 
-                                                                                                                                                                             AN3-10A
-                                                                                                                                                                             AN960-10
-                                                                                                                                                                             AN365-1032
+W-1012-L,
+2 PLACES
 
-                                                                                                                                                            AN3-11A
-                                                                                                                                                            AN960-10
-                                                                                                                                                            AN365-1032
+W-1012-R TRIMMED
 
-                                                                                                                                               AN3-13A
-                                                                                                                                               AN960-10
-                                                                                                                                               AN365-1032
-                                                                                                                                   AN3-14A
-                                                                                                                                   AN960-10
-                                                                                                                                   AN365-1032                        FIGURE 1: INSTALLING BOLTS THROUGH THE WING RIBS
-                                                                                                                       AN3-15A
-                                                                                                                       AN960-10
-                                                                                                                                                                                  AND MAIN SPAR ASSEMBLY
-                           W-1010-R
-                                                                                                                       AN365-1032
-                                                                                                                                             AN3-16A
-                                                                                                                                             AN960-10
-                                                                                                                   AN3-16A                   AN365-1032
-                                                                                                                   AN960-10
-                                                                                             AN3-20A               AN365-1032
-                                                                                             2X AN960-10
-                                                                                             AN365-1032
-PAGE   14-6      RV-10       REVISION: 1   DATE: 07/24/14
-
+PAGE 14-4  RV-10  REVISION: 1  DATE: 07/24/14
+
+=== PAGE 14-5 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Apply a protective layer of tape near the rib attach points to cover the stepped bars on the forward side of the main spar assembly as shown in Figure 1. This will help prevent damage to the main spar during riveting.
+
+MAIN SPAR
+ASSEMBLY
+
+TAPE,
+TYP.
+
+RIB ATTACH HOLE
+
+FIGURE 1:
+PROTECTIVE TAPE
+
+Step 2: Cleco the W-1010-R and W-1011-L/R Inboard Wing Ribs and W-1012-L/R Outboard Wing Ribs to the main spar assembly. There may be some misalignment between the holes punched between the C Channel Spar Web and the Doubler at the three most outboard attachment locations for the inboard wing ribs. Run a #30 drill through these holes if required to insert clecos.
+
+Final-Drill #40 the forward most hole in the forward tabs of the seven inboard most W-1011-L/R Inboard Wing Ribs.
+
+Step 3: Rivet the forward flange of all the wing ribs except the W-1012-R Trimmed Outboard Wing Rib to the main spar assembly as shown in Figure 2. The outboard most wing rib will be riveted in assembly with the W-1009-R Leading Edge Rib in Section 17. When riveting the three most inboard wing ribs, attach the outboard most rib first and then work inboard.
+
+Rivet the forward most hole in the forward tabs of the seven inboard most W-1011-L/R Inboard Wing Ribs to the main spar assembly.
+
+Step 4: Remove the protective tape and adhesive residue from the main spar assembly.
+
+MAIN SPAR ASSEMBLY
+
+CLECO ONLY
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN426AD3-4,
+2 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN426AD3-4,
+2 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN426AD3-4,
+2 PLACES
+
+AN426AD3-4,
+2 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN426AD3-4,
+2 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-7,
+5 PLACES
+
+AN470AD4-5,
+4 PLACES
+
+AN470AD4-5,
+4 PLACES
+
+W-1010-R
+
+W-1011-L,
+5 PLACES
+
+W-1011-R NOTCHED
+
+FIGURE 2: RIVETING THE WING RIBS
+TO THE MAIN SPAR ASSEMBLY
+
+W-1011-R,
+5 PLACES
+
+W-1012-L,
+2 PLACES
+
+W-1012-R
+TRIMMED
+
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 14-5
+
+=== PAGE 14-6 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Install bolts in the upper and lower attach holes on the inboard ribs as indicated in Figure 1. Torque bolts per values given in Section 5V.
+
+[Left side bolt callouts, from inboard to outboard:]
+
+AN3-21A
+AN960-10
+AN365-1032
+
+AN3-20A
+AN960-10
+AN365-1032
+
+AN3-20A
+AN960-10
+AN365-1032
+
+AN3-17A
+AN960-10
+AN365-1032
+
+AN3-16A
+AN960-10
+AN365-1032
+
+AN3-15A
+AN960-10
+AN365-1032
+
+AN3-13A
+AN960-10
+AN365-1032
+
+AN3-12A
+AN960-10
+AN365-1032
+
+AN3-11A
+AN960-10
+AN365-1032
+
+W-1011-R NOTCHED
+
+W-1010-R
+
+AN3-16A
+AN960-10
+AN365-1032
+
+AN3-20A
+2X AN960-10
+AN365-1032
+
+W-1012-R
+TRIMMED
+
+W-1012-L,
+2 PLACES
+
+AN3-5A
+AN960-10
+AN365-1032
+
+AN3-6A
+AN960-10
+AN365-1032
+
+W-1011-R,
+5 PLACES
+
+AN3-7A
+AN960-10
+AN365-1032
+
+W-1011-L,
+5 PLACES
+
+AN3-11A
+AN960-10
+AN365-1032
+
+MAIN SPAR ASSEMBLY
+
+[Right side bolt callouts, from outboard to inboard:]
+
+AN3-5A
+AN960-10
+AN365-1032
+
+AN3-5A
+AN960-10
+AN365-1032
+
+AN3-6A
+AN960-10
+AN365-1032
+
+AN3-7A
+AN960-10
+AN365-1032
+
+AN3-10A
+AN960-10
+AN365-1032
+
+AN3-11A
+AN960-10
+AN365-1032
+
+AN3-13A
+AN960-10
+AN365-1032
+
+AN3-14A
+AN960-10
+AN365-1032
+
+AN3-15A
+AN960-10
+AN365-1032
+
+AN3-16A
+AN960-10
+AN365-1032
+
+AN3-16A
+AN960-10
+AN365-1032
+
+FIGURE 1: INSTALLING BOLTS THROUGH THE WING RIBS
+AND MAIN SPAR ASSEMBLY
+
+PAGE 14-6  RV-10  REVISION: 1  DATE: 07/24/14
