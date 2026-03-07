@@ -4,7 +4,7 @@
 
 ## Overview
 
-This page documents the tools, supplies, and workshop equipment used to build and maintain N720AK. It serves as a reference for what was purchased, where it came from, and what's useful to have on hand for ongoing maintenance.
+This page documents the tools, supplies, and workshop equipment used to build and maintain N720AK. It also collects condition inspection tips and lessons learned — access tricks, fastener notes, and reassembly gotchas that aren't in any manual.
 
 ## Specialty Aircraft Tools
 
@@ -147,6 +147,18 @@ Hardpoint kit for belly cargo pod. Correspondence with David Shelton (2015-2016)
 | Item | Notes |
 |------|-------|
 | Engine analysis subscription | N720AK Van's RV-10 |
+
+## Condition Inspection
+
+<!-- Future: full Appendix D inspection checklist will go here -->
+
+### Tips & Lessons Learned
+
+Hard-won notes on access, fasteners, and reassembly — things that aren't in any manual.
+
+#### Interior Panels
+
+- **Front seat pan panels — outboard bottom screw (pilot & copilot):** The outboard bottom screw on each front panel is partially blocked by the gear leg tube and the AeroSport plastic side panel. To install this screw without stripping it, pull back the plastic side panel first, then use a long screwdriver laid against the gear leg tube. Do NOT attempt to drive this screw with the plastic panel in place — you will strip the screw head.
 
 ## References
 
