@@ -1,422 +1,328 @@
-                                                                              VAN'S AIRCRAFT, INC.
+=== PAGE 34-1 ===
+VAN'S AIRCRAFT, INC.
 
+SECTION 34:
+BAGGAGE DOOR
 
+[Isometric drawing of baggage door assembly with the following part callouts:]
 
-SECTION 34:                                                         BAGGAGE DOOR LOCK
-                                                                    (LOCK AND HARDWARE SUPPLIED WITH
-                                                                    ES A-510-2K MAGNETO SWITCH - NOT INCLUDED IN KIT.
-                                                                    SEE VAN'S ACCESSORIES CATALOG)
+BAGGAGE DOOR LOCK
+(LOCK AND HARDWARE SUPPLIED WITH
+ES A-510-2K MAGNETO SWITCH - NOT INCLUDED IN KIT.
+SEE VAN'S ACCESSORIES CATALOG)
 
+F-1059B
+UPPER FRAME
 
+F-1059D
+LOCK BRACKET
 
-BAGGAGE                                    F-1059D
-                                                                               F-1059B
-                                                                               UPPER FRAME
+F-1062
+OR F-1062-1
+LOCK LATCH
 
+F-1059E
+SKIN
 
+F-1059A
+FORWARD FRAME
 
+F-1059C
+LOWER FRAME
 
-DOOR
-                                     LOCK BRACKET
+F-1060
+HINGE
 
+F-1059F
+CLOSE-OUT PANEL
 
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 34-1
 
+=== PAGE 34-2 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                   F-1059E
-                                                                                                   SKIN
-                           F-1062
-                       OR F-1062-1
-                      LOCK LATCH
+Step 1: Bend the F-1059B Upper Frame by hand as shown in Figure 1. The bend will form naturally between the notches.
 
+Step 2: Cleco the F-1059B Upper Frame to the F-1059E Skin as shown in Figure 1.
 
+[Figure 1 shows F-1059B clecoed to F-1059E:]
+F-1059E
+F-1059B
 
+FIGURE 1: LOCATING THE UPPER FRAME
 
-                                                                                             F-1059A
-                                                                                             FORWARD
-                                                                                             FRAME
+Step 3: Bend the F-1059C Lower Frame by hand as shown in Figure 2.
 
+Step 4: Cleco the F-1059C Lower Frame to the F-1059E Skin as shown in Figure 2. Cleco the tab on the lower frame to the inside (between the flanges) surface of the F-1059B Upper Frame web.
 
+[Figure 2 shows:]
+F-1059B
+F-1059E
+F-1059C
 
+FIGURE 2: LOCATING THE LOWER FRAME
 
-                                                                                            F-1060
-                                                          F-1059C
-                                                                                            HINGE
-                                                     LOWER FRAME
-            F-1059F
-   CLOSE-OUT PANEL
+Step 5: Cleco the F-1059A Forward Frame to the F-1059E Skin as shown in Figure 3. Cleco the end tabs of the forward frame to the inside surface of the F-1059B and C Upper and Lower Frame webs.
 
+Step 6: Cleco the F-1059D Lock Bracket to the F-1059E Skin as shown in Figure 3. Cleco the three flanges of the lock bracket to the web of the F-1059B Upper Frame.
 
+[Figure 3 shows:]
+F-1059E
+F-1059B
+F-1059D
+F-1059A
 
+FIGURE 3: LOCATING THE FORWARD FRAME AND LOCK BRACKET
 
-                                                                                  DATE: 07/24/14 REVISION: 1   RV-10   PAGE   34-1
-                      VAN'S AIRCRAFT, INC.                                                                  Step 5: Cleco the F-1059A Forward Frame to
-                                                                                                            the F-1059E Skin as shown in Figure 3. Cleco
-                                                                                                            the end tabs of the forward frame to the inside
-                                                                                                            surface of the F-1059B and C Upper and Lower
-                                                                                                            Frame webs.                                                                                  F-1059E
-  Step 1: Bend the F-1059B Upper                                                                                                                                     F-1059B
-  Frame by hand as shown in                                                                                 Step 6: Cleco the F-1059D Lock Bracket to the
-  Figure 1. The bend will form                                                                    F-1059E   F-1059E Skin as shown in Figure 3. Cleco the
-  naturally between the notches.                                                                            three flanges of the lock bracket to the web of
-                                                                                                            the F-1059B Upper Frame.
-  Step 2: Cleco the F-1059B Upper
-  Frame to the F-1059E Skin as
-  shown in Figure 1.                                                                                                                                   F-1059D
+Step 7: Cleco the F-1059F Close-Out Panel to the F-1059A, B, and C Frames as shown in Figure 4.
 
+Step 8: Final-Drill the 1/8" holes common to the F-1059F Close-Out Panel and the F-1059A, B, and C Frames using a #30 drill. Final-Drill the remaining 3/32" holes of all the parts using a #40 drill.
 
-                                                                                                                                                                                           F-1059A
+[Figure 4 shows:]
+F-1059E
+F-1059B
+F-1059D
+F-1059A
+F-1059C
+F-1059F
 
+FIGURE 4: LOCATING THE CLOSE-OUT PANEL
 
+PAGE 34-2  RV-10  REVISION: 0  DATE: 07/24/14
 
+=== PAGE 34-3 ===
+VAN'S AIRCRAFT, INC.
 
-                                                        F-1059B
+Step 1: Center the baggage door assembly in the cut-out prepared for it in the side of the fuselage. Mark the upper and lower extent of the F-1060 Hinge recess onto the F-1059E Skin, as shown in Figure 1.
 
+[Figure 1 shows baggage door assembly in fuselage cut-out:]
+HINGE RECESS
+MARK UPPER EXTENT OF HINGE RECESS
+MARK LOWER EXTENT OF HINGE RECESS
+F-1059E
 
+FIGURE 1: LOCATING THE HINGE RECESS ON THE BAGGAGE DOOR ASSEMBLY
 
+Step 2: Make the F-1060 Hinge from a length of AN257-P3 according to the dimensions given in Figure 2.
 
-                                                                                                                                                                           FIGURE 3: LOCATING THE
-                                                                                                                                                                             FORWARD FRAME AND
-                                                                                                                                                                                LOCK BRACKET
-                                                                             FIGURE 1: LOCATING
-                                                                              THE UPPER FRAME               Step 7: Cleco the F-1059F Close-Out Panel to the
-                                                                                                            F-1059A, B, and C Frames as shown in Figure 4.
-  Step 3: Bend the F-1059C Lower Frame
-  by hand as shown in Figure 2.
-                                                                                                            Step 8: Final-Drill the 1/8" holes common
-                                                                                                            to the F-1059F Close-Out Panel and the                                                         F-1059E
-  Step 4: Cleco the F-1059C Lower Frame
-                                                                                                            F-1059A, B, and C Frames using a #30 drill.
-  to the F-1059E Skin as shown in Figure 2.                                                                                                                               F-1059B
-                                                                                                            Final-Drill the remaining 3/32" holes of all
-  Cleco the tab on the lower frame to the
-  inside (between the flanges) surface of the                                                               the parts using a #40 drill.
-                                                         F-1059B                                                                                                                         F-1059D
-  F-1059B Upper Frame web.
+[Figure 2 shows F-1060 hinge dimensions:]
+1/4    1/4
+3/32 DIA., 17 PLACES
+1-1/8 TYP
+18-1/2
+1/4
 
+FIGURE 2: F-1060 HINGE
 
+Step 3: Remove the F-1059F Close-Out Panel from the baggage door assembly.
 
+Step 4: Place the F-1060 Hinge on the F-1059A Forward Frame, not more than 1/16" above the lower mark made in Step 1. With the center of the hinge-pin aligned with the edge of the F-1059E Skin, as shown in the blow-up of Figure 3, match-drill all the 3/32" holes of the hinge into the forward frame using a #40 drill. (Make sure there is at least a 0.025" gap between the hinge and the forward edge of the skin as shown in the blow-up. Trim the skin if necessary. The gap will prevent the skin from scraping paint off the hinge when the baggage door is opened and closed.)
 
-                                                                                                                                                                                                     F-1059A
+[Figure 3 shows match-drilling detail with blow-up:]
+F-1059E
+0.025
+F-1060
+ALIGN CENTER OF HINGE PIN WITH EDGE OF SKIN
+F-1059A
+F-1059E
+F-1059A
+F-1060
 
+FIGURE 3: MATCH-DRILLING THE FORWARD FRAME
 
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 34-3
 
+=== PAGE 34-4 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                   F-1059E
-                                                                                                                                                                                                         F-1059C
+Step 1: Completely disassemble the baggage door assembly, and then deburr the holes in all of the parts.
 
+Step 2: Machine countersink the holes in the F-1060 Hinge for the heads of AN426AD3 rivets.
 
-                                                                                                                                                           F-1059F
+Step 3: Dimple the #30 holes in the F-1059F Close-Out Panel and the corresponding holes in the underlying structure. Except for the #40 holes in the F-1059A Forward Frame which are common to the F-1060 Hinge, dimple all #40 holes in the remaining parts.
 
+Step 4: Prime the parts if/as desired.
 
-                                                                                    F-1059C
-                                           FIGURE 2: LOCATING
-                                            THE LOWER FRAME                                                                                                    FIGURE 4: LOCATING
-                                                                                                                                                              THE CLOSE-OUT PANEL
-PAGE   34-2   RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Center the baggage door assembly in the cut-out prepared for it in             Step 2: Make the F-1060 Hinge from a length of AN257-P3
-                                                                                                                                                               VAN'S AIRCRAFT, INC.
-the side of the fuselage. Mark the upper and lower extent of the F-1060                according to the dimensions given in Figure 2.
-Hinge recess onto the F-1059E Skin, as shown in Figure 1.
+NOTE: Refer to Figure 1 for part number references and rivet call-outs required for Steps 5-7.
 
+Step 5: Rivet the F-1060 Hinge to the F-1059A Forward Frame.
 
+Step 6: Rivet the F-1059A, B, and C Frames to the F-1059E Skin and to each other.
 
+Step 7: Rivet the F-1059D Lock Bracket to the F-1059E Skin and to the F-1059B Upper Frame.
 
-                                                                                                                                                      3/32 DIA.
-                                                                                                                                                      17 PLACES
+[Figure 1 shows riveting details:]
+F-1059B
+F-1059E
+AN426AD3-3.5, 6 PLACES
+AN426AD3-3.5, 7 PLACES
+AN426AD3-3.5, 6 PLACES
+AN426AD3-3.5, ALL F-1059E TO F-1059A, B, & C RIVETS
+F-1059D
+F-1059A
+F-1059C
+AN426AD3-3.5, ALL F-1060 TO F-1059A RIVETS
+F-1060
 
+FIGURE 1: RIVETING THE BAGGAGE DOOR
 
+Step 8: Install the Lock and the F-1062 Lock Latch as shown in Figure 2. (The lock and hardware, which is included with the ES A-510-2K Magneto Switch, is not supplied in the kit. They can be ordered from the Van's Accessories Catalog.) Be sure to install the lock in the Baggage Door Assembly so that a clockwise rotation of the key will lock the door as shown in Figures 3 and 4. Once the nut for the lock is tightened, bend up one of the tabs on the tabbed washer to prevent the nut from rotating. To prevent the screw from backing out, apply Locktite to the threads.
 
+[Figure 2 shows lock installation:]
+BAGGAGE DOOR ASSEMBLY
+F-1062 OR F-1062-1
+SCREW
+WASHER
+NUT
+TABBED WASHER
+LOCK
 
-                                       MARK UPPER EXTENT
- HINGE                                                                                                                                                           FIGURE 2: F-1060 HINGE
-                                       OF HINGE RECESS
-RECESS
-                                                                                       Step 3: Remove the F-1059F Close-Out Panel from the baggage door assembly.
+FIGURE 2: INSTALLING THE LOCK
 
-                                                                                       Step 4: Place the F-1060 Hinge on the F-1059A Forward Frame, not more than 1/16" above
-                                                                                                                                                                                                F-1059E
-                                                                                       the lower mark made in Step 1. With the center of the hinge-pin aligned with the edge of
-                                                                                       the F-1059E Skin, as shown in the blow-up of Figure 3, match-drill all the 3/32" holes of                    0.025
-                                                                                       the hinge into the forward frame using a #40 drill. (Make sure there is at least a 0.025"
-                                                                                       gap between the hinge and the forward edge of the skin as shown in the blow-up.
-                                                                                       Trim the skin if necessary. The gap will prevent the skin from scraping paint off
-                                                                                       the hinge when the baggage door is opened and closed.)                                                                  F-1060
-                                                                                                                                                                                                     ALIGN CENTER
-                                                                                                                                                                                                     OF HINGE PIN
-                                                                                                                                                                                                     WITH EDGE
-                                                                                                                                                     F-1059E                                         OF SKIN
+FIGURE 3: UNLOCKED POSITION
 
-                                                                                                                                                                                                   F-1059A
+FIGURE 4: LOCKED POSITION
 
+Step 9: Rivet the F-1059F Close-Out Panel to the F-1059A, B, and C Frames using the rivets called-out in Figure 5.
 
+[Figure 5 shows:]
+F-1059B
+CS4-4, ALL F-1059F TO F-1059A, B, & C RIVETS
+AN426AD3-3.5, ALL F-1059E TO F-1059A, B, & C RIVETS
+F-1059A
+F-1059F
+F-1059C
+F-1060
 
+FIGURE 5: RIVETING THE CLOSE-OUT PANEL
 
-                                          MARK LOWER EXTENT
-                                          OF HINGE RECESS
+PAGE 34-4  RV-10  REVISION: 1  DATE: 07/24/14
 
+=== PAGE 34-5 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Final-Drill #40 the holes in the F-1058 Hinge Frame which are common to the F-1070-L Mid Side Skin. Dimple these holes.
 
+Step 2: As shown in Figure 1, cleco the side flange of the F-1058 Hinge Frame to the F-1070-L Mid Side Skin. Cleco the top flange to the F-1034E Seatback Brace Gusset, the F-1034B Seatback Brace (not shown), and the F-1046-L Mid Fuse Longeron. Cleco the outboard hole in the bottom flange to the F-1022A-L Baggage Floor.
 
-                                                                             F-1059E
-                                                                                                                                                  F-1059A
+Step 3: Match-Drill #30 the inboard hole in the bottom flange of the F-1058 Hinge Frame into the F-1022A-L Baggage Floor, cleco this hole, then final-drill #30 the outboard hole.
 
-
-                                                                                                                                                                                         F-1060
-
-
-
-
-                                             FIGURE 1: LOCATING
-                                           THE HINGE RECESS ON THE
-                                                                                                          FIGURE 3: MATCH-DRILLING
-                                           BAGGAGE DOOR ASSEMBLY
-                                                                                                             THE FORWARD FRAME
-                                                                                                                                                                   DATE: 07/24/14 REVISION: 1     RV-10     PAGE   34-3
-                        VAN'S AIRCRAFT, INC.                                                                                           Step 8: Install the Lock and
-                                                                                                                                                                                                                        BAGGAGE DOOR
-                                                                                                                                                                                                                        ASSEMBLY
-                        Step 1: Completely disassemble the baggage door assembly, and then deburr the holes in all of the parts.       the F-1062 Lock Latch as
-                                                                                                                                       shown in Figure 2. (The lock                                                               F-1062
-                                                                                                                                       and hardware, which is                                                                     OR F-1062-1
-   Step 2: Machine countersink the holes in the F-1060 Hinge for the heads of AN426AD3 rivets.
-                                                                                                                                       included with the ES A-510-2K
-   Step 3: Dimple the #30 holes in the F-1059F Close-Out Panel and the corresponding holes in the underlying structure. Except for     Magneto Switch, is not
-   the #40 holes in the F-1059A Forward Frame which are common to the F-1060 Hinge, dimple all #40 holes in the remaining parts.       supplied in the kit. They can                                                                          SCREW
-                                                                                                                                       be ordered from the Van's
-   Step 4: Prime the parts if/as desired.                                                                                              Accessories Catalog.) Be sure
-                                                                                                                                       to install the lock in the                                                                            WASHER
-
-  NOTE: Refer to Figure 1 for part number references and rivet call-outs required for Steps 5-7.                                       Baggage Door Assembly so
-                                                                                                                                       that a clockwise rotation of the                                                                NUT                   FIGURE 3:
-   Step 5: Rivet the F-1060 Hinge to the F-1059A Forward Frame.                                                                        key will lock the door as shown                                                                                      UNLOCKED
-                                                                                                                                       in Figures 3 and 4. Once the                                                                  TABBED
-                                                                                                                                       nut for the lock is tightened,                                                                WASHER                  POSITION
-   Step 6: Rivet the F-1059A, B, and C Frames to the F-1059E Skin and to each other.
-                                                                                                                                       bend up one of the tabs on the                                                            LOCK
-   Step 7: Rivet the F-1059D Lock Bracket to the F-1059E Skin and to the F-1059B Upper Frame.                                          tabbed washer to prevent the
-                                                                                                                                       nut from rotating. To prevent
-                                                                                                                                       the screw from backing out,
-                                                                                  F-1059B                                              apply Locktite to the threads.
-
-                                                                                                                                                                                                                                                            FIGURE 4:
-                                                                                     F-1059E                                                                                                                                                                 LOCKED
-                                                                                                                                                                                                         FIGURE 2:
-                                                                                                                                                                                                                                                            POSITION
-                                                                                                                                                                                                    INSTALLING THE LOCK
-                                                                                                 AN426AD3-3.5
-                                                                                                 6 PLACES
-                                                                                                                                       Step 9: Rivet the F-1059F Close-Out Panel to the F-1059A, B, and C Frames using the rivets called-out in Figure 5.
-
-   AN426AD3-3.5
-      7 PLACES
-                                                                                                                                                                                                                                    F-1059B
-                                                                                                              AN426AD3-3.5                                 CS4-4
-                                                    AN426AD3-3.5
-                                                                                                              ALL F-1059E TO                      ALL F-1059F TO
-                                                    6 PLACES
-                                                                                                              F-1059A, B, & C                     F-1059A, B, & C
-                                                                                                              RIVETS                                      RIVETS
-
-
-
-
-              F-1059D
-                                                                        F-1059A
-
-
-
-
-                         F-1059C
-
-                                                                                                                                                                                                                                   F-1059A
-
-
-
-                                                                                                                                                         F-1059F
-
-
-                                                                                                                                                                                                                         F-1059C
-
-                                                                                                                              F-1060
-
-                                                                                    AN426AD3-3.5
-                             FIGURE 1: RIVETING THE                                 ALL F-1060 TO
-                                 BAGGAGE DOOR                                     F-1059A RIVETS                                                  FIGURE 5: RIVETING THE
-                                                                                                                                                     CLOSE-OUT PANEL
-PAGE   34-4    RV-10      REVISION: 1   DATE: 07/24/14
-Step 1: Final-Drill #40 the holes in the F-1058 Hinge Frame which are common to the F-1070-L Mid Side Skin. Dimple          Step 5: Place the Baggage Door Assembly in the fuselage cut-out as shown in
-                                                                                                                                                                                                                     VAN'S AIRCRAFT, INC.
-these holes.                                                                                                                Figure 2 (for clarity, the F-1034B Seatback Brace is not shown).
-
-Step 2: As shown in Figure 1, cleco the side flange of the F-1058 Hinge Frame to the F-1070-L Mid Side Skin. Cleco the      With the F-1060 Hinge against the F-1058 Hinge Frame, center the baggage door vertically in the fuselage cut-out.
-top flange to the F-1034E Seatback Brace Gusset, the F-1034B Seatback Brace (not shown), and the F-1046-L Mid Fuse          If the hinge interferes with the F-1070-L Mid Side Skin, the ends of the hinge can be filed until it clears.
-Longeron. Cleco the outboard hole in the bottom flange to the F-1022A-L Baggage Floor.
-                                                                                                                            Flush the baggage door with the outside of the fuselage. Duct tape can be used to hold the door in position, and use .063" shims to fill the gap
-Step 3: Match-Drill #30 the inboard hole in the bottom flange of the F-1058 Hinge Frame into the F-1022A-L Baggage          between the door skin and underlying structure. There is a .035" gap between the eyelets of the two hinge-halves. Slide the forward (free)
-Floor, cleco this hole, then final-drill #30 the outboard hole.                                                             hinge-half up the hinge pin to remove the gap, then tape it in place. This will prevent a .035" drop in the position of the baggage door when it is
-                                                                                                                            riveted in place.
 Step 4: Final-Drill #30 the holes in all the parts common to the two holes in the top flange of the F-1058 Hinge bracket.
-                                                                                                                            Step 6: With a grinder or belt sander, remove the excess blade from two clecos as shown in the cleco detail of Figure 2.
 
-                                                                                                                            Step 7: Using an angle drill, match-drill #40 the bottom most hole of the F-1058 Hinge Frame into the
-                                                                                                                            F-1060 Hinge. (Use a wedge between the two legs of the hinge to keep the forward leg against
-                                                                                                                            the hinge frame while drilling.) Cleco this hole, using one of the modified clecos from Step 6,                           REMOVE
-                                                                                                                            then match-drill a second hole as close as possible to the other end of the hinge while keeping                      EXCESS BLADE,
-                                                                                                                            the angle drill clear of the F-1034C-L Fuselage Bulkhead. Cleco this hole with the second                             SHADED AREA
-                                                                                                                            modified cleco, and recheck the alignment of the door.
+[Figure 1 shows hinge frame installation:]
+F-1046-L
+F-1070-L
+F-1034E
+F-1058
+F-1022A-L
+MATCH-DRILL
 
+FIGURE 1: CLECOING THE HINGE FRAME
 
+Step 5: Place the Baggage Door Assembly in the fuselage cut-out as shown in Figure 2 (for clarity, the F-1034B Seatback Brace is not shown).
 
+With the F-1060 Hinge against the F-1058 Hinge Frame, center the baggage door vertically in the fuselage cut-out. If the hinge interferes with the F-1070-L Mid Side Skin, the ends of the hinge can be filed until it clears.
 
-                                                                                                F-1046-L
+Flush the baggage door with the outside of the fuselage. Duct tape can be used to hold the door in position, and use .063" shims to fill the gap between the door skin and underlying structure. There is a .035" gap between the eyelets of the two hinge-halves. Slide the forward (free) hinge-half up the hinge pin to remove the gap, then tape it in place. This will prevent a .035" drop in the position of the baggage door when it is riveted in place.
 
-                                                                                                             F-1070-L
+Step 6: With a grinder or belt sander, remove the excess blade from two clecos as shown in the cleco detail of Figure 2.
 
-                                                             F-1034E
+Step 7: Using an angle drill, match-drill #40 the bottom most hole of the F-1058 Hinge Frame into the F-1060 Hinge. (Use a wedge between the two legs of the hinge to keep the forward leg against the hinge frame while drilling.) Cleco this hole, using one of the modified clecos from Step 6, then match-drill a second hole as close as possible to the other end of the hinge while keeping the angle drill clear of the F-1034C-L Fuselage Bulkhead. Cleco this hole with the second modified cleco, and recheck the alignment of the door.
 
+[Figure 2 shows baggage door fitting:]
+F-1060
+BAGGAGE DOOR ASSEMBLY
+F-1034C-L
+F-1058
+MATCH-DRILL THIS HOLE INTO HINGE
+REMOVE EXCESS BLADE, SHADED AREA
 
+FIGURE 2: FITTING THE BAGGAGE DOOR ASSEMBLY
 
-                                                                                                                                                                                                                                                               F-1060
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 34-5
 
+=== PAGE 34-6 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Remove the Baggage Door Assembly and the F-1058 Hinge Frame from the fuselage. Cleco the hinge frame to the F-1060 Hinge using the two holes drilled on Page 34-5, Step 7, then match-drill #40 the remaining holes of the hinge frame into the hinge. Deburr the holes of both parts.
 
+Step 2: Machine countersink the hinge for the heads of AN426AD3 rivets.
 
-                                                              F-1058                                                                                                 BAGGAGE
-                                                                                                                                                                        DOOR
-                                                                                                                                                                    ASSEMBLY
+Step 3: Rivet the F-1060 Hinge to the F-1058 Hinge Frame using the rivets called-out in Figure 1.
 
+Step 4: Attach 1/8" thick x 1/4" wide seal material (door and window weather strip tape can be used) to the F-1059E Skin about an 1/8" from the edges of the skin as shown in Figure 1.
 
-                                                                                                                                                                                                                                                        F-1034C-L
-                                                          F-1022A-L
+[Figure 1 shows hinge and seal installation:]
+F-1059E
+AN426AD3-3.5, 17 PLACES
+SEAL (NOT SUPPLIED IN KIT)
+F-1058
+F-1060
 
+FIGURE 1: ATTACHING THE HINGE FRAME AND SEAL
 
+Step 5: Separate the F-1058 Hinge Frame from the baggage door assembly by removing the hinge pin, then rivet the hinge frame to the fuselage using the rivets called-out in Figure 2 (the F-1034B Seatback Brace is not shown).
 
+Step 6: Attach the Baggage Door Assembly to the F-1058 Hinge Frame by reinstalling the hinge pin.
 
-                                                                                                                                                                                                            F-1058
-                                                                                                                                                                                                                                                          MATCH-DRILL
-                                                                                                                                                                                                                                                          THIS HOLE INTO
-                                                                                                                                                                                                                                                          HINGE
+Step 7: Attach the F-1061 Striker Plate to the F-1031 Upper Baggage Door Seal Channel using the hardware shown in Figure 2. Adjust the striker plate as needed to flush the aft end of the Baggage Door Assembly with the fuselage when the door is closed and locked.
 
+[Figure 2 shows final installation:]
+F-1031
+F-1061
+AN470AD4-5
+AN470AD4-7
+F-1070-L
+AN525-10R7, 2 PLACES
+AN426AD3-3.5, ALL F-1058 TO F-1070-L RIVETS
+F-1058
+LP4-3
 
+FIGURE 2: FINAL INSTALLATION OF THE BAGGAGE DOOR ASSEMBLY
 
-                       FIGURE 1: CLECOING                                                                                                               FIGURE 2: FITTING THE
-                                                                                         MATCH-DRILL
-                         THE HINGE FRAME
-                                                                                                                                                      BAGGAGE DOOR ASSEMBLY
-                                                                                                                                                                                                                           DATE: 07/24/14 REVISION: 0     RV-10     PAGE   34-5
-                          VAN'S AIRCRAFT, INC.                                                                                      Step 5: Separate the F-1058 Hinge Frame from the baggage door assembly by removing the hinge pin, then rivet the hinge frame to the
-                                                                                                                                    fuselage using the rivets called-out in Figure 2 (the F-1034B Seatback Brace is not shown).
+PAGE 34-6  RV-10  REVISION: 0  DATE: 07/24/14
 
-                                                                                                                                    Step 6: Attach the Baggage Door Assembly to the F-1058 Hinge Frame by reinstalling the hinge pin.
-       Step 1: Remove the Baggage Door Assembly and the F-1058 Hinge Frame from the fuselage. Cleco the hinge frame to the
-       F-1060 Hinge using the two holes drilled on Page 34-5, Step 7, then match-drill #40 the remaining holes of the hinge frame   Step 7: Attach the F-1061 Striker Plate to the F-1031 Upper Baggage Door Seal Channel using the hardware shown in Figure 2. Adjust
-       into the hinge. Deburr the holes of both parts.                                                                              the striker plate as needed to flush the aft end of the Baggage Door Assembly with the fuselage when the door is closed and locked.
+=== PAGE 34-07 ===
+VAN'S AIRCRAFT, INC.
 
-       Step 2: Machine countersink the hinge for the heads of AN426AD3 rivets.
+Step 1: Cleco the F-1081 Left Baggage Cover to the F-1034C-L Fuselage Bulkhead and the F-1058 Hinge Frame as shown in Figure 1.
 
-       Step 3: Rivet the F-1060 Hinge to the F-1058 Hinge Frame using the rivets called-out in Figure 1.
+Step 2: Match-Drill #30 the four 1/8" holes in the top of the F-1081 Left Baggage Cover into the F-1034C-L Fuselage Bulkhead, and the three 1/8" holes in the flange of the left baggage cover into the F-1022A-L Baggage Floor.
 
-       Step 4: Attach 1/8" thick x 1/4" wide seal material (door and window weather strip tape can be used) to the F-1059E Skin
-       about an 1/8" from the edges of the skin as shown in Figure 1.
-
-
-
-
-                                                                                    F-1059E                                                                         F-1031
-
-                                                                                                           AN426AD3-3.5
-                                                                                                           17 PLACES                                                   F-1061                                                                AN470AD4-5
-                                                                                                                                                                                                                                             AN470AD4-7
-
-                                                                                                                                                                                                                                                           F-1070-L
-
-
-
-
-                                                                                                                                                                     AN525-10R7
-                                                                                                                                                                     2 PLACES
-
-
-                                                                                                                                                                                                                                                    AN426AD3-3.5
-                                                                                                                                                                                                                                                    ALL F-1058 TO
-                                                                                                                                                                                                                                                    F-1070-L RIVETS
-
-
-                                                                                                                         F-1058
-
-
-
-
-                                    SEAL                                                                                                                                                                                                   F-1058
-                    (NOT SUPPLIED IN KIT)
-
-
-                                                                                                             F-1060
-
-
-
-                                                                                                                                                                                                                                        LP4-3
-                                                                                                                                                                             FIGURE 2: FINAL INSTALLATION OF
-                                                                                                                                                                              THE BAGGAGE DOOR ASSEMBLY
-                                                    FIGURE 1: ATTACHING THE HINGE
-                                                           FRAME AND SEAL
-PAGE   34-6       RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Cleco the F-1081 Left Baggage Cover to the F-1034C-L Fuselage Bulkhead and the F-1058 Hinge Frame as shown in               Step 4: Rivet the F-1081 Left Baggage Cover to the F-1058 Hinge Frame
-                                                                                                                                                                                                                VAN'S AIRCRAFT, INC.
-Figure 1.                                                                                                                           and F-1022A-L Baggage Floor using LP4-3 blind rivets.
-
-Step 2: Match-Drill #30 the four 1/8" holes in the top of the F-1081 Left Baggage Cover into the F-1034C-L Fuselage Bulkhead, and   Rivet the top half of the left baggage cover to the F-1034C-L Fuselage Bulkhead using AN470AD4-4 rivets.
-the three 1/8" holes in the flange of the left baggage cover into the F-1022A-L Baggage Floor.
-                                                                                                                                    Step 5: Rivet the nutplates called-out in Figure 2 to the F-1034C-L Fuselage Bulkhead and the F-1081 Left Baggage Cover.
 Final-Drill #30 the holes common to the left baggage cover and the F-1058 Hinge Frame.
 
 Final-Drill #40 the nutplate attachment rivet holes common to the left baggage cover and the fuselage bulkhead.
 
-Step 3: Remove the F-1081 Left Baggage Cover, deburr the holes in all associated parts, then dimple the #40 holes in the left
-baggage cover and the F-1034C-L Fuselage Bulkhead.
+Step 3: Remove the F-1081 Left Baggage Cover, deburr the holes in all associated parts, then dimple the #40 holes in the left baggage cover and the F-1034C-L Fuselage Bulkhead.
 
+[Figure 1 shows:]
+F-1081
+F-1034C-L
+F-1058
+F-1022A-L
 
+FIGURE 1: CLECOING THE LEFT BAGGAGE COVER
 
+Step 4: Rivet the F-1081 Left Baggage Cover to the F-1058 Hinge Frame and F-1022A-L Baggage Floor using LP4-3 blind rivets.
 
-                                                                                                                                                                                                                      F-1034C-L
-                                  F-1081                                           F-1034C-L
+Rivet the top half of the left baggage cover to the F-1034C-L Fuselage Bulkhead using AN470AD4-4 rivets.
 
+Step 5: Rivet the nutplates called-out in Figure 2 to the F-1034C-L Fuselage Bulkhead and the F-1081 Left Baggage Cover.
 
-                                                                                      F-1058
+[Figure 2 shows:]
+F-1034C-L
+F-1022A-L
+K1000-08, 4 PLACES
+AN426AD3-4, 2 PLACES PER NUTPLATE
+F-1081
 
+FIGURE 2: RIVETING THE LEFT BAGGAGE COVER
 
-                    F-1022A-L
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 34-07
 
-                                                                                                                                                         F-1022A-L
+=== PAGE 34-08 ===
+VAN'S AIRCRAFT, INC.
 
+THIS PAGE INTENTIONALLY LEFT BLANK
 
-
-                                                                                                                                                                                                                               K1000-08
-                                                                                                                                                                                                                               4 PLACES
-
-                                                                                                                                                                                                                                  AN426AD3-4
-                                                                                                                                                                                                                                  2 PLACES PER NUTPLATE
-
-
-
-
-                                                                                                                                                                                           F-1081
-
-
-
-
-                             FIGURE 1: CLECOING THE LEFT                                                                                                             FIGURE 2: RIVETING THE LEFT
-                                  BAGGAGE COVER                                                                                                                           BAGGAGE COVER
-                                                                                                                                                                                                                      DATE:07/24/14 REVISION:0   RV-10     PAGE   34-07
-                   VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                      THIS PAGE INTENTIONALLY LEFT BLANK
-
-
-
-
-PAGE   34-08   RV-10   REVISION: 0   DATE: 07/24/14
-
+PAGE 34-08  RV-10  REVISION: 0  DATE: 07/24/14

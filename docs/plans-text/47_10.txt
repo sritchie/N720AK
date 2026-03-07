@@ -1,62 +1,210 @@
-                                                                                                                                                                                             VAN'S AIRCRAFT, INC.
+=== PAGE 47-1 ===
+SECTION 47:
+SPINNER
+& COWLING
+VAN'S AIRCRAFT, INC.
+
+[Title page - isometric view of aircraft nose section with spinner and cowling components labeled]
+
+COWL-10-01A
+OIL DOOR
+
+COWL-10-02
+OIL DOOR HINGE
+
+S-601-1
+SPINNER
+
+COWL-10 TOP IO-540
+TOP COWL
+
+COWL-10 BOT IO-540
+BOTTOM COWL
+
+WD-1017
+NOSE GEAR LEG
+ASSEMBLY
+
+COWL-10 -04-L
+SIDE HINGE PIN
+
+DATE: 10/13/04  REVISION: 0  RV-10  PAGE 47-1
+
+=== PAGE 47-2 ===
+VAN'S AIRCRAFT, INC.
+
+CAUTION: Before continuing, read the
+documentation concerning propeller
+installation included with your
+propeller and engine.
+
+Step 1: As shown in Figure 1, locate the S-602B
+Doubler Ring on the S-602-1 Spinner Back Plate
+using bolts through the four holes in both parts.
+
+Match-Drill #30 all of the 1/8" holes of the doubler
+ring into the spinner back plate and cleco.
+
+Step 2: Trace the inside perimeter of the S-602B
+Doubler Ring onto the S-602-1 Spinner Back Plate.
+Remove the doubler ring, then cut along the trace
+to remove the hatched area (shown in Figure 1)
+from the spinner back plate.
+
+Step 3: Deburr the holes and edges of both parts,
+prime if/as desired, then rivet them together using
+the rivets called-out in Figure 1.
+
+AN470AD4-5
+TYP.
+
+S-602-1
+
+S-602B
+
+REMOVE
+HATCHED
+AREA
+
+FIGURE 1: THE SPINNER
+BACK PLATE ASSEMBLY
+
+Step 4: Secure the Spinner Back Plate Assembly
+and the S-603 Spinner Front Plate to the propeller
+hub as shown in Figure 2. The spacers and
+hardware used to secure the Spinner Back Plate
+Assembly are supplied with the propeller. The
+four bolts used to secure the spinner front plate
+need to be safety wired when they are
+permanently installed. Torque according to the
+propeller manufacturers instructions.
+
+AN4H4A
+4 PLACES
+AN960-416
+3 PLACES/ BOLT
+
+S-603
+
+PROPELLER HUB
+
+SPACER
+4 PLACES
+
+WASHER
+8 PLACES
+
+SPINNER BACK PLATE
+ASSEMBLY
+
+LOCKNUT
+4 PLACES
+
+FIGURE 2: SECURING
+THE SPINNER PLATES
+
+Step 5: Cut a piece of single-ply cardboard (shoe box type) to
+use as a template for locating the propeller blade cut-outs in the
+S-601-1 Spinner. Lay the cardboard over the S-603 Spinner
+Front Plate and the Spinner Back Plate Assembly as shown
+in Figure 3.
+
+Make a cut-out in the cardboard that fits the contour of the
+propeller blade and that extends down both sides of the
+propeller blade perpendicular to the Spinner Back Plate
+Assembly flange. Once the cut-out is made and fits the
+contour well, mark and trim the cardboard along the
+flange edge of the Spinner
+Back Plate Assembly.
+
+S-603
+
+CARDBOARD
+
+TRIM FLUSH
+WITH FLANGE
+
+SPINNER BACK
+PLATE ASSEMBLY
+
+FIGURE 3: MAKING A
+CARDBOARD TEMPLATE
+
+Step 6: Mark a point on the edge of the S-601-1 Spinner, then mark a second
+point on the edge 180 degrees from the first point. (A good way to locate the second
+mark is to measure the circumference of the spinner edge and place the second
+mark at a distance which is a half circumference away from the first mark.)
+
+Step 7: Lay the cardboard template on the S-601-1 Spinner
+with the trimmed edge of the template flush with the edge
+of the spinner. As shown in Figure 4, align a corner of
+the template with one of the marks made on the
+spinner in Step 6, then trace the template cut-out
+onto the spinner. Align the corner of the template
+with the second mark on the spinner, and trace
+the cut-out. It doesn't matter which corner of
+the template is used to locate it on the
+marks as long as the same one is used
+for both marks.
+
+Step 8: Trim the S-601-1 Spinner
+along the traces made in Step 7.
+
+S-601-1
+
+CARDBOARD
+
+LOCATE CORNER OF TEMPLATE
+ON MARKS MADE ON SPINNER
+
+FIGURE 4: TRACING
+THE CUT OUT
+
+PAGE 47-02  RV-10  REVISION: 0  DATE: 10/13/04
+
+=== PAGE 47-3 ===
+VAN'S AIRCRAFT, INC.
+
 NOTE: If your spinner is opaque, refer to Section 5.18
 MATCH-DRILLING OPAQUE FIBERGLASS PARTS for help
-                                                                                                S-603                 Step 8: Machine countersink the holes
 with locating the spinner front plate underneath the spinner.
-                                                                                                                      drilled in the previous step for the heads of
-Step 1: Slide the S-601-1 Spinner onto the propeller hub (tape                                                        AN426AD3 rivets.
-                                                                                                    S-601-1
+
+Step 1: Slide the S-601-1 Spinner onto the propeller hub (tape
 around the propeller blades to protect them from being scratched
-                                                                                                                      Machine countersink the six #30 holes in
-by the spinner). Progressively trim the cut-outs of the spinner until                                  SPINNER        both S-1001 Gap Fillers for the heads of                                                                           S-601-1
-it clears the propeller blades, through all blade angles, by a 1/16"                                BACK PLATE        AN426AD4 rivets.
-to 1/8" as shown in Figure 1. Be sure the spinner is seated firmly                                   ASSEMBLY
+by the spinner). Progressively trim the cut-outs of the spinner until
+it clears the propeller blades, through all blade angles, by a 1/16"
+to 1/8" as shown in Figure 1. Be sure the spinner is seated firmly
 on the propeller hub. When this is the case, the spinner will be in
-                                                                                                                      Step 9: Deburr all holes drilled, then
 contact with the Spinner Back Plate Assembly (any overhang of
-                                                                                                                      rivet the nutplates called-out in Figures                                                   5/8
-the spinner beyond the Spinner Back Plate Assembly is trimmed                                                                                                                                                                             S-1002
-                                                                                                                      1 and 2 to the Spinner Back Plate
+the spinner beyond the Spinner Back Plate Assembly is trimmed
 after the spinner is drilled and clecoed in place).
-                                                                                                                      Assembly, the S-603 Spinner Front                                                                  5/8
-                                                                                                                      Plate, and the S-1002
+
 Step 2: Mark the locations for the six screws used to secure
-                                                                                                                      Backing Plates.
 the S-601-1 Spinner to the S-603 Spinner Front Plate, and
 mark the locations for the fourteen screws used to secure the
-                                                                                                                      Step 10: Rivet the S-1002 Backing
-spinner to the Spinner Back Plate Assembly. Locate the                                                                                                                S-1001
-                                                                                                                      Plate to the S-1001 Gap Filler,
+spinner to the Spinner Back Plate Assembly. Locate the
 screws approximately as shown in Figure 1.
-                                                                                                                      then rivet the gap filler to the
-                                                                                                                      Spinner Back Plate Assembly.
+
 Step 3: Hold the S-601-1 Spinner in place by clamping
 it to the flange of the Spinner Back Plate Assembly.
-                                                                                                                      Step 11: Secure the S-601-1
 Using a #30 bit, drill pilot holes for the screws that
-                                                                                                                      Spinner to the S-603 Spinner
 secure the spinner to the S-603 Spinner Front Plate.
-                                                                                                                      Front Plate, the Spinner Back
 Cleco while drilling.
-                                                                                                                      Plate Assembly, and to the                  AN426AD4-5                                                    AN526C832R8
-                                                                                                                      S-1002 Backing Plate using                    6 PLACES                                                    5610-18-31
+
 Drill pilot holes for the screws that secure the
-                                                                                                                      the screws and washers                                                                                    K1000-08
 spinner to the Spinner Back Plate Assembly.
-                                                                                                                      called-out in Figures 1 and 2.                                                                            2X AN426AD3-4
 To prevent "pillowing" of the spinner between
 the screws, start drilling midway between the
 propeller blade cut-outs working outward
-toward the cut-outs.                                                                                                                                                           FIGURE 2: SECURING THE GAP FILLER
-                                                                SPINNER                            AN526C832R8
-Step 4: Trim any overhang of the S-601-1 Spinner              BACK PLATE                           5610-18-31                Step 12: As shown in Figure 3, attach the propeller to the
-beyond the Spinner Back Plate Assembly. A file                                                 20X
-                                                               ASSEMBLY                            K1000-08                  engine according to the propeller manufacturers instructions.
-works well here.                                                                                   2X AN426AD3-4
-                                                              S-601-1
+toward the cut-outs.
+
+Step 4: Trim any overhang of the S-601-1 Spinner
+beyond the Spinner Back Plate Assembly. A file
+works well here.
+
 Step 5: From AS3-063 aluminum sheet, make two
 S-1001 Gap Fillers and two S-1002 Backing Plates
-to fit as shown in Figure 2. Once again, make sure                                                            S-603
+to fit as shown in Figure 2. Once again, make sure
 there is a 1/16" to 1/8" clearance between the
 propeller blade and gap fillers.
 
@@ -79,323 +227,707 @@ Backing Plate.
 Step 7: Remove the S-601-1 Spinner. Drill #40 holes
 in the Spinner Back Plate Assembly, the S-603 Spinner
 Front Plate, and the S-1002 Backing Plate for the rivets
-used to attach the nutplates called-out in Figures 1 and 2.             FIGURE 1: SECURING THE SPINNER
-                                                                                                                                 FIGURE 3: ATTACHING THE PROPELLER
-                                                                                                                                                                                              DATE: 12/02/16 REVISION:   1     RV-10   PAGE:   47-03
-                        VAN'S AIRCRAFT, INC.
-                                                                                                                                         Step 5: Clean any excess resin that may have cured along the flange joggle on the bottom cowl. Remove abnormal glass and resin
-                                                                                                                                         buildup from the inside surface of the top cowl (see Figure 4). Sand down the corners of the flange on the bottom cowl (see Figure
-                                                                                                                                         3) until the top cowl can fit into place (see Figure 5).
+used to attach the nutplates called-out in Figures 1 and 2.
 
-   Step 1: Lay a straight edge across the spinner opening in the top cowl.
-   Adjust the strait edge up and down until the width of the spinner
-   opening is twice its height. Rotate the straight edge until the outboard
-   air inlet heights match. When both of these criteria are met, mark a trim
-   line across all forward portions of the top cowl. See Figure 1.
+S-603
 
-   Step 2: Trim the excess material away form the lower edge of the top
-   cowl spinner opening and inboard side of the air inlets.
+S-601-1
 
+SPINNER
+BACK PLATE
+ASSEMBLY
 
+AN526C832R8
+5610-18-31
+K1000-08
+2X AN426AD3-4
 
+20X
 
-                                                                       R
+S-603
 
+SPINNER
+BACK PLATE
+ASSEMBLY
 
+S-601-1
 
-                                                                      2R
-                                  AIR                                                    AIR
-                                 INLET                                                  INLET
-                                                          STRAIGHT EDGE                                                                                                   FIGURE 3: PREPPING
-                                HEIGHT                                                 HEIGHT                                                                                                                        FIGURE 4: PREPPING
-                                                                                                                                                                          THE BOTTOM COWL
-                                         FIGURE 1: TRIMMING THE TOP COWL                                                                                                                                               THE TOP COWL
+FIGURE 1: SECURING THE SPINNER
 
-   Step 3: Lay a straight edge across the spinner opening in the bottom cowl, see Figure 2. Place the straight edge against the
-   flange joggles in the spinner opening, see Figure 3. Mark a trim line across the forward outboard portions of the air inlets in the   Step 6: Fit the top and bottom cowl halves together as shown in Figure 5. Using the dimensions in Figure 5, evenly trim the aft
-   bottom cowl.                                                                                                                          edge of the air inlets.
+Step 8: Machine countersink the holes
+drilled in the previous step for the heads of
+AN426AD3 rivets.
 
-  Step 4: Using the trim lines marked out in Step 1 and Step 3, trim the excess material away from both cowls near the outboard          Step 7: Clamp the top and bottom cowls together as shown in Figure 5. Of the three hole pattern shown in Figure 5, mark the
-  side of the air inlets just enough to allow the top and bottom cowl halves to be slipped together. Do not trim the excess              location of the forward most hole on both sides of the top cowl spinner opening. Drill #40 then cleco the forward most hole only.
-  material along the sides of the cowls (shown as hatched areas in Figure 1 and Figure 2) at this time.
+Machine countersink the six #30 holes in
+both S-1001 Gap Fillers for the heads of
+AN426AD4 rivets.
 
-               EXCESS                                                                         STRAIGHT EDGE
-              MATERIAL
+Step 9: Deburr all holes drilled, then
+rivet the nutplates called-out in Figures
+1 and 2 to the Spinner Back Plate
+Assembly, the S-603 Spinner Front
+Plate, and the S-1002
+Backing Plates.
 
+Step 10: Rivet the S-1002 Backing
+Plate to the S-1001 Gap Filler,
+then rivet the gap filler to the
+Spinner Back Plate Assembly.
 
+Step 11: Secure the S-601-1
+Spinner to the S-603 Spinner
+Front Plate, the Spinner Back
+Plate Assembly, and to the
+S-1002 Backing Plate using
+the screws and washers
+called-out in Figures 1 and 2.
 
+S-601-1
 
-                                                                                                                                                                                                CENTER THIS HOLE                                                  CLECO
-                                                                                                                                                                                                BETWEEN THE FWD
-                                         FIGURE 2: TRIMMING THE BOTTOM COWL                                                                                                                        AND AFT HOLES
-                                                                                                                                                                                        FIGURE 5: FASTENER LOCATIONS
-PAGE   47-4     RV-10      REVISION: 0   DATE: 10/13/04
-                                                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
+5/8
+
+S-1002
+
+5/8
+
+S-1001
+
+AN426AD4-5
+6 PLACES
+
+AN526C832R8
+5610-18-31
+K1000-08
+2X AN426AD3-4
+
+FIGURE 2: SECURING THE GAP FILLER
+
+Step 12: As shown in Figure 3, attach the propeller to the
+engine according to the propeller manufacturers instructions.
+
+FIGURE 3: ATTACHING THE PROPELLER
+
+DATE: 12/02/16  REVISION: 1  RV-10  PAGE: 47-03
+
+=== PAGE 47-4 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Lay a straight edge across the spinner opening in the top cowl.
+Adjust the strait edge up and down until the width of the spinner
+opening is twice its height. Rotate the straight edge until the outboard
+air inlet heights match. When both of these criteria are met, mark a trim
+line across all forward portions of the top cowl. See Figure 1.
+
+Step 2: Trim the excess material away form the lower edge of the top
+cowl spinner opening and inboard side of the air inlets.
+
+STRAIGHT EDGE
+
+FLANGE
+JOGGLE
+
+2R
+
+R
+
+EXCESS
+MATERIAL
+
+AIR
+INLET
+HEIGHT
+
+STRAIGHT EDGE
+
+AIR
+INLET
+HEIGHT
+
+FIGURE 1: TRIMMING THE TOP COWL
+
+Step 3: Lay a straight edge across the spinner opening in the bottom cowl, see Figure 2. Place the straight edge against the
+flange joggles in the spinner opening, see Figure 3. Mark a trim line across the forward outboard portions of the air inlets in the
+bottom cowl.
+
+Step 4: Using the trim lines marked out in Step 1 and Step 3, trim the excess material away from both cowls near the outboard
+side of the air inlets just enough to allow the top and bottom cowl halves to be slipped together. Do not trim the excess
+material along the sides of the cowls (shown as hatched areas in Figure 1 and Figure 2) at this time.
+
+EXCESS
+MATERIAL
+
+STRAIGHT EDGE
+
+FIGURE 2: TRIMMING THE BOTTOM COWL
+
+Step 5: Clean any excess resin that may have cured along the flange joggle on the bottom cowl. Remove abnormal glass and resin
+buildup from the inside surface of the top cowl (see Figure 4). Sand down the corners of the flange on the bottom cowl (see Figure
+3) until the top cowl can fit into place (see Figure 5).
+
+SAND DOWN
+CORNERS
+AS REQ'D
+
+REMOVE
+EXCESS
+MATERIAL
+FROM INSIDE
+OF CORNERS
+
+FIGURE 3: PREPPING
+THE BOTTOM COWL
+
+FIGURE 4: PREPPING
+THE TOP COWL
+
+Step 6: Fit the top and bottom cowl halves together as shown in Figure 5. Using the dimensions in Figure 5, evenly trim the aft
+edge of the air inlets.
+
+Step 7: Clamp the top and bottom cowls together as shown in Figure 5. Of the three hole pattern shown in Figure 5, mark the
+location of the forward most hole on both sides of the top cowl spinner opening. Drill #40 then cleco the forward most hole only.
+
+CLAMP,
+2 PLACES
+
+TOP
+COWL
+
+3/8
+TYP.
+
+1 1/8
+
+3 1/2
+
+1/2
+
+2
+
+BOTTOM
+COWL
+
+CENTER THIS HOLE
+BETWEEN THE FWD
+AND AFT HOLES
+
+CLECO
+
+FIGURE 5: FASTENER LOCATIONS
+
+PAGE 47-4  RV-10  REVISION: 0  DATE: 10/13/04
+
+=== PAGE 47-5 ===
+VAN'S AIRCRAFT, INC.
+
 Step 1: Carefully mark a line three inches back from the forward edge of the F-1069-L and -R Fwd Side Skins, F-1071 Fwd Fuse
 top Skin and F-1072 Fwd Fuse bottom Skin as shown in Figure 1.
-                                                                                                                                          Step 7: Cut a slot centered on the scoop of the bottom cowl per the dimensions given in Figure 2.
+
 Step 2: Tape 1/8 inch thick spacers to the forward face of the top cowl in at least three locations as shown in Figure 1.
 
 Step 3: Level the aircraft laterally. Place the top cowl on the aircraft, centering it behind the spinner. Hang plumb bobs from
 symmetrical points on the forward edge of the top cowl air inlets to the floor as shown in Figure 1. When the length of the plumb
-bobs is equal, the top cowl is level with the aircraft. Make a reference mark on the aft edge of the top cowl that extends onto the                                                                                     1 3/4
+bobs is equal, the top cowl is level with the aircraft. Make a reference mark on the aft edge of the top cowl that extends onto the
 F-1071 Fwd Fuse top Skin.
 
 Step 4: Draw a line onto the top cowl three inches forward of the line made in Step 1. This line corresponds to the the forward edge
 of the F-1071 Fwd Fuse top Skin. Extend this line approximately 15 inches to either side of the aircraft centerline.
 
-Step 5: Remove the top cowl and from fifteen inches on either side of the centerline, trim the excess material aft of the line drawn in                                                             16 1/4
+Step 5: Remove the top cowl and from fifteen inches on either side of the centerline, trim the excess material aft of the line drawn in
 Step 4. Reinstall the cowl. The upper edge of the top cowl should drop down onto both F-1001N Cowl Attach Hinges. If further
 trimming is required remove the top cowl and slowly remove material with a long straight sanding block.
 
 Step 6: Mark the forward edge of the skins onto the sides of the top cowl using the same method used in Step 4. Remove the top
 cowl and trim away the remaining excess material along the sides.
 
+F-1071
+REFERENCE MARK
 
+EXCESS MATERIAL,
+2 PLACES
 
+TOP COWL
 
-                                     REFERENCE MARK
+1/8 SPACERS
+TAPED ON,
+3 PLACES MIN.
 
+REFERENCE
+LINE
 
+F-1069-L
 
+PLUMB BOB,
+2 PLACES
 
-                                                                                                                                                               FIGURE 2: CUTTING A SLOT IN THE BOTTOM COWL SCOOP
+FIGURE 1: FITTING THE TOP COWL
 
-                                                                                                                                          Step 8: Fit the COWL, 10 INLET LEFT and RIGHT
-                                                                                                                                          (called inlet ramps throughout the remainder of this
-                                                                                                                                          section) to the top cowl, trimming and sanding as                                                                  DRILL #40
-                                                                                                                                          necessary for a good fit. See Figure 3.                                                                            AND CLECO
-                                                                                                                                                                                                                                                             AS REQ'D
-                                                                                                                                          Step 9: Drill #40 and cleco the inlet ramps in place.
-                                                                                                                                          (The holes can be easily filled when finishing the
-                                                                                                                                          outside surface of the cowl). See Figure 3. Remove
-                                                                                                                                          the inlet ramps.
+Step 7: Cut a slot centered on the scoop of the bottom cowl per the dimensions given in Figure 2.
 
-                                                                                                                                          NOTE: Left inlet ramp must be trimmed to clear
-                                                                                                                                          prop governor.
+SLOT CENTERED
+ON SCOOP
 
-                                                                                                                                          Step 10: Sand the area to be bonded on both the top
-                                                                                                                                          cowl and the inlet ramps with 40-60 grit sandpaper.
-                                                                                                                                          Sand away all the glossy surface of the resin on the
-                                                                                                                                          inlet ramps.
+BOTTOM COWL
 
-                                                                                                                                          Step 11: Use epoxy resin to bond the inlet ramps to
-                                                                                                                                          the top cowl. Cleco the inlet ramps to the top cowl
-                                                                                                           F-1069-L                       until the resin has cured. Sand away any excess
-                                                                                                                                          resin that may have oozed out of place. Fill the
-                                                                                                                                          joggle formed by the air inlets aft edge with body
-                                                                                                                                          filler. Sand and fill this area until there is a smooth
-                                                                                                                                          transition between the air inlets and the inlet ramps.
+1 3/4
 
+16 1/4
 
+R 7/8
 
+FIGURE 2: CUTTING A SLOT IN THE BOTTOM COWL SCOOP
 
-                                                                                                                                                                                                               FIGURE 3: INSTALLING THE INLET RAMPS
-                                     FIGURE 1: FITTING THE TOP COWL
-                                                                                                                                                                                                                             DATE: 09/15/06 REVISION: 0   RV-10   PAGE   47-5
-                       VAN'S AIRCRAFT, INC.
+Step 8: Fit the COWL, 10 INLET LEFT and RIGHT
+(called inlet ramps throughout the remainder of this
+section) to the top cowl, trimming and sanding as
+necessary for a good fit. See Figure 3.
 
-                           NOTE: For Step 1 through Step 12 refer to Figure 1.
+Step 9: Drill #40 and cleco the inlet ramps in place.
+(The holes can be easily filled when finishing the
+outside surface of the cowl). See Figure 3. Remove
+the inlet ramps.
 
-   Step 1: Tape 1/8 inch thick spacers to the forward face of the bottom cowl in at least three locations.
+NOTE: Left inlet ramp must be trimmed to clear
+prop governor.
 
-   Step 2: Fit the bottom cowl to the aircraft. Slip the excess material along the sides of the bottom cowl (top edge) over the excess
-   material along the lower edge of the top cowl. If required slightly increase the width of the slot created on Page 47-5, Step 7.
+Step 10: Sand the area to be bonded on both the top
+cowl and the inlet ramps with 40-60 grit sandpaper.
+Sand away all the glossy surface of the resin on the
+inlet ramps.
 
-   Step 3: Using the reference line drawn on Page 47-5, Step 1, mark a line along the bottom edge of the bottom cowl three inches
-   forward that corresponds to to the forward edge of the F-1072 Fwd Fuse bottom Skin. The line need only extend far enough that
-   when the excess material aft of the line is removed the bottom of the cowl will lay flat against the F-1001Q-L and -R cowl Attach
-   Hinges. Do not mark the sides of the bottom cowl yet!
+Step 11: Use epoxy resin to bond the inlet ramps to
+the top cowl. Cleco the inlet ramps to the top cowl
+until the resin has cured. Sand away any excess
+resin that may have oozed out of place. Fill the
+joggle formed by the air inlets aft edge with body
+filler. Sand and fill this area until there is a smooth
+transition between the air inlets and the inlet ramps.
 
-   Step 4: Remove the bottom cowl and trim away the excess material aft of the line drawn in Step 3. Check that the bottom cowl will
-   lay flat against the F-1001Q-L and -R Cowl Attach Hinges. Do not bother to trim the excess material aft of the bottom cowl scoop at
-   this time.
+COWL 10
+INLET RIGHT
 
-   Step 5: Using the reference line drawn on Page 47-5, Step 1, mark a line along the aft sides of the bottom cowl three inches
-   forward that corresponds to to the forward edge of the F-1069-L and -R Fwd Fuse Side Skins. Remove the bottom cowl. Cut away
-   the remaining excess material along the side aft edges of the bottom cowl.
+COWL 10 INLET LEFT
 
-   NOTE: When laying out holes that attach hinges to the top and bottom cowls, offset the holes 5/16 from the outside edge
-   and the ends of the hinge unless otherwise specified. Lay out the holes with approximate one inch spacing. Periodically
-   check and clean out any debris between the hinges and the cowl while drilling!
+DRILL #40
+AND CLECO
+AS REQ'D
 
-   Step 6: Lay out then drill #27 the inboard most hole common to the F-1001Q-L and -R Cowl Attach Hinges and the bottom cowl.
-   Evenly space, drill #40, then cleco the four remaining rivet holes in the cowl attach hinge.
+AFT EDGE OF
+AIR INLET
 
-   Lay out, drill #40, then cleco the holes common to the F-1001N Cowl Attach Hinges and the top cowl. Start at the inboard end and
-   work outboard.
+TOP COWL
 
-   Lay out, drill #40, then cleco the holes common to the F-1001P Cowl Attach Hinges and the bottom cowl. Start at the bottom and
-   work upwards.
+FIGURE 3: INSTALLING THE INLET RAMPS
 
-   Deburr the cowl attach hinges. Machine countersink the cowl hinge attach holes in the top and bottom cowl.
+DATE: 09/15/06  REVISION: 0  RV-10  PAGE 47-5
 
-   Step 7: Install the hardware in the inboard most hole common to the F-1001Q-L and -R Cowl Attach Hinges and the bottom cowl.
+=== PAGE 47-6 ===
+VAN'S AIRCRAFT, INC.
 
-   Step 8: Rivet the cowl attach hinges to the top and bottom cowl per the callout in Figure 1.
+NOTE: For Step 1 through Step 12 refer to Figure 1.
 
-   Step 9: Lay out on the top cowl the two remaining holes on either side of the spinner opening as shown on Page 47-4, Figure 5.
-   Drill these holes #19 into the top and bottom cowl. Final-Drill the forward most hole #19.
+Step 1: Tape 1/8 inch thick spacers to the forward face of the bottom cowl in at least three locations.
 
-   Step 10: Lay out the split line along the sides of the top and bottom cowls. This line will extend from the aft edge of the cutouts
-   made on Page 47-4, Step 4 to the forward edge of the F-1069-L and -R Fwd Fuse Side Skins. Adjust the overall split line as
-   necessary if there is insufficient excess material on either the top or bottom cowls.
+Step 2: Fit the bottom cowl to the aircraft. Slip the excess material along the sides of the bottom cowl (top edge) over the excess
+material along the lower edge of the top cowl. If required slightly increase the width of the slot created on Page 47-5, Step 7.
 
-   Step 11: Remove the bottom cowl. Remove the excess material above the split line. Remove the 1/8 spacers from the front of the
-   bottom cowl. Reinstall the bottom cowl.
+Step 3: Using the reference line drawn on Page 47-5, Step 1, mark a line along the bottom edge of the bottom cowl three inches
+forward that corresponds to to the forward edge of the F-1072 Fwd Fuse bottom Skin. The line need only extend far enough that
+when the excess material aft of the line is removed the bottom of the cowl will lay flat against the F-1001Q-L and -R cowl Attach
+Hinges. Do not mark the sides of the bottom cowl yet!
 
-   Step 12: Using the bottom cowl as a guide, mark the split line on the top cowl. Remove the top cowl and remove the material below
-   the split line. Remove the 1/8 spacers from the front of the top cowl. Adjust the split line to obtain a .020 to .032 gap (approximately
-   the width of a hacksaw blade) between the top and bottom cowls.
+Step 4: Remove the bottom cowl and trim away the excess material aft of the line drawn in Step 3. Check that the bottom cowl will
+lay flat against the F-1001Q-L and -R Cowl Attach Hinges. Do not bother to trim the excess material aft of the bottom cowl scoop at
+this time.
 
-   Step 13: Bevel the eyelets along the curved portion of the F-1001N Cowl Attach Hinges as shown in Figure 2.                                                FIREWALL
-                                                                                                                                                              BULKHEAD
-                                                                                                                                                              ASSEMBLY
-                                                                                                                                                 F-1001N-L
-                                                                                                                                                                   F-1071
-                                                                                                                                              TYPICAL BEVEL
+Step 5: Using the reference line drawn on Page 47-5, Step 1, mark a line along the aft sides of the bottom cowl three inches
+forward that corresponds to to the forward edge of the F-1069-L and -R Fwd Fuse Side Skins. Remove the bottom cowl. Cut away
+the remaining excess material along the side aft edges of the bottom cowl.
 
+NOTE: When laying out holes that attach hinges to the top and bottom cowls, offset the holes 5/16 from the outside edge
+and the ends of the hinge unless otherwise specified. Lay out the holes with approximate one inch spacing. Periodically
+check and clean out any debris between the hinges and the cowl while drilling!
 
+Step 6: Lay out then drill #27 the inboard most hole common to the F-1001Q-L and -R Cowl Attach Hinges and the bottom cowl.
+Evenly space, drill #40, then cleco the four remaining rivet holes in the cowl attach hinge.
 
+Lay out, drill #40, then cleco the holes common to the F-1001N Cowl Attach Hinges and the top cowl. Start at the inboard end and
+work outboard.
 
-PAGE   47-6    RV-10      REVISION: 0   DATE: 10/13/04
-                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
+Lay out, drill #40, then cleco the holes common to the F-1001P Cowl Attach Hinges and the bottom cowl. Start at the bottom and
+work upwards.
+
+Deburr the cowl attach hinges. Machine countersink the cowl hinge attach holes in the top and bottom cowl.
+
+Step 7: Install the hardware in the inboard most hole common to the F-1001Q-L and -R Cowl Attach Hinges and the bottom cowl.
+
+Step 8: Rivet the cowl attach hinges to the top and bottom cowl per the callout in Figure 1.
+
+Step 9: Lay out on the top cowl the two remaining holes on either side of the spinner opening as shown on Page 47-4, Figure 5.
+Drill these holes #19 into the top and bottom cowl. Final-Drill the forward most hole #19.
+
+Step 10: Lay out the split line along the sides of the top and bottom cowls. This line will extend from the aft edge of the cutouts
+made on Page 47-4, Step 4 to the forward edge of the F-1069-L and -R Fwd Fuse Side Skins. Adjust the overall split line as
+necessary if there is insufficient excess material on either the top or bottom cowls.
+
+Step 11: Remove the bottom cowl. Remove the excess material above the split line. Remove the 1/8 spacers from the front of the
+bottom cowl. Reinstall the bottom cowl.
+
+Step 12: Using the bottom cowl as a guide, mark the split line on the top cowl. Remove the top cowl and remove the material below
+the split line. Remove the 1/8 spacers from the front of the top cowl. Adjust the split line to obtain a .020 to .032 gap (approximately
+the width of a hacksaw blade) between the top and bottom cowls.
+
+Step 13: Bevel the eyelets along the curved portion of the F-1001N Cowl Attach Hinges as shown in Figure 2.
+
+MS21042-06,
+2 PLACES
+AN526C632R8,
+2 PLACES
+
+F-1001Q-R
+
+DRILL #40,
+4 PLACES
+
+F-1071
+
+REFERENCE MARK
+
+DRILL #27
+
+5/8
+
+F-1001N-R
+
+F-1001P-R
+
+AN426AD3-4,5,
+ALL COWL TO
+COWL ATTACH
+HINGE RIVETS
+
+BOTTOM COWL
+EXCESS MATERIAL
+TOP EDGE
+
+TOP COWL
+
+1/8 SPACERS
+TAPED ON,
+3 PLACES MIN.
+
+FIGURE 1: FITTING THE BOTTOM COWL
+
+F-1069-L
+
+BOTTOM COWL
+EXCESS MATERIAL
+AFT EDGE
+
+FIREWALL
+BULKHEAD
+ASSEMBLY
+
+F-1001N-L
+
+F-1071
+
+TYPICAL BEVEL
+
+FIGURE 2: BEVELING THE EYELETS
+
+PAGE 47-6  RV-10  REVISION: 0  DATE: 10/13/04
+
+=== PAGE 47-7 ===
+VAN'S AIRCRAFT, INC.
+
 Step 1: Make two F-1001S Cowl top Hinge Pins from SSP-090 hinge pin per the dimensions in
-Figure 1. These pins will replace the soft aluminum pins provided for the F-1001N Cowl Attach     Step 5: Grind the ends of the cowl pins created in Step 1, Step 2 and Step 3 as shown in Figure 5. Offset the point.
+Figure 1. These pins will replace the soft aluminum pins provided for the F-1001N Cowl Attach
 Hinge.
-                                                                                                                                                               1/8 - 1/4                          OFFSET
-                                            ~ 24 1/2                                                                               TYPICAL                                                         POINT
-                                                                             (0.090)
-                                                                                                                                  COWL PIN
 
+~ 24 1/2
 
-           1/4                                                                                                                               FIGURE 5: SHAPING THE COWL PIN ENDS
-       FIGURE 1: FABRICATING THE COWL TOP HINGE PINS
-                                                                                                  Step 6: Cleco the F-1001Y Cowl Upper Pin Retainer to the F-1001Z Filler Plate. Final-Drill #40 all the rivet holes in both parts. Final-Drill #27 the screw holes in
-Step 2: Make two F-1001T Cowl Side Hinge Pins from SSP-120 hinge pin per the dimensions in        the cowl upper pin retainer. See Figure 6.
+(0.090)
+
+1/4
+
+FIGURE 1: FABRICATING THE COWL TOP HINGE PINS
+
+Step 2: Make two F-1001T Cowl Side Hinge Pins from SSP-120 hinge pin per the dimensions in
 Figure 2. These pins will replace the soft aluminum pins provided for the F-1001P Cowl Attach
-Hinge.                                                                                            Step 7: Dissassemble the F-1001Y Cowl Upper Pin Retainer and F-1001Z Filler Plate. Deburr both parts. Machine countersink the rivet holes in both parts.
+Hinge.
 
-                                                ~ 16                                              Step 8: Rivet the F-1001Y Cowl Upper Pin Retainer to the F-1001Z Filler Plate per the callouts in Figure 6. Do not rivet the nutplates on yet!
+~ 16
 
-                                                                                                                                 SCREW HOLE,                                                   F-1001Z
-                                                                                                                                      2 PLACES
-                   1                                                                                                                                                                     AN426AD3-4,
-                                                                                                                                 AN426AD3-4,                                             3 PLACES
-                                                                                        (0.120)
-                                                                                                                                    2 PLACES
-                                                                                                                               PER NUTPLATE
-                                                                                                                                                                                               F-1001Y
+1
 
-      FIGURE 2: FABRICATING THE COWL SIDE HINGE PINS
-                                                                                                                                         K1000-06,
-Step 3: Make two F-1001U Cowl Both Hinge Pins from SSP-120 hinge pin per the dimensions in                                               2 PLACES
+(0.120)
+
+FIGURE 2: FABRICATING THE COWL SIDE HINGE PINS
+
+Step 3: Make two F-1001U Cowl Both Hinge Pins from SSP-120 hinge pin per the dimensions in
 Figure 3. These pins will replace the soft aluminum pins provided for the F-1001Q Cowl Attach
 Hinge.
 
-                                               ~ 6 1/2                                                                       FIGURE 6: MAKING THE COWL UPPER PIN RETAINER ASSEMBLY
-                                                                                                  Step 9: Cut a notch in the middle aft edge of the top cowl per the dimensions shown in Figure 7.
+~ 6 1/2
 
-                                                                                                  Step 10: Fit the Cowl Upper Pin Retainer Assembly into the notch made in Step 9. Match-Drill #27 the two screw holes in the F-1001Y Cowl Upper Pin Retainer
-                                                                                                  into the top cowl. Machine countersink the screw holes for the head of an #6 screw.
+1 7/8
 
-                 1 7/8                                                                            Step 11: Rivet the nutplates to the Cowl Upper Pin Retainer Assembly per the callouts in Figure 6.
+(0.120)
 
-                                                                                                  Step 12: Fasten the Cowl Upper Pin Retainer Assembly to the top
-                                                                                                  cowl with the screws called out in Figure 7.                                                                                                F-1001Z
-                                                                                       (0.120)
-                                                                                                  Step 13: If painting the airplane postpone this step. Gall the last
-                                                                                                                                                                                                                                  TOP
-                                                                                                  thread on the end of both screws that attach the Cowl Upper Pin
-                                                                                                                                                                                                                                 COWL
-                                                                                                  Retainer Assembly. This will prevent the screw from backing out
-                                                                                                  of the nutplate.
-       FIGURE 3: FABRICATING THE COWL BOT HINGE PINS
+FIGURE 3: FABRICATING THE COWL BOT HINGE PINS
+
 Step 4: Make two F-1001V Cowl Pin Retainers from HINGE PIANO 1/8 per the dimensions in
 Figure 4.
 
-                                                            1/2                                                                                                                                                                F-1001Y
+1/2
 
+5/16
 
+#19
 
+1/4
 
-                                                                                                                                                                                                                                   FIGURE 8: SECTION A-A
-                                        5/16                      #19
-                                                                                                                                                                           FIGURE 7: MAKING THE COWL UPPER
-                                                          1/4
-                                                                                                                                                                                 PIN RETAINER CUTOUT
+FIGURE 4: FABRICATING THE COWL PIN RETAINERS
 
-         FIGURE 4: FABRICATING THE COWL PIN RETAINERS
-                                                                                                                                                                                                                       DATE: 10/13/04 REVISION: 0   RV-10      PAGE   47-7
-                       VAN'S AIRCRAFT, INC.
-                                                                                                                                            Step 9: Install the top cowl. Mark the location of the knuckle. Remove the top cowl and create a notch for the knuckle. Reinstall the
-                                                                                                                                            top cowl.
+Step 5: Grind the ends of the cowl pins created in Step 1, Step 2 and Step 3 as shown in Figure 5. Offset the point.
 
-                                                                             39                                                             Step 10: Using the shadow of the top half of the COWL-10-03 Side Hinges visible trough the top cowl, lay out a rivet pattern with
-  Step 1: Create two                                                                                                                        one inch spacing. Leave 5/16 edge distance at the forward and aft ends of the side hinges.
-  COWL-10-03 Side Hinges from
-  AN257-P3 piano hinge per the                                                                                                              Step 11: Reach in through the air inlet and hold the forward portion of the side hinge tightly against the top cowl. Drill #40, starting
-  dimensions given in Figure 1.                                                                                                             at the front, the top cowl to the side hinges. Cleco each hole after it is drilled. Machine countersink the holes just drilled.
-  Do not cut the pin supplied with
-  the hinge.                                                                                                                                Step 12: Remove the top cowl and the upper half of the COWL-10-03 Side Hinges. Deburr the side hinges.
+1/8 - 1/4
 
-   Step 2: Clamp the lower half of both COWL-10-03 Side Hinges to the upper edge of the bottom cowl with a 1/64 - 1/32 inch gap             Step 13: Rivet the upper half of the COWL-10-03 Side Hinges to the top cowl per the callouts in Figure 2.
-   between the notch bottom and the bottom cowl upper edge. See Figure 2. The aft edge of the side hinges should be flush with the
-   aft edge of the bottom cowl. See Figure 3 and Figure 6.                                                                                  NOTE: The remaining steps reference Figure 6.
+TYPICAL
+COWL PIN
 
-   Step 3: Using the shadow of the COWL-10-03 Side Hinges visible trough the bottom cowl, lay out a rivet pattern with one inch             Step 14: Match-Drill #19 the hole in the knuckle flange of the COWL HINGE PIN into the bottom cowl. Remove the side hinge pin.
-   spacing. Leave 5/16 edge distance at the forward and aft ends of the side hinges.
-                                                                                                                                            Step 15: Use a #8 screw to temporarily hold a K1000-08 nutplate in the knuckle attach hole. Match-Drill #40 the holes in the nutplate
-   Step 4: Drill #40 the rivet pattern layed out in Step 3 into the bottom cowl and COWL-10-03 Side Hinges.                                 into the bottom cowl. Machine countersink the nutplate attach holes in the bottom cowl. Rivet the nutplate to the bottom cowl.
+OFFSET
+POINT
 
-   Step 5: Remove the lower half of the COWL-10-03 Side Hinges from the bottom cowl. Deburr the side hinges. Machine countersink            Step 16: Align the lower edge of a F-1001V Cowl Pin Retainer with the end of the F-1001U Cowl Bot Hinge Pin. Match-Drill #19 the
-   the holes drilled in Step 4.                                                                                                             hole in the cowl bot hinge pin retainer into the bottom cowl.
+FIGURE 5: SHAPING THE COWL PIN ENDS
 
-   Step 6: Rivet the lower half of the COWL-10-03 Side Hinges to the bottom cowl per the callouts in Figure 2.
+Step 6: Cleco the F-1001Y Cowl Upper Pin Retainer to the F-1001Z Filler Plate. Final-Drill #40 all the rivet holes in both parts. Final-Drill #27 the screw holes in
+the cowl upper pin retainer. See Figure 6.
 
+Step 7: Dissassemble the F-1001Y Cowl Upper Pin Retainer and F-1001Z Filler Plate. Deburr both parts. Machine countersink the rivet holes in both parts.
 
+Step 8: Rivet the F-1001Y Cowl Upper Pin Retainer to the F-1001Z Filler Plate per the callouts in Figure 6. Do not rivet the nutplates on yet!
 
+SCREW HOLE,
+2 PLACES
 
-                                                                                                                                                                                                                                                     AN526C832R8
+AN426AD3-4,
+2 PLACES
+PER NUTPLATE
 
+F-1001Z
 
-                                                                                                                                                                        SEE FIGURE 3
-                                                                                  BOTTOM COWL
-                                                                                                                                                                     SEE FIGURE 2
-                             OUTSIDE           COWL-10-03
-                               EDGE
+AN426AD3-4,
+3 PLACES
 
-                                                                                                                                                        SEE FIGURE 4
-   Step 7: Using the pin supplied with the hinge, attach the upper half of the COWL-10-03 Side Hinges to the lower half already                         AND FIGURE 5
-   riveted to the bottom cowl. Insert the pin until it contacts the Firewall Bulkhead Assembly. See Figure 3. Mark the pin/cowl intersect
-   point on the bottom cowl. See Figure 4.
-                                                     BOTTOM COWL            F-1069-R
+F-1001Y
 
-                                                                                  FIREWALL
-                                                                                  BULKHEAD
-                                                         COWL HINGE               ASSEMBLY
-                            COWL-10-03-R
-                                                           PIN-RIGHT
+K1000-06,
+2 PLACES
 
+FIGURE 6: MAKING THE COWL UPPER PIN RETAINER ASSEMBLY
 
-   NOTE: The COWL HINGE PIN-LEFT and R Side Hinge Pins are an optional part available in Vans Aircraft Accessories
-   Catalog.                                                                                                                                                                                                 TOP
-                                                                                                                                                                                                           COWL
-   Step 8: Trim the COWL HINGE PIN-LEFT and R Side Hinge Pins until the aft edge of the knuckles lines up with the pin-cowl
-   intersect point. Bend the knuckles parallel with the side of the bottom cowl. See Figure 5. Shape the ends of the side hinge pins per
-   Page 47-7, Step 5.        PIN/COWL                                                    BEND PIN
-                             INTERSECT                                                   AS REQ'D
-                             POINT
+Step 9: Cut a notch in the middle aft edge of the top cowl per the dimensions shown in Figure 7.
 
-                                                    COWL-10-03-R                                             COWL-10-03-R
-                                                                                                                                                                                                                                                               AN526C832R8
-                                                                                            COWL HINGE PIN
-                                                                                            (KNUCKLE)
-                                                                                                                                                                                                                                                            BOTTOM
-                                                                                                                                                                                                                                                            COWL
+Step 10: Fit the Cowl Upper Pin Retainer Assembly into the notch made in Step 9. Match-Drill #27 the two screw holes in the F-1001Y Cowl Upper Pin Retainer
+into the top cowl. Machine countersink the screw holes for the head of an #6 screw.
 
-PAGE   47-8    RV-10      REVISION: 0   DATE: 10/13/04
-                                                                                                                                     VAN'S AIRCRAFT, INC.
+Step 11: Rivet the nutplates to the Cowl Upper Pin Retainer Assembly per the callouts in Figure 6.
+
+Step 12: Fasten the Cowl Upper Pin Retainer Assembly to the top
+cowl with the screws called out in Figure 7.
+
+Step 13: If painting the airplane postpone this step. Gall the last
+thread on the end of both screws that attach the Cowl Upper Pin
+Retainer Assembly. This will prevent the screw from backing out
+of the nutplate.
+
+COWL UPPER
+PIN RETAINER
+ASSEMBLY
+
+F-1001Z
+
+TOP
+COWL
+
+A
+
+1 3/4
+
+A
+
+5/16
+
+F-1001Y
+
+GALL LAST
+THREAD
+OF EACH
+SCREW
+
+FIGURE 8: SECTION A-A
+
+FIGURE 7: MAKING THE COWL UPPER
+PIN RETAINER CUTOUT
+
+DATE: 10/13/04  REVISION: 0  RV-10  PAGE 47-7
+
+=== PAGE 47-8 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Create two
+COWL-10-03 Side Hinges from
+AN257-P3 piano hinge per the
+dimensions given in Figure 1.
+Do not cut the pin supplied with
+the hinge.
+
+39
+
+FIGURE 1: MAKING THE SIDE HINGES
+
+Step 2: Clamp the lower half of both COWL-10-03 Side Hinges to the upper edge of the bottom cowl with a 1/64 - 1/32 inch gap
+between the notch bottom and the bottom cowl upper edge. See Figure 2. The aft edge of the side hinges should be flush with the
+aft edge of the bottom cowl. See Figure 3 and Figure 6.
+
+Step 3: Using the shadow of the COWL-10-03 Side Hinges visible trough the bottom cowl, lay out a rivet pattern with one inch
+spacing. Leave 5/16 edge distance at the forward and aft ends of the side hinges.
+
+Step 4: Drill #40 the rivet pattern layed out in Step 3 into the bottom cowl and COWL-10-03 Side Hinges.
+
+Step 5: Remove the lower half of the COWL-10-03 Side Hinges from the bottom cowl. Deburr the side hinges. Machine countersink
+the holes drilled in Step 4.
+
+Step 6: Rivet the lower half of the COWL-10-03 Side Hinges to the bottom cowl per the callouts in Figure 2.
+
+AN426AD3-4
+ALL COWL-10-03
+TO BOTTOM COWL
+RIVETS
+
+NOTCH BOTTOM
+1/32
+
+BOTTOM COWL
+
+OUTSIDE
+EDGE
+
+COWL-10-03
+
+FIGURE 2: DRILLING THE BOTTOM COWL
+
+Step 7: Using the pin supplied with the hinge, attach the upper half of the COWL-10-03 Side Hinges to the lower half already
+riveted to the bottom cowl. Insert the pin until it contacts the Firewall Bulkhead Assembly. See Figure 3. Mark the pin/cowl intersect
+point on the bottom cowl. See Figure 4.
+
+BOTTOM COWL
+
+F-1069-R
+
+FIREWALL
+BULKHEAD
+ASSEMBLY
+
+COWL HINGE
+PIN-RIGHT
+
+COWL-10-03-R
+
+FIGURE 3: SETTING THE PIN LENGTH
+
+NOTE: The COWL HINGE PIN-LEFT and R Side Hinge Pins are an optional part available in Vans Aircraft Accessories
+Catalog.
+
+Step 8: Trim the COWL HINGE PIN-LEFT and R Side Hinge Pins until the aft edge of the knuckles lines up with the pin-cowl
+intersect point. Bend the knuckles parallel with the side of the bottom cowl. See Figure 5. Shape the ends of the side hinge pins per
+Page 47-7, Step 5.
+
+PIN/COWL
+INTERSECT
+POINT
+
+COWL-10-03-R
+
+COWL-10-03-R
+
+COWL HINGE PIN
+(KNUCKLE)
+
+BEND PIN
+AS REQ'D
+
+FIGURE 4: KNUCKLE LOCATION
+
+FIGURE 5: KNUCKLE BEND
+
+Step 9: Install the top cowl. Mark the location of the knuckle. Remove the top cowl and create a notch for the knuckle. Reinstall the
+top cowl.
+
+Step 10: Using the shadow of the top half of the COWL-10-03 Side Hinges visible trough the top cowl, lay out a rivet pattern with
+one inch spacing. Leave 5/16 edge distance at the forward and aft ends of the side hinges.
+
+Step 11: Reach in through the air inlet and hold the forward portion of the side hinge tightly against the top cowl, starting
+at the front, the top cowl to the side hinges. Drill #40, starting
+at the front, the top cowl to the side hinges. Cleco each hole after it is drilled. Machine countersink the holes just drilled.
+
+Step 12: Remove the top cowl and the upper half of the COWL-10-03 Side Hinges. Deburr the side hinges.
+
+Step 13: Rivet the upper half of the COWL-10-03 Side Hinges to the top cowl per the callouts in Figure 2.
+
+NOTE: The remaining steps reference Figure 6.
+
+Step 14: Match-Drill #19 the hole in the knuckle flange of the COWL HINGE PIN into the bottom cowl. Remove the side hinge pin.
+
+Step 15: Use a #8 screw to temporarily hold a K1000-08 nutplate in the knuckle attach hole. Match-Drill #40 the holes in the nutplate
+into the bottom cowl. Machine countersink the nutplate attach holes in the bottom cowl. Rivet the nutplate to the bottom cowl.
+
+Step 16: Align the lower edge of a F-1001V Cowl Pin Retainer with the end of the F-1001U Cowl Bot Hinge Pin. Match-Drill #19 the
+hole in the cowl bot hinge pin retainer into the bottom cowl.
+
+5610-18-31
+
+AN526C832R8
+
+SEE FIGURE 3
+
+SEE FIGURE 2
+
+SEE FIGURE 4
+AND FIGURE 5
+
+F-1001U
+F-1001V
+
+MS21042-08
+
+K1000-08
+AN426AD3-4,
+2 PLACES
+
+NOTCH TOP COWL
+FOR KNUCKLE
+
+RADIUS
+LOWER
+EDGE
+
+AN526C832R8
+
+TOP
+COWL
+
+BOTTOM
+COWL
+
+FIGURE 6: BOTTOM COWL DETAILS
+
+PAGE 47-8  RV-10  REVISION: 0  DATE: 10/13/04
+
+=== PAGE 47-9 ===
+VAN'S AIRCRAFT, INC.
+
 Step 1: Remove the bottom cowl.
 
 Step 2: Use a #8 screw to align a nutplate with one of the six screw holes that attach the top and bottom cowls together on either
@@ -404,27 +936,14 @@ holes just drilled. See Figure 1. Repeat this step for the five remaining screw 
 
 Step 3: Rivet six nutplates to the bottom cowl flange per the hardware callouts given in Figure 1.
 
-
-
-
-                           FIGURE 1: INSTALLING NUTPLATES
-
+FIGURE 1: INSTALLING NUTPLATES
 
 Step 4: Figure 2 shows the hardware used to attach the top cowl to the bottom cowl.
 
+TOP COWL
 
+BOTTOM COWL
 
-                                                                                   TOP COWL
+FIGURE 2: COWL ATTACH HARDWARE
 
-
-
-
-                                                                                                 BOTTOM COWL
-
-
-
-
-                       FIGURE 2: COWL ATTACH HARDWARE
-
-                                                                                                                                        DATE: 10/13/04 REVISION: 0   RV-10   PAGE   47-9
-
+DATE: 10/13/04  REVISION: 0  RV-10  PAGE 47-9

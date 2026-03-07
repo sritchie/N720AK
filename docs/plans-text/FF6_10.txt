@@ -1,286 +1,240 @@
-                                                                                                                                            VAN'S AIRCRAFT, INC.
-
-
-SECTION FF6:                                                           FF-1015
-                                                                                   CYLINDER 2 BAFFLE ASSEMBLY
-                                                                                               VENT DL-03                  SS CLAMP
-
-
-                                                                     MUFFLER
-
-
- EXHAUST                                                             SUPPORT
-                                                                     BRACKET
-
-
-
-
-  SYSTEM
-                                                        FWD RISER
-
-                                           VENT DL-03
-                                               CYLINDER 5 BAFFLE ASSEMBLY
-
-                                                               COLLECTOR
-                                                                                                                                                                                COLLECTOR
-
-
-
-
-                                                                                                                                                               MUFFLER CLAMP
-
-
-                                                                                                                             MUFFLER SUPPORT STRAP
-                                                                                 FWD RISER
-                                                                                                                     MUFFLER SHROUD
-
-                                                                                                            RIGHT PIPE
-VENT                                                                                                        INTERCONNECT
-SCAT
- 2X15
-                                                                       COLLECTOR
-
-
-
-
-                                                              RIGHT PIPE INTERCONNECT
-                                        AFT RISER
-
-
-                              MUFFLER
-                              SHROUD
-        VENT TG-10-L   VENT TG-10-R
-        CABIN HEAT     CABIN HEAT
-        SELECTOR BOX   SELECTOR BOX
-
-                                                                                                                                                DATE: 10/16/09 REVISION: 0   RV-10   PAGE   FF6-1
-                                                                                                                                                                                            EXHAUST PORT
-                       Step 1: Insert the Fwd and Aft Risers into the Collectors to form two Stack Assemblies. See Figure 1.
-                                                                                                                                                                                        EA GASKET 77611,
-Step 2: Final-Dnll the 1/4, #12 and #40 holes in the FF-1015 Muffler Support Bracket. Machine Countersink both #40 holes on the forward face of the muffler support                            6 PLACES
-bracket. Duburr the edges and holes in the muffler support bracket. Bolt the muffler support bracket to the bottom of the oil sump on the engine as shown in Figure 1.
-
-Step 3: Install the Stack Assemblies and EA GASKET 77611 Exhaust Pipe Gaskets to the engine using the hardware shown in the detail view in Figure 1. Use anti-seize
-on the exhaust port studs. Torque the exhaust nuts to 100-140 inch-pounds.
-
-Step 4: Install the Muffler Shroud around the Muffler. Install sheet metal screws supplied with the exhaust system along both the
-muffler shrouds flanges (as an option these screws can be replaced with #8 screws and platenuts, see Figure 1). Slip the Muffler Strap
-around the center of the muffler shroud. Slip the Left and Right Pipe Interconnects into the ends of the muffler. Temporarily
-connect the Left Pipe Interconnect to the ball joint on the bottom of the left Stack Assembly. Connect the Right Pipe Interconnect
-to the ball joint on the bottom of the right stack assembly. Bolt the muffler strap to the FF-1015 Muffler Support Bracket. See Figure 1.
-
-Step 5: Rotate the Muffler to obtain the 5/8 minimum clearance between the bottom of the F-1001A Firewall Bulkhead and the
-Muffler Tailpipe shown in Figure 2. Drill a #12 hole through the muffler and left pipe interconnect in the direction shown in
-Figure 2, 7/16 from the outboard edge of the flange on the muffler.                                                                                                  tr:5^
-                                                                                                                                                                                                                                                        FWD
-                                                                                                                                                                                                                                                        RISER
-
-
-                                                                                  F-1001A
-                                                                                                                                                                                                                                STD1410,
-        APPROX.                                                                                                                                                                                                                12 PLACES
-           DRILL
-     DIRECTION
-  (DO NOT DRILL                                                                                                                                                                                                                   MS35333-41,
-                                                                                   5/8                                                                                                           ^
-      INTO SLOT                                                                                                                                                                           "rm-                                     12 PLACES
-    IN MUFFLER                                                                                                         AFT RISER,
-        FLANGE)                                                                                                         2 PLACES
-                                                                                                                                                                                                              FWD RISER,
-                                                                                                                                                                                                              2 PLACES
-                       FIGURE 2: MUFFLER CLEARANCE
-                                                                                                                                                                                                           COLLECTOR,
-Step 6: Remove the Left Pipe Interconnect. Deburr the holes in the left pipe interconnect and the Muffler.                                                                                                 2 PLACES
-Slip the Muffler Clamp over the left end of the muffler. Slip the left pipe interconnect back into the muffler.
-Connect the left pipe interconnect to the ball joint as shown in Figure 1. Slip the stud on the muffler
-clamp into the #12 hole drilled in Step 5. Install the hardware to fasten the muffler clamp as shown in
-Figure 3.
-                                                                                             RIGHT PIPE INTERCONNECT
-                                                                                                                          MUFFLER --`                                                                                                        MS24665-153,
-                 AN.                                                                                                             OPTIONAL                                                                                                    6 PLACES
-                                                                                                                              AN526C832R8
-MUFFLER CLAMP
-                                                                                                ENGINE BOSS                       K1000-08,                                                                                                AN310-3,
-                                                                                                                                 6 PLACES                                                                                                  6 PLACES
-                                                                                   AN426AD3-4.5,
-                                                                                      2 PLACES
-                                                                                      K1000-3                                                                          MUFFLER
-     LEFT PIPE                                                                                                                                                         SHROUD
-INTERCONNECT
-                                                                                                                                                           LEFT PIPE INTERCONNECT                                                             186-218,
-                                                                                                                                                         FF-1015                                                                              6 PLACES
-                                                                                                                                                        AN960-416
-            STUD                                                                                                                                        (GRIND WASHER TO REMOVE ANY
-                                                                                                                                                        INTERFERENCE WITH BEND RADIUS                                                      BALL JOINT
-                                                                                                                  r--                                   ON F-1015)
-                                                                                                                                                         MS35333-40
-                                                                                                                   0                                                                                                             AN960-10,
-           AN960-'                                                                OUFFLER                                                             BOLT HEX 1/4-20X1/2
-                                                                                                                                                                                                                                 18 PLACES
-              MS21                                                                  STRAP                                                            AN3-5A                                                         AN3-15,
-                                                                                                                                                   AN960-1 0                                                        6 PLACES
-
-                       FIGURE 3: CLAMPING THE MUFFLER                                                                                                 FIGURE 1: EXHAUST AND MUFFLER
-                                                                                                                                                                INSTALLATION
-                                                                                                                                                                                  CYLINDER 5
-                                                                                                                                                                              ^ BAFFLE ASSEMBLY
-Step 1: Cut a length of scat tube 28 inches long from VENT SCAT 2" to create       NOTE: Refer to Figure 3 and Figure 4
-the VENT SCAT 2X28 Inlet Hose. Cut a length of scat tube 24 inches long            for the remaining steps on this page.                                                                        VENT DL-03
-from VENT SCAT 2" to create the VENT SCAT 2X24 Inlet Hose. Cut two
-lengths of scat tube each 15 inches long from VENT SCAT 2" to create two           Step 3: Install both VENT SCAT 2X15
-VENT SCAT 2X15 Interconnect Hoses. See Figure 1.                                   Interconnect Hoses between the aft inlets
-                                                                                   on the Muffler Shroud and the VENT                                              (   r ^              <,ua i r .c^ f_f \
-                        28 VENT SCAT 2X28                                          TG-10-L and -R Cabin Heat Selector
-                        24 VENT SCAT 2X24                                          Boxes.                                                                              I
-                                                                                                                                                                       i
-                       2X15 VENT SCAT 2X15
-                                                                                   Step 4: Install the VENT SCAT 2X24 Inlet                           ^'-Tr
-                                                                                                                                   VENT TG-10-R
-                                                                                   Hose between the VENT DL-03 attached                                            i
-                                                                                   to the aft side of the Cylinder 5 Baffle
-                                                                                   Assembly and the forward right port on the                                      ^
-                                                                                   Muffler Shroud.
-                                                                                                                                    VENT TG-10-L
-                                                                                   Step 5: Install the VENT SCAT 2X28 Inlet
-                                                                                                                                                                                                       AN737TW-66,
-                                                                                   Hose between the VENT DL-03 attached
-                                                                                                                                                                                                       2 PLACES PER
-                                                                                   to the lower face of the ramp on the
-                                                                                                                                                                                                       VENT SCAT TUBE
-                                                                                   Cylinder 2 Baffle Assembly and the forward
-          FIGURE 1: CUTTING THE SCAT TUBES                                                                                      VENT SCAT 2X15,
-                                                                                   left port on the Muffler Shroud. Route the         2 PLACES
-                                                                                   inlet hose above the fuel line, see Page
-                                                                                   FF64, Figure 1.
-Step 2: Fabricate a SS Clamp from the SS304-26GAX112X9 material provided                                                                                                              VENT SCAT 2X24
-in the kit per the dimensions given in Figure 2.                                   Step 6: Clamp the VENT SCAT 2X28 Inlet
-                                                                                   Hose to the Cylinder 2 Intake Tube.
-                                           1/                                                                                                                              MUFFLER SHROUD
-                                                               1/4
-                    G,O               DRILL
-                                       #12                                                                                                         FIGURE 3: INSTALLING THE SCAT HOSES
-
-                                                                                                                                                                  F CYLINDER 2 BAFFLE ASSEMBLY
-
-
-
-
-                                                                                           C
-                                                                                         IN'
-
-
-                                                ^       ^ (1/2)
-
-
-                                                                               AN525-10R10
-
-
-                                                                                SS CLAMP
-
-
-
-
-                                                                                                                                                                                            =R SHROUD
-           FIGURE 2: MAKING THE SS CLAMP                                               VENT SCAT 2X28
-
-
-
-
-                                                                                                                                                    FIGURE 4: INSTALLING THE SCAT HOSES
-                                                                                                                   Step 3: Cut two patches of Air Seal Fabric as shown in Figure 3. Using RTV as an adhesive perrnanently affix the Air Seal Patches to the VENT
-                                                                                                                   SCAT 2X24 Inlet Hose as shown in Figure 3. This will prevent the inlet hose from chaffing on the Cylinder 5 Intake Tube and Oil Line.
-
-                                                                                                                                                                                                                                AIR SEAL FABRIC PATCH
-Step 1: Run a bead of RTV high temperature sealant (Permatex #26B Red)
-along the entire length of all four VENT SCAT Inlet and Interconnect Hoses
-that attach to the Muffler Shroud. See Figure 1.
-
-Step 2: Liberally apply RN between the VENT SCAT 2X28 Inlet Hose and the
-fuel line that interconnects the engine driven fuel pump and the fuel injection                                                                                                           11A                                                          CYLINDER 5
-                                                                                                                                                                                                                                                       OIL LINE
-servo. See Figure 1. Repeat this process for the fuel line between the firewall
-and the engine driven fuel pump that rests against the right VENT SCAT 2X1 5                                                                                                                    K` ^
-Interconnect Hose. See Figure 2.
-
-
-                                                                                                       VENT SCAT 2X24
-                                            CYLINDER 2 BAFFLE ASSEMBLY
-                                                                                                                                                                                                                                                        CYLINDER 5
-                                                                                                                                                                                                                                                        INTAKE TUBE
-                                                                                                     RN CONNECTING
-                                                                                                   THE VENT SCAT 2X15
-                                                                                                     TO THE FUEL LINE
-
-                                                                                                            FUEL LINE
-                                                                                                                                                                                                                                                        VENT SCAT
-                                                                                                                                                                                                                                                        2X24
-                                                                                                       VENT SCAT 2X1 5
-                                                                                  BEAD OF RN                                                                                              I
-                                                                                                                                                                                                       0
-
-
-                                                                                  SS CLAMP                                 FIGURE 2: HOSE DETAILS (RIGHT SIDE)                                FIGURE 3: PROTECTIVE PATCHES
-
-                                                                                  VENT SCAT 2X28
-                                                                                                                   Step 4: Liberally Apply a bead of RN between the control cables and the left edge of the FF-1015 Muffler Support Bracket as shown in Figure 4.
-
-                                                                                  RN CONNECTING
-                                                                                  THE VENT SCAT 2X28
-                                                                                  TO FUEL LINE                                                           v
-                                                                                                                               FF-1015                                                                ^                             CONTROL CABLES
-
-
-
-                                                                                  FUEL LINE
-
-
-                                                                                                                                                                                                                                  BEAD OF RN
-
-
-
-       FIGURE 1: INLET HOSE DETAILS (LEFT SIDE)
-                                                                                                                                                                                                     own 16-..
-
-
-                                                                                                                                                  FIGURE 4: MUFFLER SUPPORT BRACKET DETAILS
-                                                                                                                  VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                  FIGURE 3: BALL JOINT ASSEMBLY DETAIL VIEW
- FIGURE 1: INSTALLATION OVERVIEW - LEFT SIDE
-
-
-
+=== PAGE 1 ===
+SECTION FF6: EXHAUST SYSTEM
+
+VAN'S AIRCRAFT, INC.
+DATE: 10/16/09  REVISION: 0  RV-10  PAGE FF6-1
+
+[Title page with two views of exhaust system installation - upper view from left side, lower view from right side]
+
+Callouts on upper (left side) illustration:
+- CYLINDER 2 BAFFLE ASSEMBLY
+- VENT DL-03
+- SS CLAMP
+- FF-1015 MUFFLER SUPPORT BRACKET
+- FWD RISER
+- VENT DL-03
+- CYLINDER 5 BAFFLE ASSEMBLY
+- COLLECTOR
+- AFT RISER
+- COLLECTOR
+- LEFT PIPE INTERCONNECT
+- MUFFLER CLAMP
+- VENT SCAT 2X28
+- MUFFLER SUPPORT STRAP
+- MUFFLER SHROUD
+
+Callouts on lower (right side) illustration:
+- VENT SCAT 2X15
+- FWD RISER
+- COLLECTOR
+- RIGHT PIPE INTERCONNECT
+- AFT RISER
+- MUFFLER SHROUD
+- VENT SCAT 2X24
+- VENT TG-10-L CABIN HEAT SELECTOR BOX
+- VENT TG-10-R CABIN HEAT SELECTOR BOX
+
+NOTE: PAGES 1 THROUGH 4 OF THIS DRAWING REFLECT AN OLDER VERSION OF THE EXHAUST SYSTEM WHILE PAGES 5 AND 6 REFLECT THE CURRENT EXHAUST SYSTEM.
+
+PAGES 1 THROUGH 4 ARE INCLUDED FOR THEIR DEPICTION OF KEY EXHAUST SYSTEM INSTALLATION DETAILS.
+
+USE THE INSTRUCTIONS PROVIDED WITH YOUR EXHAUST SYSTEM IN CONJUNCTION WITH THE PHOTOS ON PAGES 5 AND 6.
+
+=== PAGE 2 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF6-2  RV-10  REVISION: 1  DATE: 2/24/05
+
+Step 1: Insert the Fwd and Aft Risers into the Collectors to form two Stack Assemblies. See Figure 1.
+
+Step 2: Final-Drill the 1/4, #12 and #40 holes in the FF-1015 Muffler Support Bracket. Machine Countersink both #40 holes on the forward face of the muffler support bracket. Deburr the edges and holes in the muffler support bracket. Bolt the muffler support bracket to the bottom of the oil sump on the engine as shown in Figure 1.
+
+Step 3: Install the Stack Assemblies and EA GASKET 77611 Exhaust Pipe Gaskets to the engine using the hardware shown in the detail view in Figure 1. Use anti-seize on the exhaust port studs. Torque the exhaust nuts to 100-140 inch-pounds.
+
+Step 4: Install the Muffler Shroud around the Muffler. Install sheet metal screws supplied with the exhaust system along both the muffler shrouds flanges (as an option these screws can be replaced with #8 screws and platenuts, see Figure 1). Slip the Muffler Strap around the center of the muffler shroud. Slip the Left and Right Pipe Interconnects into the ends of the muffler. Temporarily connect the Left Pipe Interconnect to the ball joint on the bottom of the left Stack Assembly. Connect the Right Pipe Interconnect to the ball joint on the bottom of the right stack assembly. Bolt the muffler strap to the FF-1015 Muffler Support Bracket. See Figure 1.
+
+Step 5: Rotate the Muffler to obtain the 5/8 minimum clearance between the bottom of the F-1001A Firewall Bulkhead and the Muffler Tailpipe shown in Figure 2. Drill a #12 hole through the muffler and left pipe interconnect in the direction shown in Figure 2, 7/16 from the outboard edge of the flange on the muffler.
+
+FIGURE 1: EXHAUST AND MUFFLER INSTALLATION
+[Detailed drawing showing complete exhaust installation with callouts:
+- EXHAUST PORT
+- EA GASKET 77611, 6 PLACES
+- FWD RISER
+- STD1410, 12 PLACES
+- MS35333-41, 12 PLACES
+- FWD RISER, 2 PLACES
+- COLLECTOR, 2 PLACES
+- MS24665-153, 6 PLACES
+- AN310-3, 6 PLACES
+- 186-218, 6 PLACES
+- BALL JOINT
+- AN960-10, 18 PLACES
+- AN3-15, 6 PLACES
+- RIGHT PIPE INTERCONNECT
+- MUFFLER
+- OPTIONAL AN526C832R8
+- K1000-08, 6 PLACES
+- ENGINE BOSS
+- AN426AD3-4.5, 2 PLACES
+- K1000-3
+- MUFFLER SHROUD
+- LEFT PIPE INTERCONNECT
+- FF-1015
+- AN960-416 (GRIND WASHER TO REMOVE ANY INTERFERENCE WITH BEND RADIUS ON F-1015)
+- MS35333-40
+- BOLT HEX 1/4-20X1/2
+- AN3-5A
+- AN960-10]
+
+FIGURE 2: MUFFLER CLEARANCE
+[Drawing showing muffler positioned relative to firewall with callouts:
+- F-1001A
+- 5/8 (minimum clearance dimension)
+- APPROX. DRILL DIRECTION (DO NOT DRILL INTO SLOT IN MUFFLER FLANGE)
+- MUFFLER (TAILPIPE)]
+
+Step 6: Remove the Left Pipe Interconnect. Deburr the holes in the left pipe interconnect and the Muffler. Slip the Muffler Clamp over the left end of the muffler. Slip the left pipe interconnect back into the muffler. Connect the left pipe interconnect to the ball joint as shown in Figure 1. Slip the stud on the muffler clamp into the #12 hole drilled in Step 5. Install the hardware to fasten the muffler clamp as shown in Figure 3.
+
+FIGURE 3: CLAMPING THE MUFFLER
+[Drawing showing muffler clamp installation with callouts:
+- AN3-5A
+- MUFFLER CLAMP
+- LEFT PIPE INTERCONNECT
+- STUD
+- AN960-10
+- MS21042-3
+- MUFFLER STRAP]
+
+=== PAGE 3 ===
+VAN'S AIRCRAFT, INC.
+DATE: 2/24/05  REVISION: 0  RV-10  PAGE FF6-3
+
+Step 1: Cut a length of scat tube 28 inches long from VENT SCAT 2" to create the VENT SCAT 2X28 Inlet Hose. Cut a length of scat tube 24 inches long from VENT SCAT 2" to create the VENT SCAT 2X24 Inlet Hose. Cut two lengths of scat tube each 15 inches long from VENT SCAT 2" to create two VENT SCAT 2X15 Interconnect Hoses. See Figure 1.
+
+FIGURE 1: CUTTING THE SCAT TUBES
+[Drawing showing four cut lengths labeled:
+- 28  VENT SCAT 2X28
+- 24  VENT SCAT 2X24
+- 2X 15  VENT SCAT 2X15]
+
+Step 2: Fabricate a SS Clamp from the SS304-26GAX1/2X9 material provided in the kit per the dimensions given in Figure 2.
+
+FIGURE 2: MAKING THE SS CLAMP
+[Drawing showing SS clamp dimensions: 5/8 height, 1/4 tab at each end, DRILL #12, 2 width, (1/2) height of formed portion]
+
+NOTE: Refer to Figure 3 and Figure 4 for the remaining steps on this page.
+
+Step 3: Install both VENT SCAT 2X15 Interconnect Hoses between the aft inlets on the Muffler Shroud and the VENT TG-10-L and -R Cabin Heat Selector Boxes.
+
+Step 4: Install the VENT SCAT 2X24 Inlet Hose between the VENT DL-03 attached to the aft side of the Cylinder 5 Baffle Assembly and the forward right port on the Muffler Shroud.
+
+Step 5: Install the VENT SCAT 2X28 Inlet Hose between the VENT DL-03 attached to the lower face of the ramp on the Cylinder 2 Baffle Assembly and the forward left port on the Muffler Shroud. Route the inlet hose above the fuel line, see Page FF6-4, Figure 1.
+
+Step 6: Clamp the VENT SCAT 2X28 Inlet Hose to the Cylinder 2 Intake Tube.
+
+FIGURE 3: INSTALLING THE SCAT HOSES
+[Drawing showing scat hose routing from right side with callouts:
+- CYLINDER 5 BAFFLE ASSEMBLY
+- VENT DL-03
+- VENT TG-10-R
+- VENT TG-10-L
+- VENT SCAT 2X15, 2 PLACES
+- AN737TW-66, 2 PLACES PER VENT SCAT TUBE
+- VENT SCAT 2X24
+- MUFFLER SHROUD]
+
+FIGURE 4: INSTALLING THE SCAT HOSES
+[Drawing showing scat hose clamping detail with callouts:
+- CYLINDER 2 BAFFLE ASSEMBLY
+- VENT DL-03
+- CYLINDER 2 INTAKE TUBE
+- AN525-10R10
+- SS CLAMP
+- SS CLAMP
+- MS21919DG26
+- VENT SCAT 2X28
+- AN960-10
+- MS21042-3
+- MUFFLER SHROUD]
+
+=== PAGE 4 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF6-4  RV-10  REVISION: 0  DATE: 2/24/05
+
+Step 1: Run a bead of RTV high temperature sealant (Permatex #26B Red) along the entire length of all four VENT SCAT Inlet and Interconnect Hoses that attach to the Muffler Shroud. See Figure 1.
+
+Step 2: Liberally apply RTV between the VENT SCAT 2X28 Inlet Hose and the fuel line that interconnects the engine driven fuel pump and the fuel injection servo. See Figure 1. Repeat this process for the fuel line between the firewall and the engine driven fuel pump that rests against the right VENT SCAT 2X15 Interconnect Hose. See Figure 2.
+
+FIGURE 1: INLET HOSE DETAILS (LEFT SIDE)
+[Photograph showing left side of engine compartment with callouts:
+- CYLINDER 2 BAFFLE ASSEMBLY
+- BEAD OF RTV
+- SS CLAMP
+- VENT SCAT 2X28
+- RTV CONNECTING THE VENT SCAT 2X28 TO FUEL LINE
+- FUEL LINE]
+
+Step 3: Cut two patches of Air Seal Fabric as shown in Figure 3. Using RTV as an adhesive permanently affix the Air Seal Patches to the VENT SCAT 2X24 Inlet Hose as shown in Figure 3. This will prevent the inlet hose from chaffing on the Cylinder 5 Intake Tube and Oil Line.
+
+FIGURE 2: HOSE DETAILS (RIGHT SIDE)
+[Photograph showing right side with callouts:
+- VENT SCAT 2X24
+- RTV CONNECTING THE VENT SCAT 2X15 TO THE FUEL LINE
+- FUEL LINE
+- VENT SCAT 2X15]
+
+FIGURE 3: PROTECTIVE PATCHES
+[Photograph showing protective patches with callouts:
+- AIR SEAL FABRIC PATCH
+- CYLINDER 5 OIL LINE
+- CYLINDER 5 INTAKE TUBE
+- VENT SCAT 2X24]
+
+Step 4: Liberally Apply a bead of RTV between the control cables and the left edge of the FF-1015 Muffler Support Bracket as shown in Figure 4.
+
+FIGURE 4: MUFFLER SUPPORT BRACKET DETAILS
+[Photograph showing muffler support bracket with callouts:
+- FF-1015
+- CONTROL CABLES
+- BEAD OF RTV]
+
+=== PAGE 5 ===
+VAN'S AIRCRAFT, INC.
+DATE: 10/16/09  REVISION: 0  RV-10  PAGE FF6-5
+
+[Page consists entirely of reference photographs of the current exhaust system installation - no construction steps]
+
+FIGURE 1: INSTALLATION OVERVIEW - LEFT SIDE
+[Photograph showing complete exhaust system from left side of engine]
 
 FIGURE 2: INSTALLATION OVERVIEW - RIGHT SIDE
-                                                                                                 FIGURE 5: MUFFLER BRACING & SUPPORT - RIGHT SIDE
-                                               FIGURE 4: MUFFLER BRACING & SUPPORT - LEFT SIDE             VIEW LOOKING UP AND FORWARD
-                                                        VIEW LOOKING UP AND FORWARD
-                                                                                                                     DATE: 10/16/09 REVISION: 0   RV-10   PAGE   FF6-5
-                 VAN'S AIRCRAFT, INC.
+[Photograph showing complete exhaust system from right side of engine]
 
+FIGURE 3: BALL JOINT ASSEMBLY DETAIL VIEW
+[Close-up photograph showing ball joint connection between pipe interconnect and stack assembly]
 
+FIGURE 4: MUFFLER BRACING & SUPPORT - LEFT SIDE VIEW LOOKING UP AND FORWARD
+[Photograph showing muffler support structure from below, left side]
 
+FIGURE 5: MUFFLER BRACING & SUPPORT - RIGHT SIDE VIEW LOOKING UP AND FORWARD
+[Photograph showing muffler support structure from below, right side]
 
-            FIGURE 1: MUFFLER BRACING & SUPPORT - RIGHT SIDE
-                         VIEW LOOKING INBOARD
+=== PAGE 6 ===
+VAN'S AIRCRAFT, INC.
+PAGE FF6-6  RV-10  REVISION: 0  DATE: 10/16/09
 
-                                                                                       FIGURE 3:
-                                                                          INLET SCAT TUBE ROUTING - LEFT SIDE
+[Page consists entirely of reference photographs of the current exhaust system installation - no construction steps]
 
+FIGURE 1: MUFFLER BRACING & SUPPORT - RIGHT SIDE VIEW LOOKING INBOARD
+[Photograph showing muffler support from right side looking inboard, with exhaust support strap visible]
 
+FIGURE 2: EXHAUST SUPPORT STRAP INSTALLATION DETAIL
+[Photograph showing close-up of exhaust support strap attachment at lower cowl area]
 
+FIGURE 3: INLET SCAT TUBE ROUTING - LEFT SIDE
+[Photograph showing scat tube routing on left side of engine, orange SCAT hoses visible running from baffle to muffler shroud]
 
-                                                                                                                          FIGURE 5:
-                                                                                                                SCAT TUBE ROUTING - RIGHT SIDE
+FIGURE 4: EXHAUST SUPPORT STRAP INSTALLATION DETAIL
+[Photograph showing another view of exhaust support strap installation]
 
-
-
-
-                        FIGURE 2:
-         EXHAUST SUPPORT STRAP INSTALLATION DETAIL                            FIGURE 4:
-                                                               EXHAUST SUPPORT STRAP INSTALLATION DETAIL
-PAGE   FF6-6 RV-10   REVISION: 0   DATE: 10/16/09
-
+FIGURE 5: SCAT TUBE ROUTING - RIGHT SIDE
+[Photograph showing scat tube routing on right side of engine compartment, orange SCAT hoses and white intake tubes visible]

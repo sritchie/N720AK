@@ -1,345 +1,306 @@
-                   VAN'S AIRCRAFT, INC.
+=== PAGE 35-1 ===
+VAN'S AIRCRAFT, INC.
 
-   SECTION 35:
- ACCESS COVERS
-AND FLOOR PANELS
+SECTION 35:
+ACCESS COVERS AND FLOOR PANELS
 
+[Isometric drawing of fuselage interior looking aft, with the following part callouts:]
 
+F-1051F
+BAGGAGE TUNNEL COVER
 
+F-1025-R
+REAR SEAT COVER PANEL
 
-                      DATE:    REVISION:   PAGE
-                        VAN'S AIRCRAFT, INC.
+F-1051E
+REAR SEAT TUNNEL COVER
 
+F-1051A
+FUSELAGE TUNNEL COVER
 
+F-1016E-R
+FLAP TORQUE TUBE COVER
 
-  NOTE: The instructions on this page show how to install the F-1016C-L Floor Pan. The right installation is a mirror of the                 Step 4 (Standard Kit): Rivet the five nutplates to the bottom side of the F-1016-L Floor Pan per the callouts in Figure 1.
-  left.
-                                                                                                                                             Step 5 (Standard & Quick Build Kit): Cleco the F-1016C-L Floor Pan in place then rivet the floor pan to the F-1016-L Outbd Foot
-   Step 1 (Standard Kit): Force the F-1016-L Outbd Foot Well Rib and the F-1016F-L Inbd Foot Well Rib apart slightly then insert and         Well Rib, F-1016F-L Inbd Foot Well Rib, F-1005A Rear Spar Bulkhead, and F-1004B Center Section Bulkhead per the callouts in
-   cleco the F-1016C-L Floor Pan in place. See Figure 2. Final-Drill #30 the holes common between the outbd and inbd foot well ribs          Figure 2. Blind Rivet the floor pan to the F-1016B-L and -R Floor Stiffeners per the callouts in Figure 2.
-   and the floor pan. Final-Drill #30 the holes common between the F-1005A Rear Spar Bulkhead and the floor pan. Match-Drill #30
-   the holes in the forward flanges of the floor pan into the F-1004B Center Section Bulkhead.
+F-1042G-R
+WIRE COVER
 
-   Step 2 (Standard Kit): Final-Drill #19 the screw holes and Final-Drill #40 the corresponding nutplate attach holes in the bottom face                                   CS4-4
-   of the F-1016C-L Floor Pan. Final-Drill #30 the remaining holes in the bottom face of the floor pan. See Figure 1.                                           ALL F-1016C-L TO
-                                                                                                                                                                 F-1016B-L OR -R
-  Step 3 (Standard Kit): Remove the F-1016C-L Floor Pan. Deburr the holes and edges of the floor pan and the holes drilled in the                                  BLIND RIVETS                                                                        AN470AD4-4
-  under structure in Step 2. Dimple all the rivet holes in the bottom face of the floor pan, see Figure 1. Dimple the screw holes in the                                                                F-1005A                                        ALL F-1005A TO
-  bottom face of the floor pan for the head of an #8 screw (flush face on top side). Prime the floor pan if desired. Dimple the nutplates.                         AN470AD4-4                                                                          F-1016C-L RIVETS
-                                                                                                                                                              ALL F-1016C-L TO
-                                                                                                                                                              F-1016F-L RIVETS
-                                        K1100-08,
-                                        5 PLACES                                                                                                    F-1016C-L
-                                                                                                                                              F-1016F-L
-                                                                                                AN426AD3-3.5,
-                                                                                                2 PLACES PER
-                                                                                                NUTPLATE
+F-1051C
+AFT FUSELAGE TUNNEL COVER
 
-                  F-1016C-L
+F-1015D-R
+MID CABIN SIDE COVER
 
+F-1016C-R
+FLOOR PAN
 
+F-1050B
+BOLT ACCESS PLATE, 2 PLACES
 
+F-1016E-L
+FLAP TORQUE TUBE COVER
 
-                                                                                                      BOTTOM FACE OF F-1016C-L                                                                                                                              AN470AD4-4
-                                                                                                                                                   LP4-3                                                                                                    ALL F-1016-L TO
-                                                                                                                                         ALL F-1004B TO                                                                                                     F-1016C-L RIVETS
-                                                                                                                                       F-1016C-L RIVETS
-                                                                                                                                                                                                                                                   F-1016-L
-                                                                                                                                                           F-1016B-R,                                                                              (SHOWN TRANSPARENT)
-                                                                                                                                                            2 PLACES
-                                                                                                                                                                            F-1016B-L,                                                   F-1004B
-                                                                                                                                                                            2 PLACES                                                     (SHOWN TRANSPARENT)
+F-1025-L
+REAR SEAT COVER PANEL
 
-                 FIGURE 1: FLOOR PAN NUTPLATE INSTALLATION
+F-1015D-L
+MID CABIN SIDE COVER
 
-                                                                                                                                                                                              FIGURE 2: FLOOR PAN INSTALLATION
+F-1016C-L
+FLOOR PAN
 
+F-1042G-L
+WIRE COVER
 
+F-1067B
+SEAT FLOOR COVER, 2 PLACES
 
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 35-1
 
-PAGE   35-2    RV-10      REVISION: 1     DATE: 07/24/14
-                                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
-NOTE: Even though callouts in this section show how to completely install various access covers throughout the fuselage, none should be permanently installed
-at this time to allow access for systems installations. The access covers are fitted at this time so that upon completion of this section the interior of the fuselage
-will be ready to paint.                                                                                                                                                                 AN515-8R8
-                                                                                                                                                                                         2 PLACES
-NOTE: Before starting this section determine the rear seat head phone jack location, finish all wiring runs and antenna installations; THIS MAY BE YOUR LAST
-                                                                                                                                                                                    AN509-8R8,
-CHANCE to have access to several areas closed out in this section!!
-                                                                                                                                                                                    16 PLACES
-Step 1 (Standard & Quickbuid Kits): Rivet the F-1024-L and -R Seat Floors and nutplates to the under structure using the rivet callouts given in Figure 1.                       F-1051F
-                                                                                                                                                                    F-1034B
-Step 2 (Standard Kit): Dimple two K1100-08 nutplates. Rivet these nutplates to the center upper flange of the F-1005A Rear Spar Bulkhead                    LP4-3
-and two K1000-08 nutplates to the center upper flange of the F-1034A Fuselage Bulkhead as shown in the detail views in Figure 2.                  ALL F-1034B TO
-                                                                                                                                                  F-1034F RIVETS
-           MS21053-L08
-                                                                                                                                                  F-1051E
-                                                                            HARDWARE ALREADY INSTALLED
-                      K1000-08                          K1100-08
-                                                                            IN SECTION 33 BAGGAGE AREA                       AN515-8R8,
-                                                                                                                             14 PLACES
-                                                                                                    MS21053-L08
+=== PAGE 35-2 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: The instructions on this page show how to install the F-1016C-L Floor Pan. The right installation is a mirror of the left.
 
+Step 1 (Standard Kit): Force the F-1016-L Outbd Foot Well Rib and the F-1016F-L Inbd Foot Well Rib apart slightly then insert and cleco the F-1016C-L Floor Pan in place. See Figure 2. Final-Drill #30 the holes common between the outbd and inbd foot well ribs and the floor pan. Final-Drill #30 the holes common between the F-1005A Rear Spar Bulkhead and the floor pan. Match-Drill #30 the holes in the forward flanges of the floor pan into the F-1004B Center Section Bulkhead.
 
+Step 2 (Standard Kit): Final-Drill #19 the screw holes and Final-Drill #40 the corresponding nutplate attach holes in the bottom face of the F-1016C-L Floor Pan. Final-Drill #30 the remaining holes in the bottom face of the floor pan. See Figure 1.
 
-                                                                                                              AN426AD3-4                                                      F-1034F
+Step 3 (Standard Kit): Remove the F-1016C-L Floor Pan. Deburr the holes and edges of the floor pan and the holes drilled in the under structure in Step 2. Dimple all the rivet holes in the bottom face of the floor pan, see Figure 1. Dimple the screw holes in the bottom face of the floor pan for the head of an #8 screw (flush face on top side). Prime the floor pan if desired. Dimple the nutplates.
 
-                                                                                                              AN426AD4-4
+[Figure 1 shows bottom face of floor pan:]
+K1100-08, 5 PLACES
+AN426AD3-3.5, 2 PLACES PER NUTPLATE
+F-1016C-L
+BOTTOM FACE OF F-1016C-L
 
-                                                                                                              LP4-3
+FIGURE 1: FLOOR PAN NUTPLATE INSTALLATION
 
+Step 4 (Standard Kit): Rivet the five nutplates to the bottom side of the F-1016-L Floor Pan per the callouts in Figure 1.
 
+Step 5 (Standard & Quick Build Kit): Cleco the F-1016C-L Floor Pan in place then rivet the floor pan to the F-1016-L Outbd Foot Well Rib, F-1016F-L Inbd Foot Well Rib, F-1005A Rear Spar Bulkhead, and F-1004B Center Section Bulkhead per the callouts in Figure 2. Blind Rivet the floor pan to the F-1016B-L and -R Floor Stiffeners per the callouts in Figure 2.
 
+[Figure 2 shows floor pan installation:]
+CS4-4, ALL F-1016C-L TO F-1016B-L OR -R BLIND RIVETS
+AN470AD4-4, ALL F-1016C-L TO F-1016F-L RIVETS
+F-1016C-L
+F-1016F-L
+F-1005A
+AN470AD4-4, ALL F-1005A TO F-1016C-L RIVETS
+LP4-3, ALL F-1004B TO F-1016C-L RIVETS
+F-1016B-R, 2 PLACES
+F-1016B-L, 2 PLACES
+AN470AD4-4, ALL F-1016-L TO F-1016C-L RIVETS
+F-1016-L (SHOWN TRANSPARENT)
+F-1004B (SHOWN TRANSPARENT)
 
-                                                                                                                                                                                                          AN426AD3-3.5
-                                                                                                                                                                                                         2 PLACES PER
-                                                                                                                                                                                                             NUTPLATE                                   F-1034A
+FIGURE 2: FLOOR PAN INSTALLATION
 
+PAGE 35-2  RV-10  REVISION: 1  DATE: 07/24/14
 
+=== PAGE 35-3 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Even though callouts in this section show how to completely install various access covers throughout the fuselage, none should be permanently installed at this time to allow access for systems installations. The access covers are fitted at this time so that upon completion of this section the interior of the fuselage will be ready to paint.
 
-                       FIGURE 1: SEAT FLOOR RIVET KEY
-Step 3 (Standard Kit): Cleco the F-1034F Seat Back Brace Closeout to the F-1034B Seat                                                                                                                                                            K1000-08
-Back Brace as shown in Figure 2. Final-Drill #30 the holes common between these two parts.                                                                                                                                         F-1005A
-Un-cleco, then deburr the holes and edges in the seat back brace closeout and the holes in the
-seat back brace. Prime the seat back brace closeout if desired.
+NOTE: Before starting this section determine the rear seat head phone jack location, finish all wiring runs and antenna installations; THIS MAY BE YOUR LAST CHANCE to have access to several areas closed out in this section!!
 
-NOTE: Steps 4-6 are for both Standard and Quickbuld Kits.
+Step 1 (Standard & Quickbuild Kits): Rivet the F-1024-L and -R Seat Floors and nutplates to the under structure using the rivet callouts given in Figure 1.
 
-Step 4: Cleco then rivet the F-1034F Seat Back Brace Closeout to the F-1034B Seat Back Brace per the callouts                                                                                                                           AN426AD3-3.5,
-in Figure 2.                                                                                                                                                                                                                            2 PLACES PER
-                                                                                                                                                                                            K1100-08                                    NUTPLATE
-Step 5: Final-Drill #19 all the screw holes in the F-1051E Rear Seat Tunnel Cover and F-1051F Baggage Tunnel Cover.
-Deburr the holes and edges in these covers. See Figure 2.
-                                                                                                                                                                                   FIGURE 2: FITTING THE REAR SEAT AND
-Step 6: Dimple the four screw holes along the forward edge of the F-1051E Rear Seat Tunnel Cover for a #8 screw. Dimple                                                                 BAGGAGE TUNNEL COVERS
-all the screw holes in the F-1051F Baggage Tunnel Cover for the head of an #8 screw except the two holes along the forward
-edge and the two holes in the aft flange. Prime covers if desired. See Figure 2.
-                                                                                                                                                                                                           DATE: 07/24/14 REVISION: 0     RV-10    PAGE   35-3
-                       VAN'S AIRCRAFT, INC.                                                                                             Step 4: Match-Drill #19 the screw holes in the upper flange of the F-1025-R Rear Seat Cover Panel into the F-1013-R Fwd Fuselage
-                                                                                                                                        Longeron.
-                        NOTE: This page is for the Standard Kit only! This page describes how to install the F-1025-R Rear
-                        Seat Cover Panel. The left installation is a mirror of the right.                                               Step 5: Remove then deburr the holes and edges of the F-1025-R Rear Seat Cover Panel. Prime the rear seat cover panel if
-                                                                                                                                        desired.
-  Step 1: Final-Drill #19 all the screw holes in the lower flanges, forward flange, and aft flange of the F-1025-R Rear Seat Cover
-  Panel.                                                                                                                                Step 6: Using a nutplate as a drill guide match-drill #40 the nutplate attach pattern into the F-1013-R Fwd Fuselage Longeron at
-                                                                                                                                        each of the seven locations match-drilled in Step 4. Machine countersink these holes for the head of an AN426AD3 rivet on the
-   Step 2: Deburr then dimple the lower three screw holes in the forward flange of the F-1025-R Rear Seat Cover Panel for the head of   upper side of the longeron. Deburr all the holes in the longeron drilled in this step and Step 4. Install nutplates to the longeron per
-   an #8 screw. See Figure 1.                                                                                                           the callouts in Figure 1.
+Step 2 (Standard Kit): Dimple two K1100-08 nutplates. Rivet these nutplates to the center upper flange of the F-1005A Rear Spar Bulkhead and two K1000-08 nutplates to the center upper flange of the F-1034A Fuselage Bulkhead as shown in the detail views in Figure 2.
 
-   Step 3: Install the F-1025-R Rear Seat Cover Panel using the hardware (except the upper flange hardware) called out in Figure 2.
+[Figure 1 shows seat floor rivet key with legend:]
+MS21053-L08
+K1000-08
+K1100-08
+HARDWARE ALREADY INSTALLED IN SECTION 33 BAGGAGE AREA
+MS21053-L08
+AN426AD3-4 [symbol]
+AN426AD4-4 [symbol]
+LP4-3 [symbol]
 
+FIGURE 1: SEAT FLOOR RIVET KEY
 
+Step 3 (Standard Kit): Cleco the F-1034F Seat Back Brace Closeout to the F-1034B Seat Back Brace as shown in Figure 2. Final-Drill #30 the holes common between these two parts. Un-cleco, then deburr the holes and edges in the seat back brace closeout and the holes in the seat back brace. Prime the seat back brace closeout if desired.
 
-                                                                                                                                                         F-1015C-R
+NOTE: Steps 4-6 are for both Standard and Quickbuild Kits.
 
-                                                                                                                                        NOTE INSERT
-                                                                                                                                            F-1025-R
-                     F-1005C-R                                                                                                          UNDERNEATH
-                                                                                                                                           F-1015C-R
-                                                                                                                                                                                                                                AN515-8R8,
-                                                                                                                                                                                                                                18 PLACES
-                                                                                                     F-1013-R
-                                                                                                                                                                                                                                                 F-1025-R
-                                                                                                                AN426AD3-5,
-                                                                                                                2 PLACES PER
-                                                                                                                NUTPLATE
+Step 4: Cleco then rivet the F-1034F Seat Back Brace Closeout to the F-1034B Seat Back Brace per the callouts in Figure 2.
 
+Step 5: Final-Drill #19 all the screw holes in the F-1051E Rear Seat Tunnel Cover and F-1051F Baggage Tunnel Cover. Deburr the holes and edges in these covers. See Figure 2.
 
+Step 6: Dimple the four screw holes along the forward edge of the F-1051E Rear Seat Tunnel Cover for a #8 screw. Dimple all the screw holes in the F-1051F Baggage Tunnel Cover for the head of an #8 screw except the two holes along the forward edge and the two holes in the aft flange. Prime covers if desired. See Figure 2.
 
+[Figure 2 shows rear seat and baggage tunnel covers:]
+AN515-8R8, 2 PLACES
+AN509-8R8, 16 PLACES
+F-1051F
+F-1034B
+LP4-3, ALL F-1034B TO F-1034F RIVETS
+F-1051E
+AN515-8R8, 14 PLACES
+F-1034F
+AN426AD3-3.5, 2 PLACES PER NUTPLATE
+F-1034A
+K1000-08
+F-1005A
+AN426AD3-3.5, 2 PLACES PER NUTPLATE
+K1100-08
 
-                                                                                                                                                     AN509-8R8,
-                     DIMPLE                                                                                                                           4 PLACES
+FIGURE 2: FITTING THE REAR SEAT AND BAGGAGE TUNNEL COVERS
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 35-3
 
+=== PAGE 35-4 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: This page is for the Standard Kit only! This page describes how to install the F-1025-R Rear Seat Cover Panel. The left installation is a mirror of the right.
 
-          F-1024-R
+Step 1: Final-Drill #19 all the screw holes in the lower flanges, forward flange, and aft flange of the F-1025-R Rear Seat Cover Panel.
 
-                                                                           K1000-08,
-                                                                           7 PLACES
+Step 2: Deburr then dimple the lower three screw holes in the forward flange of the F-1025-R Rear Seat Cover Panel for the head of an #8 screw. See Figure 1.
 
+Step 3: Install the F-1025-R Rear Seat Cover Panel using the hardware (except the upper flange hardware) called out in Figure 2.
 
+[Figure 1 shows:]
+F-1005C-R
+F-1013-R
+AN426AD3-5, 2 PLACES PER NUTPLATE
+DIMPLE
+F-1024-R
+K1000-08, 7 PLACES
+F-1025-R (SHOWN TRANSPARENT)
+F-1080
 
+FIGURE 1: MATCH-DRILLING THE REAR SEAT COVER PANEL TO THE LONGERON
 
-                                                                                                                F-1025-R
-                                                                                                                (SHOWN
-                                                                                                                TRANSPARENT)
+Step 4: Match-Drill #19 the screw holes in the upper flange of the F-1025-R Rear Seat Cover Panel into the F-1013-R Fwd Fuselage Longeron.
 
+Step 5: Remove then deburr the holes and edges of the F-1025-R Rear Seat Cover Panel. Prime the rear seat cover panel if desired.
 
+Step 6: Using a nutplate as a drill guide match-drill #40 the nutplate attach pattern into the F-1013-R Fwd Fuselage Longeron at each of the seven locations match-drilled in Step 4. Machine countersink these holes for the head of an AN426AD3 rivet on the upper side of the longeron. Deburr all the holes in the longeron drilled in this step and Step 4. Install nutplates to the longeron per the callouts in Figure 1.
 
+[Figure 2 shows:]
+F-1015C-R
+NOTE INSERT F-1025-R UNDERNEATH F-1015C-R
+AN515-8R8, 18 PLACES
+F-1025-R
+AN509-8R8, 4 PLACES
 
-                                                                                    F-1080
+FIGURE 2: (installation view of rear seat cover panel)
 
-                                                     FIGURE 1: MATCH-DRILLING THE REAR SEAT
-                                                         COVER PANEL TO THE LONGERON
-PAGE   35-4    RV-10      REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+PAGE 35-4  RV-10  REVISION: 0  DATE: 07/24/14
 
+=== PAGE 35-5 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Complete this page for both the Standard and Quickbuild Kits.
 
+Step 1: Cleco the F-1051C Aft Fuselage Tunnel Cover and F-1051G Splice Plate together as shown in Figure 1.
 
-NOTE: Complete this page for both the Standard and Quickbuild Kits.                                                                       Step 5: Final-Drill #19 the screw holes along the aft edge and side flanges of the F-1051A Fwd Fuselage Tunnel Cover.
+Step 2: Final-Drill #40 the holes common between the parts clecoed together in Step 1 and both sets of nutplate attach holes along the forward edge of the F-1051G Splice Plate.
 
-Step 1: Cleco the F-1051C Aft Fuselage Tunnel Cover and F-1051G Splice Plate together as shown in Figure 1.                               Step 6: Deburr the F-1051A Fwd Fuselage Tunnel Cover. Dimple the screw holes in the F-1051A Fwd Fuselage Tunnel Cover for the
-                                                                                                                                          head of an #8 screw. Prime the Fwd Fuselage Tunnel Cover if desired.
-Step 2: Final-Drill #40 the holes common between the parts clecoed together in Step 1 and both sets of nutplate attach holes along
-the forward edge of the F-1051G Splice Plate.                                                                                             Step 7: Final-Drill #40 and deburr the holes common between the F-1051A Fwd Fuselage Tunnel Cover and VA-178D Detent Plate.
-                                                                                                                                          Countersink the top side of the Detent Plate, then rivet the Detent Plate to the Fwd Fuselage Tunnel Cover per the callouts in Figure 2.
-Final-Drill #19 both screw holes along the forward edge of the splice plate. Final-Drill #19 all the screw holes along the side and aft
-flanges of the F-1051C Aft Fuselage Tunnel Cover.
+Final-Drill #19 both screw holes along the forward edge of the splice plate. Final-Drill #19 all the screw holes along the side and aft flanges of the F-1051C Aft Fuselage Tunnel Cover.
 
-Step 3: Disassemble and deburr all parts. Dimple (flush head on top side) the rivet holes in all the parts. Dimple the screw holes in                                                               COUNTERSINK,
-the F-1051C Aft Fuselage Tunnel Cover and the F-1051G Splice Plate for the head of an #8 screw. Dimple the nutplates. Prime                                                                         4 PLACES
-parts if desired.
+Step 3: Disassemble and deburr all parts. Dimple (flush head on top side) the rivet holes in all the parts. Dimple the screw holes in the F-1051C Aft Fuselage Tunnel Cover and the F-1051G Splice Plate for the head of an #8 screw. Dimple the nutplates. Prime parts if desired.
 
-Step 4: Repeat Step 1 then rivet the parts clecoed together in Step 1, and the two nutplates common to the F-1051G Splice Plate                                                                                    VA-178D
-per the callouts in Figure 1. This will create the Aft Tunnel Cover Assembly.
-                                                                                                                                                                                                                  AN426AD3-4,
-                                                                                                                                                                                                                  ALL VA-178D TO F-1051A RIVETS,
-                                                                                                                                                                                                                  FLUSH HEAD ON TOP SIDE
+Step 4: Repeat Step 1 then rivet the parts clecoed together in Step 1, and the two nutplates common to the F-1051G Splice Plate per the callouts in Figure 1. This will create the Aft Tunnel Cover Assembly.
 
+[Figure 1 shows bottom face of aft tunnel cover:]
+K1100-08, 2 PLACES
+AN426AD3-3.5, ALL NUTPLATE TO F-1051G RIVETS
+F-1051G
+BOTTOM FACE OF F-1051C
 
+FIGURE 1: AFT FUSE TUNNEL COVER ASSEMBLY
 
+Step 5: Final-Drill #19 the screw holes along the aft edge and side flanges of the F-1051A Fwd Fuselage Tunnel Cover.
 
-                                                                                                 BOTTOM FACE OF F-1051C
+Step 6: Deburr the F-1051A Fwd Fuselage Tunnel Cover. Dimple the screw holes in the F-1051A Fwd Fuselage Tunnel Cover for the head of an #8 screw. Prime the Fwd Fuselage Tunnel Cover if desired.
 
-   K1100-08,
-   2 PLACES
+Step 7: Final-Drill #40 and deburr the holes common between the F-1051A Fwd Fuselage Tunnel Cover and VA-178D Detent Plate. Countersink the top side of the Detent Plate, then rivet the Detent Plate to the Fwd Fuselage Tunnel Cover per the callouts in Figure 2.
 
+[Figure 2 shows fwd tunnel cover:]
+COUNTERSINK, 4 PLACES
+VA-178D
+AN426AD3-4, ALL VA-178D TO F-1051A RIVETS, FLUSH HEAD ON TOP SIDE
+F-1051A
 
-    AN426AD3-3.5,
-ALL NUTPLATE TO
-  F-1051G RIVETS
+FIGURE 2: FWD FUSE TUNNEL COVER
 
-                 F-1051G
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 35-5
 
-                     FIGURE 1: AFT FUSE TUNNEL COVER ASSEMBLY                                                                                                                                                                                 F-1051A
+=== PAGE 35-6 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Complete this page for both the Standard and Quickbuild Kits.
 
+Step 1: Figure 1 shows the final installation of the tunnel covers, but wait to install them until all systems have been installed in the tunnel.
 
+[Figure 1 shows tunnel covers installed in fuselage:]
+AFT TUNNEL COVER ASSEMBLY
+F-1051A
+AN509-8R8, 46 PLACES
 
-                                                                                                                                                                                                      FIGURE 2: FWD FUSE TUNNEL COVER
+FIGURE 1: INSTALLING THE TUNNEL COVERS
 
+PAGE 35-6  RV-10  REVISION: 0  DATE: 07/24/14
 
+=== PAGE 35-7 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Complete this page for both Standard and Quickbuild Kits.
 
-                                                                                                                                                                                                                               DATE: 07/24/14 REVISION: 1   RV-10      PAGE   35-5
-                         VAN'S AIRCRAFT, INC.
+NOTE: Step 1 and Step 2 describe how to install the F-1016E-L Flap Torque Tube Cover. The right cover installation is a mirror of the left.
 
+Step 1: Final-Drill #19 the screw holes in the F-1016E-L Flap Torque Tube Cover.
 
+Step 2: Deburr the holes and edges of the F-1016E-L Flap Torque Tube Cover. Dimple the screw holes in the flap torque tube cover for the head of an #8 screw. See Figure 1.
 
-  NOTE: Complete this page for both the Standard and
-  Quickbuild Kits.                                                            AFT TUNNEL
-                                                                          COVER ASSEMBLY
-  Step 1: Figure 1 shows the final installation of the tunnel covers,
-  but wait to install them until all systems have been installed in the
-  tunnel.
+[Figure 1 shows:]
+F-1016E-L
+AN509-8R8, 9 PLACES
 
+FIGURE 1: INSTALLING THE FLAP TORQUE TUBE COVER
 
+NOTE: The remainder of this page shows the installation of the F-1042G-R Wire Cover. The installation of the left cover is a mirror of the right.
 
+Step 3: Final-Drill #19 the holes in the F-1042G-R Wire Cover. See Figure 2.
 
-       F-1051A                                                                AN509-8R8,
-                                                                              46 PLACES
+Step 4: Deburr the holes and edges of the F-1042G-R Wire Cover. Prime the cover if desired.
 
+[Figure 2 shows:]
+F-1042-R
+AN515-8R8, 3 PLACES
+AN509-8R8, 2 PLACES
+F-1042G-R
+F-1040-R
 
+FIGURE 2: INSTALLING THE WIRE COVER
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 35-7
 
-                                                                          FIGURE 1: INSTALLING THE TUNNEL COVERS
+=== PAGE 35-8 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: Complete this page for both the Standard and Quickbuild Kits.
 
+NOTE: This page describes the installation of the F-1067A Seat Floor on the left hand side of the aircraft. The right side installation is a mirror of the left.
 
+NOTE: When installing the F-1067A Seat Floors, first slide the cover up underneath the F-1043B Forward Fuselage Bulkhead.
 
-PAGE   35-6      RV-10    REVISION: 0   DATE: 07/24/14
-NOTE: Complete this page for both Standard and Quickbuild Kits.
-                                                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+Step 1: Figure 1 shows the final install of the F-1067A Seat Floors, but wait to install them until all systems installations and wiring runs have been completed.
 
-NOTE: Step 1 and Step 2 describe how to install the F-1016E-L Flap Torque Tube Cover. The right cover installation is a
-mirror of the left.
-                                                                                                                             NOTE: The remainder of this page shows the installation of the F-1042G-R Wire Cover. The installation of the left cover is a
-Step 1: Final-Drill #19 the screw holes in the F-1016E-L Flap Torque Tube Cover.                                             mirror of the right.
+[Figure 1 shows:]
+AN509-8R8, 4 PLACES
+F-1067A
+AN515-8R8, 4 PLACES
 
-Step 2: Deburr the holes and edges of the F-1016E-L Flap Torque Tube Cover. Dimple the screw holes in the flap torque tube   Step 3: Final-Drill #19 the holes in the F-1042G-R Wire Cover. See Figure 2.
-cover for the head of an #8 screw. See Figure 1.
-                                                                                                                             Step 4: Deburr the holes and edges of the F-1042G-R Wire Cover. Prime the cover if desired.
+FIGURE 1: INSTALLING THE SEAT FLOORS
 
+PAGE 35-8  RV-10  REVISION: 0  DATE: 07/24/14
 
-
-                                                                           F-1016E-L
-
-                                                                                    AN509-8R8,
-                                                                                    9 PLACES
-                                                                                                                                                                                                                  F-1042-R
-
-                                                                                                                                                               AN515-8R8,
-                                                                                                                                                                3 PLACES
-
-                                                                                                                                                                                                                   AN509-8R8,
-                                                                                                                                                                                                                   2 PLACES
-                                                                                                                                                 F-1042G-R
-
-
-
-
-                                                                                                                                         F-1040-R
-
-
-
-
-                                                                                                                                                             FIGURE 2: INSTALLING THE WIRE COVER
-
-
-
-
-                     FIGURE 1: INSTALLING THE FLAP TORQUE TUBE COVER
-
-
-
-
-                                                                                                                                                                                                               DATE: 07/24/14 REVISION: 0   RV-10   PAGE   35-7
-                        VAN'S AIRCRAFT, INC.
-
-
-  NOTE: Complete this page for both the Standard and Quickbuild Kits.
-
-  NOTE: This page describes the installation of the F-1067A Seat Floor on the left hand side of
-  the aircraft. The right side installation is a mirror of the left.
-
-  NOTE: When installing the F-1067A Seat Floors, first slide the cover up underneath the
-  F-1043B Forward Fuselage Bulkhead.
-
-   Step 1: Figure 1 shows the final install of the F-1067A Seat Floors, but wait to install them until all
-   systems installations and wiring runs have been completed.
-
-
-
-
-                                                                                                       AN509-8R8,
-                                                                                                        4 PLACES
-
-
-
-
-                                                                                                       F-1067A
-
-
-
-
-                                                                                                      AN515-8R8,
-                                                                                                       4 PLACES
-
-
-
-
-                                                                                                                    FIGURE 1: INSTALLING THE SEAT FLOORS
-
-
-
-
-PAGE   35-8     RV-10      REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
-
+=== PAGE 35-9 ===
+VAN'S AIRCRAFT, INC.
 
 NOTE: Complete this page for the Standard Kit Only.
 
@@ -347,88 +308,47 @@ NOTE: This page describes the installation of the F-1015D-R Mid Cabin Side Cover
 
 Step 1: Final-Drill #19 the screw holes in the F-1015D-R Mid Cabin Side Cover and F-1067B Seat Floor Cover. Final-Drill #40 the nutplate attach holes in the mid cabin side cover.
 
-Step 2: Duburr the holes and edges of both the F-1015D-R Mid Cabin Side Cover and F-1067B Seat Floor Cover. Dimple all the screw holes in the mid cabin side cover except the top row of holes and the
-holes in the forward lower flange (See Figure 1). Dimple the platenut attach holes in the mid cabin side cover. Dimple the platenuts. Machine countersink the screw holes on the inboard face of the F-1015C
-Mid Cabin Decks. Machinge countersink the locations for the four AN509-8R8 screws shown on Page 35-8, Figure 1. Prime the parts if desired.
+Step 2: Deburr the holes and edges of both the F-1015D-R Mid Cabin Side Cover and F-1067B Seat Floor Cover. Dimple all the screw holes in the mid cabin side cover except the top row of holes and the holes in the forward lower flange (See Figure 1). Dimple the platenut attach holes in the mid cabin side cover. Dimple the platenuts. Machine countersink the screw holes on the inboard face of the F-1015C Mid Cabin Decks. Machine countersink the locations for the four AN509-8R8 screws shown on Page 35-8, Figure 1. Prime the parts if desired.
 
 Step 3: Rivet the platenuts to the F-1015D-R Mid Cabin Side Cover per the callouts in Figure 1.
 
 NOTE: When installing the F-1015D Mid Cabin Covers, first slide the cover up underneath the F-1015C Mid Cabin Decks then slide the cover down underneath the F-1016 Outbd Foot Well Rib.
 
-                                                                                                                                                                                                     F-1015C-R
-                                          K1000-08,
-                                          7 PLACES
-                                                        AN426AD3-3.5,
-                                                                                                                                                                                         F-1015D-R
-                                                        2 PLACES PER
-                                                        NUTPLATE
+[Figure 1 shows:]
+K1000-08, 7 PLACES
+AN426AD3-3.5, 2 PLACES PER NUTPLATE
+K1100-08, 6 PLACES
+DO NOT DIMPLE
+DO NOT DIMPLE SCREW HOLES
 
-                                                                                                                                                                                     F-1016-R
+FIGURE 1: INSTALLING NUTPLATES ON THE MID CABIN SIDE COVER
 
-                                                                                                                                                                          AN509-8R8,
-                                                                                                                                        F-1067B                           29 PLACES
+[Figure 2 shows:]
+F-1015C-R
+F-1015D-R
+F-1016-R
+AN509-8R8, 29 PLACES
+F-1067B
+AN515-8R8, 13 PLACES
 
+FIGURE 2: INSTALLING THE MID CABIN SIDE COVER AND THE SEAT FLOOR COVER
 
+DATE: 07/24/14  REVISION: 1  RV-10  PAGE 35-9
 
+=== PAGE 35-10 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                      DO NOT
-                                                                                                                      DIMPLE
-                         K1100-08,                                                                                    SCREW
-                         6 PLACES                                                                                     HOLES
+NOTE: This page describes the installation of a F-1050B Bolt Access Plate to the right side of the aircraft. The left installation is a mirror of the right.
 
+Step 1: Final-Drill #19 the screw holes in the F-1050B Bolt Access Plate.
 
+Step 2: Deburr the edges of the F-1050B Bolt Access Plate. Prime the plate if desired. See Figure 1 for installation of the bolt access plate.
 
+[Figure 1 shows:]
+F-1050B
+F-1069-R
+AN515-8R8, 3 PLACES
 
-                                                DO NOT
-                                                DIMPLE
+FIGURE 1: BOLT ACCESS PLATE INSTALLATION
 
-
-
-                FIGURE 1: INSTALLING NUTPLATES ON THE
-                         MID CABIN SIDE COVER
-
-
-
-
-                                                                                                                 AN515-8R8,
-                                                                                                                 13 PLACES
-
-
-
-
-                                                                                                                                            FIGURE 2: INSTALLING THE MID CABIN SIDE COVER AND THE SEAT FLOOR COVER
-
-
-
-                                                                                                                                                                                                                    DATE: 07/24/14 REVISION: 1   RV-10   PAGE   35-9
-                        VAN'S AIRCRAFT, INC.
-
-
-  NOTE: This page describes the installation of a F-1050B Bolt Access Plate to the right side of the aircraft. The left
-  installation is a mirror of the right.
-
-   Step 1: Final-Drill #19 the screw holes in the F-1050B Bolt Access Plate.
-
-   Step 2: Deburr the edges of the F-1050B Bolt Access Plate. Prime the plate if desired. See Figure 1 for installation of the bolt
-   access plate.
-
-
-
-
-                                                                                                                        F-1050B                                                  F-1069-R
-
-
-
-                                                                                                                  AN515-8R8,
-                                                                                                                   3 PLACES
-
-
-
-
-                                                                                                                                      FIGURE 1: BOLT ACCESS PLATE INSTALLATION
-
-
-
-
-PAGE   35-10   RV-10       REVISION: 1   DATE: 07/24/14
-
+PAGE 35-10  RV-10  REVISION: 1  DATE: 07/24/14

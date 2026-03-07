@@ -1,306 +1,438 @@
-                                     VAN'S AIRCRAFT, INC.
-
-
+=== PAGE 45A-01 ===
 SECTION 45A:
-CABIN DOOR     C-1002-R
-                 DOOR
-                          C-1002-L
-                          DOOR
-
-
-
-
+CABIN DOOR
 SAFETY LATCH
+VAN'S AIRCRAFT, INC.
 
+[Title page - isometric view of cabin with safety latch components labeled]
 
+C-1001
+CABIN
+COVER
 
+C-1002-R
+DOOR
 
-                                        DATE: 12/4/09   REVISION: 0   RV-10 PAGE 45A-01
-                        VAN'S AIRCRAFT, INC.
-                                                                                                                                           Step 5: Rivet together the two stacks of C-1018 Safety Latch Laminations as shown in Figure 3. The shop heads of the rivets are
-                         Step 1: There are a total of 10 C-1018 Safety Latch Laminations provided in your kit, two of which will be        set into countersinks and will not completely fill the countersink in the same way as the manufactured heads.
-                         used "as-is" and the remaining eight will be modified. Two Safety Latch Assemblies, each consisting of five
-   safety latch laminations of various configuration will be created. Study Figure 3 to understand the assembly of the safety latch        Final-Drill #11 the holes in the lugs of the safety latch laminations.
-   assembly before progressing.
-                                                                                                                                           Use a disk sander or scotch-brite wheel or file to round or "soften" the outside edges of the "hook" portion of the outer safety latch
-   Step 2: The manufacturing process may have left the C-1018 Safety Latch Laminations with a slight "bow" or "camber". Adjust             laminations and the "tail" portion of the middle safety latch lamination.
-   the parts so that they are no more than 1/32 inch from being perfectly flat. Leaving the vinyl on the parts until after adjusting for
-   flatness will help keep the surfaces from becoming scarred or scratched.                                                                Set aside the two Safety Latch Assemblies until later.
-                                                                                                                                                                                                                            C-1018,
-   Step 3: Trim the "tail" off four of the safety latch laminations as shown in Figure 1.                                                                                                                           "TAILLESS & CSK RIGHT"
-                                                                                                                                                                                                                        CONFIGURATION
-  Machine countersink the 1/8 inch holes in each of the "tailless" safety latch laminations to fit the head of an AN426AD4 rivet.
-  Countersink two parts on the left side and countersink the other two parts on the right side as called-out in Figure 1.                                                                                C-1018
-                                                                                                                                                                                                     "AS SUPPLIED"
-                                                                                                                                                                                                    CONFIGURATION
-                                                                                                                                                                                   C-1018,
-                                                          MACHINE COUNTERSINK,                                                                                              "TAILLESS & LUGLESS"
-                                                            2 PARTS THIS SIDE,                                                                                                 CONFIGURATION,
-                                                           2 PARTS OTHER SIDE                                                                                                       2 PL
-                                                                                                                                                                         C-1018,
-                                                                                                                                                                  "TAILLESS & CSK LEFT"
-                                                                                                                                                                     CONFIGURATION
+C-1002-L
+DOOR
 
+C-1018
+SAFETY LATCH
+ASSEMBLY
 
+C-1018
+SAFETY LATCH
+ASSEMBLY
 
+C-1021
+LATCH ANGLE
+ASSEMBLY
 
-                                                                                    TRIM SHADED
-                                                                                        AREA
+C-1019
+SAFETY LATCH
+WEAR PLATE
 
-            FIGURE 1: SAFETY LATCH LAMINATION TRIM & COUNTERSINK
+VA-198
+DOOR SEAL
 
-   Step 3: Trim the "tail" and pivot lug from four of the C-1018 Safety Latch Laminations as shown in Figure 2.
+C-1019
+SAFETY LATCH
+WEAR PLATE
 
+DATE: 12/4/09  REVISION: 0  RV-10  PAGE 45A-01
 
-                                                                                                                                                                  AN426AD4-12,
-                                                                                                                                                                      TYP
+=== PAGE 45A-02 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                                                                                                                                             FIGURE 3:
-                                                                                                                                                                                                                    SAFETY LATCH EXPLODED VIEW
+Step 1: There are a total of 10 C-1018 Safety Latch Laminations provided in your kit, two of which will be
+used "as-is" and the remaining eight will be modified. Two Safety Latch Assemblies, each consisting of five
+safety latch laminations of various configuration will be created. Study Figure 3 to understand the assembly of the safety latch
+assembly before progressing.
 
-                                                                              TRIM SHADED
-                                                                                  AREA
+Step 2: The manufacturing process may have left the C-1018 Safety Latch Laminations with a slight "bow" or "camber". Adjust
+the parts so that they are no more than 1/32 inch from being perfectly flat. Leaving the vinyl on the parts until after adjusting for
+flatness will help keep the surfaces from becoming scarred or scratched.
 
+Step 3: Trim the "tail" off four of the safety latch laminations as shown in Figure 1.
 
-                          FIGURE 2: SAFETY LATCH LAMINATION TRIM
+Machine countersink the 1/8 inch holes in each of the "tailless" safety latch laminations to fit the head of an AN426AD4 rivet.
+Countersink two parts on the left side and countersink the other two parts on the right side as called-out in Figure 1.
 
+MACHINE COUNTERSINK,
+2 PARTS THIS SIDE,
+2 PARTS OTHER SIDE
 
-  Step 4: Cleco together two stacks of five C-1018 Safety Latch Laminations. Each stack must have one left side countersunk
-  piece, two tailless and lugless pieces, one piece as supplied, and one right side countersunk piece stacked-up as shown in Figure
-  3.
+TRIM SHADED
+AREA
 
-  Final-drill #30 each stack 3 places. Disassemble the two stacks keeping parts from each stack from becoming co-mingled. Deburr
-  the holes and edges of each safety latch lamination.
+FIGURE 1: SAFETY LATCH LAMINATION TRIM & COUNTERSINK
 
+Step 3: Trim the "tail" and pivot lug from four of the C-1018 Safety Latch Laminations as shown in Figure 2.
 
+TRIM SHADED
+AREA
 
+FIGURE 2: SAFETY LATCH LAMINATION TRIM
 
-PAGE   45A-02 RV-10        REVISION: 0   DATE: 12/4/09
-                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-Step 1: Cut-apart the C-1020 Latch Attach Angle into two C-1020-L Latch Attach                                     Step 3: Cleco one C-1020-L and one C-1020-R Latch Attach Angle
-Angles and two C-1020-R Latch Attach Angles as shown in Figure 1.                                                  to each C-1021A Latch Angle as shown in Figure 3.
+Step 4: Cleco together two stacks of five C-1018 Safety Latch Laminations. Each stack must have one left side countersunk
+piece, two tailless and lugless pieces, one piece as supplied, and one right side countersunk piece stacked-up as shown in Figure
+3.
 
-                                                                                                                   Final-drill #40 the latch attach angles to each latch angle.
-                        C-1020-R
-                                             C-1020-R
-                                                                                                                   Un-cleco and deburr the holes and edges of all parts.                                                            AN426AD3-3.5,
-                                     C-1020-L                                                                                                                                                                                           4 PL
-                                                                                                                   Rivet one "left" latch attach angle and one "right" latch attach angle
-                                                                                                                   to each latch angle as shown in Figure 3.
+Final-drill #30 each stack 3 places. Disassemble the two stacks keeping parts from each stack from becoming co-mingled. Deburr
+the holes and edges of each safety latch lamination.
 
-                                                                                                                   This subassembly will subsequently be referred to as the C-1021
-                                                                                                                   Latch Angle Assembly.
+Step 5: Rivet together the two stacks of C-1018 Safety Latch Laminations as shown in Figure 3. The shop heads of the rivets are
+set into countersinks and will not completely fill the countersink in the same way as the manufactured heads.
 
+Final-Drill #11 the holes in the lugs of the safety latch laminations.
 
+Use a disk sander or scotch-brite wheel or file to round or "soften" the outside edges of the "hook" portion of the outer safety latch
+laminations and the "tail" portion of the middle safety latch lamination.
 
+Set aside the two Safety Latch Assemblies until later.
 
-                                       REMOVE SHADED
-                                         AREAS, TYP
+C-1018,
+"TAILLESS & CSK RIGHT"
+CONFIGURATION
 
-    FIGURE 1: CUT APART LATCH ATTACH ANGLE
-                  (PART SHOWN FLAT FOR CLARITY)
+C-1018
+"AS SUPPLIED"
+CONFIGURATION
 
+C-1018,
+"TAILLESS & LUGLESS"
+CONFIGURATION,
+2 PL
 
+C-1018,
+"TAILLESS & CSK LEFT"
+CONFIGURATION
 
-                                                                                                                                                                                               C-1020-R
-                                                                                                                                                                                                     C-1020-L
+AN426AD4-12,
+TYP
 
+FIGURE 3:
+SAFETY LATCH EXPLODED VIEW
 
+PAGE 45A-02  RV-10  REVISION: 0  DATE: 12/4/09
 
-                                                                                                                                                                                                                                 C-1021A
+=== PAGE 45A-03 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Cut-apart the C-1020 Latch Attach Angle into two C-1020-L Latch Attach
+Angles and two C-1020-R Latch Attach Angles as shown in Figure 1.
 
+C-1020-R
+C-1020-R
+C-1020-L
 
+REMOVE SHADED
+AREAS, TYP
 
-                                                                                                                                                                                            FIGURE 3: LATCH ANGLE ASSEMBLY
-
-
+FIGURE 1: CUT APART LATCH ATTACH ANGLE
+(PART SHOWN FLAT FOR CLARITY)
 
 Step 2: Cut apart the C-1021 Latch Doubler Angle into two C-1021A Latch Angles and two C-1021BC Drill Templates as shown in Figure 2.
 
-                                                     C-1021BC
-                                                                                                                                                           C-1021A
+C-1021BC          C-1021A
 
+FIGURE 2: CUT APART LATCH DOUBLER ANGLE
+(PART SHOWN FLAT FOR CLARITY)
 
+REMOVE SHADED
+AREAS, TYP
 
+Step 3: Cleco one C-1020-L and one C-1020-R Latch Attach Angle
+to each C-1021A Latch Angle as shown in Figure 3.
 
-                                                                                                                                                          REMOVE SHADED
-                                                                    FIGURE 2: CUT APART LATCH DOUBLER ANGLE                                                 AREAS, TYP
+Final-drill #40 the latch attach angles to each latch angle.
 
-                                                                                  (PART SHOWN FLAT FOR CLARITY)
+Un-cleco and deburr the holes and edges of all parts.
 
+Rivet one "left" latch attach angle and one "right" latch attach angle
+to each latch angle as shown in Figure 3.
 
+This subassembly will subsequently be referred to as the C-1021
+Latch Angle Assembly.
 
+AN426AD3-3.5,
+4 PL
 
-                                                                                                                                                                                                          DATE: 12/4/09   REVISION: 0   RV-10 PAGE 45A-03
-                        VAN'S AIRCRAFT, INC.
-                                                                                              Note: While it is theoretically possible to accomplish the safety latch installation with
-                                                                                              the doors attached to the aircraft, it is so much easier with the doors removed as to be
-                                                                                              considered imperative.
-   Step 1: Fabricate two C-1022 Springs from .032 music wire. Each spring is fabricated
-   as follows:                                                                                Step 2: Remove the C-1002-L & R Doors from the aircraft and set them outer-side-down on a
-                                                                                              padded work surface approximately as depicted in Figure 3.
-   Clamp the head of an AN3 bolt oriented vertically as shown in Figure 1 between the
-   jaws of a vise. Wrap a five inch long piece of wire around the threaded portion of the     Step 3: Peel back the VA-198 Door Seal from the aft portion of the bottom of each C-1002
-   bolt. See Figure 1.                                                                        Door as shown in Figure 3.
+C-1020-R
+C-1020-L
 
-   The finished springs must be as shown in Figure 2. Re-bend the springs and/or adjust       Note: This procedure is written for a single door. Perform each of the tasks on each
-   the fabrication technique as required to achieve the correct finished spring free angle.   door.
+C-1021A
 
-   Trim the ends of the spring to the length called-out in Figure 2.                          Step 4: Position the C-1021BC Drill
-                                                                                              Template on the lower edge of the
-                                                                                              C-1002-L Door as shown in Figure 3.
+FIGURE 3: LATCH ANGLE ASSEMBLY
 
+DATE: 12/4/09  REVISION: 0  RV-10  PAGE 45A-03
 
+=== PAGE 45A-04 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Fabricate two C-1022 Springs from .032 music wire. Each spring is fabricated
+as follows:
 
-                                           TRIM END
-                                          5/8 TO 11/16                                                 C-1021BC
+Clamp the head of an AN3 bolt oriented vertically as shown in Figure 1 between the
+jaws of a vise. Wrap a five inch long piece of wire around the threaded portion of the
+bolt. See Figure 1.
 
+The finished springs must be as shown in Figure 2. Re-bend the springs and/or adjust
+the fabrication technique as required to achieve the correct finished spring free angle.
 
+Trim the ends of the spring to the length called-out in Figure 2.
 
-                                                           35°±5°
-         TRIM END
-                                                         FREE ANGLE
-        5/8 TO 11/16
+STEP 1:
+BEGIN BY BENDING THE
+CENTER OF THE WIRE
+AROUND THE BOLT
 
+STEP 2:
+CONTINUE THE BEND
+BY WRAPPING THE WIRE
+AROUND THE BOLT
 
-                                                                 -5°
+STEP 3:
+FINISH THE BEND BY
+WRAPPING BEYOND WHERE
+THE WIRE ENDS OVERLAP
 
-                                                              +5°
+FIGURE 1:
+SPRING FABRICATION PROCESS
 
+TRIM END
+5/8 TO 11/16
 
+TRIM END
+5/8 TO 11/16
 
+35 deg +/-5 deg
+FREE ANGLE
 
-PAGE   45A-04 RV-10        REVISION: 0   DATE: 12/4/09
-                                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
+-5 deg
++5 deg
 
-                                        C-1002-L
+FIGURE 2:
+FINISHED SPRING
 
+Note: While it is theoretically possible to accomplish the safety latch installation with
+the doors attached to the aircraft, it is so much easier with the doors removed as to be
+considered imperative.
 
+Step 2: Remove the C-1002-L & R Doors from the aircraft and set them outer-side-down on a
+padded work surface approximately as depicted in Figure 3.
 
-                                                          SHARPIE LINE
-               C-1021BC                                 AROUND OPENING
+Step 3: Peel back the VA-198 Door Seal from the aft portion of the bottom of each C-1002
+Door as shown in Figure 3.
 
+Note: This procedure is written for a single door. Perform each of the tasks on each
+door.
 
+Step 4: Position the C-1021BC Drill
+Template on the lower edge of the
+C-1002-L Door as shown in Figure 3.
 
+C-1021BC
 
-                                                     MATCH-DRILL #40
-                                                     THIS LOCATION
+11 3/8
 
+C-1002-L
 
+PAGE 45A-04  RV-10  REVISION: 0  DATE: 12/4/09
 
-                              FIGURE 1:                                                                              FIGURE 3:
-                       MATCH-DRILL & MARK DOOR                                                             PERFORATE OPENING USING DRILL
+=== PAGE 45A-05 ===
+VAN'S AIRCRAFT, INC.
 
-Step 1: Match-Drill #40 and cleco the C-1021BC Drill Template to the C-1002-L Door                                                                                                                        FIGURE 5:
-4 places as called-out in Figure 1. Match-Drill #30 and cleco the drill template to the                                                                                                     MASK DOOR AROUND LATCH ANGLE ASSEMBLY
-door at all the other hole locations as shown in Figure 1.                                Step 4: Un-cleco the C-1021BC Drill Template from the C-1002 Door.
+[This page contains photographs showing the installation process]
 
-Use caution when match-drilling the upper row of holes to avoid damage to the             Perforate the opening in the door by drilling closely spaced #30 holes centered on the
-underlying door latch rod.                                                                lines marked on the door as shown in Figure 3. Finish the opening perforation by
-                                                                                          drilling a line of holes between the two lowest corner holes.
-Step 2: Using a fine-point Sharpie, mark around the inside of the opening in the                                                                                                    Step 5: Test fit the C-1021 Latch Angle Assembly to the C-1002 Door as shown in
-C-1021BC Drill Template deliberately placing the line approximately 1/16th from the       Break-out and discard the piece of material inside the perforations. Smooth the edges
-                                                                                                                                                                                    Figures 4 and 5.
-edge of the opening. See Figure 1.                                                        of the opening using a file. Position the drill template to the door to ensure that the
-                                                                                          opening in the door is at least as large as the opening in the drill template.
-                                                                                                                                                                                    Ensure that the latch angle assembly fits the door and that the holes in the door align
-Step 3: Drill #30 holes at the corners of the opening in the C-1021BC Drill Template as                                                                                             with the holes in the latch angle assembly.
+Step 1: Match-Drill #40 and cleco the C-1021BC Drill Template to the C-1002-L Door
+4 places as called-out in Figure 1. Match-Drill #30 and cleco the drill template to the
+door at all the other hole locations as shown in Figure 1.
+
+Use caution when match-drilling the upper row of holes to avoid damage to the
+underlying door latch rod.
+
+Step 2: Using a fine-point Sharpie, mark around the inside of the opening in the
+C-1021BC Drill Template deliberately placing the line approximately 1/16th from the
+edge of the opening. See Figure 1.
+
+Step 3: Drill #30 holes at the corners of the opening in the C-1021BC Drill Template as
 shown in Figure 2.
-                                                                                                                                                                                    Place strips of masking tape on the door around the perimeter of the latch angle
-                                                                                                                                                                                    assembly.
 
+C-1002-L
 
+C-1021BC
 
+SHARPIE LINE
+AROUND OPENING
 
-                              FIGURE 2:                                                                             FIGURE 4:
-                    DRILL AT CORNERS OF OPENING                                                     TEST FIT LATCH ANGLE ASSEMBLY TO DOOR
-                                                                                                                                                                                                                            DATE: 12/4/09   REVISION: 0   RV-10 PAGE 45A-05
-                       VAN'S AIRCRAFT, INC.
-                                                                                                                                       Step 3: Assemble the C-1018 Safety Latch Assembly and C-1022 Spring to the
-                                                                                                                                       C-1021 Latch Angle Assembly as shown in Figure 3. The assembly just created will
-                       Step 1: Looking through the opening in the C-1021 Latch Angle                                                   subsequently be referred to as the Safety Latch Assembly.
-                       Assembly, make a mark on the inside surface of the outer skin of
-   the C-1002-L Door. Locate the mark according to the "hole # 1" dimensions in Figure 2.                                              The "explosion" of Figure 3 shows the parts in their "as-assembled" orientation. To get
-                                                                                                                                       the parts together, the safety latch assembly must be inverted as the "hook" end is
-  Project the measurements from the opening in the latch angle assembly to the                                                         inserted through the opening in the latch angle assembly then, when the thinner part
-  door outer skin as accurately as possible. The fore/aft measurement is more                                                          of the safety latch assembly is at the opening, it can be re-oriented right-side-up, the
-  critical than the up/down measurement.                                                                                               spring put in place, then finally positioned such that the bolt, washers, and nut can be
-                                                                                                                                       installed. If the safety latch assembly cannot be re-oriented right-side-up due to
-  Drill #30 through the door outer skin at the "hole #1"                                                                               interference with the latch angle opening then the edges should be rounded as
-  location called-out in Figure 2.                                                                                                     necessary to allow rotation.
-  Step 2: Turn the door over and drill a second #30
-                                                                                                                                       The nut is threaded onto the bolt only until the bolt is not loose. The safety latch
-  hole located 7/16 inch above the hole drilled in
-                                                                                                                                       assembly may have a slight amount of side-to-side play but must pivot freely on the
-  step 1. This hole is called-out as "hole #2"                                                                                         bolt and allow the spring to pre-load the hook in the down position. Install the cotter pin
-  in Figure 2.                                                                                                                         after the nut has been threaded onto the bolt the correct amount.
-   Create a slot in the door outer shell by                                                                                            Step 4: Cleco the Safety Latch Assembly to the C-1002-L Door. Ensure that the "tail"
-   removing the material between "hole #1"                                                                                             of the C-1018 Safety Latch Assembly fits through the slot in the outer skin of the door.
-   and "hole #2". Use a file to clean-up                                                                                               The slot in the door must be long enough that pivoting of the safety latch assembly is
-   the edges of the slot and increase                                                                                                  limited only by contact with the opening in the C-1021 Latch Angle.
-   the width to 5/32 inch. See Page
-   45A-07, Figure 3 for a depiction                           C-1002-L
-                                                                                                                                       Remove the safety latch assembly and enlarge the slot in the door as required until
-   of the finished slot.                                                                                                               the safety latch assembly pivots freely through the full range of motion allowed by the
-                                                                       FIGURE 1:                                                       latch angle. See Page 45A-07, Figure 3 for a depiction of the finished slot.
-                                                                LEFT DOOR OVERALL VIEW
-                                                                                                                                                                                         C-1018
-                                                                                                                                                         NAS1149F0332P,
-                                                                                                                                                              2 PL
+MATCH-DRILL #40
+THIS LOCATION
 
+FIGURE 1:
+MATCH-DRILL & MARK DOOR
 
-                                                  HOLE #2
-                                               DRILL #30 FROM
-                                              OUTSIDE SURFACE                                                                                        C-1021
-                                                  OF DOOR
-                                                                                                         1/4
-                                         HOLE #1, DRILL #30                                     (HOLE #1 CENTER TO
-                                         THROUGH OPENING                                         EDGE OF OPENING
-                                             IN C-1021                            3/8
-                                                                                                     IN C-1021)
-                                                                                                                     C-1021
+FIGURE 2:
+DRILL AT CORNERS OF OPENING
 
-                                                                                                                                                                                          C-1022
+Step 4: Un-cleco the C-1021BC Drill Template from the C-1002 Door.
 
+Perforate the opening in the door by drilling closely spaced #30 holes centered on the
+lines marked on the door as shown in Figure 3. Finish the opening perforation by
+drilling a line of holes between the two lowest corner holes.
 
+Break-out and discard the piece of material inside the perforations. Smooth the edges
+of the opening using a file. Position the drill template to the door to ensure that the
+opening in the door is at least as large as the opening in the drill template.
 
-                                                                                                                              AN3-12
-                                                                                                                                                                                                                   MS24665-132
+FIGURE 3:
+PERFORATE OPENING USING DRILL
 
+Step 5: Test fit the C-1021 Latch Angle Assembly to the C-1002 Door as shown in
+Figures 4 and 5.
 
+Ensure that the latch angle assembly fits the door and that the holes in the door align
+with the holes in the latch angle assembly.
 
+Place strips of masking tape on the door around the perimeter of the latch angle
+assembly.
 
-                                                                                    1/2
-                                                                           (HOLE #1 CENTER TO                                             FIGURE 3:
-                                                                            EDGE OF OPENING                                        SAFETY LATCH ASSEMBLY
-                                                                                IN C-1021)
-                                                                                                                                       EXPLODED VIEW NAS1149F0363P
-                                                                    FIGURE 2:
-                                                        LATCH OUTSIDE HANDLE SLOT LAY-OUT                                                                                                       AN310-3
+FIGURE 4:
+TEST FIT LATCH ANGLE ASSEMBLY TO DOOR
 
-PAGE   45A-06 RV-10       REVISION: 0   DATE: 12/4/09
-                                                                                                                                                                                                                       VAN'S AIRCRAFT, INC.
-                                                                                          Step 3: Cleco the C-1021B and C-1021C Doubler Plates inside the cavity of the
-                         C-1021B                                   REMOVE SHADED          C-1002 Door. See Figure 2.                                                                 Step 6: After the epoxy has fully cured, re-adhere the VA-198
-                                                                     AREAS, TYP                                                                                                      Door Seals to the C-1002 Doors and re-install the doors to the aircraft.
-                                                                                          Machine countersink the four previously drilled #40 holes in the door inner skin to fit
-                                                                                          the head of a CCR-264SS-3-2 rivet. See Figure 3.                                           Step 7: While inside the cabin, lower the C-1002-L Door and latch it shut.
+FIGURE 5:
+MASK DOOR AROUND LATCH ANGLE ASSEMBLY
 
-                                                                                          (The doubler plates are clecoed to the inside of the door so as to provide a solid guide   Guide the C-1018 Safety Latch Assembly over the lip of the C-1001 Cabin Cover as
-                                                                                          for the pilot of the countersink cutter.)                                                  required to allow the door to come to the closed position.
+DATE: 12/4/09  REVISION: 0  RV-10  PAGE 45A-05
 
-                                                                                          Un-cleco the doubler plates and remove them from inside the door.                          Step 8: Make a "sharpie" mark on the upper edge of the C-1001 Cabin Cover lip 3/4
-                                                                                                                                                                                     inch forward of the forward surface of the C-1018 Safety Latch Assembly and another
-                                                                                          Step 4: Prepare the masked-off area of the C-1002 Door for adhesive bonding by             "sharpie" mark 3/4 inches aft of the aft surface of the safety latch assembly.
-               C-1021C                                                                    aggressively scuffing the surface with 100 grit sandpaper. If the inside surface of the
-                                                                                          door has been painted, sand until the paint is completely removed. See Figure 3.           Step 9: Unlatch the C-1002-L Door and raise it to the open position.
-                              FIGURE 1:
-                                                                                                                                                                                     Raise the "hook" of the C-1018 Safety Latch Assembly as it passes over the lip of the
-                       SEPARATE DOUBLER PLATES                                                                                                                                       C-1001 Cabin Cover to allow the door to open.
-                          (PART SHOWN FLAT FOR CLARITY)
+=== PAGE 45A-06 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Looking through the opening in the C-1021 Latch Angle
+Assembly, make a mark on the inside surface of the outer skin of
+the C-1002-L Door. Locate the mark according to the "hole # 1" dimensions in Figure 2.
+
+Project the measurements from the opening in the latch angle assembly to the
+door outer skin as accurately as possible. The fore/aft measurement is more
+critical than the up/down measurement.
+
+Drill #30 through the door outer skin at the "hole #1"
+location called-out in Figure 2.
+
+Step 2: Turn the door over and drill a second #30
+hole located 7/16 inch above the hole drilled in
+step 1. This hole is called-out as "hole #2"
+in Figure 2.
+
+Create a slot in the door outer shell by
+removing the material between "hole #1"
+and "hole #2". Use a file to clean-up
+the edges of the slot and increase
+the width to 5/32 inch. See Page
+45A-07, Figure 3 for a depiction
+of the finished slot.
+
+C-1021
+
+SEE
+FIGURE 2
+
+SEE
+FIGURE 2
+
+C-1002-L
+
+FIGURE 1:
+LEFT DOOR OVERALL VIEW
+
+HOLE #2
+DRILL #30 FROM
+OUTSIDE SURFACE
+OF DOOR
+
+HOLE #1, DRILL #30
+THROUGH OPENING
+IN C-1021
+
+3/8
+
+1/4
+(HOLE #1 CENTER TO
+EDGE OF OPENING
+IN C-1021)
+
+C-1021
+
+1/2
+(HOLE #1 CENTER TO
+EDGE OF OPENING
+IN C-1021)
+
+FIGURE 2:
+LATCH OUTSIDE HANDLE SLOT LAY-OUT
+
+Step 3: Assemble the C-1018 Safety Latch Assembly and C-1022 Spring to the
+C-1021 Latch Angle Assembly as shown in Figure 3. The assembly just created will
+subsequently be referred to as the Safety Latch Assembly.
+
+The "explosion" of Figure 3 shows the parts in their "as-assembled" orientation. To get
+the parts together, the safety latch assembly must be inverted as the "hook" end is
+inserted through the opening in the latch angle assembly then, when the thinner part
+of the safety latch assembly is at the opening, it can be re-oriented right-side-up, the
+spring put in place, then finally positioned such that the bolt, washers, and nut can be
+installed. If the safety latch assembly cannot be re-oriented right-side-up due to
+interference with the latch angle opening then the edges should be rounded as
+necessary to allow rotation.
+
+The nut is threaded onto the bolt only until the bolt is not loose. The safety latch
+assembly may have a slight amount of side-to-side play but must pivot freely on the
+bolt and allow the spring to pre-load the hook in the down position. Install the cotter pin
+after the nut has been threaded onto the bolt the correct amount.
+
+Step 4: Cleco the Safety Latch Assembly to the C-1002-L Door. Ensure that the "tail"
+of the C-1018 Safety Latch Assembly fits through the slot in the outer skin of the door.
+The slot in the door must be long enough that pivoting of the safety latch assembly is
+limited only by contact with the opening in the C-1021 Latch Angle.
+
+Remove the safety latch assembly and enlarge the slot in the door as required until
+the safety latch assembly pivots freely through the full range of motion allowed by the
+latch angle. See Page 45A-07, Figure 3 for a depiction of the finished slot.
+
+C-1018
+
+NAS1149F0332P,
+2 PL
+
+C-1021
+
+C-1022
+
+AN3-12
+
+MS24665-132
+
+NAS1149F0363P
+
+AN310-3
+
+FIGURE 3:
+SAFETY LATCH ASSEMBLY
+EXPLODED VIEW
+
+PAGE 45A-06  RV-10  REVISION: 0  DATE: 12/4/09
+
+=== PAGE 45A-07 ===
+VAN'S AIRCRAFT, INC.
+
+C-1021B          REMOVE SHADED
+                 AREAS, TYP
+
+C-1021C          WINDOW EDGES
+                 DEFINE CUT-LINE
+
+FIGURE 1:
+SEPARATE DOUBLER PLATES
+(PART SHOWN FLAT FOR CLARITY)
 
 Step 1: Cut-apart the C-1021BC Drill Template into the C-1021B and C-1021C
 Doubler Plates as shown in Figure 1.
@@ -313,102 +445,193 @@ the door. See Figure 2.
 Carefully chip/sand/file ooze-out as required to allow the doubler plate to rest flat
 inside the door.
 
+C-1002
+INNER SKIN
 
+C-1021B
 
+C-1002
+OUTER SKIN
 
-                            C-1002                                                                                     FIGURE 3:
-                          INNER SKIN
-                                                                        C-1021B                              PREPARE SURFACE FOR BONDING
+LATCH PIVOT
+RANGE
 
-                                                                                          Step 5: Prepare the surface of the C-1021A Latch Angle that will mate to the C-1002
-                                                                           C-1002         Door for adhesive bonding by aggressively scuffing the surface with 100 grit
-                                                                         OUTER SKIN       sandpaper.
+5/8
+THEORETICAL
+SLOT LENGTH
 
-          LATCH PIVOT                                                                     Also prepare one side of both the C-1021B and C-1021C Doubler Plates for bonding.
-            RANGE
-                                                                                          Mix some epoxy and thicken it with flox to the point that the mixture will not run when
-                                                                                          spread on a flat surface but the mixture must not be so thick that mating parts are not
-                                                                                          able to "pull-up" when riveted.
+EPOXY
+"OOZE-OUT"
+(SEE TEXT)
 
-                                                                                          Spread a thin layer of the thickened epoxy on the scuffed side of the C-1021B Doubler
-                                                                                          Plate and cleco it to the inside of the door and rivet in place with two CCR-264SS-3-2
-                                                                                          blind rivets.
-                                                                                5/8
-                                                                           THEORETICAL    Spread a thin layer of the thickened epoxy on the scuffed side of the C-1021C Doubler
-                                                                           SLOT LENGTH    Plate and cleco it to the inside of the door and rivet in place with two CCR-264SS-3-2
-                                                                                          blind rivets.
-                                                                              EPOXY
-                                         C-1021C                           "OOZE-OUT"     Spread a thin layer of the thickened epoxy on the scuffed side of the C-1021 Latch
-                                                C-1022                      (SEE TEXT)    Angle, cleco it to the door and rivet in place with LP4-3 rivets.
+C-1021C
+C-1022
 
-                        FIGURE 2:                                                         Wipe-away any excess epoxy/flox mixture that may have oozed-out.
+FIGURE 2:
+SECTION THROUGH DOOR AT LATCH CENTER
 
-          SECTION THROUGH DOOR AT LATCH CENTER
-                                                                                                                                                                                                                             DATE: 12/4/09   REVISION: 0   RV-10 PAGE 45A-07
-                        VAN'S AIRCRAFT, INC.
-                                                                                                Step 5: Remove the C-1019 Safety Latch Wear Plate and, using 100 to 150 grit
-                                                                                                sandpaper, aggressively scuff the unmasked area of the C-1001 Cabin Cover where the
-                         Step 1: Position the C-1019 Safety Latch Wear Plate atop the
-                                                                                                safety latch wear plate overlaps.
-                          F-1015C Mid Cabin Deck touching the inboard surface of the lip
-   of the C-1001 Cabin Cover as shown in Figure 1. The safety latch wear plate must be          Step 6: Mix a small amount of epoxy and add flox until it is very thick and paste-like. Fill
-   centered fore and aft between the two sharpie marks on the lip of the cabin cover.           the reversed flange of the C-1019 Safety Latch Wear Plate with the epoxy/flox paste,
-                                                                                                put it into place on the aircraft and rivet it to the F-1015C-L Mid Cabin Deck. See Figure
-  Match-Drill #30 and cleco the safety latch wear plate to the mid cabin deck.                  2.
-   Step 2: Mark a line on the upper surface of the C-1019 Safety Latch Wear Plate               Smooth the worst of the excess epoxy/flox paste that oozes out but leave it high so that
-   coincident to the outboard edge of the lip of the C-1001 Cabin Cover. The line defines       it can be blended in when cured. See Figure 4.
-   where the safety latch wear plate will be bent down to rest against the outboard side of
-   the cabin cover lip as shown in Figure 2.                                                    Step 7: Blend-out after cured and, if necessary, fill low spots with epoxy/flox paste.
-                                                                                                Create a smooth transition from the C-1019 Safety Latch Wear Plate to the lip of the
-   Step 3: Remove the C-1019 Safety Latch Wear Plate. Deburr the edges and round the            C-1001 Cabin Cover so that people or things passing through the cabin door opening
-   corners of the safety latch wear plate and deburr the holes drilled in Step 1.               won't snag on any sharp edges.
-  Use 100 to 150 grit sandpaper to aggressively scuff the lower surfaces of the safety
-  latch wear plate where it overlaps the lip of the C-1001 Cabin Cover.
+Step 3: Cleco the C-1021B and C-1021C Doubler Plates inside the cavity of the
+C-1002 Door. See Figure 2.
 
-  Using hand seamers, make the final bend in the safety latch wear plate along the line
-  marked in the previous step. See Figure 2. The exact radius of the bend is not critical
-  however a larger radius, approximately 1/8 inch, will present a "softer" edge to people
-  and things as they move over the cabin cover lip.
+Machine countersink the four previously drilled #40 holes in the door inner skin to fit
+the head of a CCR-264SS-3-2 rivet. See Figure 3.
 
-   Step 4: Position the C-1019 Safety Latch Wear Plate over the lip of the C-1001 Cabin
-   Cover and cleco it to the F-1015C-L Mid Cabin Deck.
+(The doubler plates are clecoed to the inside of the door so as to provide a solid guide
+for the pilot of the countersink cutter.)
 
-   Check the fit of the safety latch wear plate to the cabin cover lip and adjust the bend as                                                                                                                      FIGURE 3:
-   required to achieve a good fit as shown in Figure 2.                                                                                                                                        MASK CABIN COVER AROUND SAFETY LATCH WEAR PLATE
-   With the safety latch wear plate clecoed in place, place strips of masking tape on the
-   cabin cover lip around the perimeter of the safety latch wear plate. Vary the distance
-   between the edge of the wear plate and the edge of the tape - 1/16 inch at the bottom
-   of the wear plate to 1/4 inch at the top of the wear plate as shown in Figure 3.
+Un-cleco the doubler plates and remove them from inside the door.
 
+Step 4: Prepare the masked-off area of the C-1002 Door for adhesive bonding by
+aggressively scuffing the surface with 100 grit sandpaper. If the inside surface of the
+door has been painted, sand until the paint is completely removed. See Figure 3.
 
+FIGURE 3:
+PREPARE SURFACE FOR BONDING
 
-                                                                      C-1015C-L
+Step 5: Prepare the surface of the C-1021A Latch Angle that will mate to the C-1002
+Door for adhesive bonding by aggressively scuffing the surface with 100 grit
+sandpaper.
 
+Also prepare one side of both the C-1021B and C-1021C Doubler Plates for bonding.
 
-                                                                                                                    BEND LINE                                   GAP FILLED
-                                                                                                                 CONCURRENT WITH                             WITH EPOXY/FLOX,
-                                                                                                                  OUTBOARD EDGE                                  SEE TEXT
-               UP
-                                                                                                                   OF C-1001 LIP
-                       FWD
-       LEFT                                                                                                                                                                   LP4-3,
-                                                                                                                                                            C-1019          2 PLACES
-                C-1001
-                                                                                                                        C-1001                                               C-1015C-L
+Mix some epoxy and thicken it with flox to the point that the mixture will not run when
+spread on a flat surface but the mixture must not be so thick that mating parts are not
+able to "pull-up" when riveted.
 
+Spread a thin layer of the thickened epoxy on the scuffed side of the C-1021B Doubler
+Plate and cleco it to the inside of the door and rivet in place with two CCR-264SS-3-2
+blind rivets.
 
+Spread a thin layer of the thickened epoxy on the scuffed side of the C-1021C Doubler
+Plate and cleco it to the inside of the door and rivet in place with two CCR-264SS-3-2
+blind rivets.
 
-                                   C-1019                                                                                                     UP
-                                                      BEND LINE
-                                                   CONCURRENT WITH
-                                                    OUTBOARD EDGE                                                                     LEFT
-                                                     OF C-1001 LIP
+Spread a thin layer of the thickened epoxy on the scuffed side of the C-1021 Latch
+Angle, cleco it to the door and rivet in place with LP4-3 rivets.
 
-                                      FIGURE 1:
-                          SAFETY LATCH WEAR PLATE POSITION                                                                          FIGURE 2:
-                                                                                                                               SECTION THROUGH                                                                    FIGURE 4:
-                                 (VIEW LOOKING FORWARD AND DOWN
-                                 FROM INSIDE OF LEFT DOOR OPENING)                                                          SAFETY LATCH WEAR PLATE                                                         EPOXY/FLOX OOZE-OUT
-                                                                                                                                                                                                       AROUND SAFETY LATCH WEAR PLATE
-PAGE   45A-08 RV-10        REVISION: 0   DATE: 12/4/09
-
+Wipe-away any excess epoxy/flox mixture that may have oozed-out.
+
+Step 6: After the epoxy has fully cured, re-adhere the VA-198
+Door Seals to the C-1002 Doors and re-install the doors to the aircraft.
+
+Step 7: While inside the cabin, lower the C-1002-L Door and latch it shut.
+
+Guide the C-1018 Safety Latch Assembly over the lip of the C-1001 Cabin Cover as
+required to allow the door to come to the closed position.
+
+Step 8: Make a "sharpie" mark on the upper edge of the C-1001 Cabin Cover lip 3/4
+inch forward of the forward surface of the C-1018 Safety Latch Assembly and another
+"sharpie" mark 3/4 inches aft of the aft surface of the safety latch assembly.
+
+Step 9: Unlatch the C-1002-L Door and raise it to the open position.
+
+Raise the "hook" of the C-1018 Safety Latch Assembly as it passes over the lip of the
+C-1001 Cabin Cover to allow the door to open.
+
+DATE: 12/4/09  REVISION: 0  RV-10  PAGE 45A-07
+
+=== PAGE 45A-08 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Position the C-1019 Safety Latch Wear Plate atop the
+F-1015C Mid Cabin Deck touching the inboard surface of the lip
+of the C-1001 Cabin Cover as shown in Figure 1. The safety latch wear plate must be
+centered fore and aft between the two sharpie marks on the lip of the cabin cover.
+
+Match-Drill #30 and cleco the safety latch wear plate to the mid cabin deck.
+
+Step 2: Mark a line on the upper surface of the C-1019 Safety Latch Wear Plate
+coincident to the outboard edge of the lip of the C-1001 Cabin Cover. The line defines
+where the safety latch wear plate will be bent down to rest against the outboard side of
+the cabin cover lip as shown in Figure 2.
+
+Step 3: Remove the C-1019 Safety Latch Wear Plate. Deburr the edges and round the
+corners of the safety latch wear plate and deburr the holes drilled in Step 1.
+
+Use 100 to 150 grit sandpaper to aggressively scuff the lower surfaces of the safety
+latch wear plate where it overlaps the lip of the C-1001 Cabin Cover.
+
+Using hand seamers, make the final bend in the safety latch wear plate along the line
+marked in the previous step. See Figure 2. The exact radius of the bend is not critical
+however a larger radius, approximately 1/8 inch, will present a "softer" edge to people
+and things as they move over the cabin cover lip.
+
+Step 4: Position the C-1019 Safety Latch Wear Plate over the lip of the C-1001 Cabin
+Cover and cleco it to the F-1015C-L Mid Cabin Deck.
+
+Check the fit of the safety latch wear plate to the cabin cover lip and adjust the bend as
+required to achieve a good fit as shown in Figure 2.
+
+With the safety latch wear plate clecoed in place, place strips of masking tape on the
+cabin cover lip around the perimeter of the safety latch wear plate. Vary the distance
+between the edge of the wear plate and the edge of the tape - 1/16 inch at the bottom
+of the wear plate to 1/4 inch at the top of the wear plate as shown in Figure 3.
+
+C-1015C-L
+
+FIGURE 2 [reference callout]
+
+UP
+FWD
+LEFT
+
+C-1001
+
+C-1019
+
+BEND LINE
+CONCURRENT WITH
+OUTBOARD EDGE
+OF C-1001 LIP
+
+FIGURE 1:
+SAFETY LATCH WEAR PLATE POSITION
+(VIEW LOOKING FORWARD AND DOWN
+FROM INSIDE OF LEFT DOOR OPENING)
+
+BEND LINE
+CONCURRENT WITH
+OUTBOARD EDGE
+OF C-1001 LIP
+
+GAP FILLED
+WITH EPOXY/FLOX,
+SEE TEXT
+
+C-1019          LP4-3,
+                2 PLACES
+
+C-1001          C-1015C-L
+
+UP
+LEFT
+
+FIGURE 2:
+SECTION THROUGH
+SAFETY LATCH WEAR PLATE
+
+Step 5: Remove the C-1019 Safety Latch Wear Plate and, using 100 to 150 grit
+sandpaper, aggressively scuff the unmasked area of the C-1001 Cabin Cover where the
+safety latch wear plate overlaps.
+
+Step 6: Mix a small amount of epoxy and add flox until it is very thick and paste-like. Fill
+the reversed flange of the C-1019 Safety Latch Wear Plate with the epoxy/flox paste,
+put it into place on the aircraft and rivet it to the F-1015C-L Mid Cabin Deck. See Figure
+2.
+
+Smooth the worst of the excess epoxy/flox paste that oozes out but leave it high so that
+it can be blended in when cured. See Figure 4.
+
+Step 7: Blend-out after cured and, if necessary, fill low spots with epoxy/flox paste.
+Create a smooth transition from the C-1019 Safety Latch Wear Plate to the lip of the
+C-1001 Cabin Cover so that people or things passing through the cabin door opening
+won't snag on any sharp edges.
+
+FIGURE 3:
+MASK CABIN COVER AROUND SAFETY LATCH WEAR PLATE
+
+FIGURE 4:
+EPOXY/FLOX OOZE-OUT
+AROUND SAFETY LATCH WEAR PLATE
+
+PAGE 45A-08  RV-10  REVISION: 0  DATE: 12/4/09

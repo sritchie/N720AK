@@ -1,220 +1,141 @@
-                                                                                                  VAN'S AIRCRAFT, INC.
-
+=== PAGE 36-1 ===
+VAN'S AIRCRAFT, INC.
 
 SECTION 36:
-                                                       RIGHT
-                                                       BRAKE
-                                                       LINE
-                                                                   VA-175
-                                                                   HEAT DUCT TEE
-
-
-
-
 BRAKE LINES
-                                                                                   VENT DL-10
-                                                                                   2.4° FLANGED DUCT,
-                                                                                   2 PLACES
 
+[Isometric drawing of forward fuselage interior looking aft, with the following part callouts:]
 
+RIGHT BRAKE LINE
 
+VA-175
+HEAT DUCT TEE
 
-                   F-6122-1
-                  TRI-GEAR
-                    BRAKE
-                  BRACKET
+VENT DL-10
+2.4" FLANGED DUCT, 2 PLACES
 
+F-6122-1
+TRI-GEAR BRAKE BRACKET
 
+F-1001A
+FIREWALL BULKHEAD
 
-               F-1001A
-    FIREWALL BULKHEAD
+LEFT BRAKE LINE
 
+RIGHT BRAKE LINE
 
+RIGHT BRAKE LINE
 
+F-1072
+FWD FUSE BOTTOM SKIN
 
-           LEFT BRAKE LINE
+F-1084A-R
+SYSTEMS BRACKET, 2 PLACES
 
+F-1048-L
+FWD FUSELAGE RIB (SHOWN TRANSPARENT)
 
+F-1048-R
+FWD FUSELAGE RIB
 
+F-1084A-L
+SYSTEMS BRACKET, 2 PLACES
 
-                                                                                                                                              RIGHT
-                                                                                                                                              BRAKE
-                                                                                                                                              LINE
-                                                                                                                                           F-1072
-                                                                                                                                           FWD FUSE
-                                                                                                                                           BOTTOM SKIN
-                              RIGHT BRAKE LINE
-                                                                                                                               F-1084A-R
-                                                                                                                               SYSTEMS BRACKET,
-                                                                                                                               2 PLACES
+LEFT BRAKE LINE
 
+WD-1021-L
+LANDING GEAR MOUNT - LEFT (SHOWN TRANSPARENT)
 
-                                                                                                 F-1048-L                            F-1048-R
-                                                                                                 FWD FUSELAGE RIB                    FWD FUSELAGE RIB
-                                                                                                 (SHOWN TRANSPARENT)
-                                                 LEFT BRAKE LINE                     F-1084A-L
-                                                                                     SYSTEMS BRACKET,
-                                                                                     2 PLACES
-                                                                       WD-1021-L
-                                                                       LANDING GEAR
-                                                                       MOUNT - LEFT
-                                                                       (SHOWN TRANSPARENT)
-                                                                                                        DATE: 07/24/14 REVISION: 0    RV-10    PAGE   36-1
-                       VAN'S AIRCRAFT, INC.
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 36-1
 
+=== PAGE 36-2 ===
+VAN'S AIRCRAFT, INC.
 
+NOTE: This page describes the installation of the left brake line between the tunnel and the brake line exit location on the left side of the aircraft. Repeat the steps on this page for the right side of the aircraft. The right installation is a mirror of the left.
 
+Step 1: Using a Unibit enlarge the brake line exit hole in the F-1072 Fwd Fuse Bottom Skin to 5/8 diameter as called out in Figure 1.
 
-  NOTE: This page describes the installation of the left brake line between the tunnel and the brake line exit location on the
-  left side of the aircraft. Repeat the steps on this page for the right side of the aircraft. The right installation is a mirror of
-  the left.
+Step 2: Install the AN837-4D 45 Degree Elbow and AN924-4D Nut onto the WD-1021-L Landing Gear Mount - Left as shown in Figure 1. Using the gear leg socket as reference, orient the fitting to aim down the gear leg.
 
-  Step 1: Using a Unibit enlarge the brake line exit hole in the F-1072 Fwd Fuse Bottom Skin to 5/8 diameter as called out in
-  Figure 1.
+[Figure 1 shows outboard bulkhead fitting installation:]
+LEFT BRAKE LINE
+AN818-4D
+AN819-4D
+AN924-4D
+BRAKE LINE EXIT HOLE, ENLARGE TO 5/8 DIA.
+AN837-4D
+WD-1021-L (SHOWN TRANSPARENT)
 
-  Step 2: Install the AN837-4D 45° Elbow and AN924-4D Nut onto the WD-1021-L Landing Gear Mount - Left as shown in Figure 1.
-  Using the gear leg socket as reference, orient the fitting to aim down the gear leg.
+FIGURE 1: INSTALLING THE OUTBOARD BULKHEAD FITTING
 
+[Figure 2 shows inboard bulkhead fitting installation:]
+SB375-4, 2 PLACES
+LEFT BRAKE LINE
+AN819-4D
+AN818-4D
+AN924-4D
+AN960-716
+AN833-4D
+F-1084A-L, 2 PLACES
+F-1048-L
 
+FIGURE 2: INSTALLING THE INBD BULKHEAD FITTING
 
+PAGE 36-2  RV-10  REVISION: 0  DATE: 07/24/14
 
-                                                                                                                                                 SB375-4,
-                                                                                                                                                2 PLACES
-               LEFT
-                                                                                                                                                                 AN819-4D       AN924-4D
-              BRAKE
-                                                                                                                                       LEFT BRAKE LINE         AN818-4D           AN960-716       AN833-4D
-                LINE
+=== PAGE 36-3 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Uncleco the VENT DL-10 2.4 Degree Flanged Ducts and the VA-175 Heat Duct Tee from the F-1048-L and -R Fwd Fuselage Ribs and set them aside. See Page 36-1.
 
-
-
-                                                                                                     WD-1021-L
-                                                                                                     (SHOWN
-                                                                                                     TRANSPARENT)
-
-
-           AN818-4D
-
-          AN819-4D
-          AN924-4D
-
-        BRAKE LINE
-         EXIT HOLE,
-       ENLARGE TO
-            5/8 DIA.
-          AN837-4D                                                                                                                                                          F-1084A-L, 2 PLACES       F-1048-L
-
-                                                                                                                                                            FIGURE 2: INSTALLING THE
-                                    FIGURE 1: INSTALLING THE                                                                                                 INBD BULKHEAD FITTING
-                                   OUTBOARD BULKHEAD FITTING
-
-
-
-
-PAGE   36-2     RV-10    REVISION: 0   DATE: 07/24/14
-Step 1: Uncleco the VENT DL-10 2.4° Flanged Ducts and the VA-175 Heat Duct Tee from the F-1048-L and -R Fwd Fuselage Ribs and set
-                                                                                                                                                                     VAN'S AIRCRAFT, INC.
-them aside. See Page 36-1.
-
-Step 2: Install the AN833-4D Elbows, AN924-4D Nuts and AN960-716 Washers to the F-6122-1 Tri-Gear Brake Bracket as shown in the detail           F-1001A
-view in Figure 1.
+Step 2: Install the AN833-4D Elbows, AN924-4D Nuts and AN960-716 Washers to the F-6122-1 Tri-Gear Brake Bracket as shown in the detail view in Figure 1.
 
 Step 3: Using ATO-032X1/4 create both the left and right brake lines as shown in Figure 1.
-                                                                                              PROVIDE ENOUGH SEPARATION
-                                                                                                  SO THE BRAKES LINES DO                                       MS21919DG4,
-                                   AN924-4D,                                                                                                                   8 PLACES
-                                   2 PLACES                                                            NOT RUB TOGETHER
-                      AN960-716,
-                                                                               RIGHT BRAKE LINE
-                       5 PLACES
 
+[Figure 1 shows brake line installation from firewall to tunnel exit:]
+AN924-4D, 2 PLACES
+AN960-716, 5 PLACES
+F-6122-1
+AN833-4D, 2 PLACES
+PROVIDE ENOUGH SEPARATION SO THE BRAKES LINES DO NOT RUB TOGETHER
+RIGHT BRAKE LINE
+LEFT BRAKE LINE
+AN818-4D, 2 PLACES
+AN819-4D, 2 PLACES
+F-1001A
+MS21919DG4, 8 PLACES
+AN515-8R8, 8 PLACES
+LEFT BRAKE LINE
+RIGHT BRAKE LINE
+FUEL LINE HOLE
+F-1048-R
+F-1048-L
+DIRECT THE BRAKE LINE UNDERNEATH THE FUEL LINE HOLE, 2 PLACES
 
-              F-6122-1
-                                                                                                                                                                                             AN515-8R8,
-                                                                                                                                                                                             8 PLACES
+FIGURE 1: INSTALLING THE BRAKE LINE FROM THE FIREWALL TO THE TUNNEL EXIT
 
-       AN833-4D,
-       2 PLACES
+Step 4: Slide four MS21919DG4 Cushion Clamps onto each brake line. Slide a AN818-4D Nut and the a AN819-4D Sleeve onto each end of both brake lines. Orient the hardware as shown in Figure 1.
 
+Step 5: Double check that Step 4 has been completed correctly, then flare both ends of each tube (see Section 5P).
 
+Step 6: Attach the brake lines to the fittings at the aft end of the F-1048 Fwd Fuselage Ribs and the fittings on the F-6122-1 Tri-Gear Brake Bracket. Screw the cushion clamps to the nutplates using the hardware shown in Figure 1.
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 36-3
 
-                                                                                           LEFT BRAKE
-                                                                                           LINE
+=== PAGE 36-4 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Insert the VENT DL-10 2.4 Degree Flanged Ducts into the ends of the VA-175 Heat Duct Tee as shown in the detail view in Figure 1. Cleco this assembly to the F-1048-L and -R Fwd Fuselage Ribs as shown in Figure 1.
 
-                                                                                  AN818-4D,
-                                                                                  2 PLACES
+Step 2: Rivet the VENT DL-10 2.4 Degree Flanged Ducts to the F-1048-L and -R Fwd Fuselage Ribs per the callouts in Figure 1.
 
+[Figure 1 shows heat duct tee installation with detail view:]
+VA-175
+VENT DL-10, 2 PLACES
+CS4-4, 8 PLACES
+F-1048-R
+F-1048-L (SHOWN TRANSPARENT)
 
+FIGURE 1: INSTALLING THE FORWARD HEAT DUCT TEE
 
-                                                                         AN819-4D,
-                                                                         2 PLACES
-
-
-
-Step 4: Slide four MS21919DG4 Cushion Clamps onto each brake line. Slide a                    LEFT BRAKE LINE
-AN818-4D Nut and the a AN819-4D Sleeve onto each end of both brake lines. Orient
-the hardware as shown in Figure 1.
-
-Step 5: Double check that Step 4 has been completed correctly, then flare both ends of              RIGHT BRAKE LINE
-                                                                                                                                                                                                        FUEL LINE HOLE
-each tube (see Section 5P).
-
-Step 6: Attach the brake lines to the fittings at the aft end of the F-1048 Fwd Fuselage                                                                                                     F-1048-R
-Ribs and the fittings on the F-6122-1 Tri-Gear Brake Bracket. Screw the cushion clamps
-to the nutplates using the hardware shown in Figure 1.                                                                                                                               F-1048-L
-
-
-
-                                                                                                                                                                FIGURE 1: INSTALLING THE BRAKE LINE
-                                                                                                                                                               FROM THE FIREWALL TO THE TUNNEL EXIT
-
-                                                                                                                                          DIRECT THE BRAKE
-                                                                                                                                           LINE UNDERNEATH
-                                                                                                                                         THE FUEL LINE HOLE,
-                                                                                                                                                    2 PLACES
-
-
-
-
-                                                                                                                                                                         DATE: 07/24/14 REVISION: 0   RV-10   PAGE   36-3
-                      VAN'S AIRCRAFT, INC.
-
-
-                                                                         VA-175
-  Step 1: Insert the VENT DL-10 2.4°
-  Flanged Ducts into the ends of the VA-175
-  Heat Duct Tee as shown in the detail view
-  in Figure 1. Cleco this assembly to the
-  F-1048-L and -R Fwd Fuselage Ribs as                     VENT DL-10,
-  shown in Figure 1.                                         2 PLACES
-
-  Step 2: Rivet the VENT DL-10 2.4°
-  Flanged Ducts to the F-1048-L and -R Fwd
-  Fuselage Ribs per the callouts in Figure 1.
-
-
-
-
-                         CS4-4,
-                      8 PLACES
-
-
-
-
-                                                                            F-1048-R
-
-
-                                                            F-1048-L
-                                                            (SHOWN TRANSPARENT)
-
-
-                                                        FIGURE 1: INSTALLING THE FORWARD HEAT DUCT TEE
-
-
-
-
-PAGE   36-4   RV-10      REVISION: 0   DATE: 07/24/14
-
+PAGE 36-4  RV-10  REVISION: 0  DATE: 07/24/14

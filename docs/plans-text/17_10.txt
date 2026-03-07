@@ -1,239 +1,273 @@
-                                                                                                           VAN'S AIRCRAFT, INC.
+=== PAGE 17-1 ===
+VAN'S AIRCRAFT, INC.
 
+SECTION 17:
+OUTBOARD
+LEADING EDGE
 
+[Isometric view of outboard leading edge assembly]
 
-
-    W-1019-L
-               W-1008-R
-               SPLICE RIB                                                     SECTION 17:
-                    W-1026
-
-
-                                                                              OUTBOARD
+W-1019-L
 SPLICE STRIP
-                    LEADING EDGE J-STIFFENER
 
-                               W-1009-1L
-                               LEADING EDGE RIB
+W-1008-R
+SPLICE RIB
 
+W-1026
+LEADING EDGE J-STIFFENER
 
+W-1009-1L
+LEADING EDGE RIB
 
+W-1009-2L
+LEADING EDGE RIB
 
-                                                  W-1009-2L
-                                                  LEADING EDGE RIB
-                                                                             LEADING EDGE
-                                                                     W-1009-L
-                                                                     LEADING EDGE RIB
+W-1009-L
+LEADING EDGE RIB
 
+W-1009-L
+LEADING EDGE RIB
 
+W-1001-L
+LEADING EDGE SKIN
 
+W-1009-L
+LEADING EDGE RIB
 
-                                                                                        W-1009-L
-                                                                                        LEADING EDGE RIB
-                                                                                                               W-1001-L
-                                                                                                               LEADING EDGE SKIN
+W-1009-R
+LEADING EDGE RIB
 
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 17-1
 
+=== PAGE 17-2 ===
+VAN'S AIRCRAFT, INC.
 
+Step 1: Flute, straighten and adjust all flange angles of all the ribs per Section 5-12.
 
-                                                                                                              W-1009-L
-                                                                                                              LEADING EDGE RIB
+Step 2: Fabricate the W-1026 Leading Edge J-Stiffener for both the left and right wing assemblies by cutting two pieces of J-channel, each one 76 1/8 inches long. Draw a centerline on the flange of each J-stiffener as shown in Figure 1. Set one J-stiffener aside for use on the right outboard leading edge assembly.
 
+DRAW LINE
+5/16 FROM
+EDGE
 
+FIGURE 1: J-STIFFENER END VIEW
 
+Step 3: Modify two W-1009-L for the left wing assembly and two W-1009-R Leading Edge Ribs for the right wing assembly per the dimensions given in Table 1 and as shown in Figure 2. This will create W-1009-1L, W-1009-2L, W-1009-1R and W-1009-2R. The ribs must be notched to fit around the spar bars and rivet heads on the main spar assembly. Because the main spar bars are stepped (spanwise thickness changes) two different modified ribs will be required, see isometric view on page 1.
 
-                                                                                                                                           W-1009-R
-                                                                                                                                           LEADING EDGE RIB
+             X1       Y1       X2      Y2
+W-1009-1L/R  13/32  1 11/16   9/32  1 21/32
+W-1009-2L/R  11/32  1 11/16   5/32  1 1/16
 
+TABLE 1: LEADING EDGE RIB TRIM
 
+X1
 
+Y1
 
-                                                                                                              DATE: 07/24/14 REVISION: 0   RV-10    PAGE   17-1
-                       VAN'S AIRCRAFT, INC.
-                        Step 1: Flute, straighten and adjust all flange angles of all the ribs per Section 5-12.   Step 4: Create a cradle to hold both the leading edge and tank assemblies during assembly. First remove the material indicated by the hatched
-                                                                                                                   area in Figure 4 from the VB-11 Wing Leading Edge Vee Blocks. Save the removed material, it will be used later to create the flap cradle. Make
-   Step 2: Fabricate the W-1026 Leading Edge J-Stiffener for both the left and right wing assemblies by            rails 57 1/2 inches long to interconnect the vee blocks. Assemble the cradle as shown in Figure 5. Line the inside face of the cradle with duct
-   cutting two pieces of J-channel, each one 76 1/8 inches long. Draw a centerline on the flange of each           tape or weather strip as shown in Figure 5.
-   J-stiffener as shown in Figure 1. Set one J-stiffener aside for use on the right outboard leading edge
-   assembly.
-                                                                                                                                                                                                            VB-11,
-                                                                                                                                                                                                            2 PL.
-                                                                 DRAW LINE
-                                                                 5/16 FROM
-                                                                    EDGE                                                                                                                                        PAD,
-                                                                                                                                                                                                                2 PL.
+X2
 
+Y2
 
+FIGURE 2:
+LEADING EDGE
+RIB TRIM
 
+Step 4: Create a cradle to hold both the leading edge and tank assemblies during assembly. First remove the material indicated by the hatched area in Figure 4 from the VB-11 Wing Leading Edge Vee Blocks. Save the removed material, it will be used later to create the flap cradle. Make rails 57 1/2 inches long to interconnect the vee blocks. Assemble the cradle as shown in Figure 5. Line the inside face of the cradle with duct tape or weather strip as shown in Figure 5.
 
-                                                                                                                                                                                                                                       RAIL,
-                          FIGURE 1: J-STIFFENER END VIEW                                                                                                                                                                               2 PL.
-                                                                                                                                                              TRIM LINE
-                                                                                                                                                                                                                                       (NOT SUPPLIED IN KIT)
+VB-11,
+2 PL.
 
-  Step 3: Modify two W-1009-L for the left wing assembly and two W-1009-R Leading Edge Ribs for the
-  right wing assembly per the dimensions given in Table 1 and as shown in Figure 2. This will create
-  W-1009-1L, W-1009-2L, W-1009-1R and W-1009-2R. The ribs must be notched to fit around the spar
-  bars and rivet heads on the main spar assembly. Because the main spar bars are stepped (spanwise
-  thickness changes) two different modified ribs will be required, see isometric view on page 1.
-                                                                                                                         FIGURE 4: WING LEADING
-                                                                                                                            EDGE VEE BLOCK
-                                          X1      Y1    X2    Y2
-                             W-1009-1L/R 13/32 1 11/16 9/32 1 21/32
-                             W-1009-2L/R 11/32 1 11/16 5/32 1 1/16
-                                                                                                                                                                                      FIGURE 5: CRADLE ASSEMBLY
-                         TABLE 1: LEADING EDGE RIB TRIM
+PAD,
+2 PL.
 
-                                                                                                   X1
+TRIM LINE
 
-                                                                                                                   Step 5: Remove the W-1019-L and W-1019-R Splice Strips from the T-1001-L and T-1001-R Fuel Tank Skins, see Figure 3. Careful use of a
-                                                                                                                   die-grinder works well. File off the remaining tab material.
-                                                                                           Y1
-                                                                                                                   Step 6: Deburr all edges on all the parts in the leading edge assembly. Smooth the inboard edge of the T-1001-L and T-1001-R Fuel Tank Skins.
+RAIL,
+2 PL.
+(NOT SUPPLIED IN KIT)
 
+FIGURE 4: WING LEADING
+EDGE VEE BLOCK
 
+FIGURE 5: CRADLE ASSEMBLY
 
+Step 5: Remove the W-1019-L and W-1019-R Splice Strips from the T-1001-L and T-1001-R Fuel Tank Skins, see Figure 3. Careful use of a die-grinder works well. File off the remaining tab material.
 
-                                                                                              X2
-          FIGURE 2:                                                                                                                                                                                                                       T-1001-L
-        LEADING EDGE                                                                                                                                          W-1019-L                                                             TAB,
-                                                                                           Y2
-           RIB TRIM                                                                                                                                                                                                                13 PL.
+Step 6: Deburr all edges on all the parts in the leading edge assembly. Smooth the inboard edge of the T-1001-L and T-1001-R Fuel Tank Skins.
 
-                                                                                                                                                       FIGURE 3: REMOVING SPLICE STRIP FROM FUEL TANK SKIN
+W-1019-L
 
-PAGE   17-2    RV-10      REVISION: 0   DATE: 07/24/14
-                                                                                                  W-1008-R                                                                        VAN'S AIRCRAFT, INC.
-                                                                                                        W-1009-1L
-NOTE: The remaining steps in this section are for the left
-outboard leading edge assembly except step 12 on this page.                                                         W-1009-2L
+T-1001-L
 
-Step 1: Remove the protective vinyl coating from the inside surface
-of the W-1001-L Leading Edge Skins.
-                                                                   W-1019-L                                                     W-1009-L
-Step 2: Insert the W-1001-L Leading Edge Skin into the cradle.
-Cleco the W-1009-L/R, W-1009-1L and W-1009-2L Leading
-Edge ribs to the leading edge skin. Insert the W-1019-L Splice                                                                              W-1009-L
-Strip into the inboard end of the leading edge skin then insert
-the W-1008-R Splice Rib and cleco the splice rib, splice strip
-and leading edge skin together. See Figure 1.
-                                                                                                                                                          W-1009-L
-Step 3: Insert the W-1026 Leading Edge J-Stiffener into the
-assembly as shown in Figure 1. Position the outboard edge of
-                                                                                                                                                                       W-1009-R
-the J-stiffener flush with the outboard face of the W-1009-R
-Leading Edge Rib. See the isometric view on Page 17-1. Align the
-centerline drawn on the flange of the J-stiffener with the holes
-in the leading edge skin, then drill and cleco the J-stiffener to
-the skin.                                                                      CRADLE
+TAB,
+13 PL.
 
-Step 4: Final-Drill #40 all the ribs and splice strip to the skin.
-Run a #40 bit through the aft row of main spar attach holes on
-the bottom and top of the W-1001-L Leading Edge Skin.
-Run a #40 bit through the platenut attach holes on
-the W-1019-L Splice Strip.
-                                                                                                                                                                       W-1001-L
+FIGURE 3: REMOVING SPLICE STRIP FROM FUEL TANK SKIN
+
+PAGE 17-2  RV-10  REVISION: 0  DATE: 07/24/14
+
+=== PAGE 17-3 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: The remaining steps in this section are for the left outboard leading edge assembly except step 12 on this page.
+
+Step 1: Remove the protective vinyl coating from the inside surface of the W-1001-L Leading Edge Skins.
+
+Step 2: Insert the W-1001-L Leading Edge Skin into the cradle. Cleco the W-1009-L/R, W-1009-1L and W-1009-2L Leading Edge ribs to the leading edge skin. Insert the W-1019-L Splice Strip into the inboard end of the leading edge skin then insert the W-1008-R Splice Rib and cleco the splice rib, splice strip and leading edge skin together. See Figure 1.
+
+Step 3: Insert the W-1026 Leading Edge J-Stiffener into the assembly as shown in Figure 1. Position the outboard edge of the J-stiffener flush with the outboard face of the W-1009-R Leading Edge Rib. See the isometric view on Page 17-1. Align the centerline drawn on the flange of the J-stiffener with the holes in the leading edge skin, then drill and cleco the J-stiffener to the skin.
+
+Step 4: Final-Drill #40 all the ribs and splice strip to the skin. Run a #40 bit through the aft row of main spar attach holes on the bottom and top of the W-1001-L Leading Edge Skin. Run a #40 bit through the platenut attach holes on the W-1019-L Splice Strip.
+
 Step 5: Enlarge all screw holes on the W-1019-L Splice Strip to #19.
 
 Step 6: Disassemble the leading edge.
 
-Step 7: Machine countersink the #40 nutplate attach holes in the W-1019-L Splice Strip
-for the head of an AN426AD3 rivet.
+Step 7: Machine countersink the #40 nutplate attach holes in the W-1019-L Splice Strip for the head of an AN426AD3 rivet.
 
-Step 8: Deburr all holes in all parts.                                                              FIGURE 1:
-                                                                                                OVERALL ASSEMBLY
-CAUTION!: Holes dimpled for a #8 screw have a tendency to crack if not deburred
-carefully! First check that the hole has been drilled to final size.
-Before dimpling thoroughly deburr the holes.
-                                                                                                                                 W-1019-L
+Step 8: Deburr all holes in all parts.
+
+CAUTION!: Holes dimpled for a #8 screw have a tendency to crack if not deburred carefully! First check that the hole has been drilled to final size. Before dimpling thoroughly deburr the holes.
+
 Step 9: Dimple the screw holes in the splice strip for a #8 screw.
 
-Dimple remaining holes in all parts as required (including the aft top and bottom rows of
-holes on the W-1001-L Leading Edge Skin).
+Dimple remaining holes in all parts as required (including the aft top and bottom rows of holes on the W-1001-L Leading Edge Skin).
 
-Step 10: Prime all parts if/as desired.                                                                                                                                                                    W-1026
+Step 10: Prime all parts if/as desired.
 
 Step 11: Rivet the nutplates onto the W-1019-L Splice Strip as shown in Figure 2.
 
-Step 12: Rivet (fill) the two stall warning slot guide holes in the W-1001-R Leading Edge
-Skin with AN426AD3-3 rivets. See Page 17-4, Figure 1.
-                                                                                                                                                 K1100-08,
-NOTE: If using the standard stall warning device it is easier to complete the steps                                                              19 PL.
-on Page 19-2 now before finishing the steps on this page.
-                                                                                                                                                       AN426AD3-3.5,
+Step 12: Rivet (fill) the two stall warning slot guide holes in the W-1001-R Leading Edge Skin with AN426AD3-3 rivets. See Page 17-4, Figure 1.
+
+NOTE: If using the standard stall warning device it is easier to complete the steps on Page 19-2 now before finishing the steps on this page.
+
 Step 13: Reassemble the parts per step 1.
-                                                                                                                                                       TYP.
-Step 14: Rivet the assembly together per the rivet call-outs given on Page 17-4, Figure 1.
-Start by riveting the aft most two holes in the leading edge ribs and splice rib, top and
-bottom, then rivet all parts together progressively working towards the leading edge.
-                                                                                             FIGURE 2: NUTPLATE TO SPLICE STRIP ATTACH
-                                                                                                                                                                                     DATE: 07/24/14 REVISION: 0   RV-10   PAGE   17-3
-                        VAN'S AIRCRAFT, INC.
 
+Step 14: Rivet the assembly together per the rivet call-outs given on Page 17-4, Figure 1. Start by riveting the aft most two holes in the leading edge ribs and splice rib, top and bottom, then rivet all parts together progressively working towards the leading edge.
 
+W-1008-R
 
-   Step 1: Enlarge the tie-down hole (indicated in Figure 1) to allow a tie-down ring to be inserted through the W-1001-L Leading Edge
-   Skin into the W-1020 Tie-Down. Tie down rings are not provided in kit, order BOLT EYE 3/8-16 T.D. from VAN'S ACCESSORIES
-   CATALOG.
+W-1009-1L
 
-   Step 2: Remove any clecos holding the W-1012-R Outboard Wing Rib to the main spar assembly. Cleco the leading edge
-   assembly to the main spar assembly. There may be some misalignment in the main spar assembly between the holes punched in
-   the C Channel Spar Web and the Doubler. Run a #30 drill through these holes if required to insert clecos.
+W-1009-2L
 
-  Final-Drill #30 the holes common to the main spar assembly and the aft flange of the ribs in the leading edge assembly. Check that
-  the tie-down hole is located in the proper position.                                                                                   STALL
-                                                                                                                                         WARNING
-   Step 3: Rivet the W-1009-R Leading Edge Rib to the main spar and outboard wing rib                       LEAVE OPEN                   SLOT
-   as shown in Figure 2.                                                                                LEFT WING ONLY                   GUIDE
-                                                                                                         STALL WARNING                   HOLES                   TIE-DOWN
-   Step 4: Rivet the leading edge ribs to the main spar assembly per the rivet call-outs                  ACCESS HATCH                   (SEE                    HOLE
-   shown in Figure 2.                                                                                      GUIDE HOLES                                  LEAVE
-                                                                                                                                         SECTION                 (SEE
-                                                                                                       (SEE SECTION 19)                  19)             OPEN
-                                                                                                                                                                 STEP 1
-   Step 5: Rivet the W-1001-L Leading Edge Skin to the main spar                                                                                    LEFT WING
-                                                                                                                                                                 ON THIS
-   assembly flange.                                                                                                                                  ONLY FOR
-                                                                                                              AN470AD4-5,                                        PAGE)
-                                                                                                                                                   PITOT TUBE
-                                AN470AD4-5,                                                                   (OPTIONAL LP4-3)                            (SEE
-                           (OPTIONAL LP4-3)                                                                   8 PL.                                SECTION 20)
-                                      8 PL.
+W-1019-L
 
+W-1009-L
 
-                 W-1012-R                                                                                                                                                      WING TIP ATTACH POINTS (SEE SECTION 23)
+W-1009-L
 
-                                                                                                                                         LP4-3,                               AN426AD3-4
-                                                                                                                                         8 PL.                                AN426AD3-3.5
+W-1009-L
 
+W-1009-R
 
-                                                                                                                                                        LP4-3,
-                                                                                                                                                                          FIGURE 1: LEADING EDGE SKIN RIVET DIAGRAM
-                                                                                                                                                        6 PL.
+CRADLE
 
+W-1001-L
 
-                                                                                                                                                                 LP4-3,
-                                                                                                                                                                 6 PL.
+FIGURE 1:
+OVERALL ASSEMBLY
 
+W-1019-L
 
-                                                                                                                                                                              LP4-3,
-                                                                                                                                                                              6 PL.          OUTBOARD LEADING
-                                                                                                                                                                                             EDGE ASSEMBLY
+W-1026
 
+K1100-08,
+19 PL.
 
+AN426AD3-3.5,
+TYP.
 
+FIGURE 2: NUTPLATE TO SPLICE STRIP ATTACH
 
-                                                                                                                                                                                   AN470AD4-7,
-                                                                                                                                                                                   6 PL.
+DATE: 07/24/14  REVISION: 0  RV-10  PAGE 17-3
 
+=== PAGE 17-4 ===
+VAN'S AIRCRAFT, INC.
 
-      FIGURE 2: ATTACHING THE OUTBOARD
-   LEADING EDGE ASSEMBLY TO THE MAIN SPAR
-  (UPPER WING SKINS NOT SHOWN FOR CLARITY)
-                                                                                                                                                                   MAIN SPAR ASSEMBLY
+Step 1: Enlarge the tie-down hole (indicated in Figure 1) to allow a tie-down ring to be inserted through the W-1001-L Leading Edge Skin into the W-1020 Tie-Down. Tie down rings are not provided in kit, order BOLT EYE 3/8-16 T.D. from VAN'S ACCESSORIES CATALOG.
 
+Step 2: Remove any clecos holding the W-1012-R Outboard Wing Rib to the main spar assembly. Cleco the leading edge assembly to the main spar assembly. There may be some misalignment in the main spar assembly between the holes punched in the C Channel Spar Web and the Doubler. Run a #30 drill through these holes if required to insert clecos.
 
+Final-Drill #30 the holes common to the main spar assembly and the aft flange of the ribs in the leading edge assembly. Check that the tie-down hole is located in the proper position.
 
+Step 3: Rivet the W-1009-R Leading Edge Rib to the main spar and outboard wing rib as shown in Figure 2.
 
-PAGE   17-4    RV-10      REVISION: 0   DATE: 07/24/14
-
+Step 4: Rivet the leading edge ribs to the main spar assembly per the rivet call-outs shown in Figure 2.
+
+Step 5: Rivet the W-1001-L Leading Edge Skin to the main spar assembly flange.
+
+AN470AD4-5,
+(OPTIONAL LP4-3)
+8 PL.
+
+W-1012-R
+
+AN470AD4-5,
+(OPTIONAL LP4-3)
+8 PL.
+
+FIGURE 2: ATTACHING THE OUTBOARD
+LEADING EDGE ASSEMBLY TO THE MAIN SPAR
+(UPPER WING SKINS NOT SHOWN FOR CLARITY)
+
+STALL
+WARNING
+SLOT
+GUIDE
+HOLES
+(SEE
+SECTION
+19)
+
+LEAVE OPEN
+LEFT WING ONLY
+STALL WARNING
+ACCESS HATCH
+GUIDE HOLES
+(SEE SECTION 19)
+
+LEAVE
+OPEN
+LEFT WING
+ONLY FOR
+PITOT TUBE
+(SEE
+SECTION 20)
+
+TIE-DOWN
+HOLE
+(SEE
+STEP 1
+ON THIS
+PAGE)
+
+WING TIP ATTACH POINTS (SEE SECTION 23)
+
+LP4-3,
+8 PL.
+
+AN426AD3-4
+
+LP4-3,
+6 PL.
+
+AN426AD3-3.5
+
+LP4-3,
+6 PL.
+
+FIGURE 1: LEADING EDGE SKIN RIVET DIAGRAM
+
+LP4-3,
+6 PL.
+
+OUTBOARD LEADING
+EDGE ASSEMBLY
+
+AN470AD4-7,
+6 PL.
+
+MAIN SPAR ASSEMBLY
+
+PAGE 17-4  RV-10  REVISION: 0  DATE: 07/24/14

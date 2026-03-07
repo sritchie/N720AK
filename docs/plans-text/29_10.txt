@@ -1,1326 +1,901 @@
-                                                                                                                                                                               VAN'S AIRCRAFT, INC.
-                                                                                                                                 F-1023-R                            F-1046-R
-                                                                                                       F-1070-R
-
-
-   SECTION 29:
-                                                                                                                                 BAGGAGE FLOOR ANGLE                 MID FUSE LONGERON
-                                                                                                  MID SIDE SKIN
-                                                                                      FUSELAGE
-                                                                                      BULKHEAD                                                                       F-1034E
-                                                                                      ASSEMBLY                                                                       SEAT BACK
-                                                                                                                                                                     BRACE GUSSET
-
-
-      FUSE
-                                                                             REAR SPAR
-                                                                              BULKHEAD                                                                                                                       F-1046-L
-                                                                              ASSEMBLY                                                                                                                       MID FUSE
-                                                                                                                                                                                                             LONGERON
-
-                                                                                                                                                                      F-1034B
-
-
-   SIDE SKINS                                                               F-1005C
-                                                                      BULKHEAD SIDE
-                                                                           CHANNEL
-                                                                                                                                                                      SEAT BACK BRACE
-                                                                                                                                                                                                                 F-1070-L
-                                                                                                                                                                                                                 MID SIDE SKIN
-
-
-                                                                                                                                                                                                                 F-10102A
-                                                                                                                                                                                                                 BAGGAGE DOOR
-                               F-1042E-R                                    F-1015C-R                                                                                                                            SEAL ANGLE
-                                 GUSSET                    F-1042-R
-                                                                            MID CABIN DECK                                                                                                                         F-1077
-                                                           BULKHEAD
-                              F-1088-R                     SIDE                                                                                                                                                    MID BOTTOM
-                     FWD FUSELAGE RIB                      CHANNEL                                                                                                                                                 SKIN
-                 F-1040-R
-     UPPER FUSE CHANNEL                                                                                                                                                                                      F-1023-L
-                                                                                                                                                                                                             BAGGAGE FLOOR ANGLE
-           F-1002-R
-     FWD FUSELAGE                                                                                                                                                                                F-10102B
-         BULKHEAD                                                                                                                                                                                BAGGAGE DOOR
-                                                                                                                                                                                                 SEAL ANGLE
-       WD-1002-R
-  UPPER FIREWALL                                                                                                                                                                                                   F-1013-L
-        BRACKET                                                                                                                                                                                                    FWD FUSELAGE
-                                                                                                                                                                                        F-1096                     LONGERON
-                                                                                                                                                                                        VENT DOUBLER,
-          F-1013-R                                                                                                                                                                      2 PLACES
-              FWD                                                                                                                                                                   F-1093
-        FUSELAGE                                                                                                                                                                    VENT DOOR,
-       LONGERON                                                                                                                                                                     2 PLACES
-                                                                                                                                                                                         WD-1007-L
-        F-1050-R
-                                                                                                                                                                                         STEP
-      FWD CABIN
-    FLOOR PANEL
-
-          F-1041-R                                                                                                                                      F-1015F
-LWR FUSE CHANNEL                                                                                                                                                                         F-1018-L
-                                                                                                                                                        SPACER
-                                                                                                                                                                                         OUTBD REAR
-                                                                                                                                                                                         SEAT RIB
-                                                                                                                                                         F-1015B-L
-                                                                                                                                                         FOOT WELL RIB INTERCOSTAL
-
-        WD-1003-R                                                                                                                                   F-1015C-L
-           LOWER                                                                                                                                    MID CABIN DECK
-                                                                                                                                        F-1042E-L
-        FIREWALL
-                                                                                                                                        GUSSET
-         BRACKET
-                                                                                                                                        F-1040-L
-          F-1049C-R             WD-1003-L                                                                  WD-1021-L                    UPPER FUSE CHANNEL
-     FWD FUSELAGE                  LOWER                                                                   LANDING GEAR                 F-1004K-L
-         FLOOR RIB              FIREWALL                                                                   MOUNT - LEFT                 CENTER SECTION
-                                BRACKET
-                                                                                             F-1050-L                                   SIDE PLATE
-                                      F-1049C-L                                              FWD CABIN            F-1088-L
-                        FWD FUSELAGE FLOOR RIB                                               FLOOR PANEL          FWD
-                                                           F-1002-L             F-1041-L                          FUSELAGE RIB
-                                            FWD FUSELAGE BULKHEAD               LWR FUSE CHANNEL
-                                                                                                                                                                                    DATE: 07/24/14 REVISION: 0   RV-10    PAGE   29-1
-                       VAN'S AIRCRAFT, INC.
-                                                                                      FWD EDGE
-                         NOTE: Figures 1 and 2 show the
-                         F-1046-R Mid Fuse Longeron; the left
-                         mid fuse longeron is a mirror of the right.
-
-   Step 1: Cut the F-1046-L and -R Mid Fuse Longerons from
-   AA6-125X3/4X3/4 per the dimensions in Figure 1.
-
-  Step 2: Mark the skin rivet line on both the F-1046-L and -R Mid
-  Fuse Longerons as shown in Figure 1.
-                                                                                                                                                                      F-1046B
-                                                                                                                                                                                             SKIN RIVET LINE
-  NOTE: The F-1046B Longeron Bending Template is used for both the
-  F-1046 Mid Fuse and F-1013 Fwd Fuse Longerons. Mark it as shown in
-  Figure 2 to eliminate future confusion. The markings on the other side of
-  the template are shown on Page 29-3, Figure 1.
-                                                                                                   F-1046-R                                                                                            FIGURE 1: FABRICATING THE
-  Step 3: Place one of the ends of the F-1046-R Mid Fuse Longeron in a padded vise
-  and prelude the free end. Using a rubber mallet, firmly strike it adjacent to the vise to
-                                                                                                                                                                                                          MID FUSE LONGERONS
-  produce a bend. Repeat this process at one inch intervals to produce a curve that matches                                                                                                                 (F-1046-R SHOWN)
-  the F-1046B Longeron Bending Template within a sixteenth of an inch. See Figure 3.
+SECTION 29: FUSE SIDE SKINS
+Van's Aircraft, Inc.
+RV-10
+Date: 07/24/14
+
+=== PAGE 1 ===
+PAGE 29-1 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+SECTION 29: FUSE SIDE SKINS
+
+[Isometric drawing of the fuselage bulkhead assembly showing the left side of the fuselage structure with all major parts labeled]
+
+Part callouts (left/forward side):
+- F-1042E-R GUSSET
+- F-1088-R FWD FUSELAGE RIB
+- F-1040-R UPPER FUSE CHANNEL
+- F-1002-R FWD FUSELAGE BULKHEAD
+- WD-1002-R UPPER FIREWALL BRACKET
+- F-1013-R FWD FUSELAGE LONGERON
+- F-1050-R FWD CABIN FLOOR PANEL
+- F-1041-R LWR FUSE CHANNEL
+- WD-1003-R LOWER FIREWALL BRACKET
+- F-1049C-R FWD FUSELAGE FLOOR RIB
 
-  Check the curve often to prevent overbending. The mid fuse longeron can be placed in a six-inch vise RUBBER MALLET
-  without removing any of the bend, so it is easy to add more curve later. Remove curve by clamping the
-  mid fuse longeron at the required point and pulling back slightly.
+Part callouts (center):
+- F-1070-R MID SIDE SKIN
+- FUSELAGE BULKHEAD ASSEMBLY
+- REAR SPAR BULKHEAD ASSEMBLY
+- F-1005C BULKHEAD SIDE CHANNEL
+- F-1042-R BULKHEAD SIDE CHANNEL
+- F-1015C-R MID CABIN DECK
+- WD-1003-L LOWER FIREWALL BRACKET
+- F-1049C-L FWD FUSELAGE FLOOR RIB
+- F-1002-L FWD FUSELAGE BULKHEAD
+- F-1041-L LWR FUSE CHANNEL
+- F-1050-L FWD CABIN FLOOR PANEL
+- WD-1021-L LANDING GEAR MOUNT - LEFT
+
+Part callouts (right/aft side):
+- F-1023-R BAGGAGE FLOOR ANGLE
+- F-1046-R MID FUSE LONGERON
+- F-1034E SEAT BACK BRACE GUSSET
+- F-1034B SEAT BACK BRACE
+- F-1070-L MID SIDE SKIN
+- F-10102A BAGGAGE DOOR SEAL ANGLE
+- F-1077 MID BOTTOM SKIN
+- F-1023-L BAGGAGE FLOOR ANGLE
+- F-10102B BAGGAGE DOOR SEAL ANGLE
+- F-1096 VENT DOUBLER, 2 PLACES
+- F-1093 VENT DOOR, 2 PLACES
+- WD-1007-L STEP
+- F-1015F SPACER
+- F-1015B-L FOOT WELL RIB INTERCOSTAL
+- F-1015C-L MID CABIN DECK
+- F-1042E-L GUSSET
+- F-1040-L UPPER FUSE CHANNEL
+- F-1004K-L CENTER SECTION SIDE PLATE
+- F-1088-L FWD FUSELAGE RIB
+- F-1046-L MID FUSE LONGERON
+- F-1018-L OUTBD REAR SEAT RIB
+- F-1013-L FWD FUSELAGE LONGERON
 
-  Check that the mid fuse longeron does not bend out of plane vertically as it is being bent in the horizontal direction. If this occurs,
-  rotate the mid fuse longeron 90°, clamp it in a vise, bend it back straight with your hands, then recheck the curve with the template.
-                                                                                                                                                                                                                                   AFT EDGE
-  Repeat this step to curve the F-1046-L Mid Fuse Longeron.
+=== PAGE 2 ===
+PAGE 29-2 | RV-10 | REVISION: 1 | DATE: 07/24/14
 
-  Step 4: Flush the side edge of the F-1046B Longeron Bending Template with the vertex of the F-1046-R Mid Fuse Longeron (see
-  Figure 2 for the proper orientation of both parts), flush the aft edge of the longeron bending template with the aft end of the mid fuse                                      MATCH-DRILL THESE
-  longeron, then clamp the parts together. Match-Drill #30 the mid fuse longeron using the longeron bending template as a drill guide                                              HOLES INTO THE
-  (do not match-drill the holes marked "F-1046-L only" in Figure 3). Take care when drilling to ensure that the drill is perpendicular to                                           F-1046-L ONLY!
-  the longeron bending template. Trim the forward end of the mid fuse longeron flush with the edge of the longeron bending template.
-  Flip the longeron bending template over and repeat this step to match-drill the F-1046-L Mid Fuse Longeron.
+NOTE: Figures 1 and 2 show the F-1046-R Mid Fuse Longeron; the left mid fuse longeron is a mirror of the right.
+
+Step 1: Cut the F-1046-L and -R Mid Fuse Longerons from AA6-125X3/4X3/4 per the dimensions in Figure 1.
+
+Step 2: Mark the skin rivet line on both the F-1046-L and -R Mid Fuse Longerons as shown in Figure 1.
+
+NOTE: The F-1046B Longeron Bending Template is used for both the F-1046 Mid Fuse and F-1013 Fwd Fuse Longerons. Mark it as shown in Figure 2 to eliminate future confusion. The markings on the other side of the template are shown on Page 29-3, Figure 1.
+
+Step 3: Place one of the ends of the F-1046-R Mid Fuse Longeron in a padded vise and prelude the free end. Using a rubber mallet, firmly strike it adjacent to the vise to produce a bend. Repeat this process at one inch intervals to produce a curve that matches the F-1046B Longeron Bending Template within a sixteenth of an inch. See Figure 3.
+
+Check the curve often to prevent overbending. The mid fuse longeron can be placed in a six-inch vise without removing any of the bend, so it is easy to add more curve later. Remove curve by clamping the mid fuse longeron at the required point and pulling back slightly.
+
+Check that the mid fuse longeron does not bend out of plane vertically as it is being bent in the horizontal direction. If this occurs, rotate the mid fuse longeron 90 degrees, clamp it in a vise, bend it back straight with your hands, then recheck the curve with the template.
+
+Repeat this step to curve the F-1046-L Mid Fuse Longeron.
+
+Step 4: Flush the side edge of the F-1046B Longeron Bending Template with the vertex of the F-1046-R Mid Fuse Longeron (see Figure 2 for the proper orientation of both parts), flush the aft edge of the longeron bending template with the aft end of the mid fuse longeron, then clamp the parts together. Match-Drill #30 the mid fuse longeron using the longeron bending template as a drill guide (do not match-drill the holes marked "F-1046-L only" in Figure 3). Take care when drilling to ensure that the drill is perpendicular to the longeron bending template. Trim the forward end of the mid fuse longeron flush with the edge of the longeron bending template. Flip the longeron bending template over and repeat this step to match-drill the F-1046-L Mid Fuse Longeron.
+
+Step 5: Deburr the F-1046-L and -R Mid Fuse Longerons.
+
+Step 6: Cut the F-1013-L and -R Fwd Fuselage Longerons from AA6-125X3/4X3/4 per the overall length dimensions in Figure 3.
+
+NOTE: Figures 3 shows marks on the flanges of the F-1013-R Fwd Fuselage Longeron which are made in Step 7. The marks on the F-1013-L Fwd Fuselage Longeron are made on the opposite flanges.
 
-   Step 5: Deburr the F-1046-L and -R Mid Fuse Longerons.                                                                                            FIGURE 2 BENDING THE MID FUSE LONGERONS
+Step 7: Mark the F-1013-L and -R Fwd Fuselage Longerons at the four locations shown in Figure 3.
 
+Mark the skin rivet line, shown in Figure 3, on both fwd fuselage longerons.
 
+FIGURE 1: FABRICATING THE MID FUSE LONGERONS (F-1046-R SHOWN)
+[Drawing showing the longeron with dimensions: 49 23/32 overall length, F-1046B template, SKIN RIVET LINE marked, 5/16 dimension noted]
+- Labels: FWD EDGE, F-1013 LEFT, F-1046 RIGHT, PRE LOAD, F-1046-R, RUBBER MALLET
+- MATCH-DRILL THESE HOLES INTO THE F-1046-L ONLY!
+
+FIGURE 2: BENDING THE MID FUSE LONGERONS
+[Drawing showing curved longeron with template alignment]
+
+FIGURE 3: MARKING THE FWD FUSE LONGERONS (F-1013-R SHOWN)
+[Drawing showing longeron with dimension marks]
+Dimensions: 5, 30 9/32, 92 5/32 (F-1013-L), 113 1/2 (F-1013-R), 92 3/16, 89 1/32
+- FWD TWIST MARK
+- START OF CURVE
+- SKIN RIVET LINE
+- END OF CURVE
+- AFT TWIST MARK
+
+=== PAGE 3 ===
+PAGE 29-3 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Using the technique employed to curve the F-1046 Mid Fuse Longerons, curve the F-1013-R Fwd Fuse Longeron between the "start of curve" mark and the "end of curve" mark. The curve must match the F-1046B Longeron Bending Template within a sixteenth of an inch. See Figure 1.
+
+Repeat this step to curve the F-1013-L Mid Fuse Longeron.
+
+Step 2: Clamp the F-1013-R Fwd Fuse Longeron to the F-1046B Longeron Bending Template. Match the fwd edge of the longeron bending template with the "start of curve" mark and flush the long edge of the longeron bending template with the vertex of the fwd fuse longeron. Match-Drill #40 the mid fuse longeron using the longeron bending template as a drill guide. Repeat this step to match-drill the F-1013-L Fwd Fuse Longeron.
+
+Step 3: Clamp the F-1013-R Fwd Fuse Longeron in a padded vise at the "forward twist mark". Twist the fwd fuse longeron with a crescent wrench as shown in Figure 2 to obtain the dimension shown in Figure 3. Clamp the fwd fuse longeron at the "aft twist mark". Repeat the process using the twist direction shown in Figure 1 to obtain the dimension shown in Figure 3.
+
+Step 4: Deburr the F-1013-L and -R Fwd Fuse Longerons.
+
+FIGURE 1: BENDING THE FWD FUSE LONGERONS (F-1013-R SHOWN)
+[Drawing showing F-1013-R longeron clamped in vise with rubber mallet, showing:]
+- FWD TWIST MARK
+- DIRECTION OF TWIST
+- START OF CURVE
+- END OF CURVE
+- AFT TWIST MARK
+- F-1046 LEFT / F-1013 RIGHT labels
+- PRE LOAD direction
+- RUBBER MALLET
+
+FIGURE 2: TWISTING THE FWD FUSE LONGERONS (FORWARD END OF F-1013-R SHOWN)
+[Drawing showing F-1013-R being twisted at forward end with FWD TWIST MARK indicated]
 
+FIGURE 3: FINAL TWIST (FORWARD END OF F-1013-R SHOWN)
+[Drawing showing final twist angle: 2.0 degrees]
+(DIMENSION IS THE SAME FOR BOTH THE FWD AND AFT TWIST)
 
-  Step 6: Cut the F-1013-L and -R Fwd Fuselage Longerons from AA6-125X3/4X3/4 per the overall
-  length dimensions in Figure 3.
+=== PAGE 4 ===
+PAGE 29-4 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-  NOTE: Figures 3 shows marks on the flanges of the F-1013-R Fwd Fuselage Longeron which
-  are made in Step 7. The marks on the F-1013-L Fwd Fuselage Longeron are made on the
-  opposite flanges.
-                                                                                                                         FWD TWIST
-   Step 7: Mark the F-1013-L and -R Fwd Fuselage Longerons at the four locations shown in Figure 3.                          MARK
+Step 1: Make a Clamping Block from hardwood or tightly grained equivalent per the dimensions given in the three view in Figure 1.
 
-  Mark the skin rivet line, shown in Figure 3, on both fwd fuselage longerons.
-                                                                                                                                 START OF CURVE
-                                                                                                                                                 SKIN RIVET LINE
+[Three-view drawing of clamping block with dimensions:]
+- Length: 46
+- Width sections: 12, 12
+- Height: 3 1/2
+- End dimensions: 1 1/2, 1 1/2
 
-                                                                                                                                                                   END OF CURVE
+FIGURE 1: FABRICATING THE CLAMPING BLOCK
 
-                                                                                                                                                                        AFT TWIST MARK
+Step 2: Fabricate the F-1070A and B Roll Construction Angles per the dimensions in Figure 2 (the F-1070A is shown, and the F-1070B is its mirror image). Drill a #40 hole in the end of both roll construction angles per the dimensions in Figure 2.
 
-                                                                                                                                            FIGURE 3: MARKING THE FWD FUSE
-                                                                                                                                              LONGERONS (F-1013-R SHOWN)
-PAGE   29-2    RV-10      REVISION: 1   DATE: 07/24/14
-Step 1: Using the technique employed to curve the F-1046 Mid Fuse Longerons, curve the F-1013-R Fwd Fuse Longeron between the "start of curve"
-                                                                                                                                                                                 VAN'S AIRCRAFT, INC.
-mark and the "end of curve" mark. The curve must match the F-1046B Longeron Bending Template within a sixteenth of an inch. See Figure 1.
+Step 3: Cleco the F-1070A Roll Construction Angle to the alignment hole (called out in Figure 3) in the F-1070-R Mid Side Skin. With the roll construction angle parallel to the bottom edge (indicated in Figure 3) of the mid side skin, match-drill #40 all the holes along the bottom edge of the mid side skin into the roll construction angle. Separate the two parts. Cleco the original #40 hole in the F-1070A Roll Construction Angle to the #40 hole in the F-1070B Roll Construction Angle, and clamp the remaining portions together (see Page 29-5, Figure 1 for their orientation). Match-Drill #40 all of the holes in the F-1070A Roll Construction Angle into the F-1070B Roll Construction Angle. Separate the two parts and set them aside.
+
+Step 4: Draw a line between the two rivets holes shown in the detail view in Figure 3. Offset this line per the dimension in the detail view and extend the line to intersect the trailing edge. Draw the "Start of Roll Line" between this intersection and the center of the relief notch as shown in Figure 3.
 
-Repeat this step to curve the F-1013-L Mid Fuse Longeron.                                                                                                       FWD TWIST MARK
+FIGURE 2: FABRICATING THE ROLL CONSTRUCTION ANGLE
+[Detail view showing dimensions:]
+- DRILL #40
+- 1/4
+- 5/16 IMPORTANT DIMENSION
+- 3 9/16
+- (3/4)
+- 5/16
+- 9/32
+
+FIGURE 3: MARKING THE ROLL LINE
+[Drawing of F-1070-R skin showing:]
+- F-1070-R
+- RELIEF NOTCH
+- ALIGNMENT HOLE
+- 5/16
+- START OF ROLL LINE
+- BOTTOM EDGE
+
+=== PAGE 5 ===
+PAGE 29-5 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Align the "Start of Roll Line" (see Page 29-4, Figure 3) on the F-1070-R Mid Side Skin with the edge of a table. Align the Clamping Block with the "Start of Roll Line", then clamp it and the mid side skin to the table. As shown in Figure 1, cleco the F-1070A and B Roll Construction Angles to mid side skin, and clamp two vise grips onto either end of the roll construction angles. Double check that you are about to bend the skin in the correct direction; the outboard face of the skin should be down against the table with the inboard face up.
+
+Step 2: Roll the skin into a cone that terminates in a sharp bend at the forward end. The roll is created with the aft vice grip handle, and the sharp bend is naturally formed at the forward end (the sharp bend is finished in Step 3). Twist the F-1070A and B roll construction angles with the aft vise grip and at the same time push the aft end down and inwards towards the table. Use the extra roll construction angle which extends aft of the vise grip as a handle for your other hand. The twisting and pushing motion must be balanced. Twisting too much will create a crease along the edge of the roll construction angles; pushing to hard will create a sharp bend in the middle of the roll. Do not try to complete the roll in one iteration. The finished roll should look similar to Figure 2.
+
+Step 3: Remove the four, forward most clecos from the F-1070A and B Roll Construction Angles. Twist the roll construction angles with the forward vise grip, then strike the roll construction angles with a rubber mallet to finish forming the sharp radius at the front of the roll.
+
+Step 4: Remove the F-1006B Bulkhead from the Tailcone Assembly. Cleco the F-1070-R Mid Side Skin and the bulkhead to the underlying structure and check that the mid side skin is properly formed. See Figure 4.
+
+FIGURE 1: ROLLING THE MID SIDE SKIN
+[Drawing showing the rolling setup with labeled parts:]
+- EDGE OF TABLE
+- AFT VISE GRIP
+- CLAMPING BLOCK
+- CLAMP, 2 PLACES
+- F-1070A AND B
+- SOLID TABLE NON-MOVEABLE
+
+FIGURE 2: THE AFT ROLL DIMENSIONS
+[Drawing showing roll angle:]
+- F-1070A
+- F-1070B
+- F-1070-R
+- CLAMPING BLOCK
+- 60 degrees
+
+FIGURE 3: FINISHING THE MID SIDE SKIN ROLL
+[Drawing showing:]
+- F-1070-R
+- F-1070A
+- F-1070B
+- FWD VISE GRIP
+- RUBBER MALLET
+
+FIGURE 4: TEST FITTING THE MID SIDE SKIN
+[Drawing showing:]
+- F-1006B
+- F-1070-R
+- F-1077
+
+=== PAGE 6 ===
+PAGE 29-6 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Cut the F-10102A and B Baggage Door Seal Angle from AA6-063 X 3/4 X 3/4. Use the dimensions given in Figure 1.
+
+[Drawing showing angles with labels:]
+- F-10102A
+- F-10102B
+- F-1013 3/8
+
+FIGURE 1: CREATING THE BAGGAGE DOOR SEAL ANGLES
+
+Step 2: Cleco the F-1034B Seat Back Brace and the F-1034E Seat Back Brace Gusset to the F-1046-L Mid Fuse Longeron as shown in Figure 2. Butt the forward end of the F-10102A Baggage Door Seal Angle against the aft edge of the seat back brace gusset. Offset the entire length of the baggage door seal angle a 1/16" inboard of the mid fuse longeron as shown in Figure 3, then clamp the baggage door seal angle to the mid fuse longeron.
+
+Step 3: Match-Drill #30 and cleco the holes in the F-1046-L Mid Fuse Longeron into the F-10102A Baggage Door Seal Angle.
+
+Step 4: Butt the aft end of the F-10102B Baggage Door Seal Angle against the forward end of the F-10102A Baggage Door Seal Angle (see Figures 2 and 4). Offset the F-10102B Baggage Door Seal Angle a 1/16" inboard of the mid fuse longeron and clamp it in position.
+
+Step 5: Match-Drill #30 and cleco the six holes common to the F-1046-L Mid Fuse Longeron, F-1034B Seat Back Brace, and F-1034E Seat Back Brace Gusset into the F-10102B Baggage Door Seal Angle.
+
+Final-Drill #30 the remaining holes common to the parts shown in Figure 2 that have not yet been drilled.
+
+Step 6: Draw a line on the flange of the F-10102A and B Baggage Door Seal Angles 3/8" from the lower face of the F-1046-L Mid Fuse Longeron as shown in Figure 4. Remove the baggage door seal angles and trim off the portion of the flange below this line. Note that once trimmed, the flange on F-10102B will be shorter than the flange on F-10102A.
+
+FIGURE 2: ISO VIEW OF BAGGAGE DOOR SEAL ANGLE INSTALL
+[Drawing showing assembly with labeled parts:]
+- AN470AD4-6
+- AN470AD4-8, 6 PLACES
+- F-1046-L
+- AN470AD4-6, 15 PLACES
+- F-10102A
+- F-10102B
+- F-1034E
+- LEAVE OPEN FOR F-1058 HINGE FRAME
+- AN470AD4-5, 3 PLACES
+- F-1034B
+
+FIGURE 3: BAGGAGE DOOR SEAL ANGLE OFFSET
+[Drawing showing:]
+- F-1046-L
+- F-10102A
+- 1/16 offset dimension
+
+FIGURE 4: TRIM BAGGAGE DOOR SEAL ANGLES
+[Drawing showing:]
+- DRAW LINE
+- F-1046-L
+- F-10102B
+- REMOVE FLANGE BELOW LINE
+- 3/8
+- F-10102A
+- REMOVE FLANGE BELOW LINE
+
+=== PAGE 7 ===
+PAGE 29-7 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-Step 2: Clamp the F-1013-R Fwd Fuse Longeron to the F-1046B Longeron Bending Template. Match the fwd edge of the longeron bending template
-with the "start of curve" mark and flush the long edge of the longeron bending template with the vertex of the fwd fuse longeron. Match-Drill #40 the mid                                       DIRECTION
-fuse longeron using the longeron bending template as a drill guide. Repeat this step to match-drill the F-1013-L Fwd Fuse Longeron.                                                             OF TWIST
-
-Step 3: Clamp the F-1013-R Fwd Fuse Longeron in a padded vise at the "forward twist mark". Twist the fwd fuse longeron with a crescent wrench as
-shown in Figure 2 to obtain the dimension shown in Figure 3. Clamp the fwd fuse longeron at the "aft twist mark" . Repeat the process using the twist                                                 START OF CURVE
-direction shown in Figure 1 to obtain the dimension shown in Figure 3.
-
-Step 4: Deburr the F-1013-L and -R Fwd Fuse Longerons.                                                                                                                            F-1013-R
-
-
-
-
-                                  END OF CURVE
-
-
-
-
-      AFT TWIST MARK
-                                                                                                                                     FWD TWIST MARK
-
-
-
-
-DIRECTION
-OF TWIST
-                                                                                                                        F-1013-R                                                                                         2.0°
-                                                                                                                                                                                                                    (DIMENSION IS
-                                                                RUBBER MALLET
-                                                                                                                                                                                                                      THE SAME
-                                                                                                                                                                                                                      FOR BOTH
-                                                                                                                                                                                                                    THE FWD AND
-                                                                                                                                                                                                                      AFT TWIST)
-                              FIGURE 1: BENDING THE FWD FUSE LONGERONS
-                                           (F-1013-R SHOWN)
-
-
-
-
-                                                                                                                         FIGURE 2: TWISTING THE FWD FUSE LONGERONS               FIGURE 3: FINAL TWIST
-                                                                                                                              (FORWARD END OF F-1013-R SHOWN)               (FORWARD END OF F-1013-R SHOWN)
-
-                                                                                                                                                                                     DATE: 07/24/14 REVISION: 0   RV-10   PAGE   29-3
-                       VAN'S AIRCRAFT, INC.
-
-                           Step 1: Make a Clamping Block from hardwood or tightly grained equivalent per the dimensions given in the three view in Figure 1.
-
-                                                                              46
-
-
-
-
-                                                                                                                                                                                              3 1/2
-
-                                                                                                                                                                                                  1 1/2
-                      12                                                                                                               12
-                                                                                                                                                                1 1/2
-
-
-
-
-                                                                                                   FIGURE 1: FABRICATING THE CLAMPING BLOCK
-
-   Step 2: Fabricate the F-1070A and B Roll Construction Angles per the dimensions in Figure 2 (the F-1070A is shown, and the F-1070B is its mirror image). Drill a #40 hole in the end of both roll construction angles per the dimensions in Figure 2.
-
-  Step 3: Cleco the #40 hole in the F-1070A Roll Construction Angle to the alignment hole (called out in Figure 3) in the F-1070-R Mid Side Skin. With the roll construction angle parallel to the bottom edge (indicated in Figure 3) of the mid side skin, match-drill #40 all of the
-  holes along the bottom edge of the mid side skin into the roll construction angle. Separate the two parts. Cleco the original #40 hole in the F-1070A Roll Construction Angle to the #40 hole in the F-1070B Roll Construction Angle, and clamp the remaining portions together
-  (see Page 29-5, Figure 1 for their orientation). Match-Drill #40 all of the holes in the F-1070A Roll Construction Angle into the F-1070B Roll Construction Angle. Separate the two parts and set them aside.
-
-   Step 4: Draw a line between the two rivets holes shown in the detail view in Figure 3. Offset this line per the dimension in the detail view and extend
-   the line to intersect the trailing edge. Draw the "Start of Roll Line" between this intersection and the center of
-   the relief notch as shown in Figure 3.
-                                                                                                                                                     F-1070-R
-
-
-                                                                                                                                                                                                                     5/16
-                                                                      DRILL #40              1/4                                      RELIEF
-                                                                                                                                      NOTCH
-
-
-
-
-                                                                                                   5/16
-                                                                                               IMPORTANT
-                                                                                                DIMENSION
-
-
-
-
-                                                                                                                           ALIGNMENT                                                                                 START OF ROLL LINE
-                                                                                                                                HOLE
-
-
-
-
-                                         FIGURE 2: FABRICATING THE ROLL                                                                                                                                                        BOTTOM EDGE
-                                              CONSTRUCTION ANGLE
-
-                                                                                                                                                                                       FIGURE 3: MARKING THE ROLL LINE
-
-PAGE   29-4    RV-10       REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
-Step 1: Align the "Start of Roll Line" (see Page 29-4, Figure 3) on the F-1070-R Mid Side Skin with the edge of a table. Align the
-Clamping Block with the "Start of Roll Line", then clamp it and the mid side skin to the table. As shown in Figure 1, cleco the F-1070A                                              F-1070A
-and B Roll Construction Angles to the mid side skin, and clamp two vise grips onto either end of the roll construction angles. Double
-check that you are about to bend the skin in the correct direction; the outboard face of the skin should be down against the table with                                                        F-1070-R
-the inboard face up.                                                                                                                                  F-1070B
-                                                                                                                                                                                                                                               CLAMPING
-Step 2: Roll the skin into a cone that terminates in a sharp bend at the forward end. The roll is created with the aft vice grip handle,                          60°                                                                          BLOCK
-and the sharp bend is naturally formed at the forward end (the sharp bend is finished in Step 3). Twist the F-1070A and B roll
-construction angles with the aft vise grip and at the same time push the aft end down and inwards towards the table. Use the extra
-roll construction angle which extends aft of the vise grip as a handle for your other hand. The twisting and pushing motion must be
-balanced. Twisting too much will create a crease along the edge of the roll construction angles; pushing to hard will create a sharp
-bend in the middle of the roll. Do not try to complete the roll in one iteration.                                                                               FIGURE 2: THE AFT ROLL DIMENSIONS
-The finished roll should look similar to Figure 2.
-
-                                                               EDGE OF TABLE                                                                                                                                                                         F-1070-R
-                                                                                                                                           Step 3: Remove the four, forward most clecos from
-                                                                                                                                           the F-1070A and B Roll Construction Angles.
-                                                                                                                                           Twist the roll construction angles with the
-                                                                                                                                           forward vise grip, then strike the roll
-                                                                                                                                           construction angles with a rubber
-                                                                                                                                           mallet to finish forming the
-                                                                                                                                           sharp radius at the
-                                                                                                                                           front of the roll.
-
-
-
-
-                                                                                                                                                                                                                                                      F-1070A
-      F-1070A AND B
-                                                                                                                                                                                                                                                     F-1070B
-
-
-
-                                                                                                                                                                                                                                             FWD VISE GRIP
-
-
-                                                                                                                                                                                                                             RUBBER MALLET
-
-                                                                                                                                                                                                                                   FIGURE 3: FINISHING THE
-                                                                                                                                                                                                                                      MID SIDE SKIN ROLL
-
-                                                                                                                                           Step 4: Remove the F-1006B Bulkhead from the Tailcone Assembly. Cleco the F-1070-R Mid Side Skin and the bulkhead to the
-                                                                                                                                           underlying structure and check that the mid side skin is properly formed. See Figure 4.
-
-                                                                                                                                            F-1006B
-                                                                                                                                                                                                                                                                F-1070-R
-
-
-
-                                                                                                                         SOLID TABLE
-    AFT VISE
-                                                                                                                         NON-MOVEABLE
-       GRIP
-                                      CLAMPING                                                                      F-1070-R
-                                         BLOCK
-
-
-                                                  CLAMP,
-                                                2 PLACES
-
-
-
-                                                                                                                                             F-1077
-
-                                        FIGURE 1: ROLLING THE MID SIDE SKIN
-                                                                                                                                                      FIGURE 4: TEST FITTING THE MID SIDE SKIN
-                                                                                                                                                                                                                        DATE: 07/24/14 REVISION: 0     RV-10       PAGE   29-5
-                       VAN'S AIRCRAFT, INC.
-                          Step 1: Cut the F-10102A and B Baggage Door Seal Angle from AA6-063 X 3/4 X 3/4. Use the dimensions
-                          given in Figure 1.                                                                                                                                                                          F-1046-L
-
-
-
-
-                                                                                                                                                                                                                      F-10102A
-
-
-
-                                                                                                                                                                                           1/16
-
-
-                                                                                                                                                                                      FIGURE 3: BAGGAGE DOOR
-                                                                                                                                                                                         SEAL ANGLE OFFSET
-
-                                                                                                                                         Step 6: Draw a line on the flange of the F-10102A and B Baggage Door Seal Angles 3/8" from the lower face of
-                               FIGURE 1: CREATING THE BAGGAGE                                                                            the F-1046-L Mid Fuse Longeron as shown in Figure 4. Remove the baggage door seal angles and trim off the
-                                                                                                                                         portion of the flange below this line. Note that once trimmed, the flange on F-10102B will be shorter than the
-                                     DOOR SEAL ANGLES                                                                                    flange on F-10102A.
-
-
-
-   Step 2: Cleco the F-1034B Seat Back Brace and the F-1034E Seat Back Brace Gusset to the F-1046-L Mid Fuse Longeron as
-   shown in Figure 2. Butt the forward end of the F-10102A Baggage Door Seal Angle against the aft edge of the seat back brace
-   gusset. Offset the entire length of the baggage door seal angle a 1/16" inboard of the mid fuse longeron as shown in Figure 3, then
-   clamp the baggage door seal angle to the mid fuse longeron.
-
-   Step 3: Match-Drill #30 and cleco the holes in the F-1046-L Mid Fuse Longeron into the F-10102A Baggage Door Seal Angle.
-
-  Step 4: Butt the aft end of the F-10102B Baggage Door Seal Angle against the forward end of the F-10102A Baggage Door Seal
-  Angle (see Figures 2 and 4). Offset the F-10102B Baggage Door Seal Angle a 1/16" inboard of the mid fuse longeron and clamp it
-  in position.
-
-   Step 5: Match-Drill #30 and cleco the six holes common to the F-1046-L Mid Fuse Longeron, F-1034B
-   Seat Back Brace, and F-1034E Seat Back Brace Gusset into the F-10102B Baggage Door Seal Angle.
-
-  Final-Drill #30 the remaining holes common to the parts shown in Figure 2 that have
-  not yet been drilled.
-
-
-                                                                                     AN470AD4-6
-                                                                    AN470AD4-8                                              F-1034E
-                                                                      6 PLACES
-                                                                                                                           LEAVE OPEN                                                                                                  DRAW LINE
-                                                                                                                           FOR F-1058
-                                               F-1046-L                                                                    HINGE FRAME                                                                                                             F-1046-L
-                        AN470AD4-6,
-                                                                                                                           AN470AD4-5
-                         15 PLACES
-                                                                                                                           3 PLACES                              F-10102B
-
-                                                                                                                                                              REMOVE FLANGE
-                                                                                                                                                                 BELOW LINE
-
-
-                                                                                                                                                                                                           F-10102A
-                                                                    F-10102B
-                                              F-10102A                                                                                                                                                  REMOVE FLANGE
-                                                                                                         F-1034B                                                                                           BELOW LINE
-
-                                             FIGURE 2: ISO VIEW OF BAGGAGE DOOR                                                                                                                FIGURE 4: TRIM BAGGAGE
-                                                      SEAL ANGLE INSTALL                                                                                                                          DOOR SEAL ANGLES
-PAGE   29-6    RV-10      REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                         VAN'S AIRCRAFT, INC.
 Note: Ignore rivet callouts on this page until Page 29-16.
 
-Step 1: Cleco the F-1046-R Mid Fuse Longeron, F-1034B Seat Back Brace, F-1034C-R Fuselage Bulkhead and F-1034E Seat Back Brace Gusset together as shown in
-the exploded detail view in Figure 1. Temporarily clamp the forward end of the mid fuse longerons to the F-1005E-L and -R Gussets. Final-Drill #30 all holes common
-between the parts shown in the exploded detail view.
-                                                                                                                                                                            F-1046-R
-                                   AN470AD4-6,
-                                     5 PLACES
+Step 1: Cleco the F-1046-R Mid Fuse Longeron, F-1034B Seat Back Brace, F-1034C-R Fuselage Bulkhead and F-1034E Seat Back Brace Gusset together as shown in the exploded detail view in Figure 1. Temporarily clamp the forward end of the mid fuse longerons to the F-1005E-L and -R Gussets. Final-Drill #30 all holes common between the parts shown in the exploded detail view.
 
-      AN470AD4-7
-                                                                                                             F-1005C-R
-                                                                                                                                                                       F-1034B                             F-1046-L
+[Exploded detail view showing rivet callouts:]
+- AN470AD4-6, 5 PLACES
+- AN470AD4-7
+- F-1046-R
+- AN426AD3-4.5, 3 PLACES BOTH SIDES
+- AN426AD3-5, 36 PLACES BOTH SIDES
+- AN426AD3-4, 3 PLACES BOTH SIDES
+- F-1034E
+- AN470AD4-5
+- F-1034B
+- F-1015B-R
+- F-1034C-R
+- AN470AD4-4, 6 PLACES
 
-                                                                                                        AN426AD3-4.5,
-                                                                                                           3 PLACES
-                                                                                                         BOTH SIDES
-                                                                                                                                                 F-1005E-R                                           F-1034E
-F-1046-R
-                                                                                                        AN426AD3-5,
-                                                                                                         36 PLACES
-                                                                                          F-1034E       BOTH SIDES
-                                                                                           AN470AD4-5
-                                                                                                    AN426AD3-4,
-                                                                                                      3 PLACES
-                                                                                    F-1034B         BOTH SIDES
+Step 2: Final-Drill #19 the screw holes in the lower flange of the F-1015C-L and -R Mid Cabin Decks. Machine countersink these holes for the head of a #8 screw.
 
+Step 3: Cleco the F-1015C-R Mid Cabin Deck to the F-1015B-R Foot Well Rib Intercostal and F-1005C-R Bulkhead Side Channel as shown in Figure 1. Cleco the F-1013-L Fwd Fuselage Longeron to the mid cabin deck. Final-Drill #40 the holes common between all parts clecoed together in this step. Repeat this step for the left side of the aircraft. The right is a mirror of the left.
 
-                                                                                           F-1015B-R
+FIGURE 1: DRILLING THE LONGERONS TO THE SUBSTRUCTURE (MOST OF THE FORWARD FUSELAGE ASSEMBLY IS NOT SHOWN FOR CLARITY)
+[Large isometric drawing showing fuselage assembly with labeled parts:]
+- F-1046-R
+- F-1005C-R
+- F-1034B
+- F-1046-L
+- F-1034E
+- F-1005E-R
+- F-1015C-R
+- F-1013-R
+- F-1015C-L
+- F-1013-L
+- F-1005C-L
+- F-1015B-L
 
- F-1034C-R
+=== PAGE 8 ===
+PAGE 29-8 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Note: Ignore rivet callouts on this page until Page 29-16.
 
+Step 1: Cut the F-10100 Baggage Door Shim into F-10100A and B Baggage Door Shims as shown in Figure 1. Remove the tabs and deburr the edges of both parts. Set the F-10100B Baggage Door Shim aside until attaching the tailcone.
 
+[Drawing showing:]
+- F-10100A
+- F-10100B
+- REMOVE TABS
 
-   AN470AD4-4,
-     6 PLACES
+FIGURE 1: SEPARATING THE BAGGAGE DOOR SHIMS
 
+Step 2: Final-Drill #30 all the holes in the upper flange (flange not common to skin) of the F-1023-L and -R Baggage Floor Angles. Deburr and dimple (for a flush head on upper side) these holes now.
 
+Step 3: Cleco the F-1023-L Baggage Floor Angle and F-10100A and F-10101 Baggage Door Shims to the F-1070-L Mid Side Skin as shown in Figure 2. Final-Drill #40 the holes common between these parts except the holes marked in Figure 2 do not drill.
 
+[Drawing of left side skin assembly showing:]
+- F-1070-L
+- DO NOT DRILL DIMPLE OR RIVET UNTIL ATTACHING TAILCONE
+- DO NOT RIVET UNTIL ATTACHING THE TAILCONE
+- F-10101
+- F-10100A
+- F-1023-L
+- AN426AD3-4.5, 14 PLACES
 
-                                                               F-1015C-R
+FIGURE 2: CLECOING THE LEFT BAGGAGE FLOOR ANGLE AND SHIMS
 
+Step 4: Cleco the F-1023-R Baggage Floor Angle to the F-1070-R Mid Side Skin as shown in Figure 3. Final-Drill #40 all the holes common between these parts.
 
-                                                                                                                                                                                          F-1005C-L
+[Drawing showing:]
+- AN426AD3-3.5, 21 PLACES
+- F-1070-R
+- F-1023-R
 
+FIGURE 3: CLECOING THE RIGHT BAGGAGE FLOOR ANGLE
 
+=== PAGE 9 ===
+PAGE 29-9 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-                                                 F-1013-R
-
-
-Step 2: Final-Drill #19 the screw holes in the lower flange of the F-1015C-L and -R Mid
-Cabin Decks. Machine countersink these holes for the head of a #8 screw.
-                                                                                                           F-1015C-L
-Step 3: Cleco the F-1015C-R Mid Cabin Deck to the F-1015B-R Foot Well Rib Intercostal
-and F-1005C-R Bulkhead Side Channel as shown in Figure 1. Cleco the F-1013-L Fwd
-Fuselage Longeron to the mid cabin deck. Final-Drill #40 the holes common between all                                                                                 F-1015B-L
-parts clecoed together in this step. Repeat this step for the left side of the aircraft.
-The right is a mirror of the left.
-
-                                                                                                                         F-1013-L
-
-
-
-                                                                                                                  FIGURE 1: DRILLING THE LONGERONS TO THE SUBSTRUCTURE
-                                                                                                            (MOST OF THE FORWARD FUSELAGE ASSEMBLY IS NOT SHOWN FOR CLARITY)
-                                                                                                                                                                              DATE: 07/24/14 REVISION: 0     RV-10    PAGE   29-7
-                      VAN'S AIRCRAFT, INC.
-                        Note: Ignore rivet callouts on this page until Page 29-16.                                                     Step 4: Cleco the F-1023-R Baggage Floor Angle to the F-1070-R Mid Side
-                                                                                                                                       Skin as shown in Figure 3. Final-Drill #40 all the holes common between
-                                                                                                                                       these parts.
-   Step 1: Cut the F-10100 Baggage Door Shim into F-10100A and B Baggage Door Shims as shown in Figure 1. Remove the tabs
-   and deburr the edges of both parts. Set the F-10100B Baggage Door Shim aside until attaching the tailcone.
-
-
-
-                          F-10100A                      F-10100B
-                                                                                                                       REMOVE TABS
-                        FIGURE 1: SEPARATING THE BAGGAGE DOOR SHIMS
-
-  Step 2: Final-Drill #30 all the holes in the upper flange (flange not common to skin) of the F-1023-L and -R Baggage Floor Angles.
-  Deburr and dimple (for a flush head on upper side) these holes now.
-
-   Step 3: Cleco the F-1023-L Baggage Floor Angle and F-10100A and F-10101 Baggage Door Shims to the F-1070-L Mid Side Skin
-   as shown in Figure 2. Final-Drill #40 the holes common between these parts except the holes marked in Figure 2 do not drill.
-
-
-
-
-                                                                        F-1070-L
-
-
-
-
-                                                    DO NOT DRILL DIMPLE
-                                                    OR RIVET UNTIL
-                                                    ATTACHING TAILCONE
-
-                                                         DO NOT RIVET
-                                                         UNTIL ATTACHING
-                                                         THE TAILCONE
-
-
-                                                                   F-10101
-
-                                                                     F-10100A                                                                                                                                               AN426AD3-3.5,
-                                                                                                                                                                                                                            21 PLACES
-         F-1023-L
-                                                                                                                                                                                                                 F-1070-R
-
-                    AN426AD3-4.5,                                                                                                                                                               F-1023-R
-                      14 PLACES
-
-
-
-                                                                                                                                                                                                      FIGURE 3: CLECOING THE RIGHT
-        FIGURE 2: CLECOING THE LEFT BAGGAGE                                                                                                                                                              BAGGAGE FLOOR ANGLE
-              FLOOR ANGLE AND SHIMS
-
-
-PAGE   29-8    RV-10     REVISION: 0   DATE: 07/24/14
-Note: Ignore rivet callouts on this page until Page 29-16.
-                                                                                                                                                                            VAN'S AIRCRAFT, INC.
+Note: Ignore rivet callouts on this page until Page 29-16.
 
 Step 1: Cleco the F-1070-L and F-1070-R Mid Side Skins and the two F-1015F Spacers to the under structure as shown in Figure 1.
 
-Step 2: Using the callouts on Page 29-15, Figure 1 mark the holes that are not drilled in this section. Final-Drill #40 all the remaining
-3/32 inch holes common to the the F-1070-L and F-1070-R Mid Side Skins and pre-punched under structure. Final-Drill #30 all the 1/8 inch
-holes in the wingroot area, indicated on Page 29-15, Figure 1.
+Step 2: Using the callouts on Page 29-15, Figure 1 mark the holes that are not drilled in this section. Final-Drill #40 all the remaining 3/32 inch holes common to the F-1070-L and F-1070-R Mid Side Skins and pre-punched under structure. Final-Drill #30 all the 1/8 inch holes in the wingroot area, indicated on Page 29-15, Figure 1.
+
+Step 3: Position the F-1046-R Mid Fuselage Longeron on the F-1005E-R Gusset as shown in Figure 2. Clamp the parts together. Match-drill #30 and cleco the holes in the gusset into the mid fuselage longeron.
 
-Step 3: Position the F-1046-R Mid Fuselage Longeron on the F-1005E-R Gusset as shown in Figure 2. Clamp the parts together.
-Match-drill #30 and cleco the holes in the gusset into the mid fuselage longeron.
+[Drawing showing Figure 2 detail:]
+- F-1070-R
+- AN470AD4-6, 5 PLACES
+- F-1005C-R
+- F-1046-R
+- F-1005E-R
+
+FIGURE 2: MATCH-DRILLING THE FWD FUSELAGE LONGERON TO THE GUSSET
+
+Step 4: Align the lines drawn on the outboard face of the F-1046-L and -R Mid Fuse Longerons with the corresponding holes in the mid side skins. Match-Drill #40 the longerons using the skin as a drill guide at only the locations fwd of the F-1034C Fuselage Bulkhead see Page 29-15.
+
+Align the lines drawn on the outboard face of the F-1013-L and -R Fwd Fuse Longerons with the corresponding holes in the mid side skins. Match-Drill #40 the fwd fuselage longerons using the mid side skins as drill guides.
+
+Step 5: Check the distance between the aft most rivet hole and the aft end of the F-1013-L and -R Fwd Fuse Longerons per the dimensions in Figure 3. Pull away the F-1070-L and -R Mid Side Skins and trim the longerons if necessary (or wait until fwd fuselage longerons are disassembled, but don't forget).
+
+[Drawing showing dimension callout:]
+- 9/32 MAX. F-1013-L
+- 23/32 MAX. F-1013-R
+- AFT MOST HOLE IN F-1013-L OR -R
+
+FIGURE 3: FWD FUSELAGE LONGERON LENGTH
+
+FIGURE 1: CLECOING THE MID SIDE SKINS (MOST OF THE FORWARD FUSELAGE ASSEMBLY NOT SHOWN FOR CLARITY)
+[Large isometric drawing showing:]
+- F-1070-R
+- F-1046-R
+- F-1034C-R
+- F-1013-R
+- F-1046-L
+- F-1013-L
+- F-1034C-R
+- F-1015B-L
+- F-1015F, 2 PLACES
+- F-1070-L
+- F-1015C-L
+- F-1015C-R
+- F-1004K-R
+- F-1004K-L
+
+=== PAGE 10 ===
+PAGE 29-10 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Create two wooden spacer blocks about an inch in length, similar to those shown in Figure 1. Insert the spacer blocks into the ends of the F-1041-L Lwr Fuse Channel. Clamp the forward end of the channel into a vise and the aft end with a crescent wrench. After double checking the twist direction, use the crescent wrench to twist the lwr fuselage channel to match the dimensions given in Figure 2. Repeat this step to modify the F-1041-R Lwr Fuse Channel. The right channel is a mirror of the left.
 
+Step 2: After double checking the twist direction, use the same method as Step 1 to twist the F-1040-L Upper Fuse Channel to match the dimensions given in Figure 3. Repeat this step to modify the F-1040-R Upper Fuse Channel. The right upper fuse channel is a mirror of the left.
 
+FIGURE 1: TWISTING THE LWR FUSE CHANNELS (SWEATY GRUNTING HUMAN NOT SHOWN FOR CLARITY)
+[Drawing showing:]
+- VICE GRIP
+- METRIC CRESCENT WRENCH
+- F-1041-L
+- WOODEN BLOCK, 2 PLACES
+- FWD EDGE (two locations marked)
+
+FIGURE 2: F-1041-L LWR FUSE CHANNEL TWIST DIRECTION AND FINAL DIMENSION
+[Drawing showing F-1041-L channel with:]
+- AFT EDGE
+- HOLE
+- FWD EDGE
+- 20 degrees
+
+FIGURE 3: F-1040-L UPPER FUSE CHANNEL TWIST DIRECTION AND FINAL DIMENSIONS
+[Drawing showing:]
+- HOLE
+- FWD EDGE
+- 8.0 degrees
+- AFT EDGE
+- F-1040-L
+
+=== PAGE 11 ===
+PAGE 29-11 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Remove the vinyl from the inside face of both F-1069 Fwd Side Skins. Using the dimensions given in Figure 1, draw the "Start of Roll Line" and the "End of Roll Line" on the F-1069-R Fwd Side Skin. Repeat this step for the F-1069-L Fwd Side Skin. The left fwd side skin is a mirror of the right.
+
+[Drawing showing skin with dimensions:]
+- 7/32
+- START OF ROLL LINE
+- 3/16
+- END OF ROLL LINE
+- 1 3/8
+- END OF ROLL LINE PASSES THROUGH HOLE CENTER
+
+FIGURE 1: MARKING THE CURVE LINES
+
+Step 2: Modify the Clamping Block to match the dimensions given in Figure 2. Note the radius along the bottom edge of the clamping block. If using a normal 2x4 it is permissible to use the manufactured radius even though it may be slightly larger than 1/8 inch.
+
+[Drawing showing:]
+- 1 5/16
+- R1/8
+- START OF RADIUS (ALIGN WITH "START OF ROLL LINE")
+
+FIGURE 2: MODIFYING THE CLAMPING BLOCK
+
+Step 3: Clamp the F-1069-R Fwd Side Skin to a table, as shown in Figure 3, using the Clamping Block. Align the "Start of Radius" (see Figure 2) with the "Start of Roll Line" (see Figure 1). Be sure to align the "Start of Radius" not the edge of the block with the "Start of Roll Line"! Double check that you are about to bend the fwd side skin in the correct direction, the outboard face of the skin should be down against the table with the inboard face up.
+
+Align the flange edges of the F-1070A and B Roll Construction Angles with the "End of Roll Line" on the F-1069-R Fwd Side Skin, then clamp them in place as shown in Figure 3.
+
+Step 4: Roll the F-1069-R Fwd Side Skin into a cone that terminates in a sharp bend at the aft end of the "Roll Lines". The roll is created with the forward vice grip, and the sharp bend is naturally formed at the aft end (the sharp bend is finished in Step 5). Twist the F-1070A and B Roll Construction Angles with the forward vise grip and at the same time push the forward end down and inwards towards the table. Use the extra roll construction angle which extends forward of the vise grip as a handle for your other hand. The twisting and pushing motion must be balanced. Twisting too much will create a crease along the edge of the roll construction angles; pushing to hard will create a sharp bend in the middle of the roll. Do not try to complete the roll in one iteration. The finished roll should look similar to Figure 4.
+
+Step 5: Twist the F-1070A and B Roll Construction Angles with the aft vise grip, then strike the roll construction angles with a rubber mallet to finish forming the sharp radius at the aft end of the roll.
+
+FIGURE 3: ROLLING THE FWD SIDE SKIN
+[Drawing showing:]
+- F-1069-R
+- CLAMP, 2 PLACES
+- F-1070A AND B
+- FWD VISE GRIP
+- RUBBER MALLET
+- AFT VISE GRIP
+- CAUTION! CHECK THAT CLAMP PAD DOES NOT CRASH INTO THE SKIN WHILE ROLLING
+- SOLID TABLE NON-MOVEABLE
+- CLAMPING BLOCK
 
+FIGURE 4: FWD ROLL DIMENSIONS
+[Drawing showing:]
+- F-1069-R
+- F-1070A
+- F-1070B
+- CLAMPING BLOCK
+- 60.0 degrees
+- CURVE SHAPE SHOULD MATCH THE LOWER FIREWALL BULKHEAD
+- THE ROLL IS NOT FORMED WITH A CONTINUOUS RADIUS
+
+=== PAGE 12 ===
+PAGE 29-12 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Note: Ignore rivet callouts on this page until Page 29-16.
+
+Step 1: Cleco the F-1042B Clip to the F-1042-L Bulkhead Side Channel as shown in the lower blow up detail in Figure 2. Mark the location of the forward edge of the bulkhead side channel flange onto the clip. Remove the clip from the bulkhead side channel. Using the mark as a bend line, clamp the clip in padded vice jaws, then bend the clip to match the dimensions given in Figure 1. Mark F-1042B-L. Bend F-1042B-R Clip, a mirror of the F-1042B-L Clip for the other side of the aircraft.
+
+[Drawing showing:]
+- 4 degrees
+- MARK/BEND LINE
+
+FIGURE 1: BENDING THE F-1042B-L CLIP
+
+Step 2: Break the F-1042E into a F-1042E-L Gusset and F-1042E-R Gusset. Deburr the edges on both parts.
+
+Step 3: Cleco the F-1050-L and -R Fwd Cabin Floor Panels to the understructure. Cleco the F-1002-L and -R Fwd Fuselage Bulkheads, F-1040-L and -R Upper Fuse Channels, F-1041-L and -R Lwr Fuse Channels, F-1042B-L and -R Clips, F-1042C Clips, F-1042E-L and -R Gussets and F-1088-L and -R Fwd Fuselage Ribs to the fwd fuselage understructure see Figure 2. Note the special cleco callouts for the upper and lwr fuse channels.
+
+Step 4: Adjust the flange angles along the sides of the F-1001A Firewall Bulkhead using a straight edge placed against the F-1013-L and -R Fwd Fuselage Longerons, F-1040-L and -R Upper Fuselage Channels and F-1041-L and -R Lwr Fuselage Channels as a guide.
+
+Step 5: Remove the F-1041-L and -R Lwr Fuse Channels and cleco them to the F-1042B-L and -R Clips and the F-1069-L and -R Fwd Side Skins, see Figure 2. Cleco the fwd side skins to the understructure. Be sure that the clips are on the inside of the F-1042 Bulkhead Side Channels.
+
+[Rivet callouts in Figure 2:]
+- AN470AD4-5, ALL F-1041 TO WD-1003 RIVETS OR ALL F-1040 TO WD-1002 RIVETS
+- AN470AD4-6, ALL F-1001B TO F-1040 TO WD-1002 RIVETS
+- AN470AD4-5, ALL F-1001B TO F-1040 RIVETS
+- AN470AD4-6, ALL F-1001J TO F-1013 RIVETS (FWD MOST RIVET SHOP HEAD ON TOP SIDE)
+- AN426AD3-4.5, ALL F-1015C TO F-1042 RIVETS, FLUSH HEAD ON AFT SIDE
+- AN470AD4-5, ALL F-1088 TO F-1042 RIVETS
+
+Parts labeled in Figure 2 (upper area):
+- WD-1002-R
+- F-1001B
+- F-1001A
+- WD-1003-R
+- F-1069-R
+- F-1001J, 2 PLACES
+- F-1040-R
+- F-1042-R
+- F-1002-R
+- F-1013-R
+- F-1088-R
+- F-1050-R
+
+Parts labeled in Figure 2 (lower left detail):
+- F-1042E-L
+- AN470AD4-5, 4 PLACES
+- AN426AD4-5, 2 PLACES (FLUSH AFT SIDE)
+- CLECO F-1001B TO F-1040
+- F-1042-L
+- F-1042C
+- F-1040-L
+- F-1041-L
+- AN470AD4-4
+- CLECO F-1050-L TO F-1041-L
+- F-1088-L
+- F-1050-L
+- F-1042B-L
+- F-1042-L
+
+FIGURE 2: CLECOING THE FWD SIDE STRUCTURE (FWD SIDE SKIN SHOWN TRANSPARENT)
+
+Parts on right side:
+- F-1015C-L
+- F-1015C-R
 
-                                                            F-1070-R                                                                                             F-1046-R
-                                                                                                                                                     F-1034C-R
-                                                                       AN470AD4-6,
-                                                                       5 PLACES                                                                                       F-1013-R                                   F-1046-L
-
-
-
-
-                                                                                                                                                                                               F-1013-L
-
-
-
-
-                                                 F-1046-R
-            F-1005C-R                    F-1005E-R
-
-         FIGURE 2: MATCH-DRILLING THE                         F-1070-R
-           FWD FUSELAGE LONGERON
-                TO THE GUSSET
-                                                             F-1015C-R
-
-Step 4: Align the lines drawn on the outboard
-face of the F-1046-L and -R Mid Fuse
-Longerons with the corresponding holes in the
-mid side skins. Match-Drill #40 the longerons                                                                                                                                                                   F-1034C-R
-using the skin as a drill guide at only the                       F-1004K-R
-locations fwd of the F-1034C Fuselage Bulkhead
-see Page 29-15.
-                                                                                                                                                                                                          F-1015B-L
-Align the lines drawn on the outboard face of the F-1013-L and -R Fwd Fuse Longerons with
-the corresponding holes in the mid side skins. Match-Drill #40 the fwd fuselage longerons
-                                                                                                              F-1015C-L
-using the mid side skins as drill guides.                                                                                                                                                       F-1015F,
-                                                                                                                                                                                                2 PLACES
-Step 5: Check the distance between the aft most rivet hole and the aft end of the F-1013-L
-and -R Fwd Fuse Longerons per the dimensions in Figure 3. Pull away the F-1070-L and -R
-Mid Side Skins and trim the longerons if neccessary (or wait until fwd fuselage longerons are
-disassembled, but don't forget).
-                                        9/32 MAX. F-1013-L                                                              F-1004K-L                                             F-1070-L
-                                       23/32 MAX. F-1013-R
-
-
-                                                                                                             FIGURE 1: CLECOING THE MID SIDE SKINS
-                                            AFT MOST HOLE IN F-1013-L OR -R                               (MOST OF THE FORWARD FUSELAGE ASSEMBLY
-FIGURE 3: FWD FUSELAGE LONGERON LENGTH                                                                             NOT SHOWN FOR CLARITY)
-                                                                                                                                                                                 DATE: 07/24/14 REVISION: 0   RV-10   PAGE   29-9
-                       VAN'S AIRCRAFT, INC.
-
-
-
-   Step 1: Create two wooden spacer blocks about an inch in length, similar to those shown in Figure 1. Insert the spacer blocks into     Step 2: After double checking the twist direction, use the same method as Step 1 to twist the F-1040-L Upper Fuse Channel to
-   the ends of the F-1041-L Lwr Fuse Channel. Clamp the forward end of the channel into a vise and the aft end with a crescent            match the dimensions given in Figure 3. Repeat this step to modify the F-1040-R Upper Fuse Channel. The right upper fuse channel
-   wrench. After double checking the twist direction, use the crescent wrench to twist the lwr fuselage channel to match the dimensions   is a mirror of the left.
-   given in Figure 2. Repeat this step to modify the F-1041-R Lwr Fuse Channel. The right channel is a mirror of the left.
-
-
-                                                                           VICE GRIP
-                     METRIC CRESCENT WRENCH                                                                                                                             HOLE                                                 FWD EDGE
-
-
-                                                                                                                                                                    AFT EDGE                                              8.0°
-
-
-
-
-                                                                                                                                                                                                      F-1040-L
-
-
-                                                                                                                                           FWD
-                                                                            F-1041-L                                                      EDGE
-
-
-
-
-                    WOODEN BLOCK,                                                                                                                               HOLE
-                    2 PLACES
-                                      FIGURE 1: TWISTING THE LWR FUSE CHANNELS
-                                   (SWEATY GRUNTING HUMAN NOT SHOWN FOR CLARITY)
-
-                                                                                              F-1041-L
-                                            AFT EDGE
-
-                                               HOLE
-
-
-
-                                           FWD EDGE
-                                                                                                   20°
-       FWD EDGE                                                                                                                                                                                                                                                   AFT
-                                                                                                                                                                                                                                                                  EDGE
-
-
-                                                                                                                                          FIGURE 3: F-1040-L UPPER FUSE CHANNEL TWIST DIRECTION AND FINAL DIMENSIONS
-
-
-                                                 HOLE
-
-
-
-
-                                                                                                                               AFT EDGE
-
-          FIGURE 2: F-1041-L LWR FUSE CHANNEL TWIST DIRECTION AND FINAL DIMENSION
-PAGE   29-10   RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Remove the vinyl from the inside face of both F-1069 Fwd Side Skins. Using the dimensions given in Figure           Step 4: Roll the F-1069-R Fwd Side Skin into a cone that terminates in a sharp bend at the
-                                                                                                                                                                                                                           VAN'S AIRCRAFT, INC.
-1, draw the "Start of Roll Line" and the "End of Roll Line" on the F-1069-R Fwd Side Skin. Repeat this step for the         aft end of the "Roll Lines". The roll is created with the forward vice grip, and the sharp bend is naturally formed at the aft end
-F-1069-L Fwd Side Skin. The left fwd side skin is a mirror of the right.                                                    (the sharp bend is finished in Step 5). Twist the F-1070A and B Roll Construction Angles with the forward vise grip and at the
-                                                                                                                            same time push the forward end down and inwards towards the table. Use the extra roll construction angle which extends forward
-                                                                                                                            of the vise grip as a handle for your other hand. The twisting and pushing motion must be balanced. Twisting too much will create a crease along
-                                                                                                                            the edge of the roll construction angles; pushing to hard will create a sharp bend in the middle of the roll. Do not try to complete the roll in one
-                                                                                                                            iteration. The finished roll should look similar to Figure 4.
-
-                                                                                                                            Step 5: Twist the F-1070A and B Roll Construction Angles with the aft vise grip, then strike the roll construction angles with a rubber mallet to finish
-                                                                                                                            forming the sharp radius at the aft end of the roll.
-                                                    START OF                                            3/16
-                         7/32                       ROLL LINE                                                                                                                                                                        CLAMP,
-                                                                                                                                                                                                           F-1069-R                  2 PLACES
-
-
-                                                                                                                                                                                                                                            RUBBER MALLET
-                                                                                      1 3/8
-                                                                                                                                                                                                                                                    AFT VISE GRIP
-                                                                                                                                                                                                                                                              CAUTION!
-                                                                                                                                                                                                                                                              CHECK THAT CLAMP
-                                                                                                                                                                                                                                                              PAD DOES NOT CRASH
-                                                                                                                                                                                                                                                              INTO THE SKIN
-                                                                                                                                                                                                                                                              WHILE ROLLING
-
-
-
-
-                                                              END OF ROLL LINE PASSES
-                                                                                                                                                                                                                                                               F-1070A AND B
-               END OF                                         THROUGH HOLE CENTER
-             ROLL LINE
-                                    FIGURE 1: MARKING THE CURVE LINES
-
-Step 2: Modify the Clamping Block to match the dimensions given in Figure 2. Note the radius along the bottom edge
-of the clamping block. If using a normal 2x4 it is permissible to use the manufactured radius even though it may be
-slightly larger than 1/8 inch.                                                                                                                                                                                                                                  FWD
-                                                                                                                                                                                                                                                                VISE GRIP
-                                       1 5/16                                                                                     SOLID TABLE
-                                                                                                                                NON-MOVEABLE
-
-
-                                                                                                                                                                                 FIGURE 3: ROLLING THE
-                                                                                                                                                                                                                                                         CLAMPING BLOCK
-                                                                                                                                                                                     FWD SIDE SKIN
-
-
-                                                                                                                                                                                     F-1069-R                            CURVE SHAPE SHOULD MATCH THE
-                    R1/8                                                                                                                                                                                                 LOWER FIREWALL BULKHEAD
-
-    START OF RADIUS                                                                                                                                                                                                      THE ROLL IS NOT FORMED WITH
-  (ALIGN WITH "START                       FIGURE 2: MODIFYING THE                                                                                                                            F-1070A
-                                                                                                                                                                                                                         A CONTINUOUS RADIUS
-       OF ROLL LINE")                          CLAMPING BLOCK
-                                                                                                                                                            F-1070B
-                                                                                                                                                                                                                                                 CLAMPING
-                                                                                                                                                                         60.0°                                                                   BLOCK
-Step 3: Clamp the F-1069-R Fwd Side Skin to a table, as shown in Figure 3, using the Clamping Block. Align the
-"Start of Radius" (see Figure 2) with the "Start of Roll Line" (see Figure 1). Be sure to align the "Start of Radius" not
-the edge of the block with the "Start of Roll Line"! Double check that you are about to bend the fwd side skin in the
-correct direction, the outboard face of the skin should be down against the table with the inboard face up.
-
-Align the flange edges of the F-1070A and B Roll Construction Angles with the "End of Roll Line" on the F-1069-R                                                                           FIGURE 4: FWD ROLL
-Fwd Side Skin, then clamp them in place as shown in Figure 3.                                                                                                                                  DIMENSIONS
-                                                                                                                                                                                                                                 DATE: 07/24/14 REVISION: 0    RV-10      PAGE   29-11
-                       VAN'S AIRCRAFT, INC.                                                                                            AN470AD4-5,         WD-1002-R            F-1001B
-                                                                                                                                                                                              AN470AD4-6,
-                                                                                                                      ALL F-1041 TO WD-1003 RIVETS
-                       Note: Ignore rivet callouts on this page until Page 29-16.                                                                                                             ALL F-1001J TO F-1013 RIVETS
-                                                                                                                                                OR
-                                                                                                                                                                                              (FWD MOST RIVET SHOP HEAD ON TOP SIDE)
-                                                                                                                      ALL F-1040 TO WD-1002 RIVETS
-
- Step 1: Cleco the F-1042B Clip to the F-1042-L Bulkhead Side Channel as shown in the lower blow up detail in Figure 2.                                                                         F-1069-R
-                                                                                                                                    F-1001A
- Mark the location of the forward edge of the bulkhead side channel flange onto the clip. Remove the clip from the bulkhead                                                                                F-1001J,
- side channel. Using the mark as a bend line, clamp the clip in padded vice jaws, then bend the clip to match the dimensions       WD-1003-R                                                               2 PLACES   F-1040-R
- given in Figure 1. Mark F-1042B-L. Bend F-1042B-R Clip, a mirror of the F-1042B-L Clip for the other side of the aircraft.
-
-                                                   4°                                                                                                                                                                      F-1042-R
-                                                                                                                AN470AD4-6
-                                                                                                      ALL F-1001B TO F-1040
-                                                                                                        TO WD-1002 RIVETS                                                                                                        F-1002-R
-                                         MARK/
-                                         BEND LINE                                                                                                                                                                         F-1013-R
-                                                                                                       AN470AD4-5                                                                                                         F-1088-R
-                   FIGURE 1: BENDING THE F-1042B-L CLIP                              ALL F-1001B TO F-1040 RIVETS                                                                                                            F-1050-R
-                                                                                                                                                                                                   AN470AD4-4
-                                                                                                                                                                                                                                      F-1015C-R
- Step 2: Break the F-1042E into a F-1042E-L Gusset and F-1042E-R Gusset. Deburr the edges on both parts.
-
- Step 3: Cleco the F-1050-L and -R Fwd Cabin Floor Panels to the understructure. Cleco the F-1002-L and -R Fwd
- Fuselage Bulkheads, F-1040-L and -R Upper Fuse Channels, F-1041-L and -R Lwr Fuse Channels, F-1042B-L and
- -R Clips, F-1042C Clips, F-1042E-L and -R Gussets and F-1088-L and -R Fwd Fuselage Ribs to the fwd fuselage
- understructure see Figure 2. Note the special cleco callouts for the upper and lwr fuse channels.
-
-                                                                                   AN426AD4-5,               CLECO F-1001B
-                    F-1042E-L                                                                                    TO F-1040
-                                                                                   2 PLACES
-                                                                                   (FLUSH AFT SIDE)                  F-1002-L
-               AN470AD4-5,
-                 4 PLACES
-
-
-
-                                                                                                                          F-1041-L
-                                                                                                                               AN470AD4-4
-
-
-                                                                                                                               CLECO F-1050-L
-                                                                                                                                  TO F-1041-L
-                                                                                               F-1042-L                                                                                                                 AN426AD3-4.5
-                                                                                                                                              F-1088-L                                                                  ALL F-1015C TO
-                                                                                                                                                F-1050-L                                                                F-1042 RIVETS,
-                                                                                                                                                                                                                        FLUSH HEAD ON
-                                                                                                                                                                                                                        AFT SIDE
-           F-1040-L
-
-                                                                                                                                                                                                                          F-1015C-L
-                                                                                                                                                                                             AN470AD4-5
-                                                                                                                                                                                             ALL F-1088 TO
-                                                                                                                                                                                             F-1042 RIVETS
-
-                             F-1042C
-                                                                                                                                                                       FIGURE 2: CLECOING THE FWD SIDE STRUCTURE
- Step 4: Adjust the flange angles along the sides of the
-                                                                                                                                                                           (FWD SIDE SKIN SHOWN TRANSPARENT)
- F-1001A Firewall Bulkhead using a straight edge placed
- against the F-1013-L and -R Fwd Fuselage Longerons,                    F-1041-L
- F-1040-L and -R Upper Fuselage Channels and F-1041-L and
- -R Lwr Fuselage Channels as a guide.
-
- Step 5: Remove the F-1041-L and -R Lwr Fuse Channels and
- cleco them to the F-1042B-L and -R Clips and the F-1069-L                   F-1042B-L
- and -R Fwd Side Skins, see Figure 2. Cleco the fwd side skins
- to the understructure. Be sure that the clips are on the inside
- of the F-1042 Bulkhead Side Channels.                                             F-1042-L
-
-
-
-PAGE   29-12     RV-10    REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                                         VAN'S AIRCRAFT, INC.
- Step 1: Match-Drill #40 the holes in the F-1069-L and -R Fwd Side Skins and the F-1040-L and -R Upper Fuse Channels common                  Step 7: Final-Drill #30 the holes common between the F-1042-L and -R Bulkhead Side Channels
- to the WD-1002-L and -R Upper Firewall Brackets. Use a small block of wood to hold the flange on the firewall brackets tight                and the F-1042E-L and -R Gussets. Final-Drill #30 the holes in the gussets into the upper flange
- against the channels. Match-Drill #40 the holes in the fwd side skins and the F-1041-L and -R Lower Fuse Channels common to                 of the F-1040-L and -R Upper Fuse Channels. See Page 29-12, Figure 2.
- the WD-1003-L and -R Lower Firewall Brackets. Final-Drill #40 the remaining holes in the webs of the upper and lower fuse
- channels including the upper most row of holes in the upper channel not common to the fwd side skin. See Figure 1 and Figure 2.             Step 8: Final-Drill #40 the holes common between the forward flange of the F-1015C-L and -R Mid Cabin Decks and the F-1042-L
-                                                                                                                                             and -R Bulkhead Side Channels. See Figure 2.
- Step 2: Final-Drill #40 the holes common between the F-1088-L and -R Forward Fuselage Ribs and the F-1069-L and -R Fwd Side
- Skins. Final-Drill #40 the holes common between the F-1002-L and -R Fwd Fuse Bulkheads and the fwd side skins. See Figure 1.                Step 9: Final-Drill #40 the hole common between the forward tab on the F-1088-L and -R Fwd Fuselage Ribs and the inboard flange
-                                                                                                                                             of the F-1002-L and -R Fwd Fuselage Bulkheads. Final-Drill #30 the holes common between the forward flange of the fwd fuselage
- Step 3: Final-Drill #40 the holes common between the F-1001A Firewall Bulkhead and the F-1069-L and -R Fwd Side Skin.                       ribs and the web of the fwd fuselage bulkheads.
- Final-Drill #40 the holes common between the fwd side skins and the lower flange of F-1049C-L and -R Fwd Fuselage Floor Ribs.
- See Figure 1.                                                                                                                               Final-Drill #40 the hole common between the aft tab on the fwd fuselage ribs and the inboard flange of the F-1042-L and -R
-                                                                                                                                             Bulkhead Side Channels. Final-Drill #30 the holes common between the aft flange of the fwd fuselage ribs and the web of the
- Step 4: Final-Drill #40 the 3/32 inch holes common between the F-1069-L and -R Fwd Side Skins and the F-1004K-L and -R                      bulkhead side channels.
- Center Section Side Plate. Final-Drill #30 the 1/8 inch holes common between the fwd side skins and the center section side
- plates. See Page 29-15, Figure 1.                                                                                                           Step 10: Match-Drill #30 the hole in the lower tab of the F-1002-L and -R Fwd Fuselage Bulkheads into the upper flange of the
-                                                                                                                                             F-1041-L and -R Lwr Fuselage Channels. See Figure 2.
- Step 5: Final-Drill #12 the bolt holes at the two nutplate locations along the lower outboard flange of the F-1042-L and -R Bulkhead
- Side Channels.                                                                                                                                                                                             F-1015C-R
-                                                                                                                                                                           F-1042-R                         F-1015C-L
- Step 6: Flush the forward ends of the F-1013-L and -R Fwd Fuselage Longerons against the inside face of the F-1069-L and -R                                                                                 F-1042-L
- Fwd Side Skins, then clamp them to the F-1001J-L and -R Longeron Gussets. Match-Drill #40 the holes common between the fwd
-                                                                                                                                                                                                       F-1040-R
- side skins and the fwd fuselage longerons. With the clamps still in place, match-drill #30 as many of the holes as possible in the                                  F-1042E-R                         F-1004K-R
- upper flange of the longeron gussets into the fwd fuselage longerons. Cleco, remove the clamps, and finish match-drilling the
- remaining holes.
-                                                                                                                                                                F-1088-R
-                                                                                                                                                     F-1013-R
-
-                                                                                                                                            F-1001A
-
-
-                      F-1001A                                          F-1040-L
-
-                                                                                            F-1042-L                             WD-1002-R
-                                                   F-1002-L
-
-
-
-                                                                                      F-1013-L
-
-                                                                                                  F-1004K-L
-                                                                                                                                   F-1001J-R
-
-
-
-
-                       F-1001J
-
-
-                                                                                                                                        WD-1003-R
-
-                                                                                                                                         F-1049C-R                                                                                                          F-1088-L
-                                                                                                                                                         WD-1002-L
-                                                                                                                                                                                                                                                 F-1013-L       F-1004K-L
-                                                                                                                                                                            WD-1003-L                                                  F-1002-L
-                                                                                                                                                                       F-1049C-L                                              F-1001J-L
-                                                                                                                                                                                                                            F-1041-L
-                  F-1088-L
-                                 F-1041-L
-F-1049C-L                                                                                                                                                                    FIGURE 2: DRILLING THE UNDERSTRUCTURE
-                                 FIGURE 1: DRILLING THE F-1069 FWD SIDE SKINS                                                                                                  (FWD SIDE SKIN SHOWN TRANSPARENT)
-                                    (FWD SIDE SKIN SHOWN TRANSPARENT)
-
-                                                                                                                                                                                                                               DATE: 07/24/14 REVISION: 0    RV-10     PAGE   29-13
-                       VAN'S AIRCRAFT, INC.
-                                                                                                                                                                                           F-1001B   F-1001J-R
-                                                                                                                                                    WD-1002-R
-                                                                                                                                                                                                       WD-1003-R
-                                                                                                                                                                                                          F-1041-R
-   Step 1: Remove the F-1069-L and -R Fwd Side Skins.
-                                                                                                                                                                                                            F-1002-R
-  Step 2: Cleco the F-1039J Rudder Pedal Drill Jig to the F-1013-L Fwd Fuse Longeron as shown in Figure 1. Double check that
-                                                                                                                                                                                                                   F-1040-R
-  the rudder pedal drill jig is not upside-down! Match-Drill #12 the six aft most holes in the rudder pedal drill jig into the fwd fuse
-  longeron. Repeat this step for the right side of the aircraft.                                                                                                                                                                F-1042-R
-
-                                                                                   F-1039J                                                                                                                                     F-1069-R
-                                                                                                                                                                                                                          F-1013-R
-
-
-                                                                                                                                                                                                                                    F-1088-R
-                                                                                        MATCH-DRILL #12,                                                                                                                                  F-1015C-R
-                                                                                        6 PLACES
-                                                                                                               WD-1002-L
-                                                                                                                                                                                                                                            F-1004K-R
-
-                                                                                                                    F-1040-L
-                                                                                                                    F-1002-L
-
-                                                                                                                 WD-1003-L
-
-
-           F-1013-L
-                                                                                                                                                                              F-1042-L
-
-
-                                                                                                                       F-1041-L
-
-          FIGURE 1: DRILLING THE RUDDER PEDAL ATTACH HOLES
-                                                                                                                                   F-1088-L
-
-  Step 3: Uncleco and pull back the F-1040 and F-1041 Upper and Lwr Fuselage Channels, clear out all chips then
-  recleco them in place.
-
-  NOTE: It is acceptable to trim the flange of the F-1001D and F-1001M Side Angles if required for drill access.
-                                                                                                                                                                                                                   F-1015C-L
-  Step 4: Match-Drill #30 the holes in the lower flange of the F-1040-L and -R Upper Fuse Channels into the WD-1002-L and -R Upper Firewall
-  Brackets.
-                                                                                                                                                                                                                         F-1013-L
-  Step 5: Match-Drill #30 the holes in the F-1001B Firewall Upper Angle into the F-1040-L and -R Upper Fuse Channels and WD-1002-L and -R
-  Upper Firewall Brackets. Match-Drill #30 the remaining holes aft of the firewall brackets common to the firewall upper angle and the upper fuse
-  channels. Remove the cleco from the aft most hole common to these two parts and final-drill the hole #30 on both sides of the aircraft.                       F-1004K-L
-   Step 6: Match-Drill #30 the holes along the upper and lower flanges of the F-1041-L and -R Lwr Fuse Channels into the WD-1003-L-PC and
-   -R-PC Lower Firewall Brackets.
-
-   Step 7: Match-Drill #30 the holes along the outboard flange of the F-1050-L and -R Fwd Cabin Floor Panels into the upper flanges of the F-1041-L
-   and -R Lwr Fuse Channels.
-
-   Step 8: Disassemble all the parts used in this section from the understructure. Deburr the parts and the understructure.
-
-   Step 9: Machine countersink all the #40 holes in the F-1015C-L and -R Mid Cabin Decks for the head of an AN426AD3 rivet (flush head on                                   FIGURE 2: DRILLING THE UNDERSTRUCTURE
-   opposite side from the understructure).                                                                                                                                      (SIDE SKIN SHOWN TRANSPARENT)
-  Machine countersink the holes that are common with the F-1069 Fwd Side Skins in the F-1013 Fwd Fuselage Longerons, F-1046 Mid Fuselage
-  Longerons, F-1004K Center Section Side Plates, F-1040 Upper Fuse Channels, F-1041-L Lower Fuse Channels and F-1042-L and -R Bulkhead
-  Side Channels (see Page 29-1, isometric view and Figure 2).
-
-  Machine countersink the holes in the F-1005C-L and -R Bulkhead Side Channels that are common to the F-1070 Mid Side Skins.
-
-
-PAGE   29-14   RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Dimple the holes in the F-1001A Firewall Bulkhead, F-1002-L and -R Fwd Fuselage Bulkheads and F-1088-L and
-                                                                                                                                                                                  VAN'S AIRCRAFT, INC.
--R Fwd Fuselage Ribs that are common to the F-1069-L and -R Fwd Side Skins.
+=== PAGE 13 ===
+PAGE 29-13 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Match-Drill #40 the holes in the F-1069-L and -R Fwd Side Skins and the F-1040-L and -R Upper Fuse Channels common to the WD-1002-L and -R Upper Firewall Brackets. Use a small block of wood to hold the flange on the firewall brackets tight against the channels. Match-Drill #40 the holes in the fwd side skins and the F-1041-L and -R Lower Fuse Channels common to the WD-1003-L and -R Lower Firewall Brackets. Final-Drill #40 the remaining holes in the webs of the upper and lower fuse channels including the upper most row of holes in the upper channel not common to the fwd side skin. See Figure 1 and Figure 2.
+
+Step 2: Final-Drill #40 the holes common between the F-1088-L and -R Forward Fuselage Ribs and the F-1069-L and -R Fwd Side Skins. Final-Drill #40 the holes common between the F-1002-L and -R Fwd Fuse Bulkheads and the fwd side skins. See Figure 1.
+
+Step 3: Final-Drill #40 the holes common between the F-1001A Firewall Bulkhead and the F-1069-L and -R Fwd Side Skin. Final-Drill #40 the holes common between the fwd side skins and the lower flange of F-1049C-L and -R Fwd Fuselage Floor Ribs. See Figure 1.
+
+Step 4: Final-Drill #40 the 3/32 inch holes common between the F-1069-L and -R Fwd Side Skins and the F-1004K-L and -R Center Section Side Plate. Final-Drill #30 the 1/8 inch holes common between the fwd side skins and the center section side plates. See Page 29-15, Figure 1.
+
+Step 5: Final-Drill #12 the bolt holes at the two nutplate locations along the lower outboard flange of the F-1042-L and -R Bulkhead Side Channels.
+
+Step 6: Flush the forward ends of the F-1013-L and -R Fwd Fuselage Longerons against the inside face of the F-1069-L and -R Fwd Side Skins, then clamp them to the F-1001J-L and -R Longeron Gussets. Match-Drill #40 the holes common between the fwd side skins and the fwd fuselage longerons. With the clamps still in place, match-drill #30 as many of the holes as possible in the upper flange of the longeron gussets into the fwd fuselage longerons. Cleco, remove the clamps, and finish match-drilling the remaining holes.
+
+Step 7: Final-Drill #30 the holes common between the F-1042-L and -R Bulkhead Side Channels and the F-1042E-L and -R Gussets. Final-Drill #30 the holes in the gussets into the upper flange of the F-1040-L and -R Upper Fuse Channels. See Page 29-12, Figure 2.
+
+Step 8: Final-Drill #40 the holes common between the forward flange of the F-1015C-L and -R Mid Cabin Decks and the F-1042-L and -R Bulkhead Side Channels. See Figure 2.
+
+Step 9: Final-Drill #40 the hole common between the forward tab on the F-1088-L and -R Fwd Fuselage Ribs and the inboard flange of the F-1002-L and -R Fwd Fuselage Bulkheads. Final-Drill #30 the holes common between the forward flange of the fwd fuselage ribs and the web of the fwd fuselage bulkheads.
+
+Final-Drill #40 the hole common between the aft tab on the fwd fuselage ribs and the inboard flange of the F-1042-L and -R Bulkhead Side Channels. Final-Drill #30 the holes common between the aft flange of the fwd fuselage ribs and the web of the bulkhead side channels.
+
+Step 10: Match-Drill #30 the hole in the lower tab of the F-1002-L and -R Fwd Fuselage Bulkheads into the upper flange of the F-1041-L and -R Lwr Fuselage Channels. See Figure 2.
+
+FIGURE 1: DRILLING THE F-1069 FWD SIDE SKINS (FWD SIDE SKIN SHOWN TRANSPARENT)
+[Drawing showing fuselage assembly from left side with labeled parts:]
+- F-1001A
+- F-1040-L
+- F-1002-L
+- F-1013-L
+- F-1004K-L
+- F-1001J
+- F-1088-L
+- F-1041-L
+- F-1049C-L
+- F-1001J-R
+
+FIGURE 2: DRILLING THE UNDERSTRUCTURE (FWD SIDE SKIN SHOWN TRANSPARENT)
+[Drawing showing right side of fuselage with labeled parts:]
+- F-1042-R
+- F-1015C-R
+- F-1015C-L
+- F-1042-L
+- F-1042E-R
+- F-1088-R
+- F-1013-R
+- F-1040-R
+- F-1004K-R
+- WD-1002-R
+- F-1001A
+- WD-1003-R
+- F-1049C-R
+- WD-1002-L
+- F-1002-L
+- F-1088-L
+- F-1013-L
+- F-1004K-L
+- F-1001J-L
+- F-1041-L
+
+=== PAGE 14 ===
+PAGE 29-14 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+Step 1: Remove the F-1069-L and -R Fwd Side Skins.
+
+Step 2: Cleco the F-1039J Rudder Pedal Drill Jig to the F-1013-L Fwd Fuse Longeron as shown in Figure 1. Double check that the rudder pedal drill jig is not upside-down! Match-Drill #12 the six aft most holes in the rudder pedal drill jig into the fwd fuse longeron. Repeat this step for the right side of the aircraft.
+
+[Drawing showing:]
+- F-1039J
+- MATCH-DRILL #12, 6 PLACES
+- WD-1002-L
+- F-1040-L
+- F-1002-L
+- WD-1003-L
+- F-1013-L
+
+FIGURE 1: DRILLING THE RUDDER PEDAL ATTACH HOLES
+
+Step 3: Uncleco and pull back the F-1040 and F-1041 Upper and Lwr Fuselage Channels, clear out all chips then recleco them in place.
+
+NOTE: It is acceptable to trim the flange of the F-1001D and F-1001M Side Angles if required for drill access.
+
+Step 4: Match-Drill #30 the holes in the lower flange of the F-1040-L and -R Upper Fuse Channels into the WD-1002-L and -R Upper Firewall Brackets.
+
+Step 5: Match-Drill #30 the holes in the F-1001B Firewall Upper Angle into the F-1040-L and -R Upper Fuse Channels and WD-1002-L and -R Upper Firewall Brackets. Match-Drill #30 the remaining holes aft of the firewall brackets common to the firewall upper angle and the upper fuse channels. Remove the cleco from the aft most hole common to these two parts and final-drill the hole #30 on both sides of the aircraft.
+
+Step 6: Match-Drill #30 the holes along the upper and lower flanges of the F-1041-L and -R Lwr Fuse Channels into the WD-1003-L-PC and -R-PC Lower Firewall Brackets.
+
+Step 7: Match-Drill #30 the holes along the outboard flange of the F-1050-L and -R Fwd Cabin Floor Panels into the upper flanges of the F-1041-L and -R Lwr Fuse Channels.
+
+Step 8: Disassemble all the parts used in this section from the understructure. Deburr the parts and the understructure.
+
+Step 9: Machine countersink all the #40 holes in the F-1015C-L and -R Mid Cabin Decks for the head of an AN426AD3 rivet (flush head on opposite side from the understructure).
+
+Machine countersink the holes that are common with the F-1069 Fwd Side Skins in the F-1013 Fwd Fuselage Longerons, F-1046 Mid Fuselage Longerons, F-1004K Center Section Side Plates, F-1040 Upper Fuse Channels, F-1041-L Lower Fuse Channels and F-1042-L and -R Bulkhead Side Channels (see Page 29-1, isometric view and Figure 2).
+
+Machine countersink the holes in the F-1005C-L and -R Bulkhead Side Channels that are common to the F-1070 Mid Side Skins.
+
+FIGURE 2: DRILLING THE UNDERSTRUCTURE (SIDE SKIN SHOWN TRANSPARENT)
+[Drawing showing right side with labeled parts:]
+- WD-1002-R
+- F-1001B
+- F-1001J-R
+- WD-1003-R
+- F-1041-R
+- F-1040-R
+- F-1042-R
+- F-1069-R
+- F-1088-R
+- F-1015C-R
+- F-1004K-R
+- F-1013-R
+- F-1013-L
+- F-1015C-L
+- F-1004K-L
+- F-1042-L
+- F-1088-L
+- F-1002-R
+- F-1040-R
+
+=== PAGE 15 ===
+PAGE 29-15 | RV-10 | REVISION: 1 | DATE: 07/24/14
+
+Step 1: Dimple the holes in the F-1001A Firewall Bulkhead, F-1002-L and -R Fwd Fuselage Bulkheads and F-1088-L and -R Fwd Fuselage Ribs that are common to the F-1069-L and -R Fwd Side Skins.
 
 Dimple the single hole in the forward tab of the F-1088 Fwd Fuselage Ribs.
 
-Dimple the holes in the F-1015B Foot Well Rib Intercostals, F-1015F Spacers, F-1034C Fuselage Bulkheads, F-1023
-Baggage Floor Angles and F-10100A and F-10101 Baggage Door Shims (note the shims orientation and the holes not to
-be dimpled on Page 29-8, Figure 2) holes that are common to the F-1070 Mid Side Skins.
+Dimple the holes in the F-1015B Foot Well Rib Intercostals, F-1015F Spacers, F-1034C Fuselage Bulkheads, F-1023 Baggage Floor Angles and F-10100A and F-10101 Baggage Door Shims (note the shims orientation and the holes not to be dimpled on Page 29-8, Figure 2) holes that are common to the F-1070 Mid Side Skins.
 
 Step 2: Using the callouts in Figure 1 dimple the F-1069 Fwd Side Skins and the F-1070 Mid Side Skins.
 
 Step 3: Remove the hatched area from the baggage door area on the F-1070-L Mid Side Skin as shown in Figure 1.
 
-Step 4: Enlarge the wing wire run location in the F-1070-L and -R Mid Side Skins (see Figure 1) for a snap bushing that
-will accommodate the wires and pressure lines coming from the wing. Deburr, then install a snap bushing in the wing wire
-run hole. Because of its custom size the snap bushing is not provided in the kit but can be purchased through Van's
-Aircraft Accessory Catalog. If this hole is not utilized leave it open.
+Step 4: Enlarge the wing wire run location in the F-1070-L and -R Mid Side Skins (see Figure 1) for a snap bushing that will accommodate the wires and pressure lines coming from the wing. Deburr, then install a snap bushing in the wing wire run hole. Because of its custom size the snap bushing is not provided in the kit but can be purchased through Van's Aircraft Accessory Catalog. If this hole is not utilized leave it open.
 
-Step 5: Check that all parts worked with in this section have been deburred. Prime the F-1013-L and -R Fwd Fuse
-Longerons and the F-1046-L and -R Mid Fuse Longerons. Prime the remaining parts if desired.
+Step 5: Check that all parts worked with in this section have been deburred. Prime the F-1013-L and -R Fwd Fuse Longerons and the F-1046-L and -R Mid Fuse Longerons. Prime the remaining parts if desired.
 
+FIGURE 1: DIMPLING THE SIDE SKINS (* CALLOUTS REFER TO LEFT AND RIGHT SIDE SKINS)
+[Large drawing showing both F-1069 and F-1070 side skins with dimpling callouts:]
+- DO NOT DRILL OR DIMPLE * (upper right area)
+- DO NOT DIMPLE * (F-1096 area)
+- F-1096 ATTACH LOCATIONS, 10 PLACES
+- REMOVE HATCHED AREA AFTER DIMPLING
+- DO NOT DIMPLE * THESE #30 HOLES (multiple locations)
+- WD-1021 ATTACH *
+- DO NOT DIMPLE * THESE #30 HOLES
+- DIMPLE FOR CS4-4 * THESE #30 HOLES
+- WING WIRE RUN LOCATION *
+- DO NOT DRILL OR DIMPLE (lower right)
 
-                                                                                                                                                                                                      DO NOT DRILL OR DIMPLE *
+=== PAGE 16 ===
+PAGE 29-16 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Modify the empennage bucking bar created on Page 9-12, Step 3 for use in the rest of this section. See Figure 1.
 
-                                                                                                                                                            DO NOT DIMPLE *
-                                                                                                                                                            F-1096 ATTACH LOCATIONS,                     REMOVE HATCHED AREA
-                                                                                                                                                            10 PLACES                                    AFTER DIMPLING
+[Drawing showing bucking bar modification:]
+- REMOVE HATCHED AREA
+- Dimension: 2
+- Dimension: 1/4
 
+FIGURE 1: MODIFYING THE EMPENNAGE BUCKING BAR
 
+Step 2: Rivet the F-1034B Seat Back Brace to the F-1034C-L and -R Fuselage Bulkheads per the callouts on Page 29-7, Figure 1. Rivet the seat back brace, F-1034E Seat Back Brace Gusset, F-1046-L Mid Fuse Longeron and F-10102B Baggage Door Seal Angle together per the callouts on Page 29-6, Figure 2. Rivet the F-10102A Baggage Door Seal Angle to the mid fuse longeron per the callouts on Page 29-6, Figure 2.
 
-                                                                                               DO NOT DIMPLE *
-                                                                                               THESE #30 HOLES
+Rivet the seat back brace and seat back brace gusset to the F-1046-R Mid Fuse Longeron together per the callouts on Page 29-7, Figure 1.
 
-                                                                                                                            DO NOT DIMPLE *
-                                                                                                                           THESE #30 HOLES
+Step 3: Rivet the F-1046-L Mid Fuse Longeron to the F-1005E-L Gusset. Rivet the F-1046-R Mid Fuse Longeron to the F-1005E-R Gusset. Rivet callouts are on Page 29-9, Figure 2.
 
+Step 4: Cleco the F-1002 Fwd Fuselage Bulkheads, F-1040 Upper Fuse Channels, F-1041 Lwr Fuse Channels and F-1042E Gussets together and to the understructure.
 
+Step 5: Rivet the upper flange of the F-1040 Upper Fuse Channels to the F-1001B Firewall Upper Angle and WD-1002 Upper Firewall Brackets. Rivet the lower flange of the upper fuse channels to the upper firewall brackets. Rivet both the upper and lower flanges of the F-1041 Lwr Fuse Channels to the WD-1003 Lower Firewall Brackets. Rivet callouts are on Page 29-12, Figure 2.
 
+Step 6: Slip the F-1013 Fwd Fuse Longerons into place, then cleco them to the F-1001J Longeron Gussets. Rivet the fwd fuselage longerons to the longeron gussets. See Page 29-12, Figure 2.
 
-                                                                                                                                                  DIMPLE FOR CS4-4 *
-                                                                                                                                                  THESE #30 HOLES              DO NOT DRILL OR DIMPLE
-                                                                                                   WD-1021 ATTACH *
-                                                                                                                             DO NOT DIMPLE *   WING WIRE RUN
-                                                                                                                             THESE #30 HOLES   LOCATION *
-                                                                                            DO NOT DIMPLE *
-                                                                                            THESE #30 HOLES
+Step 7: Rivet the F-1042E Gussets to the F-1042 Bulkhead Side Channels and F-1040 Upper Fuse Channels per the callouts on Page 29-12, Figure 2.
 
-                                                                                             FIGURE 1: DIMPLING THE SIDE SKINS
-                                                                                     (* CALLOUTS REFER TO LEFT AND RIGHT SIDE SKINS)
-                                                                                                                                                                                       DATE: 07/24/14 REVISION: 1   RV-10   PAGE   29-15
-                       VAN'S AIRCRAFT, INC.
+Step 8: Rivet the lower tab on the F-1002 Fwd Fuselage Bulkheads to the upper flange of the F-1041 Lwr Fuse Channels. Rivet callouts are on Page 29-12, Figure 2.
 
-                                                                                                                                                                                                REMOVE HATCHED AREA
+Step 9: Rivet the F-1023-L Baggage Floor Angle and the F-10100A and F-10101 Baggage Door Shims to the F-1070-L Mid Side Skin per the rivet callouts on Page 29-8, Figure 2 (do not rivet the seven aft most holes marked do not rivet). Rivet the F-1023-R Baggage Floor Angle to the F-1070-R Mid Side Skin per the callouts on Page 29-8, Figure 3. Back riveting on a plate works well for this step.
 
-                                                                                                                                                                               2
-   Step 1: Modify the empennage bucking bar created on Page 9-12, Step 3 for use in the rest of
-   this section. See Figure 1.
+Step 10: Cleco the F-1069-L and -R Fwd Side Skins, F-1042B and C Clips, F-1015F Spacers, F-1070 Mid Side Skins to the fuselage assembly understructure. Check that the forward and mid side skins butt against one another properly.
 
-  Step 2: Rivet the F-1034B Seat Back Brace to the F-1034C-L and -R Fuselage Bulkheads per the
-                                                                                                                                                                                          1/4
-  callouts on Page 29-7, Figure 1. Rivet the seat back brace, F-1034E Seat Back Brace Gusset,
-  F-1046-L Mid Fuse Longeron and F-10102B Baggage Door Seal Angle together per the callouts                                    FIGURE 1: MODIFYING THE EMPENNAGE BUCKING BAR
-  on Page 29-6, Figure 2. Rivet the F-10102A Baggage Door Seal Angle to the mid fuse longeron
-  per the callouts on Page 29-6, Figure 2.
+FIGURE 2: FUSELAGE ASSEMBLY
+[Large isometric drawing of assembled fuselage showing all major parts:]
 
-  Rivet the seat back brace and seat back brace gusset to the F-1046-R Mid Fuse Longeron
-  together per the callouts on Page 29-7, Figure 1.
-                                                                                                                                                                                                                             F-1046-R
-  Step 3: Rivet the F-1046-L Mid Fuse Longeron to the F-1005E-L Gusset. Rivet the F-1046-R Mid
-  Fuse Longeron to the F-1005E-R Gusset. Rivet callouts are on Page 29-9, Figure 2.
+Right side:
+- F-1046-R
+- F-1023-R
+- F-1034C-R
+- F-1034E
+- F-1034B
+- F-1005E-R
+- F-1042E-R
+- F-1042-R
+- F-1004K-R
+- F-1013-R
+- F-1040-R
+- F-1002-R
+- WD-1002-R
+- F-1001J-R
+- F-1041-R
+- WD-1003-R
 
-  Step 4: Cleco the F-1002 Fwd Fuselage Bulkheads, F-1040 Upper Fuse Channels, F-1041 Lwr                                                                                           F-1023-R                                               F-1046-L
-  Fuse Channels and F-1042E Gussets together and to the understructure.
-                                                                                                                                                                                                                                 F-1034E
-   Step 5: Rivet the upper flange of the F-1040 Upper Fuse Channels to the F-1001B Firewall Upper
-                                                                                                                                                                         F-1034C-R
-   Angle and WD-1002 Upper Firewall Brackets. Rivet the lower flange of the upper fuse channels to
-                                                                                                                                                       F-1005E-R                                                            F-1034B
-   the upper firewall brackets. Rivet both the upper and lower flanges of the F-1041 Lwr Fuse
-   Channels to the WD-1003 Lower Firewall Brackets. Rivet callouts are on Page 29-12, Figure 2.
+Left side:
+- F-1046-L
+- F-10102A
+- F-10102B
+- F-1015F
+- F-1015B-L
+- F-1042-L
+- F-1040-L
+- F-1002-L
+- F-1001J-L
+- F-1041-L
+- WD-1002-L
+- WD-1003-L
 
-  Step 6: Slip the F-1013 Fwd Fuse Longerons into place, then cleco them to the F-1001J Longeron
-  Gussets. Rivet the fwd fuselage longerons to the longeron gussets. See Page 29-12, Figure 2.
-                                                                                                                                           F-1015C-R
-  Step 7: Rivet the F-1042E Gussets to the F-1042 Bulkhead Side Channels and F-1040 Upper
-  Fuse Channels per the callouts on Page 29-12, Figure 2.
+=== PAGE 17 ===
+PAGE 29-17 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-  Step 8: Rivet the lower tab on the F-1002 Fwd Fuselage Bulkheads to the upper flange of the                           F-1042E-R
-  F-1041 Lwr Fuse Channels. Rivet callouts are on Page 29-12, Figure 2.                                                                           F-1042-R
-                                                                                                                    F-1004K-R
-  Step 9: Rivet the F-1023-L Baggage Floor Angle and the F-10100A and F-10101 Baggage Door
-  Shims to the F-1070-L Mid Side Skin per the rivet callouts on Page 29-8, Figure 2 (do not rivet the               F-1013-R
-  seven aft most holes marked do not rivet). Rivet the F-1023-R Baggage Floor Angle to the                                                                                                                                                              F-10102A
-                                                                                                             F-1040-R
-  F-1070-R Mid Side Skin per the callouts on Page 29-8, Figure 3. Back riveting on a plate works
-  well for this step.                                                                                    F-1002-R                                                                                                                                     F-10102B
+Step 1: Start by riveting the double row of rivets on either side of the joint between the F-1069 Fwd Side Skins and the F-1070 Mid Side Skins. Rivet callouts are in Figure 1, Figure 2 and Page 29-18, Figure 1.
 
-  Step 10 Cleco the F-1069-L and -R Fwd Side Skins, F-1042B and C Clips, F-1015F Spacers,
-  F-1070 Mid Side Skins to the fuselage assembly understructure. Check that the forward and mid
-  side skins butt against one another properly.
+Rivet the F-1070-R Mid Side Skins to the fuselage assembly understructure using the callouts in Figure 1 and Figure 2 (Only rivet the locations that have callouts).
 
+Step 2: Cleco the F-1015C Mid Cabin Decks to the understructure.
 
-                                                                                            WD-1002-R
-                                                                                    F-1001J-R
-                                                                                                  F-1041-R
+Step 3: Rivet the F-1015C Mid Cabin Decks to the F-1005C Bulkhead Side Channels per the callouts on Page 29-7, Figure 1.
 
+Rivet the mid cabin decks to the F-1015B Foot Well Rib Intercostals per the callouts on Page 29-7, Figure 1.
 
-                                                                                                                                                                                                                       F-1015F
-                                                                                                                                                                                                           F-1015B-L
+Rivet the mid cabin decks to the F-1042 Bulkhead Side Channels per the rivet callouts on Page 29-12, Figure 2.
 
+Rivet the mid cabin decks to the F-1013 Fwd Fuse Longerons per the callouts on Page 29-7, Figure 1.
 
-                                                                                                  WD-1003-R
-                                                                                                                                                                                              F-1042-L
-                                                                                                                                                                         F-1002-L        F-1040-L
-                                                                                                                          WD-1002-L
-                                                                                                                                                                   F-1001J-L       FIGURE 2: FUSELAGE ASSEMBLY
-                                                                                                                               WD-1003-L                     F-1041-L
+FIGURE 1: F-1070-R RIVET CALLOUTS
+[Large rivet pattern diagram showing the F-1070-R mid side skin with rivet symbols at each location]
 
+Rivet Legend:
+- Triangle: AN426AD3-3.5
+- 4-pointed star: AN426AD3-4
+- Diamond: AN426AD3-4.5
+- Square: AN426AD3-5
+- Right-pointing triangle: AN426AD3-6
 
-PAGE   29-16   RV-10     REVISION: 0   DATE: 07/24/14
-Step 1: Start by riveting the double row of rivets on either
-                                                                                                                   VAN'S AIRCRAFT, INC.
-side of the joint between the F-1069 Fwd Side Skins and the
-F-1070 Mid Side Skins. Rivet callouts are in Figure 1, Figure
-2 and Page 29-18, Figure 1.
+=== PAGE 18 ===
+PAGE 29-18 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-Rivet the F-1070-R Mid Side Skins to the fuselage assembly
-understructure using the callouts in Figure 1 and Figure 2
-(Only rivet the locations that have callouts) .
+Step 1: Rivet the three AN426AD3-5 rivets below the MS21051-L3 nutplate, see Figure 1. Rivet the two nutplates called out in Figure 1 to the fuselage assembly understructure and to the F-1069-L and -R Fwd Side Skins.
 
-Step 2: Cleco the F-1015C Mid Cabin Decks to the
-understructure.
+Step 2: Rivet the F-1069-L and -R Fwd Side Skins to the fuselage assembly understructure per the callouts in Figure 1. Begin riveting at the bottom and work upwards. Note that the lower aft two rivets are double flush. Only rivet the locations that have rivet callouts!
 
-Step 3: Rivet the F-1015C Mid Cabin Decks to the F-1005C
-Bulkhead Side Channels per the callouts on Page 29-7,
-Figure 1.
+FIGURE 1: RIVET CALLOUTS FOR THE FWD SIDE SKINS
+[Large rivet pattern diagram showing the F-1069 fwd side skin with rivet symbols at each location]
 
-Rivet the mid cabin decks to the F-1015B Foot Well Rib
-Intercostals per the callouts on Page 29-7, Figure 1.
+Rivet Legend:
+- Triangle: AN426AD3-3.5
+- 4-pointed star: AN426AD3-4
+- Diamond: AN426AD3-4.5
+- Square: AN426AD3-5
+- Right-pointing triangle: AN426AD3-6
 
-Rivet the mid cabin decks to the F-1042 Bulkhead Side
-Channels per the rivet callouts on Page 29-12, Figure 2.
-Rivet the mid cabin decks to the F-1013 Fwd Fuse Longerons
-per the callouts on Page 29-7, Figure 1.
+Additional callouts:
+- K1000-3 (nutplate)
+- MS21051-L3 (nutplate)
+- DOUBLE FLUSH (lower aft corner)
 
+=== PAGE 19 ===
+PAGE 29-19 | RV-10 | REVISION: 1 | DATE: 07/24/14
 
+Step 1: Cut apart the F-1086 Vent Bracket into two F-1086A and two F-1086B Vent Brackets as shown in Figure 1. Cut apart the F-1087 Vent Slide into two F-1087A and two F-1087B Vent Slides as shown in Figure 2.
 
+[Drawing showing:]
+- F-1086B
+- REMOVE HATCHED AREA
+- F-1086A
 
-                                                                AN426AD3-3.5   FIGURE 1: F-1070-R RIVET CALLOUTS
+FIGURE 1: CUTTING APART THE VENT BRACKETS
 
-                                                                AN426AD3-4
+[Drawing showing:]
+- FILE EDGES OF SLOT SMOOTH
+- F-1087B
+- F-1087A
 
-                                                                AN426AD3-4.5
+FIGURE 2: CUTTING APART THE VENT SLIDES
 
-                                                                AN426AD3-5
+Step 2: Cleco the F-1087A Vent Slide, F-1087B Vent Slide, F-1092 Vent Door Doubler and F-1093 Vent Door together as shown in Figure 3. Final-Drill #40 the holes common between these parts. This creates the Vent Door Subassembly. Repeat this step to create a second vent door subassembly.
 
-                                                                AN426AD3-6
+[Drawing showing assembly:]
+- F-1092
+- F-1087B
+- F-1093
+- AN426AD3-4, 6 PLACES
+- F-1087A
 
+FIGURE 3: ASSEMBLING THE VENT DOOR
 
+Step 3: File the edges of the slot smooth in the F-1087A and F-1087B Vent Slides. Check that an AN525-10R7 Screw smoothly slides along the entire length of the slot.
 
+Step 4: Cleco the F-1086A and F-1086B Vent Brackets and the F-1096 Vent Doubler to the F-1070-L Mid Side Skin as shown in Figure 4. Final-Drill #40 the holes common between these parts. Repeat this step for the right side of the aircraft.
 
-                                                                                                                      DATE: 07/24/14 REVISION: 0   RV-10   PAGE   29-17
-                       VAN'S AIRCRAFT, INC.
+Step 5: Machine countersink the holes in the F-1093 Vent Doors and F-1070-L and -R Mid Side Skins to place the flush face on the outboard side of the aircraft. Disassemble the F-1086A and F-1086B Vent Brackets and F-1096 Vent Doublers from the F-1070 Mid Side Skins. Disassemble the Vent Door Subassemblies. Deburr and prime all parts if/as desired.
 
+Step 6: Rivet the F-1096 Vent Doubler to the F-1070-L Mid Side Skin as shown in Figure 4 leaving open the four holes that attach the F-1086A and F-1086B Vent Brackets. Rivet the vent brackets using these four holes. Repeat this step for the right side of the aircraft.
 
+Step 7: Rivet the F-1087A Vent Slide, F-1087B Vent Slide, F-1092 Vent Door Doubler and F-1093 Vent Door together as shown in Figure 3. Repeat this step to create a second vent door subassembly.
 
-   Step 1: Rivet the three AN426AD3-5 rivets below the MS21051-L3 nutplate, see Figure 1. Rivet the two nutplates called out in Figure 1 to the fuselage assembly understructure and to
-   the F-1069-L and -R Fwd Side Skins.
+Step 8: Insert the Vent Door Subassembly as shown in Figure 5. Install the hardware through the F-1086A and B Vent Brackets and the slot in the vent door subassembly as shown in Figure 5 (place a 5610-90-31 Nylon Washer on either side of the vent door subassembly). Repeat this step for the right side of the aircraft.
 
-  Step 2: Rivet the F-1069-L and -R Fwd Side Skins to the fuselage assembly understructure per the callouts in Figure 1. Begin riveting at the bottom and work upwards. Note that the
-  lower aft two rivets are double flush. Only rivet the locations that have rivet callouts !
+FIGURE 4: ASSEMBLING THE VENT DOUBLER AND BRACKETS
+[Drawing showing:]
+- F-1070-L
+- F-1096
+- AN426AD3-4, 4 PLACES
+- F-1086B
+- F-1086A
+- AN426AD3-3.5, 6 PLACES
 
+FIGURE 5: INSTALLING THE VENT DOOR SUBASSEMBLY (F-1005E-L NOT SHOWN FOR CLARITY)
+[Drawing showing hardware stack-up:]
+- MS21042-3
+- VENT DOOR SUBASSEMBLY
+- AN960-10L
+- 5610-90-31, 2 PLACES
+- AN525-10R7
 
+=== PAGE 20 ===
+PAGE 29-20 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Install the F-1050-R Fwd Cabin Floor Panel into the fuselage by inserting its forward inboard corner beneath the WD-1004 Nose Gear Tension Fitting, then slide its forward edge beneath the F-1001C Firewall Lower Channel as shown in Figure 1.
 
-                     AN426AD3-3.5
+Lower the aft end of the fwd cabin floor panel into place and cleco the fwd cabin floor panel to the mating structures. Blind rivet the fwd cabin floor panel into place using the rivets shown in Figure 2.
 
-                     AN426AD3-4
+Install the F-1050-L Fwd Cabin Floor Panel in the same way.
 
-                     AN426AD3-4.5
+FIGURE 1: FWD CABIN FLOOR PANEL INSTALLATION
+[Drawing showing:]
+- F-1050-L
+- F-1001C
+- WD-1004
+- F-1050-R
 
-                     AN426AD3-5
-                                                                                                                                                                                            K1000-3
-                     AN426AD3-6
-                                                                                                                                                                                          MS21051-L3
+FIGURE 2: F-1050 RIVET CALLOUT
+[Rivet pattern diagram showing LP4-3 and CS4-4 rivet locations across the floor panel]
 
+Rivet Legend:
+- 6-pointed star: LP4-3
+- 5-pointed star: CS4-4
 
-
-
-                                                                                                         FIGURE 1: RIVET CALLOUTS FOR THE FWD SIDE SKINS
-
-PAGE   29-18   RV-10      REVISION: 0   DATE: 07/24/14
-                                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-
-Step 1: Cut apart the F-1086 Vent Bracket into two F-1086A and two F-1086B Vent Brackets as shown in Figure 1. Cut apart the    Step 3: File the edges of the slot smooth in the F-1087A and
-F-1087 Vent Slide into two F-1087A and two F-1087B Vent Slides as shown in Figure 2.                                            F-1087B Vent Slides. Check that an AN525-10R7 Screw
-                                                                                                                                smoothly slides along the entire length of the slot.
-                                                                                                                                                                                                    F-1070-L
-                                                                               FILE EDGES OF                                    Step 4: Cleco the F-1086A and F-1086B Vent Brackets and
-                            F-1086B                                             SLOT SMOOTH                                     the F-1096 Vent Doubler to the F-1070-L Mid Side Skin as
-                                                   REMOVE
-                                                                                                                                shown in Figure 4. Final-Drill #40 the holes common between
-                                                   HATCHED
-                                                                                                                                these parts. Repeat this step for the right side of the aircraft.
-                                                     AREA
-                                                                                                                                                                                                                                                  F-1096
-                                                                                                                                Step 5: Machine countersink the holes in the F-1093 Vent
-                                                                                                                                Doors and F-1070-L and -R Mid Side Skins to place the flush                                                         AN426AD3-4,
-                                                                                                                                face on the outboard side of the aircraft. Dissassemble the                                                         4 PLACES
-                                                              F-1086A
-                                                                                                                                F-1086A and F-1086B Vent Brackets and F-1096 Vent                                                                        F-1086B
-                                                                                                                      F-1087B   Doublers from the F-1070 Mid Side Skins. Dissassemble the
-                                                                                                                    F-1087A     Vent Door Subassemblies. Deburr and prime all parts if/as
-                                                                                                                                                                                                                                                           F-1086A
-                                                                                                                                desired.
-      F-1086A
-                                                                                                         F-1087B                Step 6: Rivet the F-1096 Vent Doubler to the F-1070-L Mid
-                                                                                                                                Side Skin as shown in Figure 4 leaving open the four holes
-                       F-1086B                                                                F-1087A                           that attach the F-1086A and F-1086B Vent Brackets. Rivet
-                                                                                                                                the vent brackets using these four holes. Repeat this step for AN426AD3-3.5,
-                                                                                                                                the right side of the aircraft.                                   6 PLACES
-
-                FIGURE 1: CUTTING APART                                    FIGURE 2: CUTTING APART                              Step 7: Rivet the F-1087A Vent Slide, F-1087B Vent Slide,
-                   THE VENT BRACKETS                                           THE VENT SLIDES                                  F-1092 Vent Door Doubler and F-1093 Vent Door together                FIGURE 4: ASSEMBLING THE
-                                                                                                                                as shown in Figure 3. Repeat this step to create a second            VENT DOUBLER AND BRACKETS
-                                                                                                                                vent door subasssembly.
-
-Step 2: Cleco the F-1087A Vent Slide, F-1087B Vent Slide, F-1092 Vent Door Doubler and F-1093 Vent Door together as shown in
-Figure 3. Final-Drill #40 the holes common between these parts. This creates the Vent Door Subassembly. Repeat this step to
-create a second vent door subasssembly.
-
-                                                                                                                                Step 8: Insert the Vent Door Subassembly as shown
-                                                                                                                                in Figure 5. Install the hardware through the F-1086A
-                                                                                                                                and B Vent Brackets and the slot in the vent door
-                                                                                                                                subassembly as shown in Figure 5 (place a 5610-90-31
-                                        F-1092                                                                                  Nylon Washer on either side of the vent door subassembly).
-                                                                                                                                Repeat this step for the right side of the aircraft.
-
-
-
-                F-1087B
-
-
-
-
-                                                                                                                                                                                                                                             MS21042-3
-
-                                                                                                     F-1093
-                                                                                                                                                                VENT DOOR SUBASSEMBLY
-                                                                                                                                                                                                                                             AN960-10L
-                                                                                                                                                                                                                                             5610-90-31,
-                                                                                      AN426AD3-4,                                                                                                                                            2 PLACES
-                                                                                      6 PLACES                                                                                                                                              AN525-10R7
-
-
-                     F-1087A
-
-
-                                                                                                                                                                           FIGURE 5: INSTALLING THE VENT DOOR SUBASSEMBLY
-                                    FIGURE 3: ASSEMBLING THE VENT DOOR
-                                                                                                                                                                                  (F-1005E-L NOT SHOWN FOR CLARITY)
-
-                                                                                                                                                                                                               DATE: 07/24/14 REVISION: 1   RV-10    PAGE   29-19
-                   VAN'S AIRCRAFT, INC.
-
-
-                   Step 1: Install the F-1050-R Fwd Cabin Floor Panel into the fuselage by inserting its forward inboard corner beneath
-                   the WD-1004 Nose Gear Tension Fitting, then slide its forward edge beneath the F-1001C Firewall Lower Channel as
-                   shown in Figure 1.
-
-                   Lower the aft end of the fwd cabin floor panel into place and cleco the fwd cabin floor panel to the mating structures.
-                   Blind rivet the fwd cabin floor panel into place using the rivets shown in Figure 2.
-
-                   Install the F-1050-L Fwd Cabin Floor Panel in the same way.                                                               LP4-3
-                                                                                                                                             CS4-4
-
-                                F-1050-L
-
-
-
-
-                                                                                                                                                                                      NUTPLATES
-                                                                                                                                                                                      PREVIOUSLY
-                                                                                                                                                                                      INSTALLED
-
-
-
-
-                                                                                                                                                     FIGURE 2: F-1050 RIVET CALLOUT
-
-
-
-                                                                                                                      F-1001C
-
-
-
-                                                                                                              WD-1004
-
-
-
-                                                                                                       F-1050-R
-
-
-
-
-                                     FIGURE 1: FWD CABIN FLOOR PANEL INSTALLATION
-
-
-
-
-PAGE   29-20   RV-10   REVISION: 0   DATE: 07/24/14
-                                                                                                                                                  VAN'S AIRCRAFT, INC.
-Step 1: Cut a total of four F-1082 Spacers
-                                                                                          AN3-14A
-from AT6-058X5/16 tubing as shown in
-                                                                                         AN960-10L
-Figure 1.
-                                                                                         AN365-1032
-
-                                                              F-1082
-           1 11/16 +1/64
-                   -0
-
-
-                                             5/16 REF.                                                                                                                      F-1004K-L
-
-
-                           0.058 REF.
-
-  FIGURE 1: SPACER
-
-
-
-
-Step 2: Install the WD-1021-L-PC
-Landing Gear Mount by bolting it to the
-F-1004 Center Section, WD-1021P Shim,
-F-1004K-L Center Section Side Plate,
-F-1069-L Forward Side Skin, F-1050-L                                                                                                                                       WD-1021P
-Fwd Floor Panel, and F-1049C-L Fwd
-                                                                                                                                                                                          AN3-5A
-Fuselage Floor Rib (not shown) using the
-                                                                                                                                                                                          AN960-10
-hardware shown in Figure 2.
-                                                                                                                                                                                          AN365-1032
-
-                                                             WD-1021-L-PC
-                                                                             AN3-41A
-                                                                              F-1082
-                                                                             AN960-10
-                                                                            AN365-1032
-
-
-
-
-                                                                                                                                                                                            AN3-5A
-                                                                                                                                                                                            AN960-10
-
-
-
-
-                                                    F-1004                                                    AN3-15A
-                                                                                                          2X AN960-10L
-                                                                                                            AN365-1032                F-1050-L
-                                                                                   AN3-15A                                                                          F-1069-L
-                                                                                 2X AN960-10
-                                                                                 AN365-1032
-                                                                                                      FIGURE 2: LANDING GEAR MOUNT INSTALLATION HARDWARE
-                                                                                                                 (SOME PARTS OMITTED FOR CLARITY)
-                                                                                                                                                     DATE: 07/24/14 REVISION: 0   RV-10    PAGE   29-21
-                      VAN'S AIRCRAFT, INC.
-
-
-
-   Step 1: Cleco then rivet the F-1088-L and -R Fwd Fuselage Ribs to the F-1002-L and -R Fwd Fuselage Bulkheads, F-1042-L and
-   -R Bulkhead Side Channels and F-1069-L and -R Fwd Side Skins per the rivet callouts in Figure 1.
-
-
-
-
-                                                        F-1042-R
-
-
-                                                                                                                                                                                              AN470AD4-5
-                                                                                                                                                                                ALL F-1088 AFT FLANGE TO
-                                          F-1088-R                                                                                                                                     F-1042 WEB RIVETS
-
-                                                                                                                                                                              AN426AD3-4.5
-                                                                                                                                                                       ALL F-1069 TO F-1042
-                                                                                                                                                                          TO F-1088 RIVETS
-
-                                                                                                                                                                     F-1013-R
-                                                                                                                                           F-1042-L
-
-                                                                                                                                                           AN426AD3-3.5                                    AN426AD3-4
-                                                                                                                                            ALL F-1088 TO F-1069 RIVETS
-                                                                                                                                                          F-1002-L
-
-
-
-
-                                                                                                                                                       AN470AD4-4,
-                                                                                                                                                         2 PLACES
-
-                                                                                                                                F-1088-L                                                                     F-1088-L
-
-                                                                                                                                                             AN426AD3-3.5
-                                                                                                             F-1002-L
-
-
-
-
-                                                                                              FIGURE 1: RIVETING THE FWD FUSELAGE RIBS
-                                                                                          (FWD SIDE SKIN AND FIREWALL SHOWN TRANSPARENT)
-
-
-
-
-PAGE   29-22   RV-10     REVISION: 0   DATE: 07/24/14
-
+- NUTPLATES PREVIOUSLY INSTALLED (noted at one corner)

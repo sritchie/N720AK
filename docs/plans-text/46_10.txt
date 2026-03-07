@@ -1,52 +1,129 @@
-                        VAN'S AIRCRAFT, INC.
+=== PAGE 46-1 ===
+SECTION 46:
+ENGINE MOUNT &
+LANDING GEAR
+VAN'S AIRCRAFT, INC.
 
+[Title page - isometric view of fuselage nose section with engine mount and landing gear components labeled]
 
+WD-1015
+NOSE GEAR LINK
+COLLAR ASSEMBLY
 
-  NOTE: If you have purchased the optional Firewall Forward kit from Van's Aircraft, it is                         AN6-24
-  easier to complete Pages FF1-2 and FF1-3 of the Engine Installation section now, before                       6 PLACES
-  the WD-1001-D1 Dyna-1 Engine Mount is installed.
+U-1010-R
+MAIN WHEEL
+FAIRING BRACKET
 
-   Step 1: Using a 3/8" bit, final-drill one of the two 3/16" holes in the top of the Firewall Assembly
-   common to the WD-1001-D1 Dyna-1 Engine Mount. Be sure to drill perpendicular to the vertical
-   face of the Firewall Assembly. Temporarily bolt the engine mount to the Firewall Assembly using
-   this hole and the hardware called-out in Figure 1.
+U-1001-R
+MAIN GEAR
+LEG
 
-  Align the engine mount with the second 3/16" hole in the top of the Firewall Assembly and
-  final-drill this hole using the same bit. Keep the engine mount in place while drilling to
-  help maintain the alignment of the bit. Secure the engine mount to the Firewall                                FIREWALL
-  Assembly, then final-drill the remaining four holes. Place a bolt in the holes                                ASSEMBLY
-  after each is drilled.
+BRAKE
+ASSEMBLY
+2 PLACES
 
-  Step 2: Remove the WD-1001-D1 Engine Mount from
-  the Firewall Assembly, deburr the holes in the Firewall
-  Assembly, then permanently bolt the engine mount
-  in place using the hardware called-out in Figure 1.
+U 15X6.0-6 TIRE
+2 PLACES
 
+WD-1017
+NOSE GEAR LEG
+ASSEMBLY
 
+WD-1031
+AXLE FLANGE
 
+WD-1030
+NOSE FORK
 
-                                                                  WD-1001-D1
+K2750-O-219
+BELLVILLE WASHER
+2 PLACES
 
+U 5.00X5-6
+TIRE
 
+NOSE WHEEL
+ASSEMBLY
 
+J-11968-14
+NOSE GEAR ELASTOMER
+4 PLACES
 
-                                                          AN960-616
-                                                               TYP.
+WD-1016
+NOSE GEAR LINK
+ASSEMBLY
 
+WD-1001-D1
+DYNA-1 ENGINE MOUNT
 
-                                             AN310-6
-                                       SECURE WITH
-                             MS24665-283 COTTER PIN
-                                           6 PLACES
+BRAKE LINE
+2 PLACES
 
+U-1001-L
+MAIN GEAR LEG
 
+U-1010-L
+MAIN WHEEL
+FAIRING BRACKET
 
+MAIN WHEEL
+ASSEMBLY
+2 PLACES
 
-                                                                                                 FIGURE 1: ATTACHING THE
-                                                                                                      ENGINE MOUNT
-PAGE   46-2     RV-10      REVISION: 1   DATE: 12/05/08
-NOTE: Follow the instructions in Steps 1-5 for both Main Wheel and Tire Assemblies.
-                                                                                                                                                                                                                          VAN'S AIRCRAFT, INC.
+U-01004
+AXLE NUT STANDOFF
+2 PLACES
+
+DATE: 2/20/19  REVISION: 1  RV-10  PAGE 46-1
+
+=== PAGE 46-2 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: If you have purchased the optional Firewall Forward kit from Van's Aircraft, it is
+easier to complete Pages FF1-2 and FF1-3 of the Engine Installation section now, before
+the WD-1001-D1 Dyna-1 Engine Mount is installed.
+
+Step 1: Using a 3/8" bit, final-drill one of the two 3/16" holes in the top of the Firewall Assembly
+common to the WD-1001-D1 Dyna-1 Engine Mount. Be sure to drill perpendicular to the vertical
+face of the Firewall Assembly. Temporarily bolt the engine mount to the Firewall Assembly using
+this hole and the hardware called-out in Figure 1.
+
+Align the engine mount with the second 3/16" hole in the top of the Firewall Assembly and
+final-drill this hole using the same bit. Keep the engine mount in place while drilling to
+help maintain the alignment of the bit. Secure the engine mount to the Firewall
+Assembly, then final-drill the remaining four holes. Place a bolt in the holes
+after each is drilled.
+
+Step 2: Remove the WD-1001-D1 Engine Mount from
+the Firewall Assembly, deburr the holes in the Firewall
+Assembly, then permanently bolt the engine mount
+in place using the hardware called-out in Figure 1.
+
+AN6-24
+6 PLACES
+
+FIREWALL
+ASSEMBLY
+
+WD-1001-D1
+
+AN960-616
+TYP.
+
+AN310-6
+SECURE WITH
+MS24665-283 COTTER PIN
+6 PLACES
+
+FIGURE 1: ATTACHING THE
+ENGINE MOUNT
+
+PAGE 46-2  RV-10  REVISION: 1  DATE: 12/05/08
+
+=== PAGE 46-3 ===
+VAN'S AIRCRAFT, INC.
+
+NOTE: Follow the instructions in Steps 1-5 for both Main Wheel and Tire Assemblies.
 
 Step 1: Pull the bearings from the Main Wheel Assembly by removing the snap-rings that are retaining them. Pay close attention to
 how the bearings, grease seal rings, and grease seal felts are installed so that they can be reinstalled in the same way. See Figure 2.
@@ -56,294 +133,633 @@ and Outer Wheel Halves together.
 
 Step 3: Dust the U 15X6.0-6IT Tube (not shown in Figure 1) and the inside of the
 U 15X6.0-6 Tire with talcum powder, then mount the tube and tire on the Inner and
-Outer Wheel halves. The red dot on the tire is installed next to the valve stem of                OUTER
-the tube (see Figure 2). Bolt the wheel halves and the brake disk together.                   WHEEL HALF
+Outer Wheel halves. The red dot on the tire is installed next to the valve stem of
+the tube (see Figure 2). Bolt the wheel halves and the brake disk together.
 Carefully observe the manufacturer's bolt torque specifications shown on the
-document in the wheel/ brake package.                                                                                                                                                                           BRAKE DISK
-                                                                                              HOLE FOR
-                                                                                            VALVE STEM
+document in the wheel/ brake package.
+
 Step 4: SLOWLY inflate the tire to 25 psi. Deflate it fully and re-inflate it
 SLOWLY a couple more times to work out any wrinkles in the tube. It's a
-good idea to do this with the valve core removed; in the event a finger                                                                                                                    INNER
-gets pinched the tire can be quickly deflated. The final inflation pressure                                                                                                                WHEEL HALF
+good idea to do this with the valve core removed; in the event a finger
+gets pinched the tire can be quickly deflated. The final inflation pressure
 is 42 psi.
-                                                                                                                                                                            U 6.00X6-6
 
+OUTER
+WHEEL HALF
 
+HOLE FOR
+VALVE STEM
 
+BRAKE DISK
 
-                                                                                                                                                                                        FIGURE 1: MAIN WHEEL AND
-                                                                                                                                                                                             TIRE ASSEMBLY
-Step 5: Be sure the bearings are fully greased with Aeroshell #5 or equivalent. Reinstall the bearings, grease seal rings, and            Step 6: Split the Nose Wheel Assembly by removing the bolts holding the two Wheel Halves together.
+INNER
+WHEEL HALF
+
+U 6.00X6-6
+
+FIGURE 1: MAIN WHEEL AND
+TIRE ASSEMBLY
+
+Step 5: Be sure the bearings are fully greased with Aeroshell #5 or equivalent. Reinstall the bearings, grease seal rings, and
 grease seal felts in the same order that they were removed. Make absolutely sure that the smaller
-grease seal ring is installed on the outboard side of the Main Wheel and Tire Assembly, and the                                           Step 7: Remove the nut and washers from the valve stem of the U 5.00X5-6IT Tube (not shown in Figure 3). Dust the tube and
- two larger grease seal rings are installed on the inboard side as shown in Figure 2.                                                     the inside of the U 5.00X5-6 Tire with talcum powder, then mount the tube and tire on the Wheel Halves. The mark indicated in
-                                                                                                            SNAP RING
-                                                                                                                                          Figure 3 on one of the wheel halves should be aligned with the notch for the valve stem in the opposite wheel half. As before, the
-                                                                                                 GREASE                                   red dot on the tire is installed next to the valve stem. Bolt the wheel halves together.
-                                                                                               SEAL FELT
-                                                                                                                                          Step 8: SLOWLY inflate the tire to 25 psi. Deflate it fully and re-inflate it
-                                                                                                                                          SLOWLY a couple more times to work out any wrinkles in the tube.
-                                                                                     BEARING
-                                                                                                                                          Inspect for a good seat around the wheel rim. The final
-                                                                                                                                          inflation pressure is 40 psi.
-                                         VALVE
-                                          STEM
-                                                                                                                        LARGER
-                                                                                                                        GREASE            WHEEL HALF
-                                   RED DOT
-                                    ON TIRE                                                                             SEAL RINGS
-                                                                                                                                                                                                                                        WHEEL HALF
+grease seal ring is installed on the outboard side of the Main Wheel and Tire Assembly, and the
+two larger grease seal rings are installed on the inboard side as shown in Figure 2.
 
-                            BEARING
-                                                                                                             MAIN WHEEL
-                                                                                                             AND TIRE                                                                                                              ALIGN THIS MARK WITH
-            SMALLER GREASE                                                                                                                U 5.00X5-6
-                                                                                                             ASSEMBLY                                                                                                              VALVE STEM NOTCH IN
-                  SEAL RING                                                                                                                                                                                                        OPPOSITE WHEEL HALF
+SNAP RING
+
+GREASE
+SEAL FELT
+
+BEARING
+
+VALVE
+STEM
+
+RED DOT
+ON TIRE
+
+BEARING
+
+SMALLER GREASE
+SEAL RING
+
 MOLDED GREASE
-     SEAL RING
-                                                                                                                                                                                                                    RED DOT
-   SNAP RING                                                                                                                                                                                                        ON TIRE
+SEAL RING
 
+SNAP RING
 
+GREASE
+SEAL FELT
 
-                                               GREASE
-                                               SEAL FELT
+LARGER
+GREASE
+SEAL RINGS
 
+MAIN WHEEL
+AND TIRE
+ASSEMBLY
 
-                                                             FIGURE 2: INSTALLING BEARINGS IN                                                                                   FIGURE 3: NOSE WHEEL
-                                                            THE MAIN WHEEL AND TIRE ASSEMBLY                                                                                      AND TIRE ASSEMBLY
-                                                                                                                                                                                                                             DATE: 8/17/04   REVISION: 0   RV-10   PAGE   46-3
-                       VAN'S AIRCRAFT, INC.                                                                             Step 4: Slide one of the U-1003 Brake Mounts onto the
-                                                                                                                        U-1001-L Main Gear Leg axle as shown in Figure 3.
-                                                                                                                                                                                                                U-1001-L
-                                                                                                                                                                                        U-1003
-                                                                                                                        The hole on one side of the brake mount is still
-                                                                                                                        undersize and needs to be final-drilled. Align the holes                                3/8" DRILL BIT
-  NOTE: The instructions for the installation of the
-                                                                                                                        in the brake mount with the holes in the axle, insert a
-  main gear are given for the left side of the fuselage.
-                                                                                                                        3/8" drill bit through the assembly, and final-drill the
-  The right side is the mirror of the left. Install both
-                                                                                                                        smaller hole.
-  main gear at the same time.
-                                                                                                                        Remove the brake mount and deburr the holes.
-  The fuselage will have to be lifted high enough to
-  slide in the U-1001 Main Gear Legs and mount the
-  Main Wheel and Tire Assemblies.                                                                0.311 (7.9 mm)
-                                                                                                 DRILL BIT
-  Step 1: Slide the U-1001-L Main Gear Leg into the
-  WD-1021-L Left Landing Gear Mount as shown in
-  Figure 1.
+FIGURE 2: INSTALLING BEARINGS IN
+THE MAIN WHEEL AND TIRE ASSEMBLY
 
-  A hole is drilled through the upper end of the landing                                         WD-1021-L                                                                              FIGURE 3: DRILLING THE BRAKE MOUNT
-  gear mount socket. The hole on the top side of the
-  socket is drilled to final size while the corresponding
-  hole in the bottom side is drilled undersize. Align                                                                                                                                                                         AN4-15A
-  the hole in the main gear leg with the hole in the top                                                                Step 5: Make six (three per side) U-1008 Spacers                                                     3 PLACES
-  side of the socket. As shown in Figure 1, insert a                                                                    from AT6-058 X 3/8. Each spacer is 21/32" long.
-  Ø.311 (7.9mm) drill bit through the assembly until                                              U-1001-L
-  it "bottoms out" on edges of the smaller hole. (The                                                                   Step 6: Build the Left Brake Mount Assembly using
-  side of the fuselage will prevent inserting the drill                                                                 the parts and hardware shown in Figure 4. The Brake                U-1010-L
-  bit if it is already in a drill motor.) Now attach a                                                                  Torque Plate is supplied with the brakes.
-  drill motor and final-drill the smaller hole.
+Step 6: Split the Nose Wheel Assembly by removing the bolts holding the two Wheel Halves together.
 
-                                                                                                                                                                                                 U-1021
-                                                                                                                                                                             BRAKE TORQUE
-                                                                                                                                                                                     PLATE
+Step 7: Remove the nut and washers from the valve stem of the U 5.00X5-6IT Tube (not shown in Figure 3). Dust the tube and
+the inside of the U 5.00X5-6 Tire with talcum powder, then mount the tube and tire on the Wheel Halves. The mark indicated in
+Figure 3 on one of the wheel halves should be aligned with the notch for the valve stem in the opposite wheel half. As before, the
+red dot on the tire is installed next to the valve stem. Bolt the wheel halves together.
 
-                                                                FIGURE 1: DRILLING                                                                                            U-1003
-                                                                                                                                                         AN960-416                                                      U-1008
-                                                             THE LANDING GEAR MOUNT                                                                      4 PLACES                                                       3 PLACES
+Step 8: SLOWLY inflate the tire to 25 psi. Deflate it fully and re-inflate it
+SLOWLY a couple more times to work out any wrinkles in the tube.
+Inspect for a good seat around the wheel rim. The final
+inflation pressure is 40 psi.
 
-                                                                                                                                                         AN365-428
-                                                                                                                                                         4 PLACES
-  Step 2: Remove the U-1001-L Main Gear Leg from the WD-1021-L                               AN5-24A                                                                                                          FIGURE 4: LEFT
-  Left Landing Gear Mount and deburr the holes.                                                                                                                                          AN4-6A
-                                                                                                                                                                                                          BRAKE MOUNT ASSEMBLY
-  Step 3: Apply a film of wheel bearing grease to the surfaces of the
-  U-1001-L Main Gear Leg that are not powder coated and that will
-  contact the WD-1021-L Left Landing Gear Mount socket.
-                                                                                                                        Step 7: Slide the Left Brake Mount Assembly on the
-  Slide the main gear leg into the left landing                                                                                                                                                                            U-1001-L
-                                                                                                                        axle of the U-1001-L Main Gear Leg and secure it in
-  gear mount socket, then secure the
-                                                                                                                        place using the hardware shown in Figure 5.
-  main gear leg using the hardware              AN960-516                                                                                                                                                                   LEFT BRAKE
-  called-out in Figure 2.                                                                                                                                                                                                   MOUNT ASSEMBLY
-                                           AN365-524
-                                                                                                       WD-1021-L
-                                                                                                                                                                              AN6-23A
+WHEEL HALF
 
+U 5.00X5-6
 
+WHEEL HALF
 
-                                                                                                                                                                                                                                 AN960-616
-                                                                                                             U-1001-L                                                                                                            2 PLACES
+ALIGN THIS MARK WITH
+VALVE STEM NOTCH IN
+OPPOSITE WHEEL HALF
 
-                                                                                                                                                                                                                                   AN365-624
+RED DOT
+ON TIRE
 
-                                                                        FIGURE 2: SECURING                                                                                           FIGURE 5: INSTALLING THE
-                                                                         THE MAIN GEAR LEG                                                                                         LEFT BRAKE MOUNT ASSEMBLY
-PAGE   46-4    RV-10      REVISION: 0   DATE: 8/17/04
-                       VAN'S AIRCRAFT, INC.                                                     Step 3: Be sure the bearings                                               AN960-616
-                                                                                                that came with the Nose Wheel                                              2 PLACES
-                                                                                                Assembly are fully greased with                                            AN960-616L
-                                                                                                Aeroshell #5 or equivilant. The                                            2 PLACES
-  Step 1: Slide the WD-1031 Axle Flange                                                         bearings have a built-in dust                              NOSE FORK       WASHER 062 25783054    NOSE WHEEL
-  onto the WD-1017 Nose Gear Leg spindle                                                        shield and seal of black rubber.                           ASSEMBLY        2 PLACES               AND TIRE
-  and secure it to the spindle using the                                                        This seal MUST have a coat of
-                                                                                                grease on its perimeter where it                                            AN365-624             ASSEMBLY
-  hardware shown in Figure 1.
-                                                                                                contacts the Nose Wheel
-  Next, slide on the Nose Fork Assembly,                                                        Assembly. Insert the bearings
-  the two K2750-O-219 Belleville Washers,                                                       into the Nose Wheel Assembly
-  and the 5710-243-060 Washer. (The                                                             as shown in Figure 2.
-  belleville washers are "cupped", and to                  AN5-21A      AN365-524
-  function properly, the outside perimeter of                         AN960-516                 Step 4: Slide the U-1009 Axle
-  both washers must be in contact with each                                                     through the bearings, then slide
-                                                                     WD-1031                                                         AN6-65A
-  other when installed.) Finally, thread on                                                     the two U-1023 Spacers over
-  the MS21025-24 Nut.                                                                           the ends of the axle as shown                                 BEARING
-                                                                                                in Figure 2.                                                 2 PLACES
-  Step 2: Thread safety wire through the
-  holes used to secure the Nose Wheel and                                                       Bolt the Nose Wheel and
-                                                                                                                                                           U-1009
-  Tire Assembly to the Nose Fork Assembly,                                                      Tire Assembly, the axle,
-                                                                     SPINDLE OF                 and the spacers to the                            U-1023
-  then attach a spring scale to the end of the
-                                                                     WD-1017                    Nose Fork Assembly                             2 PLACES
-  safety wire. Tighten the MS21025-24 Nut
-  until a force of 26 lbs begins to rotate the                                                  using the hardware
-  Nose Fork Assembly around the spindle.                                                        called-out in Figure 2.
-  Secure the nut with the cotter pin
-  called-out in Figure 1.
+FIGURE 3: NOSE WHEEL
+AND TIRE ASSEMBLY
 
-                                                                                                                                                           FIGURE 2: INSTALLING THE NOSE
-                                                                                                                                                              WHEEL AND TIRE ASSEMBLY
+DATE: 8/17/04  REVISION: 0  RV-10  PAGE 46-3
 
-                                                                                                Step 5: Slide the four
-                                             NOSE FORK                                          J-11968-14 Nose Gear
-                                              ASSEMBLY                                          Elastomers onto the shaft                                     J-11968-14
-                                                                                                of the WD-1016 Nose                                            4 PLACES
-                                                                                                Gear Link Assembly, then
-                                                                                                slide the shaft into the
-                                                                                                WD-1001-D1 Engine
-                                                                                                Mount as shown in Figure
-                                                                                                3 (for clarity, the firewall is
-                                                                                                not shown).
+=== PAGE 46-4 ===
+VAN'S AIRCRAFT, INC.
 
-                                                                                                Slide the VA-143 Bushing
-                                                                                                into the nose gear link
-                                                                                                assembly as shown in
-                                                                                                                                                                                           WD-1016
-                                                                                                Figure 3, then bolt the
-                                                                                                nose gear link assembly to              WD-1001-D1
-                                                                                                the WD-1017 Nose Gear
-                                                                                                Leg using the hardware
-                                                                                                called-out. Secure the nut
-                                                                                                with the cotter pin                                            VA-143
-                                             K2750-O-219
-                                                                                                called-out.
+NOTE: The instructions for the installation of the
+main gear are given for the left side of the fuselage.
+The right side is the mirror of the left. Install both
+main gear at the same time.
 
+The fuselage will have to be lifted high enough to
+slide in the U-1001 Main Gear Legs and mount the
+Main Wheel and Tire Assemblies.
 
-                                                                                                                                                      AN310-7
-                                             5710-243-060
-                                                                                                                                                 SECURE WITH
-                                                                                                                                       MS24665-283 COTTER PIN
-                                                                                                                                                            AN960-716
-                                        MS21025-24                                                                                                          3 PLACES
-                                      SECURE WITH                                                                                                                                                      AN7-26
-                            MS24665-360 COTTER PIN
-                                                                     FIGURE 1: INSTALLING THE                                      FIGURE 3: INSTALLING THE NOSE                            WD-1017
-                                                                       NOSE FORK ASSEMBLY                                               GEAR LINK ASSEMBLY
-PAGE   46-06   RV-10      REVISION: 0   DATE: 8/17/04
-Step 1: Slide the U-1002 Isolator Washer and                   AN5-16A                                        Step 4: Make a brake line (from
-                                                                                                                                                                                      VAN'S AIRCRAFT, INC.
-the WD-1015 Nose Gear Link Collar Assembly                                                                    AT0-032X1/4) to run from the fluid fitting
-onto the shaft of the WD-1016 Nose Gear Link                                                                  on the bottom of the fuselage to the fluid
-Assembly, then install the hardware called out in                                                             fitting on the Left Cylinder Assembly as
-Figure 1.                                                                                                     shown in Figures 3 and 4.
-                                                             WD-1015
-                                                                                                MS21045-5
-The J-11968-14 Nose Gear Elastomers will have                                                                 Slide an AN818-4D Nut and an
-to be compressed in order to install the bolt. Do                                                             AN819-4D Sleeve onto the brake line,
-                                                                                             AN960-516
-this either by pushing down on the forward end                                                                flare the end, then secure it to the fluid
-                                                               U-1002
-of the aircraft and/or lifting up on the aft end.                                                             fitting on the bottom of the fuselage.
-                                                                                                              Bend the brake line so that it runs down
-Two isolator washers are supplied in the kit, but                                                             the forward side of the U-1001-L Main
-only one is required at this time. The remaining       J-11968-14                                             Gear Leg as shown in Figure 3.
+Step 1: Slide the U-1001-L Main Gear Leg into the
+WD-1021-L Left Landing Gear Mount as shown in
+Figure 1.
+
+A hole is drilled through the upper end of the landing
+gear mount socket. The hole on the top side of the
+socket is drilled to final size while the corresponding
+hole in the bottom side is drilled undersize. Align
+the hole in the main gear leg with the hole in the top
+side of the socket. As shown in Figure 1, insert a
+0.311 (7.9mm) drill bit through the assembly until
+it "bottoms out" on edges of the smaller hole. (The
+side of the fuselage will prevent inserting the drill
+bit if it is already in a drill motor.) Now attach a
+drill motor and final-drill the smaller hole.
+
+0.311 (7.9 mm)
+DRILL BIT
+
+WD-1021-L
+
+U-1001-L
+
+FIGURE 1: DRILLING
+THE LANDING GEAR MOUNT
+
+Step 2: Remove the U-1001-L Main Gear Leg from the WD-1021-L
+Left Landing Gear Mount and deburr the holes.
+
+Step 3: Apply a film of wheel bearing grease to the surfaces of the
+U-1001-L Main Gear Leg that are not powder coated and that will
+contact the WD-1021-L Left Landing Gear Mount socket.
+
+Slide the main gear leg into the left landing
+gear mount socket, then secure the
+main gear leg using the hardware
+called-out in Figure 2.
+
+AN960-516
+
+AN365-524
+
+AN5-24A
+
+WD-1021-L
+
+U-1001-L
+
+FIGURE 2: SECURING
+THE MAIN GEAR LEG
+
+Step 4: Slide one of the U-1003 Brake Mounts onto the
+U-1001-L Main Gear Leg axle as shown in Figure 3.
+
+U-1003
+
+U-1001-L
+
+3/8" DRILL BIT
+
+The hole on one side of the brake mount is still
+undersize and needs to be final-drilled. Align the holes
+in the brake mount with the holes in the axle, insert a
+3/8" drill bit through the assembly, and final-drill the
+smaller hole.
+
+Remove the brake mount and deburr the holes.
+
+FIGURE 3: DRILLING THE BRAKE MOUNT
+
+Step 5: Make six (three per side) U-1008 Spacers
+from AT6-058 X 3/8. Each spacer is 21/32" long.
+
+Step 6: Build the Left Brake Mount Assembly using
+the parts and hardware shown in Figure 4. The Brake
+Torque Plate is supplied with the brakes.
+
+AN4-15A
+3 PLACES
+
+U-1010-L
+
+U-1021
+
+BRAKE TORQUE
+PLATE
+
+U-1003
+
+AN960-416
+4 PLACES
+
+AN365-428
+4 PLACES
+
+AN4-6A
+
+U-1008
+3 PLACES
+
+FIGURE 4: LEFT
+BRAKE MOUNT ASSEMBLY
+
+Step 7: Slide the Left Brake Mount Assembly on the
+axle of the U-1001-L Main Gear Leg and secure it in
+place using the hardware shown in Figure 5.
+
+U-1001-L
+
+LEFT BRAKE
+MOUNT ASSEMBLY
+
+AN6-23A
+
+AN960-616
+2 PLACES
+
+AN365-624
+
+FIGURE 5: INSTALLING THE
+LEFT BRAKE MOUNT ASSEMBLY
+
+PAGE 46-4  RV-10  REVISION: 0  DATE: 8/17/04
+
+=== PAGE 46-5 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Slide the U-1005 Spacer and one of the Main Wheel and Tire Assemblies onto the axle of the
+U-1001-L Main Gear Leg. Thread on the U-1004A Axle Nut Standoff and carefully tighten it until there
+is no side play in the wheel, but it still rotates smoothly.
+
+Step 2: Thread the U-01004 off the axle while counting the number of full turns required to remove it (a
+mark on the top side of the U-01004 will make it easier to keep track of a full turn).
+
+Remove the Wheel and Tire Assembly, then thread the U-01004 back on
+the same number of turns that was required to remove it.
+
+Center-punch the axle through one of the holes around the U-01004 (the
+hole opposite to the one selected will also have to be accessed, so don't
+select the top hole). Without moving the U-01004, match-drill the selected
+hole into the axle using an 1/8" drill bit. Insert an 1/8" pin (or another
+drill bit) to hold the U-01004 in position, then center-punch and
+match-drill the axle from the opposite side
+of the U-01004. Remove the pin and
+run the drill bit clear through
+the axle and U-01004.
+
+Remove the U-01004
+and deburr the holes.
+
+U-1001-L
+
+LEFT BRAKE
+MOUNT
+ASSEMBLY
+
+U-1005
+
+U-01004
+
+MAIN WHEEL AND
+TIRE ASSEMBLY
+
+FIGURE 1: DRILLING
+THE AXLE
+
+Step 3: Reinstall the Wheel and Tire Assembly and the U-01004 Axle Nut Standoff, then secure the axle nut with an MS24665-360
+cotter pin (not shown). The cotter pin will have to be bent slightly to clear the wheel while it is being installed.
+
+NOTE: The fuselage can now be lowered
+onto the main gear.
+
+Step 4: Coat the VA-144 Bushings with
+wheel bearing grease, then slide them into
+the WD-1001-D1 Engine Mount as shown
+in Figure 2.
+
+Attach the WD-1017 Nose Gear Leg
+Assembly to the engine mount using the
+hardware called-out. Secure the nuts with
+MS24665-132 cotter pins.
+
+VA-144
+2 PLACES
+
+WD-1001-D1
+
+AN5-22
+2 PLACES
+
+WD-1017
+
+AN960-516
+6 PLACES
+
+AN310-5
+2 PLACES
+
+FIGURE 2: ATTACHING THE NOSE GEAR LEG ASSEMBLY
+
+Step 5: Thread the screws and the MS15002-1
+Grease Fitting into the WD-1030 Nose Fork as
+shown in Figure 3.
+
+SCREW 5/16 X 24 X 3/4
+2 PLACES
+
+WD-1030
+
+MS15002-1
+
+FIGURE 3: NOSE FORK ASSEMBLY
+
+DATE: 2/20/19  REVISION: 2  RV-10  PAGE 46-5
+
+=== PAGE 46-6 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Slide the WD-1031 Axle Flange
+onto the WD-1017 Nose Gear Leg spindle
+and secure it to the spindle using the
+hardware shown in Figure 1.
+
+Next, slide on the Nose Fork Assembly,
+the two K2750-O-219 Belleville Washers,
+and the 5710-243-060 Washer. (The
+belleville washers are "cupped", and to
+function properly, the outside perimeter of
+both washers must be in contact with each
+other when installed.) Finally, thread on
+the MS21025-24 Nut.
+
+Step 2: Thread safety wire through the
+holes used to secure the Nose Wheel and
+Tire Assembly to the Nose Fork Assembly,
+then attach a spring scale to the end of the
+safety wire. Tighten the MS21025-24 Nut
+until a force of 26 lbs begins to rotate the
+Nose Fork Assembly around the spindle.
+Secure the nut with the cotter pin
+called-out in Figure 1.
+
+AN5-21A
+
+AN365-524
+
+AN960-516
+
+WD-1031
+
+SPINDLE OF
+WD-1017
+
+NOSE FORK
+ASSEMBLY
+
+K2750-O-219
+
+5710-243-060
+
+MS21025-24
+SECURE WITH
+MS24665-360 COTTER PIN
+
+26 LBS
+
+FIGURE 1: INSTALLING THE
+NOSE FORK ASSEMBLY
+
+Step 3: Be sure the bearings
+that came with the Nose Wheel
+Assembly are fully greased with
+Aeroshell #5 or equivilant. The
+bearings have a built-in dust
+shield and seal of black rubber.
+This seal MUST have a coat of
+grease on its perimeter where it
+contacts the Nose Wheel
+Assembly. Insert the bearings
+into the Nose Wheel Assembly
+as shown in Figure 2.
+
+Step 4: Slide the U-1009 Axle
+through the bearings, then slide
+the two U-1023 Spacers over
+the ends of the axle as shown
+in Figure 2.
+
+Bolt the Nose Wheel and
+Tire Assembly, the axle,
+and the spacers to the
+Nose Fork Assembly
+using the hardware
+called-out in Figure 2.
+
+AN960-616
+2 PLACES
+AN960-616L
+2 PLACES
+
+NOSE FORK
+ASSEMBLY
+
+WASHER 062 25783054
+2 PLACES
+
+NOSE WHEEL
+AND TIRE
+ASSEMBLY
+
+AN365-624
+
+AN6-65A
+
+BEARING
+2 PLACES
+
+U-1009
+
+U-1023
+2 PLACES
+
+FIGURE 2: INSTALLING THE NOSE
+WHEEL AND TIRE ASSEMBLY
+
+Step 5: Slide the four
+J-11968-14 Nose Gear
+Elastomers onto the shaft
+of the WD-1016 Nose
+Gear Link Assembly, then
+slide the shaft into the
+WD-1001-D1 Engine
+Mount as shown in Figure
+3 (for clarity, the firewall is
+not shown).
+
+Slide the VA-143 Bushing
+into the nose gear link
+assembly as shown in
+Figure 3, then bolt the
+nose gear link assembly to
+the WD-1017 Nose Gear
+Leg using the hardware
+called-out. Secure the nut
+with the cotter pin
+called-out.
+
+J-11968-14
+4 PLACES
+
+WD-1016
+
+WD-1001-D1
+
+VA-143
+
+AN310-7
+SECURE WITH
+MS24665-283 COTTER PIN
+
+AN960-716
+3 PLACES
+
+AN7-26
+
+WD-1017
+
+FIGURE 3: INSTALLING THE NOSE
+GEAR LINK ASSEMBLY
+
+PAGE 46-06  RV-10  REVISION: 0  DATE: 8/17/04
+
+=== PAGE 46-7 ===
+VAN'S AIRCRAFT, INC.
+
+Step 1: Slide the U-1002 Isolator Washer and
+the WD-1015 Nose Gear Link Collar Assembly
+onto the shaft of the WD-1016 Nose Gear Link
+Assembly, then install the hardware called out in
+Figure 1.
+
+The J-11968-14 Nose Gear Elastomers will have
+to be compressed in order to install the bolt. Do
+this either by pushing down on the forward end
+of the aircraft and/or lifting up on the aft end.
+
+Two isolator washers are supplied in the kit, but
+only one is required at this time. The remaining
 isolator washer is to be installed later, after the
 nose gear elastomers are compressed and take
 on a permanent set.
 
+AN5-16A
 
-                                                                                                                                                                           AN818-4D
-                                                                                                                                                                         AN819-4D
-                                                                                                                                                                                                                          U-1001-L
+WD-1015
 
-                                                                                                                                                                                      BRAKE LINE
+MS21045-5
 
+AN960-516
 
+U-1002
 
-                                                                                                                                                               FIGURE 3: ATTACHING THE
-                                                                                                                                                                TOP OF THE BRAKE LINE
+J-11968-14
 
-   FIGURE 1: INSTALLING THE                                                           WD-1016
-NOSE GEAR LINK COLLAR ASSEMBLY                                                                                                                          U-1001-L
+FIGURE 1: INSTALLING THE
+NOSE GEAR LINK COLLAR ASSEMBLY
 
-Step 2: Setup the Left and         TORQUE
-Right Cylinder Assemblies            PLATE                                                                                                                             FRICTION
-as shown in Figure 2. Apply                                                                                                                                            TAPE
+Step 2: Setup the Left and
+Right Cylinder Assemblies
+as shown in Figure 2. Apply
 a thread sealant, such as
 Lubon #404 or equivalent, to the
 pipe threads of the AN822-4D
 Tube/Pipe Elbow before threading
 them into the top of the Cylinder
 Assemblies (the Bleeder Valve will
-                                                                                                              Step 5: As shown in Figure 4,
 have to be moved to the bottom of
-                                                                                                              bend the brake line around the
 one of the Cylinder Assemblies).
-                                                                                                              bottom of the U-1001-L Main Gear
-                                                                                                              Leg, cut the brake line to length,
-Step 3: Slide the studs of the                                                                     AN822-4D   slide on an AN818-4D Nut and an              BRAKE
+
+Step 3: Slide the studs of the
 Cylinder Assembly into the Torque
-                                                                                                              AN819-4D Sleeve, flare the end,                LINE
 Plate, place the Back Plate behind
-                                                                                                              then secure it to the fluid fitting on
 the Brake Disk, then bolt the Back
-                                                                                                              the Left Cylinder Assembly.
 Plate and Cylinder Assembly
 together.
-                                                                                                              Step 6: Secure the brake line to the                   AN818-4D
-                                                                                                              U-1001-L Main Gear Leg with
-                                                                                                              "Friction Tape" (found at most                        AN819-4D
-                                                                                                              hardware stores) in at least four
-                                                                                                              places. First wrap the tape around
-                                  BACK PLATE
-                                                                                                              the main gear leg alone, then wrap                    LEFT CYLINDER
-                                                                LEFT CYLINDER
-                                                                                                              it around the brake line as well.                         ASSEMBLY
-                                          BRAKE DISK                ASSEBMLY
-                                                                         BLEEDER
-                                                                           VALVE
 
-                                                                            RIGHT CYLINDER
-                                             FIGURE 2: INSTALLING                ASSEBMLY         BACK                                                 FIGURE 4: ATTACHING THE BOTTOM
-                                             THE BRAKE ASSEMBLY                                  PLATE                                                        OF THE BRAKE LINE
-                                                                                                                                                                                          DATE: 8/17/04   REVISION: 0   RV-10   PAGE   46-07
-                   VAN'S AIRCRAFT, INC.
+TORQUE
+PLATE
 
+WD-1016
 
+AN822-4D
 
+BACK PLATE
 
-                                                     THIS PAGE INTENTIONALLY LEFT BLANK
+BRAKE DISK
 
+LEFT CYLINDER
+ASSEBMLY
 
+BLEEDER
+VALVE
 
+RIGHT CYLINDER
+ASSEBMLY
 
-PAGE   46-08   RV-10   REVISION: 0   DATE: 8/17/04
-
+BACK
+PLATE
+
+FIGURE 2: INSTALLING
+THE BRAKE ASSEMBLY
+
+Step 4: Make a brake line (from
+AT0-032X1/4) to run from the fluid fitting
+on the bottom of the fuselage to the fluid
+fitting on the Left Cylinder Assembly as
+shown in Figures 3 and 4.
+
+Slide an AN818-4D Nut and an
+AN819-4D Sleeve onto the brake line,
+flare the end, then secure it to the fluid
+fitting on the bottom of the fuselage.
+Bend the brake line so that it runs down
+the forward side of the U-1001-L Main
+Gear Leg as shown in Figure 3.
+
+AN818-4D
+AN819-4D
+
+U-1001-L
+
+BRAKE LINE
+
+FIGURE 3: ATTACHING THE
+TOP OF THE BRAKE LINE
+
+U-1001-L
+
+FRICTION
+TAPE
+
+Step 5: As shown in Figure 4,
+bend the brake line around the
+bottom of the U-1001-L Main Gear
+Leg, cut the brake line to length,
+slide on an AN818-4D Nut and an
+AN819-4D Sleeve, flare the end,
+then secure it to the fluid fitting on
+the Left Cylinder Assembly.
+
+Step 6: Secure the brake line to the
+U-1001-L Main Gear Leg with
+"Friction Tape" (found at most
+hardware stores) in at least four
+places. First wrap the tape around
+the main gear leg alone, then wrap
+it around the brake line as well.
+
+BRAKE
+LINE
+
+AN818-4D
+
+AN819-4D
+
+LEFT CYLINDER
+ASSEMBLY
+
+FIGURE 4: ATTACHING THE BOTTOM
+OF THE BRAKE LINE
+
+DATE: 8/17/04  REVISION: 0  RV-10  PAGE 46-07
+
+=== PAGE 46-8 ===
+VAN'S AIRCRAFT, INC.
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+PAGE 46-08  RV-10  REVISION: 0  DATE: 8/17/04

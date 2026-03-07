@@ -1,360 +1,268 @@
-                                                                                                           VAN'S AIRCRAFT, INC.
+SECTION 32: TAILCONE ATTACHMENT
+Van's Aircraft, Inc.
+RV-10
+Date: 07/24/14
 
+=== PAGE 1 ===
+PAGE 32-1 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+SECTION 32: TAILCONE ATTACHMENT
 
- SECTION 32:
- TAILCONE                                                          F-1006D
-                                                                 BULKHEAD
+[Large isometric drawing showing the tailcone being attached to the mid fuselage section, viewed from the left rear quarter. The tailcone structure with bulkheads and side skins is shown mating to the mid fuselage with baggage ribs and mid side skins visible.]
 
+Part callouts:
+- F-1006D BULKHEAD
+- F-1006C BULKHEAD
+- F-1032-R TAILCONE LONGERON
+- F-1073-R TAILCONE SIDE SKIN
+- F-1046-R MID FUSE LONGERON
+- F-1070-R MID SIDE SKIN
+- F-1006B BULKHEAD
+- F-1078 TAILCONE FORWARD BOTTOM SKIN
+- F-1019-R INBD BAGGAGE RIB
+- F-1020-R MID BAGGAGE RIB
+- F-1021-R OUTBD BAGGAGE RIB
+- F-1019-L INBD BAGGAGE RIB
+- F-1020-L MID BAGGAGE RIB
+- F-1021-L OUTBD BAGGAGE RIB
+- F-1070-L MID SIDE SKIN
+- F-1073-L TAILCONE SIDE SKIN
+- F-1006A BULKHEAD
+- F-1029-L AND -R BELLCRANK RIBS
+- F-1077 MID BOTTOM SKIN
 
+=== PAGE 2 ===
+PAGE 32-2 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+[Drawing showing the F-1006 Bulkhead assembly from the left side with drilling and dimpling callouts]
 
- ATTACHMENT                                               F-1006C
-                                                        BULKHEAD
+Part callouts:
+- F-1006C
+- F-1006B
+- F-1029-R
+- F-1029-L
+- FINAL-DRILL #30 (STEP 1) (six holes indicated on top edge)
+- FINAL-DRILL #40, 4 PLACES
+- DIMPLE THESE TWO #30 HOLES (STEP 8)
 
+Dimensions for 5/8" holes:
+- O5/8
+- 11/16
+- 9/32
+- O5/8
+- 11/16
+- 9/32
 
+FIGURE 1: DRILLING AND DIMPLING THE F-1006 BULKHEAD
 
-                                                          F-1032-R
-                                                         TAILCONE
-                                                        LONGERON
+Step 1: Final-Drill #30 the six holes, indicated in Figure 1, which are common to the F-1006B and C Bulkheads. Final-Drill the same six holes on the other end of the F-1006B Bulkhead which are common to the F-1006A Bulkhead (not shown in the figure).
 
+Step 2: Final-Drill #40 all of the 3/32" holes along the top edge of the F-1006B Bulkhead and the four nutplate attachment rivet holes in the small flange on the top of the bulkhead.
 
+Step 3: Using a Unibit, drill two 5/8" holes in the F-1006B Bulkhead according to the dimensions given in Figure 1. Notice that drilling through the bulkhead will also create notches in the forward flanges of the F-1029-L and -R Bellcrank Ribs. Since only one side of the unibit will be drilling through the flange, the unibit will tend to wander. Prevent this from happening by making center-marks at the hole locations (the center-marks need to be larger than the holes being drilled), and making sure the unibit stays centered on these marks while drilling. In order to keep the flanges of the bellcrank ribs tight against the bulkhead, install clecos in the flange holes above and below the locations to be drilled. Install the clecos from the back side of the bulkhead so they don't interfere with the drill. Snap bushings for the rudder cables are installed in these holes later. (Later kits have these holes punched in the bellcrank ribs and bulkhead. For these kits this step can be ignored.)
 
-                                                          F-1073-R
-                                                         TAILCONE
-                                                         SIDE SKIN
+Step 4: Remove the F-1006B Bulkhead and deburr the holes drilled in the previous steps.
 
-                                             F-1046-R
-                                             MID FUSE
-                                             LONGERON
+Step 5: Dimple (flush on the top side) the four #40 nutplate attachment rivet holes in the small flange on the top of the F-1006B Bulkhead.
 
+Step 6: Dimple (flush on the forward side) the #40 holes along the top edge of the F-1006B Bulkhead.
 
+Step 7: Dimple the three #40 holes in both the F-1006A and C Bulkheads for the dimples in the F-1006B Bulkhead.
 
+Step 8: Dimple (flush on the forward side) the two #30 holes in the F-1006B Bulkhead and the underlying forward flanges of the F-1029 Bellcrank Ribs. The two holes are indicated in Figure 1.
 
-                                        F-1070-R           F-1006B
-                                        MID SIDE SKIN    BULKHEAD
+=== PAGE 3 ===
+PAGE 32-3 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
+Step 1: Remove the F-1006B Bulkhead from the tailcone and cleco it to the aft flanges of the F-1019, F-1020, and F-1021 Baggage Ribs. Do not cleco the bulkhead flange to the mid fuse skins.
 
-                                                                     F-1078
-                                                         TAILCONE FORWARD
-                                                               BOTTOM SKIN
+Step 2: Cleco the tailcone skins to the mid fuse skins as shown in Figure 1. All of the mid fuse skins are clecoed to the outside of the tailcone skins. Notice the following:
 
+In the bottom blow-up, the triangular portion of the F-1073-L Tailcone Side Skin slips between the F-1070-L Mid Side Skin and the F-10100A Baggage Door Shim. The holes in the mid side skin which are common to the baggage door shim are match-drilled into the tailcone side skin in a later step.
 
-                                                                                                                                 F-1073-L
-                                                                                                                                 TAILCONE
-                                                                              F-1019-L                                           SIDE SKIN
-                             F-1019-R
-                                                                              INBD BAGGAGE
-                      INBD BAGGAGE
-                                                                              RIB
-                                  RIB                                                                                            F-1006A
-                        F-1020-R                                              F-1020-L                                           BULKHEAD
-                  MID BAGGAGE                                                 MID BAGGAGE
-                             RIB                                              RIB
-       F-1021-R                                                                               F-1029-L AND -R
-OUTBD BAGGAGE                                                                                 BELLCRANK RIBS
-            RIB                                                               F-1021-L
-                                                                              OUTBD BAGGAGE
-                                                                              RIB
+In the middle blow-up, the F-1006B Bulkhead and the F-1078 Tailcone Forward Bottom Skin are captured between the F-1019, -1020, and -1021 Baggage Ribs and the F-1077 Mid Bottom Skin.
 
+Step 3: Final-Drill #30 the holes common to the aft flange of the F-1019, F-1020, and F-1021 Baggage Ribs and the F-1006B Bulkhead.
 
+Step 4: The F-1046-R Mid Fuse Longeron fits on top of the F-1032-R Tailcone Longeron as shown in the top blow-up of Figure 1. Make sure the vertex of the two longerons are aligned, then clamp them together.
 
-                                                                              F-1070-L
-                                                                              MID SIDE SKIN
+Match-Drill the four #30 holes in the aft end of the mid fuse longeron into the tailcone longeron using a #30 drill, then final-drill with a #12 drill. Drill and bolt the two aft most holes first, then uncleco the upper portion of the F-1006C Bulkhead to gain access for drilling and bolting the two forward holes. Be careful to drill perpendicular to the longerons.
 
-                                                                                                                DATE: 07/24/14 REVISION: 0   RV-10   PAGE   32-1
-                        VAN'S AIRCRAFT, INC.
+Repeat this step for the left longerons.
 
-                                                                                              F-1006C
+The hardware bolting the longerons together will, at times, have to be removed and reinstalled to gain access when riveting the skins.
 
+[Top blow-up detail showing:]
+- AN3-5A
+- F-1046-R
+- F-1032-R
+- F-1070-R
+- AN960-10
+- AN365-1032
+- F-1073-R
 
+[Main assembly drawing showing:]
+- F-1077
+- F-1006B
+- F-1078
+- F-1073-R
+- F-1019-R
+- F-1019-L
+- F-1020-R
+- F-1020-L
+- F-1021-R
+- F-1021-L
+- F-1070-R
+- F-1070-L
+- F-1073-L
+- F-1023-L
+- F-10100A
 
+FIGURE 1: CLECOING THE TAILCONE AND MID FUSE
 
-                                                                                                                  F-1006B
+=== PAGE 4 ===
+PAGE 32-4 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-                                                                                                                                                                                        F-1029-R
+Step 1: Make shims from some scrap .025" or .032" aluminum sheet to fit between the F-1074 Tailcone Forward Top Skin and the aft ends of the F-1046 Mid Fuse Longerons as shown in the blow-up of Figure 1.
 
-                                                                                                                                                                             F-1029-L
+Step 2: Cleco the F-1074 Tailcone Forward Top Skin to the tailcone as shown in Figure 1.
 
+[Drawing showing:]
+- F-1074
+- SHIM
+- F-1046-L
+- F-1070-L
+- MAKE SHIM TO COVER THIS AREA
 
-        FINAL-DRILL #30                                                                                                                                    FINAL-DRILL #40
-               (STEP 1)                                                                                                                                          4 PLACES
+FIGURE 1: CLECOING THE TAILCONE FORWARD TOP SKIN
 
+Step 3: Match-Drill #40 the holes of the F-1070-L Mid Side Skin and the three holes of the F-1074 Tailcone Forward Top Skin into the F-1046-L Mid Fuse Longeron as shown in Figure 2. Have the shim, made in step 1, in place when match-drilling the three holes of the tailcone forward top skin. Repeat for the F-1046-R Mid Fuse Longeron on the right side of the fuselage.
 
-                                                                                                                                                    DIMPLE THESE TWO
-                                                                                                                                                            #30 HOLES
-                                                                                                                                                              (STEP 8)
+FIGURE 2: MATCH-DRILLING THE LONGERONS
+[Drawing showing:]
+- F-1074
+- SHIM
+- F-1046-L
+- F-1070-L
 
+Step 4: As indicated in Figure 3, match-drill #40 the six holes in the F-1070-L Mid Side Skin (aft of the baggage door cut-out) into the F-1073-L Tailcone Side Skin. Be sure to drill perpendicular to the skin since these holes are common to the preexisting holes in the F-1023-L Baggage Floor Angle and the F-10100A Baggage Door Shim.
 
+Machine countersink these six holes in the mid side skin for the heads of AN426AD3 rivets.
 
+Step 5: Final-Drill #40 the holes along the angled edge of the baggage door cut-out (see Figure 3) common to the F-1070-L Mid Side Skin and F-1073-L Tailcone Side Skin.
 
-   Step 1: Final-Drill #30 the six holes, indicated in Figure 1,
-   which are common to the F-1006B and C Bulkheads. Final-Drill
-   the same six holes on the other end of the F-1006B Bulkhead which
-   are common to the F-1006A Bulkhead (not shown in the figure).
+Step 6: Final-Drill #40 the holes common to all of the skins and the F-1006A, B, C, and D Bulkheads (the F-1006B and C Bulkheads are not shown in Figure 3).
 
-  Step 2: Final-Drill #40 all of the 3/32" holes along the top edge of the F-1006B
-  Bulkhead and the four nutplate attachment rivet holes in the small flange on the
-  top of the bulkhead.
+Step 7: Match-Drill #40 the row of holes along the aft edge of the F-1077 Mid Bottom Skin into the F-1078 Tailcone Forward Bottom Skin.
 
-  Step 3: Using a Unibit, drill two 5/8" holes in the F-1006B Bulkhead according to the dimensions
-  given in Figure 1. Notice that drilling through the bulkhead will also create notches in the forward flanges
-  of the F-1029-L and -R Bellcrank Ribs. Since only one side of the unibit will be drilling through the flange,
-  the unibit will tend to wander. Prevent this from happening by making center-marks at the hole locations
-  (the center-marks need to be larger than the holes being drilled), and making sure the unibit stays
-  centered on these marks while drilling. In order to keep the flanges of the bellcrank ribs tight against the
-  bulkhead, install clecos in the flange holes above and below the locations to be drilled. Install the clecos
-  from the back side of the bulkhead so they don't interfere with the drill. Snap bushings for the rudder
-  cables are installed in these holes later. (Later kits have these holes punched in the bellcrank ribs and
-  bulkhead. For these kits this step can be ignored.)
+Step 8: Remove the F-1074 Tailcone Forward Top Skin. Machine countersink the holes in the F-1070-L and -R Mid Side Skins and the F-1046-L and -R Mid Fuse Longerons as instructed in Figure 3.
 
-   Step 4: Remove the F-1006B Bulkhead and deburr the holes drilled in the previous steps.
+FIGURE 3: MATCH-DRILLING AND FINAL-DRILLING
+[Drawing showing the left side of the fuselage with labeled parts and callouts:]
+- F-1074
+- F-1006D
+- MACHINE CSK UNDERLYING SKIN, SHIM, AND LONGERON FOR #40 DIMPLES IN THIS SKIN. BOTH SIDES. (STEP 8)
+- F-1073-L
+- MACHINE CSK SKIN FOR THE HEADS OF AN426AD3 RIVETS. BOTH SIDES. (STEP 8)
+- F-1070-L
+- F-1006A
+- F-1023-L
+- MATCH-DRILL AND MACHINE CSK (STEP 4)
+- FINAL-DRILL (STEP 5)
+- F-1078
+- AFT EDGE OF F-1077
 
-   Step 5: Dimple (flush on the top side) the four #40 nutplate attachment rivet holes in the small flange on
-   the top of the F-1006B Bulkhead.
+=== PAGE 5 ===
+PAGE 32-5 | RV-10 | REVISION: 0 | DATE: 07/24/14
 
-   Step 6: Dimple (flush on the forward side) the #40 holes along the top edge of the F-1006B Bulkhead.
+Step 1: Remove the tailcone from the mid fuselage and the F-1006 Bulkhead from the tailcone. Deburr all holes that have been drilled according to this section, and remove any chips from between the F-1070 Mid Side Skins and the F-1046 Mid Fuse Longerons.
 
-  Step 7: Dimple the three #40 holes in both the F-1006A and C Bulkheads for the dimples in the F-1006B
-  Bulkhead.                                                                                                       FIGURE 1: DRILLING AND DIMPLING
-                                                                                                                       THE F-1006 BULKHEAD
-  Step 8: Dimple (flush on the forward side) the two #30 holes in the F-1006B Bulkhead and the underlying
-  holes in the forward flanges of the F-1029 Bellcrank Ribs. The two holes are indicated in Figure 1.
+Step 2: Dimple the holes in the skin flanges of the F-1006A, B, C, and D Bulkheads. Do not dimple the holes in the two tabs on both F-1006A and C Bulkheads which back-up the F-1032 and F-1046 Longerons.
 
+Step 3: In all of the skins, dimple the holes which are common to the flanges of the F-1006A, B, C, and D Bulkheads.
 
-PAGE   32-2    RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Remove the F-1006B Bulkhead from the tailcone and cleco it to the aft flanges of the F-1019,
-                                                                                                                                                                                              VAN'S AIRCRAFT, INC.
-F-1020, and F-1021 Baggage Ribs. Do not cleco the bulkhead flange to the mid fuse skins.
-                                                                                                                                 AN3-5A
-Step 2: Cleco the tailcone skins to the mid fuse skins as shown in Figure 1. All of the mid fuse skins
-are clecoed to the outside of the tailcone skins. Notice the following:                                       F-1046-R
-                                                                                                                                                      F-1032-R
-                                                                                                           F-1070-R
-In the bottom blow-up, the triangular portion of the F-1073-L Tailcone Side Skin slips between the
-F-1070-L Mid Side Skin and the F-10100A Baggage Door Shim. The holes in the mid side skin which
-are common to the baggage door shim are match-drilled into the tailcone side skin in a later step.
+Step 4: Dimple the aft most row of holes in the F-1077 Mid Bottom Skin (see Figure 2) and the corresponding holes in the F-1078 Tailcone Forward Bottom Skin.
 
-In the middle blow-up, the F-1006B Bulkhead and the F-1078 Tailcone Forward Bottom Skin are
-captured between the F-1019, -1020, and -1021 Baggage Ribs and the F-1077 Mid Bottom Skin.
-                                                                                                                                                     AN960-10
-Step 3: Final-Drill #30 the holes common to the aft flange of the F-1019, F-1020, and F-1021 Baggage                                                 AN365-1032
-Ribs and the F-1006B Bulkhead.                                                                                                                                    F-1073-R
+Step 5: Dimple the ten holes along the top edge of the triangular, projected portion of the F-1073-L Tailcone Side Skin (see Figure 1). Dimple the corresponding holes in the F-1070-L Mid Side Skin.
 
-Step 4: The F-1046-R Mid Fuse Longeron fits on top of the F-1032-R Tailcone Longeron as shown in
-the top blow-up of Figure 1. Make sure the vertex of the two longerons are aligned, then clamp them
-together.
-                                                                                                                      F-1073-R
-Match-Drill the four #30 holes in the aft end of the mid fuse longeron into the tailcone longeron                                                                 F-1078
-using a #30 drill, then final-drill with a #12 drill. Drill and bolt the two aft most holes first,
-then uncleco the upper portion of the F-1006C Bulkhead to gain access for drilling
-and bolting the two forward holes. Be careful to drill perpendicular to the
-longerons.
+Step 6: Dimple the three holes in both sides of the F-1074 Tailcone Forward Top Skin (see Page 33-4, Figure 3) which are common to the F-1046 Mid Fuse Longerons.
 
-Repeat this step for the left longerons.                                                                                                     F-1077
-                                                                                                                                                      F-1006B
-The hardware bolting the longerons together will, at times,                                                                                                                               F-1006B
-have to be removed and reinstalled to gain access
-when riveting the skins.
-                                                                                                                                                                                                                                              F-1073-L
+Step 7: If not already done, set rivets in the six indicated holes (see Figure 1) in the F-1078 Tailcone Forward Bottom Skin, the F-1029 Bellcrank Ribs, and the F-1047 Stiffeners using the rivets called-out.
 
+Step 8: Rivet the two nutplates to the small flange of the F-1006B Bulkhead using the rivets called-out in Figure 1.
 
+Step 9: Rivet the F-1006B Bulkhead to the F-1006A and C Bulkheads using the rivets called-out in Figure 1. DO NOT set any rivets in the holes indicated in the figure.
 
+Step 10: Rivet the F-1006B Bulkhead to the F-1029 Bellcrank Ribs using the rivets called-out in Figure 1.
 
-                                                              F-1046-R
+FIGURE 1: RIVETING THE F-1006B BULKHEAD
+[Drawing showing the F-1006B bulkhead with rivet callouts:]
+- F-1006C
+- AN470AD4-4, F-1006B TO F-1006A AND C RIVETS, 6 PLACES/SIDE
+- DO NOT RIVET
+- F-1006B
+- AN426AD3-3.5, 2 PLACES/NUTPLATE
+- K1000-08, 2 PLACES
+- AN426AD3-4, TOP HOLE F-1029 TO F-1006B, REMAINING HOLES IN F-1029 AN470AD4-4
+- F-1047F-R
+- F-1078
+- F-1047F-L
+- AN426AD3-3.5
+- DIMPLE THESE HOLES IN F-1073-L AND F-1070-L (STEP 6 [sic])
+- F-1073-R
+- F-1029-R
+- F-1029-L
+- F-1006A
 
+Step 11: Cleco the tailcone to the mid fuselage, then bolt the F-1046 Mid Fuse Longerons to the F-1032 Tailcone Longerons using the same hardware as before.
 
+NOTE: The F-1074 Tailcone Forward Top Skin is riveted after the upper cabin is installed in a later section. Rivet call-outs for the other skins are found on Page 33-6.
 
+Step 12: Rivet the skins to the F-1006A, B, and C Bulkheads. As indicated in Figure 2, do not set the three rivets at the top of the F-1070-L and -R Mid Side Skins which are common to the F-1074 Tailcone Forward Top Skin.
 
-                                                       F-1070-R                                                                                                                            F-1073-L
+Step 13: Set the rivets in the row of holes along the aft edge of the F-1077 Mid Bottom Skin.
 
+Step 14: Finish riveting the aft portion of the F-1077 Mid Bottom Skin to the F-1019, -1020, and -1021 Baggage Ribs.
 
+Step 15: Rivet the F-1070-L Mid Side Skin to the F-10100A Baggage Door Shim and F-1023-L Baggage Floor Angle.
 
+Step 16: Rivet the F-1070-L and -R Mid Side Skins to the F-1046-L and -R Mid Fuse Longerons respectively, as indicated in the Figure 2, do not set any rivets in the holes which are common to the F-1074 Tailcone Forward Top Skin.
 
-                                                                                                                                                                               F-1023-L
+Step 17: Rivet the F-1019, -1020, and -1021 Baggage Ribs to the F-1006B Bulkhead using the rivets called-out in Figure 3.
 
+Step 18: Install the two snap bushings called-out in Figure 3.
 
-                                                                                                                                          F-1019-R                           F-10100A
+FIGURE 2: RIVETING THE SKINS
+[Drawing showing the right side of the fuselage with callouts:]
+- DO NOT SET RIVETS IN THESE THREE HOLES
+- F-1006A
+- F-1070-L
+- F-1023-L
+- F-1078
+- AFT EDGE OF F-1077
 
-               F-1021-R                                                                                  F-1019-L
-        F-1020-R
-                                                                                                                                                                                                                                   F-1070-L
-     F-1019-R                                                                                            F-1020-L
-
-
-
-                                                                                                         F-1021-L
-
-
-
-                                                                                                                                          FIGURE 1: CLECOING THE
-                                                                                                         F-1070-L                         TAILCONE AND MID FUSE
-
-                                                                                                                                                                                                      DATE: 07/24/14 REVISION: 0   RV-10      PAGE   32-3
-                      VAN'S AIRCRAFT, INC.                                                                                           Step 4: As indicated in Figure 3, match-drill #40 the six holes in the F-1070-L Mid Side Skin (aft of the bottom edge of the
-                                                                                                                                     baggage door cut-out) into the F-1073-L Tailcone Side Skin. Be sure to drill perpendicular to the skin since these holes are
-                                 F-1074                                                                                              common to the preexisting holes in the F-1023-L Baggage Floor Angle and the F-10100A Baggage Door Shim.
-  Step 1: Make shims from some scrap
-                                                                                                                                     Machine countersink these six holes in the mid side skin for the heads of AN426AD3 rivets.
-  .025" or .032" aluminum sheet to fit
-  between the F-1074 Tailcone Forward
-                                                                                                                                     Step 5: Final-Drill #40 the holes along the angled edge of the baggage door cut-out (see Figure 3) common to the F-1070-L
-  Top Skin and the aft ends of the F-1046
-                                                                                                                                     Mid Side Skin and F-1073-L Tailcone Side Skin.
-  Mid Fuse Longerons as shown in
-  the blow-up of Figure 1.
-                                                                                                                                     Step 6: Final-Drill #40 the holes common to all of the skins and the F-1006A, B, C, and D Bulkheads (the F-1006B and C
-  Step 2: Cleco the F-1074 Tailcone                                                                                                  Bulkheads are not shown in Figure 3).
-  Forward Top Skin to the
-  tailcone as shown                                                                                                                  Step 7: Match-Drill #40 the row of holes along the aft edge of the F-1077 Mid Bottom Skin into the F-1078 Tailcone Forward
-  in Figure 1.                                                                                                                       Bottom Skin.
-
-                                                                                                                                     Step 8: Remove the F-1074 Tailcone Forward Top Skin. Machine countersink the holes in the F-1070-L and -R Mid Side
-                                                                                                                                     Skins and the F-1046-L and -R Mid Fuse Longerons as instructed in Figure 3.
-
-                                                                                                                                                                                                                    MACHINE CSK UNDERLYING SKIN, SHIM,
-                                                                                                                       MAKE                                                                                         AND LONGERON FOR #40 DIMPLES IN
-                                                                                                                       SHIM TO                                                                                      THIS SKIN. BOTH SIDES.
-                                                                                                                       COVER                                                                                        (STEP 8)
-                                                                                                                       THIS
-                                                                                                                                                                                                                                       F-1074
-                                                                                                                       AREA
-
-                                                                                                                                                                           F-1006D
-                                                                                    FIGURE 1: CLECOING THE                                                                                                                                                     F-1073-L
-                                                                                  TAILCONE FORWARD TOP SKIN
-
-  Step 3: Match-Drill #40 the holes of the F-1070-L Mid Side Skin and the three holes of the F-1074 Tailcone Forward Top Skin into
-                                                                                                                                                                MACHINE CSK SKIN
-  the F-1046-L Mid Fuse Longeron as shown in Figure 2. Have the shim, made in step 1, in place when match-drilling the three
-                                                                                                                                                                FOR THE HEADS OF
-  holes of the tailcone forward top skin. Repeat
-  for the F-1046-R Mid Fuse Longeron                                                                                                                            AN426AD3 RIVETS.
-                                                                                                                                                                BOTH SIDES.
-  on the right side of the fuselage.
-                                                                                                                                                                (STEP 8)
-                                                          F-1074
-
-                                                                                                                                                             F-1070-L
-                                                           SHIM
-
-                                                                                                                                                                         F-1006A
-
-
-
-                                                                                                                                                              F-1023-L
-                                                                                                                                                                                                     FINAL-DRILL
-                                                                                                                                                                                                     (STEP 5)
-
-                                          F-1046-L                                                                                                     MATCH-DRILL AND
-                                                                                                                                                          MACHINE CSK
-                                                                                                                                                               (STEP 4)
-
-
-
-
-                                                        F-1070-L                                                                                                                                      F-1078
-                                                                                                   FIGURE 2: MATCH-
-                                                                                                     DRILLING THE                                                                                                     FIGURE 3: MATCH-DRILLING
-                                                                                                                                                                                    AFT EDGE OF F-1077
-                                                                                                      LONGERONS                                                                                                          AND FINAL-DRILLING
-PAGE   32-4   RV-10      REVISION: 0   DATE: 07/24/14
-Step 1: Remove the tailcone from the mid fuselage and the F-1006 Bulkhead from the tailcone. Deburr all holes that have been drilled                  Step 11: Cleco the tailcone to the mid fuselage, then
-                                                                                                                                                                                                               VAN'S AIRCRAFT, INC.
-according to this section, and remove any chips from between the F-1070 Mid Side Skins and the F-1046 Mid Fuse Longerons.                             bolt the F-1046 Mid Fuse Longerons to the F-1032
-                                                                                                                                                      Tailcone Longerons using the same hardware as
-Step 2: Dimple the holes in the skin flanges of the F-1006A, B, C, and D Bulkheads. Do not dimple the holes in the two tabs on both F-1006A           before.
-and C Bulkheads which back-up the F-1032 and F-1046 Longerons.
-                                                                                                                                                      NOTE: The F-1074 Tailcone Forward Top Skin is
-Step 3: In all of the skins, dimple the holes which are common to the flanges of the F-1006A, B, C, and D Bulkheads.                                  riveted after the upper cabin is installed in a later
-                                                                                                                                                      section. Rivet call-outs for the other skins are
-Step 4: Dimple the aft most row of holes in the F-1077 Mid Bottom Skin (see Figure 2) and the corresponding holes in the F-1078 Tailcone              found on Page 33-6.
-Forward Bottom Skin.
-                                                                                                                                                      Step 12: Rivet the skins to the F-1006A, B, and C             DO NOT SET
-Step 5: Dimple the ten holes along the top edge of the triangular, projected portion of the F-1073-L Tailcone Side Skin (see Figure 1). Dimple        Bulkheads. As indicated in Figure 2, do not set the       RIVETS IN THESE
-the corresponding holes in the F-1070-L Mid Side Skin.                                                                                                three rivets at the top of the F-1070-L and -R Mid           THREE HOLES
-                                                                                                                                                      Side Skins which are common to the F-1074 Tailcone
-Step 6: Dimple the three holes in both sides of the F-1074 Tailcone Forward Top Skin (see Page 33-4, Figure 3) which are common to the                Forward Top Skin.                                                   F-1006A
-F-1046 Mid Fuse Longerons.
-                                                                                                                                                      Step 13: Set the rivets in the row of holes along the
-Step 7: If not already done, set rivets in the six indicated holes (see Figure 1) in the F-1078 Tailcone Forward Bottom Skin, the F-1029              aft edge of the F-1077 Mid Bottom Skin.                          F-1070-L
-Bellcrank Ribs, and the F-1047 Stiffeners using the rivets called-out.
-                                                                                                                                                      Step 14: Finish riveting the aft portion of the F-1077
-Step 8: Rivet the two nutplates to the small flange of the F-1006B Bulkhead using the rivets called-out in Figure 1.                                  Mid Bottom Skin to the F-1019, -1020, and -1021            F-1023-L
-                                                                                                                                                      Baggage Ribs.
-Step 9: Rivet the F-1006B Bulkhead to the F-1006A and C Bulkheads using the rivets called-out in Figure 1. DO NOT set any rivets in the
-holes indicated in the figure.                                                                                                                        Step 15: Rivet the F-1070-L Mid Side Skin to the
-                                                                                                                                                      F-10100A Baggage Door Shim and F-1023-L
-Step 10: Rivet the F-1006B Bulkhead to the F-1029 Bellcrank Ribs using the rivets called-out in Figure 1.                                             Baggage Floor Angle.
-
-                                                                                                                                                      Step 16: Rivet the F-1070-L and -R Mid Side Skins
-                                                                                                                                                      to the F-1046-L and -R Mid Fuse Longerons
-                                                      F-1006C                                                                                         respectively. Again, as indicated in the Figure 2, do
-          AN470AD4-4                                                                                                                                  not set any rivets in the holes which are common to
-           F-1006B TO                                                                                                                                 the F-1074 Tailcone Forward Top Skin.
-F-1006A AND C RIVETS.
-       6 PLACES/ SIDE
-
-                                                                                           5
-                                                                                       -3.                                                 F-1029-R                                                                                              F-1078
-                                                                                  D3                                                                                                           FIGURE 2: RIVETING
-                DO NOT                                                         26A
-                                                                             4                                                                                                                                                              AFT EDGE OF F-1077
-                RIVET                                                      AN                                                                                                                      THE SKINS
-
-                                                                                                                                           F-1029-L   Step 17: Rivet the F-1019, -1020, and -1021 Baggage
-                                        F-1047F-R                                                                                                     Ribs to the F-1006B Bulkhead using
-                                                                                                                     .5                               the rivets called-out in
-                                                                                                                  3-3
-                                                                                                                D                                     Figure 3.                           AN470AD4-4
-                                                                                                              6A
-                                                                                                         42                                                                             4 PLACES/ RIB
-                                                                                                       AN                                             Step 18: Install the two
-                                                                                                                                           F-1006A                                                                              F-1006B
-                                                                                                                                                      snap bushingscalled-out                                                                               SB625-7
-                                                                                                                                                                                     F-1021-R
-                                                                                                                                                      in Figure 3.
-F-1006B
-                                                                      F-1078                                                                                                F-1019-L
-
-           AN426AD3-3.5                                                                                                                                          F-1019-R
-    2 PLACES/ NUTPLATE                                                                                                                     F-1073-L
-                                                                                       F-1047F-L
-                   K1000-08                                                                                                                           F-1020-R
-                  2 PLACES                                                                                                   DIMPLE THESE
-                                                                                                                             HOLES IN F-1073-L
-                             AN426AD4-4
-                                                                                                                             AND F-1070-L
-             TOP HOLE F-1029 TO F-1006B.
-                                                                                                                             (STEP 6)
-              REMAINING HOLES IN F-1029
-                             AN470AD4-4
-
-                                                     DO NOT RIVET
-                                                                                          FIGURE 1: RIVETING
-                                                                                                                                                                              FIGURE 3: RIVETING THE
-                                                                                         THE F-1006B BULKHEAD
-                                                                                                                                                                                  BAGGAGE RIBS                      DATE: 07/24/14 REVISION: 0   RV-10    PAGE   32-5
-                  VAN'S AIRCRAFT, INC.
-
-
-
-
-                                                                   AN426AD3-3.5
-
-                                                                   AN426AD3-4
-
-                                                                   AN426AD3-4.5
-
-                                                                   AN426AD3-5
-
-                                                                   AN426AD3-6
-
-
-
-
-                                                     FIGURE 1: MID SIDE AND BOTTOM SKIN RIVETS
-
-
-PAGE   32-6   RV-10   REVISION: 0   DATE: 07/24/14
-
+FIGURE 3: RIVETING THE BAGGAGE RIBS
+[Drawing showing:]
+- AN470AD4-4, 4 PLACES/RIB
+- F-1021-R
+- F-1006B
+- SB625-7
+- F-1019-L
+- F-1019-R
+- F-1020-R
+
+=== PAGE 6 ===
+PAGE 32-6 | RV-10 | REVISION: 0 | DATE: 07/24/14
+
+[Rivet callout diagram page - no construction steps, only a rivet pattern drawing]
+
+[Large drawing showing the unfolded mid side and bottom skin rivet pattern for both left and right sides of the fuselage. The drawing shows the skin outline with rivet symbols at each location.]
+
+Rivet Legend:
+- Triangle: AN426AD3-3.5
+- 4-pointed star: AN426AD3-4
+- Diamond: AN426AD3-4.5
+- Square: AN426AD3-5
+- Right-pointing triangle: AN426AD3-6
+
+FIGURE 1: MID SIDE AND BOTTOM SKIN RIVETS
