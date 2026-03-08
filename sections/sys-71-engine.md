@@ -14,6 +14,9 @@ N720AK is powered by a **Lycoming IO-540** series engine, fuel-injected and norm
 | Engine mount | <!-- TODO --> | <!-- TODO --> | Steel tube |
 | Oil filter | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 | Oil cooler | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
+| Oil separator | ASA | Antisplat Aero | Installed with install kit |
+| Crankcase vacuum valve | Complete kit | Antisplat Aero | Crankcase vacuum system |
+| Engine mount covers | <!-- TODO --> | Aerosport Products | Carbon fiber covers, installed |
 
 <!-- TODO: Engine serial number -->
 <!-- TODO: Time since new, time since overhaul -->

@@ -27,6 +27,7 @@
 - [Electrical Power (ATA 24)](./sys-24-electrical.md)
 - [Flight Controls (ATA 27)](./sys-27-flight-controls.md)
 - [Fuel System (ATA 28)](./sys-28-fuel-system.md)
+- [Doors & Airframe (ATA 52/53)](./sys-52-doors-airframe.md)
 - [Lighting (ATA 33)](./sys-33-lighting.md)
 - [Navigation & Instruments (ATA 34)](./sys-34-navigation.md)
 - [OnSpeed AoA (ATA 34)](./sys-34-onspeed.md)

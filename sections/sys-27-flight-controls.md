@@ -25,11 +25,10 @@ N720AK has dual controls (pilot and co-pilot) with push-pull tube actuation for 
 | Button | Function |
 |--------|----------|
 | Trigger | Push-to-talk (PTT) |
-| Top hat | Pitch/roll trim |
-| <!-- TODO --> | Flap up |
-| <!-- TODO --> | Flap down |
-| Red button | Autopilot disconnect |
-| <!-- TODO --> | <!-- TODO: Document all buttons --> |
+| Index finger button | COM1/COM2 switch (wired to GTN 650) |
+| Thumb button | Autopilot disconnect |
+| Hat switch | Aileron (roll) and pitch trim |
+| Top right button | COM1 standby/active swap |
 
 ### Trim Systems
 
@@ -50,6 +49,10 @@ Electric flap motor with position indicator on EFIS. Controlled by:
 Flap positions range from reflex (-3°) to full (40°).
 
 ## Inspection & Maintenance
+
+### Control Stick Slop Fix
+
+The RV-10 control stick bases can develop play between the brass bushing and the welded cylinder of the stick base. On N720AK, the **pilot side only** had noticeable slop (co-pilot was fine). The fix was a single **AN960-6** washer (sized for AN6 bolt) placed around the brass bushing so it sits against the welded cylinder. No delrin bushing replacement was needed — the original brass bushings were retained, and the single washer was sufficient to eliminate the play.
 
 <!-- TODO: Control surface travel measurements, bellcrank inspection, push-pull tube rod end checks -->
 <!-- TODO: Trim servo inspection -->

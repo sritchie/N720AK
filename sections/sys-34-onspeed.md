@@ -32,6 +32,54 @@ The **OnSpeed** system is an audio angle-of-attack (AoA) indicator that provides
   - How to re-calibrate after maintenance?
 -->
 
+## Wiring
+
+OnSpeed connects to the Dynon PFD for power, data, and audio output.
+
+### OnSpeed Connector Pinout
+
+#### Power / Ground
+
+| Pin | Function | Wire Color |
+|-----|----------|------------|
+| 1 | 12V power (from PFD, 2A fuse) | Red |
+| 4 | Ship ground | Black |
+
+#### Data Inputs
+
+| Pin | Function | Wire Color |
+|-----|----------|------------|
+| 21 | Flap pot wiper | White |
+| 25 | EFIS serial4 TX line | Blue |
+
+#### Button / Lower Console
+
+| Pin | Function | Wire Color |
+|-----|----------|------------|
+| 5 | Ground (to "−" on button, "C1" on button, volume pot "−/CCW", pilot lo) | Black |
+| 2 | Volume pot CW | Red/white |
+| 9 | Volume pot wiper | Orange/white |
+| 11 | "+" on button | Orange/blue |
+| 23 | "NO1" on button | Brown/white |
+
+Control cable wiring (6-conductor, button to OnSpeed box):
+
+| Wire | Color |
+|------|-------|
+| 1 | Red/white |
+| 2 | Orange/white |
+| 3 | (none) |
+| 4 | Orange/blue |
+| 5 | Brown/white |
+| 6 | Black |
+
+#### Headset Audio Output
+
+| Pin | Function | Wire Color |
+|-----|----------|------------|
+| 10 | Pilot audio right | Purple/green |
+| 22 | Pilot audio left | Purple/yellow |
+
 ## Inspection & Maintenance
 
 <!-- TODO: Annual inspection items -->

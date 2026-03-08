@@ -114,7 +114,8 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 
 - **Function**: Tank selector — routes supply from selected tank to pumps, routes return back to selected tank
 - **Location**: Under seats, where fuel lines from both tanks converge
-<!-- TODO: model number, photo -->
+- **Note**: Required 90-degree angle fittings to make the plumbing work in the installation
+<!-- TODO: model number, 90-degree fitting sizes/part numbers, photo -->
 
 ### Fuel Pumps — Walbro 391
 
