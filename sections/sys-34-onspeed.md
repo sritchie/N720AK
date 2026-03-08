@@ -90,3 +90,4 @@ Control cable wiring (6-conductor, button to OnSpeed box):
 - [AMX-10A Installation Diagram 2](https://drive.google.com/file/d/1Sw1c2xQJSDzzdc_xtxlVrdaLRYVWg2Jx/view)
 - [AMX-10A Installation Diagram 3](https://drive.google.com/file/d/1UFVWUY-fRRcR6ru1VY8mgm_RKLxF4dOI/view)
 - [OnSpeed Calibration Configs](https://drive.google.com/drive/folders/1Bt_X_CIPS1z9uNAD2iXAzmN482ym8fyv?usp=sharing) (Public/Configs/OnSpeed/)
+- [OnSpeed Documentation](http://dev.flyonspeed.org/latest/) (web-based — installation, calibration, troubleshooting)

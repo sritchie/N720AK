@@ -10,7 +10,7 @@ N720AK has dual controls (pilot and co-pilot) with push-pull tube actuation for 
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Stick grip (x2) | CS Military | Tosten | Pilot and co-pilot |
+| Stick grip (x2) | [CS Military](https://drive.google.com/file/d/1B6rsaPuWOP-TiiiwlmuQLgSspJDqMclw/view) | Tosten | Pilot and co-pilot |
 | Pitch trim servo | <!-- TODO --> | <!-- TODO --> | Elevator trim tab |
 | Roll trim servo | <!-- TODO --> | <!-- TODO --> | In wing |
 | Flap motor | <!-- TODO --> | <!-- TODO --> | Electric |

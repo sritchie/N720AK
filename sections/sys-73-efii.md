@@ -10,7 +10,7 @@ The **EFII System32** provides complete electronic engine management for N720AK 
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| ECU (x2) | System32 | flyEFII | Dual redundant |
+| ECU (x2) | [System32](https://drive.google.com/file/d/1qWy2YjOcxXDmAfCELyb1E6BdgQzikOnG/view) | flyEFII | Dual redundant |
 | Coil packs | <!-- TODO --> | <!-- TODO --> | One per cylinder |
 | Fuel injectors (x6) | <!-- TODO --> | <!-- TODO --> | Port injection |
 | Fuel pumps (x2) | Walbro GSL391 | Walbro/EFII | See [Fuel System](./sys-28-fuel-system.md) |
@@ -108,3 +108,5 @@ The EFII System32 supports both 100LL and premium automotive gasoline (mogas), w
 - [EFII System32 Initial Tuning — CSP (Rev 6-20)](https://drive.google.com/file/d/1P36hbiAgYbXRVSpBjiZAR1q9-bidzpfb/view)
 - [EFII Bus Manager Installation Instructions](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view)
 - [Fuel System — Regulator Diagnostics](./sys-28-fuel-system.md#diagnostics) — fuel pressure analysis
+- [PLX DM-6 Multi Gauge User Guide](https://drive.google.com/file/d/1VIanTxYZkHM7e7pnBZsoarOo_NcaR9Uk/view)
+- [PLX SM-AFR Gen2 User Guide](https://drive.google.com/file/d/1bdoRUOQrCC5lVv3VV0NL7xmZuAf7LRID/view)

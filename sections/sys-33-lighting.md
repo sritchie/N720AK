@@ -10,9 +10,9 @@ N720AK uses LED lighting throughout — **AeroLEDs** products in the wingtips an
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Wing tip lights (x2) | Pulsar NSP/660 | AeroLEDs | 3-in-1: position, strobe, rear position |
-| Landing/taxi lights (x2) | AeroSun VX | AeroLEDs | Built-in wig-wag mode |
-| Tail light | SunTail | AeroLEDs | Position (white) + strobe |
+| Wing tip lights (x2) | [Pulsar NSP/660](https://drive.google.com/file/d/1onTAIGN8qbuRIdnjjzd__WusWbXLaJkj/view) | AeroLEDs | 3-in-1: position, strobe, rear position |
+| Landing/taxi lights (x2) | [AeroSun VX](https://drive.google.com/file/d/1xYeSL_1LVascpJOLFjPU8L3xYtJPENnf/view) | AeroLEDs | Built-in wig-wag mode |
+| Tail light | [SunTail](https://drive.google.com/file/d/1T4M9Q_xeSgJWE-ySFvcwcPTa1if7kywT/view) | AeroLEDs | Position (white) + strobe |
 
 ### Lighting Controls
 

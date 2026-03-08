@@ -10,12 +10,12 @@ N720AK's communications stack includes the **Garmin GMA 245** audio panel, **Dyn
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Audio panel | GMA 245 | Garmin | Bluetooth, IntelliVox |
-| Com radio | GTN 650 Com | Garmin | Integrated in GTN 650 |
-| Dynon Com panel | <!-- TODO --> | Dynon | Com frequency control |
-| Nav antenna | Bob Archer | <!-- TODO --> | Single nav antenna for GTN 650 |
-| Com antenna 1 | CI-121 | Comant | Top of fuselage |
-| Com antenna 2 | CI-122 | Comant | Bottom of right wing |
+| Audio panel | [GMA 245](https://drive.google.com/file/d/1e8kQ9axjUSXKm6KyOz8QHKcjZ_O7Li0g/view) | Garmin | Bluetooth, IntelliVox |
+| Com radio | [GTN 650](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) Com | Garmin | Integrated in GTN 650 |
+| Dynon Com panel | [SV-COM-425](https://drive.google.com/file/d/1UfjDYUc6NpaRH4Fd9VGXTsmC3CkCvkWE/view) | Dynon | Com frequency control |
+| Nav antenna | [Bob Archer](https://drive.google.com/file/d/1tpQ1PFsuzGcuJrZAru651fHs_7vxFHb9/view) | <!-- TODO --> | Single nav antenna for GTN 650 |
+| Com antenna 1 | [CI-121](https://drive.google.com/file/d/1KGBLLrU7Iy-crf-HF9dJbJl_PzbOfsHo/view) | Comant | Top of fuselage |
+| Com antenna 2 | [CI-122](https://drive.google.com/file/d/1P0qMaKxGBthdWucwykEZOPH_o9H4uJYB/view) | Comant | Bottom of right wing |
 | Intercom | GMA 245 internal | Garmin | 4-place |
 
 ## How It Works

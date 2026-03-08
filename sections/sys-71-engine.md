@@ -10,12 +10,12 @@ N720AK is powered by a **Lycoming IO-540** series engine, fuel-injected and norm
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Engine | IO-540-<!-- TODO --> | Lycoming | 260 HP at 2700 RPM |
+| Engine | [IO-540-D4A5](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) | Lycoming | 260 HP at 2700 RPM |
 | Engine mount | <!-- TODO --> | <!-- TODO --> | Steel tube |
 | Oil filter | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 | Oil cooler | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
-| Oil separator | ASA | Antisplat Aero | Installed with install kit |
-| Crankcase vacuum valve | Complete kit | Antisplat Aero | Crankcase vacuum system |
+| Oil separator | ASA | Antisplat Aero | Installed with install kit — [manual](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
+| Crankcase vacuum valve | Complete kit | Antisplat Aero | Crankcase vacuum system — [manual](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
 | Engine mount covers | <!-- TODO --> | Aerosport Products | Carbon fiber covers, installed |
 
 <!-- TODO: Engine serial number -->
@@ -69,4 +69,4 @@ Reference: [VAF thread — Lycoming accessory case oil schematic by Dan H](https
 ## References
 
 - [Oil Separator / Vacuum System](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view)
-<!-- TODO: Lycoming operator's manual, overhaul manual -->
+- [Lycoming IO-540 Operator's Manual (60297-10)](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view)

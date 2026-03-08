@@ -17,7 +17,7 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 | Door strut brackets | DS2 | Planearound | For McMaster Carr door seal |
 | Door seal (main) | 1120A411 | McMaster Carr | Pilot and co-pilot doors |
 | Baggage door seal | 93085K67 (10' length) | McMaster Carr | |
-| Exterior handles | Low profile | Aerosport Products | Both doors |
+| Exterior handles | [Low profile](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view) | Aerosport Products | Both doors |
 | Door locks | Cam mechanism | <!-- TODO --> | Shared with baggage door, integrated with Planearound latches |
 | Door gas struts | <!-- TODO --> | <!-- TODO --> | Hold doors open |
 
@@ -44,8 +44,8 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Front seatbelts (x2) | Kam Lock | Crow | 4-point or 5-point? |
-| Rear seatbelts (x2) | Kam Lock | Crow | |
+| Front seatbelts (x2) | [Kam Lock](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) | Crow | 4-point or 5-point? |
+| Rear seatbelts (x2) | [Kam Lock](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) | Crow | |
 | Sun visors (x2) | <!-- TODO --> | Aviation Tech Products | Purchased, not yet installed |
 
 <!-- TODO: Seatbelt adjustment and inspection notes -->
@@ -95,5 +95,7 @@ Wingtips attach via **piano hinge modification** — they can be removed entirel
 
 - [Aerosport RV-10 Low-Profile Handle Installation (Rev 3)](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view)
 - [Aerosport RV-10 Interior Panels Installation](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view)
+- [Crow Harness Installation Instructions](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view)
+- [Crow Safety Gear Catalog](https://drive.google.com/file/d/1Lug00b6-yqtNt2nrqthp_6cMywcfi5WU/view)
 <!-- TODO: Planearound 180° latch installation instructions -->
 <!-- TODO: Cee Bailey care guide -->

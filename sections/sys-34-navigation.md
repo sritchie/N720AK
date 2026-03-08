@@ -10,11 +10,11 @@ N720AK's navigation and instrument suite is built around the **Dynon Skyview HDX
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| EFIS | Skyview HDX | Dynon | Primary flight display |
-| GPS/Nav/Com | GTN 650 | Garmin | Certified IFR |
+| EFIS | [Skyview HDX](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view) | Dynon | Primary flight display |
+| GPS/Nav/Com | [GTN 650](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) | Garmin | Certified IFR |
 | Transponder | SV-XPNDR-261 | Dynon | ADS-B Out, S/N 04015 |
 | ADS-B Receiver | SV-ADSB-470 | Dynon | Traffic & weather, S/N 3111 |
-| ELT | ELT 345 | Artex | 406 MHz |
+| ELT | [ELT 345](https://drive.google.com/file/d/1OXIHSMY2lg3rjRosWWdaETwle8ACyBID/view) | Artex | 406 MHz |
 | Pitot tube | <!-- TODO --> | Dynon | Heated, with AoA |
 | Static ports | <!-- TODO --> | <!-- TODO --> | Two ports, aft fuselage |
 | Alternate static valve | <!-- TODO --> | <!-- TODO --> | Upper left panel |

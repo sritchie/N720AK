@@ -53,6 +53,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | efii-system32-upgrade-installation-manual.docx | [link](https://drive.google.com/file/d/1U_Z8F2wmzUvSQblY9kP-5OzxFby1jM_p/view) |
 | andair-fs2020-d2-spec-sheet.pdf | [link](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view) |
 | andair-fs20-data-sheet.pdf | [link](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view) |
+| aeromotive-13129-efi-bypass-regulator.pdf | [link](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view) |
 
 ### 33-Lighting
 
@@ -84,6 +85,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | aerosport-rv10-low-profile-handle-installation.pdf | [link](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view) |
 | aerosport-rv10-interior-panels.pdf | [link](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view) |
+| crow-harness-installation.pdf | [link](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) |
+| crow-safety-catalog.pdf | [link](https://drive.google.com/file/d/1Lug00b6-yqtNt2nrqthp_6cMywcfi5WU/view) |
 
 ### 61-Brakes
 
@@ -97,6 +100,14 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | separator-vacuum-sys.pdf | [link](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
+| lycoming-io540-operators-manual.pdf | [link](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) |
+
+### 73-EFII
+
+| File | GDrive URL |
+|------|-----------|
+| plx-dm6-user-guide.pdf | [link](https://drive.google.com/file/d/1VIanTxYZkHM7e7pnBZsoarOo_NcaR9Uk/view) |
+| plx-sm-afr-gen2-user-guide.pdf | [link](https://drive.google.com/file/d/1bdoRUOQrCC5lVv3VV0NL7xmZuAf7LRID/view) |
 
 ### Misc
 

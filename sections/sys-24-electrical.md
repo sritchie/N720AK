@@ -10,10 +10,10 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Bus Manager | System32 | flyEFII | Controls essential vs main bus |
-| Power distribution | VPX Sport | Vertical Power | Electronic breakers |
-| Battery 1 | ETX900 | EarthX | <!-- TODO: location --> |
-| Battery 2 | ETX900 | EarthX | <!-- TODO: location --> |
+| Bus Manager | System32 | flyEFII | Controls essential vs main bus — [manual](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
+| Power distribution | VPX Sport | Vertical Power | Electronic breakers — [manual](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) |
+| Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | <!-- TODO: location --> |
+| Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | <!-- TODO: location --> |
 | Alternator | <!-- TODO --> | <!-- TODO --> | 60 amp, 14 volt |
 | Master switch | <!-- TODO --> | <!-- TODO --> | Keyed |
 

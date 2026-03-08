@@ -112,7 +112,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 
 ### Andair Duplex Valve
 
-- **Function**: Tank selector — routes supply from selected tank to pumps, routes return back to selected tank
+- **Function**: Tank selector — routes supply from selected tank to pumps, routes return back to selected tank — [spec sheet](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view)
 - **Location**: Under seats, where fuel lines from both tanks converge
 - **Note**: Required 90-degree angle fittings to make the plumbing work in the installation
 <!-- TODO: model number, 90-degree fitting sizes/part numbers, photo -->
@@ -121,7 +121,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 
 | Parameter | Value |
 |-----------|-------|
-| Model | Walbro GSL391 (391 LPH) |
+| Model | [Walbro GSL391](https://drive.google.com/file/d/1qWy2YjOcxXDmAfCELyb1E6BdgQzikOnG/view) (391 LPH) |
 | Quantity | 2 (primary + backup) |
 | Mounting | Pump rack from ProTec Performance, supplied by EFII |
 | Pressure | <!-- TODO: confirm rated output pressure --> |
@@ -159,12 +159,12 @@ Viton crush washers for pump fittings: [One Hydraulics SS9500-02V](https://www.o
 
 | Parameter | Value |
 |-----------|-------|
-| Brand | Aeromotive |
+| Brand | [Aeromotive](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view) |
 | Type | MAP-referenced diaphragm regulator with bypass return |
 | Location | End of fuel rail |
 | MAP reference | Orifice port on throttle body |
 | Spring setpoint | ~35 PSI differential |
-| Part number | <!-- TODO --> |
+| Part number | 13129 |
 
 The regulator is the heart of fuel pressure management. See [The MAP-Referenced Regulator](#the-map-referenced-regulator) for full theory.
 
@@ -514,6 +514,7 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [Regulator Diagnostic Plan](https://github.com/sritchie/rv10/blob/main/plans/regulator-diagnostic.md) — workflow for analyzing regulator health
 - [Andair FS2020-D2 Duplex Valve Spec Sheet](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view)
 - [Andair FS20 Fuel Selector Data Sheet](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view)
+- [Aeromotive 13129 EFI Bypass Regulator Manual](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view)
 - [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_bulletin_120414.php) — blocked baro compensation ports on Kavlico sensors
 - Flight log data: `maintenance/fuel-system/flight-logs/`
 

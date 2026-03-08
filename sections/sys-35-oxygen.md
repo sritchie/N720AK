@@ -10,7 +10,7 @@ N720AK is equipped with the **Mountain High EDS-4iP** pulse-demand oxygen system
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| O2 system | EDS-4iP | Mountain High | Pulse on demand |
+| O2 system | [EDS-4iP](https://drive.google.com/file/d/1jyxfl9qch7xVHHYem4MqP5z7yCiDlXEi/view) | Mountain High | Pulse on demand |
 | Mode switch | <!-- TODO --> | <!-- TODO --> | Panel mounted |
 | O2 bottle | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, location --> |
 | Cannulas | <!-- TODO --> | <!-- TODO --> | <!-- TODO: how many ports? --> |

@@ -10,10 +10,10 @@ N720AK uses the **Dynon 3-axis autopilot** integrated with the Skyview HDX EFIS.
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Roll servo | <!-- TODO --> | Dynon | Aileron axis |
+| Roll servo | <!-- TODO --> | Dynon | Aileron axis — [tuning guide](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view) |
 | Pitch servo | <!-- TODO --> | Dynon | Elevator axis |
 | Yaw damper | <!-- TODO --> | Dynon | Yaw axis |
-| AP control panel | <!-- TODO --> | Dynon | Panel-mounted |
+| AP control panel | <!-- TODO --> | Dynon | Panel-mounted — [install guide](https://drive.google.com/file/d/1S3A29Zn5DOK-3ADUyQeDOCU_NrU1NGbN/view) |
 | AP disconnect | — | Tosten grip | Red button on both sticks |
 
 ## How It Works
