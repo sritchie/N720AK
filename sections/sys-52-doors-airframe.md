@@ -93,5 +93,7 @@ Wingtips attach via **piano hinge modification** — they can be removed entirel
 
 ## References
 
-<!-- TODO: Planearound installation instructions -->
+- [Aerosport RV-10 Low-Profile Handle Installation (Rev 3)](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view)
+- [Aerosport RV-10 Interior Panels Installation](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view)
+<!-- TODO: Planearound 180° latch installation instructions -->
 <!-- TODO: Cee Bailey care guide -->

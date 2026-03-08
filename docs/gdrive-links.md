@@ -22,6 +22,9 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | artex-elt345-manual.pdf | [link](https://drive.google.com/file/d/1OXIHSMY2lg3rjRosWWdaETwle8ACyBID/view) |
 | comant-ci121-datasheet.pdf | [link](https://drive.google.com/file/d/1KGBLLrU7Iy-crf-HF9dJbJl_PzbOfsHo/view) |
 | comant-ci122-datasheet.pdf | [link](https://drive.google.com/file/d/1P0qMaKxGBthdWucwykEZOPH_o9H4uJYB/view) |
+| dynon-sv-com-425-drawing.pdf | [link](https://drive.google.com/file/d/1UfjDYUc6NpaRH4Fd9VGXTsmC3CkCvkWE/view) |
+| bob-archer-antennas-for-aircraft.pdf | [link](https://drive.google.com/file/d/1b2w_VkXSzQI-bU9lCF0idzxq1E5rLWBG/view) |
+| bob-archer-antenna-installation.pdf | [link](https://drive.google.com/file/d/1tpQ1PFsuzGcuJrZAru651fHs_7vxFHb9/view) |
 
 ### 24-Electrical
 
@@ -29,6 +32,14 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | vpx-sport-install-operating-manual-rev-g3.pdf | [link](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) |
 | efii-bus-manager-install-instructions.pdf | [link](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
+| earthx-etx900-installation-manual.pdf | [link](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) |
+| vpx-getting-started-guide.pdf | [link](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view) |
+
+### 27-Flight-Controls
+
+| File | GDrive URL |
+|------|-----------|
+| tosten-cs-military-wiring.pdf | [link](https://drive.google.com/file/d/1B6rsaPuWOP-TiiiwlmuQLgSspJDqMclw/view) |
 
 ### 28-Fuel-System
 
@@ -40,6 +51,16 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | efii-system32-fuel-flow-rpm-config-rev-10-19.pdf | [link](https://drive.google.com/file/d/1u1Z214HEJB2bEiMpFU9ltmSb-CmbR7ft/view) |
 | efii-system32-initial-tuning-csp-rev-6-20.pdf | [link](https://drive.google.com/file/d/1P36hbiAgYbXRVSpBjiZAR1q9-bidzpfb/view) |
 | efii-system32-upgrade-installation-manual.docx | [link](https://drive.google.com/file/d/1U_Z8F2wmzUvSQblY9kP-5OzxFby1jM_p/view) |
+| andair-fs2020-d2-spec-sheet.pdf | [link](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view) |
+| andair-fs20-data-sheet.pdf | [link](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view) |
+
+### 33-Lighting
+
+| File | GDrive URL |
+|------|-----------|
+| aeroleds-pulsar-ns-installation.pdf | [link](https://drive.google.com/file/d/1onTAIGN8qbuRIdnjjzd__WusWbXLaJkj/view) |
+| aeroleds-aerosun-vx-installation.pdf | [link](https://drive.google.com/file/d/1xYeSL_1LVascpJOLFjPU8L3xYtJPENnf/view) |
+| aeroleds-suntail-installation.pdf | [link](https://drive.google.com/file/d/1T4M9Q_xeSgJWE-ySFvcwcPTa1if7kywT/view) |
 
 ### 34-Navigation
 
@@ -56,6 +77,20 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | mountain-high-eds4ip-manual.pdf | [link](https://drive.google.com/file/d/1jyxfl9qch7xVHHYem4MqP5z7yCiDlXEi/view) |
+
+### 52-Doors
+
+| File | GDrive URL |
+|------|-----------|
+| aerosport-rv10-low-profile-handle-installation.pdf | [link](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view) |
+| aerosport-rv10-interior-panels.pdf | [link](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view) |
+
+### 61-Brakes
+
+| File | GDrive URL |
+|------|-----------|
+| matco-wheel-brake-general-manual.pdf | [link](https://drive.google.com/file/d/13tKx6KOyn5Msa2fJnDxHcNzG8vDHybpb/view) |
+| beringer-rv-installation-maintenance.pdf | [link](https://drive.google.com/file/d/1g5SpVRY8SGp9KROq9jE6nld-_5yQPUyY/view) |
 
 ### 71-Engine
 

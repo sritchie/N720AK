@@ -512,6 +512,8 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [EFII System32 Upgrade Installation Manual](https://drive.google.com/file/d/1U_Z8F2wmzUvSQblY9kP-5OzxFby1jM_p/view)
 - [Regulator Diagnostic Script](https://github.com/sritchie/rv10/blob/main/scripts/regulator_diagnostic.py) — auto-detects Dynon/Garmin CSV, computes diagnostic metrics, generates 4-panel plot
 - [Regulator Diagnostic Plan](https://github.com/sritchie/rv10/blob/main/plans/regulator-diagnostic.md) — workflow for analyzing regulator health
+- [Andair FS2020-D2 Duplex Valve Spec Sheet](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view)
+- [Andair FS20 Fuel Selector Data Sheet](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view)
 - [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_bulletin_120414.php) — blocked baro compensation ports on Kavlico sensors
 - Flight log data: `maintenance/fuel-system/flight-logs/`
 
