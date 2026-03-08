@@ -423,6 +423,8 @@ The OptiMate charger enters sleep/maintenance mode once the battery is fully cha
 ## References
 
 - [VPX Sport Installation & Operating Manual (Rev G3)](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view)
+- [VPX Getting Started Guide (Rev A)](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view)
 - [EFII Bus Manager Installation Instructions](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view)
+- [EarthX ETX900 Installation & Maintenance Manual](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view)
 - [Power & Lighting Schematic](https://drive.google.com/file/d/1hXrVusmeaCbz3MywPmLUjcQ1TfPFVOE9/view)
 - [VPX Pro/Sport Load Planning Worksheet](https://drive.google.com/file/d/1uy9UFDHQYeuw0kTXVAed_0YB3Jd1rMf1/view)

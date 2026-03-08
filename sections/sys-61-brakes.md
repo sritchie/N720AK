@@ -63,4 +63,5 @@ Fixed tricycle configuration:
 
 ## References
 
-<!-- TODO: Brake caliper and wheel documentation -->
+- [Matco Wheels & Brakes General Manual (Rev F)](https://drive.google.com/file/d/13tKx6KOyn5Msa2fJnDxHcNzG8vDHybpb/view)
+- [Beringer RV Series Installation & Maintenance Manual](https://drive.google.com/file/d/1g5SpVRY8SGp9KROq9jE6nld-_5yQPUyY/view)

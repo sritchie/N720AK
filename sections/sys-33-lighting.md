@@ -116,4 +116,6 @@ See also: [Wing root connector pinouts](sys-24-electrical.md#wing-root-connector
 
 ## References
 
-<!-- TODO: AeroSun VX / AeroLEDs documentation -->
+- [AeroLEDs Pulsar NS Installation (Experimental)](https://drive.google.com/file/d/1onTAIGN8qbuRIdnjjzd__WusWbXLaJkj/view)
+- [AeroLEDs AeroSun VX Installation (Rev C)](https://drive.google.com/file/d/1xYeSL_1LVascpJOLFjPU8L3xYtJPENnf/view)
+- [AeroLEDs SunTail Installation (Rev A)](https://drive.google.com/file/d/1T4M9Q_xeSgJWE-ySFvcwcPTa1if7kywT/view)
