@@ -301,6 +301,18 @@ On push to `main`, GitHub Actions:
 
 Target domain: **n720ak.com** (configure in GitHub Pages settings)
 
+## Git Workflow
+
+When merging PRs, **always use squash merge** via `gh pr merge`:
+
+```bash
+gh pr merge <number> --squash \
+  --subject "<PR title>" \
+  --body "<PR description body>"
+```
+
+The squash commit title should be the PR title, and the body should be the PR description. This keeps `main` history clean with one commit per PR.
+
 ## Systems Reference TODOs
 
 The Systems Reference pages (`sections/sys-*.md`) contain `<!-- TODO -->` markers and structured TODO checklists at the bottom of each file. These represent information that needs to come from the owner (part numbers, photos, procedures, measurements, supplier info, etc.).

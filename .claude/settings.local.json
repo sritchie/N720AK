@@ -47,7 +47,10 @@
       "Bash(find:*)",
       "Bash(wc:*)",
       "Bash(DRAWINGS=\"/Users/sritchie/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Archive/Construction-Drawings\")",
-      "Bash(bash:*)"
+      "Bash(bash:*)",
+      "mcp__claude_ai_Notion__notion-search",
+      "mcp__claude_ai_Notion__notion-fetch",
+      "Bash(cp:*)"
     ]
   }
 }

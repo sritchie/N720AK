@@ -42,6 +42,24 @@ Dual redundant ignition with individual coil packs for each cylinder. The System
 
 <!-- TODO: What does each switch position do? Detail the modes. -->
 
+**EFII Breakers (VPX channels):**
+
+| Breaker | Rating | Function |
+|---------|--------|----------|
+| ECU 1 | 5 A | ECU 1 power |
+| ECU 2 | 5 A | ECU 2 power |
+| Ignition | 15 A | Ignition coil packs |
+| Fuel Pump | 10 A | Electric fuel pump |
+
+**Annunciator Lamps:**
+
+| Lamp | Color | Function |
+|------|-------|----------|
+| ECU 1 | Green | ECU 1 active |
+| ECU 2 | Green | ECU 2 active |
+| Primary Pump | Green | Primary fuel pump running |
+| Secondary Pump | Amber | Backup fuel pump activated |
+
 ## Fuel Compatibility
 
 The EFII System32 supports both 100LL and premium automotive gasoline (mogas), with or without ethanol. The standard mapping handles compression up to 9:1 (N720AK's configuration). Key limitations for mogas:
