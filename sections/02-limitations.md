@@ -88,6 +88,10 @@ Note: Datum is located forward of the wing leading edge.
 |----------|----------|----------|
 | Utility | +G | -G |
 
+## Flight Maneuver Limitations
+
+**Slips in clean configuration are prohibited.** The RV-10 rudder can aerodynamically stall during slips with flaps up, resulting in a sudden and uncommanded snap roll. Slips are permitted with flaps extended, which reduces the angle of attack required for a given airspeed and prevents rudder stall.
+
 ## Types of Operations
 
 The airplane is approved for the following operations when equipped in
@@ -115,3 +119,4 @@ accordance with FAR 91:
 | In view from entrance | EXPERIMENTAL |
 | In view of occupants | PASSENGER WARNING: THIS AIRCRAFT IS AMATEUR BUILT AND DOES NOT COMPLY WITH FEDERAL SAFETY REGULATIONS FOR STANDARD AIRCRAFT. |
 | At each fuel filler | 100LL, XX Gal. |
+| On instrument panel | NO SLIPS WITH FLAPS UP |
