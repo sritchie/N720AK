@@ -50,7 +50,8 @@
       "Bash(bash:*)",
       "mcp__claude_ai_Notion__notion-search",
       "mcp__claude_ai_Notion__notion-fetch",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "Bash(GDRIVE=\"$HOME/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Public/Manuals\")"
     ]
   }
 }
