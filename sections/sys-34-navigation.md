@@ -18,6 +18,8 @@ N720AK's navigation and instrument suite is built around the **Dynon Skyview HDX
 | Pitot tube | <!-- TODO --> | Dynon | Heated, with AoA |
 | Static ports | <!-- TODO --> | <!-- TODO --> | Two ports, aft fuselage |
 | Alternate static valve | <!-- TODO --> | <!-- TODO --> | Upper left panel |
+| Transponder antenna | 104-12 | SteinAir | Monopole, 1030–1090 MHz, BNC |
+| ADS-B antenna | 104-17 | SteinAir | Monopole, 978 MHz, BNC |
 
 ## How It Works
 

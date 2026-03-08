@@ -18,6 +18,8 @@ N720AK has a fixed tricycle landing gear with hydraulic disc brakes on the main 
 | Main tires | <!-- TODO --> | Desser | Retreads (no inner tubes) |
 | Nose tire | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, pressure --> |
 | Wheel fairings | <!-- TODO --> | <!-- TODO --> | Main gear only |
+| Axle extenders | RVAE10 | Cleaveland Tool | Wheel pant axle extenders (pair) |
+| Wheel fairing spacers | WFSPCR | Planearound | Bracket spacers for wheel fairings |
 
 ## How It Works
 

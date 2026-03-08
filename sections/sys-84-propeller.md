@@ -10,7 +10,7 @@ N720AK uses a constant-speed propeller. The propeller governor maintains RPM as 
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Propeller | <!-- TODO --> | <!-- TODO --> | Constant speed |
+| Propeller | RV-10 | Whirlwind Aviation | Constant speed |
 | Governor | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 | Spinner | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 
