@@ -44,7 +44,7 @@ Extracted text: `docs/plans-text/*.txt` (grep-searchable)
 | 33 | 33_10.pdf | Baggage Area | 10 | Fuselage | Baggage compartment, baggage door frame, floor |
 | 34 | 34_10.pdf | Baggage Door | 8 | Fuselage | Baggage door skin, hinge, latch |
 | 35 | 35_10.pdf | Access Covers and Floor Panels | 10 | Fuselage | Floor panels, access covers, nutplates, screws |
-| 36 | 36_10.pdf | Brake Lines | 4 | Fuselage | Brake line routing, fittings, parking brake |
+| 36 | 36_10.pdf | Brake Lines | 4 | Fuselage | Brake line routing, fittings, heat duct tee VA-175 |
 | 37 | 37_10.pdf | Fuel System | 8 | Fuselage | Fuel valve VA-178G, fuel lines ATO-035X3/8, pump, filter, flo-scan, bulkhead fittings |
 | 38 | 38_10.pdf | Rudder Pedals & Brake System | 10 | Fuselage | Rudder pedals, brake master cylinders, toe brakes, pedal adjustment |
 | 39 | 39_10.pdf | Control System | 12 | Fuselage | Control sticks, pushrods, bellcranks, mixer |
@@ -184,66 +184,115 @@ N720AK departs from the stock Van's plans in many areas. When searching the plan
 
 ## Topic Cross-Reference
 
+Topics marked with ⚠️ have N720AK build deviations — see the deviations table above.
+
 | Topic | Sections | Notes |
 |-------|----------|-------|
 | access covers | 35 | Floor panels, screw-on access covers with nutplates |
-| AHRS bracket | OP-48 | Dynon AHRS mounting in RV-10 |
+| AHRS bracket | OP-48 | Dynon AHRS mounting on F-1007-L bulkhead (VA-260A bracket, VA-260B rib) |
 | aileron | 21, 23 | Aileron construction (21), actuation/bellcrank/trim (23) |
-| aileron trim | 23, OP-38 | Mechanical (23), electric Ray Allen (OP-38) |
+| aileron trim | 23, OP-38 | Mechanical (23), electric Ray Allen T2-10A servo (OP-38) |
+| alternator | OP-37 | ⚠️ Alternator wiring, 60A installation. N720AK uses VPX Sport distribution |
+| antenna | 20, OP-37 | Wing antenna coax routing (20), antenna wiring (OP-37) |
 | baggage area | 33 | Baggage compartment structure, floor |
 | baggage door | 34 | Door skin, hinge, latch mechanism |
-| baffle | FF2, OP-04 | Cowl baffle (FF2), IO-360 baffle (OP-04) |
-| brake lines | 36 | Full brake line routing, fittings, parking brake |
-| brake system | 38 | Master cylinders, toe brakes, pedal adjustment |
+| baffle | FF2, OP-04 | ⚠️ Cowl baffle (FF2), IO-360 baffle (OP-04). N720AK sealed all gaps extensively |
+| battery | OP-37 | ⚠️ Stock single battery wiring. N720AK has dual EarthX ETX900 |
+| bearings | 11, 23, 38, 39, 46 | Rod end bearings, hinge bearings in control system |
+| bellcranks | 23, 39, 40 | Aileron bellcranks (23), elevator/mixer bellcrank (39), flap bellcrank (40) |
+| brake lines | 36 | ⚠️ Stock brake line routing (ATO-032X1/4), fittings. N720AK uses TS Flight Lines |
+| brake system | 38 | ⚠️ Master cylinders, toe brakes, pedal adjustment. N720AK uses Matco brakes |
+| bus bar | OP-37 | ⚠️ Stock electrical bus wiring. N720AK uses VPX Sport electronic breakers |
 | cabin cover | 43 | Cabin top skin, skylight |
-| cabin doors | 45, 45A | Door frames, plexiglas, hinges (45), safety latch (45A) |
+| cabin doors | 45, 45A | ⚠️ Door frames, plexiglas, hinges (45), safety latch (45A). N720AK: McMaster seal mod, Plane Around third latch (no 45A) |
 | cabin heat | 50, OP-29 | Heat valve, SCAT tubing, fresh air vents |
-| control cables | FF3, OP-26 | Throttle, mixture, prop cables |
-| control sticks | 39 | Control stick assembly, pushrods, bellcranks, mixer |
-| cowling | 47 | Spinner, upper/lower cowl, hinges, air inlets |
+| circuit breakers | OP-37 | ⚠️ Stock breaker panel layout. N720AK uses VPX Sport electronic breakers |
+| control cables | FF3, OP-26 | ⚠️ Throttle, mixture, prop cables. N720AK: no mixture cable (EFII), AeroSport quadrant |
+| control sticks | 39 | ⚠️ Control stick assembly, pushrods, bellcranks, mixer. N720AK: sticks bent for AeroSport panel |
+| counterweight | 07, 09, 21 | Rudder (07), elevator (09), aileron (21) counterbalances |
+| countersinking | Manual Sec 5, OP-51 | Machine countersinking for thick material |
+| cowling | 47 | Upper/lower cowl, hinges, air inlets |
+| crotch strap | 25, 49, OP-24 | Crotch strap bracket (25), anchor lugs (49), strap install (OP-24) |
+| dimpling | Manual Sec 5, OP-51 | Dimpling technique for flush rivets |
+| door latch | 34, 45, 45A | ⚠️ Baggage door latch (34), cabin door latches (45), safety latch (45A). N720AK: Plane Around third latch |
+| door seal | 29, 45 | ⚠️ Cabin door seal. N720AK: McMaster-Carr seal mod (door lip modified) |
 | elevator | 09 | Elevator horn, trim tab, counterbalance |
-| ELT bracket | OP-41 | Artex ELT mounting bracket |
-| engine mount | 46 | WD-1001-D1 dynafocal mount, AN6-24 bolts |
-| engine installation | FF1 | Engine-to-mount alignment, installation |
-| exhaust | FF6 | Exhaust pipes, muffler, heat muff, EGT probes |
-| firewall | 27 | Firewall assembly, stainless steel, fittings |
-| flap | 22, 40 | Flap construction (22), flap motor/actuator system (40) |
-| floor panels | 35 | Access covers, floor panels, nutplates K1100-08 |
+| ELT | 26, OP-41 | ELT mounting area (26), strobe/ELT bracket F-10112-L (OP-41) |
+| engine mount | 46 | ⚠️ WD-1001-D1 Dyna-1 dynafocal mount. N720AK: bolts through fiberglass/titanium firewall stack |
+| engine installation | FF1 | Engine-to-mount alignment, J-3804-20 isolators |
+| exhaust | FF6 | ⚠️ Stock exhaust pipes, muffler, heat muff. N720AK uses Vetterman exhaust |
+| fiberglass | 12, 24, 43, 47, 48, Manual 12 | Fairing fabrication and layup techniques |
+| firewall | 27 | ⚠️ Firewall assembly, stainless steel. N720AK: fiberglass + titanium foil overlay, Fire Barrier 3000 pass-throughs |
+| flap | 22, 40 | ⚠️ Flap construction (22), flap motor/actuator (40). N720AK: upgraded motor with linear encoder |
+| flaring (tube) | Manual Sec 5, 18, 36, 37 | Aluminum tube flaring for fuel/pitot/brake lines |
+| floor panels | 35 | Access covers, floor panels, tunnel covers, nutplates K1100-08 |
+| fuel filter | 28, 37 | ⚠️ F-1048D filter brackets (28), ES Airflow filter (37). N720AK: EFII System32 arrangement |
+| fuel flow / Flo-Scan | 28, 37 | ⚠️ VA-188 Flo-Scan mount bracket (28), transducer (37). N720AK: EFII fuel flow measurement |
 | fuel lines | 37 | ATO-035X3/8 tubing, flaring, AN818/819-6D fittings |
 | fuel pump | 37 | ES Airflow pump, Facet ES 40108, cradle pads F-1048E |
-| fuel system | 37, FF4 | In-fuselage system (37), firewall forward (FF4) |
+| fuel sender | 18 | Fuel level sender in fuel tank |
+| fuel system | 37, FF4 | ⚠️ In-fuselage system (37), firewall forward (FF4). N720AK: EFII System32, Andair duplex valve |
 | fuel tank | 18 | Tank construction, sealant, fuel cap, vent line |
-| fuel valve | 37 (pp 1-2, 7) | VA-178G valve, F-1048C-1 bracket, detent handle |
+| fuel valve | 37 (pp 1-2, 7) | ⚠️ VA-178G valve, F-1048C-1 bracket. N720AK uses Andair duplex valve |
+| gas strut | 45 | Cabin door gas strut attachment brackets |
 | gear leg | 46, 48 | Gear leg mounting (46), gear leg fairings (48) |
+| grounding / bonding | OP-37, 20, 48 | ⚠️ Airframe grounding points, ground bus. N720AK: VPX handles grounding differently |
+| heat duct | 36, 50 | VA-175 heat duct tee (36), cabin heat ducting and SCAT tube (50) |
 | horizontal stabilizer | 08 | HS spar, ribs, skin construction |
+| instrument panel | 28, 31, 31Q, 41 | ⚠️ Panel support structure (28), panel in roll bar (31/31Q), installation (41). N720AK: AeroSport carbon fiber panel |
+| intercom | OP-14, OP-23 | Intercom diagram (OP-14), intercom installation (OP-23) |
 | landing gear | 46 | Engine mount and landing gear installation |
-| landing light | OP-52, OP-52A | Wing leading edge light (OP-52), AeroLEDs (OP-52A) |
+| landing light | OP-52, OP-52A | ⚠️ Wing leading edge light (OP-52), AeroLEDs (OP-52A). N720AK: AeroLEDs custom wingtip insert |
 | longerons | 29 | Side skin longerons |
 | main spar | 13, Manual 13 | Spar construction |
-| oil system | FF5, OP-27 | Oil cooler, lines, vernatherm, filter |
-| parts index | Manual Sec 4 | Every part number with material and sub-kit |
-| pitot | — | Not in construction plans; see sys-34-navigation.md |
+| master relay | OP-37 | ⚠️ Stock master relay wiring. N720AK: EFII System32 bus manager |
+| mixer | 39 | Control system mixer (elevator/aileron mixing) |
+| mixture cable | FF3 | ⚠️ **N720AK has no mixture lever** — EFII controls electronically |
+| nose gear | 46, 48 | Nose gear leg, elastomers, link assembly, fork (46); nose wheel fairing (48) |
+| oil system | FF5, OP-27 | Oil cooler (EA 20006A), VA-135/VA-190 hoses, VA-186 box assembly, vernatherm |
+| parts index | Manual Sec 4 | Every part number with material and sub-kit — search `manual-section-4-parts-index.txt` |
+| pitot | 20, 44 | ⚠️ Pitot tube fabrication/installation (20), pitot line fuselage entry (44). N720AK: Dynon heated pitot with AoA |
+| primer / Alodine | Manual Sec 5 | Surface prep and priming procedures |
+| prop governor cable | FF3, OP-26 | Prop cable routing and governor connection |
+| pushrods | 23, 39 | Aileron pushrods (23), elevator pushrods (39) |
 | rear seat | 42, 49 | Seat backs (42), seats and belts (49) |
 | rear spar | 15 | Rear spar, flap hinge brackets |
+| riveting | Manual Sec 5, OP-51 | Rivet selection, installation, removal, driven vs pulled |
 | roll bar | 31, 41 | Roll bar structure (31), installation (41) |
-| rudder | 07 | Rudder horn, trailing edge, counterbalance |
+| RTV | FF2, 43, 50 | Baffle sealing (FF2), cabin sealing (43), duct sealing (50) |
+| rudder | 07 | ⚠️ Rudder horn, trailing edge, counterbalance. N720AK: nutplates on bottom fairing |
+| rudder cables | 10, 32, 38 | Cable routing through tailcone (10), fuselage entry (32), pedal links (38) |
 | rudder pedals | 38 | Pedals, brake master cylinders, toe brakes, adjustment |
-| seats | 49 | Front/rear seats, seat belt anchors |
+| safety wire | Manual Sec 5, 39, 46, FF1 | Safety wiring bolts and fittings |
+| SCAT tube | 50, FF6 | Cabin heat SCAT tube routing (50), exhaust heat muff connections (FF6) |
+| sealant / ProSeal | Manual Sec 5, 18, 27, 43 | Fuel tank sealant MC-236-B2 (18), firewall sealant (27), cabin sealing (43) |
+| seats | 49 | ⚠️ Front/rear seats, seat belt anchors. N720AK: Crow Cam Lock belts |
+| sheetmetal basics | OP-51 | Tutorial on basic sheetmetal work |
 | side skins | 29 | Fuselage side skins, longerons, window frames |
-| spinner | 47 | Spinner bulkhead, spinner dome |
-| stall warning | 19, OP-46 | Stall warning tab and wiring |
-| step | 30 | Entry step brackets |
-| strobe | OP-41 | Strobe power supply bracket |
+| snap bushings | 18, 25, 27, 32, 37, 38, OP-37 | Rubber snap bushings for wire/tube pass-through holes |
+| spinner | 47 | ⚠️ S-601-1 dome, S-602-1 back plate, S-603 front plate. N720AK: Whirlwind prop includes own spinner |
+| stall warning | 19, OP-46 | ⚠️ Stock stall warning tab and wiring. **N720AK: not installed** — uses Dynon AoA |
+| starter | OP-37 | ⚠️ Starter wiring, ES24021 relay. N720AK: EFII System32 bus manager |
+| static source | 10, 32 | Static port in F-1073 tailcone side skin |
+| step | 30 | ⚠️ Entry step brackets. N720AK: bushing installed inside step |
+| strobe | OP-41, OP-55, OP-56 | Strobe power supply bracket (OP-41), wingtip nav/strobe (OP-55), tail strobe (OP-56) |
+| tail lighting | OP-56 | Tail position/strobe light mounting |
 | tailcone | 10, 32 | Tailcone structure (10), attachment to fuselage (32) |
+| throttle quadrant | FF3, 41 | ⚠️ Stock vernier quadrant. N720AK: AeroSport throttle quadrant with custom cables |
+| torque tubes | 35, 40 | Flap torque tubes (40), torque tube covers (35) |
+| torque values | Manual Sec 5, 11, 44, 46, FF1 | Bolt torque specs for various assemblies |
 | trim tab | 09 | Elevator trim tab |
+| tunnel covers | 35 | F-1051A fwd, F-1051C aft, F-1051E rear seat, F-1051F baggage — AN509-8R8, K1100-08 nutplates |
 | vertical stabilizer | 06 | VS spar, ribs, skins |
+| weight & balance | Manual Main | W&B procedure, datum definition, CG calculation |
 | wheel fairings | 48 | Wheel pants, gear leg fairings, intersection fairings |
 | wheel pants | 48 | Same as wheel fairings |
-| windscreen | 41 | Windscreen installation in canopy frame |
+| windscreen | 31, 41 | Canopy frame/roll bar (31), windscreen installation (41) |
 | wing attachment | 44 | Wing root fairing, wing-to-fuselage bolts, F-1099 |
 | wing ribs | 14 | Rib forming, nose ribs |
 | wing root fairing | 44 | F-1099 supports, lower fairing |
 | wing skins | 16, 20 | Top skins (16), bottom skins (20) |
-| wing tip | 24 | Wingtip attachment, lens |
-| wingtip lighting | OP-36, OP-55 | RV-10 specific (OP-36), generic (OP-55) |
-| wiring | OP-37 | Complete RV-10 wiring harness diagram |
+| wing tip | 24 | ⚠️ Wingtip attachment, lens. N720AK: piano hinge mod + AeroLEDs insert |
+| wingtip lighting | OP-36, OP-55 | ⚠️ RV-10 specific (OP-36), generic (OP-55). N720AK: AeroLEDs |
+| wire conduit | 20 | ⚠️ N720AK added corrugated wire conduit through both wings |
+| wiring | OP-37 | ⚠️ Complete RV-10 wiring harness diagram. N720AK: VPX Sport replaces stock breaker panel |

@@ -437,13 +437,17 @@ Van's RV-10 construction plans (121 PDFs) are indexed for search in `docs/`.
 **Source PDFs**: `~/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Archive/Construction-Drawings/`
 
 **Search workflow** when user asks about construction plans, parts, or hardware:
-1. Grep `docs/construction-plans-index.md` for topic keywords
-2. Grep `docs/plans-text/` for part numbers (AN, MS, F-xxxx) or detailed terms
-3. Read the specific PDF page visually if a drawing/figure is needed (use `Read` with `pages` parameter)
+0. For part number lookups, search `docs/plans-text/manual-section-4-parts-index.txt` first — it has every Van's part number with nomenclature, material, and sub-kit
+1. For operational specs (V-speeds, control surface limits, flap range), search `sections/` POH files first — these are NOT in construction plans
+2. Grep `docs/construction-plans-index.md` for topic keywords — the Topic Cross-Reference maps topics to section numbers, and ⚠️ marks N720AK build deviations
+3. Grep `docs/plans-text/` for part numbers (AN, MS, F-xxxx) or detailed terms
+4. Read the specific PDF page visually if a drawing/figure is needed (use `Read` with `pages` parameter)
 
-**Important**: `pdftotext` does NOT extract text from these PDFs reliably — the text is rendered as vector graphics. The `.txt` files in `docs/plans-text/` were created by visually reading each PDF page and transcribing all visible text, part numbers, steps, and callouts. Some sections still need transcription — check file size (files under 100 bytes are likely incomplete).
-
-**Parts Index**: `docs/plans-text/manual-section-4-parts-index.txt` contains every Van's part number with nomenclature, material, and sub-kit assignment. Search here first for "what part number is X" questions.
+**Important notes**:
+- `pdftotext` does NOT extract text from these PDFs — the `.txt` files were created by visually transcribing each page. All 54 core sections have `=== PAGE N ===` markers.
+- Construction plans show **assembly**, not disassembly. For removal questions, the answer is typically "reverse of installation."
+- **N720AK deviates from stock plans** in 25+ areas (see Build Deviations table in the index). Always check deviations before answering — the plans show what Van's designed, not necessarily what's installed.
+- AN fastener numbers in the plans cross-reference to modern MS/NAS numbers used by retailers — see `sections/sys-00-workshop.md` "AN/MS/NAS Fastener Cross-Reference" section for the full mapping (AN509→MS24694, AN426→MS20426, AN365→MS21044, etc.).
 
 ## Editing Tips
 
