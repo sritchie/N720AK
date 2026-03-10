@@ -53,7 +53,25 @@ The VPX Sport provides:
 
 ### Monkworkz MZ-30 Generator
 
-Installed 2026-03-09. The MZ-30 is a permanent-magnet generator mounted on the engine's vacuum pad, providing independent charging for Battery 2.
+Installed 2026-03-09. The MZ-30 is a permanent-magnet generator driven off the engine's vacuum pump pad, providing independent charging for Battery 2. Manual version 4, dated 2024-10-22.
+
+#### Specifications
+
+| Parameter | Value |
+|-----------|-------|
+| Output voltage | ~14.4 VDC (configurable: 14.6 or 14.2 VDC) |
+| Max current | 30 amps (at ≥1800 RPM tach speed) |
+| Current at idle | 15 amps (at 900–1000 RPM tach speed) |
+| RPM limit | 3572 crankshaft RPM (4600 generator RPM) |
+| Vacuum pad ratio | 1.3:1 (Lycoming) |
+| Generator weight | 2 lbs 1 oz |
+| Regulator weight | 8.2 oz |
+| Combined weight | ~2.6 lbs |
+| Environmental | Tested to 115°F ambient |
+
+**Voltage selection**: Ships configured for 14.6 VDC. For lithium batteries (EarthX), the lower 14.2 VDC setting is recommended per Monkworkz Feb 2026 guidance. To select 14.2V, disconnect pin 1 (VSEL) on the input side Pico-Lock connector. Voltage is set at startup and cannot be changed while running.
+
+<!-- TODO: Confirm which voltage setting is currently configured on N720AK (14.6 or 14.2). If 14.6, consider switching to 14.2 per lithium battery recommendation. -->
 
 #### Architecture
 
@@ -76,45 +94,83 @@ The generator output connects to the Battery 2 stud inside the bus manager (Draw
 - The enable switch provides pilot control to disable the generator in flight
 - The generator cannot turn itself on (unlike the Monkworkz reference diagram which powers the relay from the generator output)
 
+**Note**: The manual recommends connecting to the switched side of the master contactor to avoid parasitic draw from the regulator's ~30mA diagnostic blink code circuit. The BOSCH relay achieves the same purpose.
+
 #### MZ Regulator Connections
 
 The MZ regulator is mounted on the engine mount with the following connections:
 
-**Generator side** (3-phase, #6 screw terminals, 14 AWG):
-- Terminal 7 (~1), Terminal 8 (~2), Terminal 9 (~3) → MZ Generator
+**Generator side** (3-phase, #6 screw terminals, 12 AWG):
+- Terminal 7 (~1), Terminal 8 (~2), Terminal 9 (~3) → MZ Generator (phases can be connected in any order)
 
-**Input Molex** (pre-wired, 22-24 AWG):
+**Input Molex Pico-Lock** (pre-wired, 22-24 AWG):
+- Pin 1: Voltage_Select (connected = 14.6V, disconnected = 14.2V)
+- Pin 5: GEN_Thermistor → Generator thermistor (required — system will not produce output without it)
 - Pin 6: GND
-- Pin 5: GEN_Thermistor → Generator thermistor
-- Pin 1: Voltage_Select
 
-**Output Molex** (22-24 AWG):
-- Pin 1: Enable → Pilot enable switch
-- Pin 2: Active_High
-- Pin 3: +i_Shunt
+**Output Molex Pico-Lock** (22-24 AWG):
+- Pin 1: Enable → Pilot enable switch (pin 1 to switch center, pin 6 to switch N.O.)
+- Pin 2: Output_Active — pulls to ground when regulator is active and maintaining ≥14V (works with Dynon/Garmin EFIS contact inputs)
+- Pin 3: +i_Shunt (internal fuse used as shunt, 1.1 mΩ nominal)
 - Pin 4: −i_Shunt
-- Pin 5: Proportional_Current → Dynon EMS pin 31 (0–2.8V, brown/blue wire)
+- Pin 5: Proportional_Current → Dynon EMS pin 31 (0–~2.7V = 0–30A, brown/blue wire)
 - Pin 6: GND
 
-**Power output** (#6 screw terminals, 10 AWG):
+**Power output** (#6 screw terminals, 10 AWG Tefzel):
 - Terminal 17: Output_Power_Positive → BOSCH relay → Battery 2 stud (bus manager)
-- Terminal 18: Output_Power_Ground
+- Terminal 18: Output_Power_Ground (to clean metal airframe ground, no paint/corrosion)
+
+**Caution**: The Pico-Lock connectors are delicate — add ~0.5" maintenance loops in the connector wires, secured to nearby 12/10 AWG wires with a small pre-load toward the connector to prevent unseating.
+
+#### Cooling
+
+Both generator and regulator require cooling via 3/4" holes in the engine baffling with corrugated nylon tubing routed from the baffling. The duct material is a force fit into the generator, regulator, and baffling holes. RTV can improve the seal.
+
+<!-- TODO: Confirm cooling ducts are installed and routed for both generator and regulator -->
 
 #### Generator Enable Switch
 
 Panel-mounted next to the primary alternator field switch. Controls the relay coil circuit (essential bus → enable switch → relay coil → ground).
 
+The enable switch wiring connects pin 1 (Enable) to the switch center post and pin 6 (GND) to the switch's normally-open terminal, grounded at the regulator end (not at the panel — grounding at the panel can cause ground loops and erratic behavior per manual section 2.1).
+
+#### Startup Behavior
+
+After engine start, when RPM exceeds ~1200, the MZ-30 performs an internal self-test (2–4 seconds). If all checks pass, it begins providing output voltage. The enable switch can be set ON as part of the pre-start checklist or activated at idle.
+
+#### Protection Features
+
+- **Overvoltage Protection (OVP)**: Shuts down output in <1 second if overvoltage detected. If OVP triggers 3 times in one flight, system shuts down for the remainder of that flight. If this occurs across 3 separate flights (9 total OVP events), the regulator requires service/replacement from Monkworkz.
+- **Thermal protection**: Two-stage — first reduces to half current limit, then full shutdown if temperature continues rising. Recovers automatically when temperature drops below recovery threshold.
+- **Current limiting**: Electronic current limiting at 30A. Output fuse is internally replaceable by a repair shop only.
+- **Shear coupling**: Located between input spline and motor shaft. Breaks if vacuum drive torque is exceeded — contact Monkworkz for replacement if generator rotates freely.
+
+#### Regulator Blink Codes
+
+The regulator has a diagnostic LED on the output side:
+
+| Flashes/sec | Meaning |
+|-------------|---------|
+| 1 | Thermistor disconnected (check connection, should read ~100kΩ) |
+| 2 | Overvoltage lockout (9 total OVP events across 3 flights — return to Monkworkz) |
+| 3 | Disabled (enable pin not grounded — enable switch is off) |
+| 4 | Enabled (enable pin grounded — enable switch is on, normal operation) |
+| 5 | Thermistor shorted or over-temperature |
+
+The Output Active pin (pin 2) also provides status: it "flashes" on an 8-second cycle (4s ground, 4s open) if the generator is overheating, providing an in-cockpit indication.
+
 #### Dynon EMS Monitoring
 
-The MZ-30's proportional current output (pin 5, 0–2.8V) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
+The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
 
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
 <!-- TODO: Reinstall CO detector on alternate Dynon EMS pin (27, 28, 36, or 37 available) or use standalone CO monitor -->
+<!-- TODO: Consider wiring Output Active (pin 2) to a Dynon contact input for generator active/failed annunciation -->
 
 #### References
 
 - [Monkworkz MZ-30 product page](https://monkworkz.com/product/mz-30/)
-- MZ-30 Installation and Operation Manual — <!-- TODO: request updated manual from Bill at Monkworkz (aeroelectric.com version is for older MZ-30L) -->
+- [MZ-30 Installation and Operation Manual V4 (2024-10-22)](https://drive.google.com/file/d/PENDING/view) — filed in GDrive `Public/Manuals/24-Electrical/`
 - [VAF: Monkworkz Wiring for Amps Readout](https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075)
 - Bus Manager Installation Guide, Drawing 5A (page 13)
 
@@ -414,7 +470,7 @@ Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 | 27 | General thermocouple 1+ | Not used |
 | 28 | General thermocouple 1− | Not used |
 | 29 | Warning light output | Not used |
-| 31 | Monkworkz MZ-30 proportional current (was CO Guardian) | Brown/blue — 0–2.8V proportional to generator amps. Sensor definition not yet configured in Dynon. |
+| 31 | Monkworkz MZ-30 proportional current (was CO Guardian) | Brown/blue — 0–2.7V proportional to 0–30A generator output. Sensor definition not yet configured in Dynon. |
 | 32 | RPM input left (high voltage) | Not used (using pin 34 low voltage) |
 | 33 | RPM input right (high voltage) | Not used (using pin 35 low voltage) |
 | 36 | General thermocouple 2+ | Not used |
