@@ -4,7 +4,7 @@
 
 ## Overview
 
-N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII System32 Bus Manager**. Power distribution and electronic circuit breaker protection are provided by the **Vertical Power VPX Sport**. Two **EarthX ETX900** lithium batteries provide redundant power, and a single **60-amp alternator** handles in-flight charging.
+N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII System32 Bus Manager**. Power distribution and electronic circuit breaker protection are provided by the **Vertical Power VPX Sport**. Two **EarthX ETX900** lithium batteries provide redundant power with fully isolated charging systems: a **60-amp primary alternator** charges Battery 1, and a **Monkworkz MZ-30L generator** charges Battery 2.
 
 ## Components
 
@@ -12,9 +12,12 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 |-----------|-------------|----------|-------|
 | Bus Manager | System32 | flyEFII | Controls essential vs main bus — [manual](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
 | Power distribution | VPX Sport | Vertical Power | Electronic breakers — [manual](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) |
-| Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | <!-- TODO: location --> |
-| Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | <!-- TODO: location --> |
-| Alternator | <!-- TODO --> | <!-- TODO --> | 60 amp, 14 volt |
+| Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by primary alternator |
+| Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by Monkworkz generator |
+| Primary Alternator | <!-- TODO: P/N --> | <!-- TODO --> | 60 amp, 14 volt |
+| Generator | [MZ-30L](http://www.aeroelectric.com/Mfgr_Data/Monkworkx/MZ-30L%20Installation%20and%20Operation%20Manual%202021.pdf) | Monkworkz | Mounted on engine vacuum pad |
+| MZ Regulator | (included with MZ-30L) | Monkworkz | Mounted on engine mount |
+| Generator relay | BOSCH 0332019155 | Bosch | NO relay, 30A, 12V, internal diode |
 | Master switch | <!-- TODO --> | <!-- TODO --> | Keyed |
 
 ## How It Works
@@ -47,6 +50,72 @@ The VPX Sport provides:
 <!-- TODO: VPX channel assignments — what's on each channel? -->
 <!-- TODO: How are the buses connected? What's the bus tie arrangement? -->
 <!-- TODO: Alternator field control — how does it work? -->
+
+### Monkworkz MZ-30L Generator
+
+Installed 2026-03-09. The MZ-30L is a permanent-magnet generator mounted on the engine's vacuum pad, providing independent charging for Battery 2.
+
+#### Architecture
+
+The two battery charging systems are **fully isolated**:
+
+| System | Charges | Source |
+|--------|---------|--------|
+| Primary alternator (60A) | Battery 1 | Belt-driven |
+| Monkworkz MZ-30L | Battery 2 | Engine vacuum pad |
+
+The bus manager's internal screw that previously allowed the primary alternator to cross-charge Battery 2 has been removed. Each battery has a dedicated charging source.
+
+#### Generator → Battery 2 Wiring
+
+The generator output connects to the Battery 2 stud inside the bus manager (Drawing 5A, bus manager installation guide page 13). A **BOSCH 0332019155 normally-open relay** (30A, 12V, internal diode) sits between the generator output and Battery 2 to prevent parasitic draw when the engine is off.
+
+**Relay coil power**: Essential bus + generator enable switch. This design means:
+
+- Turning off the ignition key de-energizes the essential bus, opening the relay and disconnecting the generator from Battery 2 — regardless of enable switch position
+- The enable switch provides pilot control to disable the generator in flight
+- The generator cannot turn itself on (unlike the Monkworkz reference diagram which powers the relay from the generator output)
+
+#### MZ Regulator Connections
+
+The MZ regulator is mounted on the engine mount with the following connections:
+
+**Generator side** (3-phase, #6 screw terminals, 14 AWG):
+- Terminal 7 (~1), Terminal 8 (~2), Terminal 9 (~3) → MZ Generator
+
+**Input Molex** (pre-wired, 22-24 AWG):
+- Pin 6: GND
+- Pin 5: GEN_Thermistor → Generator thermistor
+- Pin 1: Voltage_Select
+
+**Output Molex** (22-24 AWG):
+- Pin 1: Enable → Pilot enable switch
+- Pin 2: Active_High
+- Pin 3: +i_Shunt
+- Pin 4: −i_Shunt
+- Pin 5: Proportional_Current → Dynon EMS pin 31 (0–2.8V, brown/blue wire)
+- Pin 6: GND
+
+**Power output** (#6 screw terminals, 10 AWG):
+- Terminal 17: Output_Power_Positive → BOSCH relay → Battery 2 stud (bus manager)
+- Terminal 18: Output_Power_Ground
+
+#### Generator Enable Switch
+
+Panel-mounted next to the primary alternator field switch. Controls the relay coil circuit (essential bus → enable switch → relay coil → ground).
+
+#### Dynon EMS Monitoring
+
+The MZ-30L's proportional current output (pin 5, 0–2.8V) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
+
+<!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
+<!-- TODO: Reinstall CO detector on alternate Dynon EMS pin (27, 28, 36, or 37 available) or use standalone CO monitor -->
+
+#### References
+
+- [MZ-30L Installation and Operation Manual (2021)](http://www.aeroelectric.com/Mfgr_Data/Monkworkx/MZ-30L%20Installation%20and%20Operation%20Manual%202021.pdf)
+- [VAF: Monkworkz Wiring for Amps Readout](https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075)
+- Bus Manager Installation Guide, Drawing 5A (page 13)
 
 ## Wiring
 
@@ -344,7 +413,7 @@ Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 | 27 | General thermocouple 1+ | Not used |
 | 28 | General thermocouple 1− | Not used |
 | 29 | Warning light output | Not used |
-| 31 | CO Guardian | Orange/brown (type C, in progress) |
+| 31 | Monkworkz MZ-30L proportional current (was CO Guardian) | Brown/blue — 0–2.8V proportional to generator amps. Sensor definition not yet configured in Dynon. |
 | 32 | RPM input left (high voltage) | Not used (using pin 34 low voltage) |
 | 33 | RPM input right (high voltage) | Not used (using pin 35 low voltage) |
 | 36 | General thermocouple 2+ | Not used |

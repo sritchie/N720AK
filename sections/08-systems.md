@@ -144,9 +144,17 @@ Fuel is stored in two wing tanks with a selector valve on the center tunnel.
 
 | Component | Specification |
 |-----------|---------------|
-| Alternator | 60 amp, 14 volt |
+| Primary Alternator | 60 amp, 14 volt — charges Battery 1 |
+| Generator | Monkworkz MZ-30L — charges Battery 2 |
 | Battery 1 | EarthX ETX900 |
 | Battery 2 | EarthX ETX900 |
+
+The two charging systems are fully isolated. The primary alternator charges
+Battery 1 only, and the Monkworkz generator charges Battery 2 only.
+
+A **Generator Enable** switch on the panel (next to the alternator field switch)
+controls the generator. A normally-open relay disconnects the generator from
+Battery 2 whenever the ignition key is off, preventing parasitic battery drain.
 
 ### Bus Architecture
 
@@ -263,6 +271,7 @@ Controlled via:
 
 - Flap switch
 - Alternator field
+- Generator enable
 - Avionics power
 - Emergency power
 
