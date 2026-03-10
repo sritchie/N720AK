@@ -454,6 +454,7 @@ Van's RV-10 construction plans (121 PDFs) are indexed for search in `docs/`.
 2. Grep `docs/construction-plans-index.md` for topic keywords — the Topic Cross-Reference maps topics to section numbers, and ⚠️ marks N720AK build deviations
 3. Grep `docs/plans-text/` for part numbers (AN, MS, F-xxxx) or detailed terms
 4. Read the specific PDF page visually if a drawing/figure is needed (use `Read` with `pages` parameter)
+5. **Search VansAirForce.net** — the VAF forums are an invaluable resource for RV-10 construction questions. Many build questions (especially ambiguous plan details, "what are these holes for", fitment issues, and builder tips) have been discussed and answered there. Always consider searching VAF when the plans alone don't give a clear answer.
 
 **Important notes**:
 - `pdftotext` does NOT extract text from these PDFs — the `.txt` files were created by visually transcribing each page. All 54 core sections have `=== PAGE N ===` markers.

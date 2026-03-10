@@ -37,6 +37,8 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 | Left rear window | Cee Bailey | |
 | Right rear window | Cee Bailey | |
 
+| Window adhesive | [Lord 7545 A/E](https://www.aerosportproducts.com/product/lord-7545-a-e-adhesive/) | Aerosport Products | Two-part urethane adhesive |
+
 <!-- TODO: Material type — acrylic? Thickness? -->
 <!-- TODO: Cleaning and care instructions -->
 
