@@ -38,18 +38,27 @@ case "${1:-all}" in
     mdbook serve --open
     ;;
 
+  checklists)
+    echo "Building cabin checklists PDF..."
+    python3 json_to_checklist_pdf.py N720AK.json
+    typst compile output/checklists.typ output/checklists.pdf
+    echo "Done: output/checklists.pdf"
+    ;;
+
   all)
     $0 pdf
     $0 html
+    $0 checklists
     ;;
 
   *)
-    echo "Usage: ./build.sh [pdf|html|serve|all]"
+    echo "Usage: ./build.sh [pdf|html|serve|checklists|all]"
     echo ""
-    echo "  pdf    - Build PDF using Pandoc/Typst"
-    echo "  html   - Build static HTML site using mdBook"
-    echo "  serve  - Start mdBook dev server with live reload"
-    echo "  all    - Build both PDF and HTML"
+    echo "  pdf        - Build PDF using Pandoc/Typst"
+    echo "  html       - Build static HTML site using mdBook"
+    echo "  serve      - Start mdBook dev server with live reload"
+    echo "  checklists - Build cabin checklists PDF from N720AK.json"
+    echo "  all        - Build PDF, HTML, and checklists"
     exit 1
     ;;
 esac

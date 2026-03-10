@@ -162,7 +162,7 @@ N720AK departs from the stock Van's plans in many areas. When searching the plan
 | 19 | Stock stall warning system (tab + microswitch) | **Not installed** — Dynon heated pitot with AoA | See sys-34-onspeed.md |
 | 20 | Stock wing interior | Added corrugated wire conduit through both wings | For wiring runs |
 | 24 | Wingtip with nutplates, stock lens | Piano hinge mod (secured to wingtip rib) + AeroLEDs custom insert | See sys-33-lighting.md |
-| 27 | Stock firewall | Fiberglass + titanium foil overlay, eyeball pass-throughs with Fire Barrier 3000 | Engine mount bolts through composite stack |
+| 27 | Stock firewall | Fiberfrax + titanium foil overlay, sealed with FireBarrier 3000. Stainless steel eyeball pass-throughs for control cables, firesleeved pass-throughs for wiring. EFII wiring has its own connectors. MAP sensors relocated from firewall forward to under panel (next to Dynon MAP sensor). | Engine mount bolts through composite stack |
 | 30 | Stock step | Bushing installed inside step | |
 | 31/31Q | Stock aluminum instrument panel | AeroSport carbon fiber panel; sticks bent to fit | See sys-42-avionics.md |
 | 36 | Stock brake lines | TS Flight Lines custom brake lines | See sys-61-brakes.md |
@@ -173,7 +173,7 @@ N720AK departs from the stock Van's plans in many areas. When searching the plan
 | 45 | Stock cabin door seal | McMaster-Carr seal modification (door lip modified) | |
 | 45A | Stock cabin door safety latch | **Not installed** — Plane Around third latch system instead | |
 | 46 | Stock spinner | **Not used** — Whirlwind RV-10 propeller includes its own spinner | See sys-84-propeller.md |
-| 46 | Stock engine mount installation | Engine mount cut through fiberglass/titanium firewall stack | |
+| 46 | Stock engine mount installation | Engine mount cut through Fiberfrax/titanium firewall stack | |
 | 48 | Stock fairings only | Added custom intersection fairings | |
 | 49 | Stock seat belts | Crow Cam Lock seat belts | |
 | FF2 | Stock baffle sealing | Extensive gap-filling — sealed every possible air leak | |
@@ -218,11 +218,11 @@ Topics marked with ⚠️ have N720AK build deviations — see the deviations ta
 | door seal | 29, 45 | ⚠️ Cabin door seal. N720AK: McMaster-Carr seal mod (door lip modified) |
 | elevator | 09 | Elevator horn, trim tab, counterbalance |
 | ELT | 26, OP-41 | ELT mounting area (26), strobe/ELT bracket F-10112-L (OP-41) |
-| engine mount | 46 | ⚠️ WD-1001-D1 Dyna-1 dynafocal mount. N720AK: bolts through fiberglass/titanium firewall stack |
+| engine mount | 46 | ⚠️ WD-1001-D1 Dyna-1 dynafocal mount. N720AK: bolts through Fiberfrax/titanium firewall stack |
 | engine installation | FF1 | Engine-to-mount alignment, J-3804-20 isolators |
 | exhaust | FF6 | ⚠️ Stock exhaust pipes, muffler, heat muff. N720AK uses Vetterman exhaust |
 | fiberglass | 12, 24, 43, 47, 48, Manual 12 | Fairing fabrication and layup techniques |
-| firewall | 27 | ⚠️ Firewall assembly, stainless steel. N720AK: fiberglass + titanium foil overlay, Fire Barrier 3000 pass-throughs |
+| firewall | 27 | ⚠️ Firewall assembly, stainless steel. N720AK: Fiberfrax + titanium foil overlay, sealed with FireBarrier 3000. SS eyeball pass-throughs (control cables), firesleeved pass-throughs (wiring), EFII own connectors. MAP sensors moved under panel. |
 | flap | 22, 40 | ⚠️ Flap construction (22), flap motor/actuator (40). N720AK: upgraded motor with linear encoder |
 | flaring (tube) | Manual Sec 5, 18, 36, 37 | Aluminum tube flaring for fuel/pitot/brake lines |
 | floor panels | 35 | Access covers, floor panels, tunnel covers, nutplates K1100-08 |

@@ -51,7 +51,12 @@
       "mcp__claude_ai_Notion__notion-search",
       "mcp__claude_ai_Notion__notion-fetch",
       "Bash(cp:*)",
-      "Bash(GDRIVE=\"$HOME/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Public/Manuals\")"
+      "Bash(GDRIVE=\"$HOME/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Public/Manuals\")",
+      "Bash(typst compile:*)",
+      "Bash(./build.sh checklists:*)",
+      "Bash(fc-list:*)",
+      "Bash(ssh-add:*)",
+      "Bash(ssh:*)"
     ]
   }
 }
