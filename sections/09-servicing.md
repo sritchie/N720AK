@@ -102,6 +102,25 @@ Drain each tank sump and check for water/contamination:
 - Before first flight of day
 - After refueling
 
+## Generator Service
+
+### Monkworkz MZ-30L
+
+| Item | Specification |
+|------|---------------|
+| Type | Permanent-magnet generator |
+| Mount | Engine vacuum pad |
+| Output | Variable (RPM-dependent) |
+| Regulator | MZ Regulator (mounted on engine mount) |
+
+The MZ-30L requires no brushes or field winding — maintenance is minimal.
+Inspect the generator mount and wiring connections at each condition inspection.
+Check the regulator mounting and Molex connectors for security and corrosion.
+
+The BOSCH relay (0332019155) in the generator-to-battery circuit should be
+verified for proper operation: with the engine running and enable switch on,
+Battery 2 voltage should show a charging indication.
+
 ## Battery Service
 
 | Battery | Location | Type |
