@@ -4,7 +4,7 @@
 
 ## Overview
 
-N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII System32 Bus Manager**. Power distribution and electronic circuit breaker protection are provided by the **Vertical Power VPX Sport**. Two **EarthX ETX900** lithium batteries provide redundant power with fully isolated charging systems: a **60-amp primary alternator** charges Battery 1, and a **Monkworkz MZ-30L generator** charges Battery 2.
+N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII System32 Bus Manager**. Power distribution and electronic circuit breaker protection are provided by the **Vertical Power VPX Sport**. Two **EarthX ETX900** lithium batteries provide redundant power with fully isolated charging systems: a **60-amp primary alternator** charges Battery 1, and a **Monkworkz MZ-30 generator** charges Battery 2.
 
 ## Components
 
@@ -15,8 +15,8 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 | Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by primary alternator |
 | Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by Monkworkz generator |
 | Primary Alternator | <!-- TODO: P/N --> | <!-- TODO --> | 60 amp, 14 volt |
-| Generator | [MZ-30L](http://www.aeroelectric.com/Mfgr_Data/Monkworkx/MZ-30L%20Installation%20and%20Operation%20Manual%202021.pdf) | Monkworkz | Mounted on engine vacuum pad |
-| MZ Regulator | (included with MZ-30L) | Monkworkz | Mounted on engine mount |
+| Generator | [MZ-30](https://monkworkz.com/product/mz-30/) | Monkworkz | Mounted on engine vacuum pad |
+| MZ Regulator | (included with MZ-30) | Monkworkz | Mounted on engine mount |
 | Generator relay | BOSCH 0332019155 | Bosch | NO relay, 30A, 12V, internal diode |
 | Master switch | <!-- TODO --> | <!-- TODO --> | Keyed |
 
@@ -51,9 +51,9 @@ The VPX Sport provides:
 <!-- TODO: How are the buses connected? What's the bus tie arrangement? -->
 <!-- TODO: Alternator field control — how does it work? -->
 
-### Monkworkz MZ-30L Generator
+### Monkworkz MZ-30 Generator
 
-Installed 2026-03-09. The MZ-30L is a permanent-magnet generator mounted on the engine's vacuum pad, providing independent charging for Battery 2.
+Installed 2026-03-09. The MZ-30 is a permanent-magnet generator mounted on the engine's vacuum pad, providing independent charging for Battery 2.
 
 #### Architecture
 
@@ -62,7 +62,7 @@ The two battery charging systems are **fully isolated**:
 | System | Charges | Source |
 |--------|---------|--------|
 | Primary alternator (60A) | Battery 1 | Belt-driven |
-| Monkworkz MZ-30L | Battery 2 | Engine vacuum pad |
+| Monkworkz MZ-30 | Battery 2 | Engine vacuum pad |
 
 The bus manager's internal screw that previously allowed the primary alternator to cross-charge Battery 2 has been removed. Each battery has a dedicated charging source.
 
@@ -106,14 +106,15 @@ Panel-mounted next to the primary alternator field switch. Controls the relay co
 
 #### Dynon EMS Monitoring
 
-The MZ-30L's proportional current output (pin 5, 0–2.8V) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
+The MZ-30's proportional current output (pin 5, 0–2.8V) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
 
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
 <!-- TODO: Reinstall CO detector on alternate Dynon EMS pin (27, 28, 36, or 37 available) or use standalone CO monitor -->
 
 #### References
 
-- [MZ-30L Installation and Operation Manual (2021)](http://www.aeroelectric.com/Mfgr_Data/Monkworkx/MZ-30L%20Installation%20and%20Operation%20Manual%202021.pdf)
+- [Monkworkz MZ-30 product page](https://monkworkz.com/product/mz-30/)
+- MZ-30 Installation and Operation Manual — <!-- TODO: request updated manual from Bill at Monkworkz (aeroelectric.com version is for older MZ-30L) -->
 - [VAF: Monkworkz Wiring for Amps Readout](https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075)
 - Bus Manager Installation Guide, Drawing 5A (page 13)
 
@@ -413,7 +414,7 @@ Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 | 27 | General thermocouple 1+ | Not used |
 | 28 | General thermocouple 1− | Not used |
 | 29 | Warning light output | Not used |
-| 31 | Monkworkz MZ-30L proportional current (was CO Guardian) | Brown/blue — 0–2.8V proportional to generator amps. Sensor definition not yet configured in Dynon. |
+| 31 | Monkworkz MZ-30 proportional current (was CO Guardian) | Brown/blue — 0–2.8V proportional to generator amps. Sensor definition not yet configured in Dynon. |
 | 32 | RPM input left (high voltage) | Not used (using pin 34 low voltage) |
 | 33 | RPM input right (high voltage) | Not used (using pin 35 low voltage) |
 | 36 | General thermocouple 2+ | Not used |

@@ -145,7 +145,7 @@ Fuel is stored in two wing tanks with a selector valve on the center tunnel.
 | Component | Specification |
 |-----------|---------------|
 | Primary Alternator | 60 amp, 14 volt — charges Battery 1 |
-| Generator | Monkworkz MZ-30L — charges Battery 2 |
+| Generator | Monkworkz MZ-30 — charges Battery 2 |
 | Battery 1 | EarthX ETX900 |
 | Battery 2 | EarthX ETX900 |
 

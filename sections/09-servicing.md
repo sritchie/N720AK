@@ -104,7 +104,7 @@ Drain each tank sump and check for water/contamination:
 
 ## Generator Service
 
-### Monkworkz MZ-30L
+### Monkworkz MZ-30
 
 | Item | Specification |
 |------|---------------|
@@ -113,7 +113,7 @@ Drain each tank sump and check for water/contamination:
 | Output | Variable (RPM-dependent) |
 | Regulator | MZ Regulator (mounted on engine mount) |
 
-The MZ-30L requires no brushes or field winding — maintenance is minimal.
+The MZ-30 requires no brushes or field winding — maintenance is minimal.
 Inspect the generator mount and wiring connections at each condition inspection.
 Check the regulator mounting and Molex connectors for security and corrosion.
 
