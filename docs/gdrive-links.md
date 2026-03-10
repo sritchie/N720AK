@@ -33,6 +33,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | vpx-sport-install-operating-manual-rev-g3.pdf | [link](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) |
 | efii-bus-manager-install-instructions.pdf | [link](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
 | earthx-etx900-installation-manual.pdf | [link](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) |
+| monkworkz-mz30-installation-operation-manual-v4.pdf | <!-- TODO: get shareable link after GDrive sync --> |
 | vpx-getting-started-guide.pdf | [link](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view) |
 
 ### 27-Flight-Controls

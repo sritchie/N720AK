@@ -109,17 +109,41 @@ Drain each tank sump and check for water/contamination:
 | Item | Specification |
 |------|---------------|
 | Type | Permanent-magnet generator |
-| Mount | Engine vacuum pad |
-| Output | Variable (RPM-dependent) |
+| Mount | Engine vacuum pad (1.3:1 crankshaft ratio) |
+| Output | ~14.4 VDC, 30A max |
+| RPM Limit | 3572 crankshaft RPM |
 | Regulator | MZ Regulator (mounted on engine mount) |
 
 The MZ-30 requires no brushes or field winding — maintenance is minimal.
-Inspect the generator mount and wiring connections at each condition inspection.
-Check the regulator mounting and Molex connectors for security and corrosion.
 
-The BOSCH relay (0332019155) in the generator-to-battery circuit should be
-verified for proper operation: with the engine running and enable switch on,
-Battery 2 voltage should show a charging indication.
+**Condition inspection items:**
+
+- Inspect generator mount bolts and silicon/fiberglass gasket
+- Check 12 AWG phase wires from generator to regulator for chafe, routing
+  clear of exhaust, and no tension from engine movement
+- Check regulator mounting on engine mount
+- Inspect Pico-Lock connectors (input and output) for security — add
+  maintenance loops if missing
+- Verify cooling ducts (3/4" corrugated nylon) are intact and connected
+  to both generator and regulator
+- Check regulator blink code LED (4 flashes/sec = enabled and normal)
+- Verify shear coupling is intact: generator should NOT rotate freely.
+  If it does, the shear coupling has split — contact Monkworkz for replacement.
+- Keep ferrous metal shavings away from generator exterior (permanent magnets)
+
+**Operational check:**
+
+With engine running and enable switch on, Battery 2 voltage should show a
+charging indication. The BOSCH relay (0332019155) should be energized
+(audible click when enable switch is toggled with ignition on).
+
+**Do not open the regulator box** — adhesive inside dampens vibration,
+and opening risks tearing components off the circuit board.
+
+**Fuses**: Input and output fuses are internal to the regulator. If either
+blows, the regulator likely needs service. Fuses can be tested with an
+ohmmeter (should show near-zero resistance). Contact Monkworkz for
+replacement.
 
 ## Battery Service
 
