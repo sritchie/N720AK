@@ -303,6 +303,14 @@ Target domain: **n720ak.com** (configure in GitHub Pages settings)
 
 ## Git Workflow
 
+**Never commit directly to main.** Always create a branch, open a PR, and squash merge.
+
+After making edits to POH sections, sys-* pages, or any repo files, always:
+1. Create a descriptive branch name
+2. Commit with an imperative-mood message
+3. Push and open a PR with a summary
+4. Squash merge the PR
+
 When merging PRs, **always use squash merge** via `gh pr merge`:
 
 ```bash
@@ -312,6 +320,8 @@ gh pr merge <number> --squash \
 ```
 
 The squash commit title should be the PR title, and the body should be the PR description. This keeps `main` history clean with one commit per PR.
+
+**Do not leave unstaged changes.** Every editing session should end with a clean working tree.
 
 ## Systems Reference TODOs
 
@@ -363,8 +373,15 @@ When the user reports maintenance work (verbally, by dictation, or in chat), Cla
    - Who did the work
 4. **Append a new row** to the appropriate TSV file using the Edit tool
 5. **Update `recurring-items.tsv`** if the work satisfies a recurring item (update Last Done Date and Last Done Tach/Hobbs)
-6. **Check if this resolves any open squawks** — if so, update the squawk's Status to "Cleared" with corrective action details
-7. **Proactively suggest** related items that might be due soon (e.g., "Since you changed the oil, did you also send a sample to Blackstone?")
+6. **Proactively suggest** related items that might be due soon (e.g., "Since you changed the oil, did you also send a sample to Blackstone?")
+
+### Maintenance Log Conventions
+
+- **Performed By**: Always `Sam Ritchie (Repairman 5256450)` unless otherwise specified
+- **No external references** in log entries — no URLs, no "see VAF post", no manual page citations. References belong in sys-* pages only.
+- **No pending/future work** in logs or squawks — Sam tracks upcoming work in Linear. Only document completed work.
+- **Squawks** are for long-lived discrepancies only, not for items about to be addressed.
+- Log entries should be factual, past-tense descriptions of work performed.
 
 ### How to Add Squawks
 
