@@ -11,7 +11,7 @@ the maximum extent possible.
 
 ## Exterior Dimensions
 
-<!-- ![Three-View Drawing](images/three-view.png) -->
+<!-- ![Three-View Drawing](../images/three-view.png) -->
 
 | Dimension | Value |
 |-----------|-------|
@@ -25,7 +25,7 @@ the maximum extent possible.
 
 ## Interior Dimensions
 
-<!-- ![Interior Dimensions](images/interior-dimensions.png) -->
+<!-- ![Interior Dimensions](../images/interior-dimensions.png) -->
 
 ## General Specifications
 
