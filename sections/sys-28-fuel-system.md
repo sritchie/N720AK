@@ -74,7 +74,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 ### Key Design Points
 
 - **Pressurized loop**: The pumps pressurize fuel continuously. The regulator bypasses excess fuel back to the tank. The injectors pull from a fuel rail that's always at pressure.
-- **Dual pumps**: Primary and backup Walbro 391 pumps on a rack. Only one runs at a time. <!-- TODO: confirm — is there a selector switch, or does the ECU control this? -->
+- **Dual pumps**: Primary and backup Walbro 391 pumps on a rack. Only one runs at a time. A bus manager switch selects **1/AUTO** or **2**. In 1/AUTO mode, the bus manager automatically cuts over from pump 1 to pump 2 if fuel pressure drops to 22 PSI or below. The cutover is controlled by the bus manager and performed by a relay mounted under the panel.
 - **Two-stage filtration**: 40μ pre-filter before the pumps (protects pumps), 10μ post-filter after the pumps (protects injectors and regulator).
 - **MAP reference**: The regulator's vacuum reference comes from an **orifice port on the throttle body** that provides a stable, damped manifold pressure signal. This is a small restrictive fitting — not a wide-open port — to prevent fuel pressure from chasing rapid MAP transients.
 - **Return routing**: The return line goes back through the firewall to the Andair duplex valve, which routes it to whichever tank is currently selected. This is a direct run — no additional valving on the return side.
@@ -88,15 +88,20 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 | Parameter | Value |
 |-----------|-------|
 | Capacity (each) | 30 gallons |
-| Total usable | <!-- TODO: confirm usable vs total --> |
-| Fuel type | <!-- TODO: confirm — 100LL? autogas STC? --> |
+| Total usable | 29.5 gallons per tank (59 gallons total) |
+| Fuel type | 100LL or premium unleaded 91 octane mogas (minimum) |
 | Venting | Vented to atmosphere |
 
 ### Shutoff Valves
 
-- **Type**: Safety-wired shutoff valves, one per tank
-- **Location**: At tank outlet, before pre-filters
-<!-- TODO: manufacturer, part number -->
+| Parameter | Value |
+|-----------|-------|
+| Manufacturer | Peterson Fluid Systems |
+| Part number | 09-0910 |
+| Type | Panel mount ball valve, -6 AN x -6 AN |
+| Quantity | 2 (one per tank, at wing root) |
+| Location | After tank supply port, before pre-filter |
+| Position | Safety-wired open |
 
 ### Pre-Filters (40 micron)
 
@@ -105,16 +110,24 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 | Filtration | 40 micron |
 | Supplier | TS Flight Lines (private label) |
 | Serviceable | Yes — disassemble and clean at annual |
-| Location | Between shutoff valve and fuel lines under seats |
+| Location | At wing roots, between shutoff valve and Andair duplex valve |
 
 <!-- TODO: part number, photo of filter element clean vs dirty -->
 <!-- TODO: cleaning procedure — what solvent? what does contamination look like? -->
 
 ### Andair Duplex Valve
 
-- **Function**: Tank selector — routes supply from selected tank to pumps, routes return back to selected tank — [spec sheet](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view)
-- **Location**: Under seats, where fuel lines from both tanks converge
-- **Note**: Required 90-degree angle fittings to make the plumbing work in the installation
+| Parameter | Value |
+|-----------|-------|
+| Manufacturer | Andair |
+| Model | [FS20-20-D2-6M](https://www.aircraftspruce.com/catalog/pnpages/05-06926.php) |
+| Thread | 9/16-18 Male AN-6 |
+| Function | Tank selector — routes supply from selected tank to pumps, routes return back to selected tank |
+| Location | Center tunnel, under seats |
+| Fittings | 5x Andair EF20 elbow fittings required to route lines in tunnel |
+
+- [Spec sheet (GDrive)](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view)
+- [Data sheet (GDrive)](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view)
 <!-- TODO: model number, 90-degree fitting sizes/part numbers, photo -->
 
 ### Fuel Pumps — Walbro 391
@@ -124,7 +137,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 | Model | Walbro GSL391 (391 LPH) |
 | Quantity | 2 (primary + backup) |
 | Mounting | Pump rack from ProTec Performance, supplied by EFII |
-| Pressure | <!-- TODO: confirm rated output pressure --> |
+| Pressure | See pump curves below (varies with flow rate and voltage) |
 
 ![Walbro GSL391 pump curves](images/walbro-gsl391-pump-curves.png)
 
@@ -529,12 +542,12 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [x] Walbro 391 pumps — pump curves filed: [GDrive](https://drive.google.com/file/d/1PUtKLYYYZci6o6Hc7R-wQbSz5pSp8JiM/view), also `images/walbro-gsl391-pump-curves.png`
 - [ ] ProTec Performance pump rack — part number, drawing
 - [x] Aeromotive post-filter — Aeromotive 12347, 10-micron, serviceable
-- [ ] TS Flight Lines pre-filter — part number (or equivalent if private label)
-- [ ] Andair duplex valve — model number
+- [x] TS Flight Lines pre-filter — private label, no part number available; 40 micron, serviceable
+- [x] Andair duplex valve — FS20-20-D2-6M, with 5x EF20 elbow fittings
 - [ ] EFII fuel injectors — part number, flow rating
 - [ ] Fuel rail — manufacturer, part number
 - [ ] Kavlico fuel pressure sensor — exact Dynon part number, data sheet
-- [ ] Shutoff valves — manufacturer, part number
+- [x] Shutoff valves — Peterson Fluid Systems 09-0910, -6 AN panel mount ball valve
 
 ### Fuel Lines
 - [ ] Supplier name and contact info
@@ -572,8 +585,8 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [ ] Clean vs dirty filter elements
 
 ### System Questions
-- [ ] Fuel type — 100LL only, or autogas STC?
-- [ ] Total usable fuel per tank
-- [ ] Pump selection — is there a switch, or does the ECU control primary/backup?
+- [x] Fuel type — 100LL or premium unleaded 91 octane mogas minimum
+- [x] Total usable fuel per tank — 29.5 gallons per tank
+- [x] Pump selection — bus manager switch (1/AUTO or 2), auto cutover at 22 PSI via relay under panel
 - [ ] MAP reference orifice size
 - [ ] Fuel pressure sensor tap location on the rail
