@@ -11,7 +11,7 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
 | Bus Manager | System32 | flyEFII | Controls essential vs main bus — [manual](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
-| Power distribution | VPX Sport | Vertical Power | Electronic breakers — [manual](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) |
+| Power distribution | VPX Sport | Vertical Power | Electronic breakers — [manual (Rev G4)](https://drive.google.com/file/d/1fx7BQxzuy7GF-xIyuE83zK8BoZ-B0Vz2/view) |
 | Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by primary alternator |
 | Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by Monkworkz generator |
 | Primary Alternator | <!-- TODO: P/N --> | <!-- TODO --> | 60 amp, 14 volt |
@@ -542,13 +542,15 @@ Summary of all connector types used in N720AK wiring (all installed).
 
 The OptiMate charger enters sleep/maintenance mode once the battery is fully charged, checking voltage roughly once per hour. **Important**: If a continuous parasitic load is present (e.g. panel powered on for configuration), the charger may not detect the drain during its sleep intervals and the battery can discharge. This caused a drain-to-zero event during initial setup. (Per EarthX Engineering, Dillon Hinners, 2026-01-13.)
 
+<!-- TODO: OptiMate charger — model number, datasheet, settings for lithium -->
 <!-- TODO: Battery maintenance — EarthX specific procedures, voltage checks, balancing -->
 <!-- TODO: Alternator belt inspection, tension -->
 <!-- TODO: VPX diagnostics — how to read the log, what to look for -->
 
 ## References
 
-- [VPX Sport Installation & Operating Manual (Rev G3)](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view)
+- [VPX Sport Installation & Operating Manual (Rev G4)](https://drive.google.com/file/d/1fx7BQxzuy7GF-xIyuE83zK8BoZ-B0Vz2/view)
+- [VPX Sport Installation & Operating Manual (Rev G3)](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) — previous revision
 - [VPX Getting Started Guide (Rev A)](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view)
 - [EFII Bus Manager Installation Instructions](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view)
 - [EarthX ETX900 Installation & Maintenance Manual](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view)

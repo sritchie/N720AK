@@ -31,15 +31,18 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 
 | Component | Supplier | Notes |
 |-----------|----------|-------|
-| Windshield | Cee Bailey | Full set — replaced Van's stock |
-| Pilot door window | Cee Bailey | |
-| Co-pilot door window | Cee Bailey | |
-| Left rear window | Cee Bailey | |
-| Right rear window | Cee Bailey | |
+| Windshield | Cee Bailey's Aircraft Plastics | Full set — replaced Van's stock |
+| Pilot door window | Cee Bailey's | |
+| Co-pilot door window | Cee Bailey's | |
+| Left rear window | Cee Bailey's | |
+| Right rear window | Cee Bailey's | |
+| Window adhesive | [Lord 7545 A/E](https://www.aerosportproducts.com/product/lord-7545-a-e-adhesive/) | Aerosport Products — two-part urethane |
 
-| Window adhesive | [Lord 7545 A/E](https://www.aerosportproducts.com/product/lord-7545-a-e-adhesive/) | Aerosport Products | Two-part urethane adhesive |
+- **Material**: Aircraft-grade acrylic (ASTM 4082), 0.250" thickness for side glass
+- **Tint**: Available in light gray, light green, or clear (all FAA-approved for night flight)
+- **Status**: Cee Bailey's was acquired by [LP Aero Plastics](https://www.lpaero.com) in June 2025. Replacement parts available from LP Aero (sales@lpaero.com, 724-744-4448).
+- **VAF thread**: [Cee Bailey's RV-10 Products](https://vansairforce.net/threads/cee-baileys-rv-10-products-windshield-lenses-windows-and-more.70003/)
 
-<!-- TODO: Material type — acrylic? Thickness? -->
 <!-- TODO: Cleaning and care instructions -->
 
 ## Seats & Restraints
@@ -60,7 +63,7 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 | Camloc kit (fairings) | — | Milspec Products | For fairing attachment |
 | Fuel drain vent + fairings | — | JDAir | Combo kit |
 | Tiedown points | — | <!-- TODO --> | Wing and tail |
-| Tow bar | — | Aircraft Spruce | Bogert-style |
+| Tow bar | [BO-04M-RV10](https://www.aircraft-tool.com/detail?id=BO-04M-RV10) | Aircraft Tool Supply | Steel, powder coated, lifetime warranty. Fits RV-10/RV-14A nose wheel. |
 | Cargo pod hardpoints | — | <!-- TODO --> | Installed; MotoPod not available (production ended) |
 
 ## Heater & Ventilation
