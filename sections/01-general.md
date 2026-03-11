@@ -94,7 +94,7 @@ the maximum extent possible.
 |-----------|-------|
 | Fuel Capacity | U.S. gallons |
 | Usable Fuel | U.S. gallons |
-| Minimum Grade | 100LL octane |
+| Minimum Grade | 100LL or premium unleaded 91 octane mogas (see [EFII fuel notes](sys-73-efii.md)) |
 
 ## Oil
 

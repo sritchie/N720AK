@@ -79,8 +79,12 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 | WAAS | Yes |
 | Update rate | 5 Hz |
 | Weight | 6.7 oz |
-| Connections | 4 leads to SkyView main harness (RX, TX, 8V, GND) |
-| Power | From SkyView display (8V supply) |
+| Connections | 4 leads to SkyView DB37 via Serial Port 5 |
+| Power | 8 VDC from SkyView DB37 pin 29 (GPS POWER OUT) |
+| Ground | SkyView DB37 pin 24 (GPS GND) |
+| Data TX | GPS gray/violet wire → DB37 pin 11 (Serial 5 RX) |
+| Data RX | GPS gray/orange wire → DB37 pin 12 (Serial 5 TX) |
+| Baud rate | 38,400 (SV-GPS-250); Serial Port 5 configured as POS 1 |
 | Mounting | Overhead console |
 | Used by | Dynon SkyView HDX |
 
