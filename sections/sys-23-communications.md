@@ -70,16 +70,55 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 
 ### GPS Antennas
 
-| Antenna | Used By | Notes |
-|---------|---------|-------|
-| Dynon GPS antenna | Dynon SkyView HDX | <!-- TODO: model, location, mounting --> |
-| Garmin certified GPS antenna | Garmin GTN 650 | <!-- TODO: model (GA 35? GA 36?), location, mounting --> |
+#### Dynon SV-GPS-250/A
 
-<!-- TODO: GPS antenna locations, coax routing -->
+| Parameter | Value |
+|-----------|-------|
+| Model | [SV-GPS-250/A](https://dynonavionics.com/gps-receiver-module.php) |
+| Type | Combined GPS receiver + antenna module |
+| WAAS | Yes |
+| Update rate | 5 Hz |
+| Weight | 6.7 oz |
+| Connections | 4 leads to SkyView main harness (RX, TX, 8V, GND) |
+| Power | From SkyView display backup battery (survives loss of ship's power) |
+| Used by | Dynon SkyView HDX |
+
+<!-- TODO: mounting location, photo -->
+
+#### Garmin GA 35
+
+| Parameter | Value |
+|-----------|-------|
+| Model | [GA 35](https://www.garmin.com/en-US/p/6573/) |
+| Part number | 013-00235-00 |
+| Type | Passive GPS/WAAS antenna with built-in LNA |
+| Frequency | 1575.42 MHz ±10 MHz (L1 GPS/WAAS) |
+| Gain | 27+ dB at +25°C nominal |
+| Impedance | 50 Ω |
+| Connector | Female TNC |
+| Supply current | 60 mA max |
+| Weight | 0.47 lbs |
+| Dimensions | 4.68 × 3.00 × 0.81 in |
+| Mounting | 4x #8-32 oval head SS screws, 12–15 in-lbs torque |
+| Certification | TSO-C144.9 |
+| Used by | Garmin GTN 650 |
+
+- [Installation Instructions (Rev F)](https://static.garmin.com/pumac/190-00848-00_f.pdf)
+
+<!-- TODO: mounting location, photo, coax routing -->
 
 ### ELT Antenna
 
-<!-- TODO: ELT antenna model, location (top of fuselage?), coax routing. The Artex ELT 345 manual specifies compatible antennas. -->
+| Parameter | Value |
+|-----------|-------|
+| Model | [ACR Artex 110-773](https://www.acrartex.com/products/110-773-whip-antenna-dual-band/) (Rev C) |
+| Type | Dual-band whip antenna |
+| Frequencies | 121.5 MHz and 406.0 MHz |
+| Connector | BNC female |
+| Speed rating | Fixed-wing up to 200 knots |
+| Included with | Artex ELT 345 kit |
+
+<!-- TODO: mounting location (internal cabin?), coax length/routing -->
 
 ### Antenna Summary
 
@@ -90,9 +129,9 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 | NAV | Bob Archer | <!-- TODO --> |
 | Transponder | SteinAir 104-12 | <!-- TODO --> |
 | ADS-B | SteinAir 104-17 | <!-- TODO --> |
-| Dynon GPS | <!-- TODO --> | <!-- TODO --> |
-| GTN 650 GPS | <!-- TODO --> | <!-- TODO --> |
-| ELT | <!-- TODO --> | <!-- TODO --> |
+| Dynon GPS | Dynon SV-GPS-250/A | <!-- TODO --> |
+| GTN 650 GPS | Garmin GA 35 | <!-- TODO --> |
+| ELT | ACR Artex 110-773 | <!-- TODO --> |
 
 ## Wiring
 
@@ -113,3 +152,9 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 - [Dynon SV-COM-425 Customer Drawing](https://drive.google.com/file/d/1UfjDYUc6NpaRH4Fd9VGXTsmC3CkCvkWE/view)
 - [Bob Archer — Antennas for Aircraft](https://drive.google.com/file/d/1b2w_VkXSzQI-bU9lCF0idzxq1E5rLWBG/view)
 - [Bob Archer Antenna Installation Instructions](https://drive.google.com/file/d/1tpQ1PFsuzGcuJrZAru651fHs_7vxFHb9/view)
+- [Garmin GA 35 Installation Instructions (Rev F)](https://static.garmin.com/pumac/190-00848-00_f.pdf)
+- [Garmin GA 35 Product Page](https://www.garmin.com/en-US/p/6573/)
+- [Dynon SV-GPS-250/A Product Page](https://dynonavionics.com/gps-receiver-module.php)
+- [Dynon SkyView System Installation Guide](https://www.dynonavionics.com/includes/guides/skyview/SkyView_System_Installation_Guide-Rev_AT.pdf)
+- [ACR Artex 110-773 Whip Antenna](https://www.acrartex.com/products/110-773-whip-antenna-dual-band/)
+- [Artex ELT 345 Manual](https://www.acrartex.com/wp-content/uploads/downloads/1861/ELT_345_Manual_Y1-03-0282P.pdf)

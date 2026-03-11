@@ -538,11 +538,18 @@ Summary of all connector types used in N720AK wiring (all installed).
 
 ## Inspection & Maintenance
 
-### EarthX Battery & OptiMate Charger Notes
+### EarthX Battery & Chargers
 
-The OptiMate charger enters sleep/maintenance mode once the battery is fully charged, checking voltage roughly once per hour. **Important**: If a continuous parasitic load is present (e.g. panel powered on for configuration), the charger may not detect the drain during its sleep intervals and the battery can discharge. This caused a drain-to-zero event during initial setup. (Per EarthX Engineering, Dillon Hinners, 2026-01-13.)
+#### Chargers
 
-<!-- TODO: OptiMate charger — model number, datasheet, settings for lithium -->
+| Charger | Model | Use |
+|---------|-------|-----|
+| [OptiMate Lithium 4s 5A](https://optimate1.com/product/optimate-lithium-4s-5a/) | TM-291 | 5A charger/maintainer for LiFePO4 (3–100 Ah). 10-step charging, BMS wake-up mode. 100–240V AC input. |
+| [OptiMate TM-275 v2](https://earthxbatteries.com/product/tm-275-13-2v-10-amp-lithium-lifep04-battery-charger-maintainer-power-supply/) | TM-275 v2 | 9.5A charger/maintainer/power supply for LiFePO4 (2.5–120 Ah). Doubles as 8A @ 13.6V bench power supply (TUNE mode) for avionics configuration without battery drain. |
+
+#### Charger Behavior Notes
+
+The OptiMate chargers enter sleep/maintenance mode once the battery is fully charged, checking voltage roughly once per hour. **Important**: If a continuous parasitic load is present (e.g. panel powered on for configuration), the charger may not detect the drain during its sleep intervals and the battery can discharge. This caused a drain-to-zero event during initial setup. The TM-275's TUNE mode (continuous 13.6V power supply) avoids this problem. (Per EarthX Engineering, Dillon Hinners, 2026-01-13.)
 <!-- TODO: Battery maintenance — EarthX specific procedures, voltage checks, balancing -->
 <!-- TODO: Alternator belt inspection, tension -->
 <!-- TODO: VPX diagnostics — how to read the log, what to look for -->
