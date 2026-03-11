@@ -59,7 +59,7 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Intersection fairings | — | RVBits | Wing/fuselage intersection |
+| Intersection fairings | — | [RVBits](https://rvbits.mybigcommerce.com/products/RV10-INTERSECTION-FAIRINGS.html) | Wing/fuselage intersection, main gear |
 | Camloc kit (fairings) | — | Milspec Products | For fairing attachment |
 | Fuel drain vent + fairings | — | JDAir | Combo kit |
 | Tiedown points | — | <!-- TODO --> | Wing and tail |
@@ -102,5 +102,6 @@ Wingtips attach via **piano hinge modification** — they can be removed entirel
 - [Aerosport RV-10 Interior Panels Installation](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view)
 - [Crow Harness Installation Instructions](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view)
 - [Crow Safety Gear Catalog](https://drive.google.com/file/d/1Lug00b6-yqtNt2nrqthp_6cMywcfi5WU/view)
+- [RVBits Intersection Fairing Installation Manual](https://drive.google.com/file/d/1Lh3zxB12ERlZuU-qNZrrewB9hpbk_Hbi/view)
 <!-- TODO: Planearound 180° latch installation instructions -->
 <!-- TODO: Cee Bailey care guide -->

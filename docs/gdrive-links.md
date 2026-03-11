@@ -112,11 +112,19 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | plx-dm6-user-guide.pdf | [link](https://drive.google.com/file/d/1VIanTxYZkHM7e7pnBZsoarOo_NcaR9Uk/view) |
 | plx-sm-afr-gen2-user-guide.pdf | [link](https://drive.google.com/file/d/1bdoRUOQrCC5lVv3VV0NL7xmZuAf7LRID/view) |
 
+### 84-Propeller
+
+| File | GDrive URL |
+|------|-----------|
+| jihostroj-pcu5000-operation-installation-manual.pdf | [link](https://drive.google.com/file/d/1NKEBQB5P2vPNg61rXFMayjDfw0GWobEx/view) |
+| pcu5000x-spec-sheet.pdf | [link](https://drive.google.com/file/d/1YAwcA1_zx4bJqVcv5skJ-e-F5T8wburt/view) |
+
 ### Misc
 
 | File | GDrive URL |
 |------|-----------|
 | rv10-gust-lock-instructions.pdf | [link](https://drive.google.com/file/d/1-ym-7C8CtEh9WyVcolaqD7XhwoNROy3R/view) |
+| rvbits-intersection-fairing-installation.pdf | [link](https://drive.google.com/file/d/1Lh3zxB12ERlZuU-qNZrrewB9hpbk_Hbi/view) |
 
 ## Schematics
 
