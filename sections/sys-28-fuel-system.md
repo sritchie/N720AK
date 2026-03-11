@@ -136,10 +136,10 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 |-----------|-------|
 | Model | Walbro GSL391 (391 LPH) |
 | Quantity | 2 (primary + backup) |
-| Mounting | Pump rack from ProTec Performance, supplied by EFII |
+| Mounting | [Dual electric fuel pump rack](https://www.flyefii.com/products/accessories/dual-electric-fuel-pump/) from ProTek Performance, supplied by EFII |
 | Pressure | See pump curves below (varies with flow rate and voltage) |
 
-![Walbro GSL391 pump curves](images/walbro-gsl391-pump-curves.png)
+![Walbro GSL391 pump curves](../images/walbro-gsl391-pump-curves.png)
 
 **Pump replacement notes:**
 
@@ -187,7 +187,9 @@ The regulator is the heart of fuel pressure management. See [The MAP-Referenced 
 
 The vacuum reference line connects from an **orifice port on the throttle body** to the regulator. The orifice provides a stable, damped manifold pressure signal — it's a small restrictive fitting, not a wide-open port. This prevents the regulator from chasing rapid MAP transients during throttle changes.
 
-<!-- TODO: orifice size, line diameter, line material, routing path -->
+The MAP reference orifice is integral to the EFII-supplied throttle body (stock configuration — no aftermarket modification needed).
+
+<!-- TODO: line diameter, line material, routing path -->
 <!-- TODO: photo of throttle body orifice fitting -->
 
 ### Fuel Pressure Sensor — Dynon Kavlico
@@ -245,9 +247,7 @@ When MAP rises (throttle opened), the diaphragm sees more pressure on the refere
 
 **The result:** The spring force sets the differential, and it stays constant:
 
-```
-Fuel_absolute − MAP_absolute = Spring_force ≈ 35 PSI (constant)
-```
+$$ P_{\text{fuel}} - P_{\text{MAP}} = F_{\text{spring}} \approx 35 \text{ PSI (constant)} $$
 
 ### What Goes Wrong
 
@@ -255,7 +255,7 @@ Fuel_absolute − MAP_absolute = Spring_force ≈ 35 PSI (constant)
 |---------|-------------------|--------------|
 | **MAP under-tracking** | Negative MAP slope (PSI/inHg) | Restricted/leaking vacuum reference line, stiff diaphragm, weak spring |
 | **Flow-dependent droop** | Negative fuel flow slope (PSI/(gal/hr)) | Spring fatigue, excessive diaphragm friction |
-| **Sticking / hunting** | High residual σ after removing MAP trend | Diaphragm friction, valve seat wear, debris, hysteresis |
+| **Sticking / hunting** | High residual $\sigma$ after removing MAP trend | Diaphragm friction, valve seat wear, debris, hysteresis |
 | **Over-tracking** | Positive MAP slope | Unlikely — would indicate reference line amplifying signal |
 
 ---
@@ -285,8 +285,8 @@ The EFII ECU calculates injector pulse width assuming a known, constant pressure
 |--------|----------------------|----------------|
 | **Clogged post-filter** | Pressure drop before rail → lower differential | Delta drops, especially at high fuel flow |
 | **Clogged pre-filter** | Reduced flow to pumps → pump can't maintain pressure | Delta drops at high flow, pump noise |
-| **Weak/worn regulator** | Doesn't track MAP 1:1, sticking | MAP slope ≠ 0, high residual σ |
-| **Restricted MAP reference line** | Regulator sees damped/wrong MAP | MAP slope ≠ 0 (under-tracking) |
+| **Weak/worn regulator** | Doesn't track MAP 1:1, sticking | MAP slope $\neq 0$, high residual $\sigma$ |
+| **Restricted MAP reference line** | Regulator sees damped/wrong MAP | MAP slope $\neq 0$ (under-tracking) |
 | **Leaking MAP reference line** | Regulator sees atmospheric instead of MAP | Delta rises at low MAP (idle), slope positive |
 | **Pump degradation** | Can't maintain target pressure at high flow | Delta sags at high power/flow |
 | **Injector clog** | Reduced flow through one cylinder | Individual EGT anomaly, not visible in delta |
@@ -327,9 +327,7 @@ This is **not** the true injector differential. It's offset by atmospheric press
 
 Atmospheric pressure decreases with altitude:
 
-```
-P_atm = 14.696 × (1 − 6.8756×10⁻⁶ × h)^5.2559    [h in feet, P in PSI]
-```
+$$ P_{\text{atm}} = 14.696 \times \left(1 - 6.8756 \times 10^{-6} \times h\right)^{5.2559} \quad [h \text{ in feet}, P \text{ in PSI}] $$
 
 | Altitude (ft) | Atmosphere (PSI) | Atmosphere (inHg) |
 |---------------|-----------------|-------------------|
@@ -345,10 +343,7 @@ As you climb, the gauge delta changes even if the regulator is perfect — becau
 
 To recover the true injector differential:
 
-```
-True_differential = Delta_gauge + P_atm(altitude)
-                  = Fuel_gauge − MAP_psi + P_atm(altitude)
-```
+$$ \Delta_{\text{true}} = \Delta_{\text{gauge}} + P_{\text{atm}}(h) = P_{\text{fuel,gauge}} - P_{\text{MAP(psi)}} + P_{\text{atm}}(h) $$
 
 ### Dynon Baro Compensation
 
@@ -374,11 +369,11 @@ Use the `--alt-scan` flag on the diagnostic script. It applies a range of correc
 uv run --with numpy --with matplotlib python3 scripts/regulator_diagnostic.py /path/to/log.csv --alt-scan
 ```
 
-- **Fraction ≈ 1.0** → Sensor is gauge, correction needed (e.g., Garmin Kavlico)
-- **Fraction ≈ 0.0** → Sensor already behaves as absolute, no correction needed
+- **Fraction $\approx 1.0$** → Sensor is gauge, correction needed (e.g., Garmin Kavlico)
+- **Fraction $\approx 0.0$** → Sensor already behaves as absolute, no correction needed
 
 For Garmin GDU 460 fuel pressure, we confirmed fraction = 1.0 (standard gauge sensor).
-For Dynon SkyView fuel pressure on N720AK, we found fraction ≈ 0.0 — this is still under investigation. The regulator noise (σ = 1.4 PSI) may be swamping the altitude signal (~0.4 PSI/1,000 ft). Fix the regulator first, then re-test.
+For Dynon SkyView fuel pressure on N720AK, we found fraction $\approx 0.0$ — this is still under investigation. The regulator noise ($\sigma = 1.4$ PSI) may be swamping the altitude signal (~0.4 PSI/1,000 ft). Fix the regulator first, then re-test.
 
 ---
 
@@ -414,10 +409,9 @@ The script auto-detects Dynon vs Garmin format. It extracts:
 
 ### Step 2: Compute Delta
 
-```
-MAP_psi = MAP_inHg × 0.49115
-Delta_gauge = Fuel_PSI − MAP_psi
-```
+$$ P_{\text{MAP(psi)}} = P_{\text{MAP(inHg)}} \times 0.49115 $$
+
+$$ \Delta_{\text{gauge}} = P_{\text{fuel}} - P_{\text{MAP(psi)}} $$
 
 Apply altitude correction if using `--alt-correct`.
 
@@ -425,15 +419,15 @@ Apply altitude correction if using `--alt-correct`.
 
 | Metric | What It Measures | Healthy Value |
 |--------|-----------------|---------------|
-| **Delta σ** | Overall variation in injector differential | < 0.2 PSI |
-| **MAP slope** | How well regulator tracks MAP changes (PSI/inHg) | ~0 (±0.02) |
-| **Fuel flow slope** | Pressure droop under load (PSI/(gal/hr)) | ~0 (±0.05) |
-| **Residual σ** | Scatter after removing MAP trend | < 0.1 PSI |
+| **Delta $\sigma$** | Overall variation in injector differential | $< 0.2$ PSI |
+| **MAP slope** | How well regulator tracks MAP changes (PSI/inHg) | $\approx 0 \; (\pm 0.02)$ |
+| **Fuel flow slope** | Pressure droop under load (PSI/(gal/hr)) | $\approx 0 \; (\pm 0.05)$ |
+| **Residual $\sigma$** | Scatter after removing MAP trend | $< 0.1$ PSI |
 | **Startup fuel pressure** | Spring setpoint (gauge, at atmospheric MAP) | ~35 PSI |
 
 ### Step 4: Bin Analysis
 
-The script divides steady-state data into MAP bins (15–19, 19–22, 22–26 inHg) and computes σ within each bin. High within-bin scatter indicates sticking/hunting independent of the MAP slope.
+The script divides steady-state data into MAP bins (15–19, 19–22, 22–26 inHg) and computes $\sigma$ within each bin. High within-bin scatter indicates sticking/hunting independent of the MAP slope.
 
 ### Step 5: Diagnostic Plot
 
@@ -453,24 +447,24 @@ Same Aeromotive regulator, EFII System32, Garmin GDU 460 (gauge fuel pressure se
 Flight: X05 → KGAD, 2026-02-09. Altitude range: sea level to 6,161 ft.
 
 After altitude correction (confirmed fraction = 1.0 for Garmin sensor):
-- **True differential: 35.03 ± 0.08 PSI** — essentially perfect
-- **MAP slope: −0.011 PSI/inHg** — essentially zero
-- **Fuel flow slope: +0.046 PSI/(gal/hr)** — flat
-- **Residual σ: 0.07 PSI**
+- **True differential: $35.03 \pm 0.08$ PSI** — essentially perfect
+- **MAP slope: $-0.011$ PSI/inHg** — essentially zero
+- **Fuel flow slope: $+0.046$ PSI/(gal/hr)** — flat
+- **Residual $\sigma$: 0.07 PSI**
 
 This proves the Aeromotive regulator CAN perform essentially perfectly with the EFII System32.
 
 ### N720AK Flight History
 
-| Date | Duration | Alt Range | Delta σ | MAP Slope | FF Slope | Resid σ | Startup FP | Notes |
+| Date | Duration | Alt Range | Delta $\sigma$ | MAP Slope | FF Slope | Resid $\sigma$ | Startup FP | Notes |
 |------|----------|-----------|---------|-----------|----------|---------|------------|-------|
 | (original) | ~80 min | 4,896–9,001 ft | 1.43 | −0.303 | −0.417 | 1.25 | 35.8 | Worst sticking |
 | 2026-01-30 | ~105 min | 4,908–8,791 ft | 0.93 | −0.297 | −0.281 | 0.61 | 32.0 | Moderate sticking |
 | 2026-02-25 | ~7 min | 5,200–6,680 ft | 0.93 | −0.298 | −0.168 | 0.18 | 33.0 | Short ground run, minimal sticking |
 
 **Key findings:**
-- **MAP slope is consistent at −0.30 PSI/inHg across all flights** — this is a structural characteristic of the regulator, not flight-dependent
-- **Sticking/hunting varies dramatically** (residual σ: 0.18 to 1.25) — worse on longer flights with more throttle changes, possibly temperature-dependent
+- **MAP slope is consistent at $-0.30$ PSI/inHg across all flights** — this is a structural characteristic of the regulator, not flight-dependent
+- **Sticking/hunting varies dramatically** (residual $\sigma$: 0.18 to 1.25) — worse on longer flights with more throttle changes, possibly temperature-dependent
 - **Startup fuel pressure varies** (32.0 to 35.8) — may indicate the regulator settles at different stick points on startup
 
 ---
@@ -540,7 +534,7 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 ### Component Data Sheets and Part Numbers
 - [x] Aeromotive regulator — Aeromotive Compact EFI Regulator with 0.020" bypass orifice (ProTek Performance / Robert Paisley)
 - [x] Walbro 391 pumps — pump curves filed: [GDrive](https://drive.google.com/file/d/1PUtKLYYYZci6o6Hc7R-wQbSz5pSp8JiM/view), also `images/walbro-gsl391-pump-curves.png`
-- [ ] ProTec Performance pump rack — part number, drawing
+- [x] ProTek Performance pump rack — [dual electric fuel pump](https://www.flyefii.com/products/accessories/dual-electric-fuel-pump/), supplied by EFII
 - [x] Aeromotive post-filter — Aeromotive 12347, 10-micron, serviceable
 - [x] TS Flight Lines pre-filter — private label, no part number available; 40 micron, serviceable
 - [x] Andair duplex valve — FS20-20-D2-6M, with 5x EF20 elbow fittings
@@ -588,5 +582,5 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [x] Fuel type — 100LL or premium unleaded 91 octane mogas minimum
 - [x] Total usable fuel per tank — 29.5 gallons per tank
 - [x] Pump selection — bus manager switch (1/AUTO or 2), auto cutover at 22 PSI via relay under panel
-- [ ] MAP reference orifice size
+- [x] MAP reference orifice — integral to EFII throttle body, stock configuration
 - [ ] Fuel pressure sensor tap location on the rail

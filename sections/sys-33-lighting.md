@@ -65,7 +65,7 @@ The Molex connector on the left wingtip is for the pitot heater (routed through 
 
 ### Pulsar / SunTail Wiring (Position + Strobe)
 
-![Pulsar/SunTail wiring diagram](images/pulsar-suntail-wiring-diagram.png)
+![Pulsar/SunTail wiring diagram](../images/pulsar-suntail-wiring-diagram.png)
 
 Recommended wiring for Pulsar 11-1180 / 11-1100 and SunTail 11-1160. Uses three-conductor 20 AWG shielded cable. Shield is used for ground return. Green sync wires from all strobe lights connect together for synchronized flashing.
 
@@ -86,7 +86,7 @@ Ground via mounting screw (H1).
 
 ### AeroSun VX Wiring (Landing / Taxi / Wig-Wag)
 
-![AeroSun VX wiring diagram](images/aerosun-vx-wiring-diagram.png)
+![AeroSun VX wiring diagram](../images/aerosun-vx-wiring-diagram.png)
 
 Two-light wig-wag configuration. Each AeroSun VX has a 5-wire connection:
 
