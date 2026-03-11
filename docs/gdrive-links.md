@@ -55,6 +55,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | andair-fs2020-d2-spec-sheet.pdf | [link](https://drive.google.com/file/d/1TO7RCdpZOgreSY4K-vvESaSB53YH2IE8/view) |
 | andair-fs20-data-sheet.pdf | [link](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view) |
 | aeromotive-13129-efi-bypass-regulator.pdf | [link](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view) |
+| walbro-gsl391-pump-curves.png | [link](https://drive.google.com/file/d/1PUtKLYYYZci6o6Hc7R-wQbSz5pSp8JiM/view) |
 
 ### 33-Lighting
 
