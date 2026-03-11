@@ -12,3 +12,4 @@ default-theme = "light"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/sritchie/n720ak"
 edit-url-template = "https://github.com/sritchie/n720ak/edit/main/sections/{path}"
+mathjax-support = true

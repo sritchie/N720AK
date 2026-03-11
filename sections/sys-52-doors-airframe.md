@@ -80,15 +80,6 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 
 Wingtips attach via **piano hinge modification** — they can be removed entirely for maintenance access to wing internals, lights, and pitot plumbing. See [Lighting](sys-33-lighting.md) for wingtip light details.
 
-## Rudder Trim
-
-| Component | Supplier | Notes |
-|-----------|----------|-------|
-| Spring-bias rudder trim | Aerosport Products | Sent to SteinAir for panel integration |
-
-<!-- TODO: How does the spring-bias rudder trim work vs. a tab? -->
-<!-- TODO: Adjustment range and procedure -->
-
 ## Inspection & Maintenance
 
 <!-- TODO: Door seal inspection — wear, compression set -->

@@ -19,7 +19,7 @@ The datum is located XX" forward of the wing leading edge.
 
 ## Allowable Weight and Balance Envelope
 
-<!-- ![Weight and Balance Envelope](images/wb-envelope.png) -->
+<!-- ![Weight and Balance Envelope](../images/wb-envelope.png) -->
 
 ## Sample Weight and Balance Calculation
 
