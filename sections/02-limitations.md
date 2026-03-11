@@ -109,7 +109,16 @@ accordance with FAR 91:
 |-----------|-------|
 | Fuel Capacity | U.S. gallons |
 | Usable Fuel | U.S. gallons |
-| Minimum Grade | 100LL octane |
+| Minimum Grade | 100LL or premium unleaded 91 octane mogas (see limitations below) |
+
+### Mogas Limitations (EFII System32)
+
+When using premium unleaded mogas (91 octane minimum):
+
+- **Altitude limit**: Stay below 8,000 ft density altitude (higher vapor pressure than avgas)
+- **Temperature limit**: Do not use mogas in OAT above 100°F
+- **High terrain**: Use 100LL when flying over high terrain with limited landing options
+- Mogas reaches its vapor point more easily than avgas at altitude and in heat
 
 ## Placards
 
@@ -118,5 +127,5 @@ accordance with FAR 91:
 | On baggage area | Maximum Baggage Capacity lbs |
 | In view from entrance | EXPERIMENTAL |
 | In view of occupants | PASSENGER WARNING: THIS AIRCRAFT IS AMATEUR BUILT AND DOES NOT COMPLY WITH FEDERAL SAFETY REGULATIONS FOR STANDARD AIRCRAFT. |
-| At each fuel filler | 100LL, XX Gal. |
+| At each fuel filler | 100LL / 91 MOGAS, XX Gal. |
 | On instrument panel | NO SLIPS WITH FLAPS UP |

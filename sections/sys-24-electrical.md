@@ -51,6 +51,15 @@ The VPX Sport provides:
 <!-- TODO: How are the buses connected? What's the bus tie arrangement? -->
 <!-- TODO: Alternator field control — how does it work? -->
 
+### Fuses (Non-VPX)
+
+Discrete fuses outside the VPX electronic breaker system, located above the essential bus bar behind the pilot PFD:
+
+| Circuit | Fuse | Location |
+|---------|------|----------|
+| Front USB-C charger | 5A | Above essential bus bar, behind pilot PFD |
+| OnSpeed AOA | 1A | Labeled fuse holder, above essential bus bar |
+
 ### Monkworkz MZ-30 Generator
 
 Installed 2026-03-09. The MZ-30 is a permanent-magnet generator driven off the engine's vacuum pump pad, providing independent charging for Battery 2. Manual version 4, dated 2024-10-22.

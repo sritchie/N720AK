@@ -124,7 +124,7 @@ Fuel is stored in two wing tanks with a selector valve on the center tunnel.
 | Right Tank Capacity | U.S. gallons |
 | Total Capacity | U.S. gallons |
 | Usable Fuel | U.S. gallons |
-| Minimum Grade | 100LL |
+| Minimum Grade | 100LL or premium unleaded 91 octane mogas (see [Limitations](02-limitations.md#mogas-limitations-efii-system32)) |
 
 ### Fuel System Components
 
