@@ -31,6 +31,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | vpx-sport-install-operating-manual-rev-g3.pdf | [link](https://drive.google.com/file/d/1hQrYbSkh8DvIVArft79wGad22Tb3wq02/view) |
+| vpx-sport-install-operating-manual-rev-g4.pdf | [link](https://drive.google.com/file/d/1fx7BQxzuy7GF-xIyuE83zK8BoZ-B0Vz2/view) |
 | efii-bus-manager-install-instructions.pdf | [link](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
 | earthx-etx900-installation-manual.pdf | [link](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) |
 | monkworkz-mz30-installation-operation-manual-v4.pdf | <!-- TODO: get shareable link after GDrive sync --> |

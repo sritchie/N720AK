@@ -68,6 +68,32 @@ See also [Navigation & Instruments](sys-34-navigation.md).
 
 Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectional vertically-polarized radiation patterns.
 
+### GPS Antennas
+
+| Antenna | Used By | Notes |
+|---------|---------|-------|
+| Dynon GPS antenna | Dynon SkyView HDX | <!-- TODO: model, location, mounting --> |
+| Garmin certified GPS antenna | Garmin GTN 650 | <!-- TODO: model (GA 35? GA 36?), location, mounting --> |
+
+<!-- TODO: GPS antenna locations, coax routing -->
+
+### ELT Antenna
+
+<!-- TODO: ELT antenna model, location (top of fuselage?), coax routing. The Artex ELT 345 manual specifies compatible antennas. -->
+
+### Antenna Summary
+
+| Function | Antenna | Location |
+|----------|---------|----------|
+| COM 1 | Comant CI-121 | Top of fuselage |
+| COM 2 | Comant CI-122 | Bottom of right wing |
+| NAV | Bob Archer | <!-- TODO --> |
+| Transponder | SteinAir 104-12 | <!-- TODO --> |
+| ADS-B | SteinAir 104-17 | <!-- TODO --> |
+| Dynon GPS | <!-- TODO --> | <!-- TODO --> |
+| GTN 650 GPS | <!-- TODO --> | <!-- TODO --> |
+| ELT | <!-- TODO --> | <!-- TODO --> |
+
 ## Wiring
 
 <!-- TODO: Audio wiring overview — GMA 245 to GTN 650, to Dynon, to headset jacks -->
