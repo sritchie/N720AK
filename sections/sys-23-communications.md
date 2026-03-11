@@ -80,10 +80,9 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 | Update rate | 5 Hz |
 | Weight | 6.7 oz |
 | Connections | 4 leads to SkyView main harness (RX, TX, 8V, GND) |
-| Power | From SkyView display backup battery (survives loss of ship's power) |
+| Power | From SkyView display (8V supply) |
+| Mounting | Overhead console |
 | Used by | Dynon SkyView HDX |
-
-<!-- TODO: mounting location, photo -->
 
 #### Garmin GA 35
 
@@ -101,11 +100,10 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 | Dimensions | 4.68 × 3.00 × 0.81 in |
 | Mounting | 4x #8-32 oval head SS screws, 12–15 in-lbs torque |
 | Certification | TSO-C144.9 |
+| Mounting | Overhead console |
 | Used by | Garmin GTN 650 |
 
 - [Installation Instructions (Rev F)](https://static.garmin.com/pumac/190-00848-00_f.pdf)
-
-<!-- TODO: mounting location, photo, coax routing -->
 
 ### ELT Antenna
 
@@ -129,8 +127,8 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 | NAV | Bob Archer | <!-- TODO --> |
 | Transponder | SteinAir 104-12 | <!-- TODO --> |
 | ADS-B | SteinAir 104-17 | <!-- TODO --> |
-| Dynon GPS | Dynon SV-GPS-250/A | <!-- TODO --> |
-| GTN 650 GPS | Garmin GA 35 | <!-- TODO --> |
+| Dynon GPS | Dynon SV-GPS-250/A | Overhead console |
+| GTN 650 GPS | Garmin GA 35 | Overhead console |
 | ELT | ACR Artex 110-773 | <!-- TODO --> |
 
 ## Wiring
