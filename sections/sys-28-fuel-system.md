@@ -121,10 +121,12 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 
 | Parameter | Value |
 |-----------|-------|
-| Model | [Walbro GSL391](https://drive.google.com/file/d/1qWy2YjOcxXDmAfCELyb1E6BdgQzikOnG/view) (391 LPH) |
+| Model | Walbro GSL391 (391 LPH) |
 | Quantity | 2 (primary + backup) |
 | Mounting | Pump rack from ProTec Performance, supplied by EFII |
 | Pressure | <!-- TODO: confirm rated output pressure --> |
+
+![Walbro GSL391 pump curves](images/walbro-gsl391-pump-curves.png)
 
 **Pump replacement notes:**
 
@@ -138,10 +140,10 @@ Viton crush washers for pump fittings: [One Hydraulics SS9500-02V](https://www.o
 | Parameter | Value |
 |-----------|-------|
 | Brand | Aeromotive |
+| Part number | [12347](https://www.summitracing.com/parts/AEI-12347) |
 | Filtration | 10 micron |
 | Type | Performance post-filter, serviceable |
-| Mounting | 8L clamp on engine mount diagonal tube |
-| Part number | <!-- TODO --> |
+| Mounting | 8L clamp on engine mount diagonal tube, firewall forward |
 
 <!-- TODO: photo of mounting location -->
 <!-- TODO: photo of filter element clean vs dirty -->
@@ -523,10 +525,10 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 ## TODO: Information Needed
 
 ### Component Data Sheets and Part Numbers
-- [ ] Aeromotive regulator — model number and data sheet
-- [ ] Walbro 391 pumps — data sheet, rated pressure/flow
+- [x] Aeromotive regulator — Aeromotive Compact EFI Regulator with 0.020" bypass orifice (ProTek Performance / Robert Paisley)
+- [x] Walbro 391 pumps — pump curves filed: [GDrive](https://drive.google.com/file/d/1PUtKLYYYZci6o6Hc7R-wQbSz5pSp8JiM/view), also `images/walbro-gsl391-pump-curves.png`
 - [ ] ProTec Performance pump rack — part number, drawing
-- [ ] Aeromotive post-filter — part number
+- [x] Aeromotive post-filter — Aeromotive 12347, 10-micron, serviceable
 - [ ] TS Flight Lines pre-filter — part number (or equivalent if private label)
 - [ ] Andair duplex valve — model number
 - [ ] EFII fuel injectors — part number, flow rating
