@@ -2,8 +2,8 @@
 
 ## Introduction
 
-The RV-10 is a four-place, single-engine aircraft powered by a [ENGINE MODEL]
-[CYLINDER COUNT]-cylinder reciprocating engine turning a [PROP TYPE] propeller.
+The RV-10 is a four-place, single-engine aircraft powered by a Lycoming YIO-540-D4A5
+six-cylinder reciprocating engine turning a Whirlwind constant-speed propeller.
 The aircraft is primarily constructed of alclad aluminum using flush rivets to
 the maximum extent possible.
 
@@ -65,28 +65,32 @@ the maximum extent possible.
 |-----------|-------|
 | Manufacturer | Lycoming |
 | Model | YIO-540-D4A5 |
-| Serial Number | |
+| Serial Number | EL-36315-48E |
 | Rated Horsepower | 260 HP |
 | Rated Speed | 2700 RPM |
-| Bore | inches |
-| Stroke | inches |
-| Displacement | cubic inches |
-| Compression Ratio | |
-| Type | |
+| Firing Order | 1-4-5-2-3-6 |
+| Spark Plug Gap | 0.016" – 0.022" |
+| Bore | 5.125" |
+| Stroke | 4.375" |
+| Displacement | 541.5 cu in |
+| Compression Ratio | 8.5:1 |
+| Type | 6-cylinder, horizontally opposed, fuel-injected, normally aspirated, air-cooled, direct drive |
 
 ## Propeller
 
 | Parameter | Value |
 |-----------|-------|
-| Manufacturer | Whirlwind Aviation |
+| Manufacturer | Whirlwind Aviation, 1 Propeller Place, Piqua OH 45356 |
 | Model | RV-10 |
-| Serial Number | |
-| Blades | |
-| Low Pitch | degrees |
-| High Pitch | degrees |
-| Diameter (max) | inches |
-| Diameter (min) | inches |
-| Type | |
+| Hub Serial Number | RV10-366 |
+| Blade Serial Numbers | RV10-443, RV10-444 |
+| Date of Manufacture | 2017-10-12 |
+| Weight | 44 lbs |
+| Blades | 2 |
+| Low Pitch | 12.8° |
+| High Pitch | 35.1° |
+| Length | 80" |
+| Type | Constant-speed |
 
 ## Fuel
 
