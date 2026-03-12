@@ -13,8 +13,8 @@ N720AK has a fixed tricycle landing gear with hydraulic disc brakes on the main 
 | Brake calipers | <!-- TODO --> | <!-- TODO --> | Hydraulic disc |
 | Master cylinders | <!-- TODO --> | <!-- TODO --> | Pilot and co-pilot toe pedals |
 | Brake fluid | Royco 782 | — | MIL-PRF-83282 |
-| Main wheels | <!-- TODO --> | [Matco](https://drive.google.com/file/d/13tKx6KOyn5Msa2fJnDxHcNzG8vDHybpb/view) | Upgraded brakes |
-| Nose wheel | <!-- TODO --> | [Beringer](https://drive.google.com/file/d/1g5SpVRY8SGp9KROq9jE6nld-_5yQPUyY/view) | Beringer nosewheel (from finishing kit) |
+| Main wheels | WHLWI600XLT-2 | [Matco](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view) | WI600 series wheels & brakes |
+| Nose wheel | <!-- TODO --> | [Beringer](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view) | Beringer nosewheel (from finishing kit) |
 | Main tires | <!-- TODO --> | Desser | Retreads (no inner tubes) |
 | Nose tire | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, pressure --> |
 | Wheel fairings | <!-- TODO --> | <!-- TODO --> | Main gear only |
@@ -63,5 +63,5 @@ Fixed tricycle configuration:
 
 ## References
 
-- [Matco Wheels & Brakes General Manual (Rev F)](https://drive.google.com/file/d/13tKx6KOyn5Msa2fJnDxHcNzG8vDHybpb/view)
-- [Beringer RV Series Installation & Maintenance Manual](https://drive.google.com/file/d/1g5SpVRY8SGp9KROq9jE6nld-_5yQPUyY/view)
+- [Matco WI600 Series Wheel & Brake Manual (Rev A1)](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view)
+- [Beringer Wheels & Brakes Maintenance Manual](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view)
