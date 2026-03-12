@@ -10,8 +10,8 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 | System | Component | Notes |
 |--------|-----------|-------|
-| Audio Panel | Garmin GMA 245 | Bluetooth, 4-place intercom |
-| Nav/GPS/Com | Garmin GTN 650 | Certified IFR, single Bob Archer nav antenna |
+| Audio Panel | Garmin GMA 245 | Bluetooth, 4-place intercom, S/N 3YL000434 |
+| Nav/GPS/Com | Garmin GTN 650 | Certified IFR, single Bob Archer nav antenna, S/N 1Z8021616 |
 | EFIS | Dynon Skyview HDX | Primary flight display |
 | Autopilot | Dynon 3-axis | Roll, pitch, yaw damper servos |
 | AP Panel | Dynon | Autopilot control panel |

@@ -10,7 +10,7 @@ N720AK is powered by a **Lycoming IO-540** series engine, fuel-injected and norm
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| Engine | [IO-540-D4A5](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) | Lycoming | 260 HP at 2700 RPM |
+| Engine | [YIO-540-D4A5](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) | Lycoming | S/N EL-36315-48E, 260 HP at 2700 RPM |
 | Engine mount | <!-- TODO --> | <!-- TODO --> | Steel tube |
 | Oil filter | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 | Oil cooler | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
@@ -18,7 +18,8 @@ N720AK is powered by a **Lycoming IO-540** series engine, fuel-injected and norm
 | Crankcase vacuum valve | Complete kit | Antisplat Aero | Crankcase vacuum system — [manual](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
 | Engine mount covers | <!-- TODO --> | Aerosport Products | Carbon fiber covers, installed |
 
-<!-- TODO: Engine serial number -->
+**Engine:** Lycoming YIO-540-D4A5, S/N EL-36315-48E, firing order 1-4-5-2-3-6, spark plug gap 0.016"–0.022".
+
 <!-- TODO: Time since new, time since overhaul -->
 
 ## How It Works

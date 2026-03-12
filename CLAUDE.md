@@ -305,6 +305,8 @@ Target domain: **n720ak.com** (configure in GitHub Pages settings)
 
 **Never commit directly to main.** Always create a branch, open a PR, and squash merge.
 
+**Branch awareness**: At the start of each session, check `git branch --show-current` and `git log --oneline main..HEAD`. If you're on a feature branch with commits ahead of main, that branch was likely already merged — verify with `gh pr list --state merged --head <branch>`. If merged, switch to main and pull before starting new work. If not merged, you can stack additional commits on the existing branch.
+
 After making edits to POH sections, sys-* pages, or any repo files, always:
 1. Create a descriptive branch name
 2. Commit with an imperative-mood message

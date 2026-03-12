@@ -15,8 +15,13 @@ N720AK uses a constant-speed propeller. The propeller governor maintains RPM as 
 | Spinner | Std 13" | Whirlwind Aviation | Included with propeller |
 
 **Propeller details:**
+- Manufacturer: Whirlwind Aviation, 1 Propeller Place, Piqua OH 45356
+- Date of Manufacture: 2017-10-12
 - Hub Serial: RV10-366
 - Blade Serials: RV10-443 & RV10-444
+- Weight: 44 lbs
+- Length: 80"
+- High Pitch: 35.1°, Low Pitch: 12.8°
 - Colors: Black w/ White Tips (DBC9700 & DBC2185)
 - Aircraft config: RV-10 w/ IO-540 & 260 HP
 - 5-year maintenance clock starts on first engine run (2025-11-18)
@@ -80,4 +85,4 @@ Per Jihostroj (manufacturer):
 - [Jihostroj Maintenance Page](https://www.jihostroj.com/en/maintenance.html) — maintenance procedures and troubleshooting
 - [Jihostroj Operation Instructions](https://www.jihostroj.com/en/operation-instructions.html) — operating procedures including feathering
 
-<!-- TODO: Whirlwind propeller manual (Sam scanning) -->
+<!-- TODO: Scan Whirlwind RV-10 propeller maintenance manual and upload to GDrive -->
