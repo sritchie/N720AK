@@ -71,3 +71,5 @@ Replacement cable boots for the throttle/mixture/prop quadrant: see [VAF thread 
 
 - [Ray Allen trim system installation instructions](http://www.aeroelectric.com/Installation_Data/Ray-Allen/Trim%20Sys%20General.pdf)
 - [Tosten CS Military Wiring Diagram](https://drive.google.com/file/d/1B6rsaPuWOP-TiiiwlmuQLgSspJDqMclw/view)
+- [Tosten CS Military Stick Assembly Drawing (Rev A, P/N 3-12-02)](https://drive.google.com/file/d/1N4iyJ68f3y31-2DaqXpZnqNncsPK0zsS/view) — Drill 3/16 dia hole, use 10-32 socket head cap and lock nut.
+- [PH Aviation PHA-09P Flap Actuator Installation](https://drive.google.com/file/d/1qQL7wGVN-vjMoh4NBLxsvACVc99HgZmU/view) — 12 VDC, 4A full load, 150 lb capacity, 5" stroke, 0.4 in/sec, internal limit switches, built-in potentiometer. Mount: AN5-23 bolt. Compatible with Garmin GAD 27 positioning.

@@ -14,11 +14,11 @@ N720AK has a fixed tricycle landing gear with hydraulic disc brakes on the main 
 | Master cylinders | <!-- TODO --> | <!-- TODO --> | Pilot and co-pilot toe pedals |
 | Brake fluid | Royco 782 | — | MIL-PRF-83282 |
 | Main wheels | WHLWI600XLT-2 | [Matco](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view) | WI600 series wheels & brakes |
-| Nose wheel | <!-- TODO --> | [Beringer](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view) | Beringer nosewheel (from finishing kit) |
+| Nose wheel | AV-VANS-102-01 | [Beringer](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view) | Beringer nosewheel (from finishing kit). Key parts: AV-VANS-004, JB-01, PAA02, AV-VANS-010. See [assembly drawing](https://drive.google.com/file/d/1mFLlQsnlvbyTMAaCnE1bWkoyrKa7Rsb3/view). |
 | Main tires | <!-- TODO --> | Desser | Retreads (no inner tubes) |
 | Nose tire | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, pressure --> |
 | Wheel fairings | <!-- TODO --> | <!-- TODO --> | Main gear only |
-| Axle extenders | RVAE10 | Cleaveland Tool | Wheel pant axle extenders (pair) |
+| Axle extenders | RVAE10 (VAE10/RVbits) | Cleaveland Tool | Wheel pant axle extenders (pair). AN5-6A bolts, torque 100 in-lbs. See [installation guide](https://drive.google.com/file/d/1l-FiOyAeNCY5SBKun7PtulPUNS9CfxAR/view). |
 | Wheel fairing spacers | WFSPCR | Planearound | Bracket spacers for wheel fairings |
 
 ## How It Works
@@ -38,6 +38,8 @@ Fixed tricycle configuration:
 - Steerable nose wheel
 - Main gear legs (steel)
 - Wheel fairings on main gear
+
+**Nosewheel torque specs** (per [Beringer assembly drawing](https://drive.google.com/file/d/1mFLlQsnlvbyTMAaCnE1bWkoyrKa7Rsb3/view)): 6mm screw = 10 N.m (88 in.lb), 1/4" = 9 N.m (80 in.lb), 8mm = 20 N.m (177 in.lb), bearing contact ~25 N.m. Install locking wire and cotter pin. Check disc safety wire before every flight.
 
 <!-- TODO: Nose wheel steering mechanism — direct link to rudder pedals? -->
 
@@ -65,3 +67,5 @@ Fixed tricycle configuration:
 
 - [Matco WI600 Series Wheel & Brake Manual (Rev A1)](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view)
 - [Beringer Wheels & Brakes Maintenance Manual](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view)
+- [Beringer RV-10 Nosewheel Assembly Drawing (AV-VANS-102-01)](https://drive.google.com/file/d/1mFLlQsnlvbyTMAaCnE1bWkoyrKa7Rsb3/view) — includes maintenance manual + torque specs
+- [RV-10 Axle Extension Replacement Installation (VAE10/RVbits)](https://drive.google.com/file/d/1l-FiOyAeNCY5SBKun7PtulPUNS9CfxAR/view) — AN5-6A bolts, 100 in-lbs torque, drill existing axle nuts to 5/16"

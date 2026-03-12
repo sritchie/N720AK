@@ -43,3 +43,6 @@ The autopilot disconnects when:
 
 - [Dynon SkyView Autopilot In-Flight Tuning Guide (Rev F)](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view)
 - [Dynon SkyView System Installation Guide (Rev AV)](https://drive.google.com/file/d/1S3A29Zn5DOK-3ADUyQeDOCU_NrU1NGbN/view)
+- [Dynon AP Roll Servo for RV-10 Right Wing (Doc 101046-003, Rev H)](https://drive.google.com/file/d/1cMuioRntHVxvx_9T4MZJNQehKsGSFT4j/view) — Kit P/Ns: 100870-001 Right Roll Bracket, 100872-001 Right Support Bracket, 100966-008 Aluminum Pushrod 3.0", 100836-000 Large Male Rod End. Hardware: AN3H-3A, AN3H-10A, AN3H-17A, AN970-3, AN365-1032A.
+- [Dynon AP Pitch Servo for RV-10 Linear Actuator (Doc 101046-007, Rev E)](https://drive.google.com/file/d/1X12fxjfgxR3uQbcHKydyKK7tb5qta-Yg/view) — Kit P/Ns: 100973-002, 100836-000, 100982-001.
+- [Dynon AP Yaw Tiller Arm/Bow Kit for RV-10/14 (Doc 102710-000, Rev A)](https://drive.google.com/file/d/15AFIPQ6ojmhK8ppL7KS-saivPqSvHEjH/view) — Kit P/Ns: 102701-000, 102702-000, 100904-001, 100905-000, 101877-000.

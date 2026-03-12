@@ -14,7 +14,7 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 | Power distribution | VPX Sport | Vertical Power | Electronic breakers — [manual (Rev G4)](https://drive.google.com/file/d/1fx7BQxzuy7GF-xIyuE83zK8BoZ-B0Vz2/view) |
 | Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by primary alternator |
 | Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by Monkworkz generator |
-| Primary Alternator | <!-- TODO: P/N --> | <!-- TODO --> | 60 amp, 14 volt |
+| Primary Alternator | [AL 12-E160/V](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view) (P/N 99-9900) | Hartzell | 60A. Belt: 13355 Dayco / 7355L Gates V-belt |
 | Generator | [MZ-30](https://monkworkz.com/product/mz-30/) | Monkworkz | Mounted on engine vacuum pad |
 | MZ Regulator | (included with MZ-30) | Monkworkz | Mounted on engine mount |
 | Generator relay | BOSCH 0332019155 | Bosch | NO relay, 30A, 12V, internal diode |
@@ -559,6 +559,10 @@ Summary of all connector types used in N720AK wiring (all installed).
 #### Charger Behavior Notes
 
 The OptiMate chargers enter sleep/maintenance mode once the battery is fully charged, checking voltage roughly once per hour. **Important**: If a continuous parasitic load is present (e.g. panel powered on for configuration), the charger may not detect the drain during its sleep intervals and the battery can discharge. This caused a drain-to-zero event during initial setup. The TM-275's TUNE mode (continuous 13.6V power supply) avoids this problem. (Per EarthX Engineering, Dillon Hinners, 2026-01-13.)
+### Hartzell Alternator Maintenance
+
+Per the [AL 12-E160/V installation manual](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view): battery terminal torque 50 in-lb, safety wire .032. Annual: check bearings. 5yr/1000hr: inspect brushes (replace if <0.250" from holder case edge). 5A enable CB, 60A main breaker.
+
 <!-- TODO: Battery maintenance — EarthX specific procedures, voltage checks, balancing -->
 <!-- TODO: Alternator belt inspection, tension -->
 <!-- TODO: VPX diagnostics — how to read the log, what to look for -->
@@ -570,5 +574,6 @@ The OptiMate chargers enter sleep/maintenance mode once the battery is fully cha
 - [VPX Getting Started Guide (Rev A)](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view)
 - [EFII Bus Manager Installation Instructions](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view)
 - [EarthX ETX900 Installation & Maintenance Manual](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view)
+- [Hartzell AL 12-E160/V Alternator Installation Manual (P/N 99-9900)](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view)
 - [Power & Lighting Schematic](https://drive.google.com/file/d/1hXrVusmeaCbz3MywPmLUjcQ1TfPFVOE9/view)
 - [VPX Pro/Sport Load Planning Worksheet](https://drive.google.com/file/d/1uy9UFDHQYeuw0kTXVAed_0YB3Jd1rMf1/view)

@@ -12,9 +12,9 @@ The **EFII System32** provides complete electronic engine management for N720AK 
 |-----------|-------------|----------|-------|
 | ECU (x2) | [System32](https://drive.google.com/file/d/1qWy2YjOcxXDmAfCELyb1E6BdgQzikOnG/view) | flyEFII | Dual redundant |
 | Coil packs | <!-- TODO --> | <!-- TODO --> | One per cylinder |
-| Fuel injectors (x6) | <!-- TODO --> | <!-- TODO --> | Port injection |
-| Fuel pumps (x2) | Walbro GSL391 | Walbro/EFII | See [Fuel System](./sys-28-fuel-system.md) |
-| Throttle body | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
+| Fuel injectors (x6) | [PMI](https://drive.google.com/file/d/1WlyDR120IPO475xFrKHHQDquhz46yU7E/view) | flyEFII | 7075 aluminum, 60lb std / 80lb race. Install in 1/8NPT primer ports, PTFE pipe dope. 1/4NPT fuel rail T fitting. |
+| Fuel pumps (x2) | [FPM-1](https://drive.google.com/file/d/1hgK2kdsIXg9Q8jmsiwSf64GxXn0jg-a9/view) | flyEFII | Dual Walbro GSL393, 400HP each, 5A/pump. AN-6 fittings. See [Fuel System](./sys-28-fuel-system.md) |
+| Throttle body adapter | [TBFA-1](https://drive.google.com/file/d/1B5nNYFYOsiy5J6uvdSr07eFms28A3tU-/view) | flyEFII | 3 1/4" snout, silicone coupler to 3" adapter. 5.5" total length (same as Bendix servo). |
 | System32 controller | <!-- TODO --> | flyEFII | Panel-mounted display/control |
 
 ## How It Works
@@ -110,3 +110,7 @@ The EFII System32 supports both 100LL and premium automotive gasoline (mogas), w
 - [Fuel System — Regulator Diagnostics](./sys-28-fuel-system.md#diagnostics) — fuel pressure analysis
 - [PLX DM-6 Multi Gauge User Guide](https://drive.google.com/file/d/1VIanTxYZkHM7e7pnBZsoarOo_NcaR9Uk/view)
 - [PLX SM-AFR Gen2 User Guide](https://drive.google.com/file/d/1bdoRUOQrCC5lVv3VV0NL7xmZuAf7LRID/view)
+- [PLX SM-AFR Gen4 Sensor Health Diagnostics](https://drive.google.com/file/d/1Lx1w9HNoKxVuSiyQLt7mKklyZbjxm5Bn/view) — O2 sensor health: replace if <50%. Reaction time: <150ms excellent, >251ms poor. Requires DM-6 V2.0+.
+- [EFII Port Mount Injector (PMI) Installation](https://drive.google.com/file/d/1WlyDR120IPO475xFrKHHQDquhz46yU7E/view)
+- [EFII Throttle Body Flange Adapter (TBFA-1)](https://drive.google.com/file/d/1B5nNYFYOsiy5J6uvdSr07eFms28A3tU-/view)
+- [EFII Dual Fuel Pump Module (FPM-1)](https://drive.google.com/file/d/1hgK2kdsIXg9Q8jmsiwSf64GxXn0jg-a9/view) — Dual Walbro GSL393, 400HP each, 5A/pump, AN-6 fittings. 10A breaker per pump or 20A shared.
