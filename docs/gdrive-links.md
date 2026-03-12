@@ -95,8 +95,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 
 | File | GDrive URL |
 |------|-----------|
-| matco-wheel-brake-general-manual.pdf | [link](https://drive.google.com/file/d/13tKx6KOyn5Msa2fJnDxHcNzG8vDHybpb/view) |
-| beringer-rv-installation-maintenance.pdf | [link](https://drive.google.com/file/d/1g5SpVRY8SGp9KROq9jE6nld-_5yQPUyY/view) |
+| matco-wi600-series-manual-rev-a1.pdf | [link](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view) |
+| beringer-wheels-brakes-maintenance-manual.pdf | [link](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view) |
 
 ### 71-Engine
 
