@@ -17,8 +17,12 @@ N720AK is powered by a **Lycoming IO-540** series engine, fuel-injected and norm
 | Oil separator | ASA | Antisplat Aero | Installed with install kit — [manual](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view), [installation guide](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view) |
 | Crankcase vacuum valve | Complete kit | Antisplat Aero | Crankcase vacuum system — [manual](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
 | Valve covers | Billet | SDS/Lycoming | O-ring #160 Viton 75 duro, torque 75–85 in-lbs — [specs](https://drive.google.com/file/d/1fxoCymURDKGM_IgYJJXaPjBpLPWcRwWW/view) |
-| Filtered air box | FAB-540 | Van's Aircraft | VFR only, 1/4-20 mounts tab-locked or safety wired — [installation guide](https://drive.google.com/file/d/1wrHayG8FZioF6GTLJ1P4RvtxQxPMfhZ7/view) |
+| Filtered air box | FAB-540 | Van's Aircraft | VFR only, 1/4-20 mounts tab-locked or safety wired — [installation guide](https://drive.google.com/file/d/1wrHayG8FZioF6GTLJ1P4RvtxQxPMfhZ7/view). Modified alt air door — see [Alt Air Door](#alt-air-door) below |
 | Engine mount covers | <!-- TODO --> | Aerosport Products | Carbon fiber covers, installed |
+| Preheat — engine | [Reiff XP](https://www.reiffpreheat.com/product.htm) | Reiff Preheat Systems | Cylinder band heaters on all 6 cylinders |
+| Preheat — oil sump | Reiff HotStrip | Reiff Preheat Systems | Oil sump heater; plug is inside the oil door |
+| Spark plug adapters | SPA-6 | flyEFII | 18mm→14mm thread adapters, naval brass, 6 installed. Allows automotive spark plugs with EFII ignition |
+| Spark plugs | <!-- TODO: confirm exact NGK model --> | NGK | Automotive 14mm plugs in EFII SPA-6 adapters |
 
 **Engine:** Lycoming YIO-540-D4A5, S/N EL-36315-48E, firing order 1-4-5-2-3-6, spark plug gap 0.016"–0.022".
 
@@ -51,6 +55,14 @@ Exhaust hanging kit: cable assembly, anti-sway assembly, support strap bends (30
 <!-- TODO: Heat muff for cabin heat -->
 <!-- TODO: EGT probe locations -->
 
+### Alt Air Door
+
+N720AK uses a modified alternate air door on the FAB-540 filtered air box, based on [this design](https://buildingrv10.blogspot.com/2014/09/filtered-air-box-alt-air-door-redo.html). Unlike the stock Van's design (which only allows opening), this modification uses an aluminum sliding gate mechanism actuated by cable from inside the cabin, allowing the pilot to both **open and close** the alternate air door in flight.
+
+### Preheat System
+
+N720AK has a **Reiff XP** preheat system with cylinder band heaters on all 6 cylinders, plus a **Reiff HotStrip** oil sump heater. The power plug is located inside the oil access door.
+
 ### Engine Mount
 
 Steel tube engine mount.
@@ -63,6 +75,10 @@ Steel tube engine mount.
 <!-- TODO: Oil change interval and procedure -->
 <!-- TODO: Compression check procedure and recent results -->
 <!-- TODO: Spark plug (if any traditional ones) inspection -->
+
+### Lycoming SB 634 — Cylinder Retirement
+
+Lycoming Mandatory Service Bulletin 634 (October 2018) requires retirement of certain parallel valve cylinder and head assemblies shipped between Sep 2013 and Apr 2015, due to compression loss from head casting leakage. N720AK cylinder serial numbers were checked against Table 1 — **none are listed, aircraft is not affected**.
 
 ### Billet Valve Covers
 
