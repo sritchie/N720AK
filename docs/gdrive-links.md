@@ -179,7 +179,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | rv10-transition-training-power-pattern-reference.pdf | [link](https://drive.google.com/file/d/1gslRCwBhtDWaC0gw-lr_CftZEUp0jgmo/view) |
 | isham-technical-information-manual.pdf | [link](https://drive.google.com/file/d/17qrunhl5xQzXF89dUMKN6P4ilyss18Ra/view) |
 | motopod-rv10-installation-manual.pdf | [link](https://drive.google.com/file/d/1QWCR4xc8nnh10I9uOARcdD6To6-jQ2z2/view) |
-| motopod-rv10-hardpoint-installation-manual.pdf | <!-- TODO: get GDrive ID after sync --> |
+| motopod-rv10-hardpoint-installation-manual.pdf | [link](https://drive.google.com/file/d/1SqSKDwVt8UNuLe1c2T9aCzRXD1wN4pnA/view) |
 
 ## Schematics
 

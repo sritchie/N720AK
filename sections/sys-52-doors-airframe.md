@@ -160,5 +160,6 @@ Wingtips attach via **piano hinge modification** — they can be removed entirel
 - [Aerosport Baggage Door Installation](https://drive.google.com/file/d/18AvKGDTWYxb_TbX6KVSPnV7GSaAQec-u/view)
 - [Planearound 180° Door Latch Installation](https://drive.google.com/file/d/1As7ky2KLb0SQcmBOqapdjMpxOYIaI_5y/view)
 - [Planearound Angled Pins & Guides](https://drive.google.com/file/d/1ouK7K3Vfje-LprCEngRxsZOt8NrqbSV7/view)
-- [MotoPOD RV-10 Installation Manual](https://drive.google.com/file/d/1QWCR4xc8nnh10I9uOARcdD6To6-jQ2z2/view) — hardpoints installed, pod never produced
+- [MotoPOD RV-10 Installation Manual](https://drive.google.com/file/d/1QWCR4xc8nnh10I9uOARcdD6To6-jQ2z2/view) — pod never produced
+- [MotoPOD RV-10 Hardpoint Installation Manual](https://drive.google.com/file/d/1SqSKDwVt8UNuLe1c2T9aCzRXD1wN4pnA/view) — hardpoints installed during build
 <!-- TODO: Cee Bailey care guide -->
