@@ -42,6 +42,16 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 **References**:
 - [CO Guardian 452 Installation Drawings (Rev G)](https://drive.google.com/file/d/1ynvn6eUuAsSj5bIYoHiptycL0zvR_6YZ/view)
 
+## Software Versions
+
+| System | Version | As Of | Update Source |
+|--------|---------|-------|--------------|
+| Dynon Skyview HDX | 17.4 | 2026-03-06 | [Dynon HDX Software Updates](https://dynonavionics.com/skyview-hdx-software-updates.php) |
+| Garmin GTN 650 | Main SW 6.73 | 2026-03-06 | [Garmin GTN Software](https://support.garmin.com/en-US/?faq=fdn7mK3h6J5kjMy8F7RYR8) |
+| flyEFII System32 | Version 86, Build 001 | 2026-03-06 | flyEFII |
+| Dynon aviation database | Cycle 2602 (Feb 19 – Mar 18) | 2026-03-06 | [Dynon US Aviation Data](https://dynonavionics.com/us-aviation-obstacle-data.php) |
+| Seattle Avionics ChartData | Current (all 50 states) | 2026-03-06 | [Seattle Avionics](https://www.seattleavionics.com/ChartData/Default.aspx?TargetDevice=Dynon) |
+
 ## Panel Layout
 
 <!-- TODO: Panel photo with callouts -->
@@ -82,6 +92,23 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 - **Delphi connectors**: [VAF thread — which Delphi connectors for RV-10](https://vansairforce.net/community/showthread.php?t=142169)
 - **Metri-Pack connectors**: [VAF thread — Metri-Pack connectors for engine sensor harness](https://vansairforce.net/community/showthread.php?t=125549)
+
+### EMS Sensors
+
+Dynon EMS engine sensor inventory for N720AK:
+
+| Function | Dynon P/N | Description | Qty | Notes |
+|----------|-----------|-------------|-----|-------|
+| Fuel pressure | 105492-002 | 150 PSI fluid pressure (= Kavlico v2 103757-000) | 1 | Configured as KAV V2 150PSI DIFF mode; purple gasket removed |
+| Oil pressure | 105492-002 | 150 PSI fluid pressure (= Kavlico v2 103757-000) | 1 | Purple gasket removed |
+| MAP | 104781-000 | MAP sensor, 1/8" hose, 0–60 inHg | 1 | Discontinued; replacement is 105493-000 (1/8-27 NPT). Automotive-style sender |
+| Oil temperature | 100409-001 | Oil/coolant temp, 5/8-18 UNF | 1 | Lycoming/Continental/Superior compatible |
+| CHT | 100404-000 | CHT, adjustable bayonet, 3/8-24 UNF | 6 | One per cylinder |
+| EGT | 100405-000 | EGT, 1.00–2.25" hose clamp | 6 | One per cylinder |
+| Alternator amps | 100412-000 | Amps shunt, 0–60A | 1 | Primary alternator current sensing |
+| Generator current | — | Monkworkz MZ-30 proportional output on EMS pin 31 | 1 | 0–2.7V = 0–30A; sensor definition not yet configured |
+
+<!-- TODO: Document exact EMS pin assignments for each sensor -->
 
 ### EMS Wiring
 

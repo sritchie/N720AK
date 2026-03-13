@@ -40,6 +40,18 @@ N720AK has dual controls (pilot and co-pilot) with push-pull tube actuation for 
 - **Roll Trim**: Electric servo in wing, controlled by hat switch on stick grip
 - **Yaw Trim**: None installed
 
+### Elevator Trim Tab Setting
+
+N720AK's elevator trim tabs were set using Bill DeRouchey's method (via [myrv10.com trimming tips](https://www.myrv10.com/tips/trimming/index.html)) instead of the stock Van's procedure. The stock instructions to set both trim tabs at 35° down creates an asymmetry problem where one tab fails to rise to trail position while the other overshoots, causing tail twisting forces.
+
+The corrected method:
+1. Move the trim servo to full nose-up position
+2. Set the starboard (right) trim tab trailing edge to 3" below the elevator trailing edge
+3. Run the starboard trim tab to trail position
+4. Set the port (left) trim tab to trail position
+
+The key requirement is that both trim tabs reach the neutral/trailing position at the same time, and that neither tab goes up while the other goes down.
+
 ### Co-Pilot Trim Enable
 
 A panel switch enables or disables trim authority from the co-pilot stick grip. When disabled, the co-pilot's trim hat has no effect. This prevents inadvertent trim inputs from passengers.

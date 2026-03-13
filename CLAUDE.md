@@ -307,11 +307,13 @@ Target domain: **n720ak.com** (configure in GitHub Pages settings)
 
 **Branch awareness**: At the start of each session, check `git branch --show-current` and `git log --oneline main..HEAD`. If you're on a feature branch with commits ahead of main, that branch was likely already merged — verify with `gh pr list --state merged --head <branch>`. If merged, switch to main and pull before starting new work. If not merged, you can stack additional commits on the existing branch.
 
-After making edits to POH sections, sys-* pages, or any repo files, always:
-1. Create a descriptive branch name
-2. Commit with an imperative-mood message
-3. Push and open a PR with a summary
-4. Squash merge the PR
+**Always start from fresh main.** Every new batch of changes must begin by switching to main, pulling latest, and creating a new branch. Do not make edits on stale branches or on main directly. The workflow is:
+1. `git checkout main && git pull`
+2. `git checkout -b descriptive-branch-name`
+3. Make edits
+4. Commit with an imperative-mood message
+5. Push and open a PR with a summary
+6. Squash merge the PR
 
 When merging PRs, **always use squash merge** via `gh pr merge`:
 
