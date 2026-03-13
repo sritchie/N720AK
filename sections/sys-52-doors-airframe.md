@@ -45,10 +45,39 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 
 <!-- TODO: Cleaning and care instructions -->
 
+## Interior
+
+### Aerosport Products
+
+N720AK uses a comprehensive set of Aerosport Products interior components:
+
+| Component | Status | Notes |
+|-----------|--------|-------|
+| [310 Instrument Panel](https://drive.google.com/file/d/1XEkeFnaRrYsqUShLOq1EERuG9CNP62BV/view) | Installed | Carbon fiber. See [Avionics](sys-42-avionics.md) |
+| [Quad Arm Rest](https://drive.google.com/file/d/1_vrHLLGZNJYQtTfJmIRkMZ_g-e_2D7c-/view) | Installed | Custom quadrant — throttle and prop only (no mixture lever, due to EFII) |
+| [Carbon Overhead Console](https://drive.google.com/file/d/1aat78Dnjsbh3dJIaiVSpEzNr9fb0-NqJ/view) | Installed | Houses 4 AeroVents, 2 map lights, GPS antennas |
+| Headliner | Not yet installed | |
+| [Interior Panels](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view) | Installed | |
+| [Carpet Set](https://drive.google.com/file/d/1lSyYc8sadXHJWMrHAtHMGDh0tiHQumc-/view) | Installed | |
+| Door Sill Caps | Installed | |
+| Seats | Installed | |
+| [Low-Profile Door Handles](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view) | Installed | Exterior, both doors |
+| [Interior Door Handle Kit](https://drive.google.com/file/d/1PSLf3CBbRL9vMzQmjddw8Uv_KICc3hp2/view) | Not yet installed | |
+| [Seat Lever Kit](https://drive.google.com/file/d/1lPOrWk_XDppNkZZWtYVIQu-oaTmlcKzr/view) | Installed | |
+| Belt & Headset Hanger | Installed | |
+| Baffle Motor Mount Covers | Installed | Carbon fiber. See [Engine](sys-71-engine.md) |
+| AeroVents (x4) | Installed | Overhead console — eyeball vents |
+| Cup Holders | Installed | |
+
+### Interior Paint
+
+Sherwin Williams Jetflex. <!-- TODO: Get paint code -->
+
 ## Seats & Restraints
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
+| Front seats (x2) | — | Aerosport Products | |
 | Front seatbelts (x2) | [Kam Lock](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) | Crow | 4-point or 5-point? |
 | Rear seatbelts (x2) | [Kam Lock](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) | Crow | |
 | Sun visors (x2) | [R1930001](https://drive.google.com/file/d/18EQY0qS7ipdczAJye-WqU1G0NUgAFC51/view) | Rosen Sunvisor Systems | Aircraft Spruce P/N 13-05695. Purchased 2020-07-13, not yet installed. |
@@ -88,7 +117,7 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 | Fuel drain vent + fairings | — | JDAir | Combo kit |
 | Tiedown points | — | <!-- TODO --> | Wing and tail |
 | Tow bar | [BO-04M-RV10](https://www.aircraft-tool.com/detail?id=BO-04M-RV10) | Aircraft Tool Supply | Steel, powder coated, lifetime warranty. Fits RV-10/RV-14A nose wheel. |
-| Cargo pod hardpoints | — | <!-- TODO --> | Installed; MotoPod not available (production ended) |
+| Cargo pod hardpoints | — | [MotoPOD](https://drive.google.com/file/d/1QWCR4xc8nnh10I9uOARcdD6To6-jQ2z2/view) | Installed; MotoPod not available (production ended). Manual in GDrive. |
 
 ## Heater & Ventilation
 
@@ -96,9 +125,13 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 |-----------|----------|-------|
 | Heater bypass valves | Plane Innovations | Controls cabin heat from engine exhaust muff |
 | Tunnel access kit | Airward | Access to center tunnel wiring and plumbing |
+| AeroVents (x4) | Aerosport Products | Eyeball vents in overhead console |
+| Eyeball air vents (x2) | AV-1.25B | SteinAir (Invoice 32015) | 1.25" outlet, 2" mounting hole, black anodized. Mounted in front instrument panel |
+| Map lights (x2) | MAPLIGHT-R-24 | SteinAir | Red/white switchable LED, 24V, 15mA, dimmable. Mounted in overhead console |
+
+**Vents**: 4 Aerosport AeroVents in the overhead console + 2 SteinAir AV-1.25B eyeball vents in the instrument panel = 6 total.
 
 <!-- TODO: How do the heater bypass valves work? -->
-<!-- TODO: Fresh air vents — locations, adjustability -->
 
 ## Wingtip Attachment
 
@@ -119,4 +152,13 @@ Wingtips attach via **piano hinge modification** — they can be removed entirel
 - [Crow Safety Gear Catalog](https://drive.google.com/file/d/1Lug00b6-yqtNt2nrqthp_6cMywcfi5WU/view)
 - [RVBits Intersection Fairing Installation Manual](https://drive.google.com/file/d/1Lh3zxB12ERlZuU-qNZrrewB9hpbk_Hbi/view)
 - [Rosen Sunvisor RV-10 Installation Instructions (Kit R1930001)](https://drive.google.com/file/d/18EQY0qS7ipdczAJye-WqU1G0NUgAFC51/view)
+- [Aerosport Center Arm Rest / Quad Arm Rest Installation](https://drive.google.com/file/d/1_vrHLLGZNJYQtTfJmIRkMZ_g-e_2D7c-/view)
+- [Aerosport Carpet Installation](https://drive.google.com/file/d/1lSyYc8sadXHJWMrHAtHMGDh0tiHQumc-/view)
+- [Aerosport Rear Air Vent Installation](https://drive.google.com/file/d/1kyTQr023QE_aOBJVKTOlhpBb77wlX35p/view)
+- [Aerosport NACA Vent Controller Adjustments](https://drive.google.com/file/d/15UbM-e04qulYMOGkhj_sTOeMtfmcDer0/view)
+- [Aerosport Interior Door Handle Installation](https://drive.google.com/file/d/1PSLf3CBbRL9vMzQmjddw8Uv_KICc3hp2/view)
+- [Aerosport Baggage Door Installation](https://drive.google.com/file/d/18AvKGDTWYxb_TbX6KVSPnV7GSaAQec-u/view)
+- [Planearound 180° Door Latch Installation](https://drive.google.com/file/d/1As7ky2KLb0SQcmBOqapdjMpxOYIaI_5y/view)
+- [Planearound Angled Pins & Guides](https://drive.google.com/file/d/1ouK7K3Vfje-LprCEngRxsZOt8NrqbSV7/view)
+- [MotoPOD RV-10 Installation Manual](https://drive.google.com/file/d/1QWCR4xc8nnh10I9uOARcdD6To6-jQ2z2/view) — hardpoints installed, pod never produced
 <!-- TODO: Cee Bailey care guide -->
