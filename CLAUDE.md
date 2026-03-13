@@ -231,7 +231,7 @@ Manufacturer PDFs, manuals, schematics, and configs live on **Google Drive** (no
 |---------------|---------|---------|
 | `Public/Manuals/{ATA}/` | Anyone with link | Manufacturer manuals by ATA chapter |
 | `Public/Schematics/` | Anyone with link | Wiring diagrams, system schematics |
-| `Public/Configs/` | Anyone with link | Dynon sensor/user configs, OnSpeed calibrations |
+| `Public/Configs/` | Anyone with link | Dynon sensor/user configs, OnSpeed calibrations. See also Dropbox backups below |
 | `Public/Performance/` | Anyone with link | ADSB reports, airspeed data, prop balance |
 | `Public/Weight-Balance/` | Anyone with link | W&B worksheets |
 | `Private/` | Owner only | Invoices, insurance, keys, registration |
@@ -239,6 +239,19 @@ Manufacturer PDFs, manuals, schematics, and configs live on **Google Drive** (no
 | `Archive/` | Owner only | Van's construction drawings, brochures, reference POHs |
 
 The `docs/` directory in git contains only `README.md`, `gdrive-links.md` (URL registry), and any small custom diagrams created for sys-*.md pages. No manufacturer PDFs in git.
+
+### Dynon Config Backups
+
+Date-stamped Dynon config backups are in **Dropbox**: `~/Dropbox/N720AK/Dynon Configs/`
+
+| File pattern | Purpose |
+|-------------|---------|
+| `*-SENSOR_CONFIG.sfg` | Sensor definitions (sensor types, calibration curves, pin mappings). This is the `.sfg` format. |
+| `*-USER_CONFIG.dfg` | Per-aircraft user configuration (EMS page layouts, sensor assignments, alarm settings, contact alarm range names/colors, widget positions). This is the `.dfg` format. |
+| `CO_Guardian_sensor_200015_RevC.sfg` | CO Guardian sensor definition for Dynon |
+| `ias_to_cas_config.dfg` | IAS to CAS calibration |
+
+Files are named with date and serial: e.g., `2026-02-11-N720AK-SN11668-17.4.0.23677-USER_CONFIG.dfg`. Use the most recent date for current config.
 
 **Getting Google Drive URLs for new files**: On macOS with Google Drive for Desktop, the file ID is stored in extended attributes. To get a shareable URL:
 ```bash
