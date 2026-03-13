@@ -42,6 +42,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | vpx-getting-started-guide.pdf | [link](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view) |
 | hartzell-al12-e160v-alternator-installation.pdf | [link](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view) |
 | vpx-sport-info-sheet-rev-c.pdf | [link](https://drive.google.com/file/d/13VY6HTcjhkKRfwwwrIF30nR0Jsh-Q_zz/view) |
+| aerosport-switch-wiring-diagram.pdf | [link](https://drive.google.com/file/d/1a5IdEYA0HwpPrvTgOwI8GaTtZSjuGCYF/view) |
 
 ### 27-Flight-Controls
 
@@ -50,6 +51,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | tosten-cs-military-wiring.pdf | [link](https://drive.google.com/file/d/1B6rsaPuWOP-TiiiwlmuQLgSspJDqMclw/view) |
 | tosten-cs-military-stick-assembly-drawing.pdf | [link](https://drive.google.com/file/d/1N4iyJ68f3y31-2DaqXpZnqNncsPK0zsS/view) |
 | ph-aviation-pha09p-flap-actuator-installation.pdf | [link](https://drive.google.com/file/d/1qQL7wGVN-vjMoh4NBLxsvACVc99HgZmU/view) |
+| aerosport-throttle-quadrant-installation.pdf | [link](https://drive.google.com/file/d/1AEMHdlwCex34L_dxx_a_mmb6Uz_51j8r/view) |
+| aerosport-rv10-cable-lengths-quad-arm-rest.pdf | [link](https://drive.google.com/file/d/1M2_ZCTfNf7b1JNINIGPUvsU3JesMsHgJ/view) |
 
 ### 28-Fuel-System
 
@@ -103,6 +106,9 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | co-guardian-452-co-detector-installation.pdf | [link](https://drive.google.com/file/d/1ynvn6eUuAsSj5bIYoHiptycL0zvR_6YZ/view) |
+| aerosport-rv10-310-panel-installation.pdf | [link](https://drive.google.com/file/d/1XEkeFnaRrYsqUShLOq1EERuG9CNP62BV/view) |
+| aerosport-rv10-overhead-console-installation.pdf | [link](https://drive.google.com/file/d/1aat78Dnjsbh3dJIaiVSpEzNr9fb0-NqJ/view) |
+| aerosport-switch-hole-dimensions.pdf | [link](https://drive.google.com/file/d/1HmPeGt9jzB_QAWJ-khXQDT_Y__GTGZ2U/view) |
 
 ### 52-Doors
 
@@ -116,6 +122,14 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | aerosport-rv10-seat-lever-kit-installation.pdf | [link](https://drive.google.com/file/d/1lPOrWk_XDppNkZZWtYVIQu-oaTmlcKzr/view) |
 | planearound-angled-pins-and-guides-instructions.pdf | [link](https://drive.google.com/file/d/1ouK7K3Vfje-LprCEngRxsZOt8NrqbSV7/view) |
 | planearound-180-door-latch-installation.pdf | [link](https://drive.google.com/file/d/1As7ky2KLb0SQcmBOqapdjMpxOYIaI_5y/view) |
+| aerosport-rv10-center-arm-rest-installation.pdf | [link](https://drive.google.com/file/d/1_vrHLLGZNJYQtTfJmIRkMZ_g-e_2D7c-/view) |
+| aerosport-rv10-carpet-installation.pdf | [link](https://drive.google.com/file/d/1lSyYc8sadXHJWMrHAtHMGDh0tiHQumc-/view) |
+| aerosport-rear-air-vent-installation.pdf | [link](https://drive.google.com/file/d/1kyTQr023QE_aOBJVKTOlhpBb77wlX35p/view) |
+| aerosport-naca-vent-installation.pdf | [link](https://drive.google.com/file/d/1KOpo7pTCAJZxSaO5fBlaFwC6bxUcFJnQ/view) |
+| aerosport-naca-vent-controller.pdf | [link](https://drive.google.com/file/d/15UbM-e04qulYMOGkhj_sTOeMtfmcDer0/view) |
+| aerosport-rv10-interior-door-handle-installation.pdf | [link](https://drive.google.com/file/d/1PSLf3CBbRL9vMzQmjddw8Uv_KICc3hp2/view) |
+| aerosport-rv10-baggage-door-installation.pdf | [link](https://drive.google.com/file/d/18AvKGDTWYxb_TbX6KVSPnV7GSaAQec-u/view) |
+| aerosport-headset-cord-clips-installation.pdf | [link](https://drive.google.com/file/d/165kYgBozQQfDXMaaAIh-j1kzIYbho_YP/view) |
 
 ### 61-Brakes
 
@@ -164,6 +178,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | rvbits-intersection-fairing-installation.pdf | [link](https://drive.google.com/file/d/1Lh3zxB12ERlZuU-qNZrrewB9hpbk_Hbi/view) |
 | rv10-transition-training-power-pattern-reference.pdf | [link](https://drive.google.com/file/d/1gslRCwBhtDWaC0gw-lr_CftZEUp0jgmo/view) |
 | isham-technical-information-manual.pdf | [link](https://drive.google.com/file/d/17qrunhl5xQzXF89dUMKN6P4ilyss18Ra/view) |
+| motopod-rv10-installation-manual.pdf | [link](https://drive.google.com/file/d/1QWCR4xc8nnh10I9uOARcdD6To6-jQ2z2/view) |
+| motopod-rv10-hardpoint-installation-manual.pdf | [link](https://drive.google.com/file/d/1SqSKDwVt8UNuLe1c2T9aCzRXD1wN4pnA/view) |
 
 ## Schematics
 

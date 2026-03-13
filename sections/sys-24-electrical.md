@@ -119,7 +119,7 @@ The MZ regulator is mounted on the engine mount with the following connections:
 
 **Output Molex Pico-Lock** (22-24 AWG):
 - Pin 1: Enable → Pilot enable switch (pin 1 to switch center, pin 6 to switch N.O.)
-- Pin 2: Output_Active — pulls to ground when regulator is active and maintaining ≥14V (works with Dynon/Garmin EFIS contact inputs)
+- Pin 2: Output_Active — pulls to ground when regulator is active and maintaining ≥14V (works with Dynon/Garmin EFIS contact inputs). **Orange/brown wire, currently coiled up and unused near the Monkworkz enable switch.**
 - Pin 3: +i_Shunt (internal fuse used as shunt, 1.1 mΩ nominal)
 - Pin 4: −i_Shunt
 - Pin 5: Proportional_Current → Dynon EMS pin 31 (0–~2.7V = 0–30A, brown/blue wire)
@@ -173,13 +173,13 @@ The Output Active pin (pin 2) also provides status: it "flashes" on an 8-second 
 The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
 
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
-<!-- TODO: Reinstall CO detector on alternate Dynon EMS pin (27, 28, 36, or 37 available) or use standalone CO monitor -->
+<!-- TODO: Reinstall CO detector — no EMS pins currently available. May need standalone CO monitor or additional EMS module -->
 <!-- TODO: Consider wiring Output Active (pin 2) to a Dynon contact input for generator active/failed annunciation -->
 
 #### References
 
 - [Monkworkz MZ-30 product page](https://monkworkz.com/product/mz-30/)
-- [MZ-30 Installation and Operation Manual V4 (2024-10-22)](https://drive.google.com/file/d/PENDING/view) — filed in GDrive `Public/Manuals/24-Electrical/`
+- [MZ-30 Installation and Operation Manual V4 (2024-10-22)](https://drive.google.com/file/d/1gYvTgAvxHc0wkgVv_7ftHDwXXgPplmXw/view)
 - [VAF: Monkworkz Wiring for Amps Readout](https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075)
 - Bus Manager Installation Guide, Drawing 5A (page 13)
 

@@ -24,6 +24,8 @@ A panel switch selects between:
 - **Pulse Mode**: Oxygen delivered in pulses synchronized with inhalation. This is normal operation and conserves oxygen significantly compared to constant flow.
 - **Constant Flow**: Continuous oxygen flow. Use at high altitude or if pulse mode is insufficient (e.g., nasal congestion, very high breathing rate).
 
+This switch also serves as the system on/off — there is no separate emergency oxygen switch. In an emergency, switch to constant flow.
+
 <!-- TODO: At what altitude does the EDS-4iP auto-activate? -->
 <!-- TODO: How does the system detect inhalation? -->
 <!-- TODO: Flow rate at various altitudes -->
