@@ -51,9 +51,33 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 |-----------|-------------|----------|-------|
 | Front seatbelts (x2) | [Kam Lock](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) | Crow | 4-point or 5-point? |
 | Rear seatbelts (x2) | [Kam Lock](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) | Crow | |
-| Sun visors (x2) | <!-- TODO --> | Aviation Tech Products | Purchased, not yet installed |
+| Sun visors (x2) | [R1930001](https://drive.google.com/file/d/18EQY0qS7ipdczAJye-WqU1G0NUgAFC51/view) | Rosen Sunvisor Systems | Aircraft Spruce P/N 13-05695. Purchased 2020-07-13, not yet installed. |
 
 <!-- TODO: Seatbelt adjustment and inspection notes -->
+
+### Sun Visor Installation (TODO — Not Yet Installed)
+
+**Kit**: Rosen R1930001 (Doc 9051-0193-001, Rev A)
+**Source**: Aircraft Spruce P/N 13-05695 (Order #14047456, 2020-07-13, $466)
+
+**Hardware included**:
+- 4x #10-32 locknut (1032NLINS BLK)
+- 4x #10-32 x 3/4" truss head screw (AN526C1032R12)
+- 4x #10 washer (AS-10)
+- 5/32" and 9/64" hex keys (for tension adjustment)
+
+**Installation summary**:
+1. Position visor so top mounting hole is level with upper edge of side window
+2. Mounting hole centers 7/8" from rear edge of door frame
+3. Drill #30 pilot hole, then expand to #12
+4. Insert truss head screws from outside door channel
+5. Mount visor base over screws, secure with washers and locknuts
+6. Torque to 25 lb-in
+7. Optional: RTV sealant around screw heads for moisture seal
+8. Adjust pivot tension with hex keys if needed (factory preset)
+9. Repeat for passenger side
+
+**Continued airworthiness**: Periodically clean lenses (soft cloth, mild soap, or aviation windscreen cleaner — no abrasives). Periodically adjust pivot tensions.
 
 ## Fairings & External Hardware
 
@@ -94,5 +118,5 @@ Wingtips attach via **piano hinge modification** — they can be removed entirel
 - [Crow Harness Installation Instructions](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view)
 - [Crow Safety Gear Catalog](https://drive.google.com/file/d/1Lug00b6-yqtNt2nrqthp_6cMywcfi5WU/view)
 - [RVBits Intersection Fairing Installation Manual](https://drive.google.com/file/d/1Lh3zxB12ERlZuU-qNZrrewB9hpbk_Hbi/view)
-<!-- TODO: Planearound 180° latch installation instructions -->
+- [Rosen Sunvisor RV-10 Installation Instructions (Kit R1930001)](https://drive.google.com/file/d/18EQY0qS7ipdczAJye-WqU1G0NUgAFC51/view)
 <!-- TODO: Cee Bailey care guide -->
