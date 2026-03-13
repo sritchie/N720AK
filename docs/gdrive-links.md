@@ -12,6 +12,9 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | dynon-skyview-autopilot-tuning-guide-rev-f.pdf | [link](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view) |
 | dynon-skyview-system-install-guide-rev-av.pdf | [link](https://drive.google.com/file/d/1S3A29Zn5DOK-3ADUyQeDOCU_NrU1NGbN/view) |
+| dynon-autopilot-servo-rv10-roll-installation-rev-h.pdf | [link](https://drive.google.com/file/d/1cMuioRntHVxvx_9T4MZJNQehKsGSFT4j/view) |
+| dynon-autopilot-yaw-tiller-arm-rv10-installation-rev-a.pdf | [link](https://drive.google.com/file/d/15AFIPQ6ojmhK8ppL7KS-saivPqSvHEjH/view) |
+| dynon-autopilot-servo-rv10-pitch-linear-actuator-rev-e.pdf | [link](https://drive.google.com/file/d/1X12fxjfgxR3uQbcHKydyKK7tb5qta-Yg/view) |
 
 ### 23-Communications
 
@@ -25,6 +28,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | dynon-sv-com-425-drawing.pdf | [link](https://drive.google.com/file/d/1UfjDYUc6NpaRH4Fd9VGXTsmC3CkCvkWE/view) |
 | bob-archer-antennas-for-aircraft.pdf | [link](https://drive.google.com/file/d/1b2w_VkXSzQI-bU9lCF0idzxq1E5rLWBG/view) |
 | bob-archer-antenna-installation.pdf | [link](https://drive.google.com/file/d/1tpQ1PFsuzGcuJrZAru651fHs_7vxFHb9/view) |
+| artex-elt345-base-kit-bom.pdf | [link](https://drive.google.com/file/d/1T0CslZBrxJWXVwNpyuUNlQNO5gZ8FiSs/view) |
 
 ### 24-Electrical
 
@@ -34,14 +38,18 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | vpx-sport-install-operating-manual-rev-g4.pdf | [link](https://drive.google.com/file/d/1fx7BQxzuy7GF-xIyuE83zK8BoZ-B0Vz2/view) |
 | efii-bus-manager-install-instructions.pdf | [link](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view) |
 | earthx-etx900-installation-manual.pdf | [link](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) |
-| monkworkz-mz30-installation-operation-manual-v4.pdf | <!-- TODO: get shareable link after GDrive sync --> |
+| monkworkz-mz30-installation-operation-manual-v4.pdf | [link](https://drive.google.com/file/d/1gYvTgAvxHc0wkgVv_7ftHDwXXgPplmXw/view) |
 | vpx-getting-started-guide.pdf | [link](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view) |
+| hartzell-al12-e160v-alternator-installation.pdf | [link](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view) |
+| vpx-sport-info-sheet-rev-c.pdf | [link](https://drive.google.com/file/d/13VY6HTcjhkKRfwwwrIF30nR0Jsh-Q_zz/view) |
 
 ### 27-Flight-Controls
 
 | File | GDrive URL |
 |------|-----------|
 | tosten-cs-military-wiring.pdf | [link](https://drive.google.com/file/d/1B6rsaPuWOP-TiiiwlmuQLgSspJDqMclw/view) |
+| tosten-cs-military-stick-assembly-drawing.pdf | [link](https://drive.google.com/file/d/1N4iyJ68f3y31-2DaqXpZnqNncsPK0zsS/view) |
+| ph-aviation-pha09p-flap-actuator-installation.pdf | [link](https://drive.google.com/file/d/1qQL7wGVN-vjMoh4NBLxsvACVc99HgZmU/view) |
 
 ### 28-Fuel-System
 
@@ -57,6 +65,9 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | andair-fs20-data-sheet.pdf | [link](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view) |
 | aeromotive-13129-efi-bypass-regulator.pdf | [link](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view) |
 | walbro-gsl391-pump-curves.png | [link](https://drive.google.com/file/d/1PUtKLYYYZci6o6Hc7R-wQbSz5pSp8JiM/view) |
+| andair-fs20-20-d2-fitting-instructions.pdf | [link](https://drive.google.com/file/d/116AJ9uHzYQgDmWlOfju_jJdbzK_izgoB/view) |
+| vans-rv10-fuel-tank-pressure-testing.pdf | [link](https://drive.google.com/file/d/1qvyhHf_mmgCIOBAUnXCuLmFIGbmtzhmY/view) |
+| efii-fpm1-dual-fuel-pump-module.pdf | [link](https://drive.google.com/file/d/1hgK2kdsIXg9Q8jmsiwSf64GxXn0jg-a9/view) |
 
 ### 33-Lighting
 
@@ -65,6 +76,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | aeroleds-pulsar-ns-installation.pdf | [link](https://drive.google.com/file/d/1onTAIGN8qbuRIdnjjzd__WusWbXLaJkj/view) |
 | aeroleds-aerosun-vx-installation.pdf | [link](https://drive.google.com/file/d/1xYeSL_1LVascpJOLFjPU8L3xYtJPENnf/view) |
 | aeroleds-suntail-installation.pdf | [link](https://drive.google.com/file/d/1T4M9Q_xeSgJWE-ySFvcwcPTa1if7kywT/view) |
+| rvbits-tail-light-adapter-ring-installation.pdf | [link](https://drive.google.com/file/d/1EL20dbKw3yUeTaEp9BX6L0Q8F8z4fJt3/view) |
+| aeroleds-rv10-wingtip-cutout-procedures-rev-a.pdf | [link](https://drive.google.com/file/d/1ex7Z_Vsp8wVNSxnwP8VOL0UjYDIqRLYe/view) |
 
 ### 34-Navigation
 
@@ -75,12 +88,21 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | dynon-skyview-ems-gauge-customization.pdf | [link](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view) |
 | dynon-skyview-third-party-device-connection-rev-e.pdf | [link](https://drive.google.com/file/d/1oxEsay5amF7m1MqrphiiwM65MX3KoH7I/view) |
 | tlar-pilot-guide-v7.80.pdf | [link](https://drive.google.com/file/d/1h-OZnxujNiw7GhTnug2ZU91aJiHWozVy/view) |
+| pitot-static-aoa-air-kit-installation-guide-rev04.pdf | [link](https://drive.google.com/file/d/1lbSCO4jr1xFV5EOb0bN8WuqpEOZiVWfn/view) |
+| gretz-aero-pitot-tube-mounting-bracket-installation.pdf | [link](https://drive.google.com/file/d/14BIicSMrexJGP9uup3Vh63ahOQn89jS5/view) |
+| dynon-aoa-pitot-probe-installation-guide-rev-c.pdf | [link](https://drive.google.com/file/d/1BmMD7326HdTBKZCkVp0f_06mPmGQvID8/view) |
 
 ### 35-Oxygen
 
 | File | GDrive URL |
 |------|-----------|
 | mountain-high-eds4ip-manual.pdf | [link](https://drive.google.com/file/d/1jyxfl9qch7xVHHYem4MqP5z7yCiDlXEi/view) |
+
+### 42-Avionics
+
+| File | GDrive URL |
+|------|-----------|
+| co-guardian-452-co-detector-installation.pdf | [link](https://drive.google.com/file/d/1ynvn6eUuAsSj5bIYoHiptycL0zvR_6YZ/view) |
 
 ### 52-Doors
 
@@ -90,6 +112,9 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | aerosport-rv10-interior-panels.pdf | [link](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view) |
 | crow-harness-installation.pdf | [link](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) |
 | crow-safety-catalog.pdf | [link](https://drive.google.com/file/d/1Lug00b6-yqtNt2nrqthp_6cMywcfi5WU/view) |
+| aerosport-rv10-seat-lever-kit-installation.pdf | [link](https://drive.google.com/file/d/1lPOrWk_XDppNkZZWtYVIQu-oaTmlcKzr/view) |
+| planearound-angled-pins-and-guides-instructions.pdf | [link](https://drive.google.com/file/d/1ouK7K3Vfje-LprCEngRxsZOt8NrqbSV7/view) |
+| planearound-180-door-latch-installation.pdf | [link](https://drive.google.com/file/d/1As7ky2KLb0SQcmBOqapdjMpxOYIaI_5y/view) |
 
 ### 61-Brakes
 
@@ -97,6 +122,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | matco-wi600-series-manual-rev-a1.pdf | [link](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view) |
 | beringer-wheels-brakes-maintenance-manual.pdf | [link](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view) |
+| rv10-axle-extension-replacement-installation.pdf | [link](https://drive.google.com/file/d/1l-FiOyAeNCY5SBKun7PtulPUNS9CfxAR/view) |
+| beringer-rv10-nosewheel-assembly-drawing.pdf | [link](https://drive.google.com/file/d/1mFLlQsnlvbyTMAaCnE1bWkoyrKa7Rsb3/view) |
 
 ### 71-Engine
 
@@ -104,6 +131,12 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | separator-vacuum-sys.pdf | [link](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
 | lycoming-io540-operators-manual.pdf | [link](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) |
+| anti-splat-aero-oil-separator-installation.pdf | [link](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view) |
+| milspec-rv-cowling-kit-installation.pdf | [link](https://drive.google.com/file/d/1VDGxhOahlBffD9VvPlNwQtvttik_Vqoc/view) |
+| skybolt-vloc-diamondhead-cowling-installation-rev22.pdf | [link](https://drive.google.com/file/d/1I4oNZoDTvq9ZZDrlb65K6z9avPsKbJcM/view) |
+| vans-fab-540-filtered-air-box-installation.pdf | [link](https://drive.google.com/file/d/1wrHayG8FZioF6GTLJ1P4RvtxQxPMfhZ7/view) |
+| sds-lycoming-billet-valve-covers-specs.pdf | [link](https://drive.google.com/file/d/1fxoCymURDKGM_IgYJJXaPjBpLPWcRwWW/view) |
+| goldberg-exhaust-ball-joint-diagram-2014.pdf | [link](https://drive.google.com/file/d/1exjRBHG0Y3DB3LnLpRSHmjOAufc6BeaS/view) |
 
 ### 73-EFII
 
@@ -111,6 +144,9 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | plx-dm6-user-guide.pdf | [link](https://drive.google.com/file/d/1VIanTxYZkHM7e7pnBZsoarOo_NcaR9Uk/view) |
 | plx-sm-afr-gen2-user-guide.pdf | [link](https://drive.google.com/file/d/1bdoRUOQrCC5lVv3VV0NL7xmZuAf7LRID/view) |
+| efii-pmi-port-mount-injector-installation.pdf | [link](https://drive.google.com/file/d/1WlyDR120IPO475xFrKHHQDquhz46yU7E/view) |
+| efii-tbfa-throttle-body-flange-adapter.pdf | [link](https://drive.google.com/file/d/1B5nNYFYOsiy5J6uvdSr07eFms28A3tU-/view) |
+| plx-sm-afr-gen4-additional-info.pdf | [link](https://drive.google.com/file/d/1Lx1w9HNoKxVuSiyQLt7mKklyZbjxm5Bn/view) |
 
 ### 84-Propeller
 
@@ -125,6 +161,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | rv10-gust-lock-instructions.pdf | [link](https://drive.google.com/file/d/1-ym-7C8CtEh9WyVcolaqD7XhwoNROy3R/view) |
 | rvbits-intersection-fairing-installation.pdf | [link](https://drive.google.com/file/d/1Lh3zxB12ERlZuU-qNZrrewB9hpbk_Hbi/view) |
+| rv10-transition-training-power-pattern-reference.pdf | [link](https://drive.google.com/file/d/1gslRCwBhtDWaC0gw-lr_CftZEUp0jgmo/view) |
+| isham-technical-information-manual.pdf | [link](https://drive.google.com/file/d/17qrunhl5xQzXF89dUMKN6P4ilyss18Ra/view) |
 
 ## Schematics
 
@@ -137,6 +175,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | OnSpeed/AMX-10A_Installation_1.png | [link](https://drive.google.com/file/d/13pwiMGAFJFnBhGvPYXi-F6jSHgqcx79H/view) |
 | OnSpeed/AMX-10A_Installation_2.png | [link](https://drive.google.com/file/d/1Sw1c2xQJSDzzdc_xtxlVrdaLRYVWg2Jx/view) |
 | OnSpeed/AMX-10A_Installation_3.png | [link](https://drive.google.com/file/d/1UFVWUY-fRRcR6ru1VY8mgm_RKLxF4dOI/view) |
+| aeroleds-vx-wiring-diagram.pdf | [link](https://drive.google.com/file/d/1SSKnVoWxoO4Zz8Ljo8VgFZz5Iy2wV9fT/view) |
+| rv10-exhaust-hanging-kit-sketch.pdf | [link](https://drive.google.com/file/d/1mBQ22gVyqttqpm6rcNZUiJZYJOeXri_9/view) |
 
 ## Configs
 

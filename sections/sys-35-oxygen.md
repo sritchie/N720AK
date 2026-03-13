@@ -12,7 +12,7 @@ N720AK is equipped with the **Mountain High EDS-4iP** pulse-demand oxygen system
 |-----------|-------------|----------|-------|
 | O2 system | [EDS-4iP](https://drive.google.com/file/d/1jyxfl9qch7xVHHYem4MqP5z7yCiDlXEi/view) | Mountain High | Pulse on demand |
 | Mode switch | <!-- TODO --> | <!-- TODO --> | Panel mounted |
-| O2 bottle | <!-- TODO --> | <!-- TODO --> | <!-- TODO: size, location --> |
+| O2 bottle | S/N 602-100814 | Mountain High | 6×18, 2216 PSI rating |
 | Cannulas | <!-- TODO --> | <!-- TODO --> | <!-- TODO: how many ports? --> |
 
 ## How It Works
@@ -31,7 +31,12 @@ A panel switch selects between:
 
 ## Inspection & Maintenance
 
-<!-- TODO: Bottle hydro test schedule -->
+### Service History
+
+- **2026-01-12**: O2 cylinder (S/N 602-100814) hydro requalification — passed. Operator: Rod Morton, United Fire. (Invoice in Private/Invoices/)
+- **2026-01-16**: Mountain High IPR-0157 regulator overhaul — replaced O-rings, seat seals, valve/reg springs, new E-bypass switch per ECO 2022-001. Valve test passed at 500/1500/2300 PSI. Cylinder torqued to 60 ft-lbs. (Invoice in Private/Invoices/)
+
+<!-- TODO: Bottle hydro test schedule (next due ~2031 based on 2026-01-12 requalification) -->
 <!-- TODO: How to check remaining O2 -->
 <!-- TODO: Cannula replacement schedule -->
 <!-- TODO: System leak check procedure -->

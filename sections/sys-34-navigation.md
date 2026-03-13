@@ -112,3 +112,6 @@ Per 14 CFR 91.411 and 91.413, the altimeter system and transponder must be inspe
 - [Dynon SkyView EMS Gauge Customization](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view)
 - [Dynon SkyView Third-Party Device Connection (Rev E)](https://drive.google.com/file/d/1oxEsay5amF7m1MqrphiiwM65MX3KoH7I/view)
 - [TLAR Pilot Guide (v7.80)](https://drive.google.com/file/d/1h-OZnxujNiw7GhTnug2ZU91aJiHWozVy/view)
+- [Pitot/Static/AOA Air Kit Installation Guide (Rev 04)](https://drive.google.com/file/d/1lbSCO4jr1xFV5EOb0bN8WuqpEOZiVWfn/view) — Quick-disconnect plumbing kit. Variants: A=SkyView ADAHRS, B=EFIS+backups, C=Steam. Tubing: 25' green (pitot), 32' white (static), 23' blue (AOA), all 1/4".
+- [Gretz Aero Pitot Tube Mounting Bracket Installation](https://drive.google.com/file/d/14BIicSMrexJGP9uup3Vh63ahOQn89jS5/view) — Left wing bottom, outboard of main spar inspection plate.
+- [Dynon AOA/Pitot Probe Installation Guide (Rev C)](https://drive.google.com/file/d/1BmMD7326HdTBKZCkVp0f_06mPmGQvID8/view) — P/N 100141-000 (unheated), P/N 100667-000 (heated). Doc 100740-001.

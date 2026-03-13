@@ -119,3 +119,6 @@ See also: [Wing root connector pinouts](sys-24-electrical.md#wing-root-connector
 - [AeroLEDs Pulsar NS Installation (Experimental)](https://drive.google.com/file/d/1onTAIGN8qbuRIdnjjzd__WusWbXLaJkj/view)
 - [AeroLEDs AeroSun VX Installation (Rev C)](https://drive.google.com/file/d/1xYeSL_1LVascpJOLFjPU8L3xYtJPENnf/view)
 - [AeroLEDs SunTail Installation (Rev A)](https://drive.google.com/file/d/1T4M9Q_xeSgJWE-ySFvcwcPTa1if7kywT/view)
+- [RVbits RVTLR3 Tail Light Adapter Ring Installation](https://drive.google.com/file/d/1EL20dbKw3yUeTaEp9BX6L0Q8F8z4fJt3/view) — P/N RVTLR3, lower rudder fairing. 6 mounting holes drilled to #30 (countersunk), light mounting screws 7/8" from center.
+- [AeroLEDs RV-10 Wingtip Cutout Procedures (Rev A)](https://drive.google.com/file/d/1ex7Z_Vsp8wVNSxnwP8VOL0UjYDIqRLYe/view) — Doc 0002-0006, P/N 01-2500-KT-1 / 01-2500-KT-2. Cutout templates for RV-9/10/14.
+- [AeroLEDs Vx Wiring Diagram — Wig-Wag Configuration](https://drive.google.com/file/d/1SSKnVoWxoO4Zz8Ljo8VgFZz5Iy2wV9fT/view) — 5-wire per light (R/Blk/G/Blu/Y). Switches: S4 Landing, S5 Recognition/Wig-Wag, S1 Taxi.
