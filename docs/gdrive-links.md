@@ -108,6 +108,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 
 | File | GDrive URL |
 |------|-----------|
+| rosen-sunvisor-rv10-installation-R1930001.pdf | [link](https://drive.google.com/file/d/18EQY0qS7ipdczAJye-WqU1G0NUgAFC51/view) |
 | aerosport-rv10-low-profile-handle-installation.pdf | [link](https://drive.google.com/file/d/1UdmIElB8dpqeHm83uqWIWb9u-yWW1pqW/view) |
 | aerosport-rv10-interior-panels.pdf | [link](https://drive.google.com/file/d/1v4W2YSHWog1DzWBdEFBpVgf6RBQB5QtY/view) |
 | crow-harness-installation.pdf | [link](https://drive.google.com/file/d/1r66NponS0MWoOWk11xyqjMS09lUmkQ1Q/view) |
