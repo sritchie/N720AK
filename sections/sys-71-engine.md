@@ -12,6 +12,8 @@ N720AK is powered by a **Lycoming IO-540** series engine, fuel-injected and norm
 |-----------|-------------|----------|-------|
 | Engine | [YIO-540-D4A5](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) | Lycoming | S/N EL-36315-48E, 260 HP at 2700 RPM |
 | Engine mount | <!-- TODO --> | <!-- TODO --> | Steel tube |
+| Oil drain plug | [Magnetic Oil Drain Super Plug](https://www.aircraftspruce.com/catalog/hapages/superplub05-12373.php) | Aircraft Spruce (05-12373) | 1/2" NPT, Alnico magnet (1-1/32" long), CAD plated, safety wire drilled. Experimental — verify sump/pickup clearance before install |
+| Oil quick drain | P5000 | Saf-Air | Quick drain valve on engine oil sump |
 | Oil filter | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 | Oil cooler | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 | Oil separator | ASA | Antisplat Aero | Installed with install kit — [manual](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view), [installation guide](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view) |
