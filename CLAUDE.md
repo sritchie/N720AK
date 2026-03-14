@@ -19,6 +19,23 @@ Linear is used **only as a task manager** for pending work items. It is NOT a co
 - **Linear upload URLs expire** — JWT-signed `uploads.linear.app` URLs are valid for ~5 minutes. Never store these as permanent references.
 - When closing an issue, the content should already be in its permanent home (GDrive or repo) before marking Done
 
+### Linear CLI
+
+No Linear MCP is configured. Use the CLI to interact with Linear:
+
+```bash
+# Create a new issue in the RV-10 team's triage queue
+npx @linear/cli issue create --team RV --title "Issue title" --description "Details"
+
+# List issues
+npx @linear/cli issue list --team RV
+
+# View an issue
+npx @linear/cli issue view RV-123
+```
+
+**First-time setup**: The CLI requires an API key on first run (interactive prompt). Once authenticated, the key is stored locally.
+
 ## Checklist Synchronization
 
 **Canonical checklist source**: https://rdamazio.github.io/efis-editor/checklists#N720AK
@@ -482,6 +499,20 @@ Van's RV-10 construction plans (121 PDFs) are indexed for search in `docs/`.
 - Construction plans show **assembly**, not disassembly. For removal questions, the answer is typically "reverse of installation."
 - **N720AK deviates from stock plans** in 25+ areas (see Build Deviations table in the index). Always check deviations before answering — the plans show what Van's designed, not necessarily what's installed.
 - AN fastener numbers in the plans cross-reference to modern MS/NAS numbers used by retailers — see `sections/sys-00-workshop.md` "AN/MS/NAS Fastener Cross-Reference" section for the full mapping (AN509→MS24694, AN426→MS20426, AN365→MS21044, etc.).
+
+## Dynon Config Backups
+
+Dynon SkyView config snapshots are stored in Dropbox:
+
+**Path**: `~/Dropbox/N720AK/Dynon Configs/`
+
+**File naming**: `YYYY-MM-DD-N720AK-SN{serial}-{sw_version}-{CONFIG_TYPE}.{ext}`
+
+**Key file types**:
+- `SENSOR_CONFIG.sfg` — sensor definitions (P/Ns, calibration curves, pin assignments)
+- `USER_CONFIG.dfg` — per-aircraft config: EMS page layouts, contact alarm ranges, widget positions, display preferences
+
+**Contact alarm text indicators**: Controlled by `range_name` fields in USER_CONFIG.dfg. Setting `range_name=` (empty string) removes the text overlay while keeping the color indicator. Example: LDOOR/RDOOR have empty range names (no text), while PHEAT has `range1_name=ON` and `range2_name=OFF` (shows text).
 
 ## Editing Tips
 

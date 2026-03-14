@@ -90,7 +90,10 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 | Capacity (each) | 30 gallons |
 | Total usable | 29.5 gallons per tank (59 gallons total) |
 | Fuel type | 100LL or premium unleaded 91 octane mogas (minimum) |
-| Venting | Vented to atmosphere |
+| Venting | Vented to atmosphere via wing vent tubes |
+| Fuel sump drains | Saf-Air stainless push drains, 2 (one per wing) |
+| Fuel drain fairing | JDAir fuel drain fairing (silver) |
+| Fuel vent fairing | JDAir fuel vent fairing (blue) |
 
 ### Shutoff Valves
 
@@ -525,6 +528,7 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [Andair FS20 Fuel Selector Data Sheet](https://drive.google.com/file/d/1HITWQ2vGk_ejgl2kyaRrRlyun6pNDlPl/view)
 - [Aeromotive 13129 EFI Bypass Regulator Manual](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view)
 - [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_bulletin_120414.php) — blocked baro compensation ports on Kavlico sensors
+- [JDAir Fuel Drain & Vent Fairings Combo](https://www.jdair.com/fuel-vents-fuel-drain-fairings-combo-save-over-10/) — silver drain fairing, blue vent fairing
 - Flight log data: `maintenance/fuel-system/flight-logs/`
 
 ---
