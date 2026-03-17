@@ -106,9 +106,14 @@ Dynon EMS engine sensor inventory for N720AK:
 | CHT | 100404-000 | CHT, adjustable bayonet, 3/8-24 UNF | 6 | One per cylinder |
 | EGT | 100405-000 | EGT, 1.00–2.25" hose clamp | 6 | One per cylinder |
 | Alternator amps | 100412-000 | Amps shunt, 0–60A | 1 | Primary alternator current sensing |
-| Generator current | — | Monkworkz MZ-30 proportional output on EMS pin 31 | 1 | 0–2.7V = 0–30A; sensor definition not yet configured |
+| Generator current | — | Monkworkz MZ-30 proportional output on EMS pin 31 | 1 | 0–2.7V = 0–30A; Dynon sensor: MONKWORKZ CURRENT (AMPS, name=MZ30) |
+| Generator status | — | Monkworkz MZ-30 status wire on EMS pin | 1 | CONTACT-type sensor; Dynon sensor: MONKWORKZ STATUS (name=MZ30_S). Wire not yet physically connected |
 
 <!-- TODO: Document exact EMS pin assignments for each sensor -->
+
+### MAP Blanking Threshold
+
+The MAP sensor definition (100434-000, all calibration variants) uses a `min_val` parameter that blanks the reading below a threshold. This was lowered from 2.0 PSI (4.07 inHg) to **1.5 PSI (3.05 inHg)** on 2026-03-17 to prevent MAP and fuel pressure (DIFF mode) from blanking at high altitude idle with constant-speed propeller. Change approved by Don Jones, Dynon Customer Support (Zendesk #186497, 2026-03-16).
 
 ### EMS Wiring
 
