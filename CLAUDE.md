@@ -19,19 +19,34 @@ Linear is used **only as a task manager** for pending work items. It is NOT a co
 - **Linear upload URLs expire** — JWT-signed `uploads.linear.app` URLs are valid for ~5 minutes. Never store these as permanent references.
 - When closing an issue, the content should already be in its permanent home (GDrive or repo) before marking Done
 
-### Linear CLI
+### Linear API
 
-No Linear MCP is configured. Use the CLI to interact with Linear:
+Use the Linear GraphQL API via Python. The CLI (`npx @linear/cli`) requires interactive auth and doesn't work in non-TTY shells.
 
-```bash
-# Create a new issue in the RV-10 team's triage queue
-npx @linear/cli issue create --team RV --title "Issue title" --description "Details"
+**RV team ID**: `363699f6-bb3c-4d72-8bd1-a79aabbbef7c`
 
-# List issues
-npx @linear/cli issue list --team RV
+```python
+import urllib.request, json
 
-# View an issue
-npx @linear/cli issue view RV-123
+def linear_api(query, variables=None):
+    payload = {"query": query}
+    if variables: payload["variables"] = variables
+    data = json.dumps(payload).encode()
+    req = urllib.request.Request('https://api.linear.app/graphql', data=data, headers={
+        'Content-Type': 'application/json',
+        'Authorization': '<API_KEY>'  # Ask user for key if not available
+    })
+    return json.loads(urllib.request.urlopen(req).read())
+
+# Create a triage issue (no project)
+linear_api("""
+mutation($input: IssueCreateInput!) {
+  issueCreate(input: $input) {
+    success
+    issue { identifier url }
+  }
+}
+""", {"input": {"teamId": "363699f6-bb3c-4d72-8bd1-a79aabbbef7c", "title": "...", "description": "..."}})
 ```
 
 **First-time setup**: The CLI requires an API key on first run (interactive prompt). Once authenticated, the key is stored locally.
@@ -292,12 +307,61 @@ plans/
 
 ### Key Fuel System Findings (as of 2026-03)
 
-- N720AK's Aeromotive regulator has consistent MAP slope of **−0.30 PSI/inHg** (should be ~0)
-- Variable sticking/hunting: residual σ ranges from 0.18 to 1.25 PSI across flights
-- Reference baseline (N88810, same regulator): σ = 0.08 PSI, slope = −0.01 — essentially perfect
-- Dynon fuel pressure sensor appears to be baro-compensated (altitude correction fraction ≈ 0)
-- Garmin fuel pressure sensor is standard gauge (needs altitude correction, fraction = 1.0)
+- **Pump capacity is the dominant factor** in injector differential stability — not the regulator
+- With Walbro 391 pumps: MAP slope = **−0.135 PSI/inHg**, cruise diff = 32.7 PSI (target 35)
+- With Walbro 393 pumps (old): MAP slope = **−0.277 PSI/inHg**, cruise diff = 31.1 PSI
+- Reference N88810 with Walbro 392 pumps: MAP slope = **−0.014 PSI/inHg**, cruise diff = 34.9 PSI — nearly flat
+- All three systems hold ~35 PSI at idle (low flow); the sag only appears under cruise fuel demand
+- Upgrade to Walbro 392 pumps is tracked in Linear (RV-1164)
 - Full details: `sections/sys-28-fuel-system.md`
+
+### Dynon Fuel Pressure: DIFF vs Gauge Modes
+
+N720AK runs the Dynon fuel pressure in **differential (DIFF) mode** as of 2026-02:
+- **DIFF mode** (current): Dynon computes `P_fuel_absolute - MAP` = injector differential
+  - The raw sensor reads gauge (P_fuel - P_atm)
+  - Dynon adds atmospheric back to get absolute, then subtracts MAP
+  - This is the quantity that matters for fuel injection — pressure across the injectors
+  - **Depends on a valid MAP reading** — if MAP blanks, FP blanks too
+- **Gauge mode** (old, pre-2026-02): Dynon logs the raw sensor reading = P_fuel - P_atm
+  - To compute injector differential from gauge data: `inj_diff = gauge_FP + (P_atm - MAP) * 0.49115`
+  - Where P_atm is from standard atmosphere: `P_atm_inHg = 29.92 * (1 - alt_ft / 145442)^5.25588`
+  - On the ground with engine off, gauge FP = diff FP (because MAP = P_atm, so the delta is zero)
+
+**The core diagnostic quantity is always injector differential vs MAP.** A perfect regulator holds flat. Sag = pump can't keep up.
+
+### Dynon MAP Sensor Details
+
+- **Active sensor**: `100434-000 (-0.5)` on pin `C37_P26`
+- **Transfer function**: `PSI = 5.7030 * V + 1.1406` (linear)
+- **min_val = 1.5 PSI (= 3.05 inHg)** — values below this are blanked
+  - Dead short (0V) reads 1.141 PSI = 2.32 inHg
+  - Previously 2 PSI (4.07 inHg); lowered 2026-03-17 to prevent blanking at high altitude idle with CS prop
+  - Change approved by Don Jones, Dynon Customer Support (Zendesk #186497, 2026-03-16)
+- **Config files**: `GDrive: N720AK/Public/Configs/Dynon/`
+  - `.sfg` (SENSOR_CONFIG) = sensor definitions, transfer functions, min/max
+  - `.dfg` (USER_CONFIG) = display ranges, color bands, alarm settings
+  - Active MAP display: `c37_p26` in the `.dfg`, `min_display=0`, `max_display=19.6439` PSI (= 0-40 inHg)
+
+### Flight Data CSV Formats
+
+**Dynon SkyView** (`*USER_LOG_DATA.csv`):
+- 4 Hz sample rate, comma-separated, single header row
+- Key columns: `Session Time`, `GPS Date & Time`, `Manifold Pressure (inHg)`, `Fuel Pressure (PSI)`, `FUEL PRESSURE (PSI)`, `RPM L`, `Pressure Altitude (ft)`, `Total Fuel Flow (gal/hr)`, `Barometer Setting (inHg)`, CHTs, EGTs
+- `Fuel Pressure (PSI)` and `FUEL PRESSURE (PSI)` are identical in current config
+- In DIFF mode, both columns contain the computed differential (P_fuel_abs - MAP)
+- In gauge mode (old data), both contain raw gauge pressure
+- Blank cells (empty string) = sensor reported invalid/out-of-range — NOT zero
+- May contain multiple flights; segment by RPM > 0 transitions
+- GPS timestamps are UTC; `Session Time` is seconds from power-on
+
+**Garmin GDU 460** (`log_YYYYMMDD_HHMMSS_XXX.csv`):
+- 1 Hz sample rate, comma-separated, 3 header rows (info, long names, short names)
+- Data starts at row 4
+- Key columns: `Manifold Press (inch Hg)`, `Fuel Press (PSI)`, `RPM`, `Pressure Altitude (ft)`, `Fuel Flow (gal/hour)`, `Baro Setting (inch Hg)`
+- Fuel pressure is always **gauge** (relative to atmosphere) — must compute injector diff
+- Has `Fl Pmp 1 Amps` / `Fl Pmp 2 Amps` columns for pump current monitoring
+- Has `FUEL PP 2 ON (discrete)` for pump switchover detection
 
 ## Weight & Balance for ForeFlight
 

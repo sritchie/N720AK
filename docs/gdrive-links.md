@@ -215,6 +215,8 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | 2026-02-06 User Config | [link](https://drive.google.com/file/d/1dK0k8R1kP6RbHmHbWp66Fc9W5Zqm3CbM/view) |
 | 2026-02-11 Sensor Config | [link](https://drive.google.com/file/d/1GxfiZeH0AhDrTBnZvSaJCVy5mNjSlHjJ/view) |
 | 2026-02-11 User Config | [link](https://drive.google.com/file/d/1jpzx9ozf3gmum9c-df6tvgYPP-Nl7WRH/view) |
+| 2026-03-17 Sensor Config (SN10980 HDX800) | pending GDrive sync |
+| 2026-03-17 User Config (SN10980 HDX800) | pending GDrive sync |
 | CO Guardian Sensor Config (RevC) | [link](https://drive.google.com/file/d/1Xkl4iw0zSDyENs1FRKbf_wncMTQaPB9u/view) |
 | IAS-to-CAS Config | [link](https://drive.google.com/file/d/1CCemaekFzpkITtQjmah96y79s75vHdBG/view) |
 
