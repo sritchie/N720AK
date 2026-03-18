@@ -45,6 +45,11 @@ case "${1:-all}" in
     echo "Done: output/checklists.pdf"
     ;;
 
+  logbooks)
+    echo "Building maintenance logbook PDFs..."
+    uv run python3 scripts/build_logbooks.py --all --open
+    ;;
+
   all)
     $0 pdf
     $0 html
@@ -52,12 +57,13 @@ case "${1:-all}" in
     ;;
 
   *)
-    echo "Usage: ./build.sh [pdf|html|serve|checklists|all]"
+    echo "Usage: ./build.sh [pdf|html|serve|checklists|logbooks|all]"
     echo ""
     echo "  pdf        - Build PDF using Pandoc/Typst"
     echo "  html       - Build static HTML site using mdBook"
     echo "  serve      - Start mdBook dev server with live reload"
     echo "  checklists - Build cabin checklists PDF from N720AK.json"
+    echo "  logbooks   - Build printable maintenance logbook PDFs from GDrive TSV records"
     echo "  all        - Build PDF, HTML, and checklists"
     exit 1
     ;;
