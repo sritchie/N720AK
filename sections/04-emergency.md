@@ -114,60 +114,59 @@
 
 ## Fires
 
-### Fire During Start On Ground
+### Engine Fire During Start On Ground
 
-- Cranking ... **CONTINUE**
-- Power ... **1700 RPM**
-    for a few minutes
-- Engine ... **SHUTDOWN**
 - Throttle ... **FULL OPEN**
-- Mixture ... **IDLE CUT-OFF**
-- Cranking ... **CONTINUE**
-    2-3 min
-- Fire Extinguisher ... **OBTAIN**
+- Fuel Pump Breakers ... **PULL BOTH**
+    cuts fuel, ignition continues — engine sucks fire in, runs on residual fuel, then dies
+- Key Switch ... **OFF**
 - Fuel Selector Valve ... **OFF**
-- Master Switch ... **OFF**
-- Ignition Switch ... **OFF**
-- Fire ... **EXTINGUISH**
-- Fire Damage ... **INSPECT**
+- Evacuate / Extinguisher ... **AS REQUIRED**
+- Throttle ... **FULL OPEN**
+- Starter ... **CONTINUE CRANKING**
+    attempt to clear fuel from intake
+- Fuel Pump Breakers ... **PULL BOTH**
+- Key Switch ... **OFF**
+- Emergency Power Switch ... **OFF**
+- Fuel Selector Valve ... **OFF**
+- Fire Extinguisher ... **AS REQUIRED**
+- Evacuate ... **IMMEDIATELY**
 
 ### Engine Fire In Flight
 
 - Fuel Selector Valve ... **OFF**
-- Mixture ... **IDLE CUT-OFF**
-- Master Switch ... **OFF**
-- Cabin Heat and Air ... **OFF**
-    except overhead vents
-- Airspeed ... **100 KIAS**
-    If fire is not extinguished, increase glide speed to find an airspeed which will provide an incombustible mixture
-  If fire goes out:
-- Glide speed ... **76 KIAS**
-- Landing Area ... **LOCATE**
-- Forced Landing  ... **EXECUTE**
-    as described in Emergency Landing Without Engine Power
+- Key Switch ... **OFF**
+    stops fuel flow
+- Emergency Power Switch ... **OFF**
+- Cabin Heat/Air ... **OFF**
+    close firewall vents
+- Airspeed ... **INCREASE**
+    slip or dive to blow out fire
+- Forced Landing ... **EXECUTE IMMEDIATELY**
+- Sideslip ... **INTO FIRE SIDE**
+    keep flames away from cabin
+- Land ... **IMMEDIATELY**
+    do not delay
 
-### Electrical Fire In Flight
+### Electrical Fire / Smoke In Cockpit
 
-- Master Switch ... **OFF**
-- Avionics Power Switch ... **OFF**
-- All Other Switches ... **OFF**
-    Except Ignition Switch
-- Vents/Cabin Air/Heat ... **CLOSED**
-- Fire Extinguisher ... **ACTIVATE**
-    After discharging an extinguisher within a closed cabin, ventilate the cabin.
-    and electrical power is necessary for continuance of flight:
-- Master Switch ... **ON**
-
-  > *Note: monitor ammeter*
-
-- Circuit Breakers ... **CHECK**
-    for faulty circuit, do not reset
-- Radio Switches ... **OFF**
-- Avionics Power Switch ... **ON**
-- Radio/Electrical Switches ... **ON**
-    one at a time, with delay after each until short circuit is localized
-- Vents/Cabin Air/Heat ... **OPEN**
-    when it is ascertained that fire is completely extinguished
+- Key Switch ... **OFF**
+    kills most electrical load
+- All Switches ... **OFF**
+- Emergency Power Switch ... **OFF**
+- Vents/Cabin Air ... **OPEN**
+    clear smoke
+- Fire Extinguisher ... **AS REQUIRED**
+    if visible fire
+- Land ... **AS SOON AS PRACTICABLE**
+- Emergency Power Switch ... **ON**
+    restores engine power only
+- Monitor ... **FOR RECURRENCE**
+- Key Switch ... **LEAVE OFF**
+    non-essential systems stay dead
+- Individual Breakers ... **CHECK FOR POPPED**
+- Popped Breakers ... **DO NOT RESET**
+  If smoke returns, re-isolate immediately
 
 ### Cabin Fire
 

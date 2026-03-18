@@ -390,14 +390,9 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Radios Set",
-              "expectation": "BDU AWOS 118.825",
+              "prompt": "Radios",
+              "expectation": "SET, AWOS/ATIS OBTAINED",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "obtain AWOS/ATIS",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
             },
             {
               "prompt": "Altimeter",
@@ -597,6 +592,35 @@
             {
               "prompt": "Flaps / Trim",
               "expectation": "SET FOR TAKEOFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Takeoff Briefing (REACT)",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "R - RPM",
+              "expectation": "2700 RPM, FULL POWER",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "E - Engine gauges",
+              "expectation": "GREEN",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "A - Airspeed",
+              "expectation": "ALIVE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "C - Centerline",
+              "expectation": "TRACKING",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "T - Takeoff abort point",
+              "expectation": "IDENTIFIED",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1565,30 +1589,40 @@
       "title": "Fires",
       "checklists": [
         {
-          "title": "Fire During Start On Ground",
+          "title": "Engine Fire During Start On Ground",
           "items": [
-            {
-              "prompt": "Cranking",
-              "expectation": "CONTINUE",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
             {
               "prompt": "If engine starts:",
               "type": "ITEM_TITLE"
             },
             {
-              "prompt": "Power",
-              "expectation": "1700 RPM",
+              "prompt": "Throttle",
+              "expectation": "FULL OPEN",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "for a few minutes",
+              "prompt": "Fuel Pump Breakers",
+              "expectation": "PULL BOTH",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "cuts fuel, ignition continues — engine sucks fire in, runs on residual fuel, then dies",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
             {
-              "prompt": "Engine",
-              "expectation": "SHUTDOWN",
+              "prompt": "Key Switch",
+              "expectation": "OFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Fuel Selector Valve",
+              "expectation": "OFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Evacuate / Extinguisher",
+              "expectation": "AS REQUIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1601,27 +1635,28 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Mixture",
-              "expectation": "IDLE CUT-OFF",
+              "prompt": "Starter",
+              "expectation": "CONTINUE CRANKING",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Cranking",
-              "expectation": "CONTINUE",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "2-3 min",
+              "prompt": "attempt to clear fuel from intake",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
             {
-              "prompt": "Secure the engine:",
-              "type": "ITEM_TITLE"
+              "prompt": "Fuel Pump Breakers",
+              "expectation": "PULL BOTH",
+              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Fire Extinguisher",
-              "expectation": "OBTAIN",
+              "prompt": "Key Switch",
+              "expectation": "OFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Emergency Power Switch",
+              "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1630,23 +1665,13 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Master Switch",
-              "expectation": "OFF",
+              "prompt": "Fire Extinguisher",
+              "expectation": "AS REQUIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Ignition Switch",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fire",
-              "expectation": "EXTINGUISH",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fire Damage",
-              "expectation": "INSPECT",
+              "prompt": "Evacuate",
+              "expectation": "IMMEDIATELY",
               "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
@@ -1660,161 +1685,165 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Mixture",
-              "expectation": "IDLE CUT-OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Master Switch",
+              "prompt": "Key Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Cabin Heat and Air",
+              "prompt": "stops fuel flow",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Emergency Power Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "except overhead vents",
+              "prompt": "Cabin Heat/Air",
+              "expectation": "OFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "close firewall vents",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
             {
               "prompt": "Airspeed",
-              "expectation": "100 KIAS",
+              "expectation": "INCREASE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "If fire is not extinguished, increase glide speed to find an airspeed which will provide an incombustible mixture",
+              "prompt": "slip or dive to blow out fire",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
             {
-              "prompt": "If fire goes out:",
-              "type": "ITEM_PLAINTEXT"
-            },
-            {
-              "prompt": "Glide speed",
-              "expectation": "76 KIAS",
+              "prompt": "Forced Landing",
+              "expectation": "EXECUTE IMMEDIATELY",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Landing Area",
-              "expectation": "LOCATE",
+              "prompt": "If fire not extinguished:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Sideslip",
+              "expectation": "INTO FIRE SIDE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Forced Landing ",
-              "expectation": "EXECUTE",
+              "prompt": "keep flames away from cabin",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Land",
+              "expectation": "IMMEDIATELY",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "as described in Emergency Landing Without Engine Power",
+              "prompt": "do not delay",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             }
           ]
         },
         {
-          "title": "Electrical Fire In Flight",
+          "title": "Electrical Fire / Smoke In Cockpit",
           "items": [
             {
-              "prompt": "Master Switch",
+              "prompt": "Key Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Avionics Power Switch",
+              "prompt": "kills most electrical load",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "All Switches",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "All Other Switches",
+              "prompt": "Emergency Power Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Except Ignition Switch",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Vents/Cabin Air/Heat",
-              "expectation": "CLOSED",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fire Extinguisher",
-              "expectation": "ACTIVATE",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "WARNING",
-              "type": "ITEM_TITLE"
-            },
-            {
-              "prompt": "After discharging an extinguisher within a closed cabin, ventilate the cabin.",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "If fire appears out",
-              "type": "ITEM_TITLE"
-            },
-            {
-              "prompt": "and electrical power is necessary for continuance of flight:",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Master Switch",
-              "expectation": "ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "monitor ammeter",
-              "type": "ITEM_NOTE",
-              "indent": 1
-            },
-            {
-              "prompt": "Circuit Breakers",
-              "expectation": "CHECK",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "for faulty circuit, do not reset",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Radio Switches",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Avionics Power Switch",
-              "expectation": "ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Radio/Electrical Switches",
-              "expectation": "ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "one at a time, with delay after each until short circuit is localized",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Vents/Cabin Air/Heat",
+              "prompt": "Vents/Cabin Air",
               "expectation": "OPEN",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "when it is ascertained that fire is completely extinguished",
+              "prompt": "clear smoke",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
+            },
+            {
+              "prompt": "Fire Extinguisher",
+              "expectation": "AS REQUIRED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "if visible fire",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Land",
+              "expectation": "AS SOON AS PRACTICABLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "If engine required to reach landing site:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Emergency Power Switch",
+              "expectation": "ON",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "restores engine power only",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Monitor",
+              "expectation": "FOR RECURRENCE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Key Switch",
+              "expectation": "LEAVE OFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "non-essential systems stay dead",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Identifying source (only if time permits and smoke cleared):",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Individual Breakers",
+              "expectation": "CHECK FOR POPPED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Popped Breakers",
+              "expectation": "DO NOT RESET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "If smoke returns, re-isolate immediately",
+              "type": "ITEM_PLAINTEXT"
             }
           ]
         },
