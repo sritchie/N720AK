@@ -6,14 +6,14 @@
 
 ### Short Field Takeoff
 
-- Wing Flaps ... **20º**
+- Flaps ... **16º**
 - Brakes ... **APPLY**
 - Power ... **FULL THROTTLE AND 2700 RPM**
 - Brakes ... **RELEASE**
 - Elevator Control ... **SLIGHTLY TAIL LOW**
 - Climb Speed ... **59 KIAS**
     until all obstacles are cleared
-- Wing Flaps ... **RETRACT**
+- Flaps ... **RETRACT**
     slowly after reaching 70 KIAS
 
 ### Maximum Performance Climb
@@ -27,7 +27,7 @@
 ### Short Field Landing
 
 - Airspeed ... **70-80 KIAS (FLAPS UP)**
-- Wing Flaps ... **40º**
+- Flaps ... **33º**
     below 95 KIAS
 - Airspeed ... **MAINTAIN 60 KIAS**
 - Trim ... **ADJUST**
@@ -35,15 +35,12 @@
     as obstacle is cleared
 - Touchdown ... **MAIN WHEELS FIRST**
 - Brakes ... **APPLY HEAVILY **
-- Wing Flaps ... **RETRACT**
+- Flaps ... **RETRACT**
 
 ### Go Around
 
 - Power ... **FULL THROTTLE AND 2700 RPM**
-- Wing Flaps ... **RETRACT TO 20º**
-- Climb Speed ... **61 KIAS**
-    positive rate of climb
-- Wing Flaps ... **RETRACT TO 10º**
-- Climb Speed ... **77 KIAS**
-- Wing Flaps ... **RETRACT**
-    after reaching safe altitude
+- Flaps ... **RETRACT**
+- Trim ... **SET FOR TAKEOFF**
+- Climb Speed ... **95 KIAS**
+  Pressing "Nose Up" on the autopilot during an approach initiates go-around mode.

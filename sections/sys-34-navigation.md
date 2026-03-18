@@ -52,6 +52,8 @@ The Skyview HDX provides:
 | SV-KNOB-PANEL/V Knob Panel | 8500 |
 | SV-COM-C25/V Com Radio | 3090 |
 
+**Nearest Airport Emergency**: Holding the NEAREST button on the Dynon activates the autopilot to fly directly to the nearest airport matching the current filter settings and automatically tunes the radio to that airport's frequency. See the Dynon HDX Pilot's Guide for filter configuration and exact behavior.
+
 <!-- TODO: Screen configuration — how many screens? What's displayed on each? -->
 <!-- TODO: AHRS location and mounting -->
 
@@ -65,7 +67,13 @@ The GTN 650 provides:
 
 **SD Card Formatting**: The GTN 650 SD card must be formatted using the [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) utility. Formatting with macOS Disk Utility or Windows (including Parallels) does NOT work. ([VAF thread](https://vansairforce.net/threads/wifi-sd-card-on-g3x.222784/#post-1732873))
 
-<!-- TODO: Database update procedure -->
+### Garmin GTN 650 Database Update
+
+1. On a **Windows** machine, open [Garmin Aviation Database Manager](https://fly.garmin.com/fly-garmin/support/softwareUpdates.htm) and download the current navigation database
+2. Write the database to an SD card formatted with the [SD Card Formatter](https://www.sdcard.org/downloads/formatter/) utility (do NOT use macOS Disk Utility or Windows format)
+3. Insert the SD card into the GTN 650
+4. Power on — the unit should prompt to load the database on startup
+5. If the database shows as a "future" database and does not load automatically, **hold down the right knob click button during startup** to force-load the database
 <!-- TODO: GTN 650 to Dynon data interface — what data flows between them? -->
 
 ### Pitot-Static System

@@ -16,6 +16,8 @@
 
 ### Engine Failure Immediately After Takeoff
 
+- ECU Select ... **SWITCH TO OTHER ECU**
+    if one ECU failed, switching may restore engine immediately
 - Airspeed ... **75 KIAS (FLAPS UP)**
     70 KIAS (flaps DOWN)
 - Landing Area ... **WITHIN 30º**
@@ -28,6 +30,8 @@
 
 ### Engine Failure During Flight
 
+- ECU Select ... **SWITCH TO OTHER ECU**
+    if one ECU failed, switching may restore engine immediately
 - Airspeed ... **76 KIAS**
 - Landing Area ... **LOCATE**
 - Fuel Selector Valve ... **BOTH**
@@ -254,6 +258,17 @@
 - If Climbing ... **STOP CLIMB**
 - RPM ... **DECREASE**
 - Airspeed ... **INCREASE**
+
+### Runaway Trim
+
+- Airspeed ... **REDUCE**
+    unload trim forces
+- Avionics Master ... **OFF**
+    kills power to SV-AP-PANEL, stops all trim servo commands
+- Trim ... **MANUALLY OVERRIDE**
+    with stick pressure
+- Land ... **AS SOON AS PRACTICABLE**
+  There is no dedicated trim circuit breaker. The avionics master is the only kill switch for the trim servos.
 
 ## Emergency Operation In Clouds
 

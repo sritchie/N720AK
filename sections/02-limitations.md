@@ -10,15 +10,19 @@ and its systems.
 
 | Type | Description | KIAS |
 |------|-------------|------|
-| V~S0~ | Stall, Flaps Down | |
-| V~S1~ | Stall, Flaps Up | |
-| V~X~ | Best Angle of Climb | |
-| V~Y~ | Best Rate of Climb | |
-| V~G~ | Best Glide | |
-| V~FE~ | Maximum Flap Extended | |
-| V~NO~ | Maximum Structural Cruising | |
+| V~S0~ | Stall, Flaps Down (33°, 2,250 lb) | 50 |
+| V~S~ | Stall, Flaps 16° (2,250 lb) | 55 |
+| V~S1~ | Stall, Flaps Up (2,250 lb) | 61 |
+| V~G~ | Best Glide (prop full coarse) | 95 |
+| V~X~ | Best Angle of Climb | 105 |
+| V~Y~ | Best Rate of Climb | 110 |
+| V~FE~ | Maximum Flap Extended (deploy inhibit) | 90 |
+| V~NO~ | Maximum Structural Cruising | 158 |
 | V~A~ | Design Maneuvering | |
 | V~NE~ | Never Exceed | |
+
+> **Note:** Stall speeds are at 2,250 lb, not maximum gross weight (2,700 lb).
+> Stall speeds increase with weight — at max gross, add approximately 10%.
 
 ## Power Plant Limitations
 
