@@ -80,8 +80,7 @@
 - Oil Pressure ... **CHECK IN GREEN**
 - Alternator Current ... **VERIFY**
 - Avionics Switches ... **BOTH ON**
-- Radios Set ... **BDU AWOS 118.825**
-    obtain AWOS/ATIS
+- Radios ... **SET, AWOS/ATIS OBTAINED**
 - Altimeter ... **SET**
 - Heading Indicator ... **SET**
 
@@ -128,6 +127,11 @@
 - iPad / ForeFlight ... **CONNECTED**
     Dynon WiFi — AHRS, traffic, GPS
 - Flaps / Trim ... **SET FOR TAKEOFF**
+- R - RPM ... **2700 RPM, FULL POWER**
+- E - Engine gauges ... **GREEN**
+- A - Airspeed ... **ALIVE**
+- C - Centerline ... **TRACKING**
+- T - Takeoff abort point ... **IDENTIFIED**
 - Radio Call ... **MAKE**
 
 ### Normal Takeoff

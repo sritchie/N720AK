@@ -28,7 +28,7 @@ These contain critical details about how N720AK's sensors work, the DIFF computa
 1. Determine the file format:
    - **Dynon**: First row is column headers, `Session Time` is the first column, `Manifold Pressure (inHg)` present
    - **Garmin**: First row starts with `#airframe_info`, column headers on row 2, data starts row 4, uses `Manifold Press (inch Hg)`
-   - **EFII**: TBD — Sam has these logs but format not yet characterized
+   - **EFII System32**: First row starts with `#System32 config info`, column headers on row 2, data starts row 3, 1 Hz sample rate. Uses `MAP1`/`MAP2` (inHg), `AFR` (air-fuel ratio from wideband O2), `RPM1`/`RPM2`, `FUEL FLOW` (GPH), `FUEL TRIM` (%), `INJ DUTY` (%), `IGNITION` (timing degrees), `TPS` (%), `IAT1`/`IAT2` (°F), `ENGTEMP` (°F), `BATT1`/`BATT2` (V), `PUMP1`/`PUMP2` (ON/OFF), `INJ EN1`/`INJ EN2` (RUN/STOP), `HP`, `TORQUE`. Date format: `MM/DD/YYYY`, Time: `HH:MM:SS`. No altitude column — cross-reference with Dynon/Garmin data if altitude needed. Config metadata in row 1 includes cylinder count, MAP sensor type, HP rating, injector size, and mag positions.
 
 2. Find flight segments by RPM transitions (RPM > 500 = engine on)
 
@@ -100,6 +100,7 @@ Look for:
 - **Pump switchover detection** (Garmin only): Check `Fl Pmp 1 Amps`, `Fl Pmp 2 Amps`, `FUEL PP 2 ON (discrete)`
 - **Multi-flight comparison**: Overlay binned FP-vs-MAP curves from different flights/configurations
 - **Before/after comparison**: Compare old vs new regulator, old vs new pumps, etc.
+- **EFII analysis**: AFR trends (target ~14.7 stoich for cruise, richer for climb/takeoff), fuel trim % (how much the ECU is correcting), injector duty cycle, ignition timing advance, MAP1 vs MAP2 correlation, pump status transitions, HP/torque estimates. EFII data has no altitude — merge with Dynon/Garmin by timestamp if altitude-dependent analysis needed.
 
 ## Step 6: Generate Graphs
 

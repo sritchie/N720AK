@@ -85,6 +85,18 @@ to six months.
 3. Clean screen in solvent, dry with compressed air
 4. Replace screen crush washer
 
+### 50-Hour Companion Tasks
+
+Perform these at every oil change:
+
+**Spark plugs**: Remove, clean, inspect electrodes, re-gap, rotate top↔bottom.
+
+**Oil analysis**: Take sample for Blackstone Labs before draining old oil.
+
+**Anti-Splat oil separator evacuation tube**: Inspect where the evacuation tube enters the exhaust pipe. Remove any carbon coking or buildup that could block crankcase blowby flow. The evacuation tube is saddle-mounted to the exhaust pipe with two stainless steel clamps — look up into the tube entry point and scrape/clean any deposits. If excessive buildup is found, shorten the inspection interval. The safety bypass (0.5 PSI pop-off valve) provides a backup path if the tube blocks, but does not eliminate the need for inspection. See [Anti-Splat installation guide](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view).
+
+**PLX O2 sensor health**: Check sensor health percentage on the DM-6 gauge (requires firmware V2.0+). Replace the wideband sensor if health drops below 50%. Also check reaction time — below 150ms is excellent, above 251ms indicates a degraded sensor. 100LL avgas poisons the sensor faster than mogas; expect 300-500 hours of life on avgas. See [PLX Gen4 sensor diagnostics](https://drive.google.com/file/d/1Lx1w9HNoKxVuSiyQLt7mKklyZbjxm5Bn/view).
+
 ## Fuel System Service
 
 ### Fuel Strainer
@@ -192,7 +204,7 @@ show in red at startup.
 
 | Slot | Name | Basis | Interval | Notes |
 |------|------|-------|----------|-------|
-| 1 | OIL CHANGE | TACH | 50 hrs | Oil + filter change, spark plug clean/rotate/re-gap, oil analysis sample (Blackstone). Also due every 4 calendar months (Lycoming SB 480), whichever comes first. Reset to current tach + 50. |
+| 1 | OIL CHANGE | TACH | 50 hrs | Oil + filter change, spark plug clean/rotate/re-gap, oil analysis sample (Blackstone). Also: inspect Anti-Splat evacuation tube for coking, check PLX O2 sensor health on DM-6. Also due every 4 calendar months (Lycoming SB 480), whichever comes first. Reset to current tach + 50. |
 | 2 | PROP | TACH | 650 hrs | Whirlwind WWA-RV10 inspection. Reset to current tach + 650. |
 
 ### Date-Based Items
@@ -215,6 +227,8 @@ show in red at startup.
 | Fire extinguishers | 12 months | H3R Aviation A344T (Halon 1211, 1.25 lb). Two installed: right rear passenger seat, co-pilot tunnel side. Inspect gauge (green), weight, and condition at condition inspection. |
 | Compression check | 100 hrs (break-in) | Differential compression test. More frequent during break-in, then at each condition inspection. |
 | Oil analysis | 50 hrs | Blackstone Labs sample at each oil change. Not yet started — first sample due at first oil change. |
+| Oil separator (Anti-Splat) | 50 hrs | Inspect evacuation tube where it enters exhaust pipe — remove coking/buildup. Coincides with oil change. If excessive buildup, shorten interval. See [installation guide](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view). |
+| O2 sensor health (PLX SM-AFR) | 50 hrs | Check sensor health % on DM-6 gauge (V2.0+). Replace if <50%. Reaction time: <150ms excellent, >251ms poor. 100LL poisons sensor faster — expect 300-500 hrs life on avgas. See [Gen4 diagnostics](https://drive.google.com/file/d/1Lx1w9HNoKxVuSiyQLt7mKklyZbjxm5Bn/view). |
 | ELT registration | 2 years | NOAA SARSAT, expires 2027-11-18. Portal: beaconregistration.noaa.gov |
 
 ## Pitot Heat Check
