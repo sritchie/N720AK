@@ -181,6 +181,42 @@ Mountain High EDS-4iP system:
 - Inspect cannulas and tubing
 - Verify pulse delivery operation
 
+## Dynon Maintenance Log — Scheduled Items
+
+The following items are configured in the Dynon SkyView maintenance log
+(SETUP MENU > SYSTEM SETUP > AIRCRAFT INFORMATION > MAINTENANCE LOG).
+The MAINT LOG page is accessible via MENU > MAINT LOG. Past-due items
+show in red at startup.
+
+### Tach-Based Items
+
+| Slot | Name | Basis | Interval | Notes |
+|------|------|-------|----------|-------|
+| 1 | OIL CHANGE | TACH | 50 hrs | Oil + filter change, spark plug clean/rotate/re-gap, oil analysis sample (Blackstone). Also due every 4 calendar months (Lycoming SB 480), whichever comes first. Reset to current tach + 50. |
+| 2 | PROP | TACH | 650 hrs | Whirlwind WWA-RV10 inspection. Reset to current tach + 650. |
+
+### Date-Based Items
+
+| Slot | Name | Basis | Current Due | Interval | Notes |
+|------|------|-------|-------------|----------|-------|
+| 3 | COND INSPECT | DATE | 2026-11-18 | 12 months | Annual condition inspection per 14 CFR 91.409(b). |
+| 4 | ELT | DATE | 2026-11-18 | 12 months | ELT inspection per 14 CFR 91.207. Artex ELT 345 S/N 267-02567. |
+| 5 | XPDR STATIC | DATE | 2027-12-31 | 24 months | Transponder + pitot-static + altimeter per 14 CFR 91.411/91.413. Front Range Transponder Svc, Broomfield. |
+| 6 | MEDICAL | DATE | 2030-10-28 | Per class | Pilot medical certificate expiration. |
+| 7 | CO GUARDIAN | DATE | 2031-01-08 | 5-7 years | Guardian Avionics 452-101-012 S/N 112081 overhaul. Installed 2026-01-08. |
+| 8 | O2 CYLINDER | DATE | 2031-05-31 | End of life | Mountain High CFFC-048 S/N 602-100814. Hydro test passed 2026-01-15. Cylinder end of life 2031-05-31. |
+| 9 | ELT BATTERY | DATE | 2032-11-30 | Per mfr | Artex P/N 8322, S/N 1024675-018 Rev F. Installed 2025-12-08. |
+| 10 | *(empty)* | | | | |
+
+### Not in Dynon — Track Separately
+
+| Item | Interval | Notes |
+|------|----------|-------|
+| Fire extinguishers | 12 months | H3R Aviation A344T (Halon 1211, 1.25 lb). Two installed: right rear passenger seat, co-pilot tunnel side. Inspect gauge (green), weight, and condition at condition inspection. |
+| Compression check | 100 hrs (break-in) | Differential compression test. More frequent during break-in, then at each condition inspection. |
+| Oil analysis | 50 hrs | Blackstone Labs sample at each oil change. Not yet started — first sample due at first oil change. |
+| ELT registration | 2 years | NOAA SARSAT, expires 2027-11-18. Portal: beaconregistration.noaa.gov |
+
 ## Pitot Heat Check
 
 Verify pitot heat operation before flight into potential icing conditions:
