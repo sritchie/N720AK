@@ -276,31 +276,6 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Avionics Switches",
-              "expectation": "BOTH ON",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Radios Set",
-              "expectation": "BDU AWOS 118.825",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "obtain AWOS/ATIS",
-              "type": "ITEM_PLAINTEXT",
-              "indent": 1
-            },
-            {
-              "prompt": "Altimeter",
-              "expectation": "SET",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Heading indicator",
-              "expectation": "SET",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },            
-            {
               "prompt": "Fuel Pumps",
               "expectation": "2 THEN 1/AUTO",
               "type": "ITEM_CHALLENGE_RESPONSE"
@@ -408,6 +383,31 @@
               "prompt": "Alternator Current",
               "expectation": "VERIFY",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Avionics Switches",
+              "expectation": "BOTH ON",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Radios Set",
+              "expectation": "BDU AWOS 118.825",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "obtain AWOS/ATIS",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Altimeter",
+              "expectation": "SET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Heading Indicator",
+              "expectation": "SET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         },
@@ -505,7 +505,7 @@
               "indent": 1
             },
             {
-              "prompt": "expect ~100 RPM dip",
+              "prompt": "expect 80-100 RPM dip per ECU switchover",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },            
@@ -583,6 +583,16 @@
               "prompt": "Pitot Heat",
               "expectation": "AS REQUIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "iPad / ForeFlight",
+              "expectation": "CONNECTED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Dynon WiFi — AHRS, traffic, GPS",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
             },
             {
               "prompt": "Flaps / Trim",
@@ -882,7 +892,7 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "except beacon",
+              "prompt": "except strobe",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
             },
@@ -1072,6 +1082,14 @@
               "prompt": "Climb Speed",
               "expectation": "95 KIAS",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "NOTE",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Pressing \"Nose Up\" on the autopilot during an approach initiates go-around mode.",
+              "type": "ITEM_PLAINTEXT"
             }
           ]
         }
@@ -1119,6 +1137,16 @@
         {
           "title": "Engine Failure Immediately After Takeoff",
           "items": [
+            {
+              "prompt": "ECU Select",
+              "expectation": "SWITCH TO OTHER ECU",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "if one ECU failed, switching may restore engine immediately",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
             {
               "prompt": "Airspeed",
               "expectation": "75 KIAS (FLAPS UP)",
@@ -1169,6 +1197,16 @@
         {
           "title": "Engine Failure During Flight",
           "items": [
+            {
+              "prompt": "ECU Select",
+              "expectation": "SWITCH TO OTHER ECU",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "if one ECU failed, switching may restore engine immediately",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
             {
               "prompt": "Airspeed",
               "expectation": "76 KIAS",
@@ -2167,6 +2205,54 @@
               "prompt": "Airspeed",
               "expectation": "INCREASE",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            }
+          ]
+        },
+        {
+          "title": "Runaway Trim",
+          "items": [
+            {
+              "prompt": "Airspeed",
+              "expectation": "REDUCE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "unload trim forces",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Avionics Master",
+              "expectation": "OFF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "kills power to SV-AP-PANEL, stops all trim servo commands",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Trim",
+              "expectation": "MANUALLY OVERRIDE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "with stick pressure",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Land",
+              "expectation": "AS SOON AS PRACTICABLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "NOTE",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "There is no dedicated trim circuit breaker. The avionics master is the only kill switch for the trim servos.",
+              "type": "ITEM_PLAINTEXT"
             }
           ]
         }

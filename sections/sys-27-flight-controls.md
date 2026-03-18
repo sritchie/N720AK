@@ -28,11 +28,11 @@ N720AK has dual controls (pilot and co-pilot) with push-pull tube actuation for 
 | Button | Function |
 |--------|----------|
 | Trigger | Push-to-talk (PTT) |
-| Index finger button | COM1/COM2 switch (wired to GTN 650) |
-| Thumb button | Autopilot disconnect |
-| Hat switch | Aileron (roll) and pitch trim |
-| Top right button | COM1 standby/active swap |
-| Small flush black button (front, below PTT) | Not wired / unused |
+| Thumb button | Autopilot disconnect (press) / Control wheel steering (hold) |
+| Hat switch (top) | Aileron (left/right) and pitch (up/down) electric trim |
+| Up/down toggle | Up = COM1 standby↔active swap, Down = COM2 standby↔active swap |
+| Big red button (left) | COM1/COM2 flip-flop |
+| Small flush button (front, below trigger) | Not wired / unused |
 
 ### Trim Systems
 
@@ -62,7 +62,14 @@ Electric flap motor with position indicator on EFIS. Controlled by:
 - Panel-mounted flap switch
 - Stick grip switch (both sticks)
 
-Flap positions range from reflex (-3°) to full (40°).
+Flap positions range from reflex (-3°) to full (33°).
+
+**Flap operation:**
+- Flaps will not deploy above 90 KIAS (speed inhibit)
+- One tap down: 0° → 16°
+- Second tap down: 16° → 33° (full)
+- One tap up: returns to 0° (full retract)
+- Momentary click — no need to hold the switch
 
 ## Inspection & Maintenance
 

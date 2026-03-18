@@ -7,51 +7,46 @@
 
 ### Preflight Inspection
 
-- Pilot's Operating Handbook ... **AVAILABLE IN THE AIRPLANE**
+- AR(R)OW ... **AVAILABLE IN THE AIRPLANE**
 - Gust lock ... **REMOVE**
-- Ignition Switch ... **OFF**
-- Avionics Switches ... **BOTH OFF**
+- LEFT PANEL SWITCHES ... **UP / NORM**
+- START BATT SEL ... **BOTH**
+- Key ... **ON**
+- Avionics Switches ... **BOTH ON**
 - Emergency Power ... **ON**
 - Fuel Quantity Indicators ... **CHECK**
-- Wing Flaps ... **EXTEND**
-- Emergency Power ... **NORM**
 - Fuel Selector Valve ... **FULLEST TANK**
-- ALT STATIC ... **NORM**
-- ECU Fuel Sel ... **PRI**
-- Fuel Pumps ... **1/AUTO**
-- START BATT SEL ... **BOTH**
-- IGN1, IGN2 ... **ON**
-- ALT FLD ... **ON**
-- O2 EMERG BYPASS ... **OFF**
-- Baggage Door ... **CHECK**
-- Tail Tie-Down ... **DISCONNECT**
-- Control Surfaces ... **CHECK**
-- Aileron ... **CHECK**
-- Wingtip Lights ... **CHECK**
-- Wing Tie-Down ... **DISCONNECT**
+- Wing Flaps ... **EXTEND**
 - Fuel Tank Vent Opening ... **CHECK**
-- Main Wheel Tire ... **CHECK**
 - Fuel Tank Sump ... **CHECK**
 - Fuel Quantity ... **CHECK VISUALLY**
 - Fuel Filler Cap ... **SECURE**
-    and vent unobstructed
+- Wing Tie-Down ... **DISCONNECT**
+- Pitot Tube Cover ... **REMOVE**
+- Wingtip Lights ... **CHECK**
+- Aileron ... **CHECK**
+- Flap ... **CHECK**
+- Main Wheel Tire ... **CHECK**
+- Baggage Door ... **CHECK**
 - Static Source Openings ... **CHECK**
+- Tail Tie-Down ... **DISCONNECT**
+- Control Surfaces ... **CHECK**
+- Lead Weights ... **CHECK**
+- Main Wheel Tire ... **CHECK**
+- Flap ... **CHECK**
+- Aileron ... **CHECK**
+- Wingtip Lights ... **CHECK**
+- Wing Tie-Down ... **DISCONNECT**
+- Fuel Quantity ... **CHECK VISUALLY**
+- Fuel Filler Cap ... **SECURE**
+- Fuel Tank Sump ... **CHECK**
+- Fuel Tank Vent Opening ... **CHECK**
 - Propeller and Spinner ... **CHECK**
     for nicks, security, and oil leaks
 - Nose Wheel + Tire ... **CHECK**
 - Engine Oil Level ... **CHECK**
-    Do not operate with less than nine quarts.
-    Fill to twelve quarts for extended flight.
-- Main Wheel Tire ... **CHECK**
-- Fuel Tank Sump ... **CHECK**
-- Fuel Quantity ... **CHECK VISUALLY**
-- Fuel Filler Cap ... **SECURE**
-    and vent unobstructed
-- Wingtip Lights ... **CHECK**
-- Fuel Tank Vent Opening ... **CHECK**
-- Wing Tie-Down ... **DISCONNECT**
-- Pitot Tube Cover ... **REMOVE**
-- Aileron ... **CHECK**
+    Do not operate with less than 8 quarts.
+    Fill to 9 quarts for extended flight.
 
 ### Before Starting Engine
 
@@ -59,19 +54,20 @@
 - Seats, Belts, Shoulder Harnesses ... **ADJUST AND LOCK**
 - Doors ... **LOCKED**
 - Circuit Breakers ... **CHECK IN**
-- Master Switch ... **ON**
-- Avionics Switches ... **BOTH ON**
+- Pump Breakers ... **BOTH IN**
+- Key ... **ON**
 - Fuel Pumps ... **2 THEN 1/AUTO**
+- Fuel Pressure ... **37 PSI / GREEN**
 - Brakes ... **TEST AND SET**
 
 ### Starting Engine
 
+- Strobes ... **ON**
 - Propeller ... **HIGH RPM**
 - Pump Throttle ... **AS REQUIRED**
     1 or 2 primer squirts if cold. Look for AP on EFII controller.
 - Throttle ... **OPEN 1/4 INCH**
     If cold, wait 10s for primer fuel to evaporate.
-- Beacon Light ... **ON**
 - Propeller Area ... **CLEAR**
 - Ignition ... **PRESS**
     release after engine starts
@@ -79,18 +75,19 @@
     - disengage starter,
     - wait ~10s for primer fuel to evaporate,
     - retry starting.
-- RPM  ... **ADJUST TO 650**
-    reset to 650 RPM as engine warms up
+- RPM ... **ADJUST TO 750**
+    reset to 750 RPM as engine warms up
 - Oil Pressure ... **CHECK IN GREEN**
 - Alternator Current ... **VERIFY**
+- Avionics Switches ... **BOTH ON**
+- Radios Set ... **BDU AWOS 118.825**
+    obtain AWOS/ATIS
+- Altimeter ... **SET**
+- Heading Indicator ... **SET**
 
 ### Before Taxi
 
 - Wing Flaps ... **RETRACT, VERIFY UP**
-- Radios ON ... **BDU AWOS 118.825**
-    obtain AWOS/ATIS
-- Altimeter ... **SET**
-- Heading indicator ... **SET**
 - Lights ... **AS REQUIRED**
 - Brakes ... **TEST ON ROLL**
 
@@ -102,9 +99,15 @@
 - Flight Controls ... **FREE AND CORRECT**
 - Flight Instruments ... **SET**
 - Propeller Control ... **HIGH RPM**
-- Throttle ... **1500 RPM**
+- Throttle ... **2000 RPM**
+- Propeller Control ... **1800 RPM**
+- Throttle ... **+2" MP**
+    let RPM stabilize
+- Propeller Control ... **HIGH RPM**
+- Throttle ... **1600 RPM**
 - Ignition ... **CHECK**
     1 OFF, Both, 2 OFF, Both
+    expect 80-100 RPM dip per ECU switchover
     Verify active blue, disabled red
     at both verify ECU1 blue, ECU2 green
 - ECU FUEL SEL ... **CHECK**
@@ -117,39 +120,38 @@
 ### Before Takeoff
 
 - Fuel Gauge ... **CHECK QUANTITY**
-- Radios, Navigation ... **SET**
-    BDU CTAF 122.725
+- Radios, Flight Plan ... **SET**
 - Transponder ... **ALT, 1200**
-- Flashing Beacon ... **AS REQUIRED**
-- Navigation Lights ... **AS REQUIRED**
-- Strobe Lights ... **AS REQUIRED**
+- Strobes ... **AS REQUIRED**
+- Nav Lights ... **AS REQUIRED**
 - Pitot Heat ... **AS REQUIRED**
-- Wing Flaps ... **SET FOR TAKEOFF**
-- Quadrant Friction Lock ... **ADJUST**
-- Radio Call ... **BDU CTAF 122.725**
+- iPad / ForeFlight ... **CONNECTED**
+    Dynon WiFi — AHRS, traffic, GPS
+- Flaps / Trim ... **SET FOR TAKEOFF**
+- Radio Call ... **MAKE**
 
 ### Normal Takeoff
 
-- Wing Flaps ... **0º - 20º**
+- Wing Flaps ... **0º / 16º**
 - Power ... **FULL THROTTLE AND 2700 RPM**
     Advance over 5 seconds
-- Elevator Control ... **LIFT NOSE WHEEL AT 50 KIAS**
-- Climb Speed ... **70 KIAS (FLAPS 20º)**
-    80 KIAS (flaps UP)
+- Elevator Control ... **BACK**
+    Hover nosewheel
+- Wing Flaps ... **UP**
+- Climb Speed ... **110 KIAS**
 
 ## In Flight
 
 ### Normal Climb
 
-- Airspeed ... **85-95 KIAS**
-- Power ... **23" HG AND 2450 RPM**
+- Airspeed ... **120 KIAS**
+- Power ... **25" HG AND 2500 RPM**
 - Engine Gauges ... **CHECK**
 
 ### Cruise
 
 - Power ... **15-23" HG AND 2200-2450 RPM**
-    no more than 75%
-- Elevator and Rudder Trim ... **ADJUST**
+- Elevator + Aileron Trim ... **ADJUST**
 - Engine Gauges ... **CHECK**
 - Lights ... **AS REQUIRED**
 
@@ -159,54 +161,52 @@
 - Lights ... **AS REQUIRED**
 - Clearing Turns ... **PERFORM**
     90º L - 90º R / 180º turn
-- Power ... **AS DESIRED**
+- Maneuvering Speed ... **125 AT GROSS**
 
 ### Descent
 
 - Fuel Selector Valve ... **MORE FULL**
-- AWOS/ATIS ... **BDU AWOS 118.825**
 - Power ... **AS DESIRED**
-- Wing Flaps ... **AS DESIRED**
-    0º to 16º below 140 KIAS, 10º to 33º below 95 KIAS
 - Lights ... **AS REQUIRED**
 
 ### Before Landing
 
-- Radio Call ... **BDU CTAF 122.725**
+- Power ... **11" / 2300RPM**
 - Fuel Selector Valve ... **MORE FULL**
-- Propeller ... **HIGH RPM**
+- Fuel Pumps ... **1/AUTO**
+- Fuel Trim ... **0%**
 - Seats, Belts, Harnesses ... **ADJUST AND LOCK**
+- Brakes ... **TEST**
 
 ### Normal Landing
 
-- Airspeed ... **70-80 KIAS (FLAPS UP)**
-- Wing Flaps ... **AS DESIRED**
-    0º TO 10º below 140 KIAS, 10º TO 40º below 95 KIAS
-- Airspeed ... **65-75 KIAS (FLAPS DOWN)**
+- Throttle ... **IDLE**
+- Propeller ... **HIGH RPM**
+- Flaps ... **16º @ 87 KIAS**
+- Throttle ... **1800 RPM**
+- Airspeed ... **~70 KIAS**
 - Trim ... **ADJUST**
-- Touchdown ... **MAIN WHEELS FIRST**
-- Landing Roll ... **LOWER NOSE WHEEL GENTLY**
+- Flaps ... **33º ON BASE**
+- Touchdown ... **MAINS FIRST**
+- Landing Roll ... **HOLD NOSE WHEEL OFF**
 - Braking ... **MINIMUM REQUIRED**
 
 ## Postflight
 
 ### After Landing
 
-- Wing Flaps ... **UP**
+- Flaps ... **UP**
 - Elevator and Rudder Trim ... **TAKEOFF**
 - Lights ... **AS REQUIRED**
 - Pitot Heat ... **AS REQUIRED**
 - Transponder ... **ALT, 1200**
-- Radio Call ... **BDU CTAF 122.725**
 
 ### Securing Airplane
 
-- Avionics Power Switch ... **OFF**
-- Electrical Equipment ... **OFF**
 - Throttle ... **IDLE**
 - Mixture ... **IDLE CUT-OFF**
 - Lights ... **OFF**
-    except beacon
+    except strobe
 - Master Switch ... **OFF**
 - Avionics Switches ... **BOTH OFF**
 - Fuel Selector Valve ... **RIGHT**
