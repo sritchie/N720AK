@@ -344,6 +344,19 @@ For the most common RV-10 fasteners, here is what to search for at Aircraft Spru
 - [FAA AC 43.13-1B Chapter 7 - Bolts](https://www.faa.gov/sites/faa.gov/files/2023-08/AC_43.13-1B_Ch7.pdf)
 - [Spencer Aircraft Fastener Cross-References](https://spenceraircraft.com/hardware/fasteners-screws-bolts/countersunk-screws/)
 
+## Hangar Facility — KBDU
+
+### Flooring
+
+Swisstrax Ribtrax Pro interlocking tiles, Slate Grey. Wall-to-wall coverage of KBDU hangar. Custom L-shaped layout: ~41' x 15'6" main area with 18'6" x 7'6" extension.
+
+| Item | Part # | Qty | Notes |
+|------|--------|-----|-------|
+| Ribtrax Pro (Standard Colors) - Slate Grey | 504.000.200C | 549 | Main floor tiles |
+| Looped Edge Pro - Slate Grey | C504.031.200a | 32 | Perimeter edge pieces |
+
+Ordered 2026-01-26 from Swisstrax (Order #60309, rep Jacob Crawford). Total $4,337.01. Invoice filed at `Private/Invoices/swisstrax-hangar-flooring-order-60309-2026-01-26.pdf`.
+
 ## References
 
 All order confirmations and invoices archived to Google Drive `Private/Invoices/` organized by vendor.
