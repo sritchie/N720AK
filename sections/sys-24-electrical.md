@@ -59,6 +59,7 @@ Discrete fuses outside the VPX electronic breaker system, located above the esse
 |---------|------|----------|
 | Front USB-C charger | 5A | Above essential bus bar, behind pilot PFD |
 | OnSpeed AOA | 1A | Labeled fuse holder, above essential bus bar |
+| SwitcheOn 2/15A | 15A (Littelfuse 0456015.DR, 456 series, 125V, 10.1 × 3.05 mm SMD) | Soldered on SwitcheOn board — requires desoldering to replace |
 
 ### Monkworkz MZ-30 Generator
 
