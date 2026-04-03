@@ -135,6 +135,7 @@ Hardpoint kit for belly cargo pod. Correspondence with David Shelton (2015-2016)
 | Item | Notes |
 |------|-------|
 | SwitcheOn 2/15A (2-channel 15A remote power control) | Includes remote antenna & Hornet 700W cabin heater option |
+| Replacement fuse: Littelfuse 0456015.DR | 456 series, 15A, 125V AC/DC, SMD (10.1 × 3.05 mm). Soldered on board — not field-replaceable. |
 
 ## Mountain High
 
