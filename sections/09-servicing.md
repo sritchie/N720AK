@@ -26,8 +26,11 @@ The airplane can be jacked from:
 
 | Specification | Value |
 |---------------|-------|
-| Filter Type | <!-- TODO: Specify filter --> |
-| Service | Clean/replace per manufacturer |
+| Filter Type | Van's FAB-540 filtered air box (VFR only) |
+| Modified Alt Air Door | Aluminum sliding gate, cable-actuated from cabin (open/close) |
+| Service | Inspect and clean filter per FAB-540 installation guide |
+
+> Detailed reference: [sys-71-engine.md — Alt Air Door](./sys-71-engine.md#alt-air-door)
 
 ## Brake Service
 
@@ -72,18 +75,23 @@ to six months.
 
 | Item | Specification |
 |------|---------------|
-| Oil Type | <!-- TODO: Specify --> |
-| Oil Capacity | <!-- TODO --> quarts |
-| Minimum Operating | <!-- TODO --> quarts |
-| Oil Filter | <!-- TODO: Part number --> |
-| Change Interval | 50 hours |
+| Oil Type | SAE 15W-50 or 20W-50 (multi-grade aviation) |
+| Sump Capacity (max) | 12 quarts |
+| Minimum for Operation | 8 quarts |
+| Recommended Quantity | 9 quarts (extended flight) |
+| Oil Drain Plug | Aircraft Spruce 05-12373 magnetic super plug, 1/2" NPT |
+| Oil Quick Drain | Saf-Air P5000 |
+| Oil Separator | Antisplat Aero ASA |
+| Change Interval | 50 hours / 4 calendar months (Lycoming SB 480), whichever first |
 
 ### Oil Change Procedure
 
-1. Change oil and filter every 50 hours
-2. Remove and inspect oil pressure screen
-3. Clean screen in solvent, dry with compressed air
-4. Replace screen crush washer
+1. Change oil and filter every 50 hours / 4 months (whichever first).
+2. Remove and inspect oil suction screen for metal.
+3. Cut filter and inspect for metal.
+4. Replace crush washers as required.
+5. Refill with 9 quarts (8 minimum for operation; do not exceed 12).
+6. Run engine briefly and check for leaks.
 
 ### 50-Hour Companion Tasks
 
@@ -159,15 +167,21 @@ replacement.
 
 ## Battery Service
 
-| Battery | Location | Type |
-|---------|----------|------|
-| Battery 1 | <!-- TODO --> | EarthX ETX900 |
-| Battery 2 | <!-- TODO --> | EarthX ETX900 |
+| Battery | Location | Type | Charging Source |
+|---------|----------|------|-----------------|
+| Battery 1 | Tailcone / baggage-area junction (right side) | EarthX ETX900 | Hartzell 60 A primary alternator |
+| Battery 2 | Tailcone / baggage-area junction (right side) | EarthX ETX900 | Monkworkz MZ-30 generator |
 
-Both batteries may be charged and conditioned using their proprietary chargers.
+The two charging systems are fully isolated. **Do not charge with non-LiFePO4 chargers** — EarthX batteries have an internal BMS and require lithium-specific charging.
 
-**Note**: EarthX lithium batteries require specific charging procedures. Refer
-to EarthX documentation.
+**Approved chargers (filed in shop):**
+
+- OptiMate Lithium 4s 5A (TM-291) — 5A maintainer
+- OptiMate TM-275 v2 — 9.5A charger / maintainer / 13.6V power supply (TUNE mode for avionics work without battery drain)
+
+**Charger sleep behavior:** OptiMate units enter sleep once fully charged and check voltage hourly. If a continuous parasitic load is present (panel powered for configuration), the maintainer may not detect drain and the battery can deplete. Use TM-275 TUNE mode (continuous 13.6 V) for any avionics work session that requires panel power.
+
+> Detailed reference: [sys-24-electrical.md — EarthX Battery & Chargers](./sys-24-electrical.md#earthx-battery--chargers)
 
 ## Lubrication Schedule
 

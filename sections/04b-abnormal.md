@@ -2,45 +2,106 @@
 
 > These procedures are derived from the efis-editor checklist file.
 
-## Takeoff And Climb
+## Abnormal
 
-### Short Field Takeoff
+### Loss of Fuel Pressure
 
-- Flaps ... **16º**
-- Brakes ... **APPLY**
-- Power ... **FULL THROTTLE AND 2700 RPM**
-- Brakes ... **RELEASE**
-- Elevator Control ... **SLIGHTLY TAIL LOW**
-- Climb Speed ... **59 KIAS**
-    until all obstacles are cleared
-- Flaps ... **RETRACT**
-    slowly after reaching 70 KIAS
+- Fuel Pressure ... **CHECK GREEN**
+  
+    *should be 45 PSI DIFF; auto-cutover trips when Borla output drops to 22 PSI absolute (Dynon DIFF varies with MAP)*
+- Pump 2 Annunciator ... **VERIFY ENGAGED**
+  
+    *amber on EFII controller — Bus Manager auto-cutover*
 
-### Maximum Performance Climb
+#### If Pump 2 not engaged:
 
-- Airspeed  ... **78 KIAS TO 72 KIAS**
-- Power ... **FULL THROTTLE AND 2600 RPM**
-- Fuel Selector Valve ... **MORE FULL**
+- Fuel Pump Mode ... **2**
+  
+    *manual override*
+- Fuel Selector ... **OTHER TANK**
+  
+    *rules out tank issue*
 
-## Landing
+#### If pressure restored:
 
-### Short Field Landing
+- Fuel Pump Mode ... **TRY 1/AUTO**
+  
+    *if Pump 1 actually failed, Bus Manager auto-cuts back to Pump 2 when Borla output drops to 22 PSI absolute*
+- Plan Diversion ... **NEAREST SUITABLE**
 
-- Airspeed ... **70-80 KIAS (FLAPS UP)**
-- Flaps ... **33º**
-    below 95 KIAS
-- Airspeed ... **MAINTAIN 60 KIAS**
-- Trim ... **ADJUST**
-- Power ... **REDUCE TO IDLE**
-    as obstacle is cleared
-- Touchdown ... **MAIN WHEELS FIRST**
-- Brakes ... **APPLY HEAVILY **
-- Flaps ... **RETRACT**
+### Single ECU Failure
 
-### Go Around
 
-- Power ... **FULL THROTTLE AND 2700 RPM**
-- Flaps ... **RETRACT**
-- Trim ... **SET FOR TAKEOFF**
-- Climb Speed ... **95 KIAS**
-  Pressing "Nose Up" on the autopilot during an approach initiates go-around mode.
+*Symptoms: rough running, EGT spread, ECU GRAY/RED on controller.*
+
+- ECU Select ... **OPPOSITE ECU**
+- Fuel Trim ... **ADJUST**
+  
+    *if sensor failure caused rich/lean condition*
+- Power ... **REDUCE TO SMOOTH**
+- Plan Diversion ... **NEAREST SUITABLE**
+
+> *Note: Once you've identified the bad ECU, do NOT switch back to test.*
+
+
+### Door Open In Flight
+
+
+> ⚠️ **WARNING:** FLY THE AIRPLANE FIRST.
+
+- Airspeed ... **SLOW TO ~100 KIAS**
+  
+    *reduces airflow load on door*
+- Door ... **DO NOT ATTEMPT TO CLOSE**
+  
+    *cannot be re-latched against airflow*
+- Occupant ... **BRACE / HOLD**
+- Land ... **NEAREST SUITABLE**
+
+### Smoke / Smell Investigation
+
+
+*Use this when something smells off but no fire is visible.*
+
+- Source ... **ATTEMPT TO IDENTIFY**
+  
+    *electrical / oil / fuel / hot dust / exhaust*
+- Recent Switch Activations ... **NOTE**
+  
+    *anything just turned on?*
+- Vents ... **OPEN**
+- Plan Diversion ... **NEAREST SUITABLE**
+  
+    *do not wait for it to escalate*
+
+> *Note: If smoke or visible fire develops → Electrical Fire / Smoke In Cockpit.*
+
+
+### CO Alarm In Flight
+
+
+*CO Guardian audible alarm above 50 PPM. Most likely source: heat muff exhaust crack.*
+
+- Cabin Heat ... **OFF**
+- Vents ... **OPEN**
+- Oxygen Mask ... **DON / CONSTANT FLOW**
+  
+    *especially at altitude — CO displaces O2 in blood*
+- Land ... **AS SOON AS PRACTICABLE**
+
+> *Note: Have the heat muff and exhaust inspected before next flight.*
+
+
+### Oxygen System Failure / Hypoxia
+
+
+*Symptoms: lightheadedness, tunnel vision, fingernails turning blue, fatigue. EDS-4iP not pulsing.*
+
+- O2 Mode Switch ... **EMERGENCY (CONSTANT FLOW, ALL PORTS)**
+  
+    *panel toggle bypasses pulse-on-demand and supplies all ports continuously*
+- Cannulas / Masks ... **VERIFY SEATED**
+- Bottle Pressure ... **CHECK**
+- Descend ... **BELOW 10,000 FT MSL**
+  
+    *if symptoms persist, declare and divert*

@@ -19,12 +19,12 @@ N720AK is equipped with the **Mountain High EDS-4iP** pulse-demand oxygen system
 
 ### Operating Modes
 
-A panel switch selects between:
+A panel toggle selects between:
 
 - **Pulse Mode**: Oxygen delivered in pulses synchronized with inhalation. This is normal operation and conserves oxygen significantly compared to constant flow.
-- **Constant Flow**: Continuous oxygen flow. Use at high altitude or if pulse mode is insufficient (e.g., nasal congestion, very high breathing rate).
+- **Emergency / Constant Flow**: Continuous oxygen flow to **all ports simultaneously**. Use if pulse mode fails, if any occupant becomes hypoxic, or if a cannula stops sensing inhalation (e.g., nasal congestion, very high breathing rate, mask seal issue).
 
-This switch also serves as the system on/off — there is no separate emergency oxygen switch. In an emergency, switch to constant flow.
+The toggle also serves as the system on/off — there is no separate emergency oxygen switch. **In an emergency, flip the toggle to constant flow** — that single action both forces continuous flow and routes O2 to every port at once. See the `Oxygen System Failure / Hypoxia` checklist in Section 4b.
 
 <!-- TODO: At what altitude does the EDS-4iP auto-activate? -->
 <!-- TODO: How does the system detect inhalation? -->
