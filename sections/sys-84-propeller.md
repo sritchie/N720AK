@@ -72,10 +72,16 @@ Per Jihostroj (manufacturer):
 | Governor seizure | Oil contamination |
 | Drive failure | Engine vibration |
 
-<!-- TODO: Prop inspection — nicks, erosion, leading edge condition -->
+### Whirlwind WWA-RV10 Maintenance
+
+The Whirlwind WWA-RV10 is a **sealed propeller** — no field lubrication required.
+
+- **Field maintenance**: Inspect leading edges for nicks/erosion, hub for oil weeps, spinner attachment at each preflight and condition inspection.
+- **Manufacturer maintenance clock**: 5 years from first engine run. First engine run on N720AK was 2025-11-18; next major prop maintenance event due **2030-11-18**.
+- **Balance**: Last DynaVibe balance 2026-02 (Rick Hall, KLMO) — see propeller-log.tsv. Track vibration levels at each annual.
+
 <!-- TODO: Torque values for prop bolts -->
-<!-- TODO: Prop overhaul/life limit (Whirlwind 5-year maintenance) -->
-<!-- TODO: Spinner inspection and attachment -->
+<!-- TODO: Spinner attachment hardware spec -->
 
 ## References
 

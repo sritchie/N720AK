@@ -10,10 +10,7 @@ cowling, and wheel fairings are fiberglass.
 
 ## Engine and Components
 
-The aircraft is powered by a Lycoming IO-540 series engine, fuel injected and
-normally aspirated, rated at 260 HP at 2700 RPM.
-
-<!-- TODO: Add specific engine model and serial number -->
+The aircraft is powered by a **Lycoming YIO-540-D4A5** (S/N EL-36315-48E), 260 HP at 2,700 RPM, six-cylinder horizontally opposed, fuel injected, normally aspirated, air cooled. Compression ratio 9:1 as configured for the EFII System32. Installed new on 2025-11-18.
 
 ### Electronic Engine Management
 
@@ -45,15 +42,15 @@ engine. The system includes:
 
 ## Propeller
 
-<!-- TODO: Add propeller details -->
-
 | Parameter | Value |
 |-----------|-------|
-| Manufacturer | |
-| Model | |
-| Type | Constant speed |
-| Blades | |
-| Diameter | |
+| Manufacturer | Whirlwind Aviation |
+| Model | WWA-RV10 |
+| Type | Constant-speed |
+| Blades | 2 |
+| Diameter | 80" |
+| Hub S/N | RV10-366 |
+| Governor | Aero Technologies (Jihostroj) PCU5000X |
 
 > **Detailed reference:** [Propeller (ATA 84)](./sys-84-propeller.md)
 
@@ -61,15 +58,12 @@ engine. The system includes:
 
 The landing gear is a fixed tricycle configuration with:
 
-- Steerable nose wheel
-- Main gear with wheel fairings
+- Steerable nose wheel (Beringer AV-VANS-102-01)
+- Main gear with Matco WHLWI600XLT-2 wheels and brakes
+- Wheel fairings on all three wheels
+- Main tires: Desser retreads (no inner tubes)
 
-| Specification | Value |
-|---------------|-------|
-| Main Tire Size | |
-| Nose Tire Size | |
-| Main Tire Pressure | PSI |
-| Nose Tire Pressure | PSI |
+> Tire size and pressure values: see [sys-61-brakes.md](./sys-61-brakes.md). Verify and update at next servicing — pressures are not currently logged in the maintenance data.
 
 ## Brake System
 
@@ -110,7 +104,7 @@ Electric flap motor with position indicator on EFIS. Controlled by:
 - Panel-mounted flap switch
 - Stick grip switch (both sticks)
 
-Flap positions range from reflex (-3°) to full (40°).
+Flap positions range from reflex (−3°) to full (33°). Operational notches: 0°, 16°, 33°.
 
 > **Detailed reference:** [Flight Controls (ATA 27)](./sys-27-flight-controls.md)
 
@@ -120,10 +114,12 @@ Fuel is stored in two wing tanks with a selector valve on the center tunnel.
 
 | Parameter | Value |
 |-----------|-------|
-| Left Tank Capacity | U.S. gallons |
-| Right Tank Capacity | U.S. gallons |
-| Total Capacity | U.S. gallons |
-| Usable Fuel | U.S. gallons |
+| Left Tank Capacity | 30 U.S. gallons (29.5 usable) |
+| Right Tank Capacity | 30 U.S. gallons (29.5 usable) |
+| Total Capacity | 60 U.S. gallons |
+| Usable Fuel | 59 U.S. gallons |
+| Fuel Pressure (DIFF setpoint) | 45 PSI (Borla regulator) |
+| Auto-Cutover Trip | Borla output drops to 22 PSI absolute |
 | Minimum Grade | 100LL or premium unleaded 91 octane mogas (see [Limitations](02-limitations.md#mogas-limitations-efii-system32)) |
 
 ### Fuel System Components
@@ -254,7 +250,7 @@ Controlled via:
 
 | Component | Specification |
 |-----------|---------------|
-| Transponder | <!-- TODO: Add model --> with ADS-B Out |
+| Transponder | Dynon SV-XPNDR-261 (Mode S, S/N 04015) with ADS-B Out |
 | ELT | Artex ELT 345 (406 MHz) |
 
 ### Panel Switches
@@ -290,19 +286,18 @@ Controlled via:
 
 ## Control Sticks
 
-Both pilot and co-pilot have Tosten CS Military stick grips with identical
-button functions:
-
-<!-- TODO: Add stick grip photo with button callouts -->
+Both pilot and co-pilot have Tosten CS Military stick grips with identical button functions:
 
 | Button | Function |
 |--------|----------|
 | Trigger | Push-to-talk (PTT) |
-| Top hat | Pitch/roll trim |
-| <!-- --> | Flap up |
-| <!-- --> | Flap down |
-| Red button | Autopilot disconnect |
-| <!-- --> | <!-- TODO: Document all buttons --> |
+| Thumb button | Autopilot disconnect (press) / Control wheel steering (hold) |
+| Hat switch (top) | Aileron and pitch electric trim |
+| Up/down toggle | Up: COM1 standby↔active swap. Down: COM2 standby↔active swap |
+| Big red button (left) | COM1/COM2 flip-flop |
+| Small flush button (front, below trigger) | Not wired |
+
+The flap switch is panel-mounted (one tap down: 0° → 16°; second tap: 16° → 33°; one tap up retracts fully). Flaps will not deploy above 90 KIAS (speed inhibit).
 
 > **Detailed reference:** [Flight Controls (ATA 27)](./sys-27-flight-controls.md) | [Avionics & Wiring (ATA 42)](./sys-42-avionics.md)
 
@@ -312,18 +307,19 @@ button functions:
 
 | Parameter | Specification |
 |-----------|---------------|
-| Type | Electronic pulse-on-demand |
-| Bottle Location | <!-- TODO --> |
-| Capacity | <!-- TODO --> cubic feet |
+| Type | Electronic pulse-on-demand, 4 ports |
+| Bottle | 6×18, 2,216 PSI service pressure (S/N 602-100814) |
+| Bottle Hydro | Last requalified 2026-01-12; next due ~2031 |
+| Regulator | Mountain High IPR-0157 (overhauled 2026-01-16) |
 
 ### Operating Modes
 
-A panel switch selects between:
+A panel toggle selects between:
 
-- **Pulse Mode**: Oxygen delivered in pulses synchronized with inhalation
-  (normal operation, conserves oxygen)
-- **Constant Flow**: Continuous oxygen flow (for high altitude or if pulse
-  mode is insufficient)
+- **Pulse Mode**: Oxygen delivered in pulses synchronized with inhalation (normal operation, conserves oxygen).
+- **Emergency / Constant Flow**: Continuous oxygen flow to **all ports simultaneously**. Use for hypoxia, mask seal issues, or if pulse mode fails. The toggle is the system on/off — there is no separate emergency switch.
+
+See the `Oxygen System Failure / Hypoxia` checklist in Section 4b.
 
 > **Detailed reference:** [Oxygen (ATA 35)](./sys-35-oxygen.md)
 
@@ -356,16 +352,16 @@ Four-place seating:
 
 ### Restraints
 
-<!-- TODO: Specify harness type -->
+Crow Kam Lock harnesses at all four seats — see [sys-52-doors-airframe.md](./sys-52-doors-airframe.md).
 
 ## Baggage Area
 
 | Dimension | Value |
 |-----------|-------|
-| Maximum Weight | 100 lbs |
-| Volume | cubic feet |
+| Maximum Weight | 150 lbs |
+| Arm | 173.5" aft of datum |
 
-Access through rear baggage door.
+Access through rear baggage door on the right side of the fuselage.
 
 ## Exterior Lighting
 

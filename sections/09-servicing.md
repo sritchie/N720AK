@@ -26,64 +26,62 @@ The airplane can be jacked from:
 
 | Specification | Value |
 |---------------|-------|
-| Filter Type | <!-- TODO: Specify filter --> |
-| Service | Clean/replace per manufacturer |
+| Filter Type | Van's FAB-540 filtered air box (VFR only) |
+| Modified Alt Air Door | Aluminum sliding gate, cable-actuated from cabin (open/close) |
+| Service | Inspect and clean filter per FAB-540 installation guide |
+
+> Detailed reference: [sys-71-engine.md — Alt Air Door](./sys-71-engine.md#alt-air-door)
 
 ## Brake Service
 
 | Specification | Value |
 |---------------|-------|
 | Brake Fluid | Royco 782 (MIL-PRF-83282) |
-| Brake Type | Hydraulic disc |
-| Brake Linings | <!-- TODO: Add part number --> |
+| Brake Type | Hydraulic disc, Matco WHLWI600XLT-2 |
 
-**Warning**: Use only MIL-PRF-83282 specification hydraulic fluid. Do not
-substitute automotive brake fluid.
+**Warning:** Use only **MIL-PRF-83282** specification hydraulic fluid (Royco 782). Do not substitute automotive brake fluid — it will damage the seals.
+
+> Brake lining part numbers and replacement procedure: see Matco WI600 Series manual referenced in [sys-61-brakes.md](./sys-61-brakes.md).
 
 ## Landing Gear Service
 
-| Item | Specification |
-|------|---------------|
-| Main Tire Pressure | <!-- TODO --> PSI |
-| Nose Tire Pressure | <!-- TODO --> PSI |
-| Main Tire Size | <!-- TODO --> |
-| Nose Tire Size | <!-- TODO --> |
+Wheels: Matco WHLWI600XLT-2 main, Beringer AV-VANS-102-01 nose.
+
+Tires: Desser retreads on the mains (no inner tubes). Tire size and operating pressure are not currently logged — record at next servicing in `sys-61-brakes.md`.
 
 ### Wheel Bearings
 
-Repack main wheel bearings with Aeroshell #5 grease at annual condition
-inspection.
+Repack main wheel bearings with Aeroshell #5 grease at annual condition inspection.
 
 ## Propeller Service
 
-The propeller must be lubricated at intervals not to exceed 100 hours or
-12 calendar months, whichever occurs first.
+The Whirlwind WWA-RV10 is a **sealed propeller** — no field lubrication required. Inspect leading edges for nicks/erosion, hub for oil weeps, and spinner attachment at each preflight and condition inspection.
 
-| Specification | Value |
-|---------------|-------|
-| Grease Type | <!-- TODO: Verify grease spec --> |
-| Interval | 100 hours / 12 months |
+A 5-year manufacturer maintenance clock started at first engine run on **2025-11-18**; next major prop maintenance event due **2030-11-18**.
 
-**Note**: If annual operation is significantly less than 100 hours, or if
-operated in high humidity or salty air conditions, reduce calendar interval
-to six months.
+> Detailed reference: [sys-84-propeller.md](./sys-84-propeller.md)
 
 ## Oil System Service
 
 | Item | Specification |
 |------|---------------|
-| Oil Type | <!-- TODO: Specify --> |
-| Oil Capacity | <!-- TODO --> quarts |
-| Minimum Operating | <!-- TODO --> quarts |
-| Oil Filter | <!-- TODO: Part number --> |
-| Change Interval | 50 hours |
+| Oil Type | SAE 15W-50 or 20W-50 (multi-grade aviation) |
+| Sump Capacity (max) | 12 quarts |
+| Minimum for Operation | 8 quarts |
+| Recommended Quantity | 9 quarts (extended flight) |
+| Oil Drain Plug | Aircraft Spruce 05-12373 magnetic super plug, 1/2" NPT |
+| Oil Quick Drain | Saf-Air P5000 |
+| Oil Separator | Antisplat Aero ASA |
+| Change Interval | 50 hours / 4 calendar months (Lycoming SB 480), whichever first |
 
 ### Oil Change Procedure
 
-1. Change oil and filter every 50 hours
-2. Remove and inspect oil pressure screen
-3. Clean screen in solvent, dry with compressed air
-4. Replace screen crush washer
+1. Change oil and filter every 50 hours / 4 months (whichever first).
+2. Remove and inspect oil suction screen for metal.
+3. Cut filter and inspect for metal.
+4. Replace crush washers as required.
+5. Refill with 9 quarts (8 minimum for operation; do not exceed 12).
+6. Run engine briefly and check for leaks.
 
 ### 50-Hour Companion Tasks
 
@@ -159,15 +157,21 @@ replacement.
 
 ## Battery Service
 
-| Battery | Location | Type |
-|---------|----------|------|
-| Battery 1 | <!-- TODO --> | EarthX ETX900 |
-| Battery 2 | <!-- TODO --> | EarthX ETX900 |
+| Battery | Location | Type | Charging Source |
+|---------|----------|------|-----------------|
+| Battery 1 | Tailcone / baggage-area junction (right side) | EarthX ETX900 | Hartzell 60 A primary alternator |
+| Battery 2 | Tailcone / baggage-area junction (right side) | EarthX ETX900 | Monkworkz MZ-30 generator |
 
-Both batteries may be charged and conditioned using their proprietary chargers.
+The two charging systems are fully isolated. **Do not charge with non-LiFePO4 chargers** — EarthX batteries have an internal BMS and require lithium-specific charging.
 
-**Note**: EarthX lithium batteries require specific charging procedures. Refer
-to EarthX documentation.
+**Approved chargers (filed in shop):**
+
+- OptiMate Lithium 4s 5A (TM-291) — 5A maintainer
+- OptiMate TM-275 v2 — 9.5A charger / maintainer / 13.6V power supply (TUNE mode for avionics work without battery drain)
+
+**Charger sleep behavior:** OptiMate units enter sleep once fully charged and check voltage hourly. If a continuous parasitic load is present (panel powered for configuration), the maintainer may not detect drain and the battery can deplete. Use TM-275 TUNE mode (continuous 13.6 V) for any avionics work session that requires panel power.
+
+> Detailed reference: [sys-24-electrical.md — EarthX Battery & Chargers](./sys-24-electrical.md#earthx-battery--chargers)
 
 ## Lubrication Schedule
 
@@ -175,15 +179,8 @@ to EarthX documentation.
 |------|-----------|----------|
 | Wheel Bearings | Aeroshell #5 | Annual |
 | Control Hinges | LPS-2 or equivalent | As needed |
-| Nose Wheel Steering | <!-- TODO --> | Annual |
-| Propeller | <!-- See propeller section --> | 100 hrs/12 mo |
+| Propeller | None (Whirlwind sealed) | N/A |
 
-## Tire Replacement
-
-| Tire | Size | Ply |
-|------|------|-----|
-| Main | <!-- TODO --> | |
-| Nose | <!-- TODO --> | |
 
 ## Oxygen System Service
 

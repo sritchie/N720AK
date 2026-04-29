@@ -51,9 +51,13 @@ def generate_cover_page(metadata: dict) -> str:
 
     Title at ~25% down the page, metadata at ~75%.
     """
+    # `name` is the human-readable title (e.g. "N720AK"). `aircraftInfo` is
+    # the ForeFlight tail-number field, which we keep empty to avoid showing
+    # the registration twice on the ForeFlight checklist screen — so prefer
+    # `name` for the cover, and fall back to `aircraftInfo` if `name` is empty.
     name = escape_typst(metadata.get("name", ""))
     model = escape_typst(metadata.get("makeAndModel", ""))
-    aircraft = escape_typst(metadata.get("aircraftInfo", ""))
+    aircraft = escape_typst(metadata.get("aircraftInfo", "") or metadata.get("name", ""))
 
     return f"""// Cover page
 #page(margin: 7%, footer: none)[

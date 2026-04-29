@@ -4,7 +4,9 @@
 
 ## System Overview
 
-N720AK uses the **EFII System32** electronic fuel injection system with an **Aeromotive MAP-referenced fuel pressure regulator**. This is a modern port EFI system — no venturi, no mechanical fuel injection servo. The fuel system is a pressurized loop: fuel flows from the tanks, through filters and pumps, around a fuel rail past six port injectors, through the regulator, and back to the selected tank via a return line.
+N720AK uses the **EFII System32** electronic fuel injection system with a **Borla 203133 inline MAP-referenced fuel pressure regulator** (installed 2026-03-17, replacing the original Aeromotive Compact EFI regulator). This is a modern port EFI system — no venturi, no mechanical fuel injection servo. The fuel system is a pressurized loop: fuel flows from the tanks, through filters and pumps, around a fuel rail past six port injectors, through the regulator, and back to the selected tank via a return line.
+
+The injector differential pressure setpoint is **45 PSI**, displayed directly on the Dynon EMS in DIFF mode.
 
 **The entire fuel tune — injector pulse widths, fuel maps, mixture scheduling — depends on the regulator maintaining a constant pressure differential across the injectors.** If this differential changes (due to regulator wear, filter clogging, pump degradation, or plumbing restrictions), the ECU's fuel calculations become wrong and the tune must be re-evaluated. Every component in this system exists to ensure that differential stays rock-steady.
 
@@ -74,7 +76,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 ### Key Design Points
 
 - **Pressurized loop**: The pumps pressurize fuel continuously. The regulator bypasses excess fuel back to the tank. The injectors pull from a fuel rail that's always at pressure.
-- **Dual pumps**: Primary and backup Walbro 391 pumps on a rack. Only one runs at a time. A bus manager switch selects **1/AUTO** or **2**. In 1/AUTO mode, the bus manager automatically cuts over from pump 1 to pump 2 if fuel pressure drops to 22 PSI or below. The cutover is controlled by the bus manager and performed by a relay mounted under the panel.
+- **Dual pumps**: Primary and backup Walbro 391 pumps on a rack. Only one runs at a time. A bus manager switch selects **1/AUTO** or **2**. In 1/AUTO mode, the bus manager automatically cuts over from pump 1 to pump 2 if **Borla output (absolute) drops to 22 PSI or below**. The cutover is controlled by the bus manager and performed by a relay mounted under the panel. Note: the Dynon shows the *injector differential* (Borla output minus MAP), so the displayed value when cutover trips depends on current MAP — at 10 inHg MAP the Dynon would read ~12 PSI DIFF when the trip fires.
 - **Two-stage filtration**: 40μ pre-filter before the pumps (protects pumps), 10μ post-filter after the pumps (protects injectors and regulator).
 - **MAP reference**: The regulator's vacuum reference comes from an **orifice port on the throttle body** that provides a stable, damped manifold pressure signal. This is a small restrictive fitting — not a wide-open port — to prevent fuel pressure from chasing rapid MAP transients.
 - **Return routing**: The return line goes back through the firewall to the Andair duplex valve, which routes it to whichever tank is currently selected. This is a direct run — no additional valving on the return side.
@@ -173,18 +175,23 @@ Viton crush washers for pump fittings: [One Hydraulics SS9500-02V](https://www.o
 <!-- TODO: injector part number, flow rating, spray pattern -->
 <!-- TODO: fuel rail part number, manufacturer -->
 
-### Fuel Pressure Regulator — Aeromotive
+### Fuel Pressure Regulator — Borla 203133
 
 | Parameter | Value |
 |-----------|-------|
-| Brand | [Aeromotive](https://drive.google.com/file/d/13bJWKnxcHvWAUyjMiJIyC8b71120oKtl/view) |
-| Type | MAP-referenced diaphragm regulator with bypass return |
+| Brand | Borla |
+| Type | Inline MAP-referenced diaphragm regulator with bypass return |
 | Location | End of fuel rail |
 | MAP reference | Orifice port on throttle body |
-| Spring setpoint | ~35 PSI differential |
-| Part number | 13129 |
+| Spring setpoint | **45 PSI differential** |
+| Part number | 203133 |
+| Installed | 2026-03-17 (replaces Aeromotive Compact EFI Regulator) |
 
-The regulator is the heart of fuel pressure management. See [The MAP-Referenced Regulator](#the-map-referenced-regulator) for full theory.
+**Why Borla replaces the Aeromotive:** The Aeromotive Compact EFI regulator (with 0.020" bypass orifice drilled by ProTek Performance) exhibited significant injector differential droop under load with the Walbro 391 pumps — MAP slope of −0.295 PSI/inHg in ground runs. The Borla holds much better: ground run with the same pumps showed −0.089 PSI/inHg, a 3× improvement, and the Borla brings the airplane closer to the reference N88810 baseline (−0.014 PSI/inHg, essentially flat).
+
+The Borla is set to **45 PSI injector differential** as displayed on the Dynon (in DIFF mode, engine off). Fuel pressure should not budge meaningfully from 45 PSI through any flight regime — that is the new health criterion.
+
+See [The MAP-Referenced Regulator](#the-map-referenced-regulator) for full theory.
 
 ### MAP Reference Line
 
@@ -235,7 +242,7 @@ See [Dynon Service Bulletin 120414](https://dynonavionics.com/bulletins/support_
 
 ### How It Maintains Constant Differential
 
-The Aeromotive regulator is a mechanical diaphragm device:
+The Borla regulator is a mechanical diaphragm device (the same theory applied to the prior Aeromotive — only the calibration and quality differ):
 
 - **One side** of the diaphragm sees **fuel pressure** from the fuel rail
 - **Other side** sees **manifold pressure** (via a vacuum reference line from the throttle body) plus a **calibrated spring**
@@ -250,7 +257,7 @@ When MAP rises (throttle opened), the diaphragm sees more pressure on the refere
 
 **The result:** The spring force sets the differential, and it stays constant:
 
-$$ P_{\text{fuel}} - P_{\text{MAP}} = F_{\text{spring}} \approx 35 \text{ PSI (constant)} $$
+$$ P_{\text{fuel}} - P_{\text{MAP}} = F_{\text{spring}} \approx 45 \text{ PSI (constant, post-Borla install)} $$
 
 ### What Goes Wrong
 
@@ -271,7 +278,7 @@ The pressure drop across each fuel injector determines how much fuel flows durin
 True_differential = Fuel_absolute − MAP_absolute
 ```
 
-For N720AK, this should be **constant at ~35 PSI** regardless of throttle position, altitude, or flight phase.
+For N720AK, this should be **constant at 45 PSI** regardless of throttle position, altitude, or flight phase. Post-Borla install (2026-03-17), the regulation is essentially flat — anything more than ~1 PSI of variation under load warrants investigation.
 
 ### Why It Matters
 
@@ -426,7 +433,7 @@ Apply altitude correction if using `--alt-correct`.
 | **MAP slope** | How well regulator tracks MAP changes (PSI/inHg) | $\approx 0 \; (\pm 0.02)$ |
 | **Fuel flow slope** | Pressure droop under load (PSI/(gal/hr)) | $\approx 0 \; (\pm 0.05)$ |
 | **Residual $\sigma$** | Scatter after removing MAP trend | $< 0.1$ PSI |
-| **Startup fuel pressure** | Spring setpoint (gauge, at atmospheric MAP) | ~35 PSI |
+| **Startup fuel pressure** | Spring setpoint (DIFF, engine off) | **45 PSI** (Borla, post-2026-03-17) |
 
 ### Step 4: Bin Analysis
 
@@ -585,6 +592,6 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 ### System Questions
 - [x] Fuel type — 100LL or premium unleaded 91 octane mogas minimum
 - [x] Total usable fuel per tank — 29.5 gallons per tank
-- [x] Pump selection — bus manager switch (1/AUTO or 2), auto cutover at 22 PSI via relay under panel
+- [x] Pump selection — bus manager switch (1/AUTO or 2), auto cutover at 22 PSI Borla output absolute via relay under panel
 - [x] MAP reference orifice — integral to EFII throttle body, stock configuration
 - [ ] Fuel pressure sensor tap location on the rail

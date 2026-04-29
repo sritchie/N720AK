@@ -305,14 +305,16 @@ plans/
                                # Includes baseline targets, how to run, what to look for
 ```
 
-### Key Fuel System Findings (as of 2026-03)
+### Key Fuel System Findings (as of 2026-04)
 
-- **Pump capacity is the dominant factor** in injector differential stability — not the regulator
-- With Walbro 391 pumps: MAP slope = **−0.135 PSI/inHg**, cruise diff = 32.7 PSI (target 35)
-- With Walbro 393 pumps (old): MAP slope = **−0.277 PSI/inHg**, cruise diff = 31.1 PSI
-- Reference N88810 with Walbro 392 pumps: MAP slope = **−0.014 PSI/inHg**, cruise diff = 34.9 PSI — nearly flat
-- All three systems hold ~35 PSI at idle (low flow); the sag only appears under cruise fuel demand
-- Upgrade to Walbro 392 pumps is tracked in Linear (RV-1164)
+- **Setpoint is now 45 PSI** (DIFF mode on Dynon EMS) following the **Borla 203133 regulator** swap on 2026-03-17. The Borla replaced the Aeromotive Compact EFI regulator.
+- The Borla holds much better than the Aeromotive on the same Walbro 391 pumps:
+  - Aeromotive @ 45 PSI ground run: MAP slope = **−0.295 PSI/inHg** (2.8 PSI idle-to-cruise droop)
+  - Borla @ 45 PSI ground run: MAP slope = **−0.089 PSI/inHg** (0.9 PSI droop) — **3× improvement**
+  - Reference N88810 Borla + Walbro 392: **−0.014 PSI/inHg** (essentially flat)
+- **Sticking with Walbro 391 pumps.** The 392 upgrade is no longer planned — the Borla solved enough of the regulation problem that the pump upgrade isn't worth pursuing now.
+- **In-flight health criterion:** fuel pressure should not budge meaningfully from 45 PSI in any flight regime. >1 PSI variation under load warrants investigation.
+- Auto-cutover trip point (Bus Manager Pump 1 → Pump 2): **22 PSI Borla output absolute** (the pump-side sense). Because the Dynon displays the injector differential (Borla output − MAP), the on-screen DIFF value at the moment of trip varies with MAP — e.g. at 10 inHg MAP the Dynon would read ~12 PSI DIFF.
 - Full details: `sections/sys-28-fuel-system.md`
 
 ### Dynon Fuel Pressure: DIFF vs Gauge Modes

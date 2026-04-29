@@ -171,10 +171,11 @@ The Output Active pin (pin 2) also provides status: it "flashes" on an 8-second 
 
 #### Dynon EMS Monitoring
 
-The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to Dynon EMS pin 31 (previously CO Guardian). This replaces the CO detector wiring.
+The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to Dynon EMS pin 31. This pin previously carried the **CO Guardian PPM signal** to the Dynon EMS — only the *EMS display* was removed when the wire was repurposed. The CO Guardian unit remains installed in the cabin and still provides an audible alarm above 50 PPM. The alarm is not currently wired into the GMA 245 audio panel, so it sounds in the cabin but is not heard through the headsets.
 
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
-<!-- TODO: Reinstall CO detector — no EMS pins currently available. May need standalone CO monitor or additional EMS module -->
+<!-- TODO: Wire CO Guardian audible alarm into the GMA 245 audio panel so it's heard through the headsets -->
+<!-- TODO: Consider an alternative path for CO PPM display on the EFIS (standalone CO monitor or additional EMS module) -->
 <!-- TODO: Consider wiring Output Active (pin 2) to a Dynon contact input for generator active/failed annunciation -->
 
 #### References
@@ -480,7 +481,7 @@ Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 | 27 | General thermocouple 1+ | Not used |
 | 28 | General thermocouple 1− | Not used |
 | 29 | Warning light output | Not used |
-| 31 | Monkworkz MZ-30 proportional current (was CO Guardian) | Brown/blue — 0–2.7V proportional to 0–30A generator output. Sensor definition not yet configured in Dynon. |
+| 31 | Monkworkz MZ-30 proportional current (was CO Guardian PPM input) | Brown/blue — 0–2.7V proportional to 0–30A generator output. Sensor definition not yet configured in Dynon. **CO Guardian unit itself is still installed in the cabin and provides an audible alarm above 50 PPM**; only the Dynon EMS PPM display was removed. The audible alarm is currently not wired into the audio panel — it sounds in the cabin but is not heard through the headsets. |
 | 32 | RPM input left (high voltage) | Not used (using pin 34 low voltage) |
 | 33 | RPM input right (high voltage) | Not used (using pin 35 low voltage) |
 | 36 | General thermocouple 2+ | Not used |

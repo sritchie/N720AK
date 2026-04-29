@@ -3,194 +3,396 @@
 > These procedures are derived from the efis-editor checklist file.
 > Update the source JSON and regenerate to modify.
 
+## Memory Items
+
+### Memory Items — N720AK
+
+
+*These items must be performed from memory before reaching for the checklist. Practice them so they are automatic.*
+
+
+#### ENGINE FAILURE — A B C
+
+
+**Airspeed** ... **BEST GLIDE / ONSPEED**
+
+
+**Best field** ... **LOCATE / NRST**
+
+
+**Checklist** ... **SYSTEM32 RESTORE**
+
+
+#### ENGINE FIRE
+
+
+**Fuel Pump Breakers** ... **PULL BOTH**
+
+
+**Key Switch** ... **OFF**
+
+
+**Fuel Selector** ... **OFF**
+
+
+#### LOSS OF FUEL PRESSURE
+
+
+**Fuel Pump Mode** ... **2**
+
+
+**Fuel Selector** ... **OTHER TANK**
+
+
+#### ELECTRICAL FIRE / SMOKE
+
+
+**Key Switch** ... **OFF**
+
+
+**Master Switch** ... **OFF**
+
+
+**Vents** ... **OPEN**
+
+
+#### LOSS OF POWER TO ELECTRONICS
+
+
+**Emergency Power Switch** ... **ON**
+
+
+#### RUNAWAY TRIM
+
+
+**Avionics Master** ... **OFF**
+
+
+#### UPSET RECOVERY — POWER PUSH ROLL
+
+
+**Power** ... **ADJUST**
+
+
+**Push** ... **UNLOAD**
+
+
+**Roll** ... **WINGS LEVEL**
+
+
+#### INADVERTENT IMC
+
+
+**Wings** ... **LEVEL ON AUTOPILOT**
+
+
+**180º Turn** ... **STANDARD RATE**
+
+
 ## Preflight
 
 ### Preflight Inspection
 
-- AR(R)OW ... **AVAILABLE IN THE AIRPLANE**
-- Gust lock ... **REMOVE**
-- LEFT PANEL SWITCHES ... **UP / NORM**
-- START BATT SEL ... **BOTH**
-- Key ... **ON**
-- Avionics Switches ... **BOTH ON**
-- Emergency Power ... **ON**
-- Fuel Quantity Indicators ... **CHECK**
-- Fuel Selector Valve ... **FULLEST TANK**
-- Wing Flaps ... **EXTEND**
+
+#### Approach:
+
+- Gust Lock ... **REMOVE**
+- Inlet Covers ... **REMOVE**
+- Pitot / AoA Cover ... **REMOVE**
+- AR(R)OW Documents ... **AVAILABLE**
+
+#### Left Wing:
+
 - Fuel Tank Vent Opening ... **CHECK**
-- Fuel Tank Sump ... **CHECK**
+- Fuel Tank Sump ... **DRAIN / CHECK**
 - Fuel Quantity ... **CHECK VISUALLY**
 - Fuel Filler Cap ... **SECURE**
 - Wing Tie-Down ... **DISCONNECT**
-- Pitot Tube Cover ... **REMOVE**
-- Wingtip Lights ... **CHECK**
-- Aileron ... **CHECK**
-- Flap ... **CHECK**
-- Main Wheel Tire ... **CHECK**
-- Baggage Door ... **CHECK**
+- Wingtip Lights / Antennas ... **CHECK**
+- Aileron / Flap ... **CHECK**
+- Main Wheel Tire / Brake ... **CHECK**
+
+#### Empennage:
+
+- Baggage Door ... **CHECK / SECURE**
 - Static Source Openings ... **CHECK**
 - Tail Tie-Down ... **DISCONNECT**
-- Control Surfaces ... **CHECK**
+- Control Surfaces ... **FREE / CHECK**
 - Lead Weights ... **CHECK**
-- Main Wheel Tire ... **CHECK**
-- Flap ... **CHECK**
-- Aileron ... **CHECK**
-- Wingtip Lights ... **CHECK**
+- ELT Antenna ... **CHECK**
+
+#### Right Wing:
+
+- Main Wheel Tire / Brake ... **CHECK**
+- Aileron / Flap ... **CHECK**
+- Wingtip Lights / Antennas ... **CHECK**
 - Wing Tie-Down ... **DISCONNECT**
 - Fuel Quantity ... **CHECK VISUALLY**
 - Fuel Filler Cap ... **SECURE**
-- Fuel Tank Sump ... **CHECK**
+- Fuel Tank Sump ... **DRAIN / CHECK**
 - Fuel Tank Vent Opening ... **CHECK**
+
+#### Nose:
+
 - Propeller and Spinner ... **CHECK**
-    for nicks, security, and oil leaks
+  
+    *nicks, security, oil leaks*
 - Nose Wheel + Tire ... **CHECK**
+- Engine Inlets / Air Intake ... **CLEAR**
+  
+    *look in for nests, debris, blockage*
 - Engine Oil Level ... **CHECK**
-    Do not operate with less than 8 quarts.
-    Fill to 9 quarts for extended flight.
+  
+    *Do not operate with less than 8 quarts.*
+  
+    *Fill to 9 quarts for extended flight.*
+- Oil Door / Preheat Plug ... **STOWED / SECURE**
 
 ### Before Starting Engine
 
 - Preflight Inspection ... **COMPLETE**
 - Seats, Belts, Shoulder Harnesses ... **ADJUST AND LOCK**
 - Doors ... **LOCKED**
-- Circuit Breakers ... **CHECK IN**
-- Pump Breakers ... **BOTH IN**
+- Circuit Breakers ... **ALL IN**
+- Left Panel Switches ... **UP / NORM**
+- Start Battery Select ... **BOTH**
+- Avionics Master ... **OFF**
+- Autopilot Switch ... **OFF**
 - Key ... **ON**
-- Fuel Pumps ... **2 THEN 1/AUTO**
-- Fuel Pressure ... **37 PSI / GREEN**
+- OnSpeed ... **BLINKING**
+- Fuel Pump Mode ... **2, THEN 1/AUTO**
+  
+    *verify Pump 1 GREEN*
+- ECU Select ... **ECU1**
+- Fuel Quantity Indicators ... **CHECK**
+- Fuel Selector ... **FULLEST TANK**
+- Fuel Pressure ... **45 PSI / GREEN**
 - Brakes ... **TEST AND SET**
 
 ### Starting Engine
 
-- Strobes ... **ON**
 - Propeller ... **HIGH RPM**
-- Pump Throttle ... **AS REQUIRED**
-    1 or 2 primer squirts if cold. Look for AP on EFII controller.
+- Throttle (Prime) ... **2 PUMPS COLD / 1 PUMP WARM**
+  
+    *watch for AP indicator on EFII controller per pump*
 - Throttle ... **OPEN 1/4 INCH**
-    If cold, wait 10s for primer fuel to evaporate.
+  
+    *If cold, wait 10s for primer fuel to evaporate*
 - Propeller Area ... **CLEAR**
-- Ignition ... **PRESS**
-    release after engine starts
-    If engine doesn't start w/in 5 revolutions:
-    - disengage starter,
-    - wait ~10s for primer fuel to evaporate,
-    - retry starting.
-- RPM ... **ADJUST TO 750**
-    reset to 750 RPM as engine warms up
-- Oil Pressure ... **CHECK IN GREEN**
-- Alternator Current ... **VERIFY**
-- Avionics Switches ... **BOTH ON**
-- Radios ... **SET, AWOS/ATIS OBTAINED**
+- Starter ... **PRESS**
+  
+    *release after engine starts*
+
+#### If engine doesn't start within 5 revolutions:
+
+
+  *- disengage starter,*
+
+
+  *- wait ~10s for primer fuel to evaporate,*
+
+
+  *- retry start.*
+
+
+#### After Engine Starts:
+
+- RPM ... **ADJUST TO 700**
+  
+    *reset to 700 as engine warms up*
+- Oil Pressure ... **GREEN**
+  
+    *if not in green within 30 seconds — shut down*
+- Avionics Master ... **ON**
+- Autopilot Switch ... **ON**
+- Strobes ... **ON**
+- Alternator Current ... **VERIFY POSITIVE**
+- Radios ... **SET / AWOS / ATIS**
 - Altimeter ... **SET**
 - Heading Indicator ... **SET**
 
 ### Before Taxi
 
 - Wing Flaps ... **RETRACT, VERIFY UP**
+- Fuel Trim ... **LEAN -10% FOR TAXI**
 - Lights ... **AS REQUIRED**
 - Brakes ... **TEST ON ROLL**
 
 ### Runup
 
-- Brakes ... **HOLD**
+
+> *Note: ECU controller colors: BLUE = active fuel control. GREEN = standby. RED = p-lead grounded (ignition off). GRAY = not communicating.*
+
+- Fuel Trim ... **0%**
 - Doors ... **CLOSED AND LOCKED**
 - Elevator and Rudder Trim ... **TAKEOFF**
 - Flight Controls ... **FREE AND CORRECT**
 - Flight Instruments ... **SET**
-- Propeller Control ... **HIGH RPM**
+
+#### Governor Cycle:
+
+- Brakes ... **HOLD**
 - Throttle ... **2000 RPM**
 - Propeller Control ... **1800 RPM**
 - Throttle ... **+2" MP**
-    let RPM stabilize
+  
+    *let RPM stabilize*
 - Propeller Control ... **HIGH RPM**
+
+#### ECU + Fuel System Check (1600 RPM):
+
 - Throttle ... **1600 RPM**
-- Ignition ... **CHECK**
-    1 OFF, Both, 2 OFF, Both
-    expect 80-100 RPM dip per ECU switchover
-    Verify active blue, disabled red
-    at both verify ECU1 blue, ECU2 green
-- ECU FUEL SEL ... **CHECK**
-    PRI, SEC, then PRI, verify active green, backup blue
-- Propeller ... **CYCLE 2X**
-    RPM dip, then oil pressure dip
+- Ignition (ECU p-leads) ... **CHECK**
+  
+    *1 OFF, Both, 2 OFF, Both*
+  
+    *expect ~100 RPM drop / smooth running per side*
+  
+    *verify active BLUE / disabled RED on EFII controller*
+  
+    *at Both, verify ECU1 BLUE / ECU2 GREEN*
+- ECU FUEL SEL ... **PRI / SEC / PRI**
+  
+    *verify active GREEN, backup BLUE through transitions*
+- Fuel Pump Mode ... **1 / 2 / 1/AUTO**
+  
+    *fuel pressure should not budge through cutover*
+  
+    *verify pump annunciators follow selection (active green)*
 - Engine Instruments (Oil Px, Temp) ... **CHECK**
+- MZ-30 Generator ... **VERIFY OUTPUT**
+  
+    *Bat 2 voltage charging; gen amps positive (won't show at idle)*
 - Throttle ... **IDLE**
 
 ### Before Takeoff
 
 - Fuel Gauge ... **CHECK QUANTITY**
+- Fuel Pressure ... **45 PSI / GREEN**
+- Fuel Trim ... **0%**
+- ECU Select ... **ECU1**
 - Radios, Flight Plan ... **SET**
 - Transponder ... **ALT, 1200**
 - Strobes ... **AS REQUIRED**
 - Nav Lights ... **AS REQUIRED**
 - Pitot Heat ... **AS REQUIRED**
 - iPad / ForeFlight ... **CONNECTED**
-    Dynon WiFi — AHRS, traffic, GPS
+  
+    *Dynon WiFi — AHRS, traffic, GPS*
 - Flaps / Trim ... **SET FOR TAKEOFF**
-- R - RPM ... **2700 RPM, FULL POWER**
+
+#### Takeoff Briefing — REACT:
+
+- R - RPM ... **2700, FULL POWER**
 - E - Engine gauges ... **GREEN**
 - A - Airspeed ... **ALIVE**
 - C - Centerline ... **TRACKING**
 - T - Takeoff abort point ... **IDENTIFIED**
+- Turn Direction (Engine-Out) ... **TOWARD CROSSWIND**
 - Radio Call ... **MAKE**
 
 ### Normal Takeoff
 
 - Wing Flaps ... **0º / 16º**
-- Power ... **FULL THROTTLE AND 2700 RPM**
-    Advance over 5 seconds
-- Elevator Control ... **BACK**
-    Hover nosewheel
+- Centerline ... **ALIGN**
+- Power ... **FULL THROTTLE / 2700 RPM**
+  
+    *advance over ~5 seconds*
+- Elevator ... **BACK TO LIFT NOSE**
+  
+    *hover nose wheel; let plane fly itself off*
+- Pitch ... **ONSPEED**
 - Wing Flaps ... **UP**
-- Climb Speed ... **110 KIAS**
+
+#### At 300 AGL:
+
+- Propeller ... **2500 RPM**
+- Climb Speed ... **START OF TONE / VY 95 KIAS**
 
 ## In Flight
 
-### Normal Climb
+### Climb
+
+- Climb Speed ... **VY 95 KIAS to 1000 AGL**
+- CHTs ... **MONITOR < 400ºF**
+  
+    *if approaching 400: Fuel Trim +10% or reduce climb angle*
+
+#### At 1000 AGL — Cruise Climb:
 
 - Airspeed ... **120 KIAS**
-- Power ... **25" HG AND 2500 RPM**
+- Power ... **FULL THROTTLE / 2500 RPM**
 - Engine Gauges ... **CHECK**
 
 ### Cruise
 
-- Power ... **15-23" HG AND 2200-2450 RPM**
+- Power ... **AS DESIRED**
+  
+    *default: full throttle / 2400 RPM*
+- Fuel Trim ... **0%**
 - Elevator + Aileron Trim ... **ADJUST**
 - Engine Gauges ... **CHECK**
 - Lights ... **AS REQUIRED**
 
 ### Pre-Maneuver
 
-- Fuel Selector Valve ... **MORE FULL**
+- Fuel Selector ... **MORE FULL**
 - Lights ... **AS REQUIRED**
 - Clearing Turns ... **PERFORM**
-    90º L - 90º R / 180º turn
+  
+    *90º L - 90º R / 180º turn*
 - Maneuvering Speed ... **125 AT GROSS**
 
 ### Descent
 
-- Fuel Selector Valve ... **MORE FULL**
+- Fuel Selector ... **MORE FULL**
 - Power ... **AS DESIRED**
 - Lights ... **AS REQUIRED**
 
-### Before Landing
+### Before Landing — GUMPS
 
-- Power ... **11" / 2300RPM**
-- Fuel Selector Valve ... **MORE FULL**
-- Fuel Pumps ... **1/AUTO**
+
+#### G - Gas:
+
+- Fuel Selector ... **FULLEST TANK**
+- Fuel Pump Mode ... **1/AUTO**
+- Fuel Pressure ... **45 PSI / GREEN**
 - Fuel Trim ... **0%**
+
+#### U - Undercarriage:
+
+- Gear ... **FIXED — VERIFIED**
+
+#### M - Mixture:
+
+- Fuel Trim ... **0% (replaces mixture)**
+
+#### P - Prop:
+
+- Propeller ... **FULL FORWARD**
+  
+    *say it now; do it with first flap deployment*
+
+#### S - Switches / Seatbelts:
+
 - Seats, Belts, Harnesses ... **ADJUST AND LOCK**
+- Lights ... **LANDING / TAXI**
+- Transponder ... **ALT**
+- Doors ... **LATCHED**
 - Brakes ... **TEST**
 
 ### Normal Landing
 
 - Throttle ... **IDLE**
-- Propeller ... **HIGH RPM**
-- Flaps ... **16º @ 87 KIAS**
-- Throttle ... **1800 RPM**
-- Airspeed ... **~70 KIAS**
+- Flaps ... **33º @ 87 KIAS**
+- Propeller ... **FULL FORWARD**
+- Pitch ... **ONSPEED**
 - Trim ... **ADJUST**
-- Flaps ... **33º ON BASE**
+- Throttle ... **MAINTAIN ALTITUDE / GLIDEPATH**
+
+#### On short final:
+
+- Throttle ... **IDLE**
 - Touchdown ... **MAINS FIRST**
 - Landing Roll ... **HOLD NOSE WHEEL OFF**
 - Braking ... **MINIMUM REQUIRED**
@@ -202,17 +404,69 @@
 - Flaps ... **UP**
 - Elevator and Rudder Trim ... **TAKEOFF**
 - Lights ... **AS REQUIRED**
-- Pitot Heat ... **AS REQUIRED**
+- Pitot Heat ... **OFF**
 - Transponder ... **ALT, 1200**
 
 ### Securing Airplane
 
 - Throttle ... **IDLE**
-- Mixture ... **IDLE CUT-OFF**
-- Lights ... **OFF**
-    except strobe
-- Master Switch ... **OFF**
-- Avionics Switches ... **BOTH OFF**
-- Fuel Selector Valve ... **RIGHT**
-- Gust Lock ... **INSTALL**
 - Hobbs + Tach Time ... **RECORD**
+- Avionics Master ... **OFF**
+- Autopilot Switch ... **OFF**
+- Lights ... **OFF**
+- Key Switch ... **OFF**
+  
+    *kills ECUs / fuel pumps — engine stops*
+- Gust Lock ... **INSTALL**
+
+## Non-Standard Takeoff and Landing
+
+### Short Field Takeoff
+
+- Flaps ... **16º**
+- Power ... **FULL THROTTLE / 2700 RPM**
+- Elevator ... **BACK TO LIFT NOSE**
+  
+    *fly off; let plane accelerate in ground effect*
+- Climb Speed ... **ONSPEED / VX 80 KIAS**
+  
+    *until obstacles cleared*
+- Flaps ... **RETRACT**
+
+### Maximum Performance Climb
+
+- Power ... **FULL THROTTLE / 2700 RPM**
+- Airspeed ... **ONSPEED / VX 80 KIAS**
+- Fuel Selector ... **MORE FULL**
+- CHTs ... **MONITOR < 400ºF**
+
+### Short Field Landing
+
+
+*Drag-it-in: behind the power curve, power for descent rate, AOA for airspeed.*
+
+- Flaps ... **33º BELOW 87 KIAS**
+- Airspeed ... **SLOW TONE**
+  
+    *high AOA, slower than ONSPEED — touchdown speed minimized*
+- Power ... **MAINTAIN DESCENT GRADIENT**
+  
+    *throttle controls rate of descent at this AOA*
+- Trim ... **ADJUST**
+- Power ... **REDUCE TO IDLE**
+  
+    *as obstacle is cleared*
+- Touchdown ... **MAIN WHEELS FIRST**
+- Brakes ... **APPLY HEAVILY**
+- Flaps ... **RETRACT**
+
+### Go Around
+
+
+> *Note: Pressing "Nose Up" on the autopilot during a coupled approach engages go-around mode automatically.*
+
+- Power ... **FULL THROTTLE / 2700 RPM**
+- Pitch ... **ONSPEED**
+- Flaps ... **RETRACT**
+- Trim ... **SET FOR TAKEOFF**
+- Climb Speed ... **VY 95 KIAS**

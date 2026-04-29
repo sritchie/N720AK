@@ -35,41 +35,86 @@ def format_challenge_response(challenge: str, response: str, indent: int = 0) ->
     return f"{prefix}- {challenge} {'.' * 3} **{response}**"
 
 
-def format_item(item: dict, indent: int = 0) -> str:
-    """Format a single checklist item based on its type."""
+def format_item(item: dict, indent: int = 0, prev_was_listy: bool = True) -> str:
+    """Format a single checklist item based on its type.
+
+    `prev_was_listy` tells us whether the previous emitted line was part of an
+    open list (so an indented continuation line is OK) vs. a paragraph break
+    (so 4-space indentation would be misread as a fenced code block by Pandoc).
+    """
     item_type = item.get("type", "ITEM_CHALLENGE_RESPONSE")
     prefix = "  " * indent
+    centered = item.get("centered", False)
 
     if item_type == "ITEM_SPACE":
         return ""
 
     if item_type == "ITEM_TITLE":
-        title = item.get("title", "")
-        if not title.strip():
-            return ""  # Skip empty titles
-        return f"\n{prefix}**{title}**\n"
+        # The protobuf schema stores the heading text in `prompt`, not `title`.
+        # Render as an h4 heading so it stands above the bulleted/bold items
+        # that follow. (Checklist title is h3.)
+        prompt = item.get("prompt", "").strip()
+        if not prompt:
+            return ""
+        return f"\n{prefix}#### {prompt}\n"
 
     if item_type == "ITEM_NOTE":
         prompt = item.get("prompt", "")
         return f"\n{prefix}> *Note: {prompt}*\n"
 
+    if item_type == "ITEM_WARNING":
+        prompt = item.get("prompt", "")
+        return f"\n{prefix}> ⚠️ **WARNING:** {prompt}\n"
+
+    if item_type == "ITEM_CAUTION":
+        prompt = item.get("prompt", "")
+        return f"\n{prefix}> **CAUTION:** {prompt}\n"
+
     if item_type == "ITEM_PLAINTEXT":
         prompt = item.get("prompt", "")
-        return f"{prefix}  {prompt}"
+        if centered:
+            return f"\n{prefix}*{prompt}*\n"
+        # When the previous line wasn't a list bullet (e.g., it was a TITLE,
+        # WARNING, or centered item rendered as its own paragraph), 4-space
+        # indentation here makes Pandoc treat the line as a code block. Emit
+        # an italicized paragraph instead so the hint reads as ordinary prose.
+        if not prev_was_listy:
+            return f"\n{prefix}*{prompt}*\n"
+        # Indented continuation under a list bullet. A hard line break
+        # (two trailing spaces) plus italics keeps the hint attached to the
+        # bullet without indenting 4 spaces — which would be misread as a
+        # code block by CommonMark/Pandoc.
+        return f"  \n{prefix}  *{prompt}*"
 
     if item_type == "ITEM_CHALLENGE_RESPONSE":
         prompt = item.get("prompt", "")
         expectation = item.get("expectation", "")
-        centered = item.get("centered", False)
 
-        if centered and not expectation:
-            return f"\n{prefix}**{prompt}**\n"
+        if centered:
+            # Memory item: bold prompt + bold expectation, no list bullet, no
+            # dot leaders. Convention: bold-line == memory item.
+            if expectation:
+                return f"\n**{prompt}** ... **{expectation}**\n"
+            return f"\n**{prompt}**\n"
 
         return format_challenge_response(prompt, expectation, indent)
 
     # Default fallback
-    prompt = item.get("prompt", item.get("title", ""))
+    prompt = item.get("prompt", "")
     return f"{prefix}- {prompt}"
+
+
+def _is_listy(item_type: str, centered: bool) -> bool:
+    """Did this item produce an open list bullet?"""
+    if centered:
+        return False
+    if item_type in ("ITEM_TITLE", "ITEM_NOTE", "ITEM_WARNING", "ITEM_CAUTION", "ITEM_SPACE"):
+        return False
+    # PLAINTEXT only continues a list if the previous bullet was itself a list
+    # item; we approximate by saying PLAINTEXT inherits prior listy-ness.
+    if item_type == "ITEM_PLAINTEXT":
+        return None  # signal: do not change prev_listy
+    return True  # ITEM_CHALLENGE / ITEM_CHALLENGE_RESPONSE
 
 
 def format_checklist(checklist: dict) -> str:
@@ -80,11 +125,18 @@ def format_checklist(checklist: dict) -> str:
     lines.append(f"### {title}")
     lines.append("")
 
+    prev_listy = False
     for item in checklist.get("items", []):
         indent = item.get("indent", 0)
-        formatted = format_item(item, indent)
+        item_type = item.get("type", "ITEM_CHALLENGE_RESPONSE")
+        centered = item.get("centered", False)
+        formatted = format_item(item, indent, prev_was_listy=prev_listy)
         if formatted:
             lines.append(formatted)
+        # Update listy-ness for the next iteration.
+        listy = _is_listy(item_type, centered)
+        if listy is not None:
+            prev_listy = listy
 
     lines.append("")
     return "\n".join(lines)
