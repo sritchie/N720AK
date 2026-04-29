@@ -33,14 +33,14 @@ Operationally we fly OnSpeed AOA (solid tone) for normal approach and slow tone 
 
 ## Takeoff Performance
 
-Van's published figures, sea level, ISA, no wind, paved runway:
+Van's published ground-roll figures, sea level, ISA, no wind, paved runway. Van's does not publish a 50 ft obstacle distance for the RV-10.
 
-| Weight | Ground Roll | 50 ft Obstacle |
-|--------|------------:|---------------:|
-| 2,200 lb | 360 ft | (TODO) |
-| 2,700 lb (gross) | 500 ft | (TODO) |
+| Weight | Ground Roll |
+|--------|------------:|
+| 2,200 lb | 360 ft |
+| 2,700 lb (gross) | 500 ft |
 
-Apply standard corrections for density altitude, wind, runway slope, and surface (grass adds ~15%).
+Apply standard corrections for density altitude, wind, runway slope, and surface (grass adds ~15%). For obstacle clearance, plan generously — the 50 ft figure is generally 1.5–2× ground roll for piston singles.
 
 ## Climb Performance
 
@@ -66,12 +66,12 @@ Operationally we cruise at full throttle / **2,400 RPM** with **Fuel Trim 0%** a
 
 ## Landing Performance
 
-Van's published figures, sea level, ISA, no wind, paved runway, max braking:
+Van's published ground-roll figures, sea level, ISA, no wind, paved runway, max braking. Van's does not publish a 50 ft obstacle distance for the RV-10.
 
-| Weight | Ground Roll | 50 ft Obstacle |
-|--------|------------:|---------------:|
-| 2,200 lb | 525 ft | (TODO) |
-| 2,700 lb (gross) | 650 ft | (TODO) |
+| Weight | Ground Roll |
+|--------|------------:|
+| 2,200 lb | 525 ft |
+| 2,700 lb (gross) | 650 ft |
 
 For short-field landing, fly the slow tone with power for descent control (drag-it-in technique); see Section 5 → Short Field Landing.
 
@@ -88,8 +88,8 @@ Plan a **45-minute reserve at cruise burn** for night/IFR (FAR 91.167), 30-minut
 
 ## Glide Performance
 
-| Configuration | Glide Speed | Best L/D Ratio |
-|---------------|------------|---------------:|
-| Clean, prop full coarse | 95 KIAS | (TODO — verify in flight test) |
+Best glide is **95 KIAS** with the propeller pulled to full coarse (low RPM). Pulling the prop coarse reduces drag substantially compared to leaving it at high RPM — this is the difference between a usable glide and falling out of the sky.
 
-Engine-out glide distance (rule of thumb): ~1.7 NM per 1,000 ft AGL clean at best glide. Confirm with at-altitude glide tests; record altitude lost per 360° turn at 20°, 30°, 45° bank for use in turnback briefing planning per the EAA Power-Loss-on-Takeoff Working Group methodology.
+Confirm actual glide ratio and altitude loss with at-altitude glide tests during Phase I and ongoing operation. **Record altitude lost per 360° turn at 20°, 30°, 45° bank** for use in pre-takeoff turnback briefing planning per the EAA Power-Loss-on-Takeoff Working Group methodology.
+
+> Add 250–500 ft pad to measured 360° altitude loss to define "high key" altitude for turnback feasibility — see Vac's working-group writeup.

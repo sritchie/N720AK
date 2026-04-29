@@ -37,39 +37,29 @@ The airplane can be jacked from:
 | Specification | Value |
 |---------------|-------|
 | Brake Fluid | Royco 782 (MIL-PRF-83282) |
-| Brake Type | Hydraulic disc |
-| Brake Linings | <!-- TODO: Add part number --> |
+| Brake Type | Hydraulic disc, Matco WHLWI600XLT-2 |
 
-**Warning**: Use only MIL-PRF-83282 specification hydraulic fluid. Do not
-substitute automotive brake fluid.
+**Warning:** Use only **MIL-PRF-83282** specification hydraulic fluid (Royco 782). Do not substitute automotive brake fluid — it will damage the seals.
+
+> Brake lining part numbers and replacement procedure: see Matco WI600 Series manual referenced in [sys-61-brakes.md](./sys-61-brakes.md).
 
 ## Landing Gear Service
 
-| Item | Specification |
-|------|---------------|
-| Main Tire Pressure | <!-- TODO --> PSI |
-| Nose Tire Pressure | <!-- TODO --> PSI |
-| Main Tire Size | <!-- TODO --> |
-| Nose Tire Size | <!-- TODO --> |
+Wheels: Matco WHLWI600XLT-2 main, Beringer AV-VANS-102-01 nose.
+
+Tires: Desser retreads on the mains (no inner tubes). Tire size and operating pressure are not currently logged — record at next servicing in `sys-61-brakes.md`.
 
 ### Wheel Bearings
 
-Repack main wheel bearings with Aeroshell #5 grease at annual condition
-inspection.
+Repack main wheel bearings with Aeroshell #5 grease at annual condition inspection.
 
 ## Propeller Service
 
-The propeller must be lubricated at intervals not to exceed 100 hours or
-12 calendar months, whichever occurs first.
+The Whirlwind WWA-RV10 is a **sealed propeller** — no field lubrication required. Inspect leading edges for nicks/erosion, hub for oil weeps, and spinner attachment at each preflight and condition inspection.
 
-| Specification | Value |
-|---------------|-------|
-| Grease Type | <!-- TODO: Verify grease spec --> |
-| Interval | 100 hours / 12 months |
+A 5-year manufacturer maintenance clock started at first engine run on **2025-11-18**; next major prop maintenance event due **2030-11-18**.
 
-**Note**: If annual operation is significantly less than 100 hours, or if
-operated in high humidity or salty air conditions, reduce calendar interval
-to six months.
+> Detailed reference: [sys-84-propeller.md](./sys-84-propeller.md)
 
 ## Oil System Service
 
@@ -189,15 +179,8 @@ The two charging systems are fully isolated. **Do not charge with non-LiFePO4 ch
 |------|-----------|----------|
 | Wheel Bearings | Aeroshell #5 | Annual |
 | Control Hinges | LPS-2 or equivalent | As needed |
-| Nose Wheel Steering | <!-- TODO --> | Annual |
-| Propeller | <!-- See propeller section --> | 100 hrs/12 mo |
+| Propeller | None (Whirlwind sealed) | N/A |
 
-## Tire Replacement
-
-| Tire | Size | Ply |
-|------|------|-----|
-| Main | <!-- TODO --> | |
-| Nose | <!-- TODO --> | |
 
 ## Oxygen System Service
 

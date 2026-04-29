@@ -12,6 +12,7 @@ For aircraft systems descriptions see Section 8. For systems-reference detail be
 |-----------|-------|
 | Wing Span | 32' 9" |
 | Length | 25' |
+| Height | 8' 8" |
 | Wing Area | 147 sq. ft. |
 | Wing Airfoil | Custom (coordinates in `docs/rv10-airfoil-coordinates.txt`) |
 

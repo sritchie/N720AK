@@ -141,5 +141,5 @@ Use this template for actual flights. CG = Total Moment ÷ Total Weight.
 
 ## Source Documents
 
-- Authoritative W&B sheet: `Public/Weight-Balance/N720AK_WB_11_18_2025.pdf` on Google Drive (2025-11-18 weighing)
-- ForeFlight aircraft profile: TODO — export an N720AK profile so guest pilots can compute W&B in ForeFlight
+- Authoritative W&B sheet: `Public/Weight-Balance/N720AK_WB_11_18_2025.pdf` on Google Drive (2025-11-18 weighing).
+- A ForeFlight-compatible aircraft profile export is planned so that guest pilots can compute W&B for N720AK in ForeFlight.

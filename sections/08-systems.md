@@ -286,19 +286,18 @@ Controlled via:
 
 ## Control Sticks
 
-Both pilot and co-pilot have Tosten CS Military stick grips with identical
-button functions:
-
-<!-- TODO: Add stick grip photo with button callouts -->
+Both pilot and co-pilot have Tosten CS Military stick grips with identical button functions:
 
 | Button | Function |
 |--------|----------|
 | Trigger | Push-to-talk (PTT) |
-| Top hat | Pitch/roll trim |
-| <!-- --> | Flap up |
-| <!-- --> | Flap down |
-| Red button | Autopilot disconnect |
-| <!-- --> | <!-- TODO: Document all buttons --> |
+| Thumb button | Autopilot disconnect (press) / Control wheel steering (hold) |
+| Hat switch (top) | Aileron and pitch electric trim |
+| Up/down toggle | Up: COM1 standby↔active swap. Down: COM2 standby↔active swap |
+| Big red button (left) | COM1/COM2 flip-flop |
+| Small flush button (front, below trigger) | Not wired |
+
+The flap switch is panel-mounted (one tap down: 0° → 16°; second tap: 16° → 33°; one tap up retracts fully). Flaps will not deploy above 90 KIAS (speed inhibit).
 
 > **Detailed reference:** [Flight Controls (ATA 27)](./sys-27-flight-controls.md) | [Avionics & Wiring (ATA 42)](./sys-42-avionics.md)
 
