@@ -13,6 +13,7 @@ Use when the user says they've downloaded new configs, pulled configs from a Dyn
 
 - SN10980 = HDX800 (pilot side)
 - SN11668 = HDX1100 (copilot side)
+- SN11672 = third display (model/position unconfirmed — appeared in the 2026-07-27 SkyView 17.5 upgrade's settings_archive backups)
 - `.sfg` = SENSOR_CONFIG (sensor definitions, transfer functions, min/max)
 - `.dfg` = USER_CONFIG (display ranges, color bands, alarms, widget layout)
 
