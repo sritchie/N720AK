@@ -11,9 +11,11 @@ Use when the user says they've downloaded new configs, pulled configs from a Dyn
 
 `YYYY-MM-DD-N720AK-SN{serial}-{version}-{TYPE}.{ext}`
 
-- SN10980 = HDX800 (pilot side)
-- SN11668 = HDX1100 (copilot side)
-- SN11672 = third display (model/position unconfirmed — appeared in the 2026-07-27 SkyView 17.5 upgrade's settings_archive backups)
+- SN11668 = HDX1100 (pilot PFD)
+- SN11672 = HDX1100 (copilot PFD)
+- SN10980 = HDX800 (center MFD)
+
+Serial-to-position mapping confirmed from the 2025-11-18 avionics-log install entry.
 - `.sfg` = SENSOR_CONFIG (sensor definitions, transfer functions, min/max)
 - `.dfg` = USER_CONFIG (display ranges, color bands, alarms, widget layout)
 
