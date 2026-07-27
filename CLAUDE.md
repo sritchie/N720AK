@@ -273,6 +273,7 @@ Use the skills: `maintenance-log` (log entries + proactive follow-up prompts), `
 - **No pending/future work** in logs or squawks — Sam tracks upcoming work in Linear. Only document completed work.
 - **Squawks** are for long-lived discrepancies only, not for items about to be addressed.
 - Log entries should be factual, past-tense descriptions of work performed.
+- **Routine database cycles are not logged.** The 28-day Dynon/GTN nav and obstacle database updates get no avionics-log entries — the displays warn on expiry. Log avionics **software/firmware version changes** only.
 
 ## Construction Plans
 

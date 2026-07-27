@@ -57,6 +57,7 @@ $ARGUMENTS
 - **No pending/future work** in logs — only completed work. Upcoming work is tracked in Linear.
 - Log entries should be factual, past-tense descriptions of work performed.
 - **Work Type** values: `Maintenance`, `Inspection`, `Repair`, `Modification`, `Overhaul`
+- **Routine database cycles are not logged.** The 28-day Dynon/GTN nav and obstacle database updates get no avionics-log entries — the displays warn on expiry. Log avionics **software/firmware version changes** only.
 
 ## Important
 
