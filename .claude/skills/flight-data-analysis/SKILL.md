@@ -15,13 +15,7 @@ $ARGUMENTS
 
 ## Context
 
-Read `CLAUDE.md` sections on:
-- "Dynon Fuel Pressure: DIFF vs Gauge Modes"
-- "Dynon MAP Sensor Details"
-- "Flight Data CSV Formats"
-- "Key Fuel System Findings"
-
-These contain critical details about how N720AK's sensors work, the DIFF computation, known thresholds, and current pump/regulator configuration.
+Read `reference.md` in this skill directory. It contains the critical details about how N720AK's sensors work, the DIFF computation, known thresholds, current pump/regulator configuration, and the Dynon/Garmin CSV formats.
 
 ## Step 1: Identify the Data
 

@@ -50,6 +50,14 @@ $ARGUMENTS
    - Condition inspection → "Who signed it off? Any squawks found?"
    - Any engine work → "Did you do a run-up afterward? Any leaks?"
 
+## Conventions
+
+- **Performed By**: Always `Sam Ritchie (Repairman 5256450)` unless otherwise specified
+- **No external references** in log entries — no URLs, no "see VAF post", no manual page citations. References belong in sys-* pages only.
+- **No pending/future work** in logs — only completed work. Upcoming work is tracked in Linear.
+- Log entries should be factual, past-tense descriptions of work performed.
+- **Work Type** values: `Maintenance`, `Inspection`, `Repair`, `Modification`, `Overhaul`
+
 ## Important
 
 - The user may dictate casually — extract structured data from conversational input

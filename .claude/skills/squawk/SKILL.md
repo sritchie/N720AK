@@ -46,3 +46,8 @@ $ARGUMENTS
    - Set Status to "Cleared"
    - Fill in Corrective Action, Cleared By, Date Cleared
    - Also create a maintenance log entry via the maintenance-log workflow
+
+## Conventions
+
+- Squawks are for **long-lived discrepancies only** — not items about to be addressed, and never pending/future work (that's tracked in Linear).
+- No external references in squawk entries — references belong in sys-* pages.
