@@ -21,52 +21,13 @@ Linear is used **only as a task manager** for pending work items. It is NOT a co
 
 ### Linear API
 
-Use the Linear GraphQL API via Python. The CLI (`npx @linear/cli`) requires interactive auth and doesn't work in non-TTY shells.
-
-**RV team ID**: `363699f6-bb3c-4d72-8bd1-a79aabbbef7c`
-
-```python
-import urllib.request, json
-
-def linear_api(query, variables=None):
-    payload = {"query": query}
-    if variables: payload["variables"] = variables
-    data = json.dumps(payload).encode()
-    req = urllib.request.Request('https://api.linear.app/graphql', data=data, headers={
-        'Content-Type': 'application/json',
-        'Authorization': '<API_KEY>'  # Ask user for key if not available
-    })
-    return json.loads(urllib.request.urlopen(req).read())
-
-# Create a triage issue (no project)
-linear_api("""
-mutation($input: IssueCreateInput!) {
-  issueCreate(input: $input) {
-    success
-    issue { identifier url }
-  }
-}
-""", {"input": {"teamId": "363699f6-bb3c-4d72-8bd1-a79aabbbef7c", "title": "...", "description": "..."}})
-```
-
-**First-time setup**: The CLI requires an API key on first run (interactive prompt). Once authenticated, the key is stored locally.
+Use the `linear` skill — it has the GraphQL-via-Python mechanics, the RV team ID, and the known close-by-UUID quirk.
 
 ## Checklist Synchronization
 
 **Canonical checklist source**: https://rdamazio.github.io/efis-editor/checklists#N720AK
 
-The workflow:
-1. Edit checklists at the EFIS Editor URL above
-2. Export JSON and save as `N720AK.json` in this repo
-3. Run `python3 json_to_markdown.py N720AK.json` to generate `04-emergency.md`, `04b-abnormal.md`, `05-normal.md`
-4. Export from EFIS Editor to Dynon (.txt) and ForeFlight (.fmd) as needed
-5. Commit and push - GitHub Pages deploys automatically
-
-This keeps checklists synchronized across:
-- Dynon Skyview HDX (in-cockpit EFIS)
-- ForeFlight (EFB)
-- POH PDF (paper backup)
-- POH HTML (web reference)
+Sections 04/04b/05 are **generated** from `N720AK.json` — edit via the EFIS Editor, never the markdown. Use the `checklist-update` skill for the full sync workflow (JSON export, regeneration, Dynon/ForeFlight export).
 
 ## Build Commands
 
@@ -84,85 +45,7 @@ This keeps checklists synchronized across:
 ./build.sh all
 ```
 
-### Prerequisites
-
-```bash
-# macOS
-brew install pandoc typst mdbook
-
-# Or install individually:
-# Pandoc: https://pandoc.org/installing.html
-# Typst: https://github.com/typst/typst/releases
-# mdBook: https://rust-lang.github.io/mdBook/guide/installation.html
-```
-
-## Directory Structure
-
-```
-rv10/
-├── CLAUDE.md              # This file
-├── README.md              # Build instructions
-├── book.toml              # mdBook configuration
-├── metadata.yaml          # PDF title, author, revision
-├── template.typ           # Typst template for PDF styling
-├── build.sh               # Build script (pdf/html/serve)
-├── json_to_markdown.py    # Converts checklist JSON to markdown
-├── N720AK.json            # Canonical checklist (from EFIS Editor)
-├── sections/
-│   ├── SUMMARY.md         # mdBook table of contents
-│   ├── 00-introduction.md
-│   ├── 01-general.md      # General info, specs, dimensions
-│   ├── 02-limitations.md  # Operating limits, V-speeds, placards
-│   ├── 03-engine-info.md  # Engine performance charts
-│   ├── 04-emergency.md    # [GENERATED] Emergency procedures
-│   ├── 04b-abnormal.md    # [GENERATED] Abnormal procedures
-│   ├── 05-normal.md       # [GENERATED] Normal procedures
-│   ├── 06-performance.md  # Performance charts
-│   ├── 07-weight-balance.md
-│   ├── 08-systems.md      # Aircraft systems descriptions
-│   ├── 09-servicing.md    # Handling, servicing, maintenance
-│   ├── sys-22-autopilot.md      # Systems Reference: Dynon 3-axis AP
-│   ├── sys-23-communications.md # Systems Reference: GMA 245, audio, intercom
-│   ├── sys-24-electrical.md     # Systems Reference: buses, VPX, batteries
-│   ├── sys-27-flight-controls.md # Systems Reference: stick grip, trim, flaps
-│   ├── sys-28-fuel-system.md    # Systems Reference: complete fuel system
-│   ├── sys-33-lighting.md       # Systems Reference: AeroLEDs, wingtip lights
-│   ├── sys-34-navigation.md     # Systems Reference: Dynon, GTN 650, pitot-static
-│   ├── sys-34-onspeed.md        # Systems Reference: OnSpeed AoA system
-│   ├── sys-35-oxygen.md         # Systems Reference: Mountain High O2
-│   ├── sys-42-avionics.md       # Systems Reference: wiring, panel, interconnects
-│   ├── sys-61-brakes.md         # Systems Reference: brakes, wheels, tires
-│   ├── sys-71-engine.md         # Systems Reference: Lycoming mechanical
-│   ├── sys-73-efii.md           # Systems Reference: EFII System32 EFI/ignition
-│   └── sys-84-propeller.md      # Systems Reference: prop and governor
-├── docs/                  # Small custom diagrams only (no manufacturer PDFs)
-│   ├── README.md          # Documents Google Drive approach
-│   └── gdrive-links.md   # URL registry: files → Google Drive shareable links
-├── images/                # Aircraft photos, diagrams
-├── maintenance/
-│   └── fuel-system/
-│       └── flight-logs/   # Archived analysis results
-├── scripts/               # Analysis scripts (regulator diagnostic, etc.)
-├── plans/                 # Maintenance and diagnostic plans
-└── output/
-    ├── poh.pdf            # Generated PDF
-    └── html/              # Generated HTML site
-```
-
-## POH Sections (GAMA Spec No. 1)
-
-| Section | File | Content |
-|---------|------|---------|
-| 1 | `01-general.md` | Aircraft description, dimensions, specifications |
-| 2 | `02-limitations.md` | V-speeds, engine limits, weight/CG limits, placards |
-| 3 | `03-engine-info.md` | Engine performance charts |
-| 4 | `04-emergency.md` | Emergency procedures (generated from JSON) |
-| 4b | `04b-abnormal.md` | Abnormal procedures (generated from JSON) |
-| 5 | `05-normal.md` | Normal procedures (generated from JSON) |
-| 6 | `06-performance.md` | Takeoff, climb, cruise, landing performance |
-| 7 | `07-weight-balance.md` | Empty weight, CG envelope, loading |
-| 8 | `08-systems.md` | All aircraft systems descriptions |
-| 9 | `09-servicing.md` | Ground handling, servicing, maintenance |
+Build prerequisites are in `README.md`. Section-to-file mapping is in `sections/SUMMARY.md`.
 
 ## Aircraft Configuration - N720AK
 
@@ -305,65 +188,11 @@ plans/
                                # Includes baseline targets, how to run, what to look for
 ```
 
-### Key Fuel System Findings (as of 2026-04)
+### Fuel System Quick Facts
 
-- **Setpoint is now 45 PSI** (DIFF mode on Dynon EMS) following the **Borla 203133 regulator** swap on 2026-03-17. The Borla replaced the Aeromotive Compact EFI regulator.
-- The Borla holds much better than the Aeromotive on the same Walbro 391 pumps:
-  - Aeromotive @ 45 PSI ground run: MAP slope = **−0.295 PSI/inHg** (2.8 PSI idle-to-cruise droop)
-  - Borla @ 45 PSI ground run: MAP slope = **−0.089 PSI/inHg** (0.9 PSI droop) — **3× improvement**
-  - Reference N88810 Borla + Walbro 392: **−0.014 PSI/inHg** (essentially flat)
-- **Sticking with Walbro 391 pumps.** The 392 upgrade is no longer planned — the Borla solved enough of the regulation problem that the pump upgrade isn't worth pursuing now.
-- **In-flight health criterion:** fuel pressure should not budge meaningfully from 45 PSI in any flight regime. >1 PSI variation under load warrants investigation.
-- Auto-cutover trip point (Bus Manager Pump 1 → Pump 2): **22 PSI Borla output absolute** (the pump-side sense). Because the Dynon displays the injector differential (Borla output − MAP), the on-screen DIFF value at the moment of trip varies with MAP — e.g. at 10 inHg MAP the Dynon would read ~12 PSI DIFF.
-- Full details: `sections/sys-28-fuel-system.md`
-
-### Dynon Fuel Pressure: DIFF vs Gauge Modes
-
-N720AK runs the Dynon fuel pressure in **differential (DIFF) mode** as of 2026-02:
-- **DIFF mode** (current): Dynon computes `P_fuel_absolute - MAP` = injector differential
-  - The raw sensor reads gauge (P_fuel - P_atm)
-  - Dynon adds atmospheric back to get absolute, then subtracts MAP
-  - This is the quantity that matters for fuel injection — pressure across the injectors
-  - **Depends on a valid MAP reading** — if MAP blanks, FP blanks too
-- **Gauge mode** (old, pre-2026-02): Dynon logs the raw sensor reading = P_fuel - P_atm
-  - To compute injector differential from gauge data: `inj_diff = gauge_FP + (P_atm - MAP) * 0.49115`
-  - Where P_atm is from standard atmosphere: `P_atm_inHg = 29.92 * (1 - alt_ft / 145442)^5.25588`
-  - On the ground with engine off, gauge FP = diff FP (because MAP = P_atm, so the delta is zero)
-
-**The core diagnostic quantity is always injector differential vs MAP.** A perfect regulator holds flat. Sag = pump can't keep up.
-
-### Dynon MAP Sensor Details
-
-- **Active sensor**: `100434-000 (-0.5)` on pin `C37_P26`
-- **Transfer function**: `PSI = 5.7030 * V + 1.1406` (linear)
-- **min_val = 1.5 PSI (= 3.05 inHg)** — values below this are blanked
-  - Dead short (0V) reads 1.141 PSI = 2.32 inHg
-  - Previously 2 PSI (4.07 inHg); lowered 2026-03-17 to prevent blanking at high altitude idle with CS prop
-  - Change approved by Don Jones, Dynon Customer Support (Zendesk #186497, 2026-03-16)
-- **Config files**: `GDrive: N720AK/Public/Configs/Dynon/`
-  - `.sfg` (SENSOR_CONFIG) = sensor definitions, transfer functions, min/max
-  - `.dfg` (USER_CONFIG) = display ranges, color bands, alarm settings
-  - Active MAP display: `c37_p26` in the `.dfg`, `min_display=0`, `max_display=19.6439` PSI (= 0-40 inHg)
-
-### Flight Data CSV Formats
-
-**Dynon SkyView** (`*USER_LOG_DATA.csv`):
-- 4 Hz sample rate, comma-separated, single header row
-- Key columns: `Session Time`, `GPS Date & Time`, `Manifold Pressure (inHg)`, `Fuel Pressure (PSI)`, `FUEL PRESSURE (PSI)`, `RPM L`, `Pressure Altitude (ft)`, `Total Fuel Flow (gal/hr)`, `Barometer Setting (inHg)`, CHTs, EGTs
-- `Fuel Pressure (PSI)` and `FUEL PRESSURE (PSI)` are identical in current config
-- In DIFF mode, both columns contain the computed differential (P_fuel_abs - MAP)
-- In gauge mode (old data), both contain raw gauge pressure
-- Blank cells (empty string) = sensor reported invalid/out-of-range — NOT zero
-- May contain multiple flights; segment by RPM > 0 transitions
-- GPS timestamps are UTC; `Session Time` is seconds from power-on
-
-**Garmin GDU 460** (`log_YYYYMMDD_HHMMSS_XXX.csv`):
-- 1 Hz sample rate, comma-separated, 3 header rows (info, long names, short names)
-- Data starts at row 4
-- Key columns: `Manifold Press (inch Hg)`, `Fuel Press (PSI)`, `RPM`, `Pressure Altitude (ft)`, `Fuel Flow (gal/hour)`, `Baro Setting (inch Hg)`
-- Fuel pressure is always **gauge** (relative to atmosphere) — must compute injector diff
-- Has `Fl Pmp 1 Amps` / `Fl Pmp 2 Amps` columns for pump current monitoring
-- Has `FUEL PP 2 ON (discrete)` for pump switchover detection
+- Fuel pressure setpoint: **45 PSI** (Dynon DIFF mode) on the **Borla 203133** regulator (installed 2026-03-17). **>1 PSI variation from 45 under load warrants investigation.**
+- Auto-cutover trip (Bus Manager Pump 1 → Pump 2): 22 PSI absolute at the pump-side sense.
+- Full system details: `sections/sys-28-fuel-system.md`. Sensor details, DIFF vs gauge math, and CSV formats: `.claude/skills/flight-data-analysis/reference.md` (loaded by the `flight-data-analysis` skill).
 
 ## Weight & Balance for ForeFlight
 
@@ -412,20 +241,7 @@ The squash commit title should be the PR title, and the body should be the PR de
 
 ## Systems Reference TODOs
 
-The Systems Reference pages (`sections/sys-*.md`) contain `<!-- TODO -->` markers and structured TODO checklists at the bottom of each file. These represent information that needs to come from the owner (part numbers, photos, procedures, measurements, supplier info, etc.).
-
-**When the user asks about TODOs, or asks to work on a system page, or says something like "let's fill in some details":**
-
-1. Read the TODO section at the bottom of the relevant `sys-*.md` file
-2. **Interview the user** — pick 3-5 related TODOs and ask about them using AskUserQuestion or conversationally. Group related questions (e.g., all filter-related items together, all fuel line items together).
-3. After getting answers, update the system page immediately — fill in the TODO markers with real data
-4. Then pick the next batch and continue
-
-**Do not** dump the entire TODO list at the user. Work through it in focused batches, organized by topic. The user is a pilot/builder and knows this aircraft — they just need to be prompted for specific details.
-
-**When the user provides photos**, save them to `images/` and reference them from the system page.
-
-**When the user provides PDFs**, save them to the appropriate Google Drive `Public/Manuals/{ATA}/` folder, get the shareable URL, add it to `docs/gdrive-links.md`, and link from the system page's References section.
+The `sys-*.md` pages contain `<!-- TODO -->` markers and TODO checklists for owner-supplied details. When the user wants to fill in details or work on a system page, use the `sys-reference` skill — it has the batch-interview workflow (3-5 related TODOs at a time, never the whole list) and the photo/PDF filing rules.
 
 ## Maintenance Logs (Digital)
 
@@ -446,21 +262,9 @@ N720AK maintains digital maintenance logs as TSV files in Google Drive, synced l
 | `ad-sb-compliance.tsv` | AD, SB, Service Bulletin compliance tracking |
 | `oil-analysis.tsv` | Blackstone Labs oil analysis results (wear metal trends) |
 
-### How to Add Maintenance Log Entries
+### Workflows
 
-When the user reports maintenance work (verbally, by dictation, or in chat), Claude should:
-
-1. **Determine the correct log** — engine, airframe, propeller, or avionics
-2. **Read the current log file** to see existing entries and the TSV structure
-3. **Ask for missing fields** if the user didn't provide them. Key fields to prompt for:
-   - Date (default: today)
-   - Tach and/or Hobbs reading
-   - What was done (description)
-   - Parts used (part numbers if known)
-   - Who did the work
-4. **Append a new row** to the appropriate TSV file using the Edit tool
-5. **Update `recurring-items.tsv`** if the work satisfies a recurring item (update Last Done Date and Last Done Tach/Hobbs)
-6. **Proactively suggest** related items that might be due soon (e.g., "Since you changed the oil, did you also send a sample to Blackstone?")
+Use the skills: `maintenance-log` (log entries + proactive follow-up prompts), `squawk` (discrepancies), `oil-analysis` (Blackstone results), `ad-sb` (AD/SB compliance tracking and review), `condition-inspection` (annual inspection). Recurring intervals and last-done dates live in `recurring-items.tsv` — always check it, never assume.
 
 ### Maintenance Log Conventions
 
@@ -470,115 +274,13 @@ When the user reports maintenance work (verbally, by dictation, or in chat), Cla
 - **Squawks** are for long-lived discrepancies only, not for items about to be addressed.
 - Log entries should be factual, past-tense descriptions of work performed.
 
-### How to Add Squawks
+## Construction Plans
 
-When the user reports a problem or discrepancy:
+Van's RV-10 construction plans (121 PDFs) are indexed in `docs/construction-plans-index.md`, with visually transcribed text in `docs/plans-text/`. Use the `construction-plans` skill for the search workflow and the N720AK build-deviation caveats.
 
-1. **Read `squawks.tsv`** to check for existing related squawks
-2. **Add a new row** with: date, reporter, tach/hobbs, priority, category (Engine/Airframe/Prop/Avionics), description, status=Open
-3. **Suggest a priority level** based on the description:
-   - `Grounding` — aircraft not airworthy
-   - `Before Next Flight` — must fix before flying
-   - `Soon` — fix within next few flights
-   - `Routine` — next maintenance opportunity
-   - `Monitor` — watch and reassess
+## Dynon Configs
 
-### What to Prompt the User About
-
-When the user mentions maintenance work, proactively ask about related items:
-
-**Oil change?** Ask about:
-- Oil analysis sample sent? (→ oil-analysis.tsv when results come back)
-- Filter cut and inspected? Any metal?
-- Sump screen checked?
-- Oil quantity and brand used?
-
-**Condition inspection?** Ask about:
-- Who signed it off? (Repairman cert or A&P name/cert number)
-- Compression results for each cylinder?
-- Any squawks found? (→ squawks.tsv)
-- Transponder/pitot-static due? (check recurring-items.tsv)
-
-**Engine work?** Ask about:
-- Was the engine run up afterward?
-- Any leaks observed?
-- Torque values if applicable?
-
-**Avionics update?** Ask about:
-- Which software version? (from → to)
-- Any settings that changed?
-- Did the update require a config reload?
-
-### Work Type Values
-
-Use consistent values: `Maintenance`, `Inspection`, `Repair`, `Modification`, `Overhaul`
-
-### Category Values (for squawks)
-
-Use: `Engine`, `Airframe`, `Propeller`, `Avionics`, `Electrical`, `Fuel`
-
-### Recurring Items Reference
-
-Key intervals for N720AK:
-
-| Item | Interval | Notes |
-|------|----------|-------|
-| Oil & filter change | 50 hrs / 4 months | Lycoming recommendation |
-| Oil analysis | Every oil change | Blackstone Labs |
-| Spark plug service | 100 hrs | Clean, gap, inspect, rotate |
-| Compression check | Condition inspection | Differential method, all cylinders |
-| Condition inspection | 12 calendar months | Signed by Repairman Cert holder or A&P |
-| Transponder check (91.413) | 24 calendar months | Required |
-| Pitot-static test (91.411) | 24 calendar months | Required for IFR |
-| ELT battery | Per manufacturer | Artex ELT 345 |
-| NOAA beacon registration | 24 months | Beacon ID: 2DC885940EFFBFF |
-| Nav database updates | 28-day cycle | Dynon + GTN 650 |
-
-### AD/SB Compliance
-
-Track compliance with:
-- **FAA Airworthiness Directives** — mandatory for certified components (Lycoming engine, propeller, GTN 650, Artex ELT)
-- **Van's Service Bulletins** — advisory for E-AB, but strongly recommended. Check: vansaircraft.com/service-information-and-revisions/
-- **Lycoming Service Bulletins/Instructions** — advisory for experimentals, best practice to follow
-- **EFII Service Bulletins** — for System32 EFI/ignition
-
-When adding AD/SB entries, record: document type, number, source, subject, applicability, compliance status, date, method, and next due if recurring.
-
-## Construction Plans Index
-
-Van's RV-10 construction plans (121 PDFs) are indexed for search in `docs/`.
-
-**Index file**: `docs/construction-plans-index.md` — section directory, topic cross-reference
-**Extracted text**: `docs/plans-text/*.txt` — one file per PDF, visually transcribed from drawings
-**Source PDFs**: `~/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Archive/Construction-Drawings/`
-
-**Search workflow** when user asks about construction plans, parts, or hardware:
-0. For part number lookups, search `docs/plans-text/manual-section-4-parts-index.txt` first — it has every Van's part number with nomenclature, material, and sub-kit
-1. For operational specs (V-speeds, control surface limits, flap range), search `sections/` POH files first — these are NOT in construction plans
-2. Grep `docs/construction-plans-index.md` for topic keywords — the Topic Cross-Reference maps topics to section numbers, and ⚠️ marks N720AK build deviations
-3. Grep `docs/plans-text/` for part numbers (AN, MS, F-xxxx) or detailed terms
-4. Read the specific PDF page visually if a drawing/figure is needed (use `Read` with `pages` parameter)
-5. **Search VansAirForce.net** — the VAF forums are an invaluable resource for RV-10 construction questions. Many build questions (especially ambiguous plan details, "what are these holes for", fitment issues, and builder tips) have been discussed and answered there. Always consider searching VAF when the plans alone don't give a clear answer.
-
-**Important notes**:
-- `pdftotext` does NOT extract text from these PDFs — the `.txt` files were created by visually transcribing each page. All 54 core sections have `=== PAGE N ===` markers.
-- Construction plans show **assembly**, not disassembly. For removal questions, the answer is typically "reverse of installation."
-- **N720AK deviates from stock plans** in 25+ areas (see Build Deviations table in the index). Always check deviations before answering — the plans show what Van's designed, not necessarily what's installed.
-- AN fastener numbers in the plans cross-reference to modern MS/NAS numbers used by retailers — see `sections/sys-00-workshop.md` "AN/MS/NAS Fastener Cross-Reference" section for the full mapping (AN509→MS24694, AN426→MS20426, AN365→MS21044, etc.).
-
-## Dynon Config Backups
-
-Dynon SkyView config snapshots are stored in Dropbox:
-
-**Path**: `~/Dropbox/N720AK/Dynon Configs/`
-
-**File naming**: `YYYY-MM-DD-N720AK-SN{serial}-{sw_version}-{CONFIG_TYPE}.{ext}`
-
-**Key file types**:
-- `SENSOR_CONFIG.sfg` — sensor definitions (P/Ns, calibration curves, pin assignments)
-- `USER_CONFIG.dfg` — per-aircraft config: EMS page layouts, contact alarm ranges, widget positions, display preferences
-
-**Contact alarm text indicators**: Controlled by `range_name` fields in USER_CONFIG.dfg. Setting `range_name=` (empty string) removes the text overlay while keeping the color indicator. Example: LDOOR/RDOOR have empty range names (no text), while PHEAT has `range1_name=ON` and `range2_name=OFF` (shows text).
+Dynon SkyView config snapshots (.sfg/.dfg) live in GDrive `Public/Configs/Dynon/`. Use the `dynon-config-update` skill for filing new downloads, diffing, and documentation updates.
 
 ## Editing Tips
 

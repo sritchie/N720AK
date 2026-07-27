@@ -16,6 +16,8 @@ Use when the user says they've downloaded new configs, pulled configs from a Dyn
 - `.sfg` = SENSOR_CONFIG (sensor definitions, transfer functions, min/max)
 - `.dfg` = USER_CONFIG (display ranges, color bands, alarms, widget layout)
 
+**Contact alarm text indicators**: controlled by `range_name` fields in USER_CONFIG.dfg. Setting `range_name=` (empty string) removes the text overlay while keeping the color indicator — e.g. LDOOR/RDOOR have empty range names (no text), while PHEAT has `range1_name=ON` and `range2_name=OFF` (shows text).
+
 ## Workflow
 
 ### 1. Identify Downloads
