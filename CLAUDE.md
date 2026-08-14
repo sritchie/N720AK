@@ -31,85 +31,11 @@ Sections 04/04b/05 are **generated** from `N720AK.json` — edit via the EFIS Ed
 
 ## Build Commands
 
-```bash
-# Build PDF (requires pandoc + typst)
-./build.sh pdf
-
-# Build HTML site (requires mdbook)
-./build.sh html
-
-# Start dev server with live reload
-./build.sh serve
-
-# Build both PDF and HTML
-./build.sh all
-```
-
-Build prerequisites are in `README.md`. Section-to-file mapping is in `sections/SUMMARY.md`.
+`./build.sh <pdf|html|serve|all>` — prerequisites in `README.md`, section-to-file mapping in `sections/SUMMARY.md`.
 
 ## Aircraft Configuration - N720AK
 
-### Avionics
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| Audio Panel | Garmin GMA245 | |
-| Nav/GPS | Garmin GTN 650 | Certified IFR, single nav antenna (Bob Archer) |
-| EFIS | Dynon Skyview HDX | Primary flight display |
-| Autopilot | Dynon 3-axis | Roll servo, pitch servo, yaw damper |
-| Panels | Dynon | Comm panel, autopilot panel, knob panels |
-| ELT | Artex ELT 345 | 406 MHz |
-
-### Power Management
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| Bus Manager | flyEFII System32 | Controls full system vs emergency endurance bus |
-| Electronic Breakers | VPX Sport | Power distribution and protection |
-| Battery 1 | EarthX ETX900 | |
-| Battery 2 | EarthX ETX900 | |
-| Alternator | 60 amp | Single alternator |
-
-**Emergency Endurance Bus**: The System32 Bus Manager automatically switches to the endurance bus if a battery fails, shedding non-essential loads to preserve power for critical systems.
-
-### Engine
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| Ignition | EFII System32 | Full electronic ignition |
-| Fuel Injection | EFII System32 | Electronic fuel injection |
-| Fuel Pumps | Primary + Backup | Pressurize fuel line with return to each tank |
-
-### Oxygen
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| O2 System | Mountain High EDS-4iP | Pulse on demand |
-| Mode Switch | Panel mounted | Toggles pulse-on-demand ↔ constant flow |
-
-### Flight Controls
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| Stick Grip | Tosten CS Military | Document button layout with photo |
-| Co-pilot Trim | Panel switch | Enable/disable co-pilot trim |
-
-### Pitot-Static
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| Pitot Tube | Dynon heated | Includes AoA probe |
-| Alternate Static | Panel valve | Top left of panel |
-
-### Other Systems
-
-| System | Component | Notes |
-|--------|-----------|-------|
-| Door Lock | Cam mechanism | Locking mechanism |
-| Brake Fluid | Royco 782 | MIL-PRF-83282 hydraulic fluid |
-| Wing Lights | AeroSun VX | LED position/strobe in wingtips |
-| Nav Antenna | Bob Archer | For GTN 650 |
-| Wingtips | Piano hinge mod | Removable for maintenance |
+The full system inventory and operational descriptions live in `sections/08-systems.md` (pilot-facing) and the `sys-*.md` pages (build/technical reference) — read those rather than expecting a summary here. Servicing specs (fluids, tire pressures, intervals) are in `sections/09-servicing.md`.
 
 ## What Goes Where: POH vs Systems Reference
 
@@ -165,28 +91,7 @@ After adding a file to `Public/`, extract the file ID with `xattr`, add it to `d
 
 ### Analysis Scripts
 
-Always use `uv` to run Python scripts (handles dependencies automatically).
-
-```
-scripts/
-├── regulator_diagnostic.py        # Fuel pressure regulator diagnostic
-│                                  # Auto-detects Dynon/Garmin CSV format
-│                                  # Computes: delta σ, MAP slope, FF slope, residual σ
-│                                  # Generates 4-panel diagnostic plot
-│                                  # Supports altitude correction (--alt-correct)
-│                                  # and correction fraction scan (--alt-scan)
-└── migrate_dropbox_to_gdrive.py   # One-time migration: Dropbox → Google Drive
-```
-
-Run with: `uv run --with numpy --with matplotlib python3 scripts/regulator_diagnostic.py /path/to/log.csv`
-
-### Plans
-
-```
-plans/
-└── regulator-diagnostic.md    # Workflow for analyzing regulator health
-                               # Includes baseline targets, how to run, what to look for
-```
+Always use `uv` to run Python scripts (handles dependencies automatically), e.g. `uv run --with numpy --with matplotlib python3 scripts/regulator_diagnostic.py /path/to/log.csv`. Each script's header documents its flags; `plans/` holds the matching analysis workflows.
 
 ### Fuel System Quick Facts
 
@@ -194,24 +99,9 @@ plans/
 - Auto-cutover trip (Bus Manager Pump 1 → Pump 2): 22 PSI absolute at the pump-side sense.
 - Full system details: `sections/sys-28-fuel-system.md`. Sensor details, DIFF vs gauge math, and CSV formats: `.claude/skills/flight-data-analysis/reference.md` (loaded by the `flight-data-analysis` skill).
 
-## Weight & Balance for ForeFlight
-
-To share W&B with other pilots, create a ForeFlight-compatible aircraft profile export that includes:
-- Empty weight and CG
-- Fuel tank arm(s)
-- Seat arm locations
-- Baggage arm locations
-- CG envelope limits
-
-This allows guest pilots to do accurate W&B in ForeFlight before flying N720AK.
-
 ## Deployment
 
-On push to `main`, GitHub Actions:
-1. Builds HTML with mdBook
-2. Deploys to GitHub Pages
-
-Target domain: **n720ak.com** (configure in GitHub Pages settings)
+Push to `main` auto-deploys the mdBook HTML to GitHub Pages (target domain: **n720ak.com**).
 
 ## Git Workflow
 
@@ -245,22 +135,7 @@ The `sys-*.md` pages contain `<!-- TODO -->` markers and TODO checklists for own
 
 ## Maintenance Logs (Digital)
 
-N720AK maintains digital maintenance logs as TSV files in Google Drive, synced locally. These supplement (not replace) the paper logbooks — paper is still needed for condition inspection sign-offs and regulatory signatures.
-
-**Local path**: `~/Library/CloudStorage/GoogleDrive-sritchie09@gmail.com/My Drive/N720AK/Private/Maintenance/`
-
-### Log Files
-
-| File | Purpose |
-|------|---------|
-| `engine-log.tsv` | Engine work: oil changes, filters, plugs, compression, accessories |
-| `airframe-log.tsv` | Airframe: condition inspections, structural, gear, controls |
-| `propeller-log.tsv` | Prop and governor: torque, balancing, seal/grease |
-| `avionics-log.tsv` | Avionics: software/database updates, wiring, antenna work |
-| `squawks.tsv` | Discrepancy tracking: open items through resolution |
-| `recurring-items.tsv` | Recurring task schedule with intervals and last-done dates |
-| `ad-sb-compliance.tsv` | AD, SB, Service Bulletin compliance tracking |
-| `oil-analysis.tsv` | Blackstone Labs oil analysis results (wear metal trends) |
+N720AK maintains digital maintenance logs as TSV files in GDrive `Private/Maintenance/`, synced locally. These supplement (not replace) the paper logbooks — paper is still needed for condition inspection sign-offs and regulatory signatures. The maintenance skills know the file inventory and local path.
 
 ### Workflows
 
