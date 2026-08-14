@@ -46,10 +46,10 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 | System | Version | As Of | Update Source |
 |--------|---------|-------|--------------|
-| Dynon Skyview HDX | 17.4 | 2026-03-06 | [Dynon HDX Software Updates](https://dynonavionics.com/skyview-hdx-software-updates.php) |
+| Dynon Skyview HDX | 17.6 | 2026-08-13 | [Dynon HDX Software Updates](https://dynonavionics.com/skyview-hdx-software-updates.php) |
 | Garmin GTN 650 | Main SW 6.73 | 2026-03-06 | [Garmin GTN Software](https://support.garmin.com/en-US/?faq=fdn7mK3h6J5kjMy8F7RYR8) |
 | flyEFII System32 | Version 86, Build 001 | 2026-03-06 | flyEFII |
-| Dynon aviation database | Cycle 2602 (Feb 19 – Mar 18) | 2026-03-06 | [Dynon US Aviation Data](https://dynonavionics.com/us-aviation-obstacle-data.php) |
+| Dynon aviation database | Current cycle | 2026-08-13 | [Dynon US Aviation Data](https://dynonavionics.com/us-aviation-obstacle-data.php) |
 | Seattle Avionics ChartData | Current (all 50 states) | 2026-03-06 | [Seattle Avionics](https://www.seattleavionics.com/ChartData/Default.aspx?TargetDevice=Dynon) |
 
 ## Panel Layout
