@@ -86,23 +86,37 @@ The GTN 650 provides:
 
 The pitot tube incorporates a second orifice angled to measure differential pressure for Angle of Attack (AoA) display on the EFIS. Pitot heat is activated by the PITOT HEAT switch.
 
-### Air Data Is a Single Point of Failure
+### The Pitot/AoA Probe Is the Single Point of Failure
 
-**The redundancy in this airplane is in the computers, not in the air.** One Dynon heated probe under the left wing feeds everything that depends on air data, through three lines from the quick-disconnect air kit — pitot (green), static (white), AoA (blue):
+**The redundancy is in the computers, not in the probe.** Static is well covered; pitot and AoA are not covered at all.
 
-| Data | Redundancy | Caught by the ADAHRS cross-check? |
-|------|-----------|-----------------------------------|
-| Attitude (pitch/roll) | **Dual** — sensors internal to each ADAHRS | Yes |
-| Magnetic heading | **Dual** — magnetometer in each ADAHRS | Yes |
-| Airspeed | **None** — single pitot port | **No** |
-| Altitude / VSI | Alternate static valve (upper left panel) | Partially |
-| AoA — Dynon *and* OnSpeed | **None** — same probe, same ports | **No** |
+| Data | Source and redundancy | Caught by the ADAHRS cross-check? |
+|------|----------------------|-----------------------------------|
+| Magnetic heading | **Dual** — magnetometer inside each ADAHRS | Yes |
+| Altitude / VSI | **Good** — two fuselage static ports plumbed together, plus the alternate static valve. One blocked port still leaves the other. | Partially |
+| Attitude (pitch/roll) | Dual MEMS sensors, **but the solution consumes airspeed**, and airspeed is common to both units. GPS is the declared fallback. | **No** — a shared-source failure |
+| **Airspeed** | **None** — one pitot port on one probe | **No** |
+| **AoA — Dynon *and* OnSpeed** | **None** — same probe, same ports | **No** |
 
-Two consequences worth understanding:
+The Dynon AoA/Pitot probe carries **pitot and AoA ports only, no static port** — static comes from the two aft-fuselage ports independently. So the exposure is precisely the pitot/AoA probe under the left wing, and altitude and VSI survive its loss.
+
+Three consequences worth understanding:
 
 1. **A pitot blockage produces agreeing wrong data.** Both SV-ADAHRS units breathe through the same probe, so a blocked or iced pitot gives them identical bad airspeed. They agree, so no `ADAHRS CROSS CHK ERROR` is raised. The cross-check protects against a *unit* failing, not against a *shared source* being wrong — which is the more likely failure.
 
-2. **AoA is not a backup for unreliable airspeed, and stall warning goes with it.** OnSpeed uses the Dynon probe rather than independent sensors, so a pitot blockage takes airspeed, Dynon AoA, and OnSpeed simultaneously. Dynon stall warning is AoA-derived, so it goes too. That leaves pitch attitude, power setting, and **GPS groundspeed** — the only air-data-independent speed reference on board — with no low-speed protection.
+2. **AoA is not a backup for unreliable airspeed, and stall warning goes with it.** OnSpeed uses the Dynon probe rather than independent sensors, so a pitot blockage takes airspeed, Dynon AoA, and OnSpeed simultaneously. Dynon stall warning is AoA-derived, so it goes too.
+
+3. **The attitude solution itself depends on airspeed.** The SkyView installation guide is explicit: *"SkyView's attitude calculation requires airspeed from pitot and static. A GPS source can be used as a backup if the pitot and/or static source fails, but should not be the primary source."* So dual ADAHRS does **not** make attitude immune to a probe blockage — what protects attitude is **GPS**, not the second ADAHRS.
+
+What remains after a pitot blockage: **attitude on GPS backup, altitude and VSI on the independent static system, pitch attitude, power setting, and GPS groundspeed** — with no low-speed protection.
+
+Dynon's own guidance assumes shared air lines: the install guide says to *"consider 'teeing' off of existing lines."* Each module does have its own 1/8" NPT AoA/pitot/static ports, so a genuinely independent second air source is physically possible with a second probe — but Dynon neither describes nor recommends it, and a single pitot is the norm across certified light IFR aircraft.
+
+<!-- TODO: Unreliable-airspeed pitch/power reference table from the bootstrap performance data, and a matching Section 4 checklist (Section 4 is generated from N720AK.json — must be added in the EFIS Editor, not the markdown). -->
+<!-- TODO: Confirm how the GPS fallback for the attitude solution is configured and whether it annunciates when it engages. -->
+<!-- TODO: Confirm whether both SV-ADAHRS units tee off shared pitot/AoA lines or have separate runs from the probe. Either way the probe is common. -->
+
+> Cross-reference: [OnSpeed AoA](./sys-34-onspeed.md) for the shared-probe detail.
 
 Static blockage is the mitigated case: use the alternate static valve. Pitot blockage has no mitigation but pitot heat and preflight discipline.
 

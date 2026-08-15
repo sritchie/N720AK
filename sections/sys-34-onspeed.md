@@ -6,9 +6,9 @@
 
 The **OnSpeed** system is an audio angle-of-attack (AoA) indicator that provides continuous tone-based feedback on the aircraft's energy state. It uses differential pressure from the pitot-static system to compute AoA and delivers audio tones through the intercom.
 
-**OnSpeed shares the Dynon heated AoA/pitot probe — it has no independent air data source.** So OnSpeed is not a redundant AoA reference. A blocked or iced pitot takes airspeed, Dynon AoA, OnSpeed, and the AoA-derived stall warning at the same time, and because both SV-ADAHRS units breathe through the same probe they will *agree* on the bad data and raise no cross-check error. See [Air Data Is a Single Point of Failure](./sys-34-navigation.md#air-data-is-a-single-point-of-failure).
+**OnSpeed shares the Dynon heated AoA/pitot probe — it has no independent air data source.** So OnSpeed is not a redundant AoA reference. A blocked or iced pitot takes airspeed, Dynon AoA, OnSpeed, and the AoA-derived stall warning at the same time, and because both SV-ADAHRS units breathe through the same probe they will *agree* on the bad data and raise no cross-check error. See [The Pitot/AoA Probe Is the Single Point of Failure](./sys-34-navigation.md#the-pitotaoa-probe-is-the-single-point-of-failure).
 
-The practical upshot: **the tones are a stall-margin aid, not a redundant airspeed system.** In an unreliable-airspeed event they are gone, and the remaining references are pitch attitude, power setting, and GPS groundspeed.
+The practical upshot: **the tones are a stall-margin aid, not a redundant airspeed system.** In an unreliable-airspeed event they are gone, and the remaining references are pitch attitude, power setting, and GPS groundspeed. Altitude and VSI survive, because static comes from the two aft-fuselage ports rather than the probe.
 
 <!-- TODO: Confirm OnSpeed is installed and operational on N720AK -->
 
