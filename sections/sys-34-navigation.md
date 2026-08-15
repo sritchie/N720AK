@@ -86,6 +86,31 @@ The GTN 650 provides:
 
 The pitot tube incorporates a second orifice angled to measure differential pressure for Angle of Attack (AoA) display on the EFIS. Pitot heat is activated by the PITOT HEAT switch.
 
+### Air Data Is a Single Point of Failure
+
+**The redundancy in this airplane is in the computers, not in the air.** One Dynon heated probe under the left wing feeds everything that depends on air data, through three lines from the quick-disconnect air kit — pitot (green), static (white), AoA (blue):
+
+| Data | Redundancy | Caught by the ADAHRS cross-check? |
+|------|-----------|-----------------------------------|
+| Attitude (pitch/roll) | **Dual** — sensors internal to each ADAHRS | Yes |
+| Magnetic heading | **Dual** — magnetometer in each ADAHRS | Yes |
+| Airspeed | **None** — single pitot port | **No** |
+| Altitude / VSI | Alternate static valve (upper left panel) | Partially |
+| AoA — Dynon *and* OnSpeed | **None** — same probe, same ports | **No** |
+
+Two consequences worth understanding:
+
+1. **A pitot blockage produces agreeing wrong data.** Both SV-ADAHRS units breathe through the same probe, so a blocked or iced pitot gives them identical bad airspeed. They agree, so no `ADAHRS CROSS CHK ERROR` is raised. The cross-check protects against a *unit* failing, not against a *shared source* being wrong — which is the more likely failure.
+
+2. **AoA is not a backup for unreliable airspeed, and stall warning goes with it.** OnSpeed uses the Dynon probe rather than independent sensors, so a pitot blockage takes airspeed, Dynon AoA, and OnSpeed simultaneously. Dynon stall warning is AoA-derived, so it goes too. That leaves pitch attitude, power setting, and **GPS groundspeed** — the only air-data-independent speed reference on board — with no low-speed protection.
+
+Static blockage is the mitigated case: use the alternate static valve. Pitot blockage has no mitigation but pitot heat and preflight discipline.
+
+<!-- TODO: Unreliable-airspeed pitch/power reference table from the bootstrap performance data, and a matching Section 4 checklist (Section 4 is generated from N720AK.json — must be added in the EFIS Editor, not the markdown). -->
+<!-- TODO: Confirm whether both SV-ADAHRS units tee off shared pitot/static/AoA lines or have separate runs from the probe. Either way the probe is common. -->
+
+> Cross-reference: [OnSpeed AoA](./sys-34-onspeed.md) for the shared-probe detail.
+
 ## Inspection & Maintenance
 
 ### Alternate Static Valve
