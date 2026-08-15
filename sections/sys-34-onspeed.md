@@ -6,6 +6,10 @@
 
 The **OnSpeed** system is an audio angle-of-attack (AoA) indicator that provides continuous tone-based feedback on the aircraft's energy state. It uses differential pressure from the pitot-static system to compute AoA and delivers audio tones through the intercom.
 
+**OnSpeed shares the Dynon heated AoA/pitot probe — it has no independent air data source.** So OnSpeed is not a redundant AoA reference. A blocked or iced pitot takes airspeed, Dynon AoA, OnSpeed, and the AoA-derived stall warning at the same time, and because both SV-ADAHRS units breathe through the same probe they will *agree* on the bad data and raise no cross-check error. See [Air Data Is a Single Point of Failure](./sys-34-navigation.md#air-data-is-a-single-point-of-failure).
+
+The practical upshot: **the tones are a stall-margin aid, not a redundant airspeed system.** In an unreliable-airspeed event they are gone, and the remaining references are pitch attitude, power setting, and GPS groundspeed.
+
 <!-- TODO: Confirm OnSpeed is installed and operational on N720AK -->
 
 ## Components
@@ -13,7 +17,7 @@ The **OnSpeed** system is an audio angle-of-attack (AoA) indicator that provides
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
 | OnSpeed box | <!-- TODO --> | FlyOnSpeed | Main processor |
-| Pressure sensors | <!-- TODO --> | <!-- TODO --> | <!-- TODO: uses Dynon pitot or separate? --> |
+| Pressure sensors | Shares the Dynon heated AoA/pitot probe | Dynon | **No independent sensors.** Common-mode failure with airspeed and Dynon AoA. |
 
 ## How It Works
 
