@@ -157,8 +157,10 @@ Battery 2 whenever the ignition key is off, preventing parasitic battery drain.
 The electrical system uses a dual-bus architecture managed by the flyEFII
 System32 Bus Manager:
 
-- **Essential Bus**: Powers critical engine systems (ignition, fuel injection,
-  fuel pumps)
+- **Essential (Endurance) Bus**: Powers critical engine systems (ignition, fuel
+  injection, fuel pumps). Protected by **conventional physical circuit breakers,
+  one per item** — including the fuel pump breakers called out in the
+  Section 4 emergency checklists.
 - **Main Bus**: Powers avionics and other aircraft systems via VPX Sport
 
 ### Emergency Endurance Bus
@@ -176,10 +178,15 @@ The **EMERGENCY POWER** switch on the panel manually activates this mode.
 
 The Vertical Power VPX Sport provides:
 
-- Electronic circuit breaker protection
+- Electronic circuit breaker protection for **main bus loads**
 - Load monitoring and display on EFIS
 - Automatic load shedding if needed
-- No physical circuit breakers to reset
+- Main bus channels are reset from the EFIS — there is nothing to pull. This
+  applies to the main bus only; the endurance bus uses physical breakers.
+
+> **Only the endurance bus has breakers you can pull, and they feed the engine.**
+> That is the reverse of a conventional airplane. Brief anyone who may reach for
+> a breaker panel out of habit.
 
 > **Detailed reference:** [Electrical Power (ATA 24)](./sys-24-electrical.md)
 

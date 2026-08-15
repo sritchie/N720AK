@@ -24,8 +24,18 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 
 ### Bus Architecture
 
-- **Essential Bus**: Powers critical engine systems — ignition, fuel injection, fuel pumps. Managed by System32 Bus Manager.
+- **Essential (Endurance) Bus**: Powers critical engine systems — ignition, fuel injection, fuel pumps. Managed by System32 Bus Manager. **Protected by conventional physical circuit breakers, one per item** — these are *not* VPX channels.
 - **Main Bus**: Powers avionics and other aircraft systems via VPX Sport electronic breakers.
+
+> **The only physical breakers in this airplane are on the endurance bus, and they feed the things that keep the engine running.** That is the inverse of a conventional airplane, where the pullable breakers are avionics and the engine needs no electrical power at all. Anyone in the right seat who reaches for a breaker panel out of habit — a DPE, an instructor, a passenger helping — is reaching for ignition, fuel injection, and the fuel pumps. Brief this before engine start. See `sections/sys-73-efii.md` for why the engine stops without them.
+
+<!-- TODO: Endurance bus breaker list — which items, what amperage, panel location? -->
+
+### Display Backup Power — Deliberately Not Installed
+
+Dynon's **SV-BAT-320 backup batteries are not part of this system**, by choice. With the System32 Bus Manager arbitrating two independent EarthX ETX900 batteries on fully isolated charging systems, bus current stays stable through a single charging-source or battery failure, so the per-display backup batteries solve a problem this architecture does not have. This matches what RV builders running the Bus Manager with dual batteries have generally concluded.
+
+Consequence worth knowing: there is no display-level power reserve. Display availability depends entirely on the bus, which is what the dual-battery and dual-charging architecture exists to protect.
 
 ### Emergency Endurance Bus
 
@@ -42,7 +52,7 @@ The **EMERGENCY POWER** switch on the panel manually activates this mode.
 ### VPX Sport
 
 The VPX Sport provides:
-- Electronic circuit breaker protection (no physical breakers to reset)
+- Electronic circuit breaker protection for **main bus loads** — these channels have no physical breakers to pull or reset; they are reset from the EFIS. (The endurance bus is separate and *does* use physical breakers — see Bus Architecture above.)
 - Load monitoring and display on EFIS
 - Automatic load shedding if needed
 - Programmable power channels
