@@ -27,7 +27,7 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 - **Essential (Endurance) Bus**: Powers critical engine systems — ignition, fuel injection, fuel pumps. Managed by System32 Bus Manager. **Protected by conventional physical circuit breakers, one per item** — these are *not* VPX channels.
 - **Main Bus**: Powers avionics and other aircraft systems via VPX Sport electronic breakers.
 
-> **The only physical breakers in this airplane are on the endurance bus, and they feed the things that keep the engine running.** That is the inverse of a conventional airplane, where the pullable breakers are avionics and the engine needs no electrical power at all. Anyone in the right seat who reaches for a breaker panel out of habit — a DPE, an instructor, a passenger helping — is reaching for ignition, fuel injection, and the fuel pumps. Brief this before engine start. See `sections/sys-73-efii.md` for why the engine stops without them.
+> **The only physical breakers in this airplane are on the endurance bus, and they feed the things that keep the engine running.** That is the inverse of a conventional airplane, where the pullable breakers are avionics and the engine needs no electrical power at all. Anyone reaching for a breaker panel out of habit is reaching for ignition, fuel injection, and the fuel pumps. Brief this before engine start. See `sections/sys-73-efii.md` for why the engine stops without them.
 
 <!-- TODO: Endurance bus breaker list — which items, what amperage, panel location? -->
 

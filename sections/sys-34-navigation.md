@@ -13,13 +13,13 @@ N720AK's navigation and instrument suite is built around the **Dynon Skyview HDX
 | EFIS | [Skyview HDX](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view) | Dynon | Primary flight display |
 | GPS/Nav/Com | [GTN 650](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) | Garmin | Certified IFR, S/N 1Z8021616 |
 | Transponder | SV-XPNDR-261 | Dynon | ADS-B Out, S/N 04015 |
-| ADS-B Receiver | SV-ADSB-470 | Dynon | Traffic & weather, S/N 3111 |
+| ADS-B Receiver | SV-ADSB-472 (P/N 102985-000) | Dynon | **Dual-band** 978 MHz UAT + 1090 MHz ES. Traffic & weather, S/N 13201. Tailcone. Traded in from SV-ADSB-470 S/N 3111 (Dynon inv. 61735, RMA 28912, 2019-04-02). |
 | ELT | [ELT 345](https://drive.google.com/file/d/1OXIHSMY2lg3rjRosWWdaETwle8ACyBID/view) | Artex | 406 MHz |
 | Pitot tube | <!-- TODO --> | Dynon | Heated, with AoA |
 | Static ports | <!-- TODO --> | <!-- TODO --> | Two ports, aft fuselage |
 | Alternate static valve | <!-- TODO --> | <!-- TODO --> | Upper left panel |
 | Transponder antenna | 104-12 | SteinAir | Monopole, 1030–1090 MHz, BNC |
-| ADS-B antenna | 104-17 | SteinAir | Monopole, 978 MHz, BNC |
+| ADS-B antenna | 104-17 | SteinAir | Monopole, 978 MHz, BNC. Warranty-replaced 2026-01-19 (SteinAir inv. 59853). Cut for 978 but serves the 472's 1090 MHz reception as well — this is SteinAir's specified part for the dual-band unit. |
 
 ## How It Works
 
@@ -29,7 +29,7 @@ The Skyview HDX provides:
 - Primary Flight Display (PFD) — attitude, airspeed, altitude, heading, VSI
 - Multi-Function Display (MFD) — moving map with terrain
 - Engine monitoring — all EGT, CHT, oil, fuel flow, fuel pressure
-- Traffic display (ADS-B In)
+- Traffic display (ADS-B In, dual-band — see below)
 - Autopilot interface
 - Checklists
 
@@ -43,7 +43,7 @@ The Skyview HDX provides:
 | SV-ARINC-429 Module | 2360 |
 | SV-EMS-220 Engine Monitoring | 6468 |
 | SV-XPNDR-261 Transponder | 04015 |
-| SV-ADSB-470 ADS-B Receiver | 3111 |
+| SV-ADSB-472 ADS-B Receiver (dual-band) | 13201 |
 | SV-ADAHRS-200 (Primary) | 8375 |
 | SV-ADAHRS-201 (Secondary) | 4928 |
 | SV-AP-PANEL/V Autopilot Panel | 4101 |
@@ -51,6 +51,34 @@ The Skyview HDX provides:
 | Heated AOA/Pitot Probe | 8438 |
 | SV-KNOB-PANEL/V Knob Panel | 8500 |
 | SV-COM-C25/V Com Radio | 3090 |
+
+### ADS-B — What You Transmit vs. What You Receive
+
+Two different boxes on two different links. The distinction determines what traffic you actually see and what you file.
+
+| Direction | Box | Link | What it does |
+|---|---|---|---|
+| **Out** | SV-XPNDR-261 Mode S transponder | **1090 MHz** extended squitter | The §91.227 compliance item. Broadcasts position, velocity and ident. Confirmed by PAPR 2026-01-28: Link Version 2, no exceptions. |
+| **In** | SV-ADSB-472 receiver | **978 MHz UAT** | FIS-B weather (US only) and TIS-B/ADS-R traffic relayed from ground stations |
+| **In** | SV-ADSB-472 receiver | **1090 MHz ES** | Direct air-to-air traffic from any 1090ES-equipped aircraft, worldwide, **independent of ground station coverage** |
+
+The dual-band receive is the part that matters in practice: on the 978 link alone, traffic only appears where a ground station is rebroadcasting it. The 1090 side sees 1090ES-equipped aircraft directly — which is the difference between having a traffic picture in the mountains west of Boulder and not having one.
+
+Note the asymmetry: **ADS-B Out is 1090-only, ADS-B In is dual-band.** That combination has no clean ICAO surveillance code for the receive side; see the filing note below.
+
+### ADS-B and Mode S Filing Data
+
+| Item | Value | Source |
+|---|---|---|
+| ICAO 24-bit address | **A9A396** | Derived from the N-number; confirmed broadcast on PAPR 2026-01-28 |
+| ADS-B version | **2** (RTCA DO-260B) | PAPR "Link Version 2" |
+| ICAO Field 10b | **E** (Mode S, ident, altitude, extended squitter) + **B2** (1090 Out and In) | — |
+| ICAO Field 18 | `SUR/260B` · `CODE/A9A396` | — |
+| PBN | `B2C2D2S1` — RNAV 5/2/1 by GNSS, plus RNP APCH | GTN 650 WAAS capability |
+
+**Remarks are mandatory, not optional.** Airworthiness certificate limitation 7: *"When filing a flight plan, the experimental nature of this aircraft must be listed in the remarks section."* File `RMK/EXPERIMENTAL`.
+
+<!-- TODO: Confirm the SV-XPNDR-261's configured ADS-B In capability bits report dual-band (they should, given the 472) so ground stations deliver the right services. -->
 
 **Nearest Airport Emergency**: Holding the NEAREST button on the Dynon activates the autopilot to fly directly to the nearest airport matching the current filter settings and automatically tunes the radio to that airport's frequency. See the Dynon HDX Pilot's Guide for filter configuration and exact behavior.
 
