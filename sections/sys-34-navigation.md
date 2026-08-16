@@ -54,7 +54,7 @@ The Skyview HDX provides:
 
 ### ADS-B — What You Transmit vs. What You Receive
 
-Two different boxes, two different links, and they are worth keeping straight because a DPE may ask and because the filing codes depend on it.
+Two different boxes on two different links. The distinction determines what traffic you actually see and what you file.
 
 | Direction | Box | Link | What it does |
 |---|---|---|---|
