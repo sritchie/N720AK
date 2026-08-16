@@ -225,7 +225,7 @@ The static system feeds:
 - Multi-Function Display (MFD)
 - Engine monitoring
 - Moving map with terrain
-- Traffic display (ADS-B In)
+- Traffic display (dual-band ADS-B In)
 - Autopilot interface
 
 ### Navigation and Communication
@@ -257,8 +257,14 @@ Controlled via:
 
 | Component | Specification |
 |-----------|---------------|
-| Transponder | Dynon SV-XPNDR-261 (Mode S, S/N 04015) with ADS-B Out |
+| Transponder | Dynon SV-XPNDR-261 (Mode S, S/N 04015) with 1090 MHz ES ADS-B Out |
+| ADS-B receiver | Dynon SV-ADSB-472 (S/N 13201) — **dual-band**, 978 MHz UAT + 1090 MHz ES |
 | ELT | Artex ELT 345 (406 MHz) |
+
+**ADS-B Out is 1090-only; ADS-B In is dual-band.** The 978 link carries FIS-B
+weather and ground-relayed traffic; the 1090 link sees ADS-B Out–equipped
+aircraft directly, air-to-air, with no ground station needed. ICAO 24-bit
+address **A9A396**, ADS-B version 2 — both confirmed by the 2026-01-28 PAPR.
 
 ### Panel Switches
 
