@@ -10,7 +10,7 @@ N720AK's navigation and instrument suite is built around the **Dynon Skyview HDX
 
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
-| EFIS | [Skyview HDX](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view) | Dynon | Primary flight display |
+| EFIS | [Skyview HDX](https://drive.google.com/file/d/1KruWV-_DQwM96mKAEYfoYNYzVmE1Yptf/view) | Dynon | Primary flight display |
 | GPS/Nav/Com | [GTN 650](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) | Garmin | Certified IFR, S/N 1Z8021616 |
 | Transponder | SV-XPNDR-261 | Dynon | ADS-B Out, S/N 04015 |
 | ADS-B Receiver | SV-ADSB-472 (P/N 102985-000) | Dynon | **Dual-band** 978 MHz UAT + 1090 MHz ES. Traffic & weather, S/N 13201. Tailcone. Traded in from SV-ADSB-470 S/N 3111 (Dynon inv. 61735, RMA 28912, 2019-04-02). |
@@ -182,7 +182,7 @@ Per 14 CFR 91.411 and 91.413, the altimeter system and transponder must be inspe
 
 ## References
 
-- [Dynon SkyView HDX Pilot's Guide (Rev R)](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view)
+- [Dynon SkyView HDX Pilot's Guide (Rev T)](https://drive.google.com/file/d/1KruWV-_DQwM96mKAEYfoYNYzVmE1Yptf/view) — SkyView 17.6
 - [Dynon SkyView HDX Pilot's Guide (Rev Q)](https://drive.google.com/file/d/1gFLcAkuGtnSpceF6xH8AqwYPzSBzoXUG/view)
 - [Dynon SkyView EMS Gauge Customization](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view)
 - [Dynon SkyView Third-Party Device Connection (Rev E)](https://drive.google.com/file/d/1oxEsay5amF7m1MqrphiiwM65MX3KoH7I/view)

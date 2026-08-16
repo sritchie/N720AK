@@ -11,6 +11,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | dynon-skyview-autopilot-tuning-guide-rev-f.pdf | [link](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view) |
+| dynon-skyview-system-install-guide-rev-ax.pdf | [link](https://drive.google.com/file/d/1n78cJB2_7Fj_dKWa3pZ48iWXHp_xgzVq/view) |
 | dynon-skyview-system-install-guide-rev-av.pdf | [link](https://drive.google.com/file/d/1S3A29Zn5DOK-3ADUyQeDOCU_NrU1NGbN/view) |
 | dynon-autopilot-servo-rv10-roll-installation-rev-h.pdf | [link](https://drive.google.com/file/d/1cMuioRntHVxvx_9T4MZJNQehKsGSFT4j/view) |
 | dynon-autopilot-yaw-tiller-arm-rv10-installation-rev-a.pdf | [link](https://drive.google.com/file/d/15AFIPQ6ojmhK8ppL7KS-saivPqSvHEjH/view) |
@@ -86,6 +87,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 
 | File | GDrive URL |
 |------|-----------|
+| dynon-skyview-hdx-pilots-guide-rev-t.pdf | [link](https://drive.google.com/file/d/1KruWV-_DQwM96mKAEYfoYNYzVmE1Yptf/view) |
 | dynon-skyview-hdx-pilots-guide-rev-r.pdf | [link](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view) |
 | dynon-skyview-hdx-pilots-guide-rev-q.pdf | [link](https://drive.google.com/file/d/1gFLcAkuGtnSpceF6xH8AqwYPzSBzoXUG/view) |
 | dynon-skyview-ems-gauge-customization.pdf | [link](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view) |
