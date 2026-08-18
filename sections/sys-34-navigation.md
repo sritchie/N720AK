@@ -52,6 +52,24 @@ The Skyview HDX provides:
 | SV-KNOB-PANEL/V Knob Panel | 8500 |
 | SV-COM-C25/V Com Radio | 3090 |
 
+### GPS Position Sources — Who Draws the Map
+
+Per the 2026-03-17 user config, the position sources are:
+
+| Source | SkyView slot | Rate | Role |
+|---|---|---|---|
+| GTN 650 (via SV-ARINC-429 + Aviation-format serial) | GPS 1 | 1 Hz | **Primary** — drives moving map and synthetic vision |
+| Dynon SV-GPS (serial port 5) | POS 2 | 5 Hz | Fallback only |
+
+SkyView's priority list is POS 1 → GPS 1 → … → POS 2, and the POS 1 slot is
+empty — so the GTN's 1 Hz position drives synthetic vision, the reverse of
+Dynon's recommended arrangement (the 5 Hz Dynon GPS as POS 1 gives "the best
+possible performance of Synthetic Vision and the Moving Map"). The 1 Hz update
+rate is the likely cause of jumpy synthetic-vision rendering. The Dynon GPS
+also has a history of poor satellite lock; fixing or replacing it (SV-GPS-2020)
+and promoting it to POS 1 restores the intended 5 Hz behavior. Check the live
+source under SETUP MENU > LOCAL DISPLAY SETUP > GPS FIX STATUS.
+
 ### ADS-B — What You Transmit vs. What You Receive
 
 Two different boxes on two different links. The distinction determines what traffic you actually see and what you file.
@@ -74,7 +92,12 @@ Note the asymmetry: **ADS-B Out is 1090-only, ADS-B In is dual-band.** That comb
 | ADS-B version | **2** (RTCA DO-260B) | PAPR "Link Version 2" |
 | ICAO Field 10b | **E** (Mode S, ident, altitude, extended squitter) + **B2** (1090 Out and In) | — |
 | ICAO Field 18 | `SUR/260B` · `CODE/A9A396` | — |
-| PBN | `B2C2D2S1` — RNAV 5/2/1 by GNSS, plus RNP APCH | GTN 650 WAAS capability |
+| PBN | `B2C2D2O2S1S2` — RNAV 5/2/1 and basic RNP 1 by GNSS, plus RNP APCH with and without vertical | [Garmin PBN capabilities doc 190-02223-00](https://drive.google.com/file/d/15BXBBOPkEBEeaJ18dpvYFTO7NoIxOkUx/view) |
+
+With no AFMS (experimental), the PBN declaration rests on Garmin's published PBN
+capabilities document plus the TSO-C146c install; AC 90-100A allows Part 91
+operators to self-qualify. Oceanic codes (A1, L1) require dual GPS plus an LOA —
+not filed. RNP AR (T1/T2) is beyond the GTN 650's hardware — never filed.
 
 **Remarks are mandatory, not optional.** Airworthiness certificate limitation 7: *"When filing a flight plan, the experimental nature of this aircraft must be listed in the remarks section."* File `RMK/EXPERIMENTAL`.
 

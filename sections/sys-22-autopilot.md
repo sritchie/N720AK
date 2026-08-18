@@ -20,6 +20,14 @@ N720AK uses the **Dynon 3-axis autopilot** integrated with the Skyview HDX EFIS.
 
 <!-- TODO: Describe AP modes available (HDG, NAV, ALT, VS, VNAV, approach), coupling with GTN 650, GPSS steering -->
 
+### Known Quirk: Silent TRK Reversion on Localizer Signal Loss
+
+Community-reported on SkyView HDX + GTN installations: a temporary localizer
+signal loss while coupled drops the autopilot from NAV to **TRK mode with no
+alert**, and it does **not** recapture when the signal returns — NAV must be
+re-armed manually. If the top bar shows TRK on a coupled localizer, guidance
+has been lost. <!-- TODO: Verify this behavior in VMC on N720AK. -->
+
 ### Control Wheel Steering (CWS)
 
 The Dynon autopilot supports **Control Wheel Steering** mode. Press and hold the autopilot disconnect button on the stick grip to temporarily override the autopilot, manually fly the aircraft to a new attitude/heading, then release the button. The autopilot will hold the new state. This allows quick course corrections without fully disconnecting and re-engaging the autopilot.
