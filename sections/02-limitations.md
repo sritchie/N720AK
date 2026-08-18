@@ -16,7 +16,8 @@ and its systems.
 | V~G~ | Best Glide (prop full coarse) | 95 KIAS |
 | V~X~ | Best Angle of Climb | 80 KIAS |
 | V~Y~ | Best Rate of Climb | 95 KIAS |
-| V~FE~ | Maximum Flap Extended (deploy inhibit) | 90 KIAS |
+| V~FE~ | Maximum Flap Extended — half flaps | 95 KIAS |
+| V~FE~ | Maximum Flap Extended — full flaps | 87 KIAS |
 | V~NO~ | Maximum Structural Cruising | 158 KIAS |
 | V~A~ | Design Maneuvering (at max gross) | 125 KIAS |
 | V~NE~ | Never Exceed | **200 KTAS** |
