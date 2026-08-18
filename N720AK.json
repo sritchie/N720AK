@@ -1043,6 +1043,21 @@
               "prompt": "Lights",
               "expectation": "AS REQUIRED",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Approach Loaded",
+              "expectation": "TRANSITION VERIFIED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Navaid Ident",
+              "expectation": "DECODED ON GTN",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "GPS Integrity",
+              "expectation": "TERM / NO LOI",
+              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         },

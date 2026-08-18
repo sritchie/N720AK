@@ -348,6 +348,9 @@
 - Fuel Selector ... **MORE FULL**
 - Power ... **AS DESIRED**
 - Lights ... **AS REQUIRED**
+- Approach Loaded ... **TRANSITION VERIFIED**
+- Navaid Ident ... **DECODED ON GTN**
+- GPS Integrity ... **TERM / NO LOI**
 
 ### Before Landing — GUMPS
 
