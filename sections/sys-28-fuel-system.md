@@ -91,7 +91,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 |-----------|-------|
 | Capacity (each) | 30 gallons |
 | Total usable | 29.5 gallons per tank (59 gallons total) |
-| Fuel type | 100LL or premium unleaded 91 octane mogas (minimum) |
+| Fuel type | 100LL, or automotive gasoline 93 AKI per [§2 Limitations](02-limitations.md#automotive-fuel-mogas-limitations) |
 | Venting | Vented to atmosphere via wing vent tubes |
 | Fuel sump drains | Saf-Air stainless push drains, 2 (one per wing) |
 | Fuel drain fairing | JDAir fuel drain fairing (silver) |
@@ -590,7 +590,7 @@ Random, non-repeatable variation in the differential, worst at mid and high powe
 - [ ] Clean vs dirty filter elements
 
 ### System Questions
-- [x] Fuel type — 100LL or premium unleaded 91 octane mogas minimum
+- [x] Fuel type — 100LL or automotive gasoline 93 AKI (SI 1070AB; see §2 Limitations)
 - [x] Total usable fuel per tank — 29.5 gallons per tank
 - [x] Pump selection — bus manager switch (1/AUTO or 2), auto cutover at 22 PSI Borla output absolute via relay under panel
 - [x] MAP reference orifice — integral to EFII throttle body, stock configuration
