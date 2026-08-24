@@ -93,7 +93,7 @@ Note the asymmetry: **ADS-B Out is 1090-only, ADS-B In is dual-band.** That comb
 | ADS-B version | **2** (RTCA DO-260B) | PAPR "Link Version 2" |
 | ICAO Field 10b | **E** (Mode S, ident, altitude, extended squitter) + **B2** (1090 Out and In) | — |
 | ICAO Field 18 | `SUR/260B` · `CODE/A9A396` | — |
-| PBN | `B2C2D2O2S1S2` — RNAV 5/2/1 and basic RNP 1 by GNSS, plus RNP APCH with and without vertical | [Garmin PBN capabilities doc 190-02223-00](https://drive.google.com/file/d/15BXBBOPkEBEeaJ18dpvYFTO7NoIxOkUx/view) |
+| PBN | `B2C2D2O2S1` — RNAV 5/2/1 and basic RNP 1 by GNSS, plus RNP APCH (S2 declined: strictly baro-VNAV, not installed) | [Garmin PBN capabilities doc 190-02223-00](https://drive.google.com/file/d/15BXBBOPkEBEeaJ18dpvYFTO7NoIxOkUx/view) |
 
 With no AFMS (experimental), the PBN declaration rests on Garmin's published PBN
 capabilities document plus the TSO-C146c install; AC 90-100A allows Part 91
