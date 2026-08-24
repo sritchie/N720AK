@@ -25,9 +25,9 @@ Use the `linear` skill — it has the GraphQL-via-Python mechanics, the RV team 
 
 ## Checklist Synchronization
 
-**Canonical checklist source**: https://rdamazio.github.io/efis-editor/checklists#N720AK
+**Canonical checklist source**: `N720AK.json` in this repo. The EFIS-editor website is out of the loop — Dynon .txt and ForeFlight .fmd exports are generated locally by `scripts/export_dynon_checklist.py` and `scripts/export_foreflight_checklist.py` (ports of the efis-editor writers, golden-tested against a real export). `N720AK-panel.json` is the generated terse in-panel variant.
 
-Sections 04/04b/05 are **generated** from `N720AK.json` — edit via the EFIS Editor, never the markdown. Use the `checklist-update` skill for the full sync workflow (JSON export, regeneration, Dynon/ForeFlight export).
+Sections 04/04b/05 are **generated** from `N720AK.json` — edit the JSON, never the markdown. Use the `checklist-update` skill for the full workflow.
 
 ## Build Commands
 
