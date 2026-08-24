@@ -150,6 +150,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | separator-vacuum-sys.pdf | [link](https://drive.google.com/file/d/1rjRygbzXgBNityTIXKS4SQdpd77tuhWP/view) |
 | lycoming-io540-operators-manual.pdf | [link](https://drive.google.com/file/d/17j1PZGpcXN6gP7nDkUjgf3N6mP3sHwLI/view) |
+| lycoming-si-1070ab-approved-fuels.pdf | [link](https://drive.google.com/file/d/1Hy5OGaKptmOYBYyTL0mFpC7cQyOJNudS/view) |
 | anti-splat-aero-oil-separator-installation.pdf | [link](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view) |
 | milspec-rv-cowling-kit-installation.pdf | [link](https://drive.google.com/file/d/1VDGxhOahlBffD9VvPlNwQtvttik_Vqoc/view) |
 | skybolt-vloc-diamondhead-cowling-installation-rev22.pdf | [link](https://drive.google.com/file/d/1I4oNZoDTvq9ZZDrlb65K6z9avPsKbJcM/view) |

@@ -62,16 +62,13 @@ Dual redundant ignition with individual coil packs for each cylinder. The System
 
 ## Fuel Compatibility
 
-The EFII System32 supports both 100LL and premium automotive gasoline (mogas), with or without ethanol. The standard mapping handles compression up to 9:1 (N720AK's configuration). Key limitations for mogas:
+The EFII System32 supports 100LL and automotive gasoline, with or without ethanol; the closed-loop mapping handles both. Because the rail runs at 45 PSI with continuous return, **vapor lock downstream of the pumps is physically impossible** — gasoline vapor pressure cannot approach 45 PSI gauge at any survivable temperature. The residual vapor-lock mechanisms are:
 
-- **Altitude limit**: Stay below 8,000 ft on mogas (higher vapor pressure than avgas)
-- **Temperature limit**: Do not use mogas in OAT above 100°F
-- **High terrain**: Use 100LL when flying over high terrain
-- Auto gas reaches its vapor point more easily than avgas at altitude and in heat
+- **The suction segment** (tank pickup → duplex valve → FF-2 pre-filter → pump inlets) carries all the standard mogas physics — this is what the volatility and heat-soak limits in [§2 Limitations](02-limitations.md#automotive-fuel-mogas-limitations) protect.
+- **Return-fuel heating**: hot rail fuel returns continuously to the selected tank; in a low tank during extended hot ground operations the heat accumulates (the reason EFII's own manual requires ≥5-gallon header tanks in that architecture). On mogas, avoid long ground ops feeding from a low tank, and switch tanks to spread returned heat.
+- **The 22 PSI auto-cutover does not protect against suction-side vapor** — Pump 2 shares the same inlet plumbing and cavitates on the same vapor. Fuel-pressure fluctuation on mogas means: switch tanks (cooler fuel), reduce power, descend — not "the backup pump will save it." Cavitation also erodes pump life even when the engine keeps running.
 
-9:1 compression provides the best balance of performance, reliability, and fuel flexibility.
-
-*Source: flyEFII forum — [VAF thread #157554](https://vansairforce.net/threads/efii-system32-in-march-kitplanes.157554/post-1243823)*
+The former 8,000 ft density-altitude and 100 °F OAT limits traced to a single forum post and had no support in EFII, Lycoming, or auto-fuel-STC sources; they were replaced 2026-08-24 with the volatility/temperature limits in §2. Authoritative basis: [Lycoming SI 1070AB](https://drive.google.com/file/d/1Hy5OGaKptmOYBYyTL0mFpC7cQyOJNudS/view) (IO-540-D approved for ASTM D4814 93 AKI, Vapor Pressure Class A-4, ≤1% oxygenate, LW-16702 additive required) and the Petersen auto-fuel STC certification basis (12,500 ft demonstrated on 110 °F winter-blend fuel in suction-fed aircraft).
 
 ## Tuning
 

@@ -121,16 +121,37 @@ accordance with FAR 91:
 |-----------|-------|
 | Fuel Capacity (Total) | 60 U.S. gallons (30 per tank) |
 | Usable Fuel | 59 U.S. gallons (29.5 per tank) |
-| Minimum Grade | 100LL or premium unleaded 91 octane mogas (see limitations below) |
+| Minimum Grade | 100LL, or automotive gasoline per the limitations below |
 
-### Mogas Limitations (EFII System32)
+### Automotive Fuel (Mogas) Limitations
 
-When using premium unleaded mogas (91 octane minimum):
+Lycoming SI 1070AB approves the IO-540-D series for automotive gasoline
+(ASTM D4814, 93 AKI). With the EFII System32, all fuel downstream of the
+pumps is at 45 PSI — vapor can form only in the suction lines from tank to
+pump, so these limits control fuel **volatility** and **temperature**, the
+actual vapor-lock variables. Full rationale: [sys-28 Fuel System](sys-28-fuel-system.md).
 
-- **Altitude limit**: Stay below 8,000 ft density altitude (higher vapor pressure than avgas)
-- **Temperature limit**: Do not use mogas in OAT above 100 °F
-- **High terrain**: Use 100LL when flying over high terrain with limited landing options
-- Mogas reaches its vapor point more easily than avgas at altitude and in heat
+- **Octane**: 93 AKI premium for unrestricted use (SI 1070AB). 91 AKI premium
+  only when blended with at least one-third 100LL, or at or below 75% power.
+  Never regular or midgrade (Colorado regular is 85 AKI).
+- **Ethanol**: E0 preferred. E10 permitted for fuel burned within ~30 days;
+  sump carefully for phase separation after cold soaks. E15/E85 prohibited.
+- **Season (the controlling limit)**: unrestricted use only with summer-blend
+  fuel (retail June 1 – September 15). Fuel bought outside that window is
+  presumed winter blend (RVP up to 15 psi): do not fly it straight when fuel
+  temperature may exceed 60 °F at takeoff — blend ≥50% 100LL or use 100LL.
+- **Heat soak**: no takeoff on mogas with heat-soaked fuel (estimated above
+  ~85 °F after sun or prolonged ground running) unless fuel pressure is
+  stable at 45 ± 1 PSI during a full-power runup. Fuel temperature, not OAT,
+  is the variable.
+- **Altitude**: no density-altitude ceiling. Above 12,500 ft pressure
+  altitude on mogas, monitor fuel pressure; on any fluctuation, switch
+  tanks and descend.
+- **Mixing**: 100LL and mogas mix freely in any ratio. For high terrain with
+  limited landing options, keep the takeoff/landing tank 100LL-rich.
+- **Oil**: with mogas, oil must contain Lycoming additive LW-16702 or
+  equivalent (Aeroshell 15W-50, Phillips Victory AW). Run a tank of 100LL
+  roughly every 75 hours, and 100LL only for 25 hours after cylinder work.
 
 ## Placards
 
@@ -138,4 +159,4 @@ When using premium unleaded mogas (91 octane minimum):
 |----------|---------|
 | In view from entrance | EXPERIMENTAL |
 | In view of occupants | PASSENGER WARNING: THIS AIRCRAFT IS AMATEUR BUILT AND DOES NOT COMPLY WITH FEDERAL SAFETY REGULATIONS FOR STANDARD AIRCRAFT. |
-| At each fuel filler | 100LL / 91 MOGAS, 30 Gal. |
+| At each fuel filler | 100LL / MOGAS 93 AKI (see POH), 30 Gal. |

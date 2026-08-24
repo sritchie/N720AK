@@ -120,7 +120,7 @@ Fuel is stored in two wing tanks with a selector valve on the center tunnel.
 | Usable Fuel | 59 U.S. gallons |
 | Fuel Pressure (DIFF setpoint) | 45 PSI (Borla regulator) |
 | Auto-Cutover Trip | Borla output drops to 22 PSI absolute |
-| Minimum Grade | 100LL or premium unleaded 91 octane mogas (see [Limitations](02-limitations.md#mogas-limitations-efii-system32)) |
+| Minimum Grade | 100LL, or automotive gasoline 93 AKI (see [Limitations](02-limitations.md#automotive-fuel-mogas-limitations)) |
 
 ### Fuel System Components
 
