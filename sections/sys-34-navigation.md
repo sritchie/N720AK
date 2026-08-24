@@ -54,21 +54,22 @@ The Skyview HDX provides:
 
 ### GPS Position Sources — Who Draws the Map
 
-Per the 2026-03-17 user config, the position sources are:
+**As of the 2026-08-19 config (SkyView 17.6), the Dynon SV-GPS is POS 1** —
+promoted from POS 2, making it the primary position source for the moving map
+and synthetic vision at its native 5 Hz, per Dynon's recommended arrangement.
+The GTN 650 (via SV-ARINC-429 + Aviation-format serial) remains GPS 1, the
+fallback position source at 1 Hz.
 
-| Source | SkyView slot | Rate | Role |
-|---|---|---|---|
-| GTN 650 (via SV-ARINC-429 + Aviation-format serial) | GPS 1 | 1 Hz | **Primary** — drives moving map and synthetic vision |
-| Dynon SV-GPS (serial port 5) | POS 2 | 5 Hz | Fallback only |
-
-SkyView's priority list is POS 1 → GPS 1 → … → POS 2, and the POS 1 slot is
-empty — so the GTN's 1 Hz position drives synthetic vision, the reverse of
-Dynon's recommended arrangement (the 5 Hz Dynon GPS as POS 1 gives "the best
-possible performance of Synthetic Vision and the Moving Map"). The 1 Hz update
-rate is the likely cause of jumpy synthetic-vision rendering. The Dynon GPS
-also has a history of poor satellite lock; fixing or replacing it (SV-GPS-2020)
-and promoting it to POS 1 restores the intended 5 Hz behavior. Check the live
-source under SETUP MENU > LOCAL DISPLAY SETUP > GPS FIX STATUS.
+Flight-log evidence supports the switch. With the GTN as position source
+(July 2026 logs, ~13 flights), the logged position stream showed ~9–14 kt
+median discrepancy between position-implied and reported ground speed with
+occasional 2–3 s position freezes — consistent with jumpy synthetic-vision
+rendering — and the log's GPS Fix Quality / satellite-count columns were
+unpopulated in flight (the Aviation-format feed does not carry them). With the
+SV-GPS as POS 1 (2026-08-19/20 logs), every in-flight sample showed SBAS-grade
+fix quality (2), 12 satellites, sub-knot median position jitter, zero
+teleports, and immediate fix at startup. Check the live source under SETUP
+MENU > LOCAL DISPLAY SETUP > GPS FIX STATUS.
 
 ### ADS-B — What You Transmit vs. What You Receive
 
