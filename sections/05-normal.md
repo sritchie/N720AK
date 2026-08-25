@@ -329,6 +329,7 @@
 - Power ... **AS DESIRED**
   
     *default: full throttle / 2400 RPM*
+- Flaps ... **REFLEX**
 - Fuel Trim ... **0%**
 - Elevator + Aileron Trim ... **ADJUST**
 - Engine Gauges ... **CHECK**
@@ -368,7 +369,7 @@
 
 #### M - Mixture:
 
-- Fuel Trim ... **0% (replaces mixture)**
+- Fuel Trim ... **0%**
 
 #### P - Prop:
 
