@@ -975,6 +975,11 @@
               "indent": 1
             },
             {
+              "prompt": "Flaps",
+              "expectation": "REFLEX",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
               "prompt": "Fuel Trim",
               "expectation": "0%",
               "type": "ITEM_CHALLENGE_RESPONSE"
@@ -1103,7 +1108,7 @@
             },
             {
               "prompt": "Fuel Trim",
-              "expectation": "0% (replaces mixture)",
+              "expectation": "0%",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
