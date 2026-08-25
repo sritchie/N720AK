@@ -3100,6 +3100,20 @@
               "indent": 1
             },
             {
+              "prompt": "If Pump 2 fails after a cutover:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Fuel Pump Switch",
+              "expectation": "CYCLE RAPIDLY",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "1/AUTO - 2 - 1/AUTO resets the latch; Pump 1 reactivates",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
               "prompt": "Plan Diversion",
               "expectation": "NEAREST SUITABLE",
               "type": "ITEM_CHALLENGE_RESPONSE"

@@ -27,6 +27,12 @@
 - Fuel Pump Mode ... **TRY 1/AUTO**
   
     *if Pump 1 actually failed, Bus Manager auto-cuts back to Pump 2 when Borla output drops to 22 PSI absolute*
+
+#### If Pump 2 fails after a cutover:
+
+- Fuel Pump Switch ... **CYCLE RAPIDLY**
+  
+    *1/AUTO - 2 - 1/AUTO resets the latch; Pump 1 reactivates*
 - Plan Diversion ... **NEAREST SUITABLE**
 
 ### Single ECU Failure
