@@ -20,7 +20,18 @@ N720AK's communications stack includes the **Garmin GMA 245** audio panel, **Dyn
 
 ## How It Works
 
-<!-- TODO: Audio routing — how does the GMA 245 manage audio between GTN 650, Dynon, intercom, Bluetooth? -->
+### NAV Audio (VOR/ILS Ident)
+
+The GTN 650's nav receiver audio (Morse ident for VOR/LOC identification) reaches the headsets through two gates in series — both must be open:
+
+1. **GTN 650**: press the **small right knob** to activate the Nav window, then **push the Volume knob** to enable nav ident (an "ID" annunciation appears in the Nav window). Turning the Volume knob while the Nav window is active sets nav audio volume, independent of Com volume. (GTN 650 Pilot's Guide §3.5.1.)
+2. **GMA 245**: press the **NAV1** key — nav receiver audio is heard only when its green in-key annunciator is lit. (GMA 245 Pilot's Guide p. 15.)
+
+The GTN also auto-decodes the Morse and displays the identifier next to the active nav frequency, but audible identification requires the chain above.
+
+Related GMA 245 behaviors: the **SPKR** key routes selected radios to the cabin speaker (aural alerts always play on the speaker regardless); press-hold **RADIO MUTE** toggles intercom muting while radio (COM/NAV/AUX) audio is active.
+
+<!-- TODO: Audio routing — how does the GMA 245 manage Dynon, intercom, Bluetooth sources? -->
 <!-- TODO: Headset setup — what jacks, what types (GA vs helicopter), any adapters? -->
 <!-- TODO: Squelch and IntelliVox setup -->
 
@@ -137,7 +148,21 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 
 ## Wiring
 
-<!-- TODO: Audio wiring overview — GMA 245 to GTN 650, to Dynon, to headset jacks -->
+### GTN 650 → GMA 245 Audio Connections
+
+Pin assignments traced on the SteinAir SkyView Interconnect schematic (verified visually end-to-end, 2026-08). Both runs are shielded twisted pairs with backshell-grounded shields:
+
+| Signal | GTN 650 | GMA 245 | Wire |
+|--------|---------|---------|------|
+| NAV audio (VOR/ILS ident) Hi | P1004-16 (VOR/ILS Audio Hi) | J1-17 (NAV 1 Audio Hi) | White |
+| NAV audio (VOR/ILS ident) Lo | P1004-17 (VOR/ILS Audio Lo) | J1-18 (NAV 1 Lo) | White/Blue |
+| GPS alert audio Hi (approach callouts, GTN tones) | P1001-4 (Audio Out Hi) | J1-31 (Alert 1 Audio Hi) | White |
+| GPS alert audio Lo | P1001-23 (Audio Out Lo) | J1-32 (Alert 1 Audio Lo) | White/Blue |
+
+The GMA 245's **NAV 2 input (J1-19/20) is unwired** — the GTN is the only nav receiver. GTN nav audio and GTN alert audio arrive on separate audio panel inputs (NAV1 key vs. always-on alert input).
+
+COM audio routing per the same drawing: GTN 650 com (P1003) is the GMA 245's **COM 1**; the Dynon SV-COM C25 is **COM 2**.
+
 <!-- TODO: Antenna coax routing details -->
 
 ## Inspection & Maintenance

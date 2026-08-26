@@ -69,6 +69,8 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 ### Known Wiring Notes
 
+**GTN 650 ↔ GMA 245 audio**: The GTN's VOR/ILS ident audio (P1004-16/17) runs to the GMA 245 NAV 1 input (J1-17/18), and its GPS alert audio (P1001-4/23) runs to the Alert 1 input (J1-31/32) — both shielded pairs, traced on the SteinAir interconnect schematic. NAV 2 on the audio panel is unwired. Full pin table: [Communications](./sys-23-communications.md#gtn-650--gma-245-audio-connections).
+
 **Serial 4 (Dynon ↔ GTN 650)**: The blue and green wires are intentionally flipped on this serial connection. This swap was done during installation — the TX/RX lines needed to be crossed for proper communication between the Dynon SkyView and GTN 650 on serial port 4.
 
 **Disconnected audio warning line**: The old CO audio warning line runs from the former CO detector location to the GMA 245 Music input. This line is currently disconnected. It is difficult to reach — runs behind the panel.
