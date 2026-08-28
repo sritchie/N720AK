@@ -10,18 +10,23 @@
 
 *Run any time the engine is rough, faltering, or has quit.*
 
+- Controller Dark? ... **EMERG PWR ON**
+  
+    *a dark EFII controller means power failure, not logic — E-pwr restores the essential bus; then continue*
 - ECU Select ... **OPPOSITE ECU**
   
     *shifts fuel control to the other ECU; sensors are independent*
+- Fuel Pump Mode ... **2**
+  
+    *covers a delivery fault that never tripped the 22 PSI auto-cutover*
 - Fuel Selector ... **OTHER TANK / VERIFY ON**
 - Fuel Pump Breakers ... **BOTH IN**
-- Fuel Pump Mode ... **2**
 - Fuel Trim ... **ADJUST**
   
     *if engine firing but rough — try richer (CW) then leaner*
 - Emergency Power Switch ... **ON**
   
-    *bypasses Bus Manager*
+    *catch-all — bypasses the Bus Manager even when the panel looks alive*
 
 ### Engine Failure During Takeoff Run
 
@@ -31,7 +36,6 @@
 - Wing Flaps ... **RETRACT**
 - Fuel Selector ... **OFF**
 - Key Switch ... **OFF**
-- Master Switch ... **OFF**
 
 ### Engine Failure Immediately After Takeoff
 
@@ -49,7 +53,6 @@
     *one shot — if no restart, commit to landing*
 - Fuel Selector ... **OFF**
 - Key Switch ... **OFF**
-- Master Switch ... **OFF**
 - Wing Flaps ... **AS REQUIRED**
   
     *33º on short final*
@@ -74,7 +77,7 @@
 
 - System32 Restore Function ... **EXECUTE**
   
-    *ECU Sel / Fuel Sel / Pump Brkrs / Pump Mode / Fuel Trim / Emerg Pwr*
+    *Ctrl dark→E-Pwr / ECU Sel / Pump 2 / Fuel Sel / Brkrs / Trim / E-Pwr*
 
 #### If engine restored:
 
@@ -122,7 +125,6 @@
   
     *kills ECUs; engine dies clean*
 - Wing Flaps ... **AS REQUIRED — 40º RECOMMENDED**
-- Master Switch ... **OFF**
 - Radio Call ... **MAYDAY 121.5**
   
     *time permitting*
@@ -225,28 +227,34 @@
 
 #### If engine starts:
 
-- Throttle ... **FULL OPEN**
-  
-    *max airflow first; engine still on full fuel*
 - Fuel Pump Breakers ... **PULL BOTH**
   
-    *engine consumes residual fuel + sucks fire in for 3-5s, then dies*
+    *stop feeding the fire — the engine runs a few seconds on residual rail pressure*
+- Throttle ... **OPEN SLOWLY / 1800 RPM**
+  
+    *slow push — a fast one fires the accelerator-pump squirt; airflow purges the intake until the engine starves and dies*
 - Key Switch ... **OFF**
+  
+    *after the engine dies*
 - Fuel Selector ... **OFF**
 - Doors ... **UNLATCH**
 - Evacuate / Extinguisher ... **AS REQUIRED**
 
 #### If engine fails to start:
 
-- Throttle ... **FULL OPEN**
-- Starter ... **CONTINUE CRANKING**
-  
-    *attempt to clear fuel from intake*
 - Fuel Pump Breakers ... **PULL BOTH**
+  
+    *fuel off FIRST — cranking with the pumps on floods the intake and feeds the fire*
+- Throttle ... **OPEN / DO NOT PUMP**
+  
+    *pumping the throttle fires the primer squirt*
+- Starter ... **CRANK ~10 SECONDS**
+  
+    *purge crank — injectors run dry in seconds once the pumps are off. Key stays ON: the starter is dead with the key off*
 - Key Switch ... **OFF**
 - Emergency Power Switch ... **OFF**
   
-    *Emergency Power independently powers ECUs — both must be off*
+    *E-pwr re-powers the ECUs and the starter — must be off*
 - Fuel Selector ... **OFF**
 - Doors ... **UNLATCH**
 - Fire Extinguisher ... **AS REQUIRED**
@@ -255,15 +263,26 @@
 ### Engine Fire In Flight
 
 
-**Fuel Selector** ... **OFF**
+**Fuel Pump Breakers** ... **PULL BOTH**
+
+
+  *the pumps are the 45 PSI feeding a fuel fire — physical breakers beat switch logic in a fire*
 
 
 **Key Switch** ... **OFF**
 
+
+  *kills ECUs, both busses, and any wire-arc source*
+
+
+**Fuel Selector** ... **OFF**
+
+
+  *stops gravity/siphon feed to a firewall-forward leak*
+
 - Emergency Power Switch ... **OFF**
-- Master Switch ... **OFF**
   
-    *kills any wire-arc source that may be feeding the fire*
+    *E-pwr independently re-powers ECUs and pumps — both paths must be off*
 - Cabin Heat / Air ... **OFF**
   
     *close firewall vents*
@@ -285,12 +304,14 @@
 **Key Switch** ... **OFF**
 
 
-  *kills ECUs / fuel pumps / most electrical load*
+  *the one keyed master — kills ECUs, fuel pumps, and both busses*
 
 
-**Master Switch** ... **OFF**
+**Emergency Power Switch** ... **OFF**
 
-- Emergency Power Switch ... **OFF**
+
+  *now the airplane is fully dark*
+
 
 **Vents / Cabin Air** ... **OPEN**
 
@@ -312,7 +333,9 @@
 
 ### Cabin Fire
 
-- Master Switch ... **OFF**
+- Fire Electrical? ... **USE ELECTRICAL FIRE CL**
+  
+    *killing the key stops the engine — isolate electrics only if the fire IS electrical*
 - Vents / Cabin Air / Heat ... **CLOSED**
 - Fire Extinguisher ... **ACTIVATE**
 

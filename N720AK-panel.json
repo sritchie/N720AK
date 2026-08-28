@@ -91,7 +91,7 @@
               "centered": true
             },
             {
-              "prompt": "Master Switch",
+              "prompt": "Emergency Power Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE",
               "centered": true
@@ -1387,8 +1387,18 @@
               "type": "ITEM_SPACE"
             },
             {
+              "prompt": "Controller Dark?",
+              "expectation": "EMERG PWR ON",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
               "prompt": "ECU Select",
               "expectation": "OPPOSITE ECU",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Fuel Pump Mode",
+              "expectation": "2",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1399,11 +1409,6 @@
             {
               "prompt": "Fuel Pump Breakers",
               "expectation": "BOTH IN",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Pump Mode",
-              "expectation": "2",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1450,11 +1455,6 @@
               "prompt": "Key Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Master Switch",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
         },
@@ -1485,11 +1485,6 @@
             },
             {
               "prompt": "Key Switch",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Master Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -1620,11 +1615,6 @@
             {
               "prompt": "Wing Flaps",
               "expectation": "AS REQUIRED — 40º RECOMMENDED",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Master Switch",
-              "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1875,13 +1865,13 @@
               "type": "ITEM_TITLE"
             },
             {
-              "prompt": "Throttle",
-              "expectation": "FULL OPEN",
+              "prompt": "Fuel Pump Breakers",
+              "expectation": "PULL BOTH",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Fuel Pump Breakers",
-              "expectation": "PULL BOTH",
+              "prompt": "Throttle",
+              "expectation": "OPEN SLOWLY / 1800 RPM",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1909,18 +1899,18 @@
               "type": "ITEM_TITLE"
             },
             {
+              "prompt": "Fuel Pump Breakers",
+              "expectation": "PULL BOTH",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
               "prompt": "Throttle",
-              "expectation": "FULL OPEN",
+              "expectation": "OPEN / DO NOT PUMP",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Starter",
-              "expectation": "CONTINUE CRANKING",
-              "type": "ITEM_CHALLENGE_RESPONSE"
-            },
-            {
-              "prompt": "Fuel Pump Breakers",
-              "expectation": "PULL BOTH",
+              "expectation": "CRANK ~10 SECONDS",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
@@ -1959,24 +1949,22 @@
           "title": "Engine Fire In Flight",
           "items": [
             {
-              "prompt": "Fuel Selector",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE",
-              "centered": true
+              "prompt": "Fuel Pump Breakers",
+              "expectation": "PULL BOTH",
+              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Key Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE",
-              "centered": true
+              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Emergency Power Switch",
+              "prompt": "Fuel Selector",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
-              "prompt": "Master Switch",
+              "prompt": "Emergency Power Switch",
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
@@ -2017,14 +2005,7 @@
             {
               "prompt": "Key Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE",
-              "centered": true
-            },
-            {
-              "prompt": "Master Switch",
-              "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE",
-              "centered": true
+              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Emergency Power Switch",
@@ -2034,8 +2015,7 @@
             {
               "prompt": "Vents / Cabin Air",
               "expectation": "OPEN",
-              "type": "ITEM_CHALLENGE_RESPONSE",
-              "centered": true
+              "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
               "prompt": "Fire Extinguisher",
@@ -2067,8 +2047,8 @@
           "title": "Cabin Fire",
           "items": [
             {
-              "prompt": "Master Switch",
-              "expectation": "OFF",
+              "prompt": "Fire Electrical?",
+              "expectation": "USE ELECTRICAL FIRE CL",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
