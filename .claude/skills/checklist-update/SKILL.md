@@ -20,7 +20,7 @@ export, 2026-08-19).
 | `scripts/make_panel_checklist.py` | Strips ITEM_PLAINTEXT/ITEM_NOTE detail (keeps Memory Items intact) |
 | `scripts/export_dynon_checklist.py` | JSON → Dynon .txt (31-col default; `--variant 40/none`) |
 | `scripts/export_foreflight_checklist.py` | JSON → ForeFlight .fmd (AES; needs `uv run --with cryptography`); `--decrypt` reads an .fmd back |
-| `scripts/json_to_markdown.py` | JSON → POH markdown sections |
+| `json_to_markdown.py` (repo root) | JSON → POH markdown sections |
 
 ## Workflow
 
@@ -34,7 +34,7 @@ export, 2026-08-19).
    **`checklist.txt`** from USB root: SETUP MENU > SYSTEM SOFTWARE > LOAD FILES.
 4. `uv run --with cryptography python3 scripts/export_foreflight_checklist.py N720AK.json N720AK.fmd`
    — the detailed version. Import into ForeFlight (open the .fmd on the iPad).
-5. `python3 scripts/json_to_markdown.py N720AK.json` then `./build.sh` — POH.
+5. `python3 json_to_markdown.py N720AK.json` then `./build.sh` — POH.
 6. Send the user the generated checklist.txt / N720AK.fmd; commit JSON +
    regenerated markdown + panel JSON via branch + PR per repo git workflow.
 
