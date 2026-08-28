@@ -544,4 +544,3 @@
     *to break stall*
 
 > *Note: Hold inputs until rotation stops, then neutralize rudder and recover from dive.*
-

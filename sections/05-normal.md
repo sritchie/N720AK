@@ -344,6 +344,41 @@
     *90º L - 90º R / 180º turn*
 - Maneuvering Speed ... **125 AT GROSS**
 
+### IFR Approach Brief — WRIMTM
+
+
+*Brief aloud before descent. Name the plate before W.*
+
+- Plate ... **NAMED / CURRENT**
+  
+    *airport, approach + suffix, amendment, current cycle*
+- Getting Established ... **STATED**
+  
+    *vectors / NoPT sector / HILPT / course reversal owed?*
+
+#### W R I M T M
+
+- Weather ... **VS MINS / RUNWAY**
+  
+    *ceiling + vis vs minimums, wind vs runway; altimeter source + remote-altimeter penalty if noted*
+- Radios ... **TUNED / RIGHT BOX**
+  
+    *approach, tower/CTAF, AWOS; navaid ident if green needles*
+- Instruments ... **LOADED / CRS / SOURCE**
+  
+    *approach + transition in GTN, final course, GPS vs VLOC driving the needle*
+- Minimums ... **ALL, TOP TO BOTTOM**
+  
+    *sector/IAF, stepdowns, FAF crossing, DA/MDA + vis*
+  
+    *snowflake? apply cold-temp corrections per segment*
+- Time ... **FAF-MAP IF NEEDED**
+  
+    *only when no fix defines the MAP*
+- Missed ... **ACTION / CRS / ALT / FIX**
+  
+    *first action aloud, then lateral, altitude, hold fix*
+
 ### Descent
 
 - Fuel Selector ... **MORE FULL**
@@ -352,6 +387,30 @@
 - Approach Loaded ... **TRANSITION VERIFIED**
 - Navaid Ident ... **DECODED ON GTN**
 - GPS Integrity ... **TERM / NO LOI**
+
+### IFR Final Gate — LAVSFT
+
+
+*Established inbound, before the FAF. Verify the box — the brief was a promise, this is the audit.*
+
+- Lateral ... **SOURCE / HSI / CRS**
+  
+    *GPS vs VLOC correct — the standby-localizer trap; course pointer on final approach course*
+- Altitude ... **MINS BUG / MISSED ALT**
+  
+    *minimums bug set; altitude bug per missed-alt SOP*
+- Vertical ... **GP TYPE / ARMED**
+  
+    *protected (LPV/GS) or advisory (+V)? advisory ignores stepdowns*
+- Speed / Config ... **85 KIAS / HALF FLAPS**
+  
+    *from REFLEX: confirm flaps read 0 before first DOWN — a -1 start makes it a no-op*
+- FMA ... **READ ALOUD**
+  
+    *SkyView top bar: say what it says, not what you expect*
+- TDZE ... **HEIGHT AT MINS**
+  
+    *how high above the pavement at DA/MDA*
 
 ### Before Landing — GUMPS
 

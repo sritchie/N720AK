@@ -888,6 +888,61 @@
           ]
         },
         {
+          "title": "IFR Approach Brief — WRIMTM",
+          "items": [
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Plate",
+              "expectation": "NAMED / CURRENT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Getting Established",
+              "expectation": "STATED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "W R I M T M",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Weather",
+              "expectation": "VS MINS / RUNWAY",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Radios",
+              "expectation": "TUNED / RIGHT BOX",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Instruments",
+              "expectation": "LOADED / CRS / SOURCE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Minimums",
+              "expectation": "ALL, TOP TO BOTTOM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Time",
+              "expectation": "FAF-MAP IF NEEDED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Missed",
+              "expectation": "ACTION / CRS / ALT / FIX",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            }
+          ]
+        },
+        {
           "title": "Descent",
           "items": [
             {
@@ -918,6 +973,44 @@
             {
               "prompt": "GPS Integrity",
               "expectation": "TERM / NO LOI",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            }
+          ]
+        },
+        {
+          "title": "IFR Final Gate — LAVSFT",
+          "items": [
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Lateral",
+              "expectation": "SOURCE / HSI / CRS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Altitude",
+              "expectation": "MINS BUG / MISSED ALT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Vertical",
+              "expectation": "GP TYPE / ARMED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Speed / Config",
+              "expectation": "85 KIAS / HALF FLAPS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "FMA",
+              "expectation": "READ ALOUD",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "TDZE",
+              "expectation": "HEIGHT AT MINS",
               "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
