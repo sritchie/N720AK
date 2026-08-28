@@ -2420,7 +2420,8 @@
             {
               "prompt": "Fuel Pump Breakers",
               "expectation": "PULL BOTH",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "the pumps are the 45 PSI feeding a fuel fire — physical breakers beat switch logic in a fire",
@@ -2430,7 +2431,8 @@
             {
               "prompt": "Key Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "kills ECUs, both busses, and any wire-arc source",
@@ -2440,7 +2442,8 @@
             {
               "prompt": "Fuel Selector",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "stops gravity/siphon feed to a firewall-forward leak",
@@ -2509,7 +2512,8 @@
             {
               "prompt": "Key Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "the one keyed master — kills ECUs, fuel pumps, and both busses",
@@ -2519,7 +2523,8 @@
             {
               "prompt": "Emergency Power Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "now the airplane is fully dark",
@@ -2529,7 +2534,8 @@
             {
               "prompt": "Vents / Cabin Air",
               "expectation": "OPEN",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "clear smoke",

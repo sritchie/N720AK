@@ -1951,17 +1951,20 @@
             {
               "prompt": "Fuel Pump Breakers",
               "expectation": "PULL BOTH",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "Key Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "Fuel Selector",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "Emergency Power Switch",
@@ -2005,17 +2008,20 @@
             {
               "prompt": "Key Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "Emergency Power Switch",
               "expectation": "OFF",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "Vents / Cabin Air",
               "expectation": "OPEN",
-              "type": "ITEM_CHALLENGE_RESPONSE"
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
             },
             {
               "prompt": "Fire Extinguisher",
