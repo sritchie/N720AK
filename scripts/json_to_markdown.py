@@ -26,16 +26,28 @@ DERIVED = "> These procedures are derived from the efis-editor checklist file."
 DERIVED2 = "> Update the source JSON and regenerate to modify."
 
 # Items bolded inside their full checklist because they are memory items
-# (mirrors the Memory Items group). Keyed by checklist title -> prompts.
+# (mirrors the Memory Items group). Keyed by checklist title ->
+# (prompt, expectation) pairs, so a repeated prompt with a different
+# expectation (e.g. Emergency Power Switch OFF vs ON) stays unbolded.
 BOLD = {
-    "Engine Failure Immediately After Takeoff": ["Pitch", "Landing Spot"],
-    "Engine Failure In Flight": ["Airspeed", "NRST Button", "Best Field"],
-    "Engine Failure On Approach": ["Airspeed", "Best Surface"],
-    "Engine Fire In Flight": ["Fuel Selector", "Key Switch"],
-    "Electrical Fire / Smoke In Cockpit": ["Key Switch", "Master Switch", "Vents / Cabin Air"],
-    "Bus Manager Failure / Switch to Endurance Bus": ["Emergency Power Switch"],
-    "Runaway Trim": ["Avionics Master"],
-    "Upset Recovery — Power / Push / Roll": ["Power", "Push", "Roll"],
+    "Engine Failure Immediately After Takeoff": [
+        ("Pitch", "ONSPEED"), ("Landing Spot", "WITHIN ±30º")],
+    "Engine Failure In Flight": [
+        ("Airspeed", "BEST GLIDE 95 KIAS"), ("NRST Button", "HOLD / AP ENGAGE"),
+        ("Best Field", "DECIDE")],
+    "Engine Failure On Approach": [
+        ("Airspeed", "ONSPEED"), ("Best Surface", "LAND")],
+    "Engine Fire In Flight": [
+        ("Fuel Pump Breakers", "PULL BOTH"), ("Key Switch", "OFF"),
+        ("Fuel Selector", "OFF")],
+    "Electrical Fire / Smoke In Cockpit": [
+        ("Key Switch", "OFF"), ("Emergency Power Switch", "OFF"),
+        ("Vents / Cabin Air", "OPEN")],
+    "Bus Manager Failure / Switch to Endurance Bus": [
+        ("Emergency Power Switch", "ON")],
+    "Runaway Trim": [("Avionics Master", "OFF")],
+    "Upset Recovery — Power / Push / Roll": [
+        ("Power", "ADJUST"), ("Push", "UNLOAD"), ("Roll", "WINGS LEVEL")],
 }
 
 
@@ -49,7 +61,7 @@ def render_checklist(c, memory_style):
         exp = it.get("expectation", "")
         indent = it.get("indent", 0)
         if t == "ITEM_CHALLENGE_RESPONSE":
-            if memory_style or prompt in bold_prompts:
+            if memory_style or (prompt, exp) in bold_prompts:
                 out.append(f"\n**{prompt}** ... **{exp}**\n\n")
                 attached = False
             else:

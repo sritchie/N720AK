@@ -50,7 +50,7 @@
 **Key Switch** ... **OFF**
 
 
-**Master Switch** ... **OFF**
+**Emergency Power Switch** ... **OFF**
 
 
 **Vents** ... **OPEN**
