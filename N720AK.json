@@ -443,6 +443,16 @@
             },
             {
               "prompt": "Fuel Selector",
+              "expectation": "CYCLE BOTH TANKS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "pump running — pause on each tank until pressure steadies at 45 PSI; purges bubbles from both feed lines, proves both pickups and the selector",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Fuel Selector",
               "expectation": "FULLEST TANK",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },

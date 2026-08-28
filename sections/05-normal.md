@@ -165,6 +165,9 @@
     *verify Pump 1 GREEN*
 - ECU Select ... **ECU1**
 - Fuel Quantity Indicators ... **CHECK**
+- Fuel Selector ... **CYCLE BOTH TANKS**
+  
+    *pump running — pause on each tank until pressure steadies at 45 PSI; purges bubbles from both feed lines, proves both pickups and the selector*
 - Fuel Selector ... **FULLEST TANK**
 - Fuel Pressure ... **45 PSI / GREEN**
 - Brakes ... **TEST AND SET**

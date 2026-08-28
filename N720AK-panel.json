@@ -418,6 +418,11 @@
             },
             {
               "prompt": "Fuel Selector",
+              "expectation": "CYCLE BOTH TANKS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Fuel Selector",
               "expectation": "FULLEST TANK",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
