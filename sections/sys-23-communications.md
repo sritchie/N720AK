@@ -165,12 +165,73 @@ COM audio routing per the same drawing: GTN 650 com (P1003) is the GMA 245's **C
 
 <!-- TODO: Antenna coax routing details -->
 
+## Backup NavCom — Yaesu FTA-850 (handheld)
+
+Carry-aboard backup transceiver (purchased 2026-08). COM 118–136.975 MHz
+transmit/receive, plus **VOR and ILS CDI display** on the NAV band
+(108–117.975) and a built-in GPS with waypoint/route navigation — so a total
+electrical failure still leaves com, a nav needle, and a position source.
+Nav functions are supplemental aids only, per Yaesu.
+
+**In the box** (FTA-850L): SBR-39LI 7.2 V 2200 mAh lithium pack (~10 hr
+receive-heavy; 5.5 hr fast charge in the cradle), SAD-25 AC charger +
+SBH-11 cradle, **SDD-12 cigarette-lighter DC adapter** (12–24 V — runs off
+the panel power port), **SCU-42 headset adapter cable** (aviation headset →
+radio), SBT-12 alkaline AA tray (do NOT put rechargeables in it — no
+protection circuits), SRA-20A antenna, belt clip, USB cable.
+
+### Condensed operating guide
+
+- **121.5 in one action**: press and hold **[121.5]** — four beeps, tuned.
+  Works even with the keypad locked. Exit: [COMM], confirm YES.
+- **Frequency entry**: five keypad digits (134.35 → 1-3-4-3-5; trailing
+  5/0 of 8.33-style channels auto-completes), or the outer DIAL knob.
+  [ENT] on the freq field recalls a recently-used list.
+- **Volume/squelch**: inner knob = volume; hold SQL to open squelch for
+  setting level against noise. Monitor switch un-mutes weak signals.
+- **Transmit**: PTT on the left side; speak close to the grille mic (it's
+  waterproof-sealed and needs directed voice) — or use the SCU-42 with a
+  real headset, which is the plan in the airplane.
+- **Memories**: 400 channels in 9 groups. MENU → MEMORY → group → ▲/▼.
+  [SAVE] from COMM mode stores the current freq. Bulk-load with the free
+  YCE46 PC software — preload home/mission channels (KBDU, KBJC, KLMO,
+  Denver App sectors, KEGE and mountain AWOS/CTAFs, Flight Service 122.2).
+- **VOR**: tune a NAV-band VOR frequency and the CDI screen appears
+  automatically — compass rose, deviation needle, TO/FROM, GPS
+  speed-over-ground. Set the course: [FUNC] → OBS → enter the radial.
+- **ILS**: tune the localizer frequency; LOC and GS needles display
+  automatically. Combined with GPS groundspeed this is a genuine
+  get-down-through-a-layer backup.
+- **Dual watch**: polls a priority channel while listening to another
+  (SETUP → COMM Setup sets the priority; FUNC menu toggles it).
+- **Weather**: NOAA weather channels via MENU → WX; GPS position readout
+  under the GPS menu for the "where am I" call.
+- **Battery discipline**: battery-saver sleep cycles are on by default;
+  the display battery icon blinks when charge is critical. AA tray rides
+  in the flight bag as the deep reserve.
+
+### Carriage doctrine
+
+- Lives **charged and reachable from the pilot seat** — not in the
+  baggage area. The whole point is the panel-dark scenario.
+- The SCU-42 headset adapter stays WITH the radio; using the internal
+  mic/speaker against cabin noise at cruise is marginal.
+- Rubber-duck antenna inside an aluminum cabin costs serious range —
+  community consensus is roughly a factor of five versus an external
+  antenna. Usable for pattern/tower work; for a real IFR lost-com the
+  fix is an external antenna jack (BNC to a spare or belly whip) —
+  candidate future wiring project.
+- Exercised on a recurring schedule (flight-school `sys-handheld-navcom`
+  drill): power on, recall a memory, hold [121.5], tune a VOR and set
+  the OBS — so the first fumble happens on the ground.
+
 ## Inspection & Maintenance
 
 <!-- TODO: Antenna condition check, connector inspection, headset jack cleaning -->
 
 ## References
 
+- [Yaesu FTA-850 Operating Manual](https://drive.google.com/file/d/17F35mGrab0zRVGJ53-fjDBMTiwleQnHr/view)
 - [Garmin GMA 245 Pilot's Guide](https://drive.google.com/file/d/1e8kQ9axjUSXKm6KyOz8QHKcjZ_O7Li0g/view)
 - [Garmin GTN 650 Pilot's Guide](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view)
 - [Artex ELT 345 Manual](https://drive.google.com/file/d/1OXIHSMY2lg3rjRosWWdaETwle8ACyBID/view)

@@ -22,6 +22,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | garmin-gma245-pilots-guide.pdf | [link](https://drive.google.com/file/d/1e8kQ9axjUSXKm6KyOz8QHKcjZ_O7Li0g/view) |
+| Yaesu-FTA-850-Operating-Manual.pdf | [link](https://drive.google.com/file/d/17F35mGrab0zRVGJ53-fjDBMTiwleQnHr/view) |
 | garmin-gtn650-pilots-guide.pdf | [link](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) |
 | artex-elt345-manual.pdf | [link](https://drive.google.com/file/d/1OXIHSMY2lg3rjRosWWdaETwle8ACyBID/view) |
 | comant-ci121-datasheet.pdf | [link](https://drive.google.com/file/d/1KGBLLrU7Iy-crf-HF9dJbJl_PzbOfsHo/view) |
