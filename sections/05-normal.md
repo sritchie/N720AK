@@ -443,6 +443,9 @@
 
 - Seats, Belts, Harnesses ... **ADJUST AND LOCK**
 - Lights ... **LANDING / TAXI**
+
+  > *Note: Night, non-towered: key CTAF 7x for PCL (5/3 to dim); re-key on final — 15 min timer*
+
 - Transponder ... **ALT**
 - Doors ... **LATCHED**
 - Brakes ... **TEST**
