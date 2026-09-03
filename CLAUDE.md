@@ -33,6 +33,10 @@ Sections 04/04b/05 are **generated** from `N720AK.json` — edit the JSON, never
 
 `./build.sh <pdf|html|serve|all>` — prerequisites in `README.md`, section-to-file mapping in `sections/SUMMARY.md`.
 
+## Web Tools
+
+`sections/tools/` holds static browser tools that mdBook copies verbatim into the site (e.g. `sections/tools/fta850/` → `n720ak.com/tools/fta850/`, the FTA-850 memory-book programmer over Web Serial). Logic lives in plain ES modules with node tests: `node --test tests/*.test.mjs`. Keep the DOM code thin and the protocol/codec code in the tested module.
+
 ## Aircraft Configuration - N720AK
 
 The full system inventory and operational descriptions live in `sections/08-systems.md` (pilot-facing) and the `sys-*.md` pages (build/technical reference) — read those rather than expecting a summary here. Servicing specs (fluids, tire pressures, intervals) are in `sections/09-servicing.md`.
