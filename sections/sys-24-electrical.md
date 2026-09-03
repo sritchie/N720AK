@@ -27,9 +27,29 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 - **Essential (Endurance) Bus**: Powers critical engine systems — ignition, fuel injection, fuel pumps. Managed by System32 Bus Manager. **Protected by conventional physical circuit breakers, one per item** — these are *not* VPX channels.
 - **Main Bus**: Powers avionics and other aircraft systems via VPX Sport electronic breakers.
 
-> **The only physical breakers in this airplane are on the endurance bus, and they feed the things that keep the engine running.** That is the inverse of a conventional airplane, where the pullable breakers are avionics and the engine needs no electrical power at all. Anyone reaching for a breaker panel out of habit is reaching for ignition, fuel injection, and the fuel pumps. Brief this before engine start. See `sections/sys-73-efii.md` for why the engine stops without them.
+> **The only physical breakers in this airplane are on the essential bus bar.** Most feed the things that keep the engine running — that is the inverse of a conventional airplane, where the pullable breakers are avionics and the engine needs no electrical power at all. Anyone reaching for a breaker panel out of habit may be reaching for ignition, fuel injection, and the fuel pumps. Brief this before engine start. See `sections/sys-73-efii.md` for why the engine stops without them.
 
-<!-- TODO: Endurance bus breaker list — which items, what amperage, panel location? -->
+#### Essential Bus Bar Breakers
+
+Per the SteinAir power & lighting schematic (verified 2026-08):
+
+| Breaker | Amps | Feeds |
+|---------|------|-------|
+| ALT FLD | 5 | Alternator field (via panel switch) |
+| ECU PRI | 5 | Primary ECU (via IGN 1 toggle) |
+| ECU SEC | 5 | Secondary ECU (via IGN 2 toggle) |
+| PUMP 1 | 10 | Fuel pump 1 |
+| PUMP 2 | 10 | Fuel pump 2 |
+| IGN PWR | 15 | Ignition coils |
+| PFD | 5 | SV-HDX1100 PFD1 (D37-1/20) |
+| COM 1 | 10 | GTN 650 com board (P1003-30/43/44, via COM relay) |
+| NAV 1 | 7.5 | GTN 650 GPS/main + VLOC boards (P1001-19/20, P1004-51/52, via NAV relay) |
+| PNL LTS | 5 | Panel lighting |
+| SERVOS | — | Autopilot servos |
+
+**COM 1 / NAV 1 split**: pulling COM 1 kills only the GTN's com transceiver (stuck-mic response — screen, GPS, and VLOC keep running). Pulling NAV 1 kills the GTN main and VLOC boards; the com board keeps operating on its last frequency with no display or tuning.
+
+**Known issue (fix planned at annual)**: the GTN's COM/NAV power relays are held closed by the AV MSTR switch from a *main-bus* feed — so any main-bus loss opens them and the GTN goes dark despite its essential-bus breakers being hot. Planned fix: re-source the relay coil feed from the essential bus. The transponder/ADS-B (VPX J10-7) and GMA 245/headset power (VPX J10-4) also die with the main bus; planned fixes are an essential dual-feed and a dedicated essential breaker respectively.
 
 ### Display Backup Power — Deliberately Not Installed
 
@@ -37,15 +57,15 @@ Dynon's **SV-BAT-320 backup batteries are not part of this system**, by choice. 
 
 Consequence worth knowing: there is no display-level power reserve. Display availability depends entirely on the bus, which is what the dual-battery and dual-charging architecture exists to protect.
 
-### Emergency Endurance Bus
+### How the Bus Manager Actually Works
 
-If a battery fails or bus voltage drops critically, the System32 Bus Manager automatically:
+Verified against Bus Manager Drawing 5/5A (2026-08). Three facts define the architecture:
 
-1. Disconnects non-essential loads from the main bus
-2. Preserves all available power for the essential bus
-3. Maintains engine ignition and fuel injection
+1. **The key drives the Main Bus Relay** (the only control of the main bus) and, cascaded from it, the Essential Bus Relay. The IGN 1 / IGN 2 panel toggles — not the key — are the ECU enables, sitting between the ECU breakers and the ECUs.
+2. **The essential bus is continuously diode-OR fed from both batteries.** There is no switching logic — the essential bus passively draws from whichever battery node is higher, and when the nodes are close (alternator ~14.3 V, MZ-30 ~14.2 V) both sources share load through their diodes. This is normal and by design. Diode paths drop ~0.5–0.7 V below battery voltage under load. Charge isolation is separate and intact: the alternator cannot charge Battery 2 and the generator cannot charge Battery 1.
+3. **The EMERGENCY POWER switch is a hard jumper** from the both-battery diode node directly to the essential bus output, bypassing the key, both relays, and all Bus Manager logic. It exists for Bus-Manager-internal failure; flipping it in normal flight changes nothing observable (it arms a parallel path). The Bus Manager does *not* automatically shed loads — the "automatic" protection is purely the passive diode-OR.
 
-The **EMERGENCY POWER** switch on the panel manually activates this mode.
+**In-flight main-bus shed maneuver**: E-PWR ON → *verify essential bus voltage* → KEY OFF. The engine keeps running (ECUs fed from the essential bus through the IGN toggles), the main bus and everything on the VPX goes dark, and both charging sources keep working. **Order is critical** — key-off with E-PWR off (or failed) stops the engine. Note the interaction with the engine-fire procedure: "Key OFF" only stops the engine while E-PWR is off. Main-bus loss also kills flaps, electric trim (AP panel), and pitot heat; the AP servos are essential-fed and the autopilot remains flyable from PFD1 minus auto-trim.
 
 **Endurance bus radio behavior**: The GTN 650 is COM1. If power goes out on the GMA 245, it hard-connects COM1 from the GTN 650 directly to the headphones. This ensures radio communication is maintained even if the audio panel loses power on the endurance bus.
 
@@ -91,7 +111,15 @@ Installed 2026-03-09. The MZ-30 is a permanent-magnet generator driven off the e
 
 **Voltage selection**: Ships configured for 14.6 VDC. For lithium batteries (EarthX), the lower 14.2 VDC setting is recommended per Monkworkz Feb 2026 guidance. To select 14.2V, disconnect pin 1 (VSEL) on the input side Pico-Lock connector. Voltage is set at startup and cannot be changed while running.
 
-<!-- TODO: Confirm which voltage setting is currently configured on N720AK (14.6 or 14.2). If 14.6, consider switching to 14.2 per lithium battery recommendation. -->
+**N720AK is confirmed on the 14.2 V setting** — flight data (2026-06 and 2026-08 logs) shows the Battery 2 node regulating at 14.20 V against the alternator's 14.30 V. This is exactly Monkworkz's recommended standby-generator geometry (primary slightly above the MZ).
+
+#### Standby Behavior — Read This Before Toggling the Enable Switch In Flight
+
+Per the manual (v4, Operation, p. 21), the regulator produces output only when **the attached bus voltage is below 13.7 V** (in addition to RPM/temperature limits). Consequences observed in flight (2026-08-31):
+
+- **Toggling enable OFF then ON in flight does not bring the generator back** while the alternator is healthy — Battery 2's surface charge holds the node above 13.7 V, so the regulator sits in standby, possibly for the rest of the flight. It re-engages on its own after landing as the node sags. This is designed standby-generator behavior, not a fault.
+- **The functional test of the MZ-30 is turning the alternator field OFF** (briefly): the bus sags, the MZ engages within seconds, ALT back on. Toggling the MZ's own switch proves nothing.
+- **Load sharing is normal**: with the nodes 0.1 V apart, cruise logs show the MZ contributing ~6 A (peaks ~18 A) alongside the alternator's ~23 A through the essential-bus diode-OR. This is supply-sharing into the essential bus, not a charge-isolation failure.
 
 #### Architecture
 
@@ -186,7 +214,7 @@ The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
 <!-- TODO: Wire CO Guardian audible alarm into the GMA 245 audio panel so it's heard through the headsets -->
 <!-- TODO: Consider an alternative path for CO PPM display on the EFIS (standalone CO monitor or additional EMS module) -->
-<!-- TODO: Consider wiring Output Active (pin 2) to a Dynon contact input for generator active/failed annunciation -->
+<!-- TODO: Wire Output Active (pin 2, orange/brown wire coiled near the enable switch) to a Dynon contact input for GEN ACTIVE/STANDBY annunciation. EMS pins are full — use a SkyView DISPLAY D37 contact input instead (pins 28/27/14/15 = Contacts 1-4 on each display harness, unused per the interconnect schematic). Pin 2 pulls to ground when the regulator is producing (post-June-2022 units), which matches Dynon contact-input expectations. -->
 
 #### References
 
