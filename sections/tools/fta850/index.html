@@ -51,7 +51,7 @@
 </head>
 <body>
 <h1>FTA-850 Memory Book Programmer</h1>
-<p class="lead">Read, edit and program the 400-channel memory book of a Yaesu FTA-850L from the browser over USB. No driver, no Windows. Works in Chrome and Edge (Web Serial).</p>
+<p class="lead">Read, edit and program the 400-channel memory book of a Yaesu FTA-850L from the browser over USB. No driver, no Windows. Works in Chrome and Edge (Web Serial). Operating notes for the radio itself are in the handbook's <a href="../../sys-23-communications.html#backup-navcom--yaesu-fta-850-handheld">FTA-850 guide</a>.</p>
 
 <p id="no-serial" class="warn" hidden>This browser has no Web Serial support. Open this page in Chrome or Edge on a desktop computer. You can still edit and save <code>.dat</code> and CSV files here.</p>
 
@@ -102,7 +102,7 @@
 
 <p class="warn"><b>What this writes.</b> Only the memory-book areas: channel slots, group names, the enable/scan bitmaps and the recall copies. Radio settings, GPS setup, weather-channel names, routes and calibration are never touched, so the worst case is a memory book you re-program. The wire protocol and memory layout were reverse-engineered from Yaesu's YCE46 programmer, and the write path has not yet been exercised against a real radio; keep YCE46 in a Windows VM as the fallback until it has.</p>
 
-<footer>Part of the <a href="../../">N720AK handbook</a>. Yaesu and FTA-850 are trademarks of Yaesu Musen Co., Ltd.; this tool is unaffiliated.</footer>
+<footer>Part of the <a href="../../">N720AK handbook</a> &middot; <a href="../../sys-23-communications.html#backup-navcom--yaesu-fta-850-handheld">FTA-850 operating guide</a> &middot; <a href="../../sys-23-communications.html#pc-programming-yce46-and-the-web-programmer">protocol notes</a>. Yaesu and FTA-850 are trademarks of Yaesu Musen Co., Ltd.; this tool is unaffiliated.</footer>
 
 <script type="module" src="./app.js"></script>
 </body>
