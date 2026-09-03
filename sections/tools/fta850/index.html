@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FTA-850 Memory Book Programmer</title>
+<style>
+  :root { color-scheme: light; --bg: #fafafa; --fg: #222; --muted: #777; --line: #ddd; --accent: #1a5fb4; --bad: #c01c28; --ok: #26a269; }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 1.25rem; font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background: var(--bg); color: var(--fg); max-width: 1100px; margin-inline: auto; }
+  h1 { font-size: 1.4rem; margin: 0 0 .25rem; }
+  h2 { font-size: 1rem; margin: 1.5rem 0 .5rem; }
+  p, li { max-width: 72ch; }
+  .lead { color: var(--muted); margin: 0 0 1rem; }
+  .bar { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; margin: .5rem 0; }
+  .bar .sep { flex-basis: 100%; height: 0; }
+  button { font: inherit; padding: .4rem .8rem; border: 1px solid #bbb; border-radius: 6px; background: #fff; cursor: pointer; }
+  button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+  button:disabled { opacity: .45; cursor: default; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  button.primary:hover:not(:disabled) { color: #fff; background: #164f96; }
+  .status { flex: 1 1 20ch; min-height: 1.5em; }
+  .status.ok { color: var(--ok); } .status.error { color: var(--bad); font-weight: 600; }
+  progress { width: 100%; height: 8px; }
+  .meta { color: var(--muted); font-size: .9em; }
+  #dirty { color: var(--bad); font-weight: 600; }
+  #groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .4rem .8rem; }
+  #groups label { display: flex; align-items: center; gap: .4rem; }
+  #groups label span { color: var(--muted); width: 1.2em; text-align: right; }
+  input, select { font: inherit; padding: .3rem .4rem; border: 1px solid #bbb; border-radius: 4px; background: #fff; width: 100%; }
+  input.bad { border-color: var(--bad); background: #fff0f0; }
+  input.tag { text-transform: uppercase; font-family: ui-monospace, Menlo, monospace; }
+  input.freq { font-family: ui-monospace, Menlo, monospace; }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; padding: .25rem .4rem; border-bottom: 1px solid var(--line); vertical-align: middle; }
+  th { font-weight: 600; color: var(--muted); font-size: .85em; white-space: nowrap; }
+  td.num { color: var(--muted); width: 3.5em; font-variant-numeric: tabular-nums; }
+  td.extra { color: var(--muted); font-size: .85em; white-space: nowrap; }
+  td:nth-child(3) { width: 12em; } td:nth-child(4) { width: 8em; } td:nth-child(5) { width: 16em; }
+  .muted { color: var(--muted); }
+  button.del { padding: 0 .5rem; line-height: 1.5; }
+  .warn { background: #fff8e1; border: 1px solid #f0d27a; border-radius: 6px; padding: .6rem .9rem; }
+  #no-serial { background: #fdecea; border-color: #f2a8a2; }
+  details summary { cursor: pointer; color: var(--muted); }
+  #log { font: 12px/1.35 ui-monospace, Menlo, monospace; background: #111; color: #ddd; padding: .6rem; border-radius: 6px; max-height: 18rem; overflow: auto; white-space: pre; }
+  ol { padding-left: 1.3rem; }
+  code { font-family: ui-monospace, Menlo, monospace; font-size: .92em; }
+  footer { margin-top: 2rem; color: var(--muted); font-size: .9em; }
+</style>
+</head>
+<body>
+<h1>FTA-850 Memory Book Programmer</h1>
+<p class="lead">Read, edit and program the 400-channel memory book of a Yaesu FTA-850L from the browser over USB. No driver, no Windows. Works in Chrome and Edge (Web Serial).</p>
+
+<p id="no-serial" class="warn" hidden>This browser has no Web Serial support. Open this page in Chrome or Edge on a desktop computer. You can still edit and save <code>.dat</code> and CSV files here.</p>
+
+<div class="bar">
+  <button id="btn-connect">Connect</button>
+  <button id="btn-read" class="primary">Read from radio</button>
+  <button id="btn-program" class="primary">Program to radio</button>
+  <button id="btn-disconnect">Disconnect</button>
+  <span id="status" class="status"></span>
+  <span class="sep"></span>
+  <progress id="progress" value="0" max="1" hidden></progress>
+</div>
+
+<div class="bar">
+  <button id="btn-new">New (factory default)</button>
+  <button id="btn-open">Open .dat</button>
+  <button id="btn-save">Save .dat</button>
+  <button id="btn-import">Import CSV</button>
+  <button id="btn-export">Export CSV</button>
+  <span class="meta">Loaded: <span id="source">nothing loaded</span> <span id="dirty" hidden>&middot; unsaved edits</span></span>
+  <input type="file" id="file-dat" accept=".dat" hidden>
+  <input type="file" id="file-csv" accept=".csv,text/csv" hidden>
+</div>
+
+<h2>Group names</h2>
+<div id="groups"></div>
+
+<h2>Channels <span class="meta" id="count"></span></h2>
+<div class="table-wrap">
+<table>
+  <thead><tr><th>#</th><th>Mem</th><th>Group</th><th>Frequency</th><th>Tag</th><th></th><th></th></tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+</div>
+<div class="bar"><button id="btn-add">Add channel</button><span class="meta">Frequencies in MHz (118.000&ndash;136.975, 25 kHz steps; 8.33 kHz channels only if the radio has 8.33 enabled). Tags: up to 14 characters, letters, digits and <code>space * + , / &amp; - [ ] .</code>. Channels are stored sorted by tag, the way YCE46 does it.</span></div>
+
+<details id="log-details"><summary>Serial log</summary><pre id="log"></pre></details>
+
+<h2>How to use</h2>
+<ol>
+  <li>Turn the radio off. Connect the supplied USB cable to the DATA jack.</li>
+  <li>Hold <b>SQL</b> while turning the radio on until it shows <b>CP Mode</b>.</li>
+  <li>Click <b>Read from radio</b> and pick the FTA-850 port. Chrome asks once per site.</li>
+  <li>Edit channels and group names, or <b>Import CSV</b> (columns <code>group,frequency,tag</code>). Save a <code>.dat</code> backup first if you like; the file is YCE46-compatible.</li>
+  <li>Click <b>Program to radio</b>. Only the changed blocks are written, then read back and verified.</li>
+  <li>Power-cycle the radio to leave CP mode.</li>
+</ol>
+
+<p class="warn"><b>What this writes.</b> Only the memory-book areas: channel slots, group names, the enable/scan bitmaps and the recall copies. Radio settings, GPS setup, weather-channel names, routes and calibration are never touched, so the worst case is a memory book you re-program. The wire protocol and memory layout were reverse-engineered from Yaesu's YCE46 programmer, and the write path has not yet been exercised against a real radio; keep YCE46 in a Windows VM as the fallback until it has.</p>
+
+<footer>Part of the <a href="../../">N720AK handbook</a>. Yaesu and FTA-850 are trademarks of Yaesu Musen Co., Ltd.; this tool is unaffiliated.</footer>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>

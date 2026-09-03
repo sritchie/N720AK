@@ -193,9 +193,11 @@ protection circuits), SRA-20A antenna, belt clip, USB cable.
   waterproof-sealed and needs directed voice) — or use the SCU-42 with a
   real headset, which is the plan in the airplane.
 - **Memories**: 400 channels in 9 groups. MENU → MEMORY → group → ▲/▼.
-  [SAVE] from COMM mode stores the current freq. Bulk-load with the free
-  YCE46 PC software — preload home/mission channels (KBDU, KBJC, KLMO,
-  Denver App sectors, KEGE and mountain AWOS/CTAFs, Flight Service 122.2).
+  [SAVE] from COMM mode stores the current freq. Bulk-load from a browser
+  with the [FTA-850 Memory Book Programmer](tools/fta850/index.html)
+  (Chrome/Edge, USB, no driver) or Yaesu's Windows-only YCE46 software —
+  preload home/mission channels (KBDU, KBJC, KLMO, Denver App sectors,
+  KEGE and mountain AWOS/CTAFs, Flight Service 122.2).
 - **VOR**: tune a NAV-band VOR frequency and the CDI screen appears
   automatically — compass rose, deviation needle, TO/FROM, GPS
   speed-over-ground. Set the course: [FUNC] → OBS → enter the radial.
@@ -228,6 +230,26 @@ protection circuits), SRA-20A antenna, belt clip, USB cable.
 ## Inspection & Maintenance
 
 <!-- TODO: Antenna condition check, connector inspection, headset jack cleaning -->
+
+### PC programming (YCE46) and the web programmer
+
+Yaesu's YCE46 (v1.0.0.0, 2021) is a .NET 4.6 WinForms program; its
+"driver" is just an INF binding the radio to Windows' stock USB CDC-ACM
+serial driver (VID `26AA`, PID `0024`), so macOS and Linux need no driver
+at all. The radio must be in CP mode (hold **SQL** while powering on).
+The wire protocol is plain ASCII at 115200 8N1: tab-delimited commands
+with a one-byte XOR checksum (`#CMDSY` sync, `#CVRRQ` firmware version,
+`#CEPSR` status poll, `#CEPRD`/`#CEPWR` 64-byte reads and writes of a
+32 KiB memory image), plus MediaTek PMTK sentences for the GPS logger. A
+`.dat` file is that raw image; model code `0352` sits at offsets `0x0100`
+and `0x7FFE`, the 400 memory-book entries (48 bytes each) start at
+`0x3000`, group names at `0x0300`.
+
+The [web programmer](tools/fta850/index.html) in this handbook
+reimplements that protocol over Web Serial and edits only the
+memory-book areas. Source: `sections/tools/fta850/`; tests run with
+`node --test tests/*.test.mjs` against a fake radio. As of 2026-09 the
+write path has not yet been tried against the real radio.
 
 ## References
 
