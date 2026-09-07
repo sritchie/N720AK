@@ -6,6 +6,13 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 
 ## Manuals
 
+### 00-ADM-Human-Factors
+
+| File | GDrive URL |
+|------|-----------|
+| AC-60-22-Aeronautical-Decision-Making.pdf | [link](https://drive.google.com/file/d/1mPHeSVoyOTuSYtutIyTPmXjfhsQB9B4X/view) |
+| FAA-Designated-Mountainous-Areas-briefing.pdf | [link](https://drive.google.com/file/d/1okuQFpNVOwTYZ4Mw58hqE32aCqvzoy3Y/view) |
+
 ### 22-Autopilot
 
 | File | GDrive URL |
