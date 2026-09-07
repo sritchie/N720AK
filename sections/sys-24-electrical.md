@@ -69,6 +69,22 @@ Verified against Bus Manager Drawing 5/5A (2026-08). Three facts define the arch
 
 **Endurance bus radio behavior**: The GTN 650 is COM1. If power goes out on the GMA 245, it hard-connects COM1 from the GTN 650 directly to the headphones. This ensures radio communication is maintained even if the audio panel loses power on the endurance bus.
 
+### Ammeter Shunt Placement — Reading an Alternator Failure
+
+The system's current shunt sits between the **alternator and the system**, not
+between the battery and the bus. The consequence for failure recognition: on an
+alternator failure the SkyView does **not** show a battery discharge — battery
+drain is downstream of the shunt and invisible to it. What you see is **alternator
+amps dropping toward zero**, followed by bus voltage sagging as Battery 1 begins
+to carry the main-bus load unassisted.
+
+**Alerting implication:** because the failure won't announce itself as a
+"discharge," the EMS alerts should be tuned to catch it directly — a
+low-alternator-output (amps-near-zero) and/or low-bus-voltage alarm — so the
+first indication isn't a slow, silent battery drain. Confirm these alarm
+thresholds are set on the ground. (Battery 2 / MZ-30 charging is independent and
+unaffected — see the MZ-30 section.)
+
 ### VPX Sport
 
 The VPX Sport provides:
