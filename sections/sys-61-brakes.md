@@ -15,8 +15,9 @@ N720AK has a fixed tricycle landing gear with hydraulic disc brakes on the main 
 | Brake fluid | Royco 782 | — | MIL-PRF-83282 |
 | Main wheels | WHLWI600XLT-2 | [Matco](https://drive.google.com/file/d/1ZMiXmYFD3oy5Z84GISiLJkfhUn_69s80/view) | WI600 series wheels & brakes |
 | Nose wheel | AV-VANS-102-01 | [Beringer](https://drive.google.com/file/d/1-RQTx1cs9a9FDzubiTs9d8Xm1exrmfE1/view) | Beringer nosewheel (from finishing kit). Key parts: AV-VANS-004, JB-01, PAA02, AV-VANS-010. See [assembly drawing](https://drive.google.com/file/d/1mFLlQsnlvbyTMAaCnE1bWkoyrKa7Rsb3/view). |
-| Main tires | 15x6.00-6, 6-ply | Desser | Tubeless retreads (no inner tubes). Original pair: Goodyear PN 156E61-3 retreads by Aero Wheel & Brake Service Corp (Desser's Montebello repair station), 8130-3s #275723/275724, June 2016. Right main replaced 2026-08-30 with a 2024-date 15x6.00-6. Note: "15x6.00-6" is the short (~15" OD) variant — plain "6.00-6" is ~2.5" taller and will not fit the wheel pants; Desser "Monster" retreads in this size are also too large for the pants. |
-| Nose tire | Michelin 5.00-5, 10-ply (5.00-5/10/120) | Michelin | PN 071-311-0, TSO-C62 (EASA Form 1 on file) |
+| Main tires | 15x6.00-6, 6-ply | Desser | Tube-type retreads (inner tubes — see Tire Maintenance). Original pair: Goodyear PN 156E61-3 retreads by Aero Wheel & Brake Service Corp (Desser's Montebello repair station), 8130-3s #275723/275724, June 2016. Right main replaced 2026-08-30 with a 2024-date 15x6.00-6. Note: "15x6.00-6" is the short (~15" OD) variant — plain "6.00-6" is ~2.5" taller and will not fit the wheel pants; Desser "Monster" retreads in this size are also too large for the pants. |
+| Nose tire | Michelin 5.00-5, 10-ply (5.00-5/10/120) | Michelin | PN 071-311-0, TSO-C62 (EASA Form 1 on file). Tubeless on the Beringer wheel (O-ring valve, Beringer A-001 replacement stem). |
+| Main tubes | Aero Classic 15-600-6 TR-20 straight stem (GL-1520N) | Aircraft Spruce 06-01219 | Standard (non-Leakguard) butyl tube; one spare in stock. Angled-stem alternative: Desser TIRTU15x600x6/70 (GL-1587), Leakguard, TR-87 70° stem — the tube Matco specifies for the RV-10 with the Van's axle nut / wheel-pant bracket. |
 | Wheel fairings | <!-- TODO --> | <!-- TODO --> | Main gear only |
 | Axle extenders | RVAE10 (VAE10/RVbits) | Cleaveland Tool | Wheel pant axle extenders (pair). AN5-6A bolts, torque 100 in-lbs. See [installation guide](https://drive.google.com/file/d/1l-FiOyAeNCY5SBKun7PtulPUNS9CfxAR/view). |
 | Wheel fairing spacers | WFSPCR | Planearound | Bracket spacers for wheel fairings |
@@ -57,10 +58,11 @@ Fixed tricycle configuration:
 |---------------|-------|
 | Main tire size | 15x6.00-6, 6-ply (the short ~15" OD variant — not plain 6.00-6) |
 | Nose tire size | Michelin 5.00-5, 10-ply |
+| Main tubes | Aero Classic 15-600-6 TR-20 straight (Spruce 06-01219); Desser GL-1587 TR-87 70° for pant valve access |
 | Main tire pressure | 40 PSI |
 | Nose tire pressure | <!-- TODO --> PSI |
 
-**Tire source**: Desser standard-profile retreads (Aircraft Spruce carries them as "Retread Tire 15/600-6 6 Ply High Performance," P/N 06-01471) — [reference notes from another RV-10](http://www.myrv10.com/N104CD/upgrades/20110326/index.html). Skip inner tubes and tires from other suppliers. **Avoid Monster retreads** — the extra tread depth grows the OD past wheel-pant clearance, and retreads expand further in service.
+**Tire source**: Desser standard-profile retreads (Aircraft Spruce carries them as "Retread Tire 15/600-6 6 Ply High Performance," P/N 06-01471) — [reference notes from another RV-10](http://www.myrv10.com/N104CD/upgrades/20110326/index.html). The mains are tube-type (Matco wheels, no tubeless kit); only the Beringer nosewheel is tubeless. Skip tires from other suppliers. **Avoid Monster retreads** — the extra tread depth grows the OD past wheel-pant clearance, and retreads expand further in service.
 <!-- TODO: Tire replacement procedure -->
 
 ## References

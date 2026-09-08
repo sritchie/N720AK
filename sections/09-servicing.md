@@ -47,7 +47,7 @@ The airplane can be jacked from:
 
 Wheels: Matco WHLWI600XLT-2 main, Beringer AV-VANS-102-01 nose.
 
-Tires: Desser retreads on the mains (no inner tubes). Tire size and operating pressure are not currently logged — record at next servicing in `sys-61-brakes.md`.
+Tires: Desser 15x6.00-6 retreads with inner tubes on the mains (40 PSI); Michelin 5.00-5 tubeless on the Beringer nose wheel. Part numbers and tube options are in `sys-61-brakes.md`.
 
 ### Wheel Bearings
 
