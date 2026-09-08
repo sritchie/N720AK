@@ -260,10 +260,4 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | File | GDrive URL |
 |------|-----------|
 | n720ak-wb-2025-11-18.pdf | [link](https://drive.google.com/file/d/19nNrN8rXgf1A5CiRmzAIlNO4X6_tc05K/view) |
-
-## Weight-Balance
-
-| File | GDrive URL |
-|------|-----------|
-| N720AK_WB_11_18_2025.pdf | (see Public/Weight-Balance) |
 | N720AK_WB_amendment_2026-09-08.pdf | [link](https://drive.google.com/file/d/1yxfZpFUK9LP21-nhwLfQH1BPtabCDk-c/view) |
