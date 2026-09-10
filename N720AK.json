@@ -3566,6 +3566,131 @@
               "indent": 1
             }
           ]
+        },
+        {
+          "title": "Lost Communications — IFR",
+          "items": [
+            {
+              "prompt": "Troubleshoot:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Volume / Squelch / Frequency",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "headset jack and PTT; last assigned frequency, then the one before it",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "COM 2 / FTA-850 Handheld",
+              "expectation": "TRY",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "GTN COM 1 rides the essential bus; the handheld is the independent radio",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Transponder",
+              "expectation": "7600",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "then listen: Guard 121.5, FSS 122.2, the navaid voice channel",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "VMC now, or VMC encountered later:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Continue VFR",
+              "expectation": "LAND AS SOON AS PRACTICABLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "§91.185(b) comes first — a suitable airport, not the nearest strip",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "IMC — route and altitude:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Route",
+              "expectation": "ASSIGNED / VECTOR / EXPECTED / FILED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "A-V-E-F: last assigned; if on a vector, direct to the fix or route in that clearance; else what ATC said to expect; else as filed",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Altitude",
+              "expectation": "HIGHEST OF M-E-A, PER SEGMENT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Minimum IFR altitude (MEA / MOCA / OROCA), Expected, Assigned — the highest of the three, re-checked at every segment",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Arrival:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Clearance limit IS an IAF",
+              "expectation": "DESCEND / APPROACH AT EFC — ELSE AT ETA",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "hold until the EFC time or the flight-plan ETA; never start down early",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Clearance limit NOT an IAF",
+              "expectation": "LEAVE AT EFC — ELSE ON ARRIVAL, TO AN IAF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "then begin the approach as close to the ETA as possible",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Approach",
+              "expectation": "ANY PUBLISHED — FULL PROCEDURE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "own choice, no vectors are coming; fly the course reversal if charted",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "CTAF / AWOS",
+              "expectation": "BLIND CALLS / MONITOR",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "position and intentions on CTAF; lights 7 clicks; ATC is protecting the airspace on your ETA",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Comm regained at any point: call ATC, squawk the assigned code, continue the last clearance. After landing, close the flight plan by phone or FSS.",
+              "type": "ITEM_NOTE"
+            }
+          ]
         }
       ],
       "category": "abnormal"

@@ -2735,6 +2735,77 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             }
           ]
+        },
+        {
+          "title": "Lost Communications — IFR",
+          "items": [
+            {
+              "prompt": "Troubleshoot:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Volume / Squelch / Frequency",
+              "expectation": "CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "COM 2 / FTA-850 Handheld",
+              "expectation": "TRY",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Transponder",
+              "expectation": "7600",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "VMC now, or VMC encountered later:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Continue VFR",
+              "expectation": "LAND AS SOON AS PRACTICABLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "IMC — route and altitude:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Route",
+              "expectation": "ASSIGNED / VECTOR / EXPECTED / FILED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Altitude",
+              "expectation": "HIGHEST OF M-E-A, PER SEGMENT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Arrival:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Clearance limit IS an IAF",
+              "expectation": "DESCEND / APPROACH AT EFC — ELSE AT ETA",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Clearance limit NOT an IAF",
+              "expectation": "LEAVE AT EFC — ELSE ON ARRIVAL, TO AN IAF",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Approach",
+              "expectation": "ANY PUBLISHED — FULL PROCEDURE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "CTAF / AWOS",
+              "expectation": "BLIND CALLS / MONITOR",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            }
+          ]
         }
       ],
       "category": "abnormal"
