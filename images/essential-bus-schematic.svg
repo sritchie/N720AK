@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+    <marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/>
+    </marker>
+    <style>
+      .box{fill:#fff;stroke:#333;stroke-width:1.5}
+      .ess{fill:#eaf7ea;stroke:#2e7d32;stroke-width:2}
+      .main{fill:#eef2fb;stroke:#3949ab;stroke-width:2}
+      .src{fill:#fff8e1;stroke:#b26a00;stroke-width:1.5}
+      .bm{fill:none;stroke:#888;stroke-width:1.2;stroke-dasharray:6 4}
+      .w{fill:none;stroke:#333;stroke-width:1.6;marker-end:url(#arr)}
+      .wn{fill:none;stroke:#333;stroke-width:1.6}
+      .epwr{fill:none;stroke:#c0392b;stroke-width:2.4;marker-end:url(#arrR)}
+      .t{fill:#222}
+      .h{font-weight:bold;font-size:14px}
+      .s{font-size:11px;fill:#444}
+      .call{font-size:12px;fill:#c0392b;font-weight:bold}
+      .brk{fill:#fff;stroke:#2e7d32;stroke-width:1.2}
+      .wt{font-size:12px;fill:#222}
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1400" height="800" fill="#fff"/>
+
+  <text x="20" y="28" class="h" font-size="18">N720AK electrical — essential (endurance) bus, main bus, and the EMERGENCY POWER path</text>
+  <text x="20" y="46" class="s">From sys-24 (Bus Manager Drawing 5/5A, SteinAir power &amp; lighting schematic, ground test 2026-08-29). Green = essential bus, blue = main bus, amber = sources, red = EMERGENCY POWER jumper.</text>
+
+  <!-- Sources -->
+  <rect x="20" y="80" width="150" height="54" rx="6" class="src"/>
+  <text x="95" y="102" text-anchor="middle" class="h">Alternator 60 A</text>
+  <text x="95" y="120" text-anchor="middle" class="s">belt driven · charges Battery 1 only</text>
+
+  <rect x="20" y="230" width="150" height="54" rx="6" class="src"/>
+  <text x="95" y="252" text-anchor="middle" class="h">MZ-30 generator</text>
+  <text x="95" y="270" text-anchor="middle" class="s">vacuum pad · charges Battery 2 only</text>
+
+  <!-- shunt -->
+  <rect x="195" y="96" width="46" height="22" rx="3" class="box"/>
+  <text x="218" y="111" text-anchor="middle" class="s">shunt</text>
+  <path d="M170 107 L195 107" class="wn"/>
+  <path d="M241 107 L270 107" class="w"/>
+  <text x="218" y="150" text-anchor="middle" class="s">ammeter = ALT amps,</text>
+  <text x="218" y="162" text-anchor="middle" class="s">never battery discharge</text>
+
+  <!-- Bosch relay -->
+  <rect x="190" y="243" width="56" height="28" rx="3" class="box"/>
+  <text x="218" y="256" text-anchor="middle" class="s">Bosch NO</text>
+  <text x="218" y="267" text-anchor="middle" class="s">relay</text>
+  <path d="M170 257 L190 257" class="wn"/>
+  <path d="M246 257 L270 257" class="w"/>
+  <text x="218" y="292" text-anchor="middle" class="s">coil: ESS bus + GEN ENABLE</text>
+  <text x="218" y="304" text-anchor="middle" class="s">(key OFF → relay opens)</text>
+
+  <!-- Batteries -->
+  <rect x="270" y="84" width="120" height="46" rx="6" class="src"/>
+  <text x="330" y="103" text-anchor="middle" class="h">Battery 1</text>
+  <text x="330" y="120" text-anchor="middle" class="s">EarthX ETX900</text>
+
+  <rect x="270" y="234" width="120" height="46" rx="6" class="src"/>
+  <text x="330" y="253" text-anchor="middle" class="h">Battery 2</text>
+  <text x="330" y="270" text-anchor="middle" class="s">EarthX ETX900</text>
+
+  <!-- Bus Manager dashed enclosure -->
+  <rect x="420" y="66" width="340" height="300" rx="10" class="bm"/>
+  <text x="430" y="84" class="s">flyEFII System32 BUS MANAGER</text>
+
+  <!-- Diode-OR node -->
+  <path d="M390 107 L470 107 L470 150" class="wn"/>
+  <path d="M390 257 L470 257 L470 215" class="wn"/>
+  <polygon points="462,150 478,150 470,162" fill="#333"/>
+  <polygon points="462,215 478,215 470,203" fill="#333"/>
+  <circle cx="470" cy="182" r="7" fill="#333"/>
+  <text x="486" y="172" class="t">both-battery DIODE-OR node</text>
+  <text x="486" y="186" class="s">passive: the higher battery feeds the bus,</text>
+  <text x="486" y="198" class="s">both share when they are close;</text>
+  <text x="486" y="210" class="s">0.5–0.7 V drop under load is normal</text>
+
+  <!-- Key switch -->
+  <rect x="440" y="300" width="90" height="40" rx="6" class="box"/>
+  <text x="485" y="317" text-anchor="middle" class="h">KEY switch</text>
+  <text x="485" y="332" text-anchor="middle" class="s">the one master</text>
+
+  <!-- Main bus relay -->
+  <rect x="580" y="250" width="120" height="34" rx="5" class="box"/>
+  <text x="640" y="266" text-anchor="middle" class="t">Main Bus Relay</text>
+  <text x="640" y="278" text-anchor="middle" class="s">driven by the key</text>
+  <!-- Essential bus relay -->
+  <rect x="580" y="308" width="120" height="34" rx="5" class="box"/>
+  <text x="640" y="324" text-anchor="middle" class="t">Essential Bus Relay</text>
+  <text x="640" y="336" text-anchor="middle" class="s">cascaded from main relay</text>
+
+  <path d="M530 312 L580 270" class="w"/>
+  <path d="M530 326 L580 326" class="w"/>
+  <!-- node to relays -->
+  <path d="M470 182 L560 182 L560 250 L580 258" class="wn"/>
+  <path d="M560 250 L560 300 L580 316" class="wn"/>
+
+  <!-- Main bus -->
+  <rect x="800" y="80" width="580" height="210" rx="8" class="main"/>
+  <text x="1090" y="102" text-anchor="middle" class="h">MAIN BUS → VPX Sport</text>
+  <text x="1090" y="118" text-anchor="middle" class="s">electronic breakers, reset from the EFIS — nothing to pull</text>
+  <text x="815" y="142" class="t">• Copilot HDX-1100 and center HDX-800 displays</text>
+  <text x="815" y="160" class="t">• GMA 245 audio panel / headsets (VPX J10-4)</text>
+  <text x="815" y="178" class="t">• Transponder / ADS-B (VPX J10-7)</text>
+  <text x="815" y="196" class="t">• Flaps, electric trim (AP panel), pitot heat</text>
+  <text x="815" y="214" class="t">• AV MSTR switch → the coils of the GTN COM and NAV power relays</text>
+  <text x="815" y="236" class="call">Known issue: any main-bus loss opens those relays, and the GTN goes dark</text>
+  <text x="815" y="252" class="call">even though its COM 1 / NAV 1 breakers on the essential bar are hot.</text>
+  <text x="815" y="270" class="s">Annual fix: re-source the coil feed from the essential bus; dual-feed the transponder; own essential breaker for the GMA.</text>
+  <path d="M700 267 L800 200" class="w"/>
+
+  <!-- Essential bus bar -->
+  <rect x="800" y="320" width="580" height="460" rx="8" class="ess"/>
+  <text x="1090" y="342" text-anchor="middle" class="h">ESSENTIAL (ENDURANCE) BUS BAR</text>
+  <text x="1090" y="358" text-anchor="middle" class="s">the only physical breakers in the airplane — behind the pilot PFD</text>
+  <path d="M700 325 L800 385" class="w"/>
+
+  <!-- breakers list -->
+  <g class="t">
+    <rect x="815" y="374" width="66" height="18" class="brk"/><text x="848" y="387" text-anchor="middle" class="s">ALT FLD 5</text>
+    <text x="892" y="387">alternator FIELD via the panel ALT switch — open it and the alternator stops</text>
+    <rect x="815" y="402" width="66" height="18" class="brk"/><text x="848" y="415" text-anchor="middle" class="s">ECU PRI 5</text>
+    <text x="892" y="415">→ IGN 1 toggle → ECU 1 (its injection and ignition control)</text>
+    <rect x="815" y="430" width="66" height="18" class="brk"/><text x="848" y="443" text-anchor="middle" class="s">ECU SEC 5</text>
+    <text x="892" y="443">→ IGN 2 toggle → ECU 2</text>
+    <rect x="815" y="458" width="66" height="18" class="brk"/><text x="848" y="471" text-anchor="middle" class="s">IGN PWR 15</text>
+    <text x="892" y="471">ignition coil packs for BOTH ECUs — pull it and every spark dies</text>
+    <rect x="815" y="486" width="66" height="18" class="brk"/><text x="848" y="499" text-anchor="middle" class="s">PUMP 1 10</text>
+    <text x="892" y="499">fuel pump 1</text>
+    <rect x="815" y="514" width="66" height="18" class="brk"/><text x="848" y="527" text-anchor="middle" class="s">PUMP 2 10</text>
+    <text x="892" y="527">fuel pump 2</text>
+    <rect x="815" y="542" width="66" height="18" class="brk"/><text x="848" y="555" text-anchor="middle" class="s">PFD 5</text>
+    <text x="892" y="555">pilot HDX-1100 (PFD 1)</text>
+    <rect x="815" y="570" width="66" height="18" class="brk"/><text x="848" y="583" text-anchor="middle" class="s">COM 1 10</text>
+    <text x="892" y="583">GTN com board — through the COM relay (coil fed by AV MSTR on the main bus)</text>
+    <rect x="815" y="598" width="66" height="18" class="brk"/><text x="848" y="611" text-anchor="middle" class="s">NAV 1 7.5</text>
+    <text x="892" y="611">GTN GPS/main + VLOC boards — through the NAV relay (same coil feed)</text>
+    <rect x="815" y="626" width="66" height="18" class="brk"/><text x="848" y="639" text-anchor="middle" class="s">PNL LTS 5</text>
+    <text x="892" y="639">panel lighting</text>
+    <rect x="815" y="654" width="66" height="18" class="brk"/><text x="848" y="667" text-anchor="middle" class="s">SERVOS</text>
+    <text x="892" y="667">autopilot servos (AP stays flyable from PFD 1, minus auto-trim)</text>
+    <text x="815" y="700" class="s">Also essential-fed: the GEN ENABLE relay coil (MZ-30 → Battery 2) and the OnSpeed / USB fuses above the bar.</text>
+    <text x="815" y="714" class="s">KEY OFF de-energizes the essential bus — unless EMERGENCY POWER is ON.</text>
+    <text x="815" y="740" class="call">Pulling any breaker on this bar stops something the engine needs. Never "isolate" here.</text>
+  </g>
+
+  <!-- EMERGENCY POWER jumper -->
+  <rect x="440" y="410" width="130" height="44" rx="6" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+  <text x="505" y="428" text-anchor="middle" class="h" fill="#c0392b">EMERGENCY POWER</text>
+  <text x="505" y="444" text-anchor="middle" class="s">panel switch</text>
+  <path d="M470 189 L470 410" class="epwr"/>
+  <path d="M570 432 L800 432" class="epwr"/>
+  <text x="505" y="472" text-anchor="middle" class="call">hard jumper: diode node → essential bus output</text>
+  <text x="505" y="487" text-anchor="middle" class="s">bypasses the key, both relays, all Bus Manager logic</text>
+  <text x="505" y="501" text-anchor="middle" class="s">ON in normal flight changes nothing visible — it arms a parallel path</text>
+
+  <!-- Walkthrough panel -->
+  <rect x="20" y="530" width="760" height="250" rx="8" fill="#fafafa" stroke="#bbb"/>
+  <text x="34" y="552" class="h">Walkthrough</text>
+  <text x="34" y="572" class="wt">1. NORMAL: alternator → Battery 1, MZ-30 → Battery 2. Both batteries feed the diode-OR node. The KEY closes the</text>
+  <text x="34" y="587" class="wt">    Main Bus Relay (→ VPX / avionics) and, cascaded from it, the Essential Bus Relay (→ engine, PFD 1, pumps, GTN, servos).</text>
+  <text x="34" y="609" class="wt">2. ONE SOURCE FAILS: nothing switches. The node draws from the higher battery; the other charger keeps its battery up.</text>
+  <text x="34" y="624" class="wt">    An alternator failure shows as ALT amps → 0 and a sagging bus, NOT a battery discharge (the shunt is on the alternator lead).</text>
+  <text x="34" y="646" class="wt">3. MAIN-BUS SHED (smoke, runaway load, VPX fault):  E-PWR ON → VERIFY essential-bus volts → KEY OFF.  Order is life:</text>
+  <text x="34" y="661" class="wt">    key OFF with E-PWR off (or failed) opens the Essential Bus Relay and the engine stops. Survives: engine, PFD 1, both pumps,</text>
+  <text x="34" y="676" class="wt">    servos, both chargers. Dies today: displays 2/3, transponder, audio, flaps, trim, pitot heat — and the GTN (relay coils).</text>
+  <text x="34" y="698" class="wt">4. E-PWR DOES NOT WORK: you are on whatever the Essential Bus Relay gives you. Leave the key ON and land now — there is</text>
+  <text x="34" y="713" class="wt">    no mechanical ignition or fuel fallback on this engine. Do not pull an essential breaker to "isolate" anything.</text>
+  <text x="34" y="735" class="wt">5. FIRE / SECURE: KEY OFF and E-PWR OFF — both paths must be open, because E-PWR alone re-powers the ECUs, pumps, and starter.</text>
+  <text x="34" y="762" class="s">Verify: the ground test of 2026-08-29 (E-PWR ON, key OFF) confirmed the engine, PFD 1 and pumps stay up and the GTN, transponder and audio drop.</text>
+</svg>

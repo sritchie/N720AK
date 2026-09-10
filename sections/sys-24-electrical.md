@@ -69,6 +69,44 @@ Verified against Bus Manager Drawing 5/5A (2026-08). Three facts define the arch
 
 **Endurance bus radio behavior**: The GTN 650 is COM1. If power goes out on the GMA 245, it hard-connects COM1 from the GTN 650 directly to the headphones. This ensures radio communication is maintained even if the audio panel loses power on the endurance bus.
 
+### Essential Bus Walkthrough
+
+![N720AK essential bus, main bus, and the EMERGENCY POWER path](../images/essential-bus-schematic.svg)
+
+The picture above is the whole story of the two busses in one place; the numbered
+walkthrough is the version to be able to say out loud.
+
+1. **Normal.** The alternator charges Battery 1 and the MZ-30 charges Battery 2 —
+   two isolated charging systems. Both batteries feed the Bus Manager's
+   diode-OR node. The key closes the Main Bus Relay (main bus → VPX Sport →
+   avionics, flaps, trim, pitot heat) and, cascaded from it, the Essential Bus
+   Relay (essential bus bar → ECUs, ignition coils, pumps, PFD 1, GTN, servos).
+2. **One source fails.** Nothing switches. The node passively draws from
+   whichever battery is higher, and the surviving charger keeps its battery
+   up. An alternator failure shows as alternator amps falling to zero and bus
+   voltage sagging — *not* as a battery discharge, because the shunt is on the
+   alternator lead (see [Ammeter Shunt Placement](#ammeter-shunt-placement--reading-an-alternator-failure)).
+3. **Main-bus shed** (smoke, runaway load, VPX fault): **EMERGENCY POWER ON →
+   verify essential-bus voltage → KEY OFF.** The switch is a hard jumper from
+   the diode node to the essential bus output, so with it on the key can open
+   both relays without touching the engine. Order is life: key off with the
+   switch off (or failed) opens the Essential Bus Relay and the engine stops.
+   What survives: engine, PFD 1, both fuel pumps, autopilot servos (no
+   auto-trim), both charging sources. What dies today: the second and third
+   displays, transponder, audio panel, flaps, electric trim, pitot heat — and
+   the GTN, because its COM/NAV power-relay coils are fed by AV MSTR from the
+   main bus (the annual's fix list).
+4. **EMERGENCY POWER does not work.** You are on whatever the Essential Bus
+   Relay gives you: leave the key on and land now. There is no mechanical
+   ignition or fuel fallback on this engine, and no essential breaker is an
+   isolation tool — every one of them feeds something the engine needs.
+5. **Fire / secure.** Key OFF *and* EMERGENCY POWER OFF. Both paths must be
+   open, because the jumper alone re-powers the ECUs, the pumps, and the
+   starter.
+
+Verified on the ground 2026-08-29 (EMERGENCY POWER ON, key OFF): engine, PFD 1
+and pumps stayed up; GTN, transponder and audio dropped.
+
 ### Ammeter Shunt Placement — Reading an Alternator Failure
 
 The system's current shunt sits between the **alternator and the system**, not
