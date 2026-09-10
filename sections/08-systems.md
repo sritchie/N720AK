@@ -165,14 +165,21 @@ System32 Bus Manager:
 
 ### Emergency Endurance Bus
 
-If a battery fails or bus voltage drops critically, the System32 Bus Manager
-automatically:
+The Bus Manager does not switch or shed loads. Both batteries feed the
+essential bus through a passive diode-OR: whichever battery is higher carries
+the bus, both share when they are close, and a single battery or
+charging-source failure changes nothing the pilot has to act on.
 
-1. Disconnects non-essential loads from the main bus
-2. Preserves all available power for the essential bus
-3. Maintains engine ignition and fuel injection
-
-The **EMERGENCY POWER** switch on the panel manually activates this mode.
+The **EMERGENCY POWER** switch is a hard jumper from that both-battery node
+straight to the essential bus, bypassing the key and both bus relays. Its use
+is the main-bus shed: **EMERGENCY POWER ON, verify essential-bus voltage, then
+KEY OFF** — in that order, because key-off with the switch off (or failed)
+stops the engine. In the shed state the engine, PFD 1, both fuel pumps, the
+autopilot servos and both charging sources keep running; the main bus (second
+and third displays, audio, transponder, flaps, electric trim, pitot heat) goes
+dark, and until the annual re-wires the GTN's power relays the GTN goes dark
+with it. Annotated schematic and walkthrough:
+[Electrical Power (ATA 24)](./sys-24-electrical.md#essential-bus-walkthrough).
 
 ### VPX Sport Power Distribution
 
