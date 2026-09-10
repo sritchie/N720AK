@@ -111,3 +111,51 @@
 - Descend ... **BELOW 10,000 FT MSL**
   
     *if symptoms persist, declare and divert*
+
+### Lost Communications — IFR
+
+
+#### Troubleshoot:
+
+- Volume / Squelch / Frequency ... **CHECK**
+  
+    *headset jack and PTT; last assigned frequency, then the one before it*
+- COM 2 / FTA-850 Handheld ... **TRY**
+  
+    *GTN COM 1 rides the essential bus; the handheld is the independent radio*
+- Transponder ... **7600**
+  
+    *then listen: Guard 121.5, FSS 122.2, the navaid voice channel*
+
+#### VMC now, or VMC encountered later:
+
+- Continue VFR ... **LAND AS SOON AS PRACTICABLE**
+  
+    *§91.185(b) comes first — a suitable airport, not the nearest strip*
+
+#### IMC — route and altitude:
+
+- Route ... **ASSIGNED / VECTOR / EXPECTED / FILED**
+  
+    *A-V-E-F: last assigned; if on a vector, direct to the fix or route in that clearance; else what ATC said to expect; else as filed*
+- Altitude ... **HIGHEST OF M-E-A, PER SEGMENT**
+  
+    *Minimum IFR altitude (MEA / MOCA / OROCA), Expected, Assigned — the highest of the three, re-checked at every segment*
+
+#### Arrival:
+
+- Clearance limit IS an IAF ... **DESCEND / APPROACH AT EFC — ELSE AT ETA**
+  
+    *hold until the EFC time or the flight-plan ETA; never start down early*
+- Clearance limit NOT an IAF ... **LEAVE AT EFC — ELSE ON ARRIVAL, TO AN IAF**
+  
+    *then begin the approach as close to the ETA as possible*
+- Approach ... **ANY PUBLISHED — FULL PROCEDURE**
+  
+    *own choice, no vectors are coming; fly the course reversal if charted*
+- CTAF / AWOS ... **BLIND CALLS / MONITOR**
+  
+    *position and intentions on CTAF; lights 7 clicks; ATC is protecting the airspace on your ETA*
+
+> *Note: Comm regained at any point: call ATC, squawk the assigned code, continue the last clearance. After landing, close the flight plan by phone or FSS.*
+
