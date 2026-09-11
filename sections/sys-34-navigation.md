@@ -127,6 +127,8 @@ The GTN 650 provides:
 4. Power on — the unit should prompt to load the database on startup
 5. If the database shows as a "future" database and does not load automatically, **hold down the right knob click button during startup** to force-load the database
 <!-- TODO: GTN 650 to Dynon data interface — what data flows between them? -->
+**What the SkyView does and does not get from the GTN.** Over the SV-ARINC-429 the SkyView receives lateral CDI with auto-scaling, GPSS roll steering, and vertical deviation for approach glideslopes (ILS) and GPS glidepaths (LPV, LNAV/VNAV, +V). It does **not** receive the GTN's enroute VNAV (VPATH) descent guidance: the GTN computes that path on its own screen (TOD marker, VS Required, "Vertical Track" message), but the SkyView's Glideslope/VNAV indicator shows only an ILS glideslope, a GPS approach glidepath, or SkyView's own VFR VNAV to a runway, and the Dynon autopilot's VNAV mode couples only to those. A GTN VNAV descent is therefore flown in VS mode against the GTN's VS Required with the altitude bug on the bottom altitude. (SkyView HDX Pilot's User Guide Rev T §4 and §8; Dynon forum, staff reply 2018-09-06 on ARINC 429 VPATH.)
+
 ### Garmin GTN 650 Maintenance (ICA)
 
 The [GTN 6XX/7XX Part 23 AML STC Maintenance Manual (190-01007-A1 Rev 4)](https://drive.google.com/file/d/1kmZKtXxKtPc5jUYOvr64W8J2Tfy-K44A/view) carries Garmin's Instructions for Continued Airworthiness. The STC itself does not apply to an experimental, but the ICA is the only manufacturer-published maintenance schedule for the unit. There are no airworthiness limitations; the unit runs a self-test at power-up and continuous built-in test, and surfaces failures as system messages or red-X fields. Intervals are tracked in `recurring-items.tsv`.
