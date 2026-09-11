@@ -127,6 +127,30 @@ The GTN 650 provides:
 4. Power on — the unit should prompt to load the database on startup
 5. If the database shows as a "future" database and does not load automatically, **hold down the right knob click button during startup** to force-load the database
 <!-- TODO: GTN 650 to Dynon data interface — what data flows between them? -->
+### Garmin GTN 650 Maintenance (ICA)
+
+The [GTN 6XX/7XX Part 23 AML STC Maintenance Manual (190-01007-A1 Rev 4)](https://drive.google.com/file/d/1kmZKtXxKtPc5jUYOvr64W8J2Tfy-K44A/view) carries Garmin's Instructions for Continued Airworthiness. The STC itself does not apply to an experimental, but the ICA is the only manufacturer-published maintenance schedule for the unit. There are no airworthiness limitations; the unit runs a self-test at power-up and continuous built-in test, and surfaces failures as system messages or red-X fields. Intervals are tracked in `recurring-items.tsv`.
+
+| Item | Interval | Notes |
+|------|----------|-------|
+| Visual inspection | 12 months | Rack security (countersunk fasteners 8.5–9.5 in-lb), corrosion, knobs and buttons, wiring and shield terminations, fan intake slots on the bezel sides and bottom clear of dust. Folds into the condition inspection. |
+| Electrical bonding check | 10 years or 2,000 hr | <10 mΩ from the unit to nearby airframe metal (upper-left knob removed, meter on the potentiometer body) and from the rack backplate to the airframe. Needs a milliohm meter. |
+| Keep-alive battery | On condition (~10 yr) | Holds the GPS almanac and clock. The unit posts **"GPS RECEIVER – Low internal clock battery"**; replace within 1–2 months, Garmin factory or authorized repair station only. A dead battery only lengthens GPS acquisition — no loss of navigation function or accuracy. |
+| Display backlight | On condition | Rated ≥36,000 h. Factory service when too dim for direct sunlight. |
+| Cleaning | On condition | Soft cotton cloth dampened with clean water. No chemical cleaners. |
+| TVS lightning protection | n/a | The 24-month TVS check applies to non-metallic airframes only. |
+
+Troubleshooting notes from Chapter 5 of the same manual that matter in the cockpit:
+
+- **No position after power-up ("SEARCHING SKY")**: a cold almanac download can take about 20 minutes. Get clear of hangars, buildings, and trees first. Not a failure by itself.
+- **GPS signal drops when the COM transmits or avionics come on**: 1575.42 MHz interference from the VHF COM, or ELT antenna re-radiation. Fixes are antenna separation, a notch filter in the COM coax, or disconnecting the ELT coax to test.
+- **Unit boots into configuration mode**: a software loader card is in the SD slot. Remove it and insert the database card.
+- **"COM RADIO – COM locked to 121.5 MHz"**: the COM remote-transfer input was held for about 2 s. On N720AK that input is the stick toggle **UP** (COM1 standby↔active swap; see [sys-27](sys-27-flight-controls.md)). Lockout tunes 121.5 active and freezes tuning; hold the toggle UP about 2 s again to exit. The same gesture, or holding the GTN volume knob about 2 s, is the Pilot's Guide §3.3.4 emergency-frequency shortcut and works even with the display dark.
+- **"COOLING – GTN overtemp"**: the backlight auto-dims; check fan and airflow. **"COOLING FAN – failed"** is the fan itself (it does not run while the unit is cool).
+- **"LOSS OF INTEGRITY (LOI)"** and **"GPS NAVIGATION LOST"** are the two GPS-side messages: LOI means verify position with another source; NAVIGATION LOST (insufficient satellites, or RAIM found an erroneous position) means switch to another source.
+- **Database SD card**: Garmin's database card associates with the first GTN it is inserted into and will not work in another unit.
+- **Power-up self-test values** (Instrument Panel Self-Test page, not a required check): CDI half-scale left with TO flag, glideslope half-scale up, OBS/desired track 149.5°, all annunciators on, distance 10.0 NM, time 4 min, bearing 135°, groundspeed 150 kt, waypoint GARMN, GPS integrity invalid.
+
 
 ### Pitot-Static System
 
@@ -206,6 +230,7 @@ Per 14 CFR 91.411 and 91.413, the altimeter system and transponder must be inspe
 
 ## References
 
+- [Garmin GTN 6XX/7XX Part 23 AML STC Maintenance Manual (190-01007-A1 Rev 4)](https://drive.google.com/file/d/1kmZKtXxKtPc5jUYOvr64W8J2Tfy-K44A/view) — ICA: inspection intervals, bonding check, troubleshooting and system-message tables, self-test values, configuration-mode overview, database summary.
 - [Dynon SkyView HDX Pilot's Guide (Rev T)](https://drive.google.com/file/d/1KruWV-_DQwM96mKAEYfoYNYzVmE1Yptf/view) — SkyView 17.6
 - [Dynon SkyView HDX Pilot's Guide (Rev Q)](https://drive.google.com/file/d/1gFLcAkuGtnSpceF6xH8AqwYPzSBzoXUG/view)
 - [Dynon SkyView EMS Gauge Customization](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view)

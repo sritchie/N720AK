@@ -97,6 +97,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 |------|-----------|
 | dynon-skyview-hdx-pilots-guide-rev-t.pdf | [link](https://drive.google.com/file/d/1KruWV-_DQwM96mKAEYfoYNYzVmE1Yptf/view) |
 | garmin-pbn-capabilities-190-02223-00-rev5.pdf | [link](https://drive.google.com/file/d/15BXBBOPkEBEeaJ18dpvYFTO7NoIxOkUx/view) |
+| garmin-gtn-6xx-7xx-part23-maintenance-manual-190-01007-A1-rev4.pdf | [link](https://drive.google.com/file/d/1kmZKtXxKtPc5jUYOvr64W8J2Tfy-K44A/view) |
 | dynon-skyview-hdx-pilots-guide-rev-r.pdf | [link](https://drive.google.com/file/d/1Y3jAv6gFAzsHuQtpea_3SMW1-8REZwoi/view) |
 | dynon-skyview-hdx-pilots-guide-rev-q.pdf | [link](https://drive.google.com/file/d/1gFLcAkuGtnSpceF6xH8AqwYPzSBzoXUG/view) |
 | dynon-skyview-ems-gauge-customization.pdf | [link](https://drive.google.com/file/d/1brCO7Om9oDE73qAHHyzJ-TubZGQNGlDb/view) |
