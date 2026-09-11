@@ -369,6 +369,123 @@
           ]
         },
         {
+          "title": "IFR Readiness",
+          "items": [
+            {
+              "prompt": "Planning:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Weather / personal minimums",
+              "expectation": "BRIEFED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "freezing level and icing margin, alternate decision, no-go time, landing-fuel number",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "NOTAMs / TFRs / GPS-WAAS NOTAMs",
+              "expectation": "CHECKED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Flight plan",
+              "expectation": "FILED, VOID / RELEASE PROCEDURE KNOWN",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "PBN/B2C2D2O2S1 SUR/260B CODE/A9A396 RMK/EXPERIMENTAL",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Lost comm plan",
+              "expectation": "AVEF / MEA BRIEFED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Airplane:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "GTN / SkyView databases",
+              "expectation": "CURRENT CYCLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "VOR check (91.171)",
+              "expectation": "WITHIN 30 DAYS, LOGGED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "date, place, bearing error, signature in the log",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Pitot-static / transponder (91.411 / 91.413)",
+              "expectation": "WITHIN 24 MONTHS",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Pitot heat / alternate static",
+              "expectation": "TESTED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Oxygen",
+              "expectation": "QUANTITY, CANNULAS, EDS SET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "crew on O2 above 12,500 after 30 min, continuously above 14,000",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "Cockpit:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "iPad / ForeFlight",
+              "expectation": "CHARGED, PLATES CURRENT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Phone",
+              "expectation": "PLATE PHOTOS AS BACKUP",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "FTA-850 handheld",
+              "expectation": "CHARGED, STOWED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Flashlight (night)",
+              "expectation": "ABOARD",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Clearance",
+              "expectation": "COPIED, READ BACK, VOID TIME NOTED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Bugs",
+              "expectation": "HDG / ALT / CDI SOURCE SET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Takeoff briefing",
+              "expectation": "ABORT POINT NAMED",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            }
+          ]
+        },
+        {
           "title": "Before Starting Engine",
           "items": [
             {
