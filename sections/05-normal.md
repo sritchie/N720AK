@@ -148,6 +148,42 @@
     *Fill to 9 quarts for extended flight.*
 - Oil Door / Preheat Plug ... **STOWED / SECURE**
 
+### IFR Readiness
+
+
+#### Planning:
+
+- Weather / personal minimums ... **BRIEFED**
+  
+    *freezing level and icing margin, alternate decision, no-go time, landing-fuel number*
+- NOTAMs / TFRs / GPS-WAAS NOTAMs ... **CHECKED**
+- Flight plan ... **FILED, VOID / RELEASE PROCEDURE KNOWN**
+  
+    *PBN/B2C2D2O2S1 SUR/260B CODE/A9A396 RMK/EXPERIMENTAL*
+- Lost comm plan ... **AVEF / MEA BRIEFED**
+
+#### Airplane:
+
+- GTN / SkyView databases ... **CURRENT CYCLE**
+- VOR check (91.171) ... **WITHIN 30 DAYS, LOGGED**
+  
+    *date, place, bearing error, signature in the log*
+- Pitot-static / transponder (91.411 / 91.413) ... **WITHIN 24 MONTHS**
+- Pitot heat / alternate static ... **TESTED**
+- Oxygen ... **QUANTITY, CANNULAS, EDS SET**
+  
+    *crew on O2 above 12,500 after 30 min, continuously above 14,000*
+
+#### Cockpit:
+
+- iPad / ForeFlight ... **CHARGED, PLATES CURRENT**
+- Phone ... **PLATE PHOTOS AS BACKUP**
+- FTA-850 handheld ... **CHARGED, STOWED**
+- Flashlight (night) ... **ABOARD**
+- Clearance ... **COPIED, READ BACK, VOID TIME NOTED**
+- Bugs ... **HDG / ALT / CDI SOURCE SET**
+- Takeoff briefing ... **ABORT POINT NAMED**
+
 ### Before Starting Engine
 
 - Preflight Inspection ... **COMPLETE**
