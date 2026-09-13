@@ -128,8 +128,33 @@ unaffected — see the MZ-30 section.)
 The VPX Sport provides:
 - Electronic circuit breaker protection for **main bus loads** — these channels have no physical breakers to pull or reset; they are reset from the EFIS. (The endurance bus is separate and *does* use physical breakers — see Bus Architecture above.)
 - Load monitoring and display on EFIS
-- Automatic load shedding if needed
+- Per-channel overcurrent trip and thermal protection — automatic, but *per
+  channel*, not bus-level
 - Programmable power channels
+
+#### What Is and Is Not Automatic
+
+Nothing in this airplane senses a low bus and sheds the main bus for you.
+
+- **The Bus Manager does not shed loads.** Its only automatic behavior is the
+  passive diode-OR at the both-battery node. That is two diodes — no sensor, no
+  comparator, no contactor logic. See the walkthrough above.
+- **The VPX Sport does not shed loads either.** The word does not appear
+  anywhere in the Rev G4 manual. Its automatic behaviors are per-channel
+  overcurrent and thermal protection. Low voltage is *detected and reported*:
+  "A low voltage condition is detected and reported by the EFIS." Set the
+  SkyView low-voltage alarm (the manual's own example is 13 V) and decide what
+  to turn off yourself.
+- **The main-bus shed is a manual maneuver.** EMERGENCY POWER ON → verify
+  essential-bus voltage → KEY OFF. Order is life.
+
+The one genuinely voltage-sensing automatic response is the **MZ-30's standby
+regulator**, which sits idle while the node is held high and engages on its own
+as the node sags below about 13.7 V — see the MZ-30 section.
+
+**What an alternator failure actually looks like**: ALT amps fall to zero and
+bus voltage sags. It does *not* show as a battery discharge, because the shunt
+is on the alternator lead.
 
 #### Channel Assignments
 
