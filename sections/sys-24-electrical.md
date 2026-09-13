@@ -71,7 +71,7 @@ Verified against Bus Manager Drawing 5/5A (2026-08). Three facts define the arch
 
 ### Essential Bus Walkthrough
 
-![N720AK essential bus, main bus, and the EMERGENCY POWER path](../images/essential-bus-schematic.svg)
+![N720AK essential bus, main bus, and the EMERGENCY POWER path](images/essential-bus-schematic.svg)
 
 The picture above is the whole story of the two busses in one place; the numbered
 walkthrough is the version to be able to say out loud.

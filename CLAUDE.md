@@ -167,5 +167,11 @@ Dynon SkyView config snapshots (.sfg/.dfg) live in GDrive `Public/Configs/Dynon/
 - Use `<!-- placeholders -->` for missing data
 - Tables use Pandoc pipe syntax
 - Insert `\pagebreak` for PDF page breaks
-- Images go in `images/` and reference as `![Alt](images/file.png)`
+- Images referenced from markdown go in **`sections/images/`** and are referenced as
+  `![Alt](images/file.png)`. mdBook only copies files inside `src` (= `sections/`),
+  so an image at the repo root with a `../images/...` link 404s on the site while
+  still looking fine in a local editor. The root `images/` dir is for PDF assets
+  only (`template.typ` uses `images/aircraft.jpg`).
+- SVGs need explicit `width`/`height` on the root element, not just a `viewBox` —
+  browsers fall back to 300×150 for an `<img>` with no intrinsic size.
 - Sections 4, 4b, 5 are **generated** - edit the JSON, not the markdown

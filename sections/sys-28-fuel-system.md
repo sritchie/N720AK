@@ -145,7 +145,7 @@ LEFT TANK (30 gal)  ──┐                                    ┌── RIGHT
 | Mounting | [Dual electric fuel pump rack](https://www.flyefii.com/products/accessories/dual-electric-fuel-pump/) from ProTek Performance, supplied by EFII |
 | Pressure | See pump curves below (varies with flow rate and voltage) |
 
-![Walbro GSL391 pump curves](../images/walbro-gsl391-pump-curves.png)
+![Walbro GSL391 pump curves](images/walbro-gsl391-pump-curves.png)
 
 **Pump replacement notes:**
 
