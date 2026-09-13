@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" font-family="Helvetica, Arial, sans-serif" font-size="13">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" width="1400" height="800" font-family="Helvetica, Arial, sans-serif" font-size="13">
   <defs>
     <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
@@ -73,10 +73,10 @@
   <polygon points="462,150 478,150 470,162" fill="#333"/>
   <polygon points="462,215 478,215 470,203" fill="#333"/>
   <circle cx="470" cy="182" r="7" fill="#333"/>
-  <text x="486" y="172" class="t">both-battery DIODE-OR node</text>
-  <text x="486" y="186" class="s">passive: the higher battery feeds the bus,</text>
-  <text x="486" y="198" class="s">both share when they are close;</text>
-  <text x="486" y="210" class="s">0.5–0.7 V drop under load is normal</text>
+  <text x="490" y="140" class="t">both-battery DIODE-OR node</text>
+  <text x="490" y="154" class="s">passive: the higher battery feeds the bus,</text>
+  <text x="490" y="166" class="s">both share when they are close;</text>
+  <text x="490" y="178" class="s">0.5–0.7 V drop under load is normal</text>
 
   <!-- Key switch -->
   <rect x="440" y="300" width="90" height="40" rx="6" class="box"/>
