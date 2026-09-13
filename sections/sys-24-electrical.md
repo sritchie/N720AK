@@ -131,7 +131,63 @@ The VPX Sport provides:
 - Automatic load shedding if needed
 - Programmable power channels
 
-<!-- TODO: VPX channel assignments — what's on each channel? -->
+#### Channel Assignments
+
+Channel names and pin numbers are read from the SteinAir power & lighting
+schematic; channel names are the VPX's own (`5A-8` = the eighth 5-amp output).
+The J-connector each pin belongs to is **inferred** from Vertical Power's
+worksheet pinout — confirm against the VPX *Sport* pinout before wiring
+anything. Two rows corroborate it independently: the schematic's audio and
+transponder pins land on J10-4 and J10-7, which is exactly what the Bus
+Architecture section above already recorded.
+
+| Channel | Device | VPX pin |
+|---------|--------|---------|
+| 2A-1 | Defrost fan | — |
+| 2A-2 | Fault annunciator | — |
+| 3A-1 | Autopilot panel (SV-A/P-PNL, D15-9) | J12-10 |
+| 5A-8 | **PFD 2** (copilot SV-HDX1100, D37-1/20) | J10-2 |
+| 5A-9 | **Audio panel** (GMA 245) | J10-4 |
+| 5A-10 | **Transponder / ADS-B** (SV-XPNDR-261) | J10-7 |
+| 5A-11 | Oxygen / CO detector | J10-8 |
+| 5A-12 | PLX air/fuel module | J10-10 |
+| 5A-13 | USB charger | J12-8 |
+| 10A-2 | Cabin lights | J10-3 |
+| 10A-3 | Nav lights | J10-5 |
+| 10A-4 | Landing lights | J12-1 |
+| 10A-5 | Taxi lights | J12-3 |
+| 10A-6 | COM 2 (SV-COM, D15-8) | J12-7 |
+| 15A-1 | Pitot heat | J10-6 |
+| 15A-2 | Strobes | J12-2 |
+| 15A-3 | Wigwag | — |
+| — | Alternator field | J12-11 |
+
+#### Switch Inputs (VP-X J2, DB25)
+
+The pilot switch panel feeds the VPX's external switch inputs rather than
+switching power directly. Which *channels* each input gates is stored in the
+VPX's own configuration, not in the wiring.
+
+| Input | Pin | Wire | Panel switch |
+|-------|-----|------|--------------|
+| Switch Input #1 | 1 | Vio | **AV MSTR** |
+| Switch Input #2 | 2 | Vio/Blu | Pitot heat |
+| Switch Input #3 | 3 | Vio/Yel | Nav lights |
+| Switch Input #4 | 4 | Vio/Grn | Strobes |
+
+**AV MSTR is a DPDT switch doing two separate jobs.** One pole drives VPX
+Switch Input #1, which gates a configured group of the channels above — that is
+the avionics-master function proper. The other pole (Wht/Blk) holds the GTN
+COM/NAV power relay coils closed, which is the known issue described under Bus
+Architecture. Section 4 notes a third consequence: there is no dedicated trim
+breaker, so AV MSTR is the only kill switch for the trim servos.
+
+A/P MSTR is *not* a switch input — it feeds autopilot servo power directly
+(20 AWG red).
+
+<!-- TODO: which VPX channels are assigned to Switch Input #1 (AV MSTR)? Read
+     it off the SkyView VPX setup page; it is VPX configuration, not wiring,
+     so no schematic shows it. -->
 <!-- TODO: How are the buses connected? What's the bus tie arrangement? -->
 <!-- TODO: Alternator field control — how does it work? -->
 
