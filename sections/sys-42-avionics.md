@@ -71,11 +71,25 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 **GTN 650 ↔ GMA 245 audio**: The GTN's VOR/ILS ident audio (P1004-16/17) runs to the GMA 245 NAV 1 input (J1-17/18), and its GPS alert audio (P1001-4/23) runs to the Alert 1 input (J1-31/32) — both shielded pairs, traced on the SteinAir interconnect schematic. NAV 2 on the audio panel is unwired. Full pin table: [Communications](./sys-23-communications.md#gtn-650--gma-245-audio-connections).
 
-**Serial 4 (Dynon ↔ GTN 650)**: The blue and green wires are intentionally flipped on this serial connection. This swap was done during installation — the TX/RX lines needed to be crossed for proper communication between the Dynon SkyView and GTN 650 on serial port 4.
+**Serial 4 is the OnSpeed AoA, not the GTN** (corrected 2026-09-13). Dynon serial
+port 4 once carried a GTN 650 serial output — the blue and green wires were
+deliberately flipped during installation to cross TX/RX — but that cable was cut
+and the port has since been reassigned to OnSpeed. Treat any older note tying
+serial 4 to the GTN as history.
+
+GTN data reaches the SkyView over the **SV-ARINC-429** module (CDI with
+auto-scaling, GPSS roll steering, and vertical deviation for ILS glideslopes and
+GPS glidepaths — but not the enroute VNAV path, see
+[Navigation](./sys-34-navigation.md)) plus a separate **Aviation-format serial**.
+
+<!-- TODO: which Dynon serial port carries the GTN Aviation-format data now that
+     port 4 is OnSpeed? Read it off SETUP > SYSTEM SETUP > SERIAL PORT SETUP. -->
 
 **Disconnected audio warning line**: The old CO audio warning line runs from the former CO detector location to the GMA 245 Music input. This line is currently disconnected. It is difficult to reach — runs behind the panel.
 
-**Disconnected serial 4 line**: A serial 4 cable was cut — it leads from one of the GTN 650's serial outputs to the Dynon's serial 4 port. Both connections are a major pain to reach and worth documenting on an updated schematic.
+**Cut GTN serial line**: the old GTN-to-Dynon serial-4 cable was cut and is
+abandoned in the harness. Both ends are a major pain to reach; worth showing as
+removed on an updated schematic so it is not mistaken for a live path.
 
 ## Wiring
 
