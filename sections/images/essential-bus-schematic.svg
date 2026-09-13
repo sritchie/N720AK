@@ -73,10 +73,10 @@
   <polygon points="462,150 478,150 470,162" fill="#333"/>
   <polygon points="462,215 478,215 470,203" fill="#333"/>
   <circle cx="470" cy="182" r="7" fill="#333"/>
-  <text x="490" y="140" class="t">both-battery DIODE-OR node</text>
-  <text x="490" y="154" class="s">passive: the higher battery feeds the bus,</text>
-  <text x="490" y="166" class="s">both share when they are close;</text>
-  <text x="490" y="178" class="s">0.5–0.7 V drop under load is normal</text>
+  <text x="572" y="140" class="t">both-battery DIODE-OR node</text>
+  <text x="572" y="154" class="s">passive — the higher battery feeds it;</text>
+  <text x="572" y="166" class="s">both share when they are close;</text>
+  <text x="572" y="178" class="s">0.5–0.7 V drop under load is normal</text>
 
   <!-- Key switch -->
   <rect x="440" y="300" width="90" height="40" rx="6" class="box"/>
@@ -86,17 +86,20 @@
   <!-- Main bus relay -->
   <rect x="580" y="250" width="120" height="34" rx="5" class="box"/>
   <text x="640" y="266" text-anchor="middle" class="t">Main Bus Relay</text>
-  <text x="640" y="278" text-anchor="middle" class="s">driven by the key</text>
+  <text x="640" y="278" text-anchor="middle" class="s">from ALT / BAT 1</text>
   <!-- Essential bus relay -->
   <rect x="580" y="308" width="120" height="34" rx="5" class="box"/>
   <text x="640" y="324" text-anchor="middle" class="t">Essential Bus Relay</text>
-  <text x="640" y="336" text-anchor="middle" class="s">cascaded from main relay</text>
+  <text x="640" y="336" text-anchor="middle" class="s">from DIODE-OR node</text>
 
   <path d="M530 312 L580 270" class="w"/>
-  <path d="M530 326 L580 326" class="w"/>
-  <!-- node to relays -->
-  <path d="M470 182 L560 182 L560 250 L580 258" class="wn"/>
-  <path d="M560 250 L560 300 L580 316" class="wn"/>
+  <!-- MAIN bus relay is fed from the ALT / BAT 1 rail, NOT from the diode node -->
+  <circle cx="470" cy="107" r="4" fill="#333"/>
+  <path d="M470 107 L540 107 L540 252 L576 258" class="wn"/>
+  <!-- ESSENTIAL bus relay is fed from the diode-OR node -->
+  <path d="M470 182 L558 182 L558 314 L576 320" class="wn"/>
+  <!-- essential relay coil cascades from the main relay -->
+  <path d="M640 284 L640 306" class="w"/>
 
   <!-- Main bus -->
   <rect x="800" y="80" width="580" height="222" rx="8" class="main"/>
@@ -162,10 +165,10 @@
   <!-- Walkthrough panel -->
   <rect x="20" y="530" width="760" height="250" rx="8" fill="#fafafa" stroke="#bbb"/>
   <text x="34" y="552" class="h">Walkthrough</text>
-  <text x="34" y="572" class="wt">1. NORMAL: alternator → Battery 1, MZ-30 → Battery 2. Both batteries feed the diode-OR node. The KEY closes the</text>
-  <text x="34" y="587" class="wt">    Main Bus Relay (→ VPX / avionics) and, cascaded from it, the Essential Bus Relay (→ engine, PFD 1, pumps, GTN, servos).</text>
-  <text x="34" y="609" class="wt">2. ONE SOURCE FAILS: nothing switches. The node draws from the higher battery; the other charger keeps its battery up.</text>
-  <text x="34" y="624" class="wt">    An alternator failure shows as ALT amps → 0 and a sagging bus, NOT a battery discharge (the shunt is on the alternator lead).</text>
+  <text x="34" y="572" class="wt">1. NORMAL: alternator → Battery 1, MZ-30 → Battery 2. The two busses have DIFFERENT sources: the MAIN bus is fed</text>
+  <text x="34" y="587" class="wt">    from the ALT / Battery 1 rail alone; the ESSENTIAL bus is fed from the diode-OR node, so it sees BOTH batteries.</text>
+  <text x="34" y="609" class="wt">2. BATTERY 1 DIES: the main bus dies with it — nothing is left on its rail once the alternator stops carrying. The</text>
+  <text x="34" y="624" class="wt">    essential bus keeps running on Battery 2 through its diode. No sensor, no logic — the busses simply have different sources.</text>
   <text x="34" y="646" class="wt">3. MAIN-BUS SHED (smoke, runaway load, VPX fault):  E-PWR ON → VERIFY essential-bus volts → KEY OFF.  Order is life:</text>
   <text x="34" y="661" class="wt">    key OFF with E-PWR off (or failed) opens the Essential Bus Relay and the engine stops. Survives: engine, PFD 1, both pumps,</text>
   <text x="34" y="676" class="wt">    servos, both chargers. Dies today: displays 2/3, transponder, audio, flaps, trim, pitot heat — and the GTN (relay coils).</text>

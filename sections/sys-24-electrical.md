@@ -77,16 +77,22 @@ The picture above is the whole story of the two busses in one place; the numbere
 walkthrough is the version to be able to say out loud.
 
 1. **Normal.** The alternator charges Battery 1 and the MZ-30 charges Battery 2 —
-   two isolated charging systems. Both batteries feed the Bus Manager's
-   diode-OR node. The key closes the Main Bus Relay (main bus → VPX Sport →
-   avionics, flaps, trim, pitot heat) and, cascaded from it, the Essential Bus
-   Relay (essential bus bar → ECUs, ignition coils, pumps, PFD 1, GTN, servos).
-2. **One source fails.** Nothing switches. The node passively draws from
-   whichever battery is higher, and the surviving charger keeps its battery
-   up. An alternator failure shows as alternator amps falling to zero and bus
-   voltage sagging — *not* as a battery discharge, because the shunt is on the
-   alternator lead (see [Ammeter Shunt Placement](#ammeter-shunt-placement--reading-an-alternator-failure)).
-3. **Main-bus shed** (smoke, runaway load, VPX fault): **EMERGENCY POWER ON →
+   two isolated charging systems. **The two busses do not share a source.** Per
+   Bus Manager Drawing 5A, the Main Bus Relay's contact is fed from the
+   **alternator / Battery 1 rail alone**; only the Essential Bus Relay is fed
+   from the **diode-OR node**, which sees both batteries. The key drives the
+   Main Bus Relay coil and, cascaded from it, the Essential Bus Relay coil
+   (essential bus bar → ECUs, ignition coils, pumps, PFD 1, GTN, servos).
+2. **Battery 1 dies — the main bus dies with it.** Once the alternator stops
+   carrying, nothing is left on that rail, so the main bus goes away while the
+   **essential bus keeps running on Battery 2** through its diode. This is
+   automatic and it has been observed in this airplane, but there is no sensor
+   and no logic behind it: the busses simply have different sources.
+3. **The alternator fails but Battery 1 is good.** The main bus stays up on
+   Battery 1 until it runs down. The failure shows as alternator amps falling
+   to zero and bus voltage sagging — *not* as a battery discharge, because the
+   shunt is on the alternator lead (see [Ammeter Shunt Placement](#ammeter-shunt-placement--reading-an-alternator-failure)).
+4. **Main-bus shed** (smoke, runaway load, VPX fault): **EMERGENCY POWER ON →
    verify essential-bus voltage → KEY OFF.** The switch is a hard jumper from
    the diode node to the essential bus output, so with it on the key can open
    both relays without touching the engine. Order is life: key off with the
@@ -96,11 +102,11 @@ walkthrough is the version to be able to say out loud.
    displays, transponder, audio panel, flaps, electric trim, pitot heat — and
    the GTN, because its COM/NAV power-relay coils are fed by AV MSTR from the
    main bus (the annual's fix list).
-4. **EMERGENCY POWER does not work.** You are on whatever the Essential Bus
+5. **EMERGENCY POWER does not work.** You are on whatever the Essential Bus
    Relay gives you: leave the key on and land now. There is no mechanical
    ignition or fuel fallback on this engine, and no essential breaker is an
    isolation tool — every one of them feeds something the engine needs.
-5. **Fire / secure.** Key OFF *and* EMERGENCY POWER OFF. Both paths must be
+6. **Fire / secure.** Key OFF *and* EMERGENCY POWER OFF. Both paths must be
    open, because the jumper alone re-powers the ECUs, the pumps, and the
    starter.
 
@@ -134,11 +140,17 @@ The VPX Sport provides:
 
 #### What Is and Is Not Automatic
 
-Nothing in this airplane senses a low bus and sheds the main bus for you.
+Nothing in this airplane *senses* a low bus and sheds the main bus for you.
+One thing does drop the main bus automatically, but by topology rather than by
+detection — **a dead Battery 1 takes the main bus with it**, because that bus
+has no other source (walkthrough step 2). Do not describe that as the Bus
+Manager shedding load; it is the absence of a source, and the Bus Manager is
+not aware of it.
 
-- **The Bus Manager does not shed loads.** Its only automatic behavior is the
-  passive diode-OR at the both-battery node. That is two diodes — no sensor, no
-  comparator, no contactor logic. See the walkthrough above.
+- **The Bus Manager does not shed loads.** Its automatic behaviors are the
+  passive diode-OR at the both-battery node and the fuel-pressure-triggered
+  switch to fuel pump 2. Neither watches bus voltage. Its install instructions
+  describe no voltage-sensing bus logic of any kind.
 - **The VPX Sport does not shed loads either.** The word does not appear
   anywhere in the Rev G4 manual. Its automatic behaviors are per-channel
   overcurrent and thermal protection. Low voltage is *detected and reported*:
