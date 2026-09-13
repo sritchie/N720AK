@@ -99,17 +99,19 @@
   <path d="M560 250 L560 300 L580 316" class="wn"/>
 
   <!-- Main bus -->
-  <rect x="800" y="80" width="580" height="210" rx="8" class="main"/>
+  <rect x="800" y="80" width="580" height="222" rx="8" class="main"/>
   <text x="1090" y="102" text-anchor="middle" class="h">MAIN BUS → VPX Sport</text>
   <text x="1090" y="118" text-anchor="middle" class="s">electronic breakers, reset from the EFIS — nothing to pull</text>
-  <text x="815" y="142" class="t">• Copilot HDX-1100 and center HDX-800 displays</text>
-  <text x="815" y="160" class="t">• GMA 245 audio panel / headsets (VPX J10-4)</text>
-  <text x="815" y="178" class="t">• Transponder / ADS-B (VPX J10-7)</text>
-  <text x="815" y="196" class="t">• Flaps, electric trim (AP panel), pitot heat</text>
-  <text x="815" y="214" class="t">• AV MSTR switch → the coils of the GTN COM and NAV power relays</text>
-  <text x="815" y="236" class="call">Known issue: any main-bus loss opens those relays, and the GTN goes dark</text>
-  <text x="815" y="252" class="call">even though its COM 1 / NAV 1 breakers on the essential bar are hot.</text>
-  <text x="815" y="270" class="s">Annual fix: re-source the coil feed from the essential bus; dual-feed the transponder; own essential breaker for the GMA.</text>
+  <text x="815" y="140" class="t">• Copilot HDX-1100 (5A-8) and center HDX-800 displays</text>
+  <text x="815" y="158" class="t">• GMA 245 audio panel / headsets (5A-9, VPX J10-4)</text>
+  <text x="815" y="176" class="t">• Transponder / ADS-B (5A-10, VPX J10-7)</text>
+  <text x="815" y="194" class="t">• Flaps, electric trim (AP panel 3A-1), pitot heat, COM 2, lights</text>
+  <text x="815" y="214" class="t">AV MSTR is a DPDT switch with two jobs:</text>
+  <text x="827" y="229" class="s">pole 1 → VPX Switch Input #1, which gates a configured group of these channels;</text>
+  <text x="827" y="242" class="s">pole 2 (Wht/Blk) → the coils of the GTN COM and NAV power relays.</text>
+  <text x="815" y="262" class="call">Known issue: any main-bus loss opens those relays, and the GTN goes dark</text>
+  <text x="815" y="278" class="call">even though its COM 1 / NAV 1 breakers on the essential bar are hot.</text>
+  <text x="815" y="293" class="s">Annual fix: re-source the coil feed from the essential bus; dual-feed the transponder; own essential breaker for the GMA.</text>
   <path d="M700 267 L800 200" class="w"/>
 
   <!-- Essential bus bar -->
