@@ -60,8 +60,30 @@ All antenna coax is RG-400. See [wing root connectors](sys-24-electrical.md#wing
 
 ### NAV Antenna
 
-- **Bob Archer** — single nav antenna for GTN 650
-<!-- TODO: Bob Archer model number, location, coax routing -->
+- **Bob Archer** (Sportcraft) — single wingtip nav antenna feeding the GTN 650.
+  VOR, localizer and glideslope all come off this one antenna; the GTN's
+  glideslope diplexer is internal, so no external splitter is fitted.
+- Mounted in the **right** wingtip. The coax reaches the panel through an inline
+  BNC at the right wing root — see
+  [wing root connectors](sys-24-electrical.md#wing-root-connectors-cpc).
+<!-- TODO: Bob Archer model number (SA-001 or VOR Model 1), exact position in the tip, coax routing -->
+
+**Grounding caveat specific to N720AK.** Archer's design grounds the antenna's
+base strip by clamping it between the wingtip and the wing skin under the
+nutplate screws. N720AK's wingtips are on
+[piano hinges](sys-52-doors-airframe.md#wingtip-attachment), so that path does
+not exist here. Anodized hinge stock is a poor RF conductor, and two RV-10
+owners with hinge-mounted tips traced a wagging needle and a dead antenna to
+exactly this, both fixed with a strap from the base leg to the outboard rib.
+**Verify the base leg reads under 1 Ω to the rib** whenever the tip is off.
+
+**Known-good reference numbers** for a stock Archer, from owners who measured:
+SWR under 2:1 across 108–118 MHz, and 4:1 to 6:1 at glideslope frequencies.
+The poor glideslope match is normal — Archer never designed for 330 MHz, and a
+GTN 650 works through it.
+
+**Diagnostics**: `plans/vor-antenna-diagnostic.md` covers the RF interference
+survey, VNA measurement, and the antenna rebuild dimensions.
 
 ### Transponder & ADS-B Antennas
 
@@ -261,6 +283,9 @@ write path has not yet been tried against the real radio.
 - [Comant CI-122 Datasheet](https://drive.google.com/file/d/1P0qMaKxGBthdWucwykEZOPH_o9H4uJYB/view)
 - [Dynon SV-COM-425 Customer Drawing](https://drive.google.com/file/d/1UfjDYUc6NpaRH4Fd9VGXTsmC3CkCvkWE/view)
 - [Bob Archer — Antennas for Aircraft](https://drive.google.com/file/d/1b2w_VkXSzQI-bU9lCF0idzxq1E5rLWBG/view)
+- [Bob Archer — Wing Tip vs More Common Types of VOR Antennas](http://www.aeroelectric.com/Reference_Docs/Antenna/Bob_Archer/VOR%20Antennas.pdf)
+- [AeroElectric Connection Fig. 13-12 — wingtip VOR antenna drawing](https://vansairforce.net/attachments/screenshot-2026-04-11-at-7-24-31%E2%80%AFpm-png.114848/) (dimensions transcribed in `plans/vor-antenna-diagnostic.md`)
+- [Archer glideslope add-on — dimensioned PDF](https://vansairforce.net/attachments/archer_gs_mod-pdf.114327/) and [Onshape CAD](https://cad.onshape.com/documents/cbff8ca0fee54b2b954db6af/w/f5ebbd2c43a1e3515aac7cb1/e/1e61d8094a13d9be680380f5)
 - [Bob Archer Antenna Installation Instructions](https://drive.google.com/file/d/1tpQ1PFsuzGcuJrZAru651fHs_7vxFHb9/view)
 - [Garmin GA 35 Installation Instructions (Rev F)](https://static.garmin.com/pumac/190-00848-00_f.pdf)
 - [Garmin GA 35 Product Page](https://www.garmin.com/en-US/p/6573/)
