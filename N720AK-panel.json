@@ -1700,6 +1700,11 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "ELT",
+              "expectation": "ACTIVATE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
               "prompt": "Airspeed",
               "expectation": "BEST GLIDE / ONSPEED",
               "type": "ITEM_CHALLENGE_RESPONSE"
@@ -1860,6 +1865,11 @@
             {
               "prompt": "Squawk",
               "expectation": "7700",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "ELT",
+              "expectation": "ACTIVATE",
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {

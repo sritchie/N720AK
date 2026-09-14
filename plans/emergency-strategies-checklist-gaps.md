@@ -146,20 +146,14 @@ spiral and not a spin, and the warning against the hands-off reflex.
 
 ## Open questions for Sam
 
-1. **ELT.** `Emergency Landing Without Engine Power` and `Ditching` both squawk
-   7700 and call mayday, but neither activates the ELT. N720AK carries an Artex
-   ELT 345 (406 MHz) — but the panel-switch inventory in `08-systems.md` does
-   not list an ELT remote switch, so I can't tell whether there is one to flip.
-   *Is there a remote ELT switch on the panel?* If yes, it is a one-line
-   addition to both checklists.
-2. **Performance profiles.** The `Unreliable Airspeed` checklist is only useful
+1. **Performance profiles.** The `Unreliable Airspeed` checklist is only useful
    if it can say "set this power, this pitch, this configuration." The book's
    worksheet (p. 79) is exactly that table and N720AK does not have one. The
    numbers have to come from flight data or from Sam — **they must not be
    invented.** The proposed checklist therefore points at a table rather than
    containing one, and building that table is a separate task (a good use of the
    `flight-data-analysis` skill against existing Dynon logs).
-3. **REACT's "E".** The book's version of the Engine-gauges check (p. 21) singles
+2. **REACT's "E".** The book's version of the Engine-gauges check (p. 21) singles
    out **fuel flow** as the most-overlooked abort cue, with a sea-level estimate
    of HP ÷ 11 for engines over 200 HP — about 23–24 GPH for the IO-540. The
    current briefing says only "Engine gauges — GREEN". *Do you want the actual
@@ -179,3 +173,56 @@ spiral and not a spin, and the warning against the hands-off reflex.
 | Magneto checks, "bumped the ignition to OFF" (p. 25) | No magnetos. The ECU p-lead check in `Runup` is the analogue and already exists. |
 | Airframe parachute (p. 12) | Not installed. |
 | Turn It All Off load-shed strategy (p. 75) | **Actively dangerous here.** The book's master-off-then-on trick assumes a magneto engine. On N720AK, key-off stops the engine unless EMERGENCY POWER is on *first*. The existing checklists already have the correct ordering; the point is that the book's version must never be carried over. |
+
+---
+
+## Resolved: the ELT switch exists
+
+Sam confirmed a panel ELT remote switch (2026-09-14). `Emergency Landing Without
+Engine Power` and `Ditching` now activate it right after the 7700 squawk, and
+both `08-systems.md` and `sys-23-communications.md` record the switch — it was
+absent from the panel inventory, which is why the question had to be asked.
+
+The reason it goes early and high rather than at touchdown: a crash g-switch
+fires only about half the time (p. 116) — some beacons fail to activate, but
+more are separated from their antennas, buried or burned. Squawk plus ELT is
+about four seconds (p. 117). N720AK's ADS-B Out is transmitting GPS position
+independently, which helps, but it stops at impact and the ELT does not.
+
+Added with it: a note to turn the ELT **off** and notify ATC or the AFRCC after
+walking away from a landing. An un-cancelled 406 alert launches a search.
+
+Still open: **is the ELT 345 fed a GPS position?** The Embry-Riddle data in the
+book (p. 117) puts the mean search at **11.8 hours** for a 406 ELT without GPS
+aiding and **two hours** with it. If it is not wired for position, that is worth
+fixing. Logged as a TODO in `sys-23-communications.md`.
+
+---
+
+## UNRESOLVED — a life-safety conflict between two sources Sam already owns
+
+**Five in-flight checklists say `Doors ... UNLATCH PRIOR TO TOUCHDOWN`:** Engine
+Failure Immediately After Takeoff, Engine Failure On Approach, Emergency Landing
+Without Engine Power, Precautionary Landing With Engine Power, and Ditching.
+
+The two authorities disagree, and they disagree *specifically about gull-wing
+doors*:
+
+| Source | Says |
+|---|---|
+| **Stowell**, *Emergency Maneuver Training*, pp. 174–175, 186 | Unlatch before an off-airport touchdown — a deformed fuselage can jam a latched door over your only exit. If there is time for exactly **one** set-up item, make it this one. Wedge the gap so it cannot relatch. |
+| **PilotWorkshops**, *Emergency Strategies* v1.1, p. 117 | "Unlatching the cabin doors prior to touchdown makes them less likely to jam shut. However, some POHs have guidance otherwise. **Gull-wing doors and some canopies are better left shut.** … the forces are substantial." |
+
+**The checklists currently follow Stowell, and I did not change them.** Stowell
+gives a mechanism (jamming) and PilotWorkshops gives none — it asserts the
+gull-wing exception in one clause with no reasoning and no citation. Flipping
+five emergency checklists on an unreasoned sentence would be worse than leaving
+them. But it is not nothing either: an RV-10 door hinges forward at the top and
+opens *upward*, so the failure modes an unlatched one can produce (departing in
+the flare, or standing open across the egress path after a rollover) are not the
+failure modes Stowell is reasoning about with a conventional side door.
+
+**This needs an answer from a source that knows the RV-10 specifically** — Van's,
+the type club, or an RV-10 accident review. Until then the checklists stay as
+they are, and this note exists so the next pass does not silently adopt either
+side.

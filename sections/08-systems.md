@@ -303,6 +303,12 @@ address **A9A396**, ADS-B version 2 — both confirmed by the 2026-01-28 PAPR.
 - Master switch (keyed)
 - O2 mode switch (pulse/constant)
 - Co-pilot trim enable
+- ELT remote switch (Artex ELT 345 remote panel)
+
+The ELT remote switch lets the beacon be activated **before** an off-airport
+touchdown rather than relying on the crash g-switch — which is the reason the
+forced-landing and ditching checklists call for it early and high.
+<!-- TODO: ELT remote panel switch positions and annunciation (ON / RESET / armed indication) -->
 
 ## Control Sticks
 

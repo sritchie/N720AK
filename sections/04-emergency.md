@@ -117,6 +117,9 @@
 ### Emergency Landing Without Engine Power
 
 - Squawk ... **7700**
+- ELT ... **ACTIVATE**
+  
+  *do it EARLY and HIGH — an ELT transmits after a crash only about half the time, and altitude gets the signal out. Squawk plus ELT is about four seconds.*
 - Airspeed ... **BEST GLIDE / ONSPEED**
   
     *95 KIAS clean / ONSPEED with flaps*
@@ -133,6 +136,9 @@
 - Doors ... **UNLATCH PRIOR TO TOUCHDOWN**
 - Touchdown ... **SLIGHTLY TAIL LOW**
 - Brakes ... **APPLY HEAVILY**
+
+> *Note: If you walk away and the ELT is still transmitting, turn it OFF and call the nearest ATC facility or the AFRCC — an un-cancelled 406 alert launches a search.*
+
 
 ### Turnback Procedure
 
@@ -187,6 +193,9 @@
 
 - Transmit Mayday ... **121.5 MHZ, GIVING LOCATION**
 - Squawk ... **7700**
+- ELT ... **ACTIVATE**
+  
+  *do it EARLY and HIGH — an ELT transmits after a crash only about half the time, and altitude gets the signal out. Squawk plus ELT is about four seconds.*
 - Heavy Objects ... **SECURE OR JETTISON**
 - Flaps ... **16º - 33º**
 - Power ... **ESTABLISH 300 FT/MIN DESCENT, SLOW TONE**

@@ -2089,6 +2089,15 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "ELT",
+              "expectation": "ACTIVATE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "do it EARLY and HIGH — an ELT transmits after a crash only about half the time, and altitude gets the signal out. Squawk plus ELT is about four seconds.",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
               "prompt": "Airspeed",
               "expectation": "BEST GLIDE / ONSPEED",
               "type": "ITEM_CHALLENGE_RESPONSE"
@@ -2146,6 +2155,10 @@
               "prompt": "Brakes",
               "expectation": "APPLY HEAVILY",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "If you walk away and the ELT is still transmitting, turn it OFF and call the nearest ATC facility or the AFRCC — an un-cancelled 406 alert launches a search.",
+              "type": "ITEM_NOTE"
             }
           ]
         },
@@ -2313,6 +2326,15 @@
               "prompt": "Squawk",
               "expectation": "7700",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "ELT",
+              "expectation": "ACTIVATE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "do it EARLY and HIGH — an ELT transmits after a crash only about half the time, and altitude gets the signal out. Squawk plus ELT is about four seconds.",
+              "type": "ITEM_PLAINTEXT"
             },
             {
               "prompt": "Heavy Objects",
