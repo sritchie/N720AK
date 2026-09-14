@@ -2175,6 +2175,10 @@
               "type": "ITEM_WARNING"
             },
             {
+              "prompt": "200 ft is a floor, not a gate. There is no altitude number — the call is TLAR against turning room, wind and where the runway actually is. ONSPEED is what makes that work: it holds best sustained turn rate and smallest radius regardless of weight, bank or density altitude.",
+              "type": "ITEM_NOTE"
+            },
+            {
               "type": "ITEM_SPACE"
             },
             {
@@ -2221,6 +2225,10 @@
               "prompt": "On Speed",
               "expectation": "MAINTAIN TO TOUCHDOWN",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "If there is ANY doubt about the energy to reach the runway, do not commit to it — turn into the wind and slow to ONSPEED. That is the maneuver, not a consolation prize.",
+              "type": "ITEM_NOTE"
             },
             {
               "prompt": "If turn not working: WINGS LEVEL, LAND AHEAD AS SLOW AS POSSIBLE.",

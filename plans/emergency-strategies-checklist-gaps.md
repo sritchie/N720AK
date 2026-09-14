@@ -226,3 +226,50 @@ failure modes Stowell is reasoning about with a conventional side door.
 the type club, or an RV-10 accident review. Until then the checklists stay as
 they are, and this note exists so the next pass does not silently adopt either
 side.
+
+---
+
+## The turnback: TLAR and ONSPEED, not an altitude number
+
+I first read `Turnback Procedure`'s *"Below 200 ft AGL, turnback is
+non-recoverable"* as a gap — the book gives a method for deriving a briefed
+altitude (measure at altitude with perfect form, add 50 %, gate above that;
+~800 ft → 1200 AGL for a 172) and N720AK had no such number. I proposed deriving
+one.
+
+**Sam's call: no. TLAR, flown at ONSPEED.** A fixed altitude gate "just won't
+really work," and the FlyONSPEED engine-out material is the reason:
+
+> maintain ONSPEED and fly the airplane to the crash
+
+ONSPEED holds **best sustained turn rate and smallest sustained turn radius**,
+and the AoA that does it is the *same* AoA regardless of weight, density altitude
+or G. An altitude number is a proxy that is valid at one weight, one wind, one
+lateral offset and one runway — which is exactly the set of things that are
+different on every takeoff. FlyONSPEED declines to give a decision altitude at
+all: it is "airplane dependent" and "can only be determined by practice."
+
+So the checklist was already the right shape — `Pitch … ONSPEED IMMEDIATELY`,
+and `above turnback altitude / per TLAR` in Engine Failure Immediately After
+Takeoff. Two things were added rather than a number:
+
+1. **200 ft is a floor, not a gate**, with the reason ONSPEED is what makes a
+   TLAR call workable. Under stress a lone "non-recoverable below 200" reads as
+   permission above it.
+2. **FlyONSPEED's fallback, which was missing**: *if there is any doubt about the
+   energy to reach the runway, turn into the wind and slow to ONSPEED* — framed
+   as the maneuver rather than as giving up on the good one.
+
+The book's derive-a-number method still earns its cards, because it is right for
+the airplanes Sam rents and for the commercial ride. It is just not how this
+airplane is flown.
+
+Source: [FlyONSPEED, Using AOA for Emergency
+Maneuvering](https://www.flyonspeed.org/using-aoa-for-em-engine-out).
+
+One thing worth noting for a later pass: FlyONSPEED calls for **"lift" flaps**
+(takeoff setting, else half or less) during the turn-back, and N720AK's checklist
+does not mention flaps in the turn at all. At ONSPEED with 16° the airplane is
+below the 90 KIAS flap inhibit, so they are available there — unlike the clean
+95 KIAS best-glide case elsewhere in this document. Not changed here; it wants
+Sam's judgement and probably a flight.

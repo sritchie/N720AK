@@ -148,6 +148,9 @@
 
 > ⚠️ **WARNING:** Below 200 ft AGL, turnback is non-recoverable. Land ahead.
 
+
+> *Note: 200 ft is a floor, not a gate. There is no altitude number — the call is TLAR against turning room, wind and where the runway actually is. ONSPEED is what makes that work: it holds best sustained turn rate and smallest radius regardless of weight, bank or density altitude.*
+
 - Pitch ... **ONSPEED IMMEDIATELY**
   
     *single AOA reference — best blend of turn rate and stall margin*
@@ -161,6 +164,9 @@
   
     *uncoordinated stall is non-recoverable at low altitude*
 - On Speed ... **MAINTAIN TO TOUCHDOWN**
+
+> *Note: If there is ANY doubt about the energy to reach the runway, do not commit to it — turn into the wind and slow to ONSPEED. That is the maneuver, not a consolation prize.*
+
 
 > *Note: If turn not working: WINGS LEVEL, LAND AHEAD AS SLOW AS POSSIBLE.*
 
