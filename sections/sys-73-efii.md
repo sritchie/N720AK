@@ -154,8 +154,13 @@ automotive injector service.
 
 ## Project — a custom LOP controller
 
-**Status: intended, not started.** The goal is a custom controller for the
-System32 that implements SDS-style lean-of-peak control.
+**Status: intended, not started. The doctrine behind it is already settled** —
+Sam worked it out on 2026-08-30 from the PilotWorkshops *Airplane Engines* manual
+(red box, pp. 48-53) and the SDS Lycoming Tuning Guide V30. This section records
+the resulting design target, not an open question.
+
+The goal is a custom controller for the System32 that implements SDS-style
+lean-of-peak control.
 
 Why SDS is the reference: Racetech's SDS is a different vendor from flyEFII, but
 it is the same architecture — fuel and ignition maps indexed by RPM and MAP, with
@@ -168,20 +173,39 @@ worth reproducing:
 | **LOP Control** | Arms lean-of-peak operation from a switch or the programmer | One control, rather than hand-tuning a mixture trim |
 | **LOP Ignition Advance** | Adds timing advance while LOP is active | The important one. A leaner charge burns slower, so it needs earlier ignition — extra advance is what makes an engine run *smoothly* LOP |
 | **LOP Lean Fuel Percent** | Subtracts a programmed percentage from injector pulse width when LOP is armed | Makes the lean step repeatable instead of a feel |
+| **MAP guard** | Auto-cancels LOP mode above roughly 24-25" MAP | **The safety-critical one, and the one the System32 has no equivalent for.** Without it, advancing the throttle while still leaned walks the engine straight into the red box |
 
 **The physics worth carrying over:** a fixed-timing magneto cannot advance for a
 lean mixture, which is a large part of why magneto engines run LOP badly and
 electronically-managed ones run it well. Any controller built here should treat
 timing and mixture as one coupled control, not two independent knobs.
 
-**Open input for the design:** N720AK's measured spread across cylinders is
-roughly 1 gph, and an induction leak test is still outstanding. LOP operation is
-only as good as the worst-distributed cylinder, so resolve distribution before
-chasing controller features.
+**The MAP guard is the headline requirement.** Today its place is taken by a
+procedural rule — *knob to zero before any power increase* — which is a checklist
+item doing a machine's job. Automating that single interlock is most of the
+safety value of the whole project, and it is also worth raising with Robert
+Paisley as a System32 feature request independent of any custom controller.
 
-**Constraint to design against:** the System32 runs dual redundant ECUs, either
-able to run the engine alone. Anything added must not become a single point of
-failure between the ECUs and the engine.
+**Distribution comes before features.** LOP is only as good as the
+worst-distributed cylinder, and the target for clean LOP is a GAMI spread under
+0.5 gph. As of the 2026-08-31 trip sweeps the spread ran 1.06-1.47 gph, with
+cylinder 2 leaking and cylinder 5's fresh seal drifting lean in flight; the
+identified fix is to deburr and reseal all six PMI bosses, after which trims
+should need only ±2-3 %. ECU trims are add-only, 0-9 %, and apply to cylinder
+POSITION rather than to the injector — so they must be zeroed before any
+diagnostic swap. Full history and flight-data analysis live in the project
+memory, not here.
+
+**Constraints to design against:**
+
+- The System32 runs dual redundant ECUs, either able to run the engine alone.
+  Anything added must not become a single point of failure between the ECUs and
+  the engine, and a map change has to be uploaded to BOTH.
+- Live tuning on the System32 adjusts one fuel number per RPM row at squared
+  points; the MAP-axis shape within a row is fixed. A full 2D map can, however,
+  be uploaded on the ground — which is the lever a custom controller would use.
+- Leave the ignition map alone as a baseline: EFII's 30° cruise timing already
+  approximates SDS's low-MAP-advance strategy.
 
 Reference documents are filed in GDrive `Public/Manuals/73-EFII/SDS-reference/`
 and listed under References below. **N720AK does not run SDS** — principles
