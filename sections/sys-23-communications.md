@@ -142,6 +142,20 @@ Both are non-TSO monopole antennas fed by 50 Ω RG-400 coax, with omnidirectiona
 
 - [Installation Instructions (Rev F)](https://static.garmin.com/pumac/190-00848-00_f.pdf)
 
+### ELT Remote Switch
+
+N720AK has a **panel-mounted ELT remote switch** (part of the Artex ELT 345
+installation). It allows manual activation from the cockpit, so the beacon can
+be turned on *before* an off-airport landing instead of depending on the
+crash-activated g-switch.
+
+This matters more than it looks: ELTs transmit after a crash only about half the
+time — some fail to activate, but more are separated from their antennas or
+buried. Activating while still airborne also gets the signal out from altitude.
+
+<!-- TODO: Switch positions and cockpit annunciation (ON / RESET / armed indication); location on the panel -->
+<!-- TODO: Confirm whether the ELT 345 is fed a GPS position. A 406 ELT without GPS aiding averaged an 11.8-hour search in the Embry-Riddle data; with GPS aiding, two hours. -->
+
 ### ELT Antenna
 
 | Parameter | Value |

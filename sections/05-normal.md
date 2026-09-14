@@ -306,6 +306,9 @@
 
 ### Before Takeoff
 
+
+> *Note: If this checklist is interrupted — a door, a radio call, a taxi hold — start it again from the top. The oversight a distraction causes shows up after the distraction is gone.*
+
 - Fuel Gauge ... **CHECK QUANTITY**
 - Fuel Pressure ... **45 PSI / GREEN**
 - Fuel Trim ... **0%**

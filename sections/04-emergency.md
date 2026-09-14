@@ -117,6 +117,9 @@
 ### Emergency Landing Without Engine Power
 
 - Squawk ... **7700**
+- ELT ... **ACTIVATE**
+  
+  *do it EARLY and HIGH — an ELT transmits after a crash only about half the time, and altitude gets the signal out. Squawk plus ELT is about four seconds.*
 - Airspeed ... **BEST GLIDE / ONSPEED**
   
     *95 KIAS clean / ONSPEED with flaps*
@@ -124,13 +127,18 @@
 - Key Switch ... **OFF**
   
     *kills ECUs; engine dies clean*
-- Wing Flaps ... **AS REQUIRED — 40º RECOMMENDED**
+- Wing Flaps ... **AS REQUIRED — 33º RECOMMENDED**
+  
+  *not available until below 90 KIAS — best glide is ABOVE the flap inhibit*
 - Radio Call ... **MAYDAY 121.5**
   
     *time permitting*
 - Doors ... **UNLATCH PRIOR TO TOUCHDOWN**
 - Touchdown ... **SLIGHTLY TAIL LOW**
 - Brakes ... **APPLY HEAVILY**
+
+> *Note: If you walk away and the ELT is still transmitting, turn it OFF and call the nearest ATC facility or the AFRCC — an un-cancelled 406 alert launches a search.*
+
 
 ### Turnback Procedure
 
@@ -139,6 +147,9 @@
 
 
 > ⚠️ **WARNING:** Below 200 ft AGL, turnback is non-recoverable. Land ahead.
+
+
+> *Note: 200 ft is a floor, not a gate. There is no altitude number — the call is TLAR against turning room, wind and where the runway actually is. ONSPEED is what makes that work: it holds best sustained turn rate and smallest radius regardless of weight, bank or density altitude.*
 
 - Pitch ... **ONSPEED IMMEDIATELY**
   
@@ -153,6 +164,9 @@
   
     *uncoordinated stall is non-recoverable at low altitude*
 - On Speed ... **MAINTAIN TO TOUCHDOWN**
+
+> *Note: If there is ANY doubt about the energy to reach the runway, do not commit to it — turn into the wind and slow to ONSPEED. That is the maneuver, not a consolation prize.*
+
 
 > *Note: If turn not working: WINGS LEVEL, LAND AHEAD AS SLOW AS POSSIBLE.*
 
@@ -185,6 +199,9 @@
 
 - Transmit Mayday ... **121.5 MHZ, GIVING LOCATION**
 - Squawk ... **7700**
+- ELT ... **ACTIVATE**
+  
+  *do it EARLY and HIGH — an ELT transmits after a crash only about half the time, and altitude gets the signal out. Squawk plus ELT is about four seconds.*
 - Heavy Objects ... **SECURE OR JETTISON**
 - Flaps ... **16º - 33º**
 - Power ... **ESTABLISH 300 FT/MIN DESCENT, SLOW TONE**
@@ -281,8 +298,12 @@
   *stops gravity/siphon feed to a firewall-forward leak*
 
 - Emergency Power Switch ... **OFF**
-  
-    *E-pwr independently re-powers ECUs and pumps — both paths must be off*
+
+> ⚠️ **WARNING:** With both busses dead the flaps and electric trim are gone — plan a FLAPS-UP landing. Vs1 is 61 KIAS against 48 KIAS at 33º.
+
+
+  *E-pwr independently re-powers ECUs and pumps — both paths must be off*
+
 - Cabin Heat / Air ... **OFF**
   
     *close firewall vents*
@@ -308,6 +329,9 @@
 
 
 **Emergency Power Switch** ... **OFF**
+
+
+> ⚠️ **WARNING:** With both busses dead the flaps and electric trim are gone — plan a FLAPS-UP landing. Vs1 is 61 KIAS against 48 KIAS at 33º.
 
 
   *now the airplane is fully dark*
@@ -415,6 +439,8 @@
   *bypasses Bus Manager — connects Bat 2 / MZ-30 directly to essential bus*
 
 - Non-Essential Loads ... **OFF**
+  
+  *the main bus is gone: flaps, electric trim, pitot heat, transponder and audio panel are dead. Plan a flaps-up landing.*
 - Squawk ... **7700**
 - Mayday Call ... **121.5**
 - Land ... **AS SOON AS PRACTICABLE**
@@ -503,6 +529,49 @@
   
     *Approach — 30 ft higher than normal*
 
+### Unreliable Airspeed / Pitot Blockage
+
+
+*Airspeed unwinding, frozen, or disagreeing with pitch and power.*
+
+
+*OnSpeed tone wrong or silent. AoA blank.*
+
+
+> ⚠️ **WARNING:** There will be NO ADAHRS cross-check error. Both units breathe the same probe, so they agree on the bad data.
+
+
+**Pitch and Power** ... **SET AND HOLD**
+
+
+*the airplane is still trimmed where it was — change nothing abruptly*
+
+- Pitot Heat ... **ON**
+  
+  *the only in-flight fix*
+- Altimeter / VSI ... **TRUST**
+  
+  *independent static system — unaffected by a pitot blockage*
+- GPS Groundspeed ... **CROSS-CHECK**
+  
+  *wind-corrected sanity check, not a replacement for airspeed*
+- Alternate Static ... **DO NOT USE**
+  
+  *wrong system — it corrupts altitude without helping airspeed*
+- Autopilot ... **USE IT — BUT NOT SPEED MODES**
+  
+  *any airspeed-driven mode chases the false reading*
+
+> ⚠️ **WARNING:** OnSpeed, Dynon AoA and the stall warning are all AoA-derived from the same probe. All three are GONE. No low-speed protection.
+
+- Declare ... **IF IMC**
+- Land ... **LONG RUNWAY, SHALLOW STABLE APPROACH**
+  
+  *fly the profile numbers — most pilots fly too fast without airspeed*
+
+> *Note: Attitude itself uses airspeed and falls back to GPS, so the backup for attitude is GPS, not the second ADAHRS.*
+
+
 ## Inadvertent IMC / Upset
 
 ### 180º Turn In Clouds
@@ -553,6 +622,9 @@
 - Recover ... **PITCH TO LEVEL**
   
     *after wings level, smoothly pitch to level flight*
+
+> ⚠️ **WARNING:** In a SPIRAL — airspeed and descent rate both increasing — letting go does NOT recover. Level the wings first, then raise the nose.
+
 
 ### Spin Recovery — PARE
 

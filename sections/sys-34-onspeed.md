@@ -131,6 +131,30 @@ Control cable wiring (6-conductor, button to OnSpeed box):
 | 10 | Pilot audio right | Purple/green |
 | 22 | Pilot audio left | Purple/yellow |
 
+## Emergency Maneuvering — Why the Turnback Has No Altitude Number
+
+FlyONSPEED's engine-out guidance is one line: **"maintain ONSPEED and fly the
+airplane to the crash."** It holds from the failure through the flare.
+
+The reason it replaces a number rather than supplementing one: ONSPEED is the AoA
+that gives **best sustained turn rate and smallest sustained turn radius**, and it
+is the *same* AoA at any weight, density altitude or G. A briefed turnback
+altitude is a proxy that is only valid at one weight, one wind, one lateral
+offset and one runway — which is a different set on every takeoff. FlyONSPEED
+declines to publish a decision altitude at all: it is "airplane dependent" and
+"can only be determined by practice."
+
+So N720AK's `Turnback Procedure` is TLAR at ONSPEED, and the 200 ft AGL line in
+it is a **floor** — where the turn definitely fails, not where it works.
+
+Two details from the same source worth knowing:
+
+- **If there is any doubt about the energy to reach the runway, turn into the
+  wind and slow to ONSPEED.** That is the maneuver, not a fallback.
+- FlyONSPEED calls for **"lift" flaps** in the turn-back — takeoff setting, else
+  half or less. N720AK's checklist does not mention flaps in the turn.
+  <!-- TODO: decide whether 16° belongs in the turnback. At ONSPEED with flaps the airplane is below the 90 KIAS flap inhibit, so they are available — unlike the clean 95 KIAS best-glide case. Wants a flight. -->
+
 ## Inspection & Maintenance
 
 <!-- TODO: Annual inspection items -->
@@ -142,3 +166,4 @@ Control cable wiring (6-conductor, button to OnSpeed box):
 - [AMX-10A Installation Diagram 3](https://drive.google.com/file/d/1UFVWUY-fRRcR6ru1VY8mgm_RKLxF4dOI/view)
 - [OnSpeed Calibration Configs](https://drive.google.com/drive/folders/1Bt_X_CIPS1z9uNAD2iXAzmN482ym8fyv?usp=sharing) (Public/Configs/OnSpeed/)
 - [OnSpeed Documentation](http://dev.flyonspeed.org/latest/) (web-based — installation, calibration, troubleshooting)
+- [Using AOA for Emergency Maneuvering](https://www.flyonspeed.org/using-aoa-for-em-engine-out) — the engine-out turn-back doctrine above

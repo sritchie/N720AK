@@ -14,5 +14,8 @@ maintenance/fuel-system/flight-logs/*.csv
 
 # Editor
 *.swp
-*~checklist.txt
+*~
+
+# Generated checklist exports — handed to the user, not committed
+checklist.txt
 N720AK.fmd
