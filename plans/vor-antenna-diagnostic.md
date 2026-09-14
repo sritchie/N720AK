@@ -84,6 +84,150 @@ to a specific box. Say so and I'll fold it into Phase 1.)*
 
 ---
 
+# Phase 0 — Set up the instruments
+
+Done once. The gain calibration at the end must be repeated at the airport.
+
+## 0.1 The SDR — already working
+
+`librtlsdr` is installed on this Mac, and macOS needs no driver for the NESDR
+SMArt v5. Plug it in and confirm:
+
+```bash
+uv run python3 scripts/rf_survey.py --check
+```
+
+Expect `Found 1 device(s): Nooelec, NESDR SMArt v5` and a list of 29 supported
+gain values. The `PLL not locked!` and `No E4000 tuner found, aborting` lines at
+the end are normal — `rtl_test -t` is probing for a tuner this dongle does not
+have. They are not errors.
+
+**Do not enable the bias tee.** It defaults off and would push DC into whatever
+is connected.
+
+## 0.2 Which antenna
+
+The bundle ships three masts. For this job:
+
+| Antenna | Use |
+|---|---|
+| **Telescopic** (the car-aerial one) | **Everything here.** It is the only one that reaches a quarter wave at VOR frequencies. |
+| Long whip with a coil in the middle | Loaded for a different band. Not for 108–118 MHz. |
+| Short whip | UHF. Not useful here. |
+
+Set the telescopic to a quarter wavelength for the band you are sweeping:
+
+| Band | Quarter wave |
+|---|---|
+| 113 MHz (VOR/LOC) | **26 in / 66 cm** |
+| 332 MHz (glideslope) | **9 in / 23 cm** |
+
+The magnetic base wants a metal ground plane under it. On the airplane, the wing
+skin is ideal — that is also the most repeatable place to put it. On a desk it
+has essentially no counterpoise, so desk readings are for checking the equipment,
+not the airplane.
+
+For the near-field wingtip survey, hold it **horizontal**, matching the
+polarization of the nav signals you care about.
+
+## 0.3 Calibrate the gain for your location
+
+**This is location-specific and worth three minutes.** Auto gain is never used —
+it destroys comparability — so the gain is a fixed number that has to be right.
+Too high and strong local FM compresses the tuner's front end and lifts the
+apparent noise floor. Too low and the dongle's own noise drowns out what you came
+to measure.
+
+Without moving the antenna:
+
+```bash
+uv run python3 scripts/rf_survey.py --gain-sweep --band nav \
+    --point ref --duration 24 --outdir ~/rf-survey/gain-$(date +%F)
+
+uv run --with numpy --with matplotlib python3 scripts/rf_analyze.py \
+    --gain-check ~/rf-survey/gain-$(date +%F)
+```
+
+It captures the same band at six gains and reports how the measured noise floor
+tracks the gain change:
+
+- **Floor falls more than the gain reduction** → the higher gain was compressing.
+- **Floor falls less** → the dongle's own noise is taking over.
+- The best gain is the **highest one still tracking linearly**.
+
+A bench run on 2026-09-14 at a desk in Boulder measured this:
+
+| Gain | Floor | FM pressure | Reading |
+|---|---|---|---|
+| 40.2 | −25.1 | 19.8 dB | mildly compressing |
+| 32.8 | −33.1 | 15.9 dB | **linear — use this** |
+| 25.4 | −36.9 | 13.6 dB | internal noise dominating |
+| 19.7 | −41.1 | 10.9 dB | internal noise dominating |
+
+`32.8` is the script default as a result. **Re-run this at the airport**: the FM
+environment there is different, and so is the antenna once it sits on the wing.
+
+## 0.4 How small a change can you believe?
+
+Two identical back-to-back captures on the bench, nothing changed between them,
+differed by **0.8 dB**. That is the repeatability floor of the method at 30
+seconds per capture. It is why the interpretation table treats anything under
+1 dB as noise, and why every sequence repeats its baseline at the end.
+
+## 0.5 The NanoVNA
+
+macOS needs no driver — the NanoVNA appears as a USB CDC serial device. Plug it
+in, power it on, and:
+
+```bash
+uv run --with pyserial python3 scripts/vna_capture.py --list
+```
+
+Look for a `/dev/cu.usbmodem*` entry. If nothing appears, the usual cause is a
+**charge-only USB cable**; it has to carry data.
+
+### Calibrate — and calibrate at the right plane
+
+Calibration is only valid for the sweep range it was taken over, and only at the
+physical point where the standards were attached. Both matter:
+
+1. Screw the **SMA-to-BNC-female adapter onto the VNA** and leave it there. That
+   adapter is now part of the instrument, and the aircraft plug mates to it.
+2. Set the sweep range **first**: STIMULUS → START 100 MHz, STOP 350 MHz.
+3. CAL → RESET, then CAL → CALIBRATE.
+4. Attach each **BNC** standard to the adapter in turn: OPEN, SHORT, LOAD.
+5. DONE, then SAVE to a slot.
+6. **Verify**: with the 50 Ω load attached, SWR should read ≈ 1.0 flat across the
+   sweep. If it does not, the calibration did not take — redo it.
+
+Calibrating at the SMA port and then adding the adapter puts the reference plane
+in the wrong place and quietly biases every reading.
+
+### Capture a sweep to a file
+
+Photographs of the screen are much worse than data. The H4 speaks a text console
+over that serial port, so sweeps can land in Touchstone files:
+
+```bash
+uv run --with pyserial python3 scripts/vna_capture.py --band both \
+    --out ~/vna/$(date +%F)-antenna-at-radio.s1p \
+    --note "wingtip on, measured at the GTN end of the coax"
+
+uv run --with numpy --with matplotlib python3 scripts/vna_analyze.py \
+    ~/vna/$(date +%F)-antenna-at-radio.s1p
+```
+
+That prints mean and worst SWR per band, the resonant frequency, and |Z|, and
+plots the two bands side by side. Give me the `.s1p` files and I can compare
+sweeps directly — before and after a fix, or against the stock-Archer reference.
+
+For live tuning while trimming aluminium, watching the VNA's own screen is
+fine — capture a file at each step so the progression is recorded.
+
+## 0.6 Adapters you still need
+
+Nothing in either box mates to an aircraft BNC. See the shopping list above.
+
 # Phase 1 — Interference and signal survey (SDR)
 
 **Goal:** a number, in dB, for how much each lighting system raises the noise
@@ -112,7 +256,7 @@ and conducted noise.
 
 ```bash
 uv run python3 scripts/rf_survey.py --protocol --both-bands \
-    --point coax --gain 40.2 \
+    --point coax --gain 32.8 \
     --outdir ~/rf-survey/$(date +%F)-coax \
     --note "KBDU ramp, engine off, nav coax at GTN end"
 ```
@@ -143,7 +287,7 @@ whether the fix is wire routing or shielding and grounding.
 
 ```bash
 uv run python3 scripts/rf_survey.py --protocol --both-bands \
-    --point near --gain 40.2 \
+    --point near --gain 32.8 \
     --outdir ~/rf-survey/$(date +%F)-wingtip
 ```
 
@@ -154,7 +298,7 @@ without the engine turning.
 
 ```bash
 uv run python3 scripts/rf_survey.py --protocol --sequence systems \
-    --both-bands --point coax --gain 40.2 \
+    --both-bands --point coax --gain 32.8 \
     --outdir ~/rf-survey/$(date +%F)-systems
 ```
 
@@ -193,7 +337,7 @@ ignition theory directly.
 
 ```bash
 uv run python3 scripts/rf_survey.py --protocol --sequence engine \
-    --both-bands --point coax --gain 40.2 \
+    --both-bands --point coax --gain 32.8 \
     --outdir ~/rf-survey/$(date +%F)-engine \
     --note "1200 RPM held throughout"
 ```
@@ -230,7 +374,7 @@ If ignition looks guilty, capture the baseline configuration at 1000, 1500 and
 ```bash
 for rpm in 1000 1500 2000; do
   uv run python3 scripts/rf_survey.py --config rpm$rpm --band nav \
-      --point coax --gain 40.2 --outdir ~/rf-survey/$(date +%F)-rpm
+      --point coax --gain 32.8 --outdir ~/rf-survey/$(date +%F)-rpm
 done
 ```
 
@@ -248,7 +392,7 @@ otherwise a localizer at a nearby field is a stronger, continuous alternative.
 
 ```bash
 uv run python3 scripts/rf_survey.py --protocol --carrier 113.8 \
-    --point coax --gain 40.2 --duration 30 \
+    --point coax --gain 32.8 --duration 30 \
     --outdir ~/rf-survey/$(date +%F)-rlg
 ```
 
@@ -287,7 +431,7 @@ owner with the same symptom reported, and it points at different fixes.
 Two failure modes the script flags on its own:
 
 - **FM overload** — strong Boulder FM stations compressing the tuner and lifting
-  the whole floor. Re-run at `--gain 25` or add the band-stop filter. This is an
+  the whole floor. Re-run at `--gain 25.4` or add the band-stop filter. This is an
   artifact of the SDR, not a fault in the airplane.
 - **Baseline drift** — `off1` and `off2` disagree by more than 1.5 dB, meaning
   conditions changed mid-survey and small deltas are untrustworthy.
@@ -369,11 +513,16 @@ crimp had a short inside it that passed VOR and localizer but killed glideslope.
 
 ## 2.5 Hand it to me
 
-The H4 can save S11 as Touchstone `.s1p` to the microSD card. Save one per
-measurement, named for what it is. Give me the files and I'll plot them,
-overlay the bands, and compare against the stock-Archer reference numbers.
-Photographs of the screen work but are much worse. If you get `.s1p` files I'll
-add a reader to the scripts.
+Capture each measurement with `scripts/vna_capture.py` rather than photographing
+the screen, then hand me the `.s1p` files:
+
+```bash
+uv run --with pyserial python3 scripts/vna_capture.py --band both \
+    --out ~/vna/$(date +%F)-<what-this-is>.s1p --note "..."
+```
+
+`scripts/vna_analyze.py` takes several files at once and overlays them, which is
+how you see a fix working rather than remembering that it felt better.
 
 ---
 
@@ -523,8 +672,10 @@ Two proven improvements on top of it:
 
 ## Files
 
-- Capture driver: `scripts/rf_survey.py`
-- Analysis: `scripts/rf_analyze.py`
+- SDR capture driver: `scripts/rf_survey.py`
+- SDR analysis: `scripts/rf_analyze.py`
+- NanoVNA capture: `scripts/vna_capture.py`
+- NanoVNA analysis: `scripts/vna_analyze.py`
 - This plan: `plans/vor-antenna-diagnostic.md`
 - Antenna reference and links: `sections/sys-23-communications.md`
 - Lighting wiring: `sections/sys-33-lighting.md`

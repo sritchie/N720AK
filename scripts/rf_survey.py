@@ -41,7 +41,7 @@ import shutil
 import subprocess
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
@@ -203,7 +203,7 @@ def run_capture(cfg, band, outdir, args):
         "attach_point": args.point,
         "station": args.carrier,
         "note": args.note,
-        "captured_utc": datetime.utcnow().isoformat(timespec="seconds") + "Z",
+        "captured_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "command": " ".join(cmd),
     }
     csv_path.with_suffix(".json").write_text(json.dumps(meta, indent=2))
@@ -234,9 +234,14 @@ def main():
     p.add_argument("--point", default="coax", choices=["coax", "near", "ref"],
                    help="where the SDR is attached: aircraft coax, near-field "
                         "probe at the wingtip, or a reference antenna")
-    p.add_argument("--gain", type=float, default=40.2,
-                   help="FIXED tuner gain in dB (default 40.2). Never use AGC "
+    p.add_argument("--gain", type=float, default=32.8,
+                   help="FIXED tuner gain in dB (default 32.8, chosen by "
+                        "--gain-sweep against Front Range FM). Never use AGC "
                         "— it destroys run-to-run comparability.")
+    p.add_argument("--gain-sweep", action="store_true",
+                   help="capture the same band at several gains so "
+                        "rf_analyze.py --gain-check can pick the best one for "
+                        "this location. Do this once per site.")
     p.add_argument("--ppm", type=int, default=0, help="frequency correction ppm")
     p.add_argument("--device", type=int, default=0, help="rtl device index")
     p.add_argument("--integration", type=int, default=3,
@@ -250,8 +255,8 @@ def main():
         check_device()
         return
 
-    if not args.protocol and not args.config:
-        die("pick one of --check, --protocol, or --config NAME")
+    if not args.protocol and not args.config and not args.gain_sweep:
+        die("pick one of --check, --gain-sweep, --protocol, or --config NAME")
 
     if not shutil.which("rtl_power"):
         die("rtl_power not found. Install with: brew install librtlsdr")
@@ -288,6 +293,20 @@ def main():
         print("    * Second person on the switches; you watch the engine.")
     print("=" * 72)
     print()
+
+    if args.gain_sweep:
+        gains = [40.2, 36.4, 32.8, 28.0, 25.4, 19.7]
+        print(f"Gain sweep: {len(gains)} captures, antenna must not move.\n")
+        for g in gains:
+            args.gain = g
+            for band in bands:
+                run_capture(f"g{g}", band, outdir, args)
+        print("=" * 72)
+        print("Pick the gain with:")
+        print(f"  uv run --with numpy --with matplotlib python3 "
+              f"scripts/rf_analyze.py --gain-check {outdir}")
+        print("=" * 72)
+        return
 
     if not args.protocol:
         run_all = [(args.config, f"one-off capture: {args.config}")]

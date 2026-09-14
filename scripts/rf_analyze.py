@@ -477,16 +477,82 @@ def analyze_dir(d, baseline_cfg, outdir):
     return lines
 
 
+def gain_check(d):
+    """Pick a tuner gain for this location.
+
+    Sweeps the same band at several gains without moving the antenna and asks
+    how the measured noise floor tracks the gain change:
+
+      * floor falls MORE than the gain reduction -> the higher gain was
+        compressing, usually from strong local FM broadcast
+      * floor falls LESS than the gain reduction -> the dongle's own noise is
+        taking over and it is going deaf to what we came to measure
+
+    The best gain is the highest one still tracking linearly.
+    """
+    runs = load_run_dir(d)
+    rows = []
+    for (cfg, band), r in runs.items():
+        g = float(r["meta"].get("gain_db", float("nan")))
+        f, med = r["freq"], r["median"]
+        fm = band_mask(f, 105e6, 107.9e6)
+        nav = band_mask(f, 112e6, 118e6)
+        if nav.sum() < 5:
+            continue
+        rows.append((g, float(np.nanmedian(med[nav])),
+                     float(np.nanmedian(med[fm])) if fm.sum() > 5 else np.nan))
+    if len(rows) < 2:
+        sys.exit("error: need captures at two or more gains in that directory")
+
+    rows.sort(key=lambda r: -r[0])
+    g0, f0, _ = rows[0]
+    print("\n  Gain check — is the tuner linear at this location?\n")
+    print(f"  {'gain':>6} {'floor':>8} {'FM press':>9} {'expect':>8} "
+          f"{'actual':>8} {'error':>8}  reading")
+    print("  " + "-" * 66)
+    best, best_err = None, None
+    for g, floor, fm in rows:
+        exp, act = g0 - g, f0 - floor
+        err = act - exp
+        if abs(err) < 1.0:
+            reading = "linear"
+        elif err > 0:
+            reading = "higher gain was compressing"
+        else:
+            reading = "internal noise dominating"
+        fmp = f"{fm - floor:9.1f}" if np.isfinite(fm) else "        -"
+        print(f"  {g:6.1f} {floor:8.1f} {fmp} {exp:8.1f} {act:8.1f} "
+              f"{err:+8.1f}  {reading}")
+        if abs(err) < 1.0 and (best is None or g > best):
+            best, best_err = g, err
+    print()
+    if best is not None:
+        print(f"  -> use --gain {best}  (tracks within {best_err:+.1f} dB of "
+              f"linear, and it is the highest gain that does)")
+    else:
+        print("  -> nothing tracked linearly. Try a wider spread of gains, or "
+              "an FM band-stop filter if the FM pressure column is large.")
+    print()
+
+
 def main():
     ap = argparse.ArgumentParser(
         description="Analyze RTL-SDR noise surveys from rf_survey.py")
     ap.add_argument("dirs", nargs="+", help="survey directories to analyze")
     ap.add_argument("--baseline", default="off1",
                     help="configuration used as the reference (default off1)")
+    ap.add_argument("--gain-check", action="store_true",
+                    help="treat the directory as a gain sweep and recommend a "
+                         "tuner gain for this location")
     ap.add_argument("--outdir", default=None,
                     help="where to write figures and the report "
                          "(default: alongside the first survey directory)")
     args = ap.parse_args()
+
+    if args.gain_check:
+        for d in args.dirs:
+            gain_check(d)
+        return
 
     outdir = Path(args.outdir).expanduser() if args.outdir \
         else Path(args.dirs[0]).expanduser() / "analysis"
