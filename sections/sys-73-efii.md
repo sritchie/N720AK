@@ -152,6 +152,42 @@ automotive injector service.
 <!-- TODO: ECU firmware update procedure -->
 <!-- TODO: Sensor calibration checks -->
 
+## Project — a custom LOP controller
+
+**Status: intended, not started.** The goal is a custom controller for the
+System32 that implements SDS-style lean-of-peak control.
+
+Why SDS is the reference: Racetech's SDS is a different vendor from flyEFII, but
+it is the same architecture — fuel and ignition maps indexed by RPM and MAP, with
+temperature and O2 corrections. Its Lycoming Tuning Guide documents an explicit
+LOP feature set that the System32 does not expose, and that is the behaviour
+worth reproducing:
+
+| SDS feature | What it does | Why it matters |
+|---|---|---|
+| **LOP Control** | Arms lean-of-peak operation from a switch or the programmer | One control, rather than hand-tuning a mixture trim |
+| **LOP Ignition Advance** | Adds timing advance while LOP is active | The important one. A leaner charge burns slower, so it needs earlier ignition — extra advance is what makes an engine run *smoothly* LOP |
+| **LOP Lean Fuel Percent** | Subtracts a programmed percentage from injector pulse width when LOP is armed | Makes the lean step repeatable instead of a feel |
+
+**The physics worth carrying over:** a fixed-timing magneto cannot advance for a
+lean mixture, which is a large part of why magneto engines run LOP badly and
+electronically-managed ones run it well. Any controller built here should treat
+timing and mixture as one coupled control, not two independent knobs.
+
+**Open input for the design:** N720AK's measured spread across cylinders is
+roughly 1 gph, and an induction leak test is still outstanding. LOP operation is
+only as good as the worst-distributed cylinder, so resolve distribution before
+chasing controller features.
+
+**Constraint to design against:** the System32 runs dual redundant ECUs, either
+able to run the engine alone. Anything added must not become a single point of
+failure between the ECUs and the engine.
+
+Reference documents are filed in GDrive `Public/Manuals/73-EFII/SDS-reference/`
+and listed under References below. **N720AK does not run SDS** — principles
+transfer, programming does not, and no SDS behaviour should be assumed of the
+System32 without checking flyEFII's own documentation.
+
 ## References
 
 - [EFII System32 Installation Manual (Rev 9-13)](https://drive.google.com/file/d/1qWy2YjOcxXDmAfCELyb1E6BdgQzikOnG/view)
@@ -166,3 +202,9 @@ automotive injector service.
 - [EFII Port Mount Injector (PMI) Installation](https://drive.google.com/file/d/1WlyDR120IPO475xFrKHHQDquhz46yU7E/view)
 - [EFII Throttle Body Flange Adapter (TBFA-1)](https://drive.google.com/file/d/1B5nNYFYOsiy5J6uvdSr07eFms28A3tU-/view)
 - [EFII Dual Fuel Pump Module (FPM-1)](https://drive.google.com/file/d/1hgK2kdsIXg9Q8jmsiwSf64GxXn0jg-a9/view) — Dual Walbro GSL393, 400HP each, 5A/pump, AN-6 fittings. 10A breaker per pump or 20A shared.
+- [SDS Lycoming Tuning Guide v30 rev4](https://drive.google.com/file/d/1jQTe3-HcwsO6pTFsDzPGiQyIpex_8uHX/view) — **the LOP-controller reference.** Air/fuel ratio, detonation, ignition mapping, MAP/RPM fuel values, LOP Control / LOP Ignition Advance / LOP Lean Fuel Percent.
+- [SDS EM-6 Aviation Manual v14.9](https://drive.google.com/file/d/1EN76si-uOWj71AR8tb1YK-dv792IUbS2/view)
+- [SDS CPI Aircraft Supplement — Lycoming v15](https://drive.google.com/file/d/1_hkhtDscpFcBOAPtYAoI-6dQcZnEmeFr/view)
+- [SDS Maintenance & Inspection Schedule](https://drive.google.com/file/d/1TpmVtJ-110J9giJoX0lytWIJ3W3fJLlP/view)
+- [SDS Component Current Draws](https://drive.google.com/file/d/1W3N282-B_2dn7olZqBC0TiUeV1DM6ri4/view)
+- SDS tech articles (web): [Ignition and Combustion](http://www.sdsefi.com/techcomb.htm), [Start and Warmup Programming](http://www.sdsefi.com/techtemp.htm), [Lycoming 6-cylinder](http://www.sdsefi.com/lycoming6.htm), [aviation index](http://www.sdsefi.com/aircraft.html)

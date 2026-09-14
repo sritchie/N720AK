@@ -177,6 +177,18 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | efii-tbfa-throttle-body-flange-adapter.pdf | [link](https://drive.google.com/file/d/1B5nNYFYOsiy5J6uvdSr07eFms28A3tU-/view) |
 | plx-sm-afr-gen4-additional-info.pdf | [link](https://drive.google.com/file/d/1Lx1w9HNoKxVuSiyQLt7mKklyZbjxm5Bn/view) |
 
+**SDS-reference/** — Racetech SDS EFI documentation. **N720AK does not run SDS**; these are
+filed as comparative reference for the LOP-controller project (see `sys-73-efii.md`).
+Principles transfer, programming does not.
+
+| File | GDrive URL |
+|------|-----------|
+| sds-lycoming-tuning-guide-v30-rev4.pdf | [link](https://drive.google.com/file/d/1jQTe3-HcwsO6pTFsDzPGiQyIpex_8uHX/view) |
+| sds-em6-aviation-manual-v14.9.pdf | [link](https://drive.google.com/file/d/1EN76si-uOWj71AR8tb1YK-dv792IUbS2/view) |
+| sds-cpi-aircraft-supplement-lycoming-v15.pdf | [link](https://drive.google.com/file/d/1_hkhtDscpFcBOAPtYAoI-6dQcZnEmeFr/view) |
+| sds-maintenance-inspection-schedule.pdf | [link](https://drive.google.com/file/d/1TpmVtJ-110J9giJoX0lytWIJ3W3fJLlP/view) |
+| sds-component-current-draws.pdf | [link](https://drive.google.com/file/d/1W3N282-B_2dn7olZqBC0TiUeV1DM6ri4/view) |
+
 ### 84-Propeller
 
 | File | GDrive URL |
