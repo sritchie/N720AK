@@ -64,6 +64,90 @@
 - Occupant ... **BRACE / HOLD**
 - Land ... **NEAREST SUITABLE**
 
+### Autopilot Malfunction
+
+
+*Autopilot drifting, banking, or not tracking what you asked for.*
+
+
+**Aircraft Control** ... **MAINTAIN**
+
+- Mode Annunciation ... **READ IT BEFORE TOUCHING ANYTHING**
+
+> ⚠️ **WARNING:** TRK on a coupled localizer means guidance is GONE. Dynon drops NAV to TRK silently on signal loss and does NOT recapture — NAV must be re-armed by hand.
+
+- Downgrade One Level ... **NAV → HDG, COUPLED → BASIC**
+  
+  *a simpler mode that works beats hand-flying in IMC*
+- Control Wheel Steering ... **HOLD DISCONNECT, FLY, RELEASE**
+  
+  *repositions the airplane without giving up the autopilot*
+- Autopilot ... **DISCONNECT**
+  
+  *if downgrading does not fix it*
+- Trim ... **CHECK AND RESET**
+  
+  *the servo may have left the airplane well out of trim*
+
+> *Note: Manual force on the stick slips the servo clutches, so the airplane can always be overpowered.*
+
+
+> *Note: If it will not disconnect → Runaway Trim (Avionics Master OFF).*
+
+
+### Brake Failure
+
+
+*Pedal goes soft or to the floor, or the airplane pulls on rollout.*
+
+
+**Both Sides** ... **TEST AT ALTITUDE OR ON DOWNWIND**
+
+
+*find out whether it is one brake or both BEFORE committing*
+
+- Pedals ... **PUMP**
+  
+  *may rebuild line pressure — usually will not*
+- Co-Pilot Pedals ... **TRY**
+  
+  *separate master cylinders on the right side*
+
+#### Runway Choice:
+
+- Runway ... **LONGEST AND WIDEST AVAILABLE**
+  
+  *width matters more than length with one brake*
+- Wind ... **HEADWIND OVER CROSSWIND**
+  
+  *a crosswind FROM the failed side helps steering, but never take a crosswind over a headwind to get it*
+
+#### Landing:
+
+- Touchdown ... **SLOWEST PRACTICAL — SHORT FIELD TECHNIQUE**
+- Touchdown Position ... **SIDE OF THE FAILED BRAKE**
+  
+  *the working brake will walk you across the runway — leave room*
+- Flaps ... **LEAVE AT 33º**
+  
+  *aerodynamic braking — this is the OPPOSITE of short-field rollout, where flaps come up to load the wheels*
+- Elevator ... **FULL AFT**
+- Directional Control ... **RUDDER, THEN GOOD BRAKE IN PULSES**
+  
+  *alternate the working brake against opposite rudder*
+- S-Turns ... **GENTLE, IF ROOM**
+  
+  *lengthens the effective rollout*
+- Key Switch ... **OFF ONLY IF GO-AROUND NO LONGER POSSIBLE**
+  
+  *removes residual thrust — but it is also the engine*
+
+> *Note: Grass beside the runway stops an airplane sooner than pavement.*
+
+
+> *Note: Taxi in slowly, or shut down and get towed.*
+
+
 ### Smoke / Smell Investigation
 
 

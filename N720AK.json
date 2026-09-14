@@ -3,7 +3,7 @@
     "name": "N720AK",
     "makeAndModel": "Vans RV-10 (RV10)",
     "aircraftInfo": "",
-    "modifiedTime": 1764134653
+    "modifiedTime": 1789420518
   },
   "groups": [
     {
@@ -883,6 +883,10 @@
         {
           "title": "Before Takeoff",
           "items": [
+            {
+              "prompt": "If this checklist is interrupted — a door, a radio call, a taxi hold — start it again from the top. The oversight a distraction causes shows up after the distraction is gone.",
+              "type": "ITEM_NOTE"
+            },
             {
               "prompt": "Fuel Gauge",
               "expectation": "CHECK QUANTITY",
@@ -2111,8 +2115,12 @@
             },
             {
               "prompt": "Wing Flaps",
-              "expectation": "AS REQUIRED — 40º RECOMMENDED",
+              "expectation": "AS REQUIRED — 33º RECOMMENDED",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "not available until below 90 KIAS — best glide is ABOVE the flap inhibit",
+              "type": "ITEM_PLAINTEXT"
             },
             {
               "prompt": "Radio Call",
@@ -2588,6 +2596,10 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "With both busses dead the flaps and electric trim are gone — plan a FLAPS-UP landing. Vs1 is 61 KIAS against 48 KIAS at 33º.",
+              "type": "ITEM_WARNING"
+            },
+            {
               "prompt": "E-pwr independently re-powers ECUs and pumps — both paths must be off",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
@@ -2657,6 +2669,10 @@
               "expectation": "OFF",
               "type": "ITEM_CHALLENGE_RESPONSE",
               "centered": true
+            },
+            {
+              "prompt": "With both busses dead the flaps and electric trim are gone — plan a FLAPS-UP landing. Vs1 is 61 KIAS against 48 KIAS at 33º.",
+              "type": "ITEM_WARNING"
             },
             {
               "prompt": "now the airplane is fully dark",
@@ -2939,6 +2955,10 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "the main bus is gone: flaps, electric trim, pitot heat, transponder and audio panel are dead. Plan a flaps-up landing.",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
               "prompt": "Squawk",
               "expectation": "7700",
               "type": "ITEM_CHALLENGE_RESPONSE"
@@ -3195,6 +3215,103 @@
               "indent": 1
             }
           ]
+        },
+        {
+          "title": "Unreliable Airspeed / Pitot Blockage",
+          "items": [
+            {
+              "prompt": "Airspeed unwinding, frozen, or disagreeing with pitch and power.",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "OnSpeed tone wrong or silent. AoA blank.",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "There will be NO ADAHRS cross-check error. Both units breathe the same probe, so they agree on the bad data.",
+              "type": "ITEM_WARNING"
+            },
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Pitch and Power",
+              "expectation": "SET AND HOLD",
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
+            },
+            {
+              "prompt": "the airplane is still trimmed where it was — change nothing abruptly",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Pitot Heat",
+              "expectation": "ON",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "the only in-flight fix",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Altimeter / VSI",
+              "expectation": "TRUST",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "independent static system — unaffected by a pitot blockage",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "GPS Groundspeed",
+              "expectation": "CROSS-CHECK",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "wind-corrected sanity check, not a replacement for airspeed",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Alternate Static",
+              "expectation": "DO NOT USE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "wrong system — it corrupts altitude without helping airspeed",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Autopilot",
+              "expectation": "USE IT — BUT NOT SPEED MODES",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "any airspeed-driven mode chases the false reading",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "OnSpeed, Dynon AoA and the stall warning are all AoA-derived from the same probe. All three are GONE. No low-speed protection.",
+              "type": "ITEM_WARNING"
+            },
+            {
+              "prompt": "Declare",
+              "expectation": "IF IMC",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Land",
+              "expectation": "LONG RUNWAY, SHALLOW STABLE APPROACH",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "fly the profile numbers — most pilots fly too fast without airspeed",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Attitude itself uses airspeed and falls back to GPS, so the backup for attitude is GPS, not the second ADAHRS.",
+              "type": "ITEM_NOTE"
+            }
+          ]
         }
       ],
       "category": "emergency"
@@ -3331,6 +3448,10 @@
               "prompt": "after wings level, smoothly pitch to level flight",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
+            },
+            {
+              "prompt": "In a SPIRAL — airspeed and descent rate both increasing — letting go does NOT recover. Level the wings first, then raise the nose.",
+              "type": "ITEM_WARNING"
             }
           ]
         },
@@ -3544,6 +3665,212 @@
               "prompt": "Land",
               "expectation": "NEAREST SUITABLE",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            }
+          ]
+        },
+        {
+          "title": "Autopilot Malfunction",
+          "items": [
+            {
+              "prompt": "Autopilot drifting, banking, or not tracking what you asked for.",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Aircraft Control",
+              "expectation": "MAINTAIN",
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
+            },
+            {
+              "prompt": "Mode Annunciation",
+              "expectation": "READ IT BEFORE TOUCHING ANYTHING",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "TRK on a coupled localizer means guidance is GONE. Dynon drops NAV to TRK silently on signal loss and does NOT recapture — NAV must be re-armed by hand.",
+              "type": "ITEM_WARNING"
+            },
+            {
+              "prompt": "Downgrade One Level",
+              "expectation": "NAV → HDG, COUPLED → BASIC",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "a simpler mode that works beats hand-flying in IMC",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Control Wheel Steering",
+              "expectation": "HOLD DISCONNECT, FLY, RELEASE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "repositions the airplane without giving up the autopilot",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Autopilot",
+              "expectation": "DISCONNECT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "if downgrading does not fix it",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Trim",
+              "expectation": "CHECK AND RESET",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "the servo may have left the airplane well out of trim",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Manual force on the stick slips the servo clutches, so the airplane can always be overpowered.",
+              "type": "ITEM_NOTE"
+            },
+            {
+              "prompt": "If it will not disconnect → Runaway Trim (Avionics Master OFF).",
+              "type": "ITEM_NOTE"
+            }
+          ]
+        },
+        {
+          "title": "Brake Failure",
+          "items": [
+            {
+              "prompt": "Pedal goes soft or to the floor, or the airplane pulls on rollout.",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Both Sides",
+              "expectation": "TEST AT ALTITUDE OR ON DOWNWIND",
+              "type": "ITEM_CHALLENGE_RESPONSE",
+              "centered": true
+            },
+            {
+              "prompt": "find out whether it is one brake or both BEFORE committing",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Pedals",
+              "expectation": "PUMP",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "may rebuild line pressure — usually will not",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Co-Pilot Pedals",
+              "expectation": "TRY",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "separate master cylinders on the right side",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Runway Choice:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Runway",
+              "expectation": "LONGEST AND WIDEST AVAILABLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "width matters more than length with one brake",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Wind",
+              "expectation": "HEADWIND OVER CROSSWIND",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "a crosswind FROM the failed side helps steering, but never take a crosswind over a headwind to get it",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "type": "ITEM_SPACE"
+            },
+            {
+              "prompt": "Landing:",
+              "type": "ITEM_TITLE"
+            },
+            {
+              "prompt": "Touchdown",
+              "expectation": "SLOWEST PRACTICAL — SHORT FIELD TECHNIQUE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Touchdown Position",
+              "expectation": "SIDE OF THE FAILED BRAKE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "the working brake will walk you across the runway — leave room",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Flaps",
+              "expectation": "LEAVE AT 33º",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "aerodynamic braking — this is the OPPOSITE of short-field rollout, where flaps come up to load the wheels",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Elevator",
+              "expectation": "FULL AFT",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "Directional Control",
+              "expectation": "RUDDER, THEN GOOD BRAKE IN PULSES",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "alternate the working brake against opposite rudder",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "S-Turns",
+              "expectation": "GENTLE, IF ROOM",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "lengthens the effective rollout",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Key Switch",
+              "expectation": "OFF ONLY IF GO-AROUND NO LONGER POSSIBLE",
+              "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "removes residual thrust — but it is also the engine",
+              "type": "ITEM_PLAINTEXT"
+            },
+            {
+              "prompt": "Grass beside the runway stops an airplane sooner than pavement.",
+              "type": "ITEM_NOTE"
+            },
+            {
+              "prompt": "Taxi in slowly, or shut down and get towed.",
+              "type": "ITEM_NOTE"
             }
           ]
         },
