@@ -154,6 +154,76 @@ Troubleshooting notes from Chapter 5 of the same manual that matter in the cockp
 - **Power-up self-test values** (Instrument Panel Self-Test page, not a required check): CDI half-scale left with TO flag, glideslope half-scale up, OBS/desired track 149.5°, all annunciators on, distance 10.0 NM, time 4 min, bearing 135°, groundspeed 150 kt, waypoint GARMN, GPS integrity invalid.
 
 
+### TAWS-B (GTN 650)
+
+The GTN 650 carries **TAWS-B**, not the base Terrain Proximity. The distinction
+matters: Terrain Proximity is a *display* — shaded terrain with no alerting logic
+and no aurals. TAWS-B adds FLTA, Premature Descent, Excessive Descent Rate,
+Negative Climb Rate and the 500 ft callout.
+
+**Not required equipment.** 14 CFR 91.223 applies to turbine-powered U.S.-registered
+airplanes with six or more passenger seats excluding pilot seats. A four-seat
+piston experimental is outside it, so TAWS here is elective — and nobody else has
+written its procedures.
+
+#### What it needs
+
+Only two things: a valid terrain/obstacle database, and a valid 3-D GPS position
+solution. **No radar altimeter** — that belongs to Class A TAWS. Height above
+terrain is GPS altitude against the database.
+
+TAWS runs on **GSL altitude** (GPS altitude converted to MSL), not baro. GSL needs
+no altimeter setting and is immune to pressure and temperature error, so on a cold
+day or with a stale setting the altimeter drifts and TAWS does not. When they
+disagree, that is not evidence TAWS is wrong.
+
+#### The audio path — and where it breaks
+
+The GTN's alert audio (P1001-4/23) reaches the **GMA 245 Alert 1 input**
+(J1-31/32), the same shielded pair that carries approach callouts. Every TAWS
+aural comes through the audio panel; there is no separate annunciator.
+
+Two consequences specific to this airplane:
+
+1. **Lose the GMA 245 and you lose the TAWS voice while keeping the radio.** The
+   audio panel's failsafe hard-connects COM1 from the GTN straight to the
+   headphones — COM1 only. Alert 1 is not in that path. You would be flying a
+   terrain system whose alerts you cannot hear. Same shape as the CO Guardian
+   alarm that sounds in the cabin but not in the headsets.
+2. **Lose the main bus and TAWS goes entirely.** The GTN's COM/NAV power relays
+   are held closed by AV MSTR from a main-bus feed, so a main-bus loss darkens the
+   GTN even with its essential-bus breakers hot — and takes the GMA 245 with it.
+   The electrical emergency where you might be descending toward terrain is
+   precisely the one with no terrain alerting. See
+   [Electrical Power](./sys-24-electrical.md) — the relay-coil re-source is on the
+   annual fix list.
+
+Useful corollary: the **power-up TAWS self-test exercises that whole audio chain**.
+Hearing the test aural on the ramp proves GTN alert output → shielded pair → Alert
+1 → headset. Self-test is disabled above 30 knots groundspeed, so it is a ramp
+item.
+
+#### Alerting, in brief
+
+Red **PULL UP** is the only warning-level annunciation and covers four alerts.
+Yellow is **TERRAIN**, **OBSTCL** or **WIRE** — and four different alerts all show
+yellow TERRAIN (FLTA terrain caution, PDA, EDR caution, NCR), so **the annunciation
+cannot tell you which one fired and the voice has to.**
+
+FLTA minimum clearance, level flight / descending: en route 700/500, terminal
+350/300, approach 150/100, departure 100/100. FLTA **auto-inhibits** below 200 ft
+AGL within 0.5 NM of the approach runway, or below 125 ft AGL within 1.0 NM of the
+threshold — it stops protecting you where landing accidents happen.
+
+Manual **TAWS Inhibit** (terrain page → Menu) disables **only PDA and FLTA**. EDR,
+NCR and the 500 ft callout stay live, and the inhibit does not survive a power
+cycle.
+
+<!-- TODO: Confirm which aural message set this installation was configured for. Several alerts have two, chosen at install: Garmin's default descriptive set ("Terrain Ahead", "Don't Sink") or the GPWS-style alternate ("Caution, Terrain", "Too Low, Terrain"). Not knowable from the manual — listen to the power-up self-test. -->
+<!-- TODO: Does the Dynon SkyView's own terrain/synthetic vision alert independently, and if so does it agree with the GTN? Two terrain systems with different altitude sources could annunciate differently. -->
+
+Full alert reference: [GTN 650 Pilot's Guide](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) §10.4.
+
 ### Pitot-Static System
 
 | Component | Location |
