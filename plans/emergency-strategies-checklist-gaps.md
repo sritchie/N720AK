@@ -192,42 +192,70 @@ independently, which helps, but it stops at impact and the ELT does not.
 Added with it: a note to turn the ELT **off** and notify ATC or the AFRCC after
 walking away from a landing. An un-cancelled 406 alert launches a search.
 
-Still open: **is the ELT 345 fed a GPS position?** The Embry-Riddle data in the
+**And it is GPS-aided.** Confirmed off the SteinAir interconnect drawing: GTN 650
+**P1003 pin 6 (GPS RS-232 Out 3)** → **ELT DB15 pin 9 (Serial GPS Data In)**,
+white. Wiring table in `sys-23-communications.md`. The Embry-Riddle data in the
 book (p. 117) puts the mean search at **11.8 hours** for a 406 ELT without GPS
-aiding and **two hours** with it. If it is not wired for position, that is worth
-fixing. Logged as a TODO in `sys-23-communications.md`.
+aiding against **two hours** with it, so this is the good case.
+
+One consequence worth knowing: the position comes from the **GTN**, not from a
+receiver inside the ELT. The beacon keeps transmitting on its internal battery
+after a total electrical failure, but with no live feed the position is whatever
+it last had — which is another argument for activating **early**, while the panel
+is still up. Remaining TODO: confirm the GTN's RS-232 Out 3 *format* setting is
+what the Artex expects, which the wiring cannot tell us.
 
 ---
 
-## UNRESOLVED — a life-safety conflict between two sources Sam already owns
+## The door question, researched — and still not changed
 
-**Five in-flight checklists say `Doors ... UNLATCH PRIOR TO TOUCHDOWN`:** Engine
+**Five in-flight checklists say `Doors … UNLATCH PRIOR TO TOUCHDOWN`:** Engine
 Failure Immediately After Takeoff, Engine Failure On Approach, Emergency Landing
-Without Engine Power, Precautionary Landing With Engine Power, and Ditching.
+Without Engine Power, Precautionary Landing With Engine Power, Ditching.
 
-The two authorities disagree, and they disagree *specifically about gull-wing
-doors*:
+Two sources disagreed, specifically about gull-wing doors — Stowell (*Emergency
+Maneuver Training* pp. 174–175, 186) says unlatch, and calls it the one set-up
+item worth doing if there is time for only one, because a deformed fuselage jams
+a latched door over your only exit. PilotWorkshops (p. 117) says "Gull-wing doors
+and some canopies are better left shut," with no mechanism and no citation.
 
-| Source | Says |
-|---|---|
-| **Stowell**, *Emergency Maneuver Training*, pp. 174–175, 186 | Unlatch before an off-airport touchdown — a deformed fuselage can jam a latched door over your only exit. If there is time for exactly **one** set-up item, make it this one. Wedge the gap so it cannot relatch. |
-| **PilotWorkshops**, *Emergency Strategies* v1.1, p. 117 | "Unlatching the cabin doors prior to touchdown makes them less likely to jam shut. However, some POHs have guidance otherwise. **Gull-wing doors and some canopies are better left shut.** … the forces are substantial." |
+VansAirForce research (2026-09-14) supplies the mechanism PilotWorkshops omitted,
+and it is worse than jamming. Detail and quotes in
+`sections/sys-52-doors-airframe.md`; the short version:
 
-**The checklists currently follow Stowell, and I did not change them.** Stowell
-gives a mechanism (jamming) and PilotWorkshops gives none — it asserts the
-gull-wing exception in one clause with no reasoning and no citation. Flipping
-five emergency checklists on an unreasoned sentence would be worse than leaving
-them. But it is not nothing either: an RV-10 door hinges forward at the top and
-opens *upward*, so the failure modes an unlatched one can produce (departing in
-the flare, or standing open across the egress path after a rollover) are not the
-failure modes Stowell is reasoning about with a conventional side door.
+1. **An RV-10 door opened in flight will probably separate**, not trail ajar.
+   Multiple owners, no known counter-example of one opening and staying attached.
+2. **A departed door can strike the horizontal stabilizer.** Two independent
+   reports of a bent/twisted tailcone, one from the shop that did the repair. A
+   third case did no empennage damage. The feared outcome is a **jammed
+   elevator**, which is worse than a jammed door.
+3. **Angle of attack matters more than speed.** Slow and level keeps the door on
+   but makes a departure more likely to hit the tail; nose-high makes departure
+   more likely and throws the door clear.
+4. **"Unlatched" is not a stable state on this airframe.** In the 2013 South
+   African case the door was never fully latched, rode the stock safety latch
+   through taxi, takeoff and a climb from 4,000 to 8,500 ft, then flew open and
+   departed. That is the load-bearing assumption under Stowell's advice, and on an
+   RV-10 it does not hold.
+5. **For ditching the type experts split.** Scott McDaniels — 21 years in Van's
+   engineering prototype shop — argues for shut, on a ground nobody else raises:
+   an open door means taking water in the face at 60+ mph, and you need to be
+   functional to escape. Others expect the doors to depart on impact anyway and
+   give a clear egress path.
 
-**This needs an answer from a source that knows the RV-10 specifically** — Van's,
-the type club, or an RV-10 accident review. Until then the checklists stay as
-they are, and this note exists so the next pass does not silently adopt either
-side.
+**Still not changed, and now for a better reason.** The evidence is first-hand
+accounts and shop opinion, not engineering data, and it does not resolve cleanly
+in either direction — it says both that unlatching may not do what Stowell
+intends *and* that the door leaving may be survivable or even helpful. Changing
+five emergency checklists needs better than that.
 
----
+**What would actually settle it is hardware, not doctrine.** The mitigation the
+community endorses is a **secondary retention strap** that lets the door open 2–4
+inches but keeps it attached. N720AK has Planearound NEW-180 latches and door
+pins — a *primary* latch upgrade, no secondary retention. Fitting a strap is the
+one change that would make "unlatch before touchdown" a predictable instruction
+on this airframe instead of a gamble. That is Sam's call and it is now the open
+item, in place of the doctrine question.
 
 ## The turnback: TLAR and ONSPEED, not an altitude number
 
