@@ -154,7 +154,41 @@ time — some fail to activate, but more are separated from their antennas or
 buried. Activating while still airborne also gets the signal out from altitude.
 
 <!-- TODO: Switch positions and cockpit annunciation (ON / RESET / armed indication); location on the panel -->
-<!-- TODO: Confirm whether the ELT 345 is fed a GPS position. A 406 ELT without GPS aiding averaged an 11.8-hour search in the Embry-Riddle data; with GPS aiding, two hours. -->
+
+### The ELT Is GPS-Aided — Wiring
+
+**Confirmed from the SteinAir SkyView interconnect** (`SV_Interconnect.pdf`, read
+off the drawing, 2026-09-14):
+
+| From | To | Wire |
+|---|---|---|
+| GTN 650 **P1003 pin 6 — GPS RS-232 Out 3** | **ELT DB15 pin 9 — Serial GPS Data In** | Wht |
+
+So the 406 MHz burst carries a GPS position rather than relying on Doppler
+resolution alone. That is worth more than it sounds: in the Embry-Riddle data
+cited by PilotWorkshops, mean search duration was **11.8 hours** for a 406 ELT
+without GPS aiding against **two hours** with it.
+
+Rest of the ELT DB15, same drawing:
+
+| Pin | Function | Wire |
+|---|---|---|
+| 3 | 2-Wire Remote Switch | Wht/Blu |
+| 9 | Serial GPS Data In | Wht |
+| 14 | External On | Wht/Ora |
+| 7 | Ground | — |
+| 5, 12 | G-Switch Loop | — |
+| 8 | Buzzer Power Out | → cabin buzzer |
+
+The remote switch head wires to pins 3 and 14 (Wht/Blu and Wht/Ora).
+
+**Consequence for the position feed:** the GPS data comes from the *GTN*, not from
+the ELT's own receiver, so it is only as good as the GTN's power and lock. In a
+total electrical failure the ELT still transmits on its internal battery, but
+without a live feed the position reverts to whatever it last had. One more reason
+the forced-landing checklists activate it **early**, while the panel is still up.
+
+<!-- TODO: Confirm the GTN's RS-232 Out 3 format setting matches what the ELT 345 expects (Artex wants NMEA 0183 / aviation format — verify in the GTN serial-port config page, not just the wiring). -->
 
 ### ELT Antenna
 

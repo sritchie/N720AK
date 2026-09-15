@@ -21,6 +21,99 @@ N720AK has two forward-opening gull-wing doors (pilot and co-pilot) and a rear b
 | Door locks | Cam mechanism | <!-- TODO --> | Shared with baggage door, integrated with Planearound latches |
 | Door gas struts | <!-- TODO --> | <!-- TODO --> | Hold doors open |
 
+### Doors In Flight, and the Forced-Landing Question
+
+**Source quality caveat:** what follows is first-hand accounts and shop opinion
+from VansAirForce, not engineering test data. It is the type-specific input that
+the generic emergency literature lacks, and it is better than a bare assertion,
+but it is not a Van's service letter.
+
+#### An RV-10 door opened in flight will probably leave
+
+The consistent report across the RV-10 community is that a door which comes open
+in flight separates rather than trailing a few inches ajar the way a Bonanza's
+side door does:
+
+> There have been numerous examples of RV-10 doors opening and separating in
+> flight (pre-safety latch). I don't know anyone who has opened a door in flight
+> and had it remain attached.
+> — David Halmos (RV-8, RV-10), *RV10 doors and ditching*
+
+**A departed door can strike the horizontal stabilizer.** Jesse Saint of Saint
+Aviation, who did the repair:
+
+> There was one case that I know of that opened in level/cruise flight that came
+> off and hit the HS, fortunately not jamming the elevator. I did the repair on
+> this plane, and the whole tailcone was bent due to the impact of the door on
+> the HS.
+
+A second builder reports the same outcome independently ("one -10 that had its
+door hit the HS and twist the entire tail cone"). A third case — a South African
+RV-10 that lost its door at 8,500 ft — did **no** empennage damage at all, so the
+strike is likely but not certain. The feared outcome is not the lost door; it is
+a **jammed elevator**.
+
+#### Angle of attack matters more than speed
+
+The most useful mechanism in the discussion, from Jesse Saint:
+
+> I think the angle of attack is more the issue than the speed. At lower speeds
+> the door would be less likely to rip off if level. At high angle of attack
+> (takeoff-ish), the relative wind is much more likely to rip the door off, in
+> which case it **would clear the tail** based on my knowledge of doors that have
+> come off.
+
+So the two risks trade against each other: slow and level keeps the door on but
+makes a departure more likely to hit the tail; nose-high makes departure more
+likely but throws the door clear.
+
+#### "Unlatched" is not a stable state on this airframe
+
+This is the finding that matters most for the forced-landing checklists. Stowell's
+advice — unlatch before touchdown so a deformed fuselage cannot jam the door over
+your only exit — assumes an unlatched door stays where you put it. On an RV-10 it
+may not. In the 2013 South African case the door was **never fully latched**, held
+only by the stock Van's safety latch through taxi, takeoff and a climb from 4,000
+to 8,500 ft — and then flew open and departed. The owner's conclusion:
+
+> the standard safety latch clearly will not hold the door
+
+Jesse Saint calls the same part "a piece of junk" and reports a case where it was
+correctly installed and still did not keep the door closed.
+
+#### For a ditching, the type experts disagree
+
+Scott McDaniels — 21 years in Van's Aircraft's engineering prototype shop, A&P,
+DAR — argues for leaving them shut, on a ground nobody else raises:
+
+> If I was forced to make a water landing … there is no way I would jettison the
+> doors in an RV-10 before touch down. Have you ever been slapped in the face by
+> water at 60+ MPH? … If you land in water, you are going to have a very short
+> amount of time to exit and you need to be at the top of your game and not
+> trying to get over the trauma of having just been smacked silly.
+
+Against that, several RV-10 owners expect the doors to depart on water impact
+anyway and leave a clear egress path, and note that a fixed-gear airplane will
+probably flip once the gear hits.
+
+#### What N720AK does not have
+
+The mitigation the community actually endorses is a **secondary retention strap**
+(Saint Aviation's version runs from the lower forward gear-leg weldment to the
+door handle; it lets the door open 2–4 inches but keeps it attached, and has been
+tested accidentally in flight several times without incident).
+
+N720AK has **Planearound NEW-180 latches and Planearound door pins** — a *primary*
+latch upgrade, which addresses the door coming open in the first place. It has no
+secondary retention.
+
+<!-- TODO: Decide whether to fit a door retention strap. It is the one change that would make "unlatch before touchdown" a safe instruction on this airframe rather than an unpredictable one. -->
+<!-- TODO: Ask Planearound whether the NEW-180 kit has a published position on in-flight retention or on unlatching before an off-airport landing. -->
+
+**The forced-landing checklists still say UNLATCH** — see
+`plans/emergency-strategies-checklist-gaps.md` for why that was not changed on
+the strength of forum evidence.
+
 ### Door Operation
 
 <!-- TODO: How do the Planearound 180° latches differ from stock? -->
