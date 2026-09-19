@@ -14,7 +14,7 @@ N720AK's electrical system uses a dual-bus architecture managed by the **flyEFII
 | Power distribution | VPX Sport | Vertical Power | Electronic breakers — [manual (Rev G4)](https://drive.google.com/file/d/1fx7BQxzuy7GF-xIyuE83zK8BoZ-B0Vz2/view) |
 | Battery 1 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by primary alternator |
 | Battery 2 | [ETX900](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view) | EarthX | Charged by Monkworkz generator |
-| Primary Alternator | [AL 12-E160/V](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view) (P/N 99-9900) | Hartzell | 60A. Belt: 13355 Dayco / 7355L Gates V-belt |
+| Primary Alternator | [AL 12-E160/V](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view) (drawing 99-9900V Rev A) | Hartzell | 60A, **experimental** unit. Belt: 13355 Dayco / 7355L Gates V-belt |
 | Generator | [MZ-30](https://monkworkz.com/product/mz-30/) | Monkworkz | Mounted on engine vacuum pad |
 | MZ Regulator | (included with MZ-30) | Monkworkz | Mounted on engine mount |
 | Generator relay | BOSCH 0332019155 | Bosch | NO relay, 30A, 12V, internal diode |
@@ -750,6 +750,10 @@ The OptiMate chargers enter sleep/maintenance mode once the battery is fully cha
 
 Per the [AL 12-E160/V installation manual](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view): battery terminal torque 50 in-lb, safety wire .032. Annual: check bearings. 5yr/1000hr: inspect brushes (replace if <0.250" from holder case edge). 5A enable CB, 60A main breaker.
 
+The drawing's own title block reads **"12 VOLT 60 AMP EXPERIMENTAL ALTERNATOR, W/INTERNAL VOLTAGE REGULATOR AND OVERVOLTAGE PROTECTION"**. That matters beyond trivia: the alternator is a non-certificated product, so no Part 39 Airworthiness Directive can attach to it — the same reasoning that exempts the YIO-540. Hartzell's SB #209 (alternator mounting brackets) reaches a different part-number family entirely. Both determinations are recorded in `ad-sb-compliance.tsv`.
+
+Note that **99-9900V is a drawing number, not a part number** — the manual is an installation drawing, sheet 1 of 2, Rev A.
+
 <!-- TODO: Battery maintenance — EarthX specific procedures, voltage checks, balancing -->
 <!-- TODO: Alternator belt inspection, tension -->
 <!-- TODO: VPX diagnostics — how to read the log, what to look for -->
@@ -761,6 +765,6 @@ Per the [AL 12-E160/V installation manual](https://drive.google.com/file/d/1ohXk
 - [VPX Getting Started Guide (Rev A)](https://drive.google.com/file/d/1qcHnGA1dfkLlPURjJJ1jw2lAcXntpvlV/view)
 - [EFII Bus Manager Installation Instructions](https://drive.google.com/file/d/15OSKV66Y01w9-h93sxs9tNDaLjTv4gw_/view)
 - [EarthX ETX900 Installation & Maintenance Manual](https://drive.google.com/file/d/1ZESKGgF3pW5eckKshcZ608nd0RrMmGhE/view)
-- [Hartzell AL 12-E160/V Alternator Installation Manual (P/N 99-9900)](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view)
+- [Hartzell AL 12-E160/V Alternator Installation Manual (drawing 99-9900V Rev A)](https://drive.google.com/file/d/1ohXkwRfkTZLX-q9fKeWIxboXz9dUrY12/view)
 - [Power & Lighting Schematic](https://drive.google.com/file/d/1hXrVusmeaCbz3MywPmLUjcQ1TfPFVOE9/view)
 - [VPX Pro/Sport Load Planning Worksheet](https://drive.google.com/file/d/1uy9UFDHQYeuw0kTXVAed_0YB3Jd1rMf1/view)

@@ -82,6 +82,40 @@ Steel tube engine mount.
 
 Lycoming Mandatory Service Bulletin 634 (October 2018) requires retirement of certain parallel valve cylinder and head assemblies shipped between Sep 2013 and Apr 2015, due to compression loss from head casting leakage. N720AK cylinder serial numbers were checked against Table 1 — **none are listed, aircraft is not affected**.
 
+### Airworthiness Directives and this engine
+
+**No FAA Airworthiness Directive reaches this engine, and the reason is not that
+the airframe is experimental.** Lycoming Form 2784 states that non-certified
+engines are *"not type certificated in accordance with Title 14, Part 33"* and
+*"not made under a Federal Aviation Administration production limitation record."*
+A Part 39 AD attaches to a type-certificated product, and a **Y**IO-540-D4A5 is
+not one — which is why it shipped on a Certificate of Conformance (Form 2700)
+rather than an 8130-3, and why every Lycoming AD model list reads `IO-540-D4A5`
+and never `YIO-540-D4A5`.
+
+Do not over-generalize this. Per **AC 39-7D**, an AD written against a
+type-certificated engine, propeller or appliance *does* reach that item when it
+is installed in an amateur-built aircraft. This aircraft's operating limitations
+(8130-7, 27 conditions) never mention ADs either way. So each installed item is
+judged on its own certification status, not the airframe's.
+
+**Mandatory Service Bulletins are a separate question, and they do bite.**
+Lycoming writes bulletins against ship dates and serial numbers regardless of
+certification status — MSB 632B's Table 1 contains 119 experimental `EL-`
+serials, proving the point. One currently applies:
+
+| Bulletin | Applies | Trigger |
+|---|---|---|
+| **MSB 630B** — connecting rod bushing inspection | **YES**, by ship date (window 2009-01-30 → 2021-09-09; this engine shipped 2015-07-06) | **At every cylinder removal**, before reinstalling. Not calendar or hour driven. |
+
+The parallel AD (2026-04-11) would additionally require a repetitive
+bronze-particulate check of the filter and screens at **every oil change**. That
+requirement exists only in the AD and does not bind this engine — but it is
+cheap and aimed squarely at the failure mode, so it is worth doing voluntarily.
+
+Full determinations, including the negative ones, live in
+`ad-sb-compliance.tsv` in GDrive `Private/Maintenance/`.
+
 ### Billet Valve Covers
 
 Replacement O-rings for billet covers: COTS Viton O-ring #160, 75 durometer. Torque: 75–85 in-lbs. Lubricate O-ring and groove before install. See [SDS billet valve cover specs](https://drive.google.com/file/d/1fxoCymURDKGM_IgYJJXaPjBpLPWcRwWW/view).
