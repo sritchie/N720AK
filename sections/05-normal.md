@@ -172,6 +172,8 @@
 - Pitot heat / alternate static ... **TESTED**
 - Oxygen ... **QUANTITY, CANNULAS, EDS SET**
   
+    *FILL THE BOTTLE ON THE GROUND — 6×18 cylinder, 2216 PSI. Top it before the trip, not after a reroute puts you high.*
+  
     *crew on O2 above 12,500 after 30 min, continuously above 14,000*
 
 #### Cockpit:
@@ -372,7 +374,15 @@
   
     *default: full throttle / 2400 RPM*
 - Flaps ... **REFLEX**
+  
+    *reflex is −3° — the cruise position, less drag than 0°*
 - Fuel Trim ... **0%**
+  
+    *0% is the programmed baseline. Lean of peak means trimming deliberately lean from here on EGT/CHT.*
+  
+    *NO MAP GUARD on the System32 — re-richen toward 0% BEFORE advancing the throttle, or a lean charge meets high MAP.*
+  
+    *clean LOP wants a GAMI spread under 0.5 gph; the 2026-08 sweeps ran 1.06–1.47*
 - Elevator + Aileron Trim ... **ADJUST**
 - Engine Gauges ... **CHECK**
 - Lights ... **AS REQUIRED**
