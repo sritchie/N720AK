@@ -255,8 +255,9 @@ this fault has already come and gone more than once.
 - **Secure every barrel** so it cannot swing. Adhesive-lined heat shrink over
   the body, plus a cushioned clamp anchoring it. Tape unwraps and goes gummy;
   an unsecured connector chafes through whatever you put on it.
-- **Keep COM and NAV barrels apart.** They were found bonded together at the
-  wing root on 2026-09-16.
+- **Keep COM and NAV barrels apart.** They were found in contact at the right
+  wing root on 2026-09-16 and were separated and secured the same day. Closed,
+  and unrelated to COM 1 — that run does not pass through the wing root.
 - Re-measure after the fix, against the Phase 3 numbers, and fly it before
   calling it closed.
 
