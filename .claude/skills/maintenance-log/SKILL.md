@@ -29,7 +29,7 @@ $ARGUMENTS
    - **Tach/Hobbs**: Current readings — ask if not provided
    - **Total Time**: Airframe total time if known
    - **Work Type**: One of: Maintenance, Inspection, Repair, Modification, Overhaul
-   - **Description**: Detailed narrative of what was done
+   - **Description**: What was done, in one or two sentences — not a narrative
    - **Parts Used**: Part numbers and quantities if applicable
    - **Reference**: AD, SB, or manual reference if applicable
    - **Performed By**: Who did the work (default: Sam Ritchie)
@@ -52,6 +52,14 @@ $ARGUMENTS
 
 ## Conventions
 
+- **KEEP ENTRIES SHORT.** Sam's instruction, 2026-09-22: *"we don't want overly
+  verbose maintenance logs, we just want to track what we're doing."* One or two
+  plain sentences naming the work. "Replaced left main tire and repacked left
+  main wheel bearings. Tire inflated to 40 PSI." is a complete entry — do not
+  pad it with rationale, background, or narration of the process. Part numbers
+  and serials go in **Parts Used**; traceability documents (an 8130-3 tracking
+  number, a repair-station number) go in **Notes**; the *why* belongs in a
+  `sys-*` page, not the log.
 - **Performed By**: Always `Sam Ritchie (Repairman 5256450)` unless otherwise specified
 - **No external references** in log entries — no URLs, no "see VAF post", no manual page citations. References belong in sys-* pages only.
 - **No pending/future work** in logs — only completed work. Upcoming work is tracked in Linear.

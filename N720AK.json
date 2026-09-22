@@ -440,6 +440,11 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "FILL THE BOTTLE ON THE GROUND — 6×18 cylinder, 2216 PSI. Top it before the trip, not after a reroute puts you high.",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
               "prompt": "crew on O2 above 12,500 after 30 min, continuously above 14,000",
               "type": "ITEM_PLAINTEXT",
               "indent": 1
@@ -1111,9 +1116,29 @@
               "type": "ITEM_CHALLENGE_RESPONSE"
             },
             {
+              "prompt": "reflex is −3° — the cruise position, less drag than 0°",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
               "prompt": "Fuel Trim",
               "expectation": "0%",
               "type": "ITEM_CHALLENGE_RESPONSE"
+            },
+            {
+              "prompt": "0% is the programmed baseline. Lean of peak means trimming deliberately lean from here on EGT/CHT.",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "NO MAP GUARD on the System32 — re-richen toward 0% BEFORE advancing the throttle, or a lean charge meets high MAP.",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
+            },
+            {
+              "prompt": "clean LOP wants a GAMI spread under 0.5 gph; the 2026-08 sweeps ran 1.06–1.47",
+              "type": "ITEM_PLAINTEXT",
+              "indent": 1
             },
             {
               "prompt": "Elevator + Aileron Trim",
