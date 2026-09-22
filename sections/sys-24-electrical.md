@@ -361,7 +361,7 @@ The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
 <!-- TODO: Wire CO Guardian audible alarm into the GMA 245 audio panel so it's heard through the headsets -->
 <!-- TODO: Consider an alternative path for CO PPM display on the EFIS (standalone CO monitor or additional EMS module) -->
-<!-- TODO: Wire Output Active (pin 2, orange/brown wire coiled near the enable switch) to a Dynon contact input for GEN ACTIVE/STANDBY annunciation. EMS pins are full — use a SkyView DISPLAY D37 contact input instead (pins 28/27/14/15 = Contacts 1-4 on each display harness, unused per the interconnect schematic). Pin 2 pulls to ground when the regulator is producing (post-June-2022 units), which matches Dynon contact-input expectations. -->
+<!-- TODO: Wire Output Active (pin 2, orange/brown wire coiled near the enable switch) to a Dynon contact input for GEN ACTIVE/STANDBY annunciation. EMS pins are full. NOTE: the display D37 contact inputs (pins 28/27/14/15) are NOT a way around that — per the SkyView System Installation Guide Rev AX, Contact Input 1 is the External LEVEL button, Contact Input 2 is the External GO AROUND button, and Contacts 3 and 4 are "currently not supported... Do not connect anything to these pins currently." They cannot raise a configurable alert. An alerting discrete needs an EMS general-purpose input; see plans/electrical-mods-2026-annual.md Phase 5 for the four ways to find one. Pin 2 pulls to ground when the regulator is producing (post-June-2022 units), which matches Dynon contact-input expectations. -->
 
 #### References
 

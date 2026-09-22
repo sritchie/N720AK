@@ -27,11 +27,12 @@ but flip them *before* Phase 4.
 | AP panel on the SERVOS breaker? | **No — its own breaker** | The shed ladder pulls SERVOS to hand-fly and save ~1.5 A; sharing would kill electric trim exactly when hand-flying a long descent. The stick-grip red button already kills the servos instantly. Trim runaway is the failure with no instant kill, so it gets the dedicated breaker. Separate breakers give both kills. |
 | Front USB onto the VPX? | **No** | The VPX is entirely main-bus, so a VPX-fed USB dies in the shed state and takes iPad charging with it. Leave it, or move it to an **essential** fuse. |
 
-**A conflict to settle:** there is exactly **one** unused stick-grip button (the
-small flush button on the front, below the trigger) and two things want it —
-IDENT and yaw damper. Recommend **IDENT on the grip**, because ATC says "ident"
-and you want it under your thumb, and the yaw damper on a panel button, because
-nothing about it is time-critical.
+**No conflict on the buttons.** An earlier draft of this plan claimed IDENT and
+the yaw damper had to compete for the single unused stick-grip button, because
+it assumed both would land on SkyView *display* contact inputs. **That was
+wrong** — see Phase 5. Both functions have their own dedicated, documented
+inputs elsewhere, so the grip button goes to IDENT and the yaw damper gets its
+own button wherever it fits.
 
 ---
 
@@ -66,9 +67,11 @@ only has to be good enough for the annual:
 Five of twenty positions used. The spare capacity is the point: the next
 modification should not need a new fuse holder.
 
-**Neither bucket:** the IDENT button, the yaw-damper button and the MZ-30
-contact input are dry contacts into SkyView display inputs. No protection, no
-slot — just wire and a button.
+**Neither bucket:** the IDENT button and the yaw-damper button are dry contacts
+into dedicated device inputs — the transponder and the yaw servo respectively,
+not the fuse block and not a breaker. Just wire and a button. The MZ-30 and CO
+discretes need an **EMS general-purpose input**, which is its own problem —
+Phase 5.
 
 ## Phase 0 — Verify before cutting anything
 
@@ -95,6 +98,11 @@ the plan.
       resistor.
 - [ ] Confirm the panel cutout size of the existing essential-bus breakers so
       the three new ones match.
+- [ ] **Audit the 13 EMS general-purpose inputs and write down what is on each.**
+      They are reportedly full, and that single fact decides Phase 5: whether the
+      MZ-30 and CO discretes get a freed pin, a resistor ladder, a second EMS
+      module, or nothing. Nobody should be guessing at this by the time the
+      panel is open.
 - [ ] **Measure MZ-30 output pin 2 with the engine running, before wiring an
       LED to it.** The manual is explicit that behaviour was *reversed* partway
       through production: regulators shipped **before 12 June 2022 show 5 V when
@@ -193,48 +201,82 @@ Then:
 
 ---
 
-## Phase 5 — Contact inputs
+## Phase 5 — Discrete inputs and buttons
 
-EMS pins are full. Use the **SkyView display D37 contact inputs: pins 28, 27,
-14, 15 = Contacts 1–4**, unused on every display harness.
+> **Correction, 2026-09-22.** An earlier version of this plan routed IDENT, the
+> yaw damper and the MZ-30 annunciation to SkyView **display** contact inputs
+> (D37 pins 28/27/14/15). **That was wrong.** Those four are not
+> general-purpose. Per the SkyView System Installation Guide Rev AX: Contact
+> Input **#1 is the External LEVEL button**, **#2 is the External GO AROUND
+> button**, and **#3 and #4 "are currently not supported… Do not connect
+> anything to these pins currently."** The guide also says not to connect
+> anything to unspecified D37 pins at all. Display contacts cannot raise a
+> configurable alert, and there are no nine spare inputs.
+>
+> The good news is that every want below has a *better* home than the one that
+> was wrong, and two of them are dedicated inputs built for exactly this.
 
-**Put anything that must work in the shed state on PFD 1's harness** — a display
-contact input only functions when that display is powered, and PFD 1 is the
-essential-fed one.
+### IDENT — the transponder's own input (easy, do it)
 
-- [ ] **IDENT** — wire the unused small flush stick-grip button (front, below
-      the trigger) to a PFD 1 contact input, configured for transponder ident.
-      **22 AWG.**
-- [ ] **MZ-30 GEN ACTIVE — contact input AND a panel LED.** The orange/brown
-      **Output Active** wire (regulator pin 2) is coiled unused near the
-      Monkworkz enable switch. It pulls to ground when the regulator is
-      producing. Wire it to a PFD 1 contact input as planned.
-- [ ] **The LED needs a buffer — do not hang it directly on pin 2.** The
-      manual's ratings table gives voltages only (0–5 VDC, 30 VDC max) and
-      **no sink-current rating**, because pin 2 is designed for a
-      high-impedance EFIS contact input. An indicator LED at 20 mA asks that
-      output for one to two orders of magnitude more current than a contact
-      input draws, with nothing in writing saying it can supply it.
-      Three ways out, best first:
-      1. **Ask Monkworkz** what pin 2 can sink. One email. If the answer is
-         comfortably above 20 mA, drive the LED directly: anode to +12 V through
-         a series resistor, cathode to pin 2, which grounds it when active.
-      2. **Buffer it** with a small N-channel MOSFET (2N7000) or NPN (2N3904)
-         plus a pull-up — pin 2 then sees only gate or base current, microseconds
-         of it, and the transistor sinks the LED. Pennies, and it removes the
-         question entirely.
-      3. **Run the LED at ~2 mA** with a high-efficiency indicator and a large
-         series resistor. Modern LEDs are clearly visible there. Still a guess
-         without a published rating, but a far smaller one.
-      A panel lamp is worth the trouble here: a standby generator's state is
-      exactly the sort of thing that should be a dumb light rather than one more
-      annunciation competing for attention on a screen.
-- [ ] **Yaw damper** — panel-mount momentary button to a contact input. Not
-      time-critical, so a display other than PFD 1 is acceptable if you would
-      rather keep PFD 1's inputs for the two above.
-- [ ] Configure all three in SkyView setup and **verify each annunciates**.
+The SV-XPNDR-261 has a documented **Ident Switch Input on pin 20**: *"the ident
+switch input allows the IDENT function to be selected using a remote switch.
+The input is active low and will be asserted when the voltage to ground is
+pulled below approximately 4 Volts."*
 
----
+- [ ] Wire the unused small flush stick-grip button (front, below the trigger)
+      to **SV-XPNDR-261 pin 20**, other side to ground. **22 AWG.**
+- [ ] Momentary, normally open.
+- [ ] Verify: press → SkyView's transponder page shows IDENT active.
+
+### Yaw damper — the servo's yellow wire (easy, do it)
+
+Also documented and optional. The yaw servo is engaged automatically with
+roll/pitch, but a button gives discrete control.
+
+- [ ] **Single-pole, normally-open momentary** button. One terminal to the **yaw
+      damper servo's YELLOW wire**, the other to **ground**.
+- [ ] ⚠ **The yaw damper's yellow wire must NOT be connected to the other
+      servos' disconnect wires** — unlike roll and pitch. And if the button is
+      ever removed, the yellow wire must be left unconnected rather than tied
+      to the roll/pitch disconnects.
+- [ ] This is a *separate* button from the AP Engage/Disengage button on the
+      grip. It can live on the panel; nothing about it is time-critical.
+
+### MZ-30 GEN ACTIVE and the CO detector — the actual problem
+
+Both are discretes that need to **raise an alert**, and on SkyView that means an
+**EMS general-purpose input**. The SV-EMS-220/221 has **13 GP inputs**, and a
+contact is configured by defining two voltage ranges in sensor setup — 0–2 V
+(closed, grounded) and 2–5 V (open). GP inputs are 0–5 V, tolerate 30 V spikes,
+and anything sensing above 5 V needs a 10 kΩ series resistor.
+
+**N720AK's 13 GP inputs are full.** That is the whole constraint, and it is why
+the CO detector contact had to be disconnected in the first place. Four ways
+out, cheapest first:
+
+1. **Audit the 13 and free one.** Do this before spending anything — it is
+      entirely possible something on there has been superseded or matters less
+      than a CO alarm.
+2. **Resistor-ladder multiplex.** A GP input reads a *voltage*, and sensor setup
+      lets you define as many ranges as you like — the manual's two-range recipe
+      is just the one-contact case. Several contacts, each closing a different
+      resistance to ground, give distinct voltages on one pin. The catch is that
+      it priority-encodes rather than monitoring independently: simultaneous
+      closures read as the lowest resistance. For "any one of these alarms is
+      active" that is usually fine, and it costs three resistors.
+3. **A second EMS module (SV-EMS-221).** The firmware supports two natively —
+      `engine_1_ems_sn_v16` / `engine_2_ems_sn_v16` and two RTIO slots — giving
+      13 more GP inputs. It presents as "Engine 2", which is cosmetically odd on
+      a single, but it is supported hardware at zero risk.
+4. **An emulated EMS node on DSAB.** Genuinely feasible given the wire format is
+      already modelled, and genuinely the riskiest: DSAB is multi-master with
+      token passing and it carries the ADAHRS, the AP servos and the COM panel.
+      Develop against the rig, never the airplane, and give any flying node a
+      switch you can physically open.
+
+- [ ] Pick a route, then wire the **MZ-30 Output Active** (orange/brown, pin 2)
+      and the **CO detector contact** to GP inputs and configure both as
+      contacts with alerts.
 
 ## Phase 6 — OnSpeed indexer
 
