@@ -39,32 +39,76 @@ The autopilot disconnects when:
 - Manual force is applied to the controls (servo clutch slip)
 - <!-- TODO: Other disconnect triggers? EFIS failure? Bus failure? -->
 
-### Dynon TSB 080219 — SV42T servo pulley (OPEN)
+### Dynon TSB 080219 — SV42T servo pulley (AFFECTED, OPEN)
 
-**N720AK's pitch servo is in scope.** The bulletin (2019-08-02) covers the
-pulley on the Dynon linear actuator found on *"Some Dynon Avionics SV42T
-Autopilot Servos (P/N 101008-003 / 101058-003)"* and on some SV32/SV42 servos
-retrofitted with the linear actuator, received after 2011-12-13. This airplane's
-pitch servo is an **SV42T, P/N 101008-003, S/N 50220** — the part number is
-listed, and the airframe postdates the cutoff by over a decade.
+**N720AK's pitch servo is affected.** The pulley reads as the unidirectional
+"wood-grain" texture (Sam), which the bulletin defines as an affected pulley
+regardless of whether a crack is present. Dynon Technical Support was contacted
+2026-09-22 for repair/replacement.
+<!-- TODO: inspection date, tach/hobbs, whether a crack was found, and whether
+the crack check was performed under load -->
 
-Dynon's compliance wording: *"We recommend complying with this service bulletin
-before further flight. However, it is up to the owner/operator to determine the
-airworthiness."*
+**Why it matters:** *"This can cause poor autopilot performance and presents a
+risk of interfering with the flight controls."* This is a flight-controls
+hazard, not an autopilot-availability one — disconnecting the autopilot does not
+address it, because the linkage stays coupled to the elevator either way. That
+is why Dynon's wording is *before further flight*.
 
-**The inspection is a crack check plus a texture read:**
+**Applicability.** The bulletin (2019-08-02) covers the pulley on the Dynon
+linear actuator found on *"Some Dynon Avionics SV42T Autopilot Servos (P/N
+101008-003 / 101058-003)"* and on some SV32/SV42 servos retrofitted with the
+linear actuator, received after 2011-12-13. This airplane's pitch servo is an
+**SV42T, P/N 101008-003, S/N 50220** — the part number is listed, and the
+airframe postdates the cutoff by over a decade. The bulletin is *"in effect
+indefinitely or until superseded by a future bulletin."*
 
-| Pulley surface | Meaning | Action |
-|---|---|---|
-| **Unidirectional, "wood-grain"** | Affected | Remove from service, return to Dynon |
-| **Crosshatch weave** | Not affected | May remain in service |
+Dynon's compliance wording: *"Due to the nature of the issue, we recommend
+complying with this service bulletin before further flight. However, it is up to
+the owner/operator to determine the airworthiness of the aircraft for flight."*
 
-Also inspect for cracks radiating from the pulley centre out through the
-shear-screw bore.
+#### Inspection procedure
 
-Do it with the panel open for the annual electrical work —
-`plans/electrical-mods-2026-annual.md` Phase 0. Compliance is tracked in
-`ad-sb-compliance.tsv`.
+1. **Crack check** — look for a crack running from the centre of the pulley out
+   through the shear-screw bore. *"It may be necessary to engage the autopilot
+   on the ground and apply force to the control surface in order to load the
+   pulley to make the crack visible."* An unloaded look can miss it. A crack
+   alone condemns the pulley.
+2. **Texture read, with a magnifier.** Both bulletin figures are loupe shots;
+   the distinction is not reliable with the naked eye.
+
+| Pulley surface | Finish | Meaning | Action |
+|---|---|---|---|
+| **Crosshatch weave** — visible two-axis basket weave | Plastic-like, smooth | Not affected | May remain in service |
+| **Unidirectional, wood-like "grain"** | Dull, resembles wood | **Affected** | Remove from service, contact Dynon |
+
+#### If affected — removal
+
+Dynon allows either removal path:
+
+- the **entire servo assembly**, or
+- the **linear actuator sub-assembly** alone, per Dynon's *"Servo Arm / Capstan
+  Removal and Replacement Instructions."*
+
+Two safety steps apply either way:
+
+- *"ensure that any remaining linkages are secured and do not interfere with
+  flight controls."*
+- If removing **only** the linear actuator, *"disable the servo circuit
+  electrically to prevent misleading autopilot behavior"* — disconnect the servo
+  wiring and/or pull its fuse or open its breaker. This touches the SERVOS
+  circuit in `plans/electrical-mods-2026-annual.md`.
+
+Contact Dynon Technical Support on **425-402-0433** or
+**support@dynonavionics.com**. The bulletin says to contact Dynon, not to ship
+the unit blind.
+
+**Roll and yaw servos.** SV32/SV42 are on the bulletin's *unaffected* list
+unless retrofitted with the Dynon linear actuator. N720AK's roll servo installs
+per doc 101046-003, the capstan/pushrod kit — almost certainly out of scope.
+Read the label to close it out.
+
+Compliance is tracked in `ad-sb-compliance.tsv`. Full bulletin:
+[Dynon TSB 080219 — SV42T Servo Pulley](https://drive.google.com/file/d/1DdcqVG1yfhzCUwwgrU_Hi_uofDWzlLMx/view).
 
 ### Servo Installation
 
@@ -76,6 +120,7 @@ Do it with the panel open for the annual electrical work —
 
 ## References
 
+- [Dynon TSB 080219 — SV42T Servo Pulley (2019-08-02)](https://drive.google.com/file/d/1DdcqVG1yfhzCUwwgrU_Hi_uofDWzlLMx/view) — the pulley cracking bulletin; N720AK's pitch servo is affected.
 - [Dynon SkyView Autopilot In-Flight Tuning Guide (Rev F)](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view)
 - [Dynon SkyView System Installation Guide (Rev AX)](https://drive.google.com/file/d/1n78cJB2_7Fj_dKWa3pZ48iWXHp_xgzVq/view)
 - [Dynon AP Roll Servo for RV-10 Right Wing (Doc 101046-003, Rev H)](https://drive.google.com/file/d/1cMuioRntHVxvx_9T4MZJNQehKsGSFT4j/view) — Kit P/Ns: 100870-001 Right Roll Bracket, 100872-001 Right Support Bracket, 100966-008 Aluminum Pushrod 3.0", 100836-000 Large Male Rod End. Hardware: AN3H-3A, AN3H-10A, AN3H-17A, AN970-3, AN365-1032A.

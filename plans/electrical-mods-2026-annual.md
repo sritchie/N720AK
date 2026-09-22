@@ -82,19 +82,27 @@ the plan.
       off. Expect: **Wht/Blk at the GTN relay coils dead**, while the COM 1 and
       NAV 1 breaker *outputs* are hot. That is the whole diagnosis — if the
       Wht/Blk is live, stop and re-trace before rewiring anything.
-- [ ] **Inspect the pitch servo pulley — Dynon TSB 080219. THE SERVO IS
-      CONFIRMED IN SCOPE.** It is an **SV42T, P/N 101008-003, S/N 50220**
-      (Sam, 2026-09-22), and 101008-003 is named in the bulletin's applicability
-      list. Dynon: *"We recommend complying with this service bulletin before
-      further flight."* Check for cracks radiating from the pulley centre
-      through the shear-screw bore, **and read the surface texture**:
-      unidirectional "wood-grain" = affected, remove and return to Dynon;
-      crosshatch weave = unaffected, may stay in service. This is the highest
-      priority item in the whole plan — do it first, not "while the panel is
-      open."
-- [ ] Read the **roll** servo part number off its label too; it is still
-      unrecorded, and the bulletin also reaches SV32/SV42 servos that were
-      retrofitted with the Dynon linear actuator.
+- [x] **Pitch servo pulley — Dynon TSB 080219. THE SERVO IS AFFECTED.** It is an
+      **SV42T, P/N 101008-003, S/N 50220** (Sam, 2026-09-22), and 101008-003 is
+      named in the bulletin's applicability list. The pulley reads as the
+      unidirectional "wood-grain" texture, which condemns it whether or not a
+      crack is present. Dynon Technical Support contacted 2026-09-22.
+- [ ] **Remove the affected servo from service before further flight.** The
+      hazard is *"a risk of interfering with the flight controls"* — not merely
+      degraded autopilot — so pulling the AP breaker is **not** a mitigation.
+      Dynon allows removing the entire servo assembly **or** the linear actuator
+      sub-assembly alone. Either way, *"ensure that any remaining linkages are
+      secured and do not interfere with flight controls."* If only the actuator
+      comes out, **disable the servo circuit electrically** (disconnect the servo
+      wiring and/or pull its fuse / open its breaker) so the autopilot cannot
+      behave misleadingly. That intersects the SERVOS circuit below — do this
+      first, not "while the panel is open."
+      Full procedure: `sections/sys-22-autopilot.md`.
+- [ ] Read the **roll** servo part number off its label to close it out. SV32 and
+      SV42 are on the bulletin's *unaffected* list unless retrofitted with the
+      Dynon linear actuator, and the roll servo installs per doc 101046-003, the
+      capstan/pushrod kit — so it is almost certainly out of scope. Confirm,
+      don't assume.
 - [ ] **Photograph the SkyView VPX setup page** and record which channels are
       gated by **Switch Input #1**. This is the standing sys-24 TODO, and you
       need it to know what the AV MSTR actually still controls after Phase 1.

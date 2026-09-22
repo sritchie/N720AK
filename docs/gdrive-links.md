@@ -23,6 +23,7 @@ URL registry for public files on Google Drive. The `Public/` folder is shared as
 | dynon-autopilot-servo-rv10-roll-installation-rev-h.pdf | [link](https://drive.google.com/file/d/1cMuioRntHVxvx_9T4MZJNQehKsGSFT4j/view) |
 | dynon-autopilot-yaw-tiller-arm-rv10-installation-rev-a.pdf | [link](https://drive.google.com/file/d/15AFIPQ6ojmhK8ppL7KS-saivPqSvHEjH/view) |
 | dynon-autopilot-servo-rv10-pitch-linear-actuator-rev-e.pdf | [link](https://drive.google.com/file/d/1X12fxjfgxR3uQbcHKydyKK7tb5qta-Yg/view) |
+| dynon-tsb-080219-sv42t-servo-pulley.pdf | [link](https://drive.google.com/file/d/1DdcqVG1yfhzCUwwgrU_Hi_uofDWzlLMx/view) |
 
 ### 23-Communications
 
