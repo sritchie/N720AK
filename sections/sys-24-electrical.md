@@ -49,7 +49,7 @@ Per the SteinAir power & lighting schematic (verified 2026-08):
 
 **COM 1 / NAV 1 split**: pulling COM 1 kills only the GTN's com transceiver (stuck-mic response — screen, GPS, and VLOC keep running). Pulling NAV 1 kills the GTN main and VLOC boards; the com board keeps operating on its last frequency with no display or tuning.
 
-**Known issue (fix planned at annual)**: the GTN's COM/NAV power relays are held closed by the AV MSTR switch from a *main-bus* feed — so any main-bus loss opens them and the GTN goes dark despite its essential-bus breakers being hot. Planned fix: re-source the relay coil feed from the essential bus. The transponder/ADS-B (VPX J10-7) and GMA 245/headset power (VPX J10-4) also die with the main bus; planned fixes are an essential dual-feed and a dedicated essential breaker respectively.
+**Known issue (fix planned at annual — task plan: [`plans/electrical-mods-2026-annual.md`](../plans/electrical-mods-2026-annual.md))**: the GTN's COM/NAV power relays are held closed by the AV MSTR switch from a *main-bus* feed — so any main-bus loss opens them and the GTN goes dark despite its essential-bus breakers being hot. Planned fix: re-source the relay coil feed from the essential bus. The transponder/ADS-B (VPX J10-7) and GMA 245/headset power (VPX J10-4) also die with the main bus; planned fixes are an essential dual-feed and a dedicated essential breaker respectively.
 
 ### Display Backup Power — Deliberately Not Installed
 
