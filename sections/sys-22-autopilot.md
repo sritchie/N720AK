@@ -11,7 +11,7 @@ N720AK uses the **Dynon 3-axis autopilot** integrated with the Skyview HDX EFIS.
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
 | Roll servo | <!-- TODO --> | Dynon | Aileron axis — [tuning guide](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view) |
-| Pitch servo | <!-- TODO --> | Dynon | Elevator axis |
+| Pitch servo | **SV42T, P/N 101008-003, S/N 50220** | Dynon | Elevator axis, linear actuator (install doc 101046-007 Rev E). **Affected by Dynon TSB 080219 — see below.** |
 | Yaw damper | <!-- TODO --> | Dynon | Yaw axis |
 | AP control panel | <!-- TODO --> | Dynon | Panel-mounted — [install guide](https://drive.google.com/file/d/1n78cJB2_7Fj_dKWa3pZ48iWXHp_xgzVq/view) |
 | AP disconnect | — | Tosten grip | Red button on both sticks |
@@ -38,6 +38,33 @@ The autopilot disconnects when:
 - The red disconnect button on either stick grip is pressed
 - Manual force is applied to the controls (servo clutch slip)
 - <!-- TODO: Other disconnect triggers? EFIS failure? Bus failure? -->
+
+### Dynon TSB 080219 — SV42T servo pulley (OPEN)
+
+**N720AK's pitch servo is in scope.** The bulletin (2019-08-02) covers the
+pulley on the Dynon linear actuator found on *"Some Dynon Avionics SV42T
+Autopilot Servos (P/N 101008-003 / 101058-003)"* and on some SV32/SV42 servos
+retrofitted with the linear actuator, received after 2011-12-13. This airplane's
+pitch servo is an **SV42T, P/N 101008-003, S/N 50220** — the part number is
+listed, and the airframe postdates the cutoff by over a decade.
+
+Dynon's compliance wording: *"We recommend complying with this service bulletin
+before further flight. However, it is up to the owner/operator to determine the
+airworthiness."*
+
+**The inspection is a crack check plus a texture read:**
+
+| Pulley surface | Meaning | Action |
+|---|---|---|
+| **Unidirectional, "wood-grain"** | Affected | Remove from service, return to Dynon |
+| **Crosshatch weave** | Not affected | May remain in service |
+
+Also inspect for cracks radiating from the pulley centre out through the
+shear-screw bore.
+
+Do it with the panel open for the annual electrical work —
+`plans/electrical-mods-2026-annual.md` Phase 0. Compliance is tracked in
+`ad-sb-compliance.tsv`.
 
 ### Servo Installation
 
