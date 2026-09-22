@@ -82,13 +82,19 @@ the plan.
       off. Expect: **Wht/Blk at the GTN relay coils dead**, while the COM 1 and
       NAV 1 breaker *outputs* are hot. That is the whole diagnosis — if the
       Wht/Blk is live, stop and re-trace before rewiring anything.
-- [ ] **Read the AP servo part numbers off their labels** while the panel is
-      open. Dynon **TSB 080219** (linear-actuator pulley cracking) says "comply
-      before further flight" and covers SV42T P/N 101008-003 / 101058-003 plus
-      any SV32/SV42 retrofitted with the linear actuator. N720AK's pitch servo
-      *is* the RV-10 linear-actuator install. Inspect the pulley for a crack
-      from the centre through the shear-screw bore. This closes a live
-      airworthiness item and `sys-22-autopilot.md` has both P/Ns as TODO.
+- [ ] **Inspect the pitch servo pulley — Dynon TSB 080219. THE SERVO IS
+      CONFIRMED IN SCOPE.** It is an **SV42T, P/N 101008-003, S/N 50220**
+      (Sam, 2026-09-22), and 101008-003 is named in the bulletin's applicability
+      list. Dynon: *"We recommend complying with this service bulletin before
+      further flight."* Check for cracks radiating from the pulley centre
+      through the shear-screw bore, **and read the surface texture**:
+      unidirectional "wood-grain" = affected, remove and return to Dynon;
+      crosshatch weave = unaffected, may stay in service. This is the highest
+      priority item in the whole plan — do it first, not "while the panel is
+      open."
+- [ ] Read the **roll** servo part number off its label too; it is still
+      unrecorded, and the bulletin also reaches SV32/SV42 servos that were
+      retrofitted with the Dynon linear actuator.
 - [ ] **Photograph the SkyView VPX setup page** and record which channels are
       gated by **Switch Input #1**. This is the standing sys-24 TODO, and you
       need it to know what the AV MSTR actually still controls after Phase 1.
