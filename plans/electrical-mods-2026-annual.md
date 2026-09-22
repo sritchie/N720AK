@@ -35,6 +35,41 @@ nothing about it is time-critical.
 
 ---
 
+## What gets a breaker, and what gets a fuse
+
+**Partition by whether you would ever touch it in flight**, not by size or
+importance. A shed-ladder item behind a hidden fuse is useless, because the
+ladder only works if you can climb it from the seat.
+
+**Pullable breakers, in the power panel** — the centre console where the
+OnSpeed and engine items already live. No panel space up top, and these are
+the three you actually pull:
+
+| Breaker | Rating | Why it must be reachable |
+|---|---|---|
+| `AUDIO` | 5 A | Shed-ladder item, ~1.5 A. The GMA fail-safe still passes GTN COM 1 passively with it pulled. |
+| `XPDR` | 3 A | Shed-ladder item, 0.7 A. |
+| `AP PANEL` | 3 A | The runaway-trim kill, pulled independently of SERVOS. |
+
+**Fuse block, behind the panel** — never touched in flight, so accessibility
+only has to be good enough for the annual:
+
+| Position | Circuit | Phase | Notes |
+|---|---|---|---|
+| 1 | `AV MSTR COIL` | 1 | ~300 mA, two relay coils |
+| 2 | `ONSPEED` | 6 | the box itself, moved off the PFD circuit |
+| 3 | `ONSPEED IDXR` | 6 | separate, so a fried LED line cannot take the tone |
+| 4 | `USB FWD` | 7 | consolidated from its existing inline fuse |
+| 5 | `GEN LED` | 5 | only if the MZ-30 lamp is buffered |
+| 6–20 | spare | — | cavity plugs |
+
+Five of twenty positions used. The spare capacity is the point: the next
+modification should not need a new fuse holder.
+
+**Neither bucket:** the IDENT button, the yaw-damper button and the MZ-30
+contact input are dry contacts into SkyView display inputs. No protection, no
+slot — just wire and a button.
+
 ## Phase 0 — Verify before cutting anything
 
 Nothing here changes the airplane. Do all of it first; two items could change
@@ -323,7 +358,13 @@ Stein's line it matches how this panel was built.
 > elsewhere.
 >
 > A 10-fuse + 5-relay variant exists (SPT10F5R, 11-13351, $62.75) if you would
-> rather have relay sockets than twenty fuse positions.
+> rather have relay sockets than twenty fuse positions. With five circuits now
+> planned, ten would still leave room — but the twenty-position panel is only
+> $3 more, so take the spare capacity.
+>
+> **Buy fuses to match.** The block carries five circuits, not two, and the
+> OnSpeed box and the front USBs arrive with ratings already chosen — read what
+> their existing inline fuses are rated at rather than guessing.
 
 ### Wire — MIL-W-22759/16 Tefzel, sold by the foot
 
