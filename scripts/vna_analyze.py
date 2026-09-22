@@ -36,9 +36,21 @@ GRID = "#dedbd4"
 SERIES = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100",
           "#e87ba4", "#008300", "#4a3aa7", "#e34948"]
 
-BANDS = [("VOR / LOC", 108.0e6, 117.95e6, 2.0),
-         ("Glideslope", 328.6e6, 335.4e6, 6.0)]
-SPOTS = [108.0e6, 113.0e6, 117.95e6, 328.6e6, 332.0e6, 335.4e6]
+# (label, low_hz, high_hz, mean-SWR limit)
+NAV_BANDS = [("VOR / LOC", 108.0e6, 117.95e6, 2.0),
+             ("Glideslope", 328.6e6, 335.4e6, 6.0)]
+COM_BANDS = [("COM", 118.0e6, 136.975e6, 2.0)]
+
+BAND_SETS = {"nav": NAV_BANDS, "com": COM_BANDS, "all": NAV_BANDS + COM_BANDS}
+SPOT_SETS = {
+    "nav": [108.0e6, 113.0e6, 117.95e6, 328.6e6, 332.0e6, 335.4e6],
+    "com": [118.0e6, 122.8e6, 127.0e6, 132.0e6, 136.975e6],
+}
+SPOT_SETS["all"] = SPOT_SETS["nav"] + SPOT_SETS["com"]
+
+# Assigned from --bands in main(); module-level so the helpers can see it.
+BANDS = NAV_BANDS
+SPOTS = SPOT_SETS["nav"]
 
 
 def read_s1p(path):
@@ -213,8 +225,15 @@ def plot(sweeps, outpath):
 def main():
     ap = argparse.ArgumentParser(description="Analyze NanoVNA .s1p sweeps")
     ap.add_argument("files", nargs="+", help="Touchstone .s1p files")
+    ap.add_argument("--bands", default="nav", choices=sorted(BAND_SETS),
+                    help="which bands to report: nav (VOR/LOC + glideslope), "
+                         "com (118-137), or all (default: nav)")
     ap.add_argument("--out", default=None, help="output PNG path")
     args = ap.parse_args()
+
+    global BANDS, SPOTS
+    BANDS = BAND_SETS[args.bands]
+    SPOTS = SPOT_SETS[args.bands]
 
     sweeps = []
     print("=" * 72)

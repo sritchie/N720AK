@@ -36,6 +36,7 @@ PROMPT = b"ch> "
 
 BANDS = {
     "nav":  (100e6, 130e6),     # VOR/LOC with shoulders
+    "com":  (100e6, 160e6),     # COM 118-136.975 with shoulders
     "gs":   (300e6, 360e6),     # glideslope with shoulders
     "both": (100e6, 350e6),     # one sweep covering everything
     "wide": (1e6, 900e6),       # survey sweep

@@ -376,12 +376,13 @@ def analyze_dir(d, baseline_cfg, outdir):
     base_nav = runs.get((baseline_cfg, "nav"))
     if base_nav is not None:
         fm = fm_pressure(base_nav)
-        if fm is not None and fm > 20:
+        if fm is not None and fm > 25:
             warnings.append(
                 f"FM broadcast sits {fm:.0f} dB above the VOR band in the "
-                f"baseline. The tuner is probably compressing — re-run with "
-                f"`--gain 25` or add an FM band-stop filter before trusting "
-                f"absolute floor numbers.")
+                f"baseline. That is enough to compress the tuner at high gain, "
+                f"but it is a risk flag rather than a verdict — confirm with "
+                f"`rf_analyze.py --gain-check`. If the top gain shows no "
+                f"compression there, this is not a problem.")
 
     # --- drift check -------------------------------------------------------
     results = defaultdict(dict)
@@ -481,14 +482,19 @@ def gain_check(d):
     """Pick a tuner gain for this location.
 
     Sweeps the same band at several gains without moving the antenna and asks
-    how the measured noise floor tracks the gain change:
+    how the measured noise floor tracks each gain change. The comparison is
+    between ADJACENT gains, not against the highest one -- comparing everything
+    to the top setting makes that setting its own reference, so compression at
+    the top can never be detected, which is exactly the case worth catching.
 
-      * floor falls MORE than the gain reduction -> the higher gain was
-        compressing, usually from strong local FM broadcast
-      * floor falls LESS than the gain reduction -> the dongle's own noise is
-        taking over and it is going deaf to what we came to measure
+    For each step down from g_hi to g_lo:
 
-    The best gain is the highest one still tracking linearly.
+      * floor falls MORE than the gain reduction  -> g_hi was compressing,
+        usually from a strong out-of-band signal such as FM broadcast
+      * floor falls LESS than the gain reduction  -> g_lo is already dominated
+        by the dongle's own noise and is going deaf
+
+    The best gain is the highest one that is not compressing.
     """
     runs = load_run_dir(d)
     rows = []
@@ -497,7 +503,7 @@ def gain_check(d):
         f, med = r["freq"], r["median"]
         fm = band_mask(f, 105e6, 107.9e6)
         nav = band_mask(f, 112e6, 118e6)
-        if nav.sum() < 5:
+        if nav.sum() < 5 or not np.isfinite(g):
             continue
         rows.append((g, float(np.nanmedian(med[nav])),
                      float(np.nanmedian(med[fm])) if fm.sum() > 5 else np.nan))
@@ -505,33 +511,62 @@ def gain_check(d):
         sys.exit("error: need captures at two or more gains in that directory")
 
     rows.sort(key=lambda r: -r[0])
-    g0, f0, _ = rows[0]
+    TOL = 1.0
+
+    # step_err[i] describes the step DOWN from rows[i] to rows[i+1]
+    compressing, starved = set(), set()
+    steps = {}
+    for i in range(len(rows) - 1):
+        g_hi, floor_hi, _ = rows[i]
+        g_lo, floor_lo, _ = rows[i + 1]
+        expected = g_hi - g_lo
+        actual = floor_hi - floor_lo
+        err = actual - expected
+        steps[g_hi] = (expected, actual, err)
+        if err > TOL:
+            compressing.add(g_hi)
+        elif err < -TOL:
+            starved.add(g_lo)
+
+    # Internal-noise dominance only worsens as gain drops, so once a gain is
+    # starved every lower one is too. Without this the table reads oddly.
+    if starved:
+        worst = max(starved)
+        starved |= {g for g, _, _ in rows if g <= worst}
+
     print("\n  Gain check — is the tuner linear at this location?\n")
-    print(f"  {'gain':>6} {'floor':>8} {'FM press':>9} {'expect':>8} "
-          f"{'actual':>8} {'error':>8}  reading")
-    print("  " + "-" * 66)
-    best, best_err = None, None
+    print(f"  {'gain':>6} {'floor':>8} {'FM press':>9} {'step exp':>9} "
+          f"{'step act':>9} {'error':>7}  reading")
+    print("  " + "-" * 72)
     for g, floor, fm in rows:
-        exp, act = g0 - g, f0 - floor
-        err = act - exp
-        if abs(err) < 1.0:
-            reading = "linear"
-        elif err > 0:
-            reading = "higher gain was compressing"
-        else:
-            reading = "internal noise dominating"
         fmp = f"{fm - floor:9.1f}" if np.isfinite(fm) else "        -"
-        print(f"  {g:6.1f} {floor:8.1f} {fmp} {exp:8.1f} {act:8.1f} "
-              f"{err:+8.1f}  {reading}")
-        if abs(err) < 1.0 and (best is None or g > best):
-            best, best_err = g, err
+        if g in steps:
+            exp, act, err = steps[g]
+            cols = f"{exp:9.1f} {act:9.1f} {err:+7.1f}"
+        else:
+            cols = f"{'':>9} {'':>9} {'':>7}"
+        if g in compressing:
+            reading = "COMPRESSING at this gain"
+        elif g in starved:
+            reading = "internal noise dominating"
+        else:
+            reading = "linear"
+        print(f"  {g:6.1f} {floor:8.1f} {fmp} {cols}  {reading}")
+
+    usable = [g for g, _, _ in rows if g not in compressing and g not in starved]
     print()
-    if best is not None:
-        print(f"  -> use --gain {best}  (tracks within {best_err:+.1f} dB of "
-              f"linear, and it is the highest gain that does)")
+    if usable:
+        best = max(usable)
+        note = ""
+        if best in steps:
+            note = f" (step down tracks within {steps[best][2]:+.1f} dB of linear)"
+        print(f"  -> use --gain {best}{note}")
+        if best != rows[0][0]:
+            print(f"     {rows[0][0]} was rejected: "
+                  f"{'compressing' if rows[0][0] in compressing else 'starved'}")
     else:
-        print("  -> nothing tracked linearly. Try a wider spread of gains, or "
-              "an FM band-stop filter if the FM pressure column is large.")
+        print("  -> nothing tracked linearly. Widen the spread of gains, or if "
+              "the FM pressure column is large, add an FM band-stop filter.")
     print()
 
 
