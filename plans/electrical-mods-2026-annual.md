@@ -228,3 +228,94 @@ This is the part that gets skipped. None of it is optional.
 - **Battery-only endurance.** After these changes the essential load is
   ~19–20 A, so the double-failure reserve on ~31 Ah is roughly 1.5 hours —
   plan on one.
+
+---
+
+## Shopping list
+
+Priced at **Aircraft Spruce, 2026-09-22**, verified against live product pages.
+Prices change; treat as an estimate.
+
+### Breakers — the three pullable ones (Phase 2, 3, 4)
+
+Klixon **7277 series**, the standard push-pull aviation breaker. All in stock.
+
+| Item | Part No. | Spruce No. | Qty | Unit | Ext. |
+|---|---|---|---|---|---|
+| `AUDIO` breaker, 5 A | 7277-2-5 | 7277-2-5 | 1 | $31.60 | $31.60 |
+| `XPDR` breaker, 3 A | 7277-2-3 | 7277-2-3 | 1 | $29.95 | $29.95 |
+| `AP PANEL` breaker, 3 A | 7277-2-3 | 7277-2-3 | 1 | $29.95 | $29.95 |
+
+> **Check the dash number in Phase 0 before ordering.** Spruce stocks three
+> variants at very different prices: **7277-2-x ≈ $30**, 7277-5-x ≈ $47,
+> 7277-1-x ≈ $57. The `-2-` is the common single-pole. Match whatever is
+> already in the panel rather than assuming.
+>
+> 2 A is also available (7277-2-2, $29.95) if you would rather size XPDR or
+> AP PANEL down.
+
+### Fuse panel — the answer to "a bank of fuses behind the panel"
+
+**SteinAir's own SPT rear-terminal mini-fuse panel.** Rear terminals means the
+wiring leaves the back, which is what makes it tidy behind a panel, and being
+Stein's line it matches how this panel was built.
+
+| Item | Part No. | Spruce No. | Qty | Unit | Ext. |
+|---|---|---|---|---|---|
+| SPT rear-terminal mini fuse panel (20 pos.) | SPT20FB | 11-13348 | 1 | $65.85 | $65.85 |
+| SPT mounting bracket pair | SPT2FMB | 11-13352 | 1 | $20.95 | $20.95 |
+| Terminal kit, 22-20 AWG (red) | SPT22-20FT | 11-13353 | 1 | $9.95 | $9.95 |
+| Terminal kit, 18-16 AWG (purple) | SPT18-16FT | 11-13354 | 1 | $9.95 | $9.95 |
+| Terminal removal tool | — | 11-13358 | 1 | $16.85 | $16.85 |
+| Cavity plugs (unused positions) | — | 11-13357 | 1 | $3.45 | $3.45 |
+| 2 A fuses (gray) | SPT2AMP | 11-13359 | 1 pk | $4.75 | $4.75 |
+| 5 A fuses (tan) | SPT5AMP | 11-13360 | 1 pk | $4.95 | $4.95 |
+
+> **These are MINI (ATM) fuses, not ATC/ATO** — smaller, which is the point
+> behind a panel. Spruce's smallest in this line is **2 A**; there is no 1 A.
+> That is fine for both planned circuits: the AV MSTR coil draws ~300 mA and
+> the indexer less, and what the fuse protects is the **22 AWG wire**, not the
+> load. If you want 1 A specifically, generic 1 A ATM fuses are easy to source
+> elsewhere.
+>
+> A 10-fuse + 5-relay variant exists (SPT10F5R, 11-13351, $62.75) if you would
+> rather have relay sockets than twenty fuse positions.
+
+### Wire — MIL-W-22759/16 Tefzel, sold by the foot
+
+| Gauge | Part No. | Spruce No. | Qty | Unit | Ext. |
+|---|---|---|---|---|---|
+| 18 AWG white (breaker feeds) | M22759/16-18-9 | 11-14518 | 25 ft | $0.95 | $23.75 |
+| 20 AWG white | M22759/16-20-9 | 11-14520 | 15 ft | $0.85 | $12.75 |
+| 22 AWG white (coil feed, contact inputs) | M22759/16-22-9 | 11-14522 | 25 ft | $0.70 | $17.50 |
+
+Colored stock exists (18 AWG red 11-01597, green 11-07798, white/black
+11-15601) if you want to code the new runs.
+
+### Switch
+
+| Item | Part No. | Spruce No. | Qty | Unit | Ext. |
+|---|---|---|---|---|---|
+| Yaw-damper button — C&K SPDT momentary | TP11SHZQE | 11-04471 | 1 | $15.90 | $15.90 |
+
+A TE MPS103FPC (11-18894, $44.95) is the nicer option if you want it to match
+a specific panel style.
+
+**Aircraft Spruce subtotal ≈ $298.** Note their **free shipping kicks in at
+$350** — worth adding the terminals and heat-shrink you are low on rather than
+paying freight.
+
+### Not priced here
+
+Stopped browsing at this point to control cost. These two are commodity parts
+and only need a spec, not a shopping trip:
+
+- **LED series resistor** — 1/2 W through-hole, value set by Phase 0. Buy a
+  small assortment (470 Ω and 1 kΩ) from Digi-Key or Mouser; it is a few
+  dollars either way.
+- **Schottky diode**, only if Phase 3 goes the diode-OR route — ≥5 A, ≥40 V,
+  low forward drop, stud or TO-220. The forward drop comes straight off bus
+  voltage at the transponder, so prefer a genuine Schottky over a general
+  rectifier.
+- **Ring terminals, FastOns, adhesive-lined heat shrink** — you almost
+  certainly have these; check stock before ordering.
