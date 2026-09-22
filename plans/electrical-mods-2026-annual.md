@@ -60,6 +60,17 @@ the plan.
       resistor.
 - [ ] Confirm the panel cutout size of the existing essential-bus breakers so
       the three new ones match.
+- [ ] **Measure MZ-30 output pin 2 with the engine running, before wiring an
+      LED to it.** The manual is explicit that behaviour was *reversed* partway
+      through production: regulators shipped **before 12 June 2022 show 5 V when
+      active and 0 V when inactive**; later units **pull to ground when active**,
+      which is what makes them work with EFIS contact inputs. An LED wired for
+      the wrong polarity simply never lights. Expect pull-to-ground.
+- [ ] **Ask Monkworkz what pin 2 can sink.** The electrical ratings table gives
+      only voltages — 0–5 VDC signal, 30 VDC maximum — and publishes **no
+      current rating**, because the output is intended for a high-impedance EFIS
+      contact input, not a lamp. See Phase 5 for what to do if they do not
+      answer.
 
 ---
 
@@ -115,18 +126,18 @@ an emergency approach.
 J1-1**. Main-bus, so it dies in the shed state — which is exactly when being
 visible to ATC matters most.
 
-Two options; pick one.
+**DECIDED 2026-09-22: Option B, move it outright.** Sam's call — the VPX's
+current monitoring is not worth keeping on this circuit, and moving it keeps the
+transponder on the shed ladder where its 0.7 A can actually be given up. The
+diode-OR alternative is recorded below only so nobody re-opens it.
 
-**Option A — diode-OR dual feed** (keeps VPX monitoring and control):
-- [ ] Schottky diode from the essential bus into the XPDR feed, cathode toward
-      the load, sized ≥5 A. Note the forward drop comes off bus voltage.
-- [ ] Leave the VPX channel in place as the normal-operations path.
-
-**Option B — move it outright** (simpler, loses VPX monitoring):
 - [ ] **3 A pull-able breaker** labelled `XPDR`, essential bus, **18 AWG**.
 - [ ] Remove the VPX J10-7 assignment.
+- [ ] No Schottky needed. *(Rejected Option A was: diode-OR from the essential
+      bus into the existing VPX feed — keeps VPX monitoring, costs a diode drop
+      off bus voltage, and leaves the circuit unsheddable.)*
 
-Either way:
+Then:
 - [ ] **Verify:** shed state → transponder replies and ADS-B Out still reports.
       Re-run a PAPR afterward to confirm nothing changed in the position source
       (the 2026-01-28 report was Link Version 2, no exceptions — that is the
@@ -159,10 +170,30 @@ essential-fed one.
 - [ ] **IDENT** — wire the unused small flush stick-grip button (front, below
       the trigger) to a PFD 1 contact input, configured for transponder ident.
       **22 AWG.**
-- [ ] **MZ-30 GEN ACTIVE annunciation** — the orange/brown **Output Active**
-      wire (regulator pin 2) is coiled unused near the Monkworkz enable switch.
-      It pulls to ground when the regulator is producing, which matches Dynon
-      contact-input expectations. Wire to another PFD 1 contact input.
+- [ ] **MZ-30 GEN ACTIVE — contact input AND a panel LED.** The orange/brown
+      **Output Active** wire (regulator pin 2) is coiled unused near the
+      Monkworkz enable switch. It pulls to ground when the regulator is
+      producing. Wire it to a PFD 1 contact input as planned.
+- [ ] **The LED needs a buffer — do not hang it directly on pin 2.** The
+      manual's ratings table gives voltages only (0–5 VDC, 30 VDC max) and
+      **no sink-current rating**, because pin 2 is designed for a
+      high-impedance EFIS contact input. An indicator LED at 20 mA asks that
+      output for one to two orders of magnitude more current than a contact
+      input draws, with nothing in writing saying it can supply it.
+      Three ways out, best first:
+      1. **Ask Monkworkz** what pin 2 can sink. One email. If the answer is
+         comfortably above 20 mA, drive the LED directly: anode to +12 V through
+         a series resistor, cathode to pin 2, which grounds it when active.
+      2. **Buffer it** with a small N-channel MOSFET (2N7000) or NPN (2N3904)
+         plus a pull-up — pin 2 then sees only gate or base current, microseconds
+         of it, and the transistor sinks the LED. Pennies, and it removes the
+         question entirely.
+      3. **Run the LED at ~2 mA** with a high-efficiency indicator and a large
+         series resistor. Modern LEDs are clearly visible there. Still a guess
+         without a published rating, but a far smaller one.
+      A panel lamp is worth the trouble here: a standby generator's state is
+      exactly the sort of thing that should be a dumb light rather than one more
+      annunciation competing for attention on a screen.
 - [ ] **Yaw damper** — panel-mount momentary button to a contact input. Not
       time-critical, so a display other than PFD 1 is acceptable if you would
       rather keep PFD 1's inputs for the two above.
@@ -175,8 +206,13 @@ essential-fed one.
 The OnSpeed box already runs from the **PFD circuit through a 2 A fuse** (red
 wire, pin 1), so it is already essential-fed.
 
-- [ ] Give the indexer its **own ~1 A fuse** on the new block rather than
-      sharing the box's 2 A. The AoA **tone** is the primary cue and the indexer
+- [ ] **Move the OnSpeed box itself onto the new fuse block** (Sam, 2026-09-22),
+      fed from the essential bar rather than from the PFD circuit. Two gains: the
+      inline fuse stops being a thing you have to go find, and the AoA tone
+      stops depending on the PFD breaker being in. It stays essential-fed either
+      way — this only decouples it from the PFD.
+- [ ] Give the indexer its **own separate fuse** on the block rather than
+      sharing the box's. The AoA **tone** is the primary cue and the indexer
       is secondary — a fried LED line must not be able to take the tone with it.
 - [ ] **Fit the series resistor at the value Phase 0 determined.** Note that
       100 Ω on a 12 V line with a ~2 V Vf LED passes about **100 mA**, which is
@@ -187,10 +223,18 @@ wire, pin 1), so it is already essential-fed.
 
 ---
 
-## Phase 7 — Front USB (optional)
+## Phase 7 — Front USBs
 
-- [ ] If moving it at all, move it to an **essential** fuse, not the VPX, so
-      iPad charging survives a main-bus loss. Otherwise leave it alone.
+The front USBs already have their own little fuse (Sam, 2026-09-22), so this is
+consolidation rather than a rework.
+
+- [ ] **Fold the front USBs into the new fuse block**, keeping them fed from the
+      essential bus. Same reasoning as the OnSpeed box: one labelled, serviceable
+      bank instead of an inline fuse holder somewhere behind the panel.
+- [ ] **Not onto the VPX.** That was the original idea and it is the wrong
+      direction — the VPX is entirely main-bus, so a VPX-fed USB dies in the shed
+      state and takes iPad charging with it, which is exactly when the plates on
+      that iPad matter most.
 
 ---
 
