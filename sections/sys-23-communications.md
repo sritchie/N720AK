@@ -80,9 +80,10 @@ cabin top**, not outboard toward the wing root.
 Two consequences that matter for diagnostics:
 
 - **COM 1's feedline never passes through the wing root.** The NAV and COM
-  barrels found bonded together at the right wing root on 2026-09-16 are
-  therefore the **nav** and **COM 2** feedlines. Keeping them apart remains an
-  open item, but it is a COM 2 issue.
+  barrels found in contact at the right wing root on 2026-09-16 are therefore
+  the **nav** and **COM 2** feedlines, not COM 1. They were separated and
+  secured the same day — that item is closed, and it is unrelated to the COM 1
+  fault.
 - **There is not enough slack at the radio end to swap the two com
   feedlines**, so a direct COM 1 ↔ COM 2 A/B swap is not available as a
   diagnostic on this airframe. Substituting a test antenna at the radio, or
