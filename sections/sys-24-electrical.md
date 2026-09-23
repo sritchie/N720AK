@@ -361,6 +361,50 @@ The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to
 <!-- TODO: Configure Dynon sensor definition for generator amps — see https://vansairforce.net/threads/monkworkz-wiring-for-amps-readout.224156/post-1912075 -->
 <!-- TODO: Wire CO Guardian audible alarm into the GMA 245 audio panel so it's heard through the headsets -->
 <!-- TODO: Consider an alternative path for CO PPM display on the EFIS (standalone CO monitor or additional EMS module) -->
+### EMS general-purpose inputs — all 13 allocated
+
+Read from the **2026-08-29 SkyView USER_CONFIG** snapshot (GDrive
+`Public/Configs/Dynon/`), not from the panel. The SV-EMS-221's general-purpose
+pins on the 37-pin connector are **C37 pins 4, 6, 7, 8, 9, 10, 11, 12, 20, 21,
+22, 23 and 31** — the set the sensor-definition file lists as supporting the
+10 k / 991 Ω / 200.88 Ω pull-ups. Every one is configured.
+
+| Pin | Name | Function | Alarm |
+|---|---|---|---|
+| 4 | `ELEV` | Position (trim) | OFF |
+| 6 | `OIL` | 150 PSI fluid pressure (105492-002) | Self-clear |
+| 7 | `OIL` | 5/8"-18 NPT fluid temp (100409-001) | Latching |
+| 8 | `FUEL` | Kavlico V2 150 PSI diff (103757-000/503851-000) | Self-clear |
+| 9 | `PHEAT` | **Contact** | **OFF** |
+| 10 | `AILERN` | Position (trim) | OFF |
+| 11 | `LDOOR` | **Contact** | Latching |
+| 12 | `RDOOR` | **Contact** | Latching |
+| 20 | `LEFT` | Fuel level (resistive) | Self-clear |
+| 21 | `RIGHT` | Fuel level (resistive) | Self-clear |
+| 22 | `BATT1` | **Contact** | Self-clear |
+| 23 | `BATT2` | **Contact** | Self-clear |
+| 31 | `MZ30` | **Monkworkz current** | Self-clear |
+
+**Pin 31 already monitors the MZ-30, by current.** That matters for the open
+`GEN ACTIVE` annunciation below: a current reading above zero already says the
+regulator is producing, which is the same fact the Output Active discrete would
+carry. Confirm the alarm thresholds on pin 31 before wiring a second, redundant
+indication.
+
+**Pin 9 `PHEAT` is the weakest claim of the thirteen.** It is the only contact
+with its alarm **OFF**, so it displays pitot-heat controller status (the
+brown/blue status wire) without ever alerting on it. That makes it the
+candidate if a pin has to be freed for the CO detector. It is not useless —
+heater-working status is real information — so this is an owner judgement, not
+an obvious swap.
+
+Non-GP pins for reference: 1 `BATT1` and 2 `BATT2` voltage, 14 `MAIN` fuel
+flow, 24/25 `ALT` ammeter shunt, 26 `MAP`, 32/34 and 33/35 `RPM L`/`RPM R`.
+Pins 19, 27/28 and 36/37 are unconfigured but are not general-purpose inputs.
+
+<!-- TODO: Re-read this from the current config before acting on it — the
+snapshot is 2026-08-29. -->
+
 <!-- TODO: Wire Output Active (pin 2, orange/brown wire coiled near the enable switch) to a Dynon contact input for GEN ACTIVE/STANDBY annunciation. EMS pins are full. NOTE: the display D37 contact inputs (pins 28/27/14/15) are NOT a way around that — per the SkyView System Installation Guide Rev AX, Contact Input 1 is the External LEVEL button, Contact Input 2 is the External GO AROUND button, and Contacts 3 and 4 are "currently not supported... Do not connect anything to these pins currently." They cannot raise a configurable alert. An alerting discrete needs an EMS general-purpose input; see plans/electrical-mods-2026-annual.md Phase 5 for the four ways to find one. Pin 2 pulls to ground when the regulator is producing (post-June-2022 units), which matches Dynon contact-input expectations. -->
 
 #### References
