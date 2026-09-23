@@ -64,6 +64,13 @@ only has to be good enough for the annual:
 | 5 | `GEN LED` | 5 | only if the MZ-30 lamp is buffered |
 | 6–10 | spare | — | — |
 
+**Feeding the block itself.** The block needs its own supply from the essential
+bus bar, and the plan did not previously call for one. Size it on the **front
+USB**, which dominates everything else here — an iPad charging can pull 2–3 A,
+against ~300 mA for the AV MSTR coil and less for the indexer and GEN LED. Call
+it 4–5 A total and run **16 AWG**, not 18. The block's input terminal is the
+same open question as the FastOn tab size: confirm what the SA-303 takes.
+
 Five of ten positions used, on a **SteinAir SA-303 ATO/ATC block**. The spare
 capacity is the point: the next modification should not need a new fuse holder.
 Standard ATC fuses, not minis, so spares are available anywhere.
@@ -144,9 +151,9 @@ through a **Wht/Blk** wire fed from the *main-bus* switch rail. Main bus dies,
 coils drop, relays open, GTN goes dark behind hot breakers.
 
 - [ ] Add a **1 A ATC blade fuse** on the new essential-bus fuse block, labelled
-      `AV MSTR COIL`. 1 A is a standard ATC value — one of the reasons the block
-      is ATC rather than MINI. <!-- TODO: SteinAir's listed low end is 3 A
-      (SA-203); source 1 A ATC elsewhere if they do not stock it. -->
+      `AV MSTR COIL`. SteinAir stocks it — **`SA-201`, black, $2.00 per 5-pack**.
+      (An earlier note here claimed their low end was 3 A; that was an
+      incomplete search.)
 - [ ] Run **22 AWG** Tefzel from that fuse to the AV MSTR pole that feeds the
       Wht/Blk coil wire. Load is ~150 mA per coil, two coils.
 - [ ] **Disconnect that pole's existing main-bus feed.** Both halves of this
@@ -471,6 +478,7 @@ SteinAir is materially cheaper on the gauges checked:
 | 22 AWG, striped — see colour allocation below | $0.55 | $0.70 | 30 ft | $16.50 |
 | 20 AWG | $0.60 | $0.85 | 15 ft | $9.00 |
 | 18 AWG (breaker feeds) | <!-- TODO: not verified --> | $0.95 | 25 ft | — |
+| 16 AWG white (fuse block feed) | $0.95 | — | 10 ft | $9.50 |
 
 #### Colour allocation for the new 22 AWG runs
 

@@ -35,7 +35,6 @@ Most of these closed on 2026-09-23. Two remain.
 
 **Not ordered yet, pending Phase 0:**
 
-- **1 A ATC fuse** for `AV MSTR COIL` — SteinAir's listed low end is 3 A. Commodity part, source anywhere.
 - **2N7000 MOSFET** — only if Monkworkz says MZ-30 pin 2 cannot sink the lamp. Measure pin 2 polarity first: units before 2011-06-12 are inverted.
 - **LED series resistor value** — the assortment below covers it either way.
 - **Three ladder resistors** — only if Phase 0 picks the resistor-ladder route for the GP inputs.
@@ -50,18 +49,20 @@ Most of these closed on 2026-09-23. Two remain.
 | ☐ | Klixon 7277 breaker, 3 A — `XPDR` | `7277-3` | 1 | $29.50 | $29.50 |
 | ☐ | Klixon 7277 breaker, 3 A — `AP PANEL` | `7277-3` | 1 | $29.50 | $29.50 |
 | ☐ | Fuse block, 10 circuit, ATO/ATC | `SA-303` | 1 | $26.00 | $26.00 |
+| ☐ | Fuse, 1 A black (5 pk) — `AV MSTR COIL` | `SA-201` | 1 | $2.00 | $2.00 |
 | ☐ | Fuse, 3 A violet (5 pk) | `SA-203` | 1 | $2.00 | $2.00 |
 | ☐ | Fuse, 5 A tan (5 pk) | `SA-205` | 1 | $2.00 | $2.00 |
 | ☐ | Tefzel 22 AWG **Wht/Red** — AV MSTR coil feed | `AWG22W/R` | 10 | $0.55 | $5.50 |
 | ☐ | Tefzel 22 AWG **Wht/Grn** — IDENT contact | `AWG22W/G` | 10 | $0.55 | $5.50 |
 | ☐ | Tefzel 22 AWG **Wht/Yel** — yaw-damper contact | `AWG22W/Y` | 10 | $0.55 | $5.50 |
 | ☐ | Tefzel 20 AWG — 15 ft | `AWG20x` | 15 | $0.60 | $9.00 |
+| ☐ | Tefzel 16 AWG white — 10 ft, **fuse block feed** | `AWG16W` | 10 | $0.95 | $9.50 |
 | ☐ | RG-400 coax, M17/128 — 26 ft | `RG-400` | 26 | $8.95 | $232.70 |
 | ☐ | BNC male crimp, straight | `SA-1010M` | 1 | $6.75 | $6.75 |
 | ☐ | BNC male crimp, 90° — **does not swivel** | `SA-1010R` | 1 | $49.50 | $49.50 |
 | ☐ | FastOn QD receptacle, red, 22-18 AWG, 1/4" | `SA-001` | 25 | $0.42 | $10.50 |
 
-**Subtotal: $443.45**
+**Subtotal: $454.95**
 
 Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 7277s — do not add the NUTPACK.
@@ -135,11 +136,11 @@ by $49.50, so **$40.90 net saving**.
 
 ---
 
-## Total ≈ $485.10
+## Total ≈ $496.60
 
-**≈ $196.15 without the coax and its fittings.**
+**≈ $207.65 without the coax and its fittings.**
 
-Drops to **≈ $444.20** taking the Amphenol 112526 right-angle from Spruce
+Drops to **≈ $455.70** taking the Amphenol 112526 right-angle from Spruce
 instead of SteinAir's `SA-1010R`.
 
 > **Before committing $232 to RG-400:** The Wireman, Pasternack and RF
@@ -147,6 +148,25 @@ instead of SteinAir's `SA-1010R`.
 > mil-spec. That is plausibly $100+ off on 26 ft. SteinAir at $8.95/ft is the
 > best *verified* mil-spec price — it is the only listing that names
 > MIL-DTL-17-128B outright — but it has not been shopped against the RF houses.
+
+## Worth adding while the order is open
+
+None of this is required for the job. Priced so the decision is quick.
+
+| Item | SKU | Price | Why |
+|---|---|---|---|
+| Fuse, 10 A red (5 pk) | `SA-210` | $2.00 | Spares for the aircraft kit. ATC is standard, so they serve anything. |
+| Fuse, 15 A blue (5 pk) | `SA-215` | $2.00 | Same. |
+| LED-indicating fuses, 3 A / 5 A (5 pk) | `SA-203L` / `SA-205L` | $4.70 ea | They light when blown. The block lives behind the panel where a dead fuse is invisible — $2.70 over a plain pack. |
+| Heat Shrink Kit | `HSKIT` | $30.00 | Only if stock is low. |
+
+**Coax tooling**, only if not already owned — stripper `SAT-COAX` $62.00, crimp
+die `SAT-031` $17.00, ratcheting crimper frame $35.00, flush cutters $9.75.
+
+**Labelling for Phase 8.** SteinAir sells heat-shrink label cartridges
+(`EC-HS3` 3.5 mm, `EC-HS5` 5 mm, `EC-HS11` 11 mm, $15.00 each) but they need
+their **`EC-PRINTER` Industrial Label Maker Kit at $199.00**. That is a real
+purchase, not an add-on — skip it if there is already a labeller in the shop.
 
 ## Check stock before ordering
 
