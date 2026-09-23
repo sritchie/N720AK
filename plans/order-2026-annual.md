@@ -10,23 +10,29 @@ Prices verified against live product pages **2026-09-22/23**. They drift.
 
 ## Resolve these before placing the order
 
-Five open items. The first three change what you order; the last two are
-Phase 0 outputs, so those lines stay off the order until Phase 0 runs.
+Most of these closed on 2026-09-23. Two remain.
 
-- [ ] **Which Klixon dash-variant does SteinAir ship?** They list by amperage
-      only ("7277-5"). Spruce stocks `-2-` ≈ $30, `-5-` ≈ $47, `-1-` ≈ $57. The
-      `-2-` is the common single-pole. **Match what is already in the panel.**
-- [ ] **Does SA-1010R actually swivel?** The listing says only *"3 Piece 90
-      Degree Right Angle Male BNC Crimp Connector."* Compare against the one on
-      the aircraft. Cheaper alternatives if not: **SA-1010R-A** $17.50 (straight
-      → 90° adapter), **SA-1010TR** $44.75 (right-angle tray adapter).
-- [ ] **BNC or TNC at each end?** SteinAir: *"Be sure to look closely at the
-      unit/tray to determine which style you need."* TNC equivalents are
-      **SA-1001** $5.50 male straight, **SA-1000** $7.75 female crimp.
-- [ ] **Does SteinAir stock 18 AWG white?** Not found in their search. The
-      Spruce line below is the fallback — drop it if SteinAir has it.
-- [ ] **What terminals does the SA-303 take?** Stud size, or FastOns? Not
-      established. Confirm before the bench session, not at it.
+- [ ] **Which way does the 90° BNC need to point?** `SA-1010R` **does not
+      swivel** (Sam, 2026-09-23), so the cable exit direction is fixed the
+      moment it is crimped and mated. The aircraft currently has a swivel —
+      check whether that was solving a clearance problem before assuming a fixed
+      elbow drops in. See the connector note below.
+- [ ] **Confirm the FastOn tab size on the SA-303.** The block takes FastOns
+      (Sam, 2026-09-23); 1/4" is the near-universal ATC/ATO blade-block size and
+      is what is ordered below, but it has not been measured. Verify before
+      crimping 25 of them.
+
+**Resolved:**
+
+- ~~Klixon dash-variant~~ — SteinAir's Klixon line runs **1, 2, 3, 4, 5, 10, 15
+  and 20 A** (Sam, 2026-09-23). Both values this job needs are stocked. Worth a
+  one-line confirm on the sub-series when ordering if the panel is mixed.
+- ~~BNC or TNC~~ — **BNC at both ends, confirmed** (Sam, 2026-09-23). Not the
+  threaded kind. TNC alternatives dropped from this sheet.
+- ~~SA-303 terminals~~ — **FastOns**, now on the order.
+- ~~What the 18 AWG is for~~ — the **three new breaker feed runs** from the
+  essential bus bar: `AUDIO` (Phase 2), `XPDR` (Phase 3) and `AP PANEL`
+  (Phase 4). All three are specified 18 AWG in the plan.
 
 **Not ordered yet, pending Phase 0:**
 
@@ -51,19 +57,48 @@ Phase 0 outputs, so those lines stay off the order until Phase 0 runs.
 | ☐ | Tefzel 20 AWG — 15 ft | `AWG20x` | 15 | $0.60 | $9.00 |
 | ☐ | RG-400 coax, M17/128 — 26 ft | `RG-400` | 26 | $8.95 | $232.70 |
 | ☐ | BNC male crimp, straight | `SA-1010M` | 1 | $6.75 | $6.75 |
-| ☐ | BNC male crimp, 90° | `SA-1010R` | 1 | $49.50 | $49.50 |
+| ☐ | BNC male crimp, 90° — **does not swivel** | `SA-1010R` | 1 | $49.50 | $49.50 |
+| ☐ | FastOn QD receptacle, red, 22-18 AWG, 1/4" | `SA-001` | 25 | $0.42 | $10.50 |
 
-**Subtotal: $430.20**
+**Subtotal: $440.70**
 
 Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 7277s — do not add the NUTPACK.
+
+> **The 90° connector does not swivel — decide the exit direction first.**
+> With a fixed elbow the cable leaves in one direction, set when it is crimped
+> and mated. RG-400 is stiff (0.195" OD, double braid) and its minimum bend
+> radius is on the order of an inch, so a wrong guess forces a hard bend right
+> at the ferrule — the worst possible place, and exactly where the strain
+> relief is supposed to be doing its job.
+>
+> **If the existing swivel was solving a clearance problem**, a fixed elbow will
+> not drop in. Two ways out:
+>
+> 1. **Straight connector plus a right-angle adapter** — `SA-1010M` $6.75 +
+>    `SA-1010R-A` $17.50 = **$24.25**, against $56.25 for straight + fixed
+>    elbow. It does not buy rotation, but it does mean a wrong orientation costs
+>    a **$17.50 adapter instead of re-terminating the cable**, and the cable end
+>    is an easier straight crimp.
+> 2. **Source a true swivel elsewhere.** SteinAir does not appear to stock one;
+>    ask them, or check the RF houses alongside the coax.
+>
+> If the run has room and the exit direction is unconstrained, `SA-1010R` as
+> ordered is fine.
+
+> **FastOn sizing.** `SA-001` (red, 22-18 AWG) covers every wire in this job —
+> 18, 20 and 22 AWG all fall inside its range. If any heavier feeds turn up,
+> blue 16-14 AWG 1/4" is `SA-002` at $0.45. Other tab sizes, in case the SA-303
+> measures differently: 3/16" red `SA-049` $0.55, .110 red `SA-052` $0.35.
+> SteinAir also sells a 440-piece terminal kit, `SA-000-1`, at $150 if a full
+> restock is wanted rather than 25 of one part.
 
 ## Aircraft Spruce
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
 | ☐ | C&K SPDT momentary — yaw damper button | `11-04471 / TP11SHZQE` | 1 | $15.90 | $15.90 |
-| ☐ | Tefzel 18 AWG white — 25 ft *(only if SteinAir lacks it)* | `11-14518` | 25 | $0.95 | $23.75 |
+| ☐ | Tefzel 18 AWG white — 25 ft, the three breaker feeds *(only if SteinAir lacks it)* | `11-14518` | 25 | $0.95 | $23.75 |
 
 **Subtotal: $39.65**
 
@@ -77,9 +112,12 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 
 ---
 
-## Total ≈ $471.85
+## Total ≈ $482.35
 
-**≈ $182.90 without the coax and its fittings.**
+**≈ $193.40 without the coax and its fittings.**
+
+Drops to **≈ $457.10** if the straight-plus-adapter route replaces the fixed
+elbow.
 
 > **Before committing $232 to RG-400:** The Wireman, Pasternack and RF
 > Industries were **not** checked and typically run $3–5/ft for genuine
