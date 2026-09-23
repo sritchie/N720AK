@@ -126,7 +126,25 @@ The GTN 650 provides:
 3. Insert the SD card into the GTN 650
 4. Power on — the unit should prompt to load the database on startup
 5. If the database shows as a "future" database and does not load automatically, **hold down the right knob click button during startup** to force-load the database
-<!-- TODO: GTN 650 to Dynon data interface — what data flows between them? -->
+#### GTN 650 ARINC 429 configuration
+
+As set on the aircraft (Sam, 2026-09-23), read off the GTN's ARINC 429 config
+page:
+
+| Port | Speed | Format |
+|---|---|---|
+| **IN 1** | High | **EFIS Format 2** |
+| **OUT 1** | High | **GAMA Format 2** |
+
+**SDI: Common.** The other options offered are LNAV 1 and LNAV 2.
+
+`IN 1` is the GTN receiving from the SkyView; `OUT 1` is the GTN transmitting
+to it, through the SV-ARINC-429 module. **SDI** (Source/Destination Identifier)
+tags transmitted labels with a nav-source number so a receiver can tell two
+navigators apart — **Common** is the correct setting for a single-navigator
+installation like this one, and means the SkyView accepts the GTN's labels
+without needing them tagged as LNAV 1 or LNAV 2.
+
 **What the SkyView does and does not get from the GTN.** Over the SV-ARINC-429 the SkyView receives lateral CDI with auto-scaling, GPSS roll steering, and vertical deviation for approach glideslopes (ILS) and GPS glidepaths (LPV, LNAV/VNAV, +V). It does **not** receive the GTN's enroute VNAV (VPATH) descent guidance: the GTN computes that path on its own screen (TOD marker, VS Required, "Vertical Track" message), but the SkyView's Glideslope/VNAV indicator shows only an ILS glideslope, a GPS approach glidepath, or SkyView's own VFR VNAV to a runway, and the Dynon autopilot's VNAV mode couples only to those. A GTN VNAV descent is therefore flown in VS mode against the GTN's VS Required with the altitude bug on the bottom altitude. (SkyView HDX Pilot's User Guide Rev T §4 and §8; Dynon forum, staff reply 2018-09-06 on ARINC 429 VPATH.)
 
 ### Garmin GTN 650 Maintenance (ICA)

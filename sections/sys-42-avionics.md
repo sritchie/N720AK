@@ -59,8 +59,12 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 ## Data Flow
 
-<!-- TODO: How do the avionics talk to each other?
-  - GTN 650 ↔ Dynon Skyview: serial? ARINC 429?
+**GTN 650 ↔ SkyView: ARINC 429**, through the SV-ARINC-429 module — both
+directions at High speed, GTN `IN 1` in EFIS Format 2 and `OUT 1` in GAMA
+Format 2, SDI Common. Port settings and what the SkyView does and does not
+receive are in [sys-34](sys-34-navigation.md#garmin-gtn-650).
+
+<!-- TODO: How do the remaining avionics talk to each other?
   - Dynon ↔ autopilot servos: proprietary bus?
   - GMA 245 audio routing
   - ADS-B data path
