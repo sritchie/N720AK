@@ -12,11 +12,10 @@ Prices verified against live product pages **2026-09-22/23**. They drift.
 
 Most of these closed on 2026-09-23. Two remain.
 
-- [ ] **Which way does the 90° BNC need to point?** `SA-1010R` **does not
-      swivel** (Sam, 2026-09-23), so the cable exit direction is fixed the
-      moment it is crimped and mated. The aircraft currently has a swivel —
-      check whether that was solving a clearance problem before assuming a fixed
-      elbow drops in. See the connector note below.
+- [ ] **Does one of the two bayonet positions point along the fuselage?** This
+      is a two-minute look at the installed connector, and it decides the whole
+      question — see the connector note below. `SA-1010R` **does not swivel**
+      (Sam, 2026-09-23).
 - [ ] **Confirm the FastOn tab size on the SA-303.** The block takes FastOns
       (Sam, 2026-09-23); 1/4" is the near-universal ATC/ATO blade-block size and
       is what is ordered below, but it has not been measured. Verify before
@@ -65,26 +64,46 @@ Most of these closed on 2026-09-23. Two remain.
 Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 7277s — do not add the NUTPACK.
 
-> **The 90° connector does not swivel — decide the exit direction first.**
-> With a fixed elbow the cable leaves in one direction, set when it is crimped
-> and mated. RG-400 is stiff (0.195" OD, double braid) and its minimum bend
-> radius is on the order of an inch, so a wrong guess forces a hard bend right
-> at the ferrule — the worst possible place, and exactly where the strain
-> relief is supposed to be doing its job.
+> **The 90° at the antenna — resolve the azimuth before ordering.**
 >
-> **If the existing swivel was solving a clearance problem**, a fixed elbow will
-> not drop in. Two ways out:
+> **The geometry** (Sam, 2026-09-23): the RG-400 comes up and lays along the top
+> of the fuselage, and a 90° turns it up into the BNC on the underside of the
+> top-mounted antenna. The swivel currently fitted is there to **relieve
+> azimuth strain** — to let the elbow point along the fuselage rather than
+> forcing the cable around to meet it.
 >
-> 1. **Straight connector plus a right-angle adapter** — `SA-1010M` $6.75 +
->    `SA-1010R-A` $17.50 = **$24.25**, against $56.25 for straight + fixed
->    elbow. It does not buy rotation, but it does mean a wrong orientation costs
->    a **$17.50 adapter instead of re-terminating the cable**, and the cable end
->    is an easier straight crimp.
-> 2. **Source a true swivel elsewhere.** SteinAir does not appear to stock one;
->    ask them, or check the RF houses alongside the coax.
+> **Why a fixed elbow may not do.** A BNC jack has two bayonet pins 180° apart,
+> so a plug mates in **two positions only**, 180° apart, and which two is set by
+> how the antenna is clocked in the skin. You cannot re-clock the antenna. If
+> neither position lands fore-and-aft, the cable is twisted to reach — and
+> RG-400 at 0.195" double-braid has a bend radius around an inch, so that strain
+> lands at the ferrule, where the strain relief should be working.
 >
-> If the run has room and the exit direction is unconstrained, `SA-1010R` as
-> ordered is fine.
+> **The test, before spending anything:** look at the connector on the aircraft
+> now. If it is sitting at or near one of the two natural bayonet positions, a
+> fixed elbow drops straight in. If it is clocked roughly 90° away from both,
+> rotation is doing real work and a fixed elbow will fight the cable.
+>
+> **A service loop may settle it for nothing.** The cable lays along the top of
+> the fuselage, so if there is room for a gentle 6–8" curve before it settles
+> into the run, that absorbs an azimuth mismatch with no strain at the
+> connector. Cheapest fix available, and worth eyeballing first.
+>
+> **There is no "swivel right-angle BNC" product category.** Three searches
+> across Amphenol, L-com, Milestek, Pasternack and RF Industries turned up
+> nothing sold as one. What is on the aircraft is most likely an ordinary
+> right-angle crimp plug whose body happens to rotate on the cable — a property
+> of the design that nobody documents either way. So the only way to know
+> whether a given part rotates is to ask the vendor holding it.
+>
+> **Price finding.** The industry-standard right-angle BNC for RG-400 is the
+> **Amphenol 112526**, at Aircraft Spruce as **11-17167 for $8.60** — against
+> **$49.50** for SteinAir's `SA-1010R`. Same function, **$40.90 apart**. The
+> trade is that the Amphenol solders the centre conductor and crimps the ferrule,
+> where the SteinAir part is all-crimp. All-crimp is quicker and avoids heat near
+> the dielectric; a soldered centre pin is a perfectly good joint done properly.
+> **Unless the all-crimp matters to you, take the Amphenol and put the $40 into
+> the cable.**
 
 > **FastOn sizing.** `SA-001` (red, 22-18 AWG) covers every wire in this job —
 > 18, 20 and 22 AWG all fall inside its range. If any heavier feeds turn up,
@@ -99,8 +118,10 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 |---|---|---|---|---|---|
 | ☐ | C&K SPDT momentary — yaw damper button | `11-04471 / TP11SHZQE` | 1 | $15.90 | $15.90 |
 | ☐ | Tefzel 18 AWG white — 25 ft, the three breaker feeds *(only if SteinAir lacks it)* | `11-14518` | 25 | $0.95 | $23.75 |
+| ☐ | BNC male right-angle crimp plug, RG-400 — Amphenol 112526 *(alternative to `SA-1010R`, saves $40.90)* | `11-17167` | 1 | $8.60 | $8.60 |
 
-**Subtotal: $39.65**
+**Subtotal: $39.65**, or **$48.25** taking the Amphenol — which drops SteinAir's
+by $49.50, so **$40.90 net saving**.
 
 ## Digi-Key or Mouser
 
@@ -116,8 +137,8 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 
 **≈ $193.40 without the coax and its fittings.**
 
-Drops to **≈ $457.10** if the straight-plus-adapter route replaces the fixed
-elbow.
+Drops to **≈ $441.45** taking the Amphenol 112526 right-angle from Spruce
+instead of SteinAir's `SA-1010R`.
 
 > **Before committing $232 to RG-400:** The Wireman, Pasternack and RF
 > Industries were **not** checked and typically run $3–5/ft for genuine

@@ -525,16 +525,25 @@ SteinAir (Sam, 2026-09-23).
 | BNC male crimp, straight — 3-pc Amphenol, RG400/RG58 | SA-1010M | 1 | $6.75 | $6.75 |
 | BNC male crimp, 90° — 3-pc Amphenol, RG400/RG58 | SA-1010R | 1 | $49.50 | $49.50 |
 
-> **SA-1010R does not swivel** (Sam, 2026-09-23). The aircraft currently has a
-> swivel, so decide the exit direction before crimping: with a fixed elbow the
-> cable leaves one way only, and RG-400's inch-ish minimum bend radius means a
-> wrong guess forces a hard bend right at the ferrule.
+> **SA-1010R does not swivel** (Sam, 2026-09-23), and the swivel on the
+> aircraft is doing real work: the RG-400 lays along the top of the fuselage and
+> a 90° turns it up into the top-mounted antenna's BNC, with the swivel
+> relieving azimuth strain.
 >
-> If the existing swivel was solving a clearance problem, **straight plus a
-> right-angle adapter** — SA-1010M $6.75 + **SA-1010R-A** $17.50 — is $24.25
-> against $56.25, and a wrong orientation then costs a $17.50 adapter rather
-> than a re-terminated cable. SteinAir does not appear to stock a true swivel;
-> **SA-1010TR** ($44.75) is a right-angle *tray* adapter, a different part.
+> A BNC mates in **two positions only**, 180° apart, set by how the antenna is
+> clocked in the skin — which cannot be changed. If neither lands fore-and-aft,
+> the cable twists to reach and the strain lands at the ferrule. **Check the
+> installed connector first:** at or near a natural bayonet position means a
+> fixed elbow is fine; clocked ~90° from both means rotation matters. A gentle
+> 6–8" service loop along the fuselage top may absorb the mismatch for nothing.
+>
+> **No vendor sells a "swivel right-angle BNC" as such** — searches across
+> Amphenol, L-com, Milestek, Pasternack and RF Industries found none. Rotation
+> is an undocumented property of a given design, so it has to be asked about.
+>
+> **Amphenol 112526 is the standard RG-400 right-angle**, at Spruce as
+> **11-17167, $8.60** against SteinAir's $49.50 — $40.90 apart, the trade being
+> a soldered centre pin rather than all-crimp.
 
 > **BNC at both ends, confirmed** (Sam, 2026-09-23) — not the threaded TNC kind.
 > SteinAir's page warns to check the unit/tray for this; it has been checked.
