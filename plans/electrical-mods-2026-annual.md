@@ -117,13 +117,14 @@ the plan.
 - [ ] **Photograph the SkyView VPX setup page** and record which channels are
       gated by **Switch Input #1**. This is the standing sys-24 TODO, and you
       need it to know what the AV MSTR actually still controls after Phase 1.
-- [ ] **Identify the OnSpeed indexer LED** — forward voltage, current, and
-      whether it is a bare LED or a pre-resistored 12 V unit. This sets the
-      resistor value in Phase 6. A pre-resistored unit needs **no** series
-      resistor.
+- [x] **Identify the OnSpeed indexer.** It is an **M5Stack Basic** (Sam,
+      2026-09-23) — ESP32 with an LCD, 5 V powered. Not an LED, so no series
+      resistor is involved at all. See Phase 6 for the power-route decision.
 - [ ] Confirm the panel cutout size of the existing essential-bus breakers so
-      the three new ones match, **and how they are bussed** — an existing bar
-      with spare positions, a full bar, or individual wires. That decides
+      the three new ones match, **and how they are bussed**. **The existing
+      essential bus bar is FULL** (Sam, 2026-09-23), so the three new breakers
+      need their own bar somewhere else, fed from the essential bus. That
+      decides
       whether the three new breakers gang onto a bar (`BB-237` copper stock,
       12" x 0.5" x 0.063", $5.95, cut and drilled for the 7277's 6-32 studs) or
       take three separate 18 AWG runs as this plan originally assumed. Ganging
@@ -131,7 +132,15 @@ the plan.
       three fewer terminals at the essential bus. **If ganged, the single feed
       carries the sum** — 11 A worst case, realistically 3-4 A, so 16 AWG is
       ample and 14 AWG is the conservative choice.
-- [ ] **Audit the 13 EMS general-purpose inputs and write down what is on each.**
+- [x] **Audit the 13 EMS general-purpose inputs.** Done 2026-09-23 from the
+      2026-08-29 config snapshot, not the panel — full table in
+      [sys-24](../sections/sys-24-electrical.md). All 13 are allocated, which
+      confirms the constraint. **Two results change Phase 5:** pin 31 already
+      reads MZ-30 *current*, so the Output Active discrete may be redundant;
+      and pin 9 `PHEAT` is the only contact with its alarm **OFF**, making it
+      the candidate if a pin must be freed. Re-read the live config before
+      acting — the snapshot is a month old.
+- [ ] ~~Audit the 13 EMS general-purpose inputs and write down what is on each.~~
       They are reportedly full, and that single fact decides Phase 5: whether the
       MZ-30 and CO discretes get a freed pin, a resistor ladder, a second EMS
       module, or nothing. Nobody should be guessing at this by the time the
@@ -326,10 +335,22 @@ wire, pin 1), so it is already essential-fed.
 - [ ] Give the indexer its **own separate fuse** on the block rather than
       sharing the box's. The AoA **tone** is the primary cue and the indexer
       is secondary — a fried LED line must not be able to take the tone with it.
-- [ ] **Fit the series resistor at the value Phase 0 determined.** Note that
-      100 Ω on a 12 V line with a ~2 V Vf LED passes about **100 mA**, which is
-      high for a single indicator; 20 mA wants roughly 470 Ω–1 kΩ. And a
-      pre-resistored 12 V unit needs none at all.
+- [ ] **No series resistor. The indexer is an M5Stack Basic** (Sam,
+      2026-09-23) — an ESP32 with a 320x240 LCD, not an LED. It wants
+      **regulated 5 V**, so a resistor on a 12 V line is the wrong idea
+      entirely; earlier revisions of this plan assumed a bare LED and specified
+      one. Decide the power route:
+      - a **12 V → 5 V DC-DC** on the fuse-block circuit, keeping the indexer
+        on its own fuse as intended; or
+      - a **USB-C lead off the front USB circuit** consolidated in Phase 7,
+        which needs no new parts but puts the indexer on a shared circuit.
+      <!-- TODO: measure the M5Stack's actual draw before sizing a converter. -->
+
+> **The USB route weakens the separate-fuse rationale.** The point of giving the
+> indexer its own fuse was that a fault on the indicator must not be able to
+> take the AoA tone with it. Sharing the USB circuit reintroduces a common
+> failure — smaller, since the tone is not on USB, but worth deciding
+> deliberately rather than by convenience.
 - [ ] **Verify:** indexer tracks the tone, and pulling the indexer fuse leaves
       the tone working.
 

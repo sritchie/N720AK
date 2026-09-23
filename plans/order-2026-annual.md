@@ -121,30 +121,58 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
-| ☐ | C&K SPDT momentary — yaw damper button | `11-04471 / TP11SHZQE` | 1 | $15.90 | $15.90 |
-| ☐ | Tefzel 18 AWG white — 25 ft, the three breaker feeds *(only if SteinAir lacks it)* | `11-14518` | 25 | $0.95 | $23.75 |
+| ☐ | C&K SPDT momentary — yaw damper button | `11-04471` | 1 | $15.90 | $15.90 |
 | ☐ | BNC male right-angle crimp plug, RG-400 — Amphenol 112526 | `11-17167` | 1 | $8.60 | $8.60 |
+| ☐ | Bus bar MS25226-10A-4 — 4 holes, 2 5/8", 1/16" thick | `11-04676` | 1 | $5.65 | $5.65 |
+| ☐ | Tefzel 14 AWG white — 10 ft, feed for the new bus bar | `11-14514` | 10 | $1.67 | $16.70 |
+| ☐ | Tefzel 18 AWG white — 25 ft, breaker feeds *(only if SteinAir lacked it)* | `11-14518` | 25 | $0.95 | $23.75 |
 
-**Subtotal: $48.25**, or **$24.50** if SteinAir supplied the 18 AWG white.
+**Subtotal: $70.60**, or **$46.85** if SteinAir supplied the 18 AWG white.
 
-Taking the Amphenol instead of `SA-1010R` saved **$40.90**.
+### The bus bar — take the pre-drilled one
+
+**The existing essential bus bar is full** (Sam, 2026-09-23), so the three new
+breakers need their own bar, located elsewhere and fed from the essential bus.
+
+**`11-04676`, MS25226-10A-4** — four .225" holes at ~3/4" centres, 2 5/8" long,
+**1/16" thick**, cadmium-plated copper, **$5.65**. Four positions covers three
+breakers plus the feed, and 3/4" is the standard Klixon spacing.
+
+> **Do not buy the raw copper bar** (`11-40890-1`, $8.50/ft, 0.125" thick).
+> It is more expensive *and* more work: reviewers report the copper is "so hard
+> that it is tough to drill... even with a drill press", and at 0.125" **the
+> screws supplied with the Klixon breakers are too short** — one builder stacked
+> three washers to take up the length. The MS25226 at 1/16" matches the
+> thickness the supplied 6-32 hardware expects.
+>
+> The .225" holes are considerably larger than a 6-32 screw. That is normal for
+> MS25226 breaker bars, but plan on washers and check the fit.
+
+**14 AWG for the feed**, not 16. The bar carries the sum of the three breakers
+— 5 A `AUDIO` + 3 A `XPDR` + 3 A `AP PANEL` = **11 A** worst case. 14 AWG is
+the conservative, correct size for a sub-bus feed at that rating; 16 AWG is
+marginal once bundled.
 
 ## Digi-Key or Mouser
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
-| ☐ | LED series resistor assortment, 470 Ω + 1 kΩ, 1/2 W | — | 1 | ~$2.00 | ~$2.00 |
+| ☐ | ~~LED series resistor assortment~~ — **not needed** | — | — | — | — |
 
-**Subtotal ≈ $2.00.** This is the only genuinely Digi-Key line on the whole job.
+**Subtotal $0.00.** The OnSpeed indexer is an **M5Stack Basic**, not an LED
+(Sam, 2026-09-23), so there is no series resistor to fit. **Nothing on this job
+is a Digi-Key order.** If the indexer ends up fed by a 12 V → 5 V DC-DC rather
+than USB, that converter is the one part that might come from here — size it
+once the M5Stack's draw is measured.
 
 ---
 
-## Total ≈ $496.60
+## Total ≈ $476.05
 
-**≈ $207.65 without the coax and its fittings.**
+$405.45 already placed with SteinAir, **$70.60 outstanding at Aircraft Spruce** — or $46.85 if SteinAir supplied the 18 AWG white.
 
-Drops to **≈ $455.70** taking the Amphenol 112526 right-angle from Spruce
-instead of SteinAir's `SA-1010R`.
+Taking the Amphenol 112526 instead of SteinAir's `SA-1010R` saved **$40.90**,
+and dropping the LED resistor saved the only Digi-Key line.
 
 > **Before committing $232 to RG-400:** The Wireman, Pasternack and RF
 > Industries were **not** checked and typically run $3–5/ft for genuine
