@@ -135,10 +135,12 @@ the plan.
 - [x] **Audit the 13 EMS general-purpose inputs.** Done 2026-09-23 from the
       2026-08-29 config snapshot, not the panel — full table in
       [sys-24](../sections/sys-24-electrical.md). All 13 are allocated, which
-      confirms the constraint. **Two results change Phase 5:** pin 31 already
-      reads MZ-30 *current*, so the Output Active discrete may be redundant;
-      and pin 9 `PHEAT` is the only contact with its alarm **OFF**, making it
-      the candidate if a pin must be freed. Re-read the live config before
+      confirms the constraint. **One result changes Phase 5:** pin 9 `PHEAT`
+      is the only contact with its alarm **OFF**, making it the candidate if a
+      pin must be freed. **A second result was retracted 2026-09-23** — pin 31
+      does read MZ-30 current, but it floats to ~20 A with the generator
+      switched off, so it cannot stand in for the Output Active discrete. See
+      the known issue in [sys-24](../sections/sys-24-electrical.md). Re-read the live config before
       acting — the snapshot is a month old.
 - [ ] ~~Audit the 13 EMS general-purpose inputs and write down what is on each.~~
       They are reportedly full, and that single fact decides Phase 5: whether the
