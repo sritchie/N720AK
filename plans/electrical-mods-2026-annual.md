@@ -62,10 +62,11 @@ only has to be good enough for the annual:
 | 3 | `ONSPEED IDXR` | 6 | separate, so a fried LED line cannot take the tone |
 | 4 | `USB FWD` | 7 | consolidated from its existing inline fuse |
 | 5 | `GEN LED` | 5 | only if the MZ-30 lamp is buffered |
-| 6–20 | spare | — | cavity plugs |
+| 6–10 | spare | — | — |
 
-Five of twenty positions used. The spare capacity is the point: the next
-modification should not need a new fuse holder.
+Five of ten positions used, on a **SteinAir SA-303 ATO/ATC block**. The spare
+capacity is the point: the next modification should not need a new fuse holder.
+Standard ATC fuses, not minis, so spares are available anywhere.
 
 **Neither bucket:** the IDENT button and the yaw-damper button are dry contacts
 into dedicated device inputs — the transponder and the yaw servo respectively,
@@ -142,8 +143,10 @@ P1001-19/20 and P4-51/52 — whose coils are held closed by the **AV MSTR** swit
 through a **Wht/Blk** wire fed from the *main-bus* switch rail. Main bus dies,
 coils drop, relays open, GTN goes dark behind hot breakers.
 
-- [ ] Add a **1 A blade fuse** on the new essential-bus fuse block, labelled
-      `AV MSTR COIL`.
+- [ ] Add a **1 A ATC blade fuse** on the new essential-bus fuse block, labelled
+      `AV MSTR COIL`. 1 A is a standard ATC value — one of the reasons the block
+      is ATC rather than MINI. <!-- TODO: SteinAir's listed low end is 3 A
+      (SA-203); source 1 A ATC elsewhere if they do not stock it. -->
 - [ ] Run **22 AWG** Tefzel from that fuse to the AV MSTR pole that feeds the
       Wht/Blk coil wire. Load is ~150 mA per coil, two coils.
 - [ ] **Disconnect that pole's existing main-bus feed.** Both halves of this
@@ -371,70 +374,103 @@ This is the part that gets skipped. None of it is optional.
 
 ## Shopping list
 
-Priced at **Aircraft Spruce, 2026-09-22**, verified against live product pages.
-Prices change; treat as an estimate.
+Priced **2026-09-22** against live product pages at **SteinAir** and **Aircraft
+Spruce**. Prices change; treat as an estimate.
+
+**SteinAir is the primary source.** It came out cheaper on every line that both
+carry, it includes breaker mounting hardware that Spruce sells separately, and
+it consolidates breakers, wire, fuse block and coax into one order.
 
 ### Breakers — the three pullable ones (Phase 2, 3, 4)
 
-Klixon **7277 series**, the standard push-pull aviation breaker. All in stock.
+Klixon **7277 series**, the standard push-pull aviation breaker.
 
-| Item | Part No. | Spruce No. | Qty | Unit | Ext. |
-|---|---|---|---|---|---|
-| `AUDIO` breaker, 5 A | 7277-2-5 | 7277-2-5 | 1 | $31.60 | $31.60 |
-| `XPDR` breaker, 3 A | 7277-2-3 | 7277-2-3 | 1 | $29.95 | $29.95 |
-| `AP PANEL` breaker, 3 A | 7277-2-3 | 7277-2-3 | 1 | $29.95 | $29.95 |
+| Item | SteinAir SKU | Qty | Unit | Ext. |
+|---|---|---|---|---|
+| `AUDIO` breaker, 5 A | 7277-5 | 1 | $29.50 | $29.50 |
+| `XPDR` breaker, 3 A | 7277-3 | 1 | $29.50 | $29.50 |
+| `AP PANEL` breaker, 3 A | 7277-3 | 1 | $29.50 | $29.50 |
 
-> **Check the dash number in Phase 0 before ordering.** Spruce stocks three
-> variants at very different prices: **7277-2-x ≈ $30**, 7277-5-x ≈ $47,
-> 7277-1-x ≈ $57. The `-2-` is the common single-pole. Match whatever is
-> already in the panel rather than assuming.
+**Subtotal $88.50.** Spruce is $91.50 for the same three (7277-2-5 $31.60,
+7277-2-3 $29.95 ×2) *and* charges separately for the mounting hardware —
+SteinAir's listing states 7/16-32 mounting and 6-32 wiring hardware included.
+Spruce's equivalent NUTPACK is $8.75.
+
+> **Confirm the dash variant before ordering.** SteinAir lists these by
+> amperage only ("7277-5"). Spruce stocks three variants at very different
+> prices — **7277-2-x ≈ $30**, 7277-5-x ≈ $47, 7277-1-x ≈ $57 — where `-2-` is
+> the common single-pole. Phase 0 says match what is already in the panel; ask
+> SteinAir which variant they ship.
+
+**Physical envelope** (SteinAir, for planning the cutouts): 0.570" wide ×
+0.940" tall, 2.1" overall length, and the body **protrudes about 1.550" behind
+the panel**. Allow more for the wiring behind that.
+
+### Fuse block — standard ATC, not minis
+
+**SteinAir SA-303, 10-circuit, $26.00** — "For ATO & ATC Twin Blade Fuses."
+
+| Item | SteinAir SKU | Qty | Unit | Ext. |
+|---|---|---|---|---|
+| Fuse block, 10 circuit (ATO/ATC) | SA-303 | 1 | $26.00 | $26.00 |
+| Fuse, 3 A violet (5 pk) | SA-203 | 1 | $2.00 | $2.00 |
+| Fuse, 5 A tan (5 pk) | SA-205 | 1 | $2.00 | $2.00 |
+
+Five circuits are planned (AV MSTR coil, OnSpeed, OnSpeed indexer, front USB,
+GEN LED), so ten positions leaves five spare. The 6-, 8- and 12-circuit
+versions are SA-301 $22, SA-302 $24, SA-304 $28 — the spread is small enough
+that the extra capacity is worth having.
+
+> **Standard ATC fuses are the point** (Sam, 2026-09-22). They are stocked at
+> any auto parts counter, so spares are trivial and nothing exotic has to live
+> in the aircraft. SteinAir also sells **LED-indicating** variants (SA-203L,
+> SA-205L, $4.70/5 pk) that light when blown — worth considering for a block
+> that lives behind the panel where you cannot see it.
 >
-> 2 A is also available (7277-2-2, $29.95) if you would rather size XPDR or
-> AP PANEL down.
+> Buy fuse ratings to match the actual loads: the AV MSTR coil draws ~300 mA
+> and the indexer less, but **the fuse protects the wire, not the load**. The
+> OnSpeed box and the front USBs arrive with ratings already chosen — read
+> their existing inline fuses rather than guessing.
 
-### Fuse panel — the answer to "a bank of fuses behind the panel"
+#### Rejected: the SPT mini fuse panel
 
-**SteinAir's own SPT rear-terminal mini-fuse panel.** Rear terminals means the
-wiring leaves the back, which is what makes it tidy behind a panel, and being
-Stein's line it matches how this panel was built.
+An earlier draft of this plan specified the **SPT rear-terminal mini fuse
+panel** (Spruce 11-13348, SPT20FB) and justified it as *"SteinAir's own... being
+Stein's line it matches how this panel was built."* **That attribution is
+wrong.** SteinAir's store returns no results for "SPT" at all, and Spruce lists
+the brand simply as SPT with no SteinAir connection. A web search appears to
+confirm the SteinAir link, but its cited source is this repository's own PR
+#101 — the claim was being quoted back as evidence for itself.
 
-| Item | Part No. | Spruce No. | Qty | Unit | Ext. |
-|---|---|---|---|---|---|
-| SPT rear-terminal mini fuse panel (20 pos.) | SPT20FB | 11-13348 | 1 | $65.85 | $65.85 |
-| SPT mounting bracket pair | SPT2FMB | 11-13352 | 1 | $20.95 | $20.95 |
-| Terminal kit, 22-20 AWG (red) | SPT22-20FT | 11-13353 | 1 | $9.95 | $9.95 |
-| Terminal kit, 18-16 AWG (purple) | SPT18-16FT | 11-13354 | 1 | $9.95 | $9.95 |
-| Terminal removal tool | — | 11-13358 | 1 | $16.85 | $16.85 |
-| Cavity plugs (unused positions) | — | 11-13357 | 1 | $3.45 | $3.45 |
-| 2 A fuses (gray) | SPT2AMP | 11-13359 | 1 pk | $4.75 | $4.75 |
-| 5 A fuses (tan) | SPT5AMP | 11-13360 | 1 pk | $4.95 | $4.95 |
+The hardware is real and proven (Spruce's reviews include an RV-4 builder with
+23 years of service on one), and its rear terminals and sealed cover are
+genuine advantages **in a tight installation**. Two facts rule it out here:
 
-> **These are MINI (ATM) fuses, not ATC/ATO** — smaller, which is the point
-> behind a panel. Spruce's smallest in this line is **2 A**; there is no 1 A.
-> That is fine for both planned circuits: the AV MSTR coil draws ~300 mA and
-> the indexer less, and what the fuse protects is the **22 AWG wire**, not the
-> load. If you want 1 A specifically, generic 1 A ATM fuses are easy to source
-> elsewhere.
->
-> A 10-fuse + 5-relay variant exists (SPT10F5R, 11-13351, $62.75) if you would
-> rather have relay sockets than twenty fuse positions. With five circuits now
-> planned, ten would still leave room — but the twenty-position panel is only
-> $3 more, so take the spare capacity.
->
-> **Buy fuses to match.** The block carries five circuits, not two, and the
-> OnSpeed box and the front USBs arrive with ratings already chosen — read what
-> their existing inline fuses are rated at rather than guessing.
+1. **Space behind this panel is not tight** (Sam, 2026-09-22) — there is a
+   substantial existing cable bundle the block can be mounted to. The
+   compactness premium buys nothing.
+2. **It takes MINI (ATM) fuses only**, which means stocking a second fuse size
+   purely for this block.
+
+Cost, fully equipped, was **≈ $137** — panel $65.85, bracket $20.95, two
+terminal kits $19.90, removal tool $16.85, cavity plugs $3.45, fuses $9.70 —
+against **$30** for the SA-303 and two packs of fuses. Revisit only if the
+mounting location turns out to be tighter than expected.
 
 ### Wire — MIL-W-22759/16 Tefzel, sold by the foot
 
-| Gauge | Part No. | Spruce No. | Qty | Unit | Ext. |
-|---|---|---|---|---|---|
-| 18 AWG white (breaker feeds) | M22759/16-18-9 | 11-14518 | 25 ft | $0.95 | $23.75 |
-| 20 AWG white | M22759/16-20-9 | 11-14520 | 15 ft | $0.85 | $12.75 |
-| 22 AWG white (coil feed, contact inputs) | M22759/16-22-9 | 11-14522 | 25 ft | $0.70 | $17.50 |
+SteinAir is materially cheaper on the gauges checked:
 
-Colored stock exists (18 AWG red 11-01597, green 11-07798, white/black
-11-15601) if you want to code the new runs.
+| Gauge | SteinAir | Spruce | Qty | Ext. (SteinAir) |
+|---|---|---|---|---|
+| 22 AWG, white striped (coil feed, contact inputs) | $0.55 | $0.70 | 25 ft | $13.75 |
+| 20 AWG | $0.60 | $0.85 | 15 ft | $9.00 |
+| 18 AWG (breaker feeds) | <!-- TODO: not verified --> | $0.95 | 25 ft | — |
+
+> **18 AWG white was not confirmed at SteinAir** — their search surfaced 14 and
+> 16 AWG white and 22 AWG striped, but not 18 AWG plain white. Check when
+> ordering; Spruce's 11-14518 at $0.95/ft is the fallback. The 20 AWG figure is
+> from their red stock (AWG20R); confirm white is the same price.
 
 ### Switch
 
@@ -442,24 +478,52 @@ Colored stock exists (18 AWG red 11-01597, green 11-07798, white/black
 |---|---|---|---|---|---|
 | Yaw-damper button — C&K SPDT momentary | TP11SHZQE | 11-04471 | 1 | $15.90 | $15.90 |
 
-A TE MPS103FPC (11-18894, $44.95) is the nicer option if you want it to match
-a specific panel style.
+This one **is** a genuine Digi-Key part (DK 67030) if you would rather source it
+there, though Digi-Key blocks automated price checks. A TE MPS103FPC (11-18894,
+$44.95) is the nicer option if you want it to match a specific panel style.
 
-**Aircraft Spruce subtotal ≈ $298.** Note their **free shipping kicks in at
-$350** — worth adding the terminals and heat-shrink you are low on rather than
-paying freight.
+### Coax — RG400, ~26 ft
+
+For the COM antenna run. **The antenna decisions themselves live with the COM1
+diagnostic work, not this plan** — this is cable sourcing only.
+
+| Source | $/ft | 26 ft | Notes |
+|---|---|---|---|
+| **SteinAir** RG-400 | **$8.95** | **$232.70** | **M17/128-RG400, MIL-DTL-17-128B.** Double silver-plated shield, silver-plated stranded inner, Teflon |
+| Digi-Key Marketplace — McGill Microwave | ~$2.26 | ~$59 (8 m) | FEP, double braid, 19/0.0079", 50 Ω. Third-party; **mil-spec not stated on the listing** |
+| Digi-Key stocked — Huber+Suhner Enviroflex_400 | ~$7.04 | ~$185 | ⚠ **RADOX jacket, not FEP** — not an M17/128 part |
+| Digi-Key stocked — Huber+Suhner RG_400_/U | ~$10.12 | ~$266 | FEP, brown |
+| Aircraft Spruce "Certified" (11-09202) | $14.60 | $379.60 | |
+| Digi-Key — L-com, Ease Electronics | $23.99–29.99 | $624–780 | |
+
+**SteinAir is the recommendation**: it is the only listing that names the
+military specification outright, which is what should be feeding a COM antenna.
+Spruce is paying aviation markup for the same thing. The McGill marketplace
+cable is a quarter the price and its published specs look correct, but mil-spec
+compliance cannot be verified from the listing.
+
+> **Not checked: The Wireman, Pasternack, RF Industries.** All three typically
+> land around $3–5/ft for genuine mil-spec RG400, so they are worth a look
+> before committing $232 — a saving of well over $100 is plausible.
+>
+> Connectors are not priced here; SteinAir stocks BNC male crimp SA-1010M
+> $6.75, BNC female SA-1010F $5.75, TNC male straight $5.50 and their coax
+> stripper SAT-COAX at $62.00.
 
 ### Not priced here
 
-Stopped browsing at this point to control cost. These two are commodity parts
-and only need a spec, not a shopping trip:
-
-- **LED series resistor** — 1/2 W through-hole, value set by Phase 0. Buy a
-  small assortment (470 Ω and 1 kΩ) from Digi-Key or Mouser; it is a few
-  dollars either way.
-- **Schottky diode**, only if Phase 3 goes the diode-OR route — ≥5 A, ≥40 V,
-  low forward drop, stud or TO-220. The forward drop comes straight off bus
-  voltage at the transponder, so prefer a genuine Schottky over a general
-  rectifier.
+- **LED series resistor** — 1/2 W through-hole, value set by Phase 0. A 470 Ω
+  and 1 kΩ assortment from Digi-Key or Mouser is a couple of dollars. This is
+  the only genuinely Digi-Key line on the whole list.
 - **Ring terminals, FastOns, adhesive-lined heat shrink** — you almost
-  certainly have these; check stock before ordering.
+  certainly have these; check stock before ordering. SteinAir carries ring
+  terminals at $0.40–0.45 each if not.
+
+> **No Schottky diode is required.** An earlier revision listed one against a
+> possible diode-OR on the transponder. Option B is locked — the transponder
+> moves to its own 3 A breaker with the VPX channel removed, and **no diode-OR**
+> — so that part has been removed from this list.
+
+**Estimated total ≈ $390** including 26 ft of RG400 at SteinAir, or ≈ $160
+without the coax. Spruce's free shipping starts at $350; check SteinAir's own
+shipping terms before splitting the order across both.
