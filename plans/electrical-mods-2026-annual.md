@@ -506,9 +506,37 @@ compliance cannot be verified from the listing.
 > land around $3–5/ft for genuine mil-spec RG400, so they are worth a look
 > before committing $232 — a saving of well over $100 is plausible.
 >
-> Connectors are not priced here; SteinAir stocks BNC male crimp SA-1010M
-> $6.75, BNC female SA-1010F $5.75, TNC male straight $5.50 and their coax
-> stripper SAT-COAX at $62.00.
+#### Coax connectors
+
+One straight and one right-angle, both BNC crimp, both rated for RG-400 by
+SteinAir (Sam, 2026-09-23).
+
+| Item | SKU | Qty | Unit | Ext. |
+|---|---|---|---|---|
+| BNC male crimp, straight — 3-pc Amphenol, RG400/RG58 | SA-1010M | 1 | $6.75 | $6.75 |
+| BNC male crimp, 90° — 3-pc Amphenol, RG400/RG58 | SA-1010R | 1 | $49.50 | $49.50 |
+
+> **"Swivel" is unconfirmed.** Neither SteinAir listing uses the word. SA-1010R
+> is described only as a *"3 Piece 90 Degree Right Angle Male BNC Crimp
+> Connector for RG-400 & RG-58... Uses the same crimper as standard BNC's."*
+> Confirm with SteinAir that it rotates, or compare against the one currently
+> installed, before ordering.
+>
+> Two cheaper right-angle alternatives exist if the one-piece crimp is not what
+> is on the aircraft: **SA-1010R-A** ($17.50), a 1-piece adapter that converts a
+> straight BNC to right angle, and **SA-1010TR** ($44.75), a right-angle *tray*
+> adapter with snap ring.
+
+> **Check BNC vs TNC at both ends before ordering.** SteinAir's own product page
+> warns: *"Be sure to look closely at the unit/tray to determine which style you
+> need."* BNC is push-and-twist, TNC is threaded. If either end turns out to be
+> TNC, the equivalents are SA-1001 (male straight, $5.50) and SA-1000 (female
+> crimp, $7.75). BNC female crimp is SA-1010F ($5.75).
+
+**Tooling — only if not already on hand.** The run needs a coax stripper and the
+right crimp die. SteinAir: coax stripper **SAT-COAX** $62.00, coax crimp die
+**SAT-031** $17.00, ratcheting crimper frame $35.00, flush cutters $9.75. Both
+connectors above use the same crimper as a standard BNC.
 
 ### Not priced here
 
@@ -524,6 +552,7 @@ compliance cannot be verified from the listing.
 > moves to its own 3 A breaker with the VPX channel removed, and **no diode-OR**
 > — so that part has been removed from this list.
 
-**Estimated total ≈ $390** including 26 ft of RG400 at SteinAir, or ≈ $160
-without the coax. Spruce's free shipping starts at $350; check SteinAir's own
+**Estimated total ≈ $450** including 26 ft of RG400 and both connectors at
+SteinAir, or ≈ $160 without the coax and its fittings — and less again if a
+cheaper mil-spec RG400 source pans out. Spruce's free shipping starts at $350; check SteinAir's own
 shipping terms before splitting the order across both.
