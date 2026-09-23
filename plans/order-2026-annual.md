@@ -117,7 +117,7 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 > SteinAir also sells a 440-piece terminal kit, `SA-000-1`, at $150 if a full
 > restock is wanted rather than 25 of one part.
 
-## Aircraft Spruce — STILL TO ORDER
+## Aircraft Spruce — FINAL
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
@@ -125,9 +125,30 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 | ☐ | BNC male right-angle crimp plug, RG-400 — Amphenol 112526 | `11-17167` | 1 | $8.60 | $8.60 |
 | ☐ | Bus bar MS25226-10A-4 — 4 holes, 2 5/8", 1/16" thick | `11-04676` | 1 | $5.65 | $5.65 |
 | ☐ | Tefzel 14 AWG white — 10 ft, feed for the new bus bar | `11-14514` | 10 | $1.67 | $16.70 |
+| ☐ | Flat washer AN960-6 — spans the bar's oversize holes | `AN960-6` | 10 | ~$0.10 | ~$1.00 |
+| ☐ | PIDG ring tongue, 16-14 AWG, **#6** stud | `11-18375` | 5 | $0.35 | $1.75 |
+| ☐ | PIDG ring tongue, 16-14 AWG, **#10** stud | `11-18373` | 5 | $0.33 | $1.65 |
 | ☐ | Tefzel 18 AWG white — 25 ft, breaker feeds *(only if SteinAir lacked it)* | `11-14518` | 25 | $0.95 | $23.75 |
 
-**Subtotal: $70.60**, or **$46.85** if SteinAir supplied the 18 AWG white.
+**Subtotal: $75.00**, or **$51.25** if SteinAir supplied the 18 AWG white.
+
+> The AN960-6 price is an estimate — Spruce shows it only in the cart. It is a
+> commodity washer and will be around a dime; the line will not move the total.
+
+### Why the washers and ring terminals
+
+Three gaps that only appeared once the bus bar was chosen:
+
+- **The bar's holes are .225", the Klixon terminals are 6-32 (0.138").** The
+  screw head cannot span that, so each of the three breaker studs wants a
+  washer under it. **AN960-6 is 0.375" OD against a 0.225" hole** — ample.
+- **The 14 AWG feed needs a ring terminal**, and nothing on the SteinAir order
+  covers it: those were red 22-18 AWG FastOns for the SA-303 fuse block, the
+  wrong size and the wrong type. 14 AWG wants **blue 16-14 AWG** rings.
+- **Both stud sizes are stocked** because it depends where the feed lands. The
+  bar's fourth hole at .225" suits a **#10** screw directly; landing on a
+  breaker's own 6-32 stud instead wants the **#6**. At ~35¢ each, carry both
+  and decide at the bench.
 
 ### The bus bar — take the pre-drilled one
 
@@ -153,32 +174,23 @@ breakers plus the feed, and 3/4" is the standard Klixon spacing.
 the conservative, correct size for a sub-bus feed at that rating; 16 AWG is
 marginal once bundled.
 
-## Digi-Key or Mouser
+## Digi-Key, Mouser or any parts drawer
 
-| ☐ | Item | SKU | Qty | Unit | Ext. |
-|---|---|---|---|---|---|
-| ☐ | ~~LED series resistor assortment~~ — **not needed** | — | — | — | — |
+| ☐ | Item | Qty | Note |
+|---|---|---|---|
+| ☐ | **10 kΩ resistor, 1/4 W or 1/2 W** | 2–3 | MZ-30 amps pull-down, EMS pin 31 to ground |
 
-**Subtotal $0.00.** The OnSpeed indexer is an **M5Stack Basic**, not an LED
-(Sam, 2026-09-23), so there is no series resistor to fit. **Nothing on this job
-is a Digi-Key order.** If the indexer ends up fed by a 12 V → 5 V DC-DC rather
-than USB, that converter is the one part that might come from here — size it
-once the M5Stack's draw is measured.
+**Needed to run the test, not just the fix.** Step 2 of the MZ-30 diagnosis is
+bridging pin 31 to ground through 10 kΩ to confirm the float — so one is wanted
+before any decision is made. Pennies, and any assortment covers it.
 
----
-
-## Total ≈ $476.05
-
-$405.45 already placed with SteinAir, **$70.60 outstanding at Aircraft Spruce** — or $46.85 if SteinAir supplied the 18 AWG white.
-
-Taking the Amphenol 112526 instead of SteinAir's `SA-1010R` saved **$40.90**,
-and dropping the LED resistor saved the only Digi-Key line.
-
-> **Before committing $232 to RG-400:** The Wireman, Pasternack and RF
-> Industries were **not** checked and typically run $3–5/ft for genuine
-> mil-spec. That is plausibly $100+ off on 26 ft. SteinAir at $8.95/ft is the
-> best *verified* mil-spec price — it is the only listing that names
-> MIL-DTL-17-128B outright — but it has not been shopped against the RF houses.
+> An earlier revision of this sheet said nothing on this job was a Digi-Key
+> order. That was true at the time: the OnSpeed indexer turned out to be an
+> M5Stack rather than an LED, which removed the series resistor. **The MZ-30
+> float diagnosis put a resistor back on the list** for a different reason.
+>
+> If the M5Stack ends up fed by a 12 V → 5 V DC-DC rather than USB, that
+> converter joins this list — size it once the draw is measured.
 
 ## Still needed: bussing the three new breakers
 
@@ -209,6 +221,40 @@ screws $19.00, `BB-235` four #10 studs $19.10.
 > runs, so less 18 AWG — but that single feed carries the sum. Size it for the
 > realistic 3–4 A and 16 AWG is ample; size it to the breaker total of 11 A and
 > it wants 14 AWG. Decide which convention this panel already follows.
+
+## Deferred: sharing the COM antenna with the handheld
+
+**The idea is sound.** A handheld's rubber duck inside an aluminium fuselage is
+badly compromised; on the real COM antenna it actually works. That is precisely
+the total-electrical-failure case this whole plan keeps circling — panel dark,
+handheld is the radio — so it fits the thinking rather than bolting something on.
+
+**The real cost is a manual switch in the primary COM 1 antenna path.** Left in
+the handheld position, COM 1 is *silently* dead: nothing indicates it, and the
+discovery is nobody answering. That argues for a switch whose position is
+unmistakable at a glance and a line in the pre-flight flow, not just a knob
+behind the panel.
+
+**Not on this order, for four reasons:**
+
+1. **The product is not pinned down.** Searches did not locate an "Icom antenna
+   switch box" in Spruce's current catalogue, and the one candidate that
+   surfaced (a Comtronics switcher box) 404s. Buying the wrong switch is worse
+   than waiting a week.
+2. **The parts list depends on the switch.** Connector type (BNC or UHF) and
+   port count decide how many extra Amphenol BNCs and how much RG-400 the
+   jumpers need — plausibly four more connectors and a few feet.
+3. **It is undesigned.** Where the switch mounts, whether it is reachable in
+   flight, and what the handheld end presents on the panel are Phase-0-shaped
+   questions, not order-sheet ones. Unplugging behind the panel is not an
+   option in flight, which is exactly why a panel-mounted switch is the form
+   people end up with.
+4. **It belongs with the COM antenna work**, which is live in other branches,
+   not with this electrical order. Nothing here waits on it.
+
+> ⚠ **Do not cut the 26 ft of RG-400 until this is decided.** If the run
+> terminates at a switch rather than at the GTN, the length and the number of
+> connectors both change. The cable is ordered; leave it on the spool.
 
 ## Worth adding while the order is open
 
