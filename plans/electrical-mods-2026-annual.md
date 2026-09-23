@@ -374,8 +374,12 @@ This is the part that gets skipped. None of it is optional.
 
 ## Shopping list
 
-Priced **2026-09-22** against live product pages at **SteinAir** and **Aircraft
-Spruce**. Prices change; treat as an estimate.
+**To actually place the order, use [`order-2026-annual.md`](order-2026-annual.md)** —
+a vendor-split checklist with the open questions at the top. This section is the
+reasoning behind those choices.
+
+Priced **2026-09-22/23** against live product pages at **SteinAir** and
+**Aircraft Spruce**. Prices change; treat as an estimate.
 
 **SteinAir is the primary source.** It came out cheaper on every line that both
 carry, it includes breaker mounting hardware that Spruce sells separately, and
