@@ -121,7 +121,7 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
-| ☐ | C&K SPDT momentary — yaw damper button | `11-04471` | 1 | $15.90 | $15.90 |
+| ☐ | C&K SPDT momentary — yaw damper button ⚠ **silver contacts, see below** | `11-04471` | 1 | $15.90 | $15.90 |
 | ☐ | BNC male right-angle crimp plug, RG-400 — Amphenol 112526 | `11-17167` | 1 | $8.60 | $8.60 |
 | ☐ | Bus bar MS25226-10A-4 — 4 holes, 2 5/8", 1/16" thick | `11-04676` | 1 | $5.65 | $5.65 |
 | ☐ | Tefzel 14 AWG white — 10 ft, feed for the new bus bar | `11-14514` | 10 | $1.67 | $16.70 |
@@ -134,6 +134,29 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 
 > The AN960-6 price is an estimate — Spruce shows it only in the cart. It is a
 > commodity washer and will be around a dime; the line will not move the total.
+
+### The yaw-damper button wants gold contacts
+
+`11-04471` (C&K **TP11SHZQE**) is a sealed subminiature momentary pushbutton,
+SPDT, threaded bushing, mounting hardware included — mechanically right, and
+Spruce's reviews are from people using it as a PTT. But Spruce lists its
+contacts as **silver**, rated **1 A at 120 VAC**.
+
+**That rating is a warning, not a feature.** This button is a *dry contact*
+grounding a logic input on the yaw servo — microamps to milliamps. Silver grows
+sulphide and oxide films that need real voltage and current to punch through;
+at dry-circuit levels it can drift intermittent or high-resistance over years.
+**Gold plate is the standard answer for low-level switching**, and C&K make the
+distinction easy to spot — their gold contact option is rated **0.4 VA max @
+20 V**, a deliberately *low-level* rating, where silver is rated in amps.
+
+**Ask Spruce or C&K for the gold-contact variant of the same family.** Failing
+that, any sealed **single-pole, normally-open momentary** button with gold
+contacts and a bushing that suits the panel hole will do — the current rating
+is irrelevant. If the silver part is already on its way it will very likely
+work; this is a longevity argument, not a will-it-work-today one.
+
+<!-- TODO: confirm the gold-contact C&K part number with Spruce. -->
 
 ### Why the washers and ring terminals
 

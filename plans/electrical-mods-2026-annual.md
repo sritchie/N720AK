@@ -280,7 +280,23 @@ Also documented and optional. The yaw servo is engaged automatically with
 roll/pitch, but a button gives discrete control.
 
 - [ ] **Single-pole, normally-open momentary** button. One terminal to the **yaw
-      damper servo's YELLOW wire**, the other to **ground**.
+      damper servo's YELLOW wire**, the other to **ground**. Straight from the
+      SkyView install guide Rev AX: *"This button should be a single pole,
+      normally open, momentary button. Verify that two terminals of the button
+      are shorted when the button is pressed and open (no-connect) when the
+      button is released."* Momentary is right because the yellow wire behaves
+      as **a toggle** — *"each press alternates between engagement/
+      disengagement of yaw damper separately from AP."*
+- [ ] **Specify gold contacts, not silver.** This is a dry contact grounding a
+      logic input — microamps to milliamps — not a power circuit. Silver
+      contacts grow sulphide and oxide films that need meaningful voltage and
+      current to break through, so at dry-circuit levels they can go
+      intermittent or high-resistance over years. Gold plate is the standard
+      answer for low-level switching. C&K's own catalogue makes the distinction
+      easy to spot: the gold contact option carries an explicitly **low-level
+      rating, 0.4 VA max @ 20 V**, where the silver option is rated in amps.
+      **A high current rating is not a virtue here** — it signals the wrong
+      contact material for the job.
 - [ ] ⚠ **The yaw damper's yellow wire must NOT be connected to the other
       servos' disconnect wires** — unlike roll and pitch. And if the button is
       ever removed, the yellow wire must be left unconnected rather than tied
