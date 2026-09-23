@@ -283,11 +283,15 @@ The bus manager's internal screw that previously allowed the primary alternator 
 
 The generator output connects to the Battery 2 stud inside the bus manager (Drawing 5A, bus manager installation guide page 13). A **BOSCH 0332019155 normally-open relay** (30A, 12V, internal diode) sits between the generator output and Battery 2 to prevent parasitic draw when the engine is off.
 
-**Relay coil power**: Essential bus + generator enable switch. This design means:
+**Relay coil power**: the **essential bus output**, and *only* that — the
+generator enable switch is **not** in the coil circuit (Sam, 2026-09-23). An
+earlier revision of this page said "essential bus + generator enable switch",
+which wrongly implied the switch was in series with the coil. This design means:
 
 - Turning off the ignition key de-energizes the essential bus, opening the relay and disconnecting the generator from Battery 2 — regardless of enable switch position
-- The enable switch provides pilot control to disable the generator in flight
-- The generator cannot turn itself on (unlike the Monkworkz reference diagram which powers the relay from the generator output)
+- Turning on the master, **or the emergency bus**, closes the relay and connects the MZ-30 to Battery 2
+- **The enable switch is separate**, driving the regulator's Output pin 1 `Enable`. So the regulator can be connected-but-disabled, which is the state behind the floating amps reading documented below
+- The generator cannot turn itself on. The Monkworkz reference diagram drives the contactor coil from the Enable node through diode D2; N720AK deliberately drives it from the essential bus instead
 
 **Note**: The manual recommends connecting to the switched side of the master contactor to avoid parasitic draw from the regulator's ~30mA diagnostic blink code circuit. The BOSCH relay achieves the same purpose.
 
@@ -314,6 +318,67 @@ The MZ regulator is mounted on the engine mount with the following connections:
 **Power output** (#6 screw terminals, 10 AWG Tefzel):
 - Terminal 17: Output_Power_Positive → BOSCH relay → Battery 2 stud (bus manager)
 - Terminal 18: Output_Power_Ground (to clean metal airframe ground, no paint/corrosion)
+
+#### Known issue: the amps reading floats to ~20 A with the generator disabled
+
+**Symptom** (Sam, 2026-09-23): on the ground, **essential bus powered**, turning
+the generator enable switch **off** leaves the EMS `MZ30` amps reading drifting
+**up to about 20 A** over some seconds rather than falling to zero.
+
+**What it is not.** An earlier draft of this note blamed loss of regulator
+power — the relay opening and taking the regulator's supply with it. **That is
+wrong.** The relay coil is driven from the **essential bus output**, separately
+from the enable switch, so with the master (or emergency bus) on the relay is
+closed, the MZ-30 stays connected to Battery 2, and **the regulator is powered
+throughout**. It is powered but disabled.
+
+**Working hypothesis.** The regulator stops driving **Output pin 5,
+Proportional_Current**, when Enable is de-asserted, leaving that wire
+high-impedance rather than held at 0 V. EMS pin 31 then floats, and a floating
+high-Z analog input drifts slowly — which matches the "after a bit of float"
+behaviour.
+
+**The arithmetic corroborates the magnitude.** Pin 5 is specified 0–~2.7 V =
+0–30 A, and the SkyView sensor definition `MONKWORKZ CURRENT` carries
+`c_x1 = 11.111` A per volt — 30 ÷ 2.7 = 11.111, so the two agree. A displayed
+20 A implies **1.80 V** on the pin, a plausible resting point for a floating
+CMOS input.
+
+**Pin 31 cannot be pulled down in configuration.** The sensor-definition file
+states only *pin 6* supports a pull-down; pins 8, 22, 23 and 31 support
+"no pull-up" but no pull-down. This cannot be fixed in SkyView setup.
+
+**Confirm before fixing.** Essential bus on, enable switch off, measure DC volts
+at EMS pin 31 (or regulator Output pin 5) to airframe ground.
+
+- **~1.8 V and drifting** → hypothesis holds. Then temporarily bridge pin 31 to
+  ground through **10 kΩ**; the reading should collapse to 0 A.
+- **0 V** → hypothesis is wrong; something else is producing the indication.
+
+**Fix: a pull-down resistor, pin 31 to airframe ground, around 10 kΩ.**
+
+That the regulator is *powered* during the fault actually strengthens this. If
+pin 5 were driving a wrong value, a pull-down would fight it; the evidence says
+pin 5 is simply undriven, so a modest pull-down wins cleanly and draws only
+0.27 mA at full scale. ⚠ **Re-verify calibration against a clamp meter with the
+generator producing** — if pin 5 is a resistive divider rather than a buffered
+output, the pull-down joins the divider and shifts the scale. The output
+impedance is not documented; ask Monkworkz on the same call as the pin 2 sink
+question.
+
+**Alternative, if the pull-down disturbs calibration:** wire **Output pin 2**
+and treat it as the authoritative producing indication. The orange/brown wire is
+already coiled and unused, and SkyView ships a matching sensor definition —
+`MONKWORKZ STATUS`, function `CONTACT`, name `MZ30_S`, available on all thirteen
+GP pins. Needs a freed pin. ⚠ Note the Monkworkz reference diagram labels pin 2
+**`Active_High`** while this page records it as pulling *to ground* when active
+— settle that polarity by measurement before wiring it.
+
+> **This retracts an earlier conclusion.** A previous revision reasoned that
+> because pin 31 already reads MZ-30 current, the Output Active discrete might
+> be redundant. That is wrong: a reading that shows 20 A from a generator that
+> is switched off cannot serve as an "is it producing" indication. Until the
+> float is fixed, **Output Active is the only trustworthy source of that fact**.
 
 **Caution**: The Pico-Lock connectors are delicate — add ~0.5" maintenance loops in the connector wires, secured to nearby 12/10 AWG wires with a small pre-load toward the connector to prevent unseating.
 
@@ -385,11 +450,11 @@ pins on the 37-pin connector are **C37 pins 4, 6, 7, 8, 9, 10, 11, 12, 20, 21,
 | 23 | `BATT2` | **Contact** | Self-clear |
 | 31 | `MZ30` | **Monkworkz current** | Self-clear |
 
-**Pin 31 already monitors the MZ-30, by current.** That matters for the open
-`GEN ACTIVE` annunciation below: a current reading above zero already says the
-regulator is producing, which is the same fact the Output Active discrete would
-carry. Confirm the alarm thresholds on pin 31 before wiring a second, redundant
-indication.
+**Pin 31 monitors the MZ-30 by current — but that reading is not currently
+trustworthy.** With the generator switched off it floats to about 20 A rather
+than falling to zero; see the known issue in the MZ-30 section below. Until
+that is fixed the current reading **cannot** stand in for an "is it producing"
+indication, so the Output Active discrete is not redundant.
 
 **Pin 9 `PHEAT` is the weakest claim of the thirteen.** It is the only contact
 with its alarm **OFF**, so it displays pitot-heat controller status (the
