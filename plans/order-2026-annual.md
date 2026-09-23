@@ -52,14 +52,16 @@ Most of these closed on 2026-09-23. Two remain.
 | ☐ | Fuse block, 10 circuit, ATO/ATC | `SA-303` | 1 | $26.00 | $26.00 |
 | ☐ | Fuse, 3 A violet (5 pk) | `SA-203` | 1 | $2.00 | $2.00 |
 | ☐ | Fuse, 5 A tan (5 pk) | `SA-205` | 1 | $2.00 | $2.00 |
-| ☐ | Tefzel 22 AWG white striped — 25 ft | `AWG22W/x` | 25 | $0.55 | $13.75 |
+| ☐ | Tefzel 22 AWG **Wht/Red** — AV MSTR coil feed | `AWG22W/R` | 10 | $0.55 | $5.50 |
+| ☐ | Tefzel 22 AWG **Wht/Grn** — IDENT contact | `AWG22W/G` | 10 | $0.55 | $5.50 |
+| ☐ | Tefzel 22 AWG **Wht/Yel** — yaw-damper contact | `AWG22W/Y` | 10 | $0.55 | $5.50 |
 | ☐ | Tefzel 20 AWG — 15 ft | `AWG20x` | 15 | $0.60 | $9.00 |
 | ☐ | RG-400 coax, M17/128 — 26 ft | `RG-400` | 26 | $8.95 | $232.70 |
 | ☐ | BNC male crimp, straight | `SA-1010M` | 1 | $6.75 | $6.75 |
 | ☐ | BNC male crimp, 90° — **does not swivel** | `SA-1010R` | 1 | $49.50 | $49.50 |
 | ☐ | FastOn QD receptacle, red, 22-18 AWG, 1/4" | `SA-001` | 25 | $0.42 | $10.50 |
 
-**Subtotal: $440.70**
+**Subtotal: $443.45**
 
 Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 7277s — do not add the NUTPACK.
@@ -133,11 +135,11 @@ by $49.50, so **$40.90 net saving**.
 
 ---
 
-## Total ≈ $482.35
+## Total ≈ $485.10
 
-**≈ $193.40 without the coax and its fittings.**
+**≈ $196.15 without the coax and its fittings.**
 
-Drops to **≈ $441.45** taking the Amphenol 112526 right-angle from Spruce
+Drops to **≈ $444.20** taking the Amphenol 112526 right-angle from Spruce
 instead of SteinAir's `SA-1010R`.
 
 > **Before committing $232 to RG-400:** The Wireman, Pasternack and RF

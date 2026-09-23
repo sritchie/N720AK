@@ -468,9 +468,31 @@ SteinAir is materially cheaper on the gauges checked:
 
 | Gauge | SteinAir | Spruce | Qty | Ext. (SteinAir) |
 |---|---|---|---|---|
-| 22 AWG, white striped (coil feed, contact inputs) | $0.55 | $0.70 | 25 ft | $13.75 |
+| 22 AWG, striped — see colour allocation below | $0.55 | $0.70 | 30 ft | $16.50 |
 | 20 AWG | $0.60 | $0.85 | 15 ft | $9.00 |
 | 18 AWG (breaker feeds) | <!-- TODO: not verified --> | $0.95 | 25 ft | — |
+
+#### Colour allocation for the new 22 AWG runs
+
+**Everything solid is already spoken for.** The Tosten grip alone uses Orange,
+Black, Violet, Red, Green, Yellow, Grey, Brown, Blue and White internally — see
+[sys-27](../sections/sys-27-flight-controls.md). Striped combinations already in
+service elsewhere: **Wht/Blu** and **Wht/Ora** (GMA 245 remote switch),
+**Wht/Blk** (AV MSTR pole to the GTN relay coils), and **Vio/Blu**, **Vio/Yel**,
+**Vio/Grn** (VPX switch inputs 2/3/4).
+
+Of SteinAir's 22 AWG striped stock, three are **unused on this airframe**:
+
+| Colour | SKU | Use | Why |
+|---|---|---|---|
+| **Wht/Red** | `AWG22W/R` | AV MSTR coil feed (Phase 1) | Reads as the new *hot* feed, and lands on a **Wht/Blk** wire — adjacent but unmistakable. Phase 1's dangerous half-done state is adding the essential feed without removing the main one, so making the new wire obvious is worth a colour. |
+| **Wht/Grn** | `AWG22W/G` | IDENT contact (Phase 5) | Dry ground, reads as signal not power. |
+| **Wht/Yel** | `AWG22W/Y` | Yaw-damper contact (Phase 5) | Ditto, and distinct from the IDENT run. |
+
+Avoid plain Red and plain Blue near the stick specifically — those are the
+grip's own hat-Right and button-Left wires.
+
+10 ft of each covers all three runs with margin.
 
 The **18 AWG is the three new breaker feed runs** off the essential bus bar —
 `AUDIO` (Phase 2), `XPDR` (Phase 3) and `AP PANEL` (Phase 4), each specified
