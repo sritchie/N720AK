@@ -44,7 +44,8 @@ The autopilot disconnects when:
 **N720AK's pitch servo is affected.** The pulley reads as the unidirectional
 "wood-grain" texture (Sam), which the bulletin defines as an affected pulley
 regardless of whether a crack is present. Dynon Technical Support was contacted
-2026-09-22 for repair/replacement.
+2026-09-22 and is sending the LA pulley assembly and a shear screw
+replacement kit — see the repair procedure below.
 <!-- TODO: inspection date, tach/hobbs, whether a crack was found, and whether
 the crack check was performed under load -->
 
@@ -102,6 +103,81 @@ Contact Dynon Technical Support on **425-402-0433** or
 **support@dynonavionics.com**. The bulletin says to contact Dynon, not to ship
 the unit blind.
 
+
+#### The repair — LA pulley assembly + shear screw kit
+
+Dynon's disposition (2026-09-22): they are sending the **linear actuator pulley
+assembly** and a **shear screw replacement kit**, not a replacement servo. So
+**S/N 50220 stays in the airplane**, and this is a field repair rather than a
+swap — no SkyView Network reconfiguration, since it is the same device on the
+bus.
+
+Two Dynon documents govern it:
+
+| Document | P/N | Rev | Covers |
+|---|---|---|---|
+| [Actuator Component Removal and Replacement Instructions](https://drive.google.com/file/d/1hkn3ZSZ0kA-6VMMo36JMxOC2y0EBwMue/view) | 101156-001 | B, 2019-08-07 | Removing and refitting the LA pulley |
+| [Servo Shear Screw Replacement Kit Installation Guide](https://drive.google.com/file/d/1MKjDThXXtjv1IXXn5uSAirbLZfcWBGYj/view) | 103000-000 | C, 2025-02-18 | Replacing the shear screw (kit P/N **102991-000**) |
+
+> ⚠ **The two documents disagree on castle nut torque.** 101156-001 Rev B says
+> *"DO NOT EXCEED 4.5 in-lb (72 in-oz)"*; 103000-000 Rev C says *"beyond
+> **4 in-lbs.** of torque may prevent the capstan from separating from the servo
+> output shaft if the controls become jammed."* **Use 4 in-lb** — it is the
+> lower figure and the newer document (2025 vs 2019). Over-torquing defeats the
+> shear screw's entire purpose, so err low.
+
+**Tools:** needle-nose pliers, torque driver reading to 4 in-lb, 1/2" SAE
+socket, side cutters, 5/64" hex wrench (supplied in the kit).
+
+**Consumables:** cotter pin **MS24665-210** — *"cotter pins should never be
+reused."* Castle nut is **AN310-5**. The kit supplies its own cotter pin, shear
+screw, 5/64" hex wrench and a red Loctite 271 capsule.
+
+**Stack order, output shaft outward:** pulley → **nylon washer** → **wavy
+washer** → castle nut (AN310-5) → new cotter pin. Finger-tighten the nut, then
+torque only until a slot lines up with the cotter pin hole. Servo rotation must
+be smooth afterwards, with no movement between the actuating component and the
+attachment disc.
+
+**On the shear screw.** 101156-001 is explicit that for a plain pulley change
+the screw stays put: *"DO NOT REMOVE the socket head safety shear screw... The
+autopilot safety shear screw should NEVER be removed or adjusted during this
+procedure."* The pulley has a hole that fits over the screw head. The kit is
+therefore a contingency for a screw found broken or damaged on teardown.
+<!-- TODO: confirm with Dynon whether they intend the shear screw to be
+replaced as part of this repair, or only if it is found damaged. -->
+
+If the screw does need replacing (103000-000 Rev C):
+
+- The attachment disc has **three** threaded holes, so a servo accepts **at
+  most two** field shear-screw replacements before it must go back to Dynon.
+  <!-- TODO: record how many of S/N 50220's three holes are already used -->
+- The broken screw's threaded shaft stays in the disc. **Check it for burrs**
+  and file smooth. **If that shaft is loose and rotating in the threads it must
+  come out** — *"If the loose shear screw shaft vibrates out of the servo
+  attachment disc, it may jam the flight controls."* If it will not come out,
+  the servo goes back to Dynon.
+- **Only a Dynon shear screw.** Any other fastener *"will void the servo's
+  warranty and can cause the aircraft to be unsafe for flight."*
+- Light strip of red Loctite 271 on one side of the lower half of the threads;
+  fit into an **unused** hole; 5/64" hex, **hand strength only**, head **fully
+  seated** against the disc. Under-seating or over-tightening both cause
+  premature failure.
+- **Cure: 15 minutes before refitting the pulley, and a minimum of one hour
+  before flight.**
+
+**Finally, recalibrate.** 103000-000 Rev C closes with *"Perform servo
+calibration procedure provided in the appropriate installation manual."* On
+SkyView that is `SETUP > HARDWARE CALIBRATION > AP SERVO CALIBRATION >
+CALIBRATION`. Autopilot status will not return to the top bar until it
+completes. Follow with a flight test and fine-tune per the
+[tuning guide](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view).
+
+**Check the new pulley before fitting it** — crosshatch weave, plastic-like
+smooth finish, under a loupe. The bulletin covers only *some* servos by receipt
+date, and it is worth thirty seconds to confirm the replacement is not itself
+the affected design.
+
 **Roll and yaw servos.** SV32/SV42 are on the bulletin's *unaffected* list
 unless retrofitted with the Dynon linear actuator. N720AK's roll servo installs
 per doc 101046-003, the capstan/pushrod kit — almost certainly out of scope.
@@ -120,6 +196,8 @@ Compliance is tracked in `ad-sb-compliance.tsv`. Full bulletin:
 
 ## References
 
+- [Actuator Component Removal and Replacement Instructions (101156-001, Rev B)](https://drive.google.com/file/d/1hkn3ZSZ0kA-6VMMo36JMxOC2y0EBwMue/view) — removing and refitting the LA pulley; castle nut AN310-5, cotter pin MS24665-210.
+- [Servo Shear Screw Replacement Kit Installation Guide (103000-000, Rev C)](https://drive.google.com/file/d/1MKjDThXXtjv1IXXn5uSAirbLZfcWBGYj/view) — kit P/N 102991-000; three disc holes, two field replacements maximum.
 - [Dynon TSB 080219 — SV42T Servo Pulley (2019-08-02)](https://drive.google.com/file/d/1DdcqVG1yfhzCUwwgrU_Hi_uofDWzlLMx/view) — the pulley cracking bulletin; N720AK's pitch servo is affected.
 - [Dynon SkyView Autopilot In-Flight Tuning Guide (Rev F)](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view)
 - [Dynon SkyView System Installation Guide (Rev AX)](https://drive.google.com/file/d/1n78cJB2_7Fj_dKWa3pZ48iWXHp_xgzVq/view)
