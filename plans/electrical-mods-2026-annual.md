@@ -401,7 +401,8 @@ SteinAir's listing states 7/16-32 mounting and 6-32 wiring hardware included.
 Spruce's equivalent NUTPACK is $8.75.
 
 > **Confirm the dash variant before ordering.** SteinAir lists these by
-> amperage only ("7277-5"). Spruce stocks three variants at very different
+> amperage only ("7277-5"), across a **1, 2, 3, 4, 5, 10, 15, 20 A** range
+> (Sam, 2026-09-23) — both values this job needs are stocked. Spruce stocks three variants at very different
 > prices — **7277-2-x ≈ $30**, 7277-5-x ≈ $47, 7277-1-x ≈ $57 — where `-2-` is
 > the common single-pole. Phase 0 says match what is already in the panel; ask
 > SteinAir which variant they ship.
@@ -471,6 +472,10 @@ SteinAir is materially cheaper on the gauges checked:
 | 20 AWG | $0.60 | $0.85 | 15 ft | $9.00 |
 | 18 AWG (breaker feeds) | <!-- TODO: not verified --> | $0.95 | 25 ft | — |
 
+The **18 AWG is the three new breaker feed runs** off the essential bus bar —
+`AUDIO` (Phase 2), `XPDR` (Phase 3) and `AP PANEL` (Phase 4), each specified
+18 AWG in its phase.
+
 > **18 AWG white was not confirmed at SteinAir** — their search surfaced 14 and
 > 16 AWG white and 22 AWG striped, but not 18 AWG plain white. Check when
 > ordering; Spruce's 11-14518 at $0.95/ft is the fallback. The 20 AWG figure is
@@ -520,22 +525,19 @@ SteinAir (Sam, 2026-09-23).
 | BNC male crimp, straight — 3-pc Amphenol, RG400/RG58 | SA-1010M | 1 | $6.75 | $6.75 |
 | BNC male crimp, 90° — 3-pc Amphenol, RG400/RG58 | SA-1010R | 1 | $49.50 | $49.50 |
 
-> **"Swivel" is unconfirmed.** Neither SteinAir listing uses the word. SA-1010R
-> is described only as a *"3 Piece 90 Degree Right Angle Male BNC Crimp
-> Connector for RG-400 & RG-58... Uses the same crimper as standard BNC's."*
-> Confirm with SteinAir that it rotates, or compare against the one currently
-> installed, before ordering.
+> **SA-1010R does not swivel** (Sam, 2026-09-23). The aircraft currently has a
+> swivel, so decide the exit direction before crimping: with a fixed elbow the
+> cable leaves one way only, and RG-400's inch-ish minimum bend radius means a
+> wrong guess forces a hard bend right at the ferrule.
 >
-> Two cheaper right-angle alternatives exist if the one-piece crimp is not what
-> is on the aircraft: **SA-1010R-A** ($17.50), a 1-piece adapter that converts a
-> straight BNC to right angle, and **SA-1010TR** ($44.75), a right-angle *tray*
-> adapter with snap ring.
+> If the existing swivel was solving a clearance problem, **straight plus a
+> right-angle adapter** — SA-1010M $6.75 + **SA-1010R-A** $17.50 — is $24.25
+> against $56.25, and a wrong orientation then costs a $17.50 adapter rather
+> than a re-terminated cable. SteinAir does not appear to stock a true swivel;
+> **SA-1010TR** ($44.75) is a right-angle *tray* adapter, a different part.
 
-> **Check BNC vs TNC at both ends before ordering.** SteinAir's own product page
-> warns: *"Be sure to look closely at the unit/tray to determine which style you
-> need."* BNC is push-and-twist, TNC is threaded. If either end turns out to be
-> TNC, the equivalents are SA-1001 (male straight, $5.50) and SA-1000 (female
-> crimp, $7.75). BNC female crimp is SA-1010F ($5.75).
+> **BNC at both ends, confirmed** (Sam, 2026-09-23) — not the threaded TNC kind.
+> SteinAir's page warns to check the unit/tray for this; it has been checked.
 
 **Tooling — only if not already on hand.** The run needs a coax stripper and the
 right crimp die. SteinAir: coax stripper **SAT-COAX** $62.00, coax crimp die
@@ -547,9 +549,15 @@ connectors above use the same crimper as a standard BNC.
 - **LED series resistor** — 1/2 W through-hole, value set by Phase 0. A 470 Ω
   and 1 kΩ assortment from Digi-Key or Mouser is a couple of dollars. This is
   the only genuinely Digi-Key line on the whole list.
-- **Ring terminals, FastOns, adhesive-lined heat shrink** — you almost
-  certainly have these; check stock before ordering. SteinAir carries ring
-  terminals at $0.40–0.45 each if not.
+- **FastOns are now on the order** — the SA-303 takes them (Sam, 2026-09-23).
+  `SA-001`, red, 22-18 AWG, 1/4", $0.42 each; that range covers the 18, 20 and
+  22 AWG in this job. Tab size is assumed 1/4" from ATC-block convention and
+  **should be measured** before crimping a batch. Blue 16-14 AWG is `SA-002`
+  $0.45; other tab sizes are `SA-049` 3/16" $0.55 and `SA-052` .110 $0.35.
+- **Ring terminals and adhesive-lined heat shrink** — you almost certainly have
+  these; check stock before ordering. SteinAir carries ring terminals at
+  $0.40–0.45 each, and a 440-piece terminal kit `SA-000-1` at $150 if a full
+  restock is wanted.
 
 > **No Schottky diode is required.** An earlier revision listed one against a
 > possible diode-OR on the transponder. Option B is locked — the transponder
