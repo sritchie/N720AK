@@ -34,6 +34,31 @@ N720AK has dual controls (pilot and co-pilot) with push-pull tube actuation for 
 | Big red button (left) | COM1/COM2 flip-flop |
 | Small flush button (front, below trigger) | Not wired / unused |
 
+#### Grip wire colours
+
+From the [Tosten CS Military wiring diagram](https://drive.google.com/file/d/1B6rsaPuWOP-TiiiwlmuQLgSspJDqMclw/view).
+All switches are momentary.
+
+| Hat switch | Colour | | Buttons | Colour |
+|---|---|---|---|---|
+| Up | Orange | | Trigger | Yellow |
+| Down | Black | | Index | Grey |
+| Left | Violet | | Right | Brown |
+| Right | Red | | Left | Blue |
+| **Common** | **Green** | | **Common** | **White** (trigger/index and left/right) |
+
+<!-- TODO: Confirm which Tosten button is which N720AK function. The diagram
+covers a trigger, index, right and left button plus the hat, but the layout
+table above also lists a thumb button, an up/down toggle and a big red button —
+more controls than the diagram accounts for. Likely the flush front button is
+Tosten's "Index" (Grey), but that is inference, not verified. -->
+
+**This matters for the IDENT wiring.** `plans/electrical-mods-2026-annual.md`
+Phase 5 puts IDENT on the unused flush front button. If that is Tosten's
+**Index** button, it already has a **Grey** wire and a **White** common inside
+the grip, and the new run is only from the grip harness exit to SV-XPNDR-261
+pin 20 — not all the way to the button. **Check before cutting wire.**
+
 ### Trim Systems
 
 - **Pitch Trim**: Electric servo-actuated trim tab on elevator, controlled by hat switch on stick grip
