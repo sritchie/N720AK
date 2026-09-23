@@ -87,17 +87,20 @@ the plan.
       named in the bulletin's applicability list. The pulley reads as the
       unidirectional "wood-grain" texture, which condemns it whether or not a
       crack is present. Dynon Technical Support contacted 2026-09-22.
-- [ ] **Remove the affected servo from service before further flight.** The
-      hazard is *"a risk of interfering with the flight controls"* — not merely
-      degraded autopilot — so pulling the AP breaker is **not** a mitigation.
-      Dynon allows removing the entire servo assembly **or** the linear actuator
-      sub-assembly alone. Either way, *"ensure that any remaining linkages are
-      secured and do not interfere with flight controls."* If only the actuator
-      comes out, **disable the servo circuit electrically** (disconnect the servo
-      wiring and/or pull its fuse / open its breaker) so the autopilot cannot
-      behave misleadingly. That intersects the SERVOS circuit below — do this
-      first, not "while the panel is open."
-      Full procedure: `sections/sys-22-autopilot.md`.
+- [ ] **Repair the pitch servo — LA pulley assembly + shear screw kit.** Dynon
+      is sending both (2026-09-22), so **S/N 50220 stays in the airplane** and no
+      SkyView Network reconfiguration is needed. The hazard is *"a risk of
+      interfering with the flight controls"*, so pulling the AP breaker is **not**
+      a mitigation — this is still before-further-flight.
+      **Check the new pulley is the crosshatch design before fitting it.**
+      Castle nut **4 in-lb maximum** — the two Dynon documents disagree (4.5 vs
+      4 in-lb); use the lower, newer figure, because over-torquing defeats the
+      shear screw. New cotter pin **MS24665-210** every time, never reused.
+      Stack order: pulley, nylon washer, wavy washer, castle nut AN310-5, cotter
+      pin. If the shear screw is replaced, Loctite 271 needs **1 hour before
+      flight**. Finish with `SETUP > HARDWARE CALIBRATION > AP SERVO CALIBRATION`
+      and a tuning flight.
+      Full procedure and part numbers: `sections/sys-22-autopilot.md`.
 - [ ] Read the **roll** servo part number off its label to close it out. SV32 and
       SV42 are on the bulletin's *unaffected* list unless retrofitted with the
       Dynon linear actuator, and the roll servo installs per doc 101046-003, the
