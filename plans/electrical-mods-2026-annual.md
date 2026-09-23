@@ -122,7 +122,15 @@ the plan.
       resistor value in Phase 6. A pre-resistored unit needs **no** series
       resistor.
 - [ ] Confirm the panel cutout size of the existing essential-bus breakers so
-      the three new ones match.
+      the three new ones match, **and how they are bussed** — an existing bar
+      with spare positions, a full bar, or individual wires. That decides
+      whether the three new breakers gang onto a bar (`BB-237` copper stock,
+      12" x 0.5" x 0.063", $5.95, cut and drilled for the 7277's 6-32 studs) or
+      take three separate 18 AWG runs as this plan originally assumed. Ganging
+      is the tidier and more usual practice: one feed instead of three, and
+      three fewer terminals at the essential bus. **If ganged, the single feed
+      carries the sum** — 11 A worst case, realistically 3-4 A, so 16 AWG is
+      ample and 14 AWG is the conservative choice.
 - [ ] **Audit the 13 EMS general-purpose inputs and write down what is on each.**
       They are reportedly full, and that single fact decides Phase 5: whether the
       MZ-30 and CO discretes get a freed pin, a resistor ladder, a second EMS

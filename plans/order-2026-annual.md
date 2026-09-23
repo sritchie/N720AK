@@ -41,7 +41,10 @@ Most of these closed on 2026-09-23. Two remain.
 
 ---
 
-## SteinAir
+## SteinAir — ORDERED 2026-09-23
+
+> The 90° BNC `SA-1010R` was **not** ordered; it is coming from Aircraft Spruce
+> as the Amphenol instead. Everything else below was placed.
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
@@ -59,10 +62,9 @@ Most of these closed on 2026-09-23. Two remain.
 | ☐ | Tefzel 16 AWG white — 10 ft, **fuse block feed** | `AWG16W` | 10 | $0.95 | $9.50 |
 | ☐ | RG-400 coax, M17/128 — 26 ft | `RG-400` | 26 | $8.95 | $232.70 |
 | ☐ | BNC male crimp, straight | `SA-1010M` | 1 | $6.75 | $6.75 |
-| ☐ | BNC male crimp, 90° — **does not swivel** | `SA-1010R` | 1 | $49.50 | $49.50 |
 | ☐ | FastOn QD receptacle, red, 22-18 AWG, 1/4" | `SA-001` | 25 | $0.42 | $10.50 |
 
-**Subtotal: $454.95**
+**Subtotal: $405.45** as placed (was $454.95 with the 90° included).
 
 Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 7277s — do not add the NUTPACK.
@@ -115,16 +117,17 @@ Breaker mounting hardware (7/16-32 and 6-32) is **included** with SteinAir's
 > SteinAir also sells a 440-piece terminal kit, `SA-000-1`, at $150 if a full
 > restock is wanted rather than 25 of one part.
 
-## Aircraft Spruce
+## Aircraft Spruce — STILL TO ORDER
 
 | ☐ | Item | SKU | Qty | Unit | Ext. |
 |---|---|---|---|---|---|
 | ☐ | C&K SPDT momentary — yaw damper button | `11-04471 / TP11SHZQE` | 1 | $15.90 | $15.90 |
 | ☐ | Tefzel 18 AWG white — 25 ft, the three breaker feeds *(only if SteinAir lacks it)* | `11-14518` | 25 | $0.95 | $23.75 |
-| ☐ | BNC male right-angle crimp plug, RG-400 — Amphenol 112526 *(alternative to `SA-1010R`, saves $40.90)* | `11-17167` | 1 | $8.60 | $8.60 |
+| ☐ | BNC male right-angle crimp plug, RG-400 — Amphenol 112526 | `11-17167` | 1 | $8.60 | $8.60 |
 
-**Subtotal: $39.65**, or **$48.25** taking the Amphenol — which drops SteinAir's
-by $49.50, so **$40.90 net saving**.
+**Subtotal: $48.25**, or **$24.50** if SteinAir supplied the 18 AWG white.
+
+Taking the Amphenol instead of `SA-1010R` saved **$40.90**.
 
 ## Digi-Key or Mouser
 
@@ -148,6 +151,36 @@ instead of SteinAir's `SA-1010R`.
 > mil-spec. That is plausibly $100+ off on 26 ft. SteinAir at $8.95/ft is the
 > best *verified* mil-spec price — it is the only listing that names
 > MIL-DTL-17-128B outright — but it has not been shopped against the RF houses.
+
+## Still needed: bussing the three new breakers
+
+**Not on either order, and not previously in the plan.** The plan assumed three
+separate 18 AWG runs from the essential bus bar to each new breaker. Ganging
+them on a bar instead is standard panel practice and almost certainly better —
+one feed instead of three, and three fewer terminals at the essential bus.
+
+**Look before buying.** How are the *existing* essential-bus breakers bussed?
+
+| What you find | What to do |
+|---|---|
+| An existing bar with spare positions | Land the three new breakers on it. Buy nothing. |
+| An existing bar, full | Extend it, or add a second bar and jumper across. |
+| Each breaker individually wired | Match the existing convention, or gang the new three and feed the bar once. |
+
+If a bar is needed: **SteinAir `BB-237`, copper bar stock, 12" × 0.5" × 0.063",
+$5.95** — "used for ganging switches and circuit breakers together." Cut to
+length and drill for the 7277's 6-32 studs at the panel's breaker spacing.
+Current capacity is a non-issue: that cross-section carries far more than the
+11 A worst case (5 A `AUDIO` + 3 A `XPDR` + 3 A `AP PANEL`, and realistically
+nearer 3–4 A).
+
+Pre-drilled alternatives, if the spacing happens to suit: `BB-231` ten #8
+screws $19.00, `BB-235` four #10 studs $19.10.
+
+> **If you gang them, the wire changes.** One feed to the bar rather than three
+> runs, so less 18 AWG — but that single feed carries the sum. Size it for the
+> realistic 3–4 A and 16 AWG is ample; size it to the breaker total of 11 A and
+> it wants 14 AWG. Decide which convention this panel already follows.
 
 ## Worth adding while the order is open
 
