@@ -277,3 +277,37 @@ Principles transfer, programming does not.
 |------|-----------|
 | n720ak-wb-2025-11-18.pdf | [link](https://drive.google.com/file/d/19nNrN8rXgf1A5CiRmzAIlNO4X6_tc05K/view) |
 | N720AK_WB_amendment_2026-09-08.pdf | [link](https://drive.google.com/file/d/1yxfZpFUK9LP21-nhwLfQH1BPtabCDk-c/view) |
+
+## CAD Models
+
+3D models and 2D drawings of the airframe, panel and installed equipment.
+Distinct from Schematics, which holds wiring diagrams. See the folder README
+for format notes and what each file is.
+
+### Folders
+
+| Folder | GDrive URL |
+|--------|-----------|
+| Public/CAD | [link](https://drive.google.com/drive/folders/1wkmrzTCGZdaxxqOCmYCbTfHtB-m0hO9N) |
+| Public/CAD/Panel | [link](https://drive.google.com/drive/folders/1Ser29kxAzEya9otQfM74be2H6BIEeJRK) |
+| Public/CAD/Components | [link](https://drive.google.com/drive/folders/1igdMtYcCJYP5k6hYTJKMBQdRIKW4xhmI) |
+| Public/CAD/Reference | [link](https://drive.google.com/drive/folders/1Rc3QVSnVvZVORuxXqadMEtwkMAv-QZVB) |
+
+### Key files
+
+| File | GDrive URL |
+|------|-----------|
+| README.md — what's in the CAD tree | [link](https://drive.google.com/file/d/1o3JK5tRZQvZ4hCyLMnv0jthFLLgVCv2S/view) |
+| REFERENCE-N915KM-onshape-panel-model.md — catalogue of the public Onshape doc | [link](https://drive.google.com/file/d/1hkutdPVMjzLCSm1b97-ZzhtWHVRzUBmA/view) |
+| N720AK-panel-rev24-approved-cut.dxf — **the panel**, rev 24 approved cut | [link](https://drive.google.com/file/d/1lkPb3QFqyFuoQDx6lQXkxhYbHVOaHFZx/view) |
+| N720AK-panel-cutout-inventory.tsv — 255 cutouts extracted from the DXF | [link](https://drive.google.com/file/d/17XK6uMbd12upgRwHLgy_V-VUAE4rykaM/view) |
+| N720AK-panel-rev24-rendered.png — render, no CAD tool needed | [link](https://drive.google.com/file/d/1TyFf_7TVvzHUlK86QM7IpzFwzbKMyNXw/view) |
+| Vans-RV-10-stock-panel-2D-F-1003A.dxf — stock blank baseline | [link](https://drive.google.com/file/d/18R94uGOEAl_82wjbWzXKS9klT-U3V11h/view) |
+| Vans-RV-10-stock-panel-3D.IGS — Van's stock 3D panel | [link](https://drive.google.com/file/d/1z8d1cLnxhO1GASI6Q8OImRDowtDx73So/view) |
+| N915KM.STEP — another builder's full RV-10 panel assembly (167 MB) | [link](https://drive.google.com/file/d/1W8hNxUxeiCuApsygMpfAKLfdq4HGnwTA/view) |
+| Subpanel_stock.STEP — stock RV-10 subpanel structure | [link](https://drive.google.com/file/d/1APo47GJMFywWT05oh1bEhB_Ppwz5G1sS/view) |
+
+Per-component Dynon and Garmin models (STEP, panel-cutout DXF, customer
+drawings) live under `Public/CAD/Components/`, one folder per item. They are
+vendor-published and re-downloadable, so they are not individually registered
+here.
