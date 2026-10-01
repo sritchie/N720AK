@@ -55,6 +55,7 @@ inspection. `O2.tsv` has seven such rows.
 |---|---|---|---|
 | `O2` | `MH_Oxygen.pdf` | 30 | 0 |
 | `PWR` | `Power__Lighting.pdf` | 115 | 18 |
+| `SV` | `SV_Interconnect.pdf` | 175 | 19 |
 
 `PWR` is not one table but several regions on a 40-inch sheet: the four VP-X
 connector tables, both switch-panel DB15s, the essential bus, the Bus Manager
@@ -63,5 +64,19 @@ the schematic regions are transcribed from the rendered drawing with the text
 layer supplying labels and gauges. Every flagged row says why. The one region
 not yet broken out is the inside of the two switch panels (switch to DB15).
 
-Still to do: `SV_Interconnect.pdf` (3,181 words), then the systems no drawing
-covers — OnSpeed, wing and tailcone.
+`SV` is traced rather than read: its pin names are text, but which pin connects
+to which exists only in the line geometry. `scripts/sch_trace.py` rebuilds the
+connectivity from the PDF's vector paths. Its module docstring records the
+drawing conventions it relies on, every one of which was found by a wire going
+missing or two nets fusing:
+
+- wires **hop** crossings with small arcs, which must be bridged
+- **dashed** lines are annotation (the GPS-250 "Builder Connection") and must
+  not conduct
+- some **box outlines** are drawn as plain lines, and must be removed before
+  tracing or every wire landing on them fuses
+- each pin number is printed on **both sides** of its row and is one node
+
+Not yet extracted from `SV`: the SkyView network block diagram, the servo DB-9s,
+and the two pinout reference tables. Then the systems no drawing covers —
+OnSpeed, wing and tailcone.

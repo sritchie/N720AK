@@ -19,6 +19,7 @@ drawing's column positions before writing an extractor for it.
 """
 
 import argparse
+import os
 import csv
 import collections
 import sys
@@ -26,6 +27,7 @@ from pathlib import Path
 
 DROPBOX = Path.home() / "Dropbox" / "N720AK" / "Schematics"
 REPO = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 COLUMNS = ["sheet", "net", "from_ref", "from_pin", "to_ref", "to_pin",
            "color", "awg", "protection", "notes", "review"]
@@ -238,7 +240,8 @@ VPX_DEST = {
     ("J10", "6"):  [("PITOT HEAT POWER", None, "")],
     ("J10", "7"):  [("SV-XPNDR-261 J1-15", None, ""),
                     ("SV-ADSB-470 J1-1", "Red",
-                     "drawing says SV-ADSB-470; this handbook records an SV-ADSB-472 - one of them is wrong")],
+                     "drawing (2017) shows the SV-ADSB-470; it was traded in for the SV-ADSB-472 on "
+                     "2019-04-02 (sys-34). A recorded modification the drawing predates")],
     ("J10", "8"):  [("MH CNTRL HEAD J1-1", None, "matches O2 sheet: control head DB25-1 from VP-X J10-8"),
                     ("CO DETECT J1-1", "Red",
                      "CO Guardian - sys-42 records it as removed (RMA 11096), so this branch may be dead")],
@@ -501,8 +504,121 @@ def extract_power_lighting(pdf):
     return rows
 
 
+# ---------------------------------------------------------------------------
+# SkyView Interconnect  --  SteinAir, 5/17/2017
+#
+# ~17 connector boxes joined by drawn lines: here the pin names are text but
+# the connectivity exists only in the geometry, so this sheet is traced rather
+# than read. See scripts/sch_trace.py for the rules.
+# ---------------------------------------------------------------------------
+
+# Single-ended SV wires resolved by inspecting the rendered drawing. Keyed by
+# (connector, pin). Each value is a list of rows to emit instead.
+SV_RESOLVED = {
+    ("GTN P1001", "7"): [
+        dict(to_ref="R-XPNDR-GPS (1.21 kOhm series resistor)", to_pin="1",
+             notes="GPS RS-232 Out 2 to the transponder through an in-line 1.21 kOhm resistor, drawn "
+                   "as a zigzag mid-run. A real component in the harness, invisible to pin-to-pin tracing."),
+    ],
+    ("SV-XPNDR-261 DB-25M", "3"): [
+        dict(to_ref="R-XPNDR-GPS (1.21 kOhm series resistor)", to_pin="2",
+             notes="GPS In (ADS-B) from the GTN, through the in-line 1.21 kOhm resistor"),
+    ],
+    ("GMA245 J1", "44"): [
+        dict(to_ref="MH OXYGEN CONTROL HEAD", to_pin="DB25-9",
+             notes="Alert 4 Audio Hi. Matches the O2 sheet independently: control head DB25-9 -> GMA245 J1-44"),
+    ],
+    ("GTN P1001", "62"): [dict(to_ref="GTN CONFIG MODULE", to_pin="", notes="Config Mod Data")],
+    ("GTN P1001", "65"): [dict(to_ref="GTN CONFIG MODULE", to_pin="", notes="Config Mod Power")],
+    ("GTN P1001", "43"): [dict(to_ref="GTN FAN", to_pin="", notes="Fan Ground")],
+}
+
+
+def _sv_dest_by_name(fn):
+    """Destination implied unambiguously by a pin's function name."""
+    f = fn.lower()
+    who = ("PILOT" if f.startswith("pilot") else "COPILOT" if f.startswith(("copilot", "coplilot"))
+           else "PASSENGER" if f.startswith("pass") else None)
+    if who and ("phone" in f):
+        return f"{who} HEADSET JACK (phones)"
+    if who and "mic" in f:
+        return f"{who} HEADSET JACK (mic)"
+    if who and "trim" in f:
+        return f"{who} GRIP"
+    if f.strip(" -") in ("ground", "ground in", "gnd"):
+        return "GROUND"
+    return None
+
+
+def extract_sv_interconnect(pdf):
+    import sch_trace
+    nets, boxes, _uf, _segs, _words, _x = sch_trace.trace(pdf)
+    func = {}
+    for b in boxes:
+        for pin, f in b["func"].items():
+            func[(b["name"], pin)] = f
+
+    def ref(b):
+        # "PFD - LEFT #1 | SV-HDX1100 DB37" -> "SV-HDX1100 (PFD - LEFT #1) DB37"
+        if " | " in b:
+            sup, core = b.split(" | ", 1)
+            head, _, tail = core.partition(" ")
+            return f"{head} ({sup}) {tail}".strip()
+        return b
+
+    order = {b["name"]: i for i, b in enumerate(sorted(boxes, key=lambda b: (b["x0"], b["y0"])))}
+    rows = []
+    for _root, nodes, colours in nets:
+        pins = sorted((n for n in nodes if n["kind"] == "pin"),
+                      key=lambda n: (order.get(n["ref"], 99), int(n["pin"]) if n["pin"].isdigit() else 0))
+        others = [n for n in nodes if n["kind"] != "pin"]
+        if not pins:
+            continue
+        hub = pins[0]
+        net = func.get((hub["ref"], hub["pin"]), "")
+        colour = " + ".join(colours)
+        rest = pins[1:] + others
+        if not rest and (hub["ref"], hub["pin"]) in SV_RESOLVED:
+            for extra in SV_RESOLVED[(hub["ref"], hub["pin"])]:
+                rows.append(dict(sheet="SV", net=net, from_ref=ref(hub["ref"]), from_pin=hub["pin"],
+                                 color=colour, awg="", protection="", review="", **extra))
+            continue
+        if not rest:
+            dest = _sv_dest_by_name(net)
+            rows.append(dict(sheet="SV", net=net, from_ref=ref(hub["ref"]), from_pin=hub["pin"],
+                             to_ref=dest or "", to_pin="", color=colour, awg="", protection="",
+                             notes=(f"{net}. Destination taken from the pin name: jacks, grips "
+                                    "and ground symbols are drawn as symbols, not connectors, so "
+                                    "the geometry cannot name them" if dest else net),
+                             review=("" if dest else
+                                     "a wire leaves this pin but its far end was not identified")))
+            continue
+        for n in rest:
+            fn = func.get((n["ref"], n["pin"]), "") if n["kind"] == "pin" else ""
+            note = f"{net} -> {fn}" if fn else net
+            if len(nodes) > 2:
+                note += f"  [{len(nodes)}-way net]"
+            rows.append(dict(sheet="SV", net=net, from_ref=ref(hub["ref"]), from_pin=hub["pin"],
+                             to_ref=ref(n["ref"]), to_pin=n["pin"], color=colour, awg="",
+                             protection="", notes=note.strip(),
+                             review=("far end named from nearby text, not a connector; confirm"
+                                     if n["kind"] == "text" else "")))
+    for region, why in (
+        ("SKYVIEW NETWORK", "the network topology (SV-NET-HUB, SV-NET-SPL, ADAHRS, EMS, knob/AP/COM "
+                            "panels, ARINC module) is drawn as a block diagram of network cables, not wires"),
+        ("ROLL AND PITCH SERVO DB-9s", "servo connectors are drawn with F/M pin columns the box detector "
+                                       "does not recognise"),
+        ("BOSE JACK / SKYVIEW NETWORK CABLE PINOUTS", "connector reference tables, not wires -- they "
+                                                     "belong in the generated CONNECTORS view"),
+    ):
+        rows.append(dict(sheet="SV", net="", from_ref=region, from_pin="", to_ref="", to_pin="",
+                         color="", awg="", protection="", notes=why, review="region not yet extracted"))
+    return rows
+
+
 EXTRACTORS = {"O2": ("MH_Oxygen.pdf", extract_mh_oxygen),
-              "PWR": ("Power__Lighting.pdf", extract_power_lighting)}
+              "PWR": ("Power__Lighting.pdf", extract_power_lighting),
+              "SV": ("SV_Interconnect.pdf", extract_sv_interconnect)}
 
 
 def main():

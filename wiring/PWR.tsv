@@ -37,7 +37,7 @@ PWR		VP-X J10	4	BOSE JACKS Pin 1		Red		5A-9	headset jack power, shares the AUDIO
 PWR		VP-X J10	5	NAV LIGHTS POWER		Red	18	10A-3		
 PWR		VP-X J10	6	PITOT HEAT POWER		Red	16	15A-1		
 PWR		VP-X J10	7	SV-XPNDR-261 J1-15		Red		5A-10		
-PWR		VP-X J10	7	SV-ADSB-470 J1-1		Red		5A-10	drawing says SV-ADSB-470; this handbook records an SV-ADSB-472 - one of them is wrong	
+PWR		VP-X J10	7	SV-ADSB-470 J1-1		Red		5A-10	drawing (2017) shows the SV-ADSB-470; it was traded in for the SV-ADSB-472 on 2019-04-02 (sys-34). A recorded modification the drawing predates	
 PWR		VP-X J10	8	MH CNTRL HEAD J1-1		Red		5A-11	matches O2 sheet: control head DB25-1 from VP-X J10-8	
 PWR		VP-X J10	8	CO DETECT J1-1		Red		5A-11	CO Guardian - sys-42 records it as removed (RMA 11096), so this branch may be dead	
 PWR		VP-X J10	9	AG		Blk	18		avionics ground point	
