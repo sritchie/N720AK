@@ -22,4 +22,8 @@ C020	2026-02	done	ONSPEED	add	ONSPEED DB25	23	ONSPEED BUTTON	NO1	PANEL SWITCH IN
 C021	2026-02	done	ONSPEED	add	ONSPEED DB25	5	ONSPEED BUTTON	-	POWER RTN GND	Blk			One ground feeds the button LED cathode, button common C1 and the pot CCW end. Date approximate.	
 C022	2026-02	done	ONSPEED	add	ONSPEED BUTTON	-	ONSPEED BUTTON	C1	POWER RTN GND	Blk			Date approximate.	
 C023	2026-02	done	ONSPEED	add	ONSPEED BUTTON	C1	ONSPEED VOLUME POT	CCW	POWER RTN GND	Blk			Date approximate.	
-C024		done	SV	add	SV-COM-PANEL DB15	7	GRIPS	COM 2 FLIP-FLOP	Ext flip/Flop				Wired since the build; the 2017 drawing omits it. Both grips in parallel.	the button's return: SV-COM-PANEL pin 3 (Ground out) or airframe ground?
+C024		done	SV	add	SV-COM-PANEL DB15	7	GRIPS	COM 2 FLIP-FLOP	Ext flip/Flop				Wired since the build; the 2017 drawing omits it. Both grips in parallel.	
+C025		done	SV	add	GRIPS	COM 2 FLIP-FLOP RTN	SV-COM-PANEL DB15	3	Ground out				Return side of the COM 2 flip/flop button, to the panel's Ground out pin. Owner's best recollection, unverified - check next time the panel is open.	
+C026	2026-02	done	ONSPEED	add	ONSPEED DB25	20	ONSPEED DB25	5	AUDIO GND	Blk			OnSpeed audio ground tied to a ground pin in the OnSpeed plug (sys-34 lists 'pilot lo' on pin 5). The GMA 245 Alert 3,4 Audio Lo (J1-43) is not connected, so the Alert 3 input is single-ended. Date approximate.	
+C027		done	SV	add	COPILOT GRIP	TRIM COMMON	COPILOT TRIM DISABLE SWITCH						A panel switch that disables the copilot grip's trim buttons by breaking their common return. Not on either SteinAir sheet.	where the switch is, and what the common returns to
+C028		done	SV	add	GRIPS	AP DISCONNECT	AP DISCONNECT (servo harness)						Autopilot disconnect on both grips in parallel, wired into the autopilot servo harness as drawn. Owner confirms it is still wired that way.	the servo harness region of the SkyView sheet is not yet extracted - this row is replaced when it is

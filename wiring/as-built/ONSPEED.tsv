@@ -11,3 +11,4 @@ ONSPEED	PANEL SWITCH IN	ONSPEED DB25	23	ONSPEED BUTTON	NO1	Brn/Wht			C020: Date 
 ONSPEED	POWER RTN GND	ONSPEED DB25	5	ONSPEED BUTTON	-	Blk			C021: One ground feeds the button LED cathode, button common C1 and the pot CCW end. Date approximate.	
 ONSPEED	POWER RTN GND	ONSPEED BUTTON	-	ONSPEED BUTTON	C1	Blk			C022: Date approximate.	
 ONSPEED	POWER RTN GND	ONSPEED BUTTON	C1	ONSPEED VOLUME POT	CCW	Blk			C023: Date approximate.	
+ONSPEED	AUDIO GND	ONSPEED DB25	20	ONSPEED DB25	5	Blk			C026: OnSpeed audio ground tied to a ground pin in the OnSpeed plug (sys-34 lists 'pilot lo' on pin 5). The GMA 245 Alert 3,4 Audio Lo (J1-43) is not connected, so the Alert 3 input is single-ended. Date approximate.	
