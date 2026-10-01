@@ -80,3 +80,39 @@ missing or two nets fusing:
 Not yet extracted from `SV`: the SkyView network block diagram, the servo DB-9s,
 and the two pinout reference tables. Then the systems no drawing covers —
 OnSpeed, wing and tailcone.
+
+## KiCad sheets
+
+```bash
+uv run python3 scripts/kicad_harness.py O2 --render
+```
+
+`scripts/kicad_harness.py` turns a wire list into a KiCad 10 sheet in
+`kicad/n720ak/`, then **proves it**: it exports the netlist with `kicad-cli`
+and diffs it, node set by node set, against the wire list it came from. A
+sheet is only correct if that diff is clean, and the generator will not
+silently produce a wrong one.
+
+| Sheet | Connectors | Wires | Nets | Verified |
+|---|---|---|---|---|
+| `O2` | 6 | 30 | 24 | clean, 0 ERC errors |
+| `PWR` | 24 | 97 | 59 | clean, 0 ERC errors |
+| `SV` | 19 | 156 | 71 | clean, 0 ERC errors |
+
+Rows still flagged for review are left off the drawings rather than drawn as
+guesses.
+
+The `.kicad_sch` files are **generated** — the title block says so. Edit the
+wire list or its extractor and regenerate; hand edits in KiCad would be lost
+and, worse, would make the drawing disagree with the source of truth.
+
+Layout: a sheet with one connector on the left is drawn with its rows lined
+up against the pins they feed, so wires run straight across the way the
+SteinAir originals read. Larger sheets are stacked, with the right column
+offset half a pitch so that no two pins share a height and every wire has its
+own lane — which makes accidental contact between wires impossible rather than
+unlikely. The generator tries the first and keeps it only if it verifies.
+
+Not yet done: a project file and root sheet tying these together as one
+hierarchical KiCad project, and a presentation pass toward Vern's look. The
+sheets are correct before they are pretty, on purpose.

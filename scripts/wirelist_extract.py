@@ -125,9 +125,10 @@ def extract_mh_oxygen(pdf):
                 # cannot express a junction dot or a shield drain.
                 key = (REF.get(gname, gname), right_pin)
                 if right_pin == "1" and (right_col or "") == "Grn":
-                    from_ref, from_pin = "O2-CABLE-SHIELD", "drain"
-                    notes = ("cable shield drain. The shield runs back to the "
-                             "control head end and bonds to case ground (CG).")
+                    from_ref, from_pin = "CG", ""
+                    notes = ("cable shield drain. Each cable's shield bonds to "
+                             "case ground (CG) at the control head end, so the "
+                             "drain is recorded as landing on CG.")
                 elif key == ("O2-REGULATOR", "9"):
                     from_ref, from_pin = "O2-CTRL-HEAD", "19"
                     notes = ("junction dot on the DB9-2 wire: regulator pins 2 "

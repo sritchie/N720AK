@@ -4,28 +4,28 @@ O2		O2-CTRL-HEAD	15	O2-HEAD-1-PILOT	2	Wht/Blu
 O2		O2-CTRL-HEAD	17	O2-HEAD-1-PILOT	3	Wht/Ora				
 O2		O2-CTRL-HEAD	25	O2-HEAD-1-PILOT	4	Wht				
 O2		O2-CTRL-HEAD	13	O2-HEAD-1-PILOT	5	Wht/Grn				
-O2		O2-CABLE-SHIELD	drain	O2-HEAD-1-PILOT	1	Grn			cable shield drain. The shield runs back to the control head end and bonds to case ground (CG).	
+O2		CG		O2-HEAD-1-PILOT	1	Grn			cable shield drain. Each cable's shield bonds to case ground (CG) at the control head end, so the drain is recorded as landing on CG.	
 O2		O2-CTRL-HEAD	1	VP-X J10-8		Red			off-drawing reference	
 O2		O2-CTRL-HEAD	16	O2-HEAD-2-COPILOT	2	Wht/Blu				
 O2		O2-CTRL-HEAD	18	O2-HEAD-2-COPILOT	3	Wht/Ora				
 O2		O2-CTRL-HEAD	24	O2-HEAD-2-COPILOT	4	Wht				
 O2		O2-CTRL-HEAD	12	O2-HEAD-2-COPILOT	5	Wht/Grn				
-O2		O2-CABLE-SHIELD	drain	O2-HEAD-2-COPILOT	1	Grn			cable shield drain. The shield runs back to the control head end and bonds to case ground (CG).	
+O2		CG		O2-HEAD-2-COPILOT	1	Grn			cable shield drain. Each cable's shield bonds to case ground (CG) at the control head end, so the drain is recorded as landing on CG.	
 O2		O2-CTRL-HEAD	14	Ground		Blk			off-drawing reference	
 O2		O2-CTRL-HEAD	3	O2-HEAD-3-PASS1	2	Wht/Blu				
 O2		O2-CTRL-HEAD	5	O2-HEAD-3-PASS1	3	Wht/Ora				
 O2		O2-CTRL-HEAD	23	O2-HEAD-3-PASS1	4	Wht				
 O2		O2-CTRL-HEAD	11	O2-HEAD-3-PASS1	5	Wht/Grn				
-O2		O2-CABLE-SHIELD	drain	O2-HEAD-3-PASS1	1	Grn			cable shield drain. The shield runs back to the control head end and bonds to case ground (CG).	
+O2		CG		O2-HEAD-3-PASS1	1	Grn			cable shield drain. Each cable's shield bonds to case ground (CG) at the control head end, so the drain is recorded as landing on CG.	
 O2		O2-CTRL-HEAD	2	O2-HEAD-4-PASS2	2	Wht/Blu				
 O2		O2-CTRL-HEAD	4	O2-HEAD-4-PASS2	3	Wht/Ora				
 O2		O2-CTRL-HEAD	22	O2-HEAD-4-PASS2	4	Wht				
 O2		O2-CTRL-HEAD	10	O2-HEAD-4-PASS2	5	Wht/Grn				
-O2		O2-CABLE-SHIELD	drain	O2-HEAD-4-PASS2	1	Grn			cable shield drain. The shield runs back to the control head end and bonds to case ground (CG).	
+O2		CG		O2-HEAD-4-PASS2	1	Grn			cable shield drain. Each cable's shield bonds to case ground (CG) at the control head end, so the drain is recorded as landing on CG.	
 O2		O2-CTRL-HEAD	19	O2-REGULATOR	9	Wht/Ora			junction dot on the DB9-2 wire: regulator pins 2 and 9 are both fed from DB25-19.	
 O2		O2-CTRL-HEAD	19	O2-REGULATOR	2	Wht/Ora				
 O2		O2-CTRL-HEAD	2	O2-REGULATOR	6	Wht/Blu			junction dot at DB25-2: shared with O2-HEAD-4-PASS2 pin 2.	
 O2		O2-CTRL-HEAD	6	O2-REGULATOR	5	Wht				
 O2		O2-CTRL-HEAD	20	O2-REGULATOR	8	Wht/Grn				
-O2		O2-CABLE-SHIELD	drain	O2-REGULATOR	1	Grn			cable shield drain. The shield runs back to the control head end and bonds to case ground (CG).	
+O2		CG		O2-REGULATOR	1	Grn			cable shield drain. Each cable's shield bonds to case ground (CG) at the control head end, so the drain is recorded as landing on CG.	
 O2		O2-CTRL-HEAD	9	GMA245 J1-44		Wht			off-drawing reference	
