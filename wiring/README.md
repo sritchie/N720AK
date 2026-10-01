@@ -55,7 +55,7 @@ inspection. `O2.tsv` has seven such rows.
 |---|---|---|---|
 | `O2` | `MH_Oxygen.pdf` | 30 | 0 |
 | `PWR` | `Power__Lighting.pdf` | 115 | 18 |
-| `SV` | `SV_Interconnect.pdf` | 175 | 19 |
+| `SV` | `SV_Interconnect.pdf` | 190 | 3 |
 
 `PWR` is not one table but several regions on a 40-inch sheet: the four VP-X
 connector tables, both switch-panel DB15s, the essential bus, the Bus Manager
@@ -76,6 +76,12 @@ missing or two nets fusing:
 - some **box outlines** are drawn as plain lines, and must be removed before
   tracing or every wire landing on them fuses
 - each pin number is printed on **both sides** of its row and is one node
+- **black** filled circles are junctions; **white** ones are headset-jack
+  contacts, read three to a jack as tip, ring and sleeve
+- **dashed rectangles** are devices (the grips); a wire ending inside one lands
+  on the button whose label sits directly above it
+- the drawing leaves sub-point gaps at some corners, so coordinates are snapped
+  per axis, and duplicated strokes are removed
 
 Not yet extracted from `SV`: the SkyView network block diagram, the servo DB-9s,
 and the two pinout reference tables. Then the systems no drawing covers —
@@ -128,3 +134,20 @@ names across sheets — the power sheet calls the right PFD's power pin
 connector as a part. Until those names agree, cross-sheet references are
 checked by eye rather than by the netlist. The sheets are correct before they
 are pretty, on purpose.
+
+## Changes since the drawings
+
+The SteinAir drawings are dated 2017. `changes.tsv` records every modification
+since, numbered and dated; `scripts/wirelist_changes.py` applies them to give
+`as-built/<SHEET>.tsv`, and the KiCad sheets are drawn from the as-built lists.
+
+| Action | Effect |
+|---|---|
+| `add` | a new wire |
+| `remove` | delete the wire between two pins |
+| `disconnect` | take a pin out of its net; the rest of the net stays joined |
+| `rename` | a box replaced by its successor, wiring unchanged |
+
+A change that no longer matches anything stops the build, so re-running an
+extractor can never silently put the old wiring back. Only `done` changes are
+applied; `planned` ones are recorded but do not alter the drawings.

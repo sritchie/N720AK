@@ -532,6 +532,17 @@ SV_RESOLVED = {
     ("GTN P1001", "62"): [dict(to_ref="GTN CONFIG MODULE", to_pin="", notes="Config Mod Data")],
     ("GTN P1001", "65"): [dict(to_ref="GTN CONFIG MODULE", to_pin="", notes="Config Mod Power")],
     ("GTN P1001", "43"): [dict(to_ref="GTN FAN", to_pin="", notes="Fan Ground")],
+    ("GTN P1001", "63"): [dict(to_ref="GTN CONFIG MODULE", to_pin="", notes="Config Mod Clock")],
+    ("GTN P1001", "64"): [dict(to_ref="GTN CONFIG MODULE", to_pin="", notes="Config Mod Ground")],
+    ("GTN P1001", "58"): [dict(to_ref="GTN FAN", to_pin="", notes="Fan Tach In")],
+    ("GTN P1001", "59"): [dict(to_ref="GTN FAN", to_pin="", notes="Fan Power")],
+    ("ARTEX 345 ELT DB15", "8"): [dict(to_ref="ELT BUZZER", to_pin="", notes="Buzzer Power Out")],
+    ("SV-AP-PANEL DB-15", "7"): [dict(to_ref="PITCH TRIM SERVO MOTOR", to_pin="1", notes="Pitch Trim Motor Output 1")],
+    ("SV-AP-PANEL DB-15", "8"): [dict(to_ref="PITCH TRIM SERVO MOTOR", to_pin="2", notes="Pitch Trim Motor Output 2")],
+    ("SV-AP-PANEL DB-15", "14"): [dict(to_ref="ROLL TRIM SERVO MOTOR", to_pin="1", notes="Roll Trim Motor Output 1")],
+    ("SV-AP-PANEL DB-15", "15"): [dict(to_ref="ROLL TRIM SERVO MOTOR", to_pin="2", notes="Roll Trim Motor Output 2")],
+    ("GMA245 J2", "20"): [dict(to_ref="GRIPS", to_pin="COM SWAP",
+                               notes="COM Swap button on the grips, drawn as an off-sheet arrow")],
 }
 
 
@@ -567,6 +578,39 @@ def extract_sv_interconnect(pdf):
             return f"{head} ({sup}) {tail}".strip()
         return b
 
+    # Name each headset jack by the GMA 245 function on its tip, numbering
+    # the passenger jacks (two phone jacks share one set of pins) top to bottom.
+    jack_fn = {}
+    for _root, nodes, _c in nets:
+        gma = [func.get((n["ref"], n["pin"]), "") for n in nodes if n["kind"] == "pin" and "GMA245" in n["ref"]]
+        for n in nodes:
+            if n["ref"].startswith("JACK@") and n["pin"] == "T" and gma:
+                jack_fn[n["ref"]] = gma[0]
+    def jack_name(fn):
+        f = fn.lower().replace("coplilot", "copilot")
+        who = ("COPILOT" if f.startswith("copilot") else "PILOT" if f.startswith("pilot")
+               else "PASSENGER" if f.startswith("pass") else "?")
+        kind = "PHONE" if "phone" in f else "MIC" if "mic" in f else "?"
+        return f"{who} {kind} JACK"
+    rename, used = {}, collections.Counter()
+    for jref in sorted(jack_fn, key=lambda r: tuple(int(v) for v in r[5:].split(","))[::-1]):
+        base = jack_name(jack_fn[jref])
+        used[base] += 1
+        rename[jref] = base
+    dup = {b for b, n in used.items() if n > 1}
+    seen = collections.Counter()
+    for jref in sorted(rename, key=lambda r: int(r[5:].split(",")[1])):
+        if rename[jref] in dup:
+            seen[rename[jref]] += 1
+            rename[jref] = f"{rename[jref]} {seen[rename[jref]]}"
+    for _root, nodes, _c in nets:
+        for n in nodes:
+            if n["ref"] in rename:
+                n["ref"] = rename[n["ref"]]
+    # jack contacts with no wire (the passenger mic jacks' rings) are not wires
+    nets = [(r, nd, c) for r, nd, c in nets
+            if not (len(nd) == 1 and nd[0]["ref"].endswith("JACK") or len(nd) == 1 and " JACK " in nd[0]["ref"])]
+
     order = {b["name"]: i for i, b in enumerate(sorted(boxes, key=lambda b: (b["x0"], b["y0"])))}
     rows = []
     for _root, nodes, colours in nets:
@@ -579,7 +623,7 @@ def extract_sv_interconnect(pdf):
         net = func.get((hub["ref"], hub["pin"]), "")
         colour = " + ".join(colours)
         rest = pins[1:] + others
-        if not rest and (hub["ref"], hub["pin"]) in SV_RESOLVED:
+        if (hub["ref"], hub["pin"]) in SV_RESOLVED:
             for extra in SV_RESOLVED[(hub["ref"], hub["pin"])]:
                 rows.append(dict(sheet="SV", net=net, from_ref=ref(hub["ref"]), from_pin=hub["pin"],
                                  color=colour, awg="", protection="", review="", **extra))
@@ -596,6 +640,8 @@ def extract_sv_interconnect(pdf):
             continue
         for n in rest:
             fn = func.get((n["ref"], n["pin"]), "") if n["kind"] == "pin" else ""
+            if n["kind"] == "text" and n["ref"] in ("AG", "CG"):
+                n = dict(n, kind="label")      # a ground symbol: AG avionics, CG case
             note = f"{net} -> {fn}" if fn else net
             if len(nodes) > 2:
                 note += f"  [{len(nodes)}-way net]"

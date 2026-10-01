@@ -1,10 +1,17 @@
 sheet	net	from_ref	from_pin	to_ref	to_pin	color	awg	protection	notes	review
-SV	Pilot Mic Hi	GMA245 J1	33	PILOT HEADSET JACK (mic)		Wht			Pilot Mic Hi. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Mic PTT	GMA245 J1	34	PILOT HEADSET JACK (mic)		Wht/Ora			Pilot Mic PTT. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Mic Lo	GMA245 J1	35	PILOT HEADSET JACK (mic)		Blk + Wht/ + Wht/Blu			Pilot Mic Lo. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. Phones R	GMA245 J1	41	PASSENGER HEADSET JACK (phones)		Wht/Ora			Pass. Phones R. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. Phone L	GMA245 J1	40	PASSENGER HEADSET JACK (phones)		Wht			Pass. Phone L. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. Phone Lo	GMA245 J1	42	PASSENGER HEADSET JACK (phones)		Wht/Blu			Pass. Phone Lo. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
+SV	Pilot Mic Hi	GMA245 J1	33	PILOT MIC JACK	T	Wht			Pilot Mic Hi  [3-way net]	
+SV	Pilot Mic Hi	GMA245 J1	33	PILOT BOSE	5	Wht			Pilot Mic Hi  [3-way net]	
+SV	Pilot Mic PTT	GMA245 J1	34	PILOT MIC JACK	R	Wht + Wht/Ora			Pilot Mic PTT  [3-way net]	
+SV	Pilot Mic PTT	GMA245 J1	34	PILOT GRIP	PTT-2	Wht + Wht/Ora			Pilot Mic PTT  [3-way net]	
+SV	Pilot Mic Lo	GMA245 J1	35	PILOT MIC JACK	S	Blk + Wht/ + Wht/Blu			Pilot Mic Lo  [4-way net]	
+SV	Pilot Mic Lo	GMA245 J1	35	PILOT GRIP	PTT-1	Blk + Wht/ + Wht/Blu			Pilot Mic Lo  [4-way net]	
+SV	Pilot Mic Lo	GMA245 J1	35	PILOT BOSE	6	Blk + Wht/ + Wht/Blu			Pilot Mic Lo  [4-way net]	
+SV	Pass. Phones R	GMA245 J1	41	PASSENGER PHONE JACK 1	T	Wht/Ora			Pass. Phones R  [3-way net]	
+SV	Pass. Phones R	GMA245 J1	41	PASSENGER PHONE JACK 2	T	Wht/Ora			Pass. Phones R  [3-way net]	
+SV	Pass. Phone L	GMA245 J1	40	PASSENGER PHONE JACK 1	R	Wht			Pass. Phone L  [3-way net]	
+SV	Pass. Phone L	GMA245 J1	40	PASSENGER PHONE JACK 2	R	Wht			Pass. Phone L  [3-way net]	
+SV	Pass. Phone Lo	GMA245 J1	42	PASSENGER PHONE JACK 1	S	Wht/Blu			Pass. Phone Lo  [3-way net]	
+SV	Pass. Phone Lo	GMA245 J1	42	PASSENGER PHONE JACK 2	S	Wht/Blu			Pass. Phone Lo  [3-way net]	
 SV	Com 1 Audio Hi	GMA245 J1	9	GTN 650 P1003	7	Wht			Com 1 Audio Hi -> Com Audio HI	
 SV	Com 1 Lo	GMA245 J1	10	GTN 650 P1003	18	Wht/Blu			Com 1 Lo -> Com Audio Lo  [3-way net]	
 SV	Com 1 Lo	GMA245 J1	10	GTN 650 P1003	20	Wht/Blu			Com 1 Lo -> Com Mic Audio Lo  [3-way net]	
@@ -21,20 +28,17 @@ SV	Alert 1 Audio Hi	GMA245 J1	31	GTN P1001	4	Wht			Alert 1 Audio Hi -> Audio Out
 SV	Alert 1 Audio Lo	GMA245 J1	32	GTN P1001	23	Wht/Blu			Alert 1 Audio Lo -> Audio Out Lo	
 SV	Alert 3 Audio Hi	GMA245 J1	29	CO DETECTOR 452-101-011 DB9	6	Wht			Alert 3 Audio Hi -> Audio	
 SV	Alert 4 Audio Hi	GMA245 J1	44	MH OXYGEN CONTROL HEAD	DB25-9	Wht			Alert 4 Audio Hi. Matches the O2 sheet independently: control head DB25-9 -> GMA245 J1-44	
-SV	POWER	GTN 650 P1003	30	GTN 650 P1003	43	Red			POWER -> POWER  [4-way net]	
-SV	POWER	GTN 650 P1003	30	GTN 650 P1003	44	Red			POWER -> POWER  [4-way net]	
-SV	POWER	GTN 650 P1003	30	COM PWR		Red			POWER  [4-way net]	far end named from nearby text, not a connector; confirm
+SV	POWER	GTN 650 P1003	30	GTN 650 P1003	43	Red			POWER -> POWER  [3-way net]	
+SV	POWER	GTN 650 P1003	30	GTN 650 P1003	44	Red			POWER -> POWER  [3-way net]	
 SV	GROUND	GTN 650 P1003	37	GTN 650 P1003	38	Blk			GROUND -> GROUND  [3-way net]	
 SV	GROUND	GTN 650 P1003	37	GTN 650 P1003	40	Blk			GROUND -> GROUND  [3-way net]	
-SV	Com Remote Transfer	GTN 650 P1003	27	COM 1 G		Wht/Brn			Com Remote Transfer	far end named from nearby text, not a connector; confirm
-SV	POWER 1	GTN P1001	19	GTN P1001	20	Red			POWER 1 -> POWER 1  [5-way net]	
-SV	POWER 1	GTN P1001	19	GTN P1004	51	Red			POWER 1 -> Power  [5-way net]	
-SV	POWER 1	GTN P1001	19	GTN P1004	52	Red			POWER 1 -> Power  [5-way net]	
-SV	POWER 1	GTN P1001	19	NAV PWR		Red			POWER 1  [5-way net]	far end named from nearby text, not a connector; confirm
-SV	GROUND	GTN P1001	77	GTN P1001	78	Blk			GROUND -> GROUND  [5-way net]	
-SV	GROUND	GTN P1001	77	GTN P1004	61	Blk			GROUND -> Ground  [5-way net]	
-SV	GROUND	GTN P1001	77	GTN P1004	62	Blk			GROUND -> Ground  [5-way net]	
-SV	GROUND	GTN P1001	77	AG		Blk			GROUND  [5-way net]	far end named from nearby text, not a connector; confirm
+SV	Com Remote Transfer	GTN 650 P1003	27	GRIPS	COM 1	Wht/Brn			Com Remote Transfer	
+SV	POWER 1	GTN P1001	19	GTN P1001	20	Red			POWER 1 -> POWER 1  [4-way net]	
+SV	POWER 1	GTN P1001	19	GTN P1004	51	Red			POWER 1 -> Power  [4-way net]	
+SV	POWER 1	GTN P1001	19	GTN P1004	52	Red			POWER 1 -> Power  [4-way net]	
+SV	GROUND	GTN P1001	77	GTN P1001	78	Blk			GROUND -> GROUND  [4-way net]	
+SV	GROUND	GTN P1001	77	GTN P1004	61	Blk			GROUND -> Ground  [4-way net]	
+SV	GROUND	GTN P1001	77	GTN P1004	62	Blk			GROUND -> Ground  [4-way net]	
 SV	GPS RS-232 Out 1	GTN P1001	8	Skyview ARINC DB25	3	Wht			GPS RS-232 Out 1 -> Serial In	
 SV	GPS RS-232 Out 2	GTN P1001	7	R-XPNDR-GPS (1.21 kOhm series resistor)	1	Wht			GPS RS-232 Out 2 to the transponder through an in-line 1.21 kOhm resistor, drawn as a zigzag mid-run. A real component in the harness, invisible to pin-to-pin tracing.	
 SV	GPS RS-232 Out 3	GTN P1001	6	ARTEX 345 ELT DB15	9	Wht			GPS RS-232 Out 3 -> Serial GPS Data In	
@@ -49,28 +53,38 @@ SV	GPS ARINC 429 OUT 1B	GTN P1001	29	Skyview ARINC DB25	11	Wht/Blu			GPS ARINC 4
 SV	GPS ARINC 429 IN 1A	GTN P1001	48	Skyview ARINC DB25	24	Wht			GPS ARINC 429 IN 1A -> ARINC TX A	
 SV	GPS ARINC 429 IN 1B	GTN P1001	67	Skyview ARINC DB25	12	Wht/Blu			GPS ARINC 429 IN 1B -> ARINC TX B	
 SV	Config Mod Data	GTN P1001	62	GTN CONFIG MODULE		Yel			Config Mod Data	
-SV	Config Mod Clock	GTN P1001	63	Config		Wht			Config Mod Clock	far end named from nearby text, not a connector; confirm
-SV	Config Mod Ground	GTN P1001	64	Module		Blk			Config Mod Ground	far end named from nearby text, not a connector; confirm
+SV	Config Mod Clock	GTN P1001	63	GTN CONFIG MODULE		Wht			Config Mod Clock	
+SV	Config Mod Ground	GTN P1001	64	GTN CONFIG MODULE		Blk			Config Mod Ground	
 SV	Config Mod Power	GTN P1001	65	GTN CONFIG MODULE		Red			Config Mod Power	
 SV	Fan Ground	GTN P1001	43	GTN FAN		Blk			Fan Ground	
-SV	Fan Tach In	GTN P1001	58	58 Fan		Yel			Fan Tach In	far end named from nearby text, not a connector; confirm
-SV	Fan Power	GTN P1001	59	58 Fan		Red			Fan Power	far end named from nearby text, not a connector; confirm
+SV	Fan Tach In	GTN P1001	58	GTN FAN		Yel			Fan Tach In	
+SV	Fan Power	GTN P1001	59	GTN FAN		Red			Fan Power	
 SV	VOR/ILS Arinc Out A	GTN P1004	24	Skyview ARINC DB25	22	Wht			VOR/ILS Arinc Out A -> ARINC RX 2A	
 SV	VOR/ILS Arinc Out B	GTN P1004	23	Skyview ARINC DB25	10	Wht/Blu			VOR/ILS Arinc Out B -> ARINC RX 2B	
-SV	Pilot Phones R	GMA245 J2	31	PILOT HEADSET JACK (phones)		Wht/Ora			Pilot Phones R. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Phones L	GMA245 J2	16	PILOT HEADSET JACK (phones)		Wht			Pilot Phones L. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Phones Lo	GMA245 J2	1	PILOT HEADSET JACK (phones)		Blk + Wht/Blu			Pilot Phones Lo. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	CoPilot Phones R	GMA245 J2	4	COPILOT HEADSET JACK (phones)		Wht/Ora			CoPilot Phones R. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	CoPlilot Phones L	GMA245 J2	3	COPILOT HEADSET JACK (phones)		Wht			CoPlilot Phones L. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	CoPilot Phones Lo	GMA245 J2	2	COPILOT HEADSET JACK (phones)		Blk + Wht/Blu			CoPilot Phones Lo. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. Mic Hi	GMA245 J2	35	PASSENGER HEADSET JACK (mic)		Wht			Pass. Mic Hi. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. Mic Lo	GMA245 J2	36	PASSENGER HEADSET JACK (mic)		Wht/Blu			Pass. Mic Lo. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. 2 Mic Hi	GMA245 J2	37	PASSENGER HEADSET JACK (mic)		Wht			Pass. 2 Mic Hi. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pass. 2 Mic Lo	GMA245 J2	38	PASSENGER HEADSET JACK (mic)		Wht/Blu			Pass. 2 Mic Lo. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Copilot Mic HI	GMA245 J2	32	COPILOT HEADSET JACK (mic)		Wht			Copilot Mic HI. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	CoPilot Mic PTT	GMA245 J2	33	COPILOT HEADSET JACK (mic)		Wht + Wht/Ora			CoPilot Mic PTT. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	CoPilot Mic Lo	GMA245 J2	34	S 15		Blk + Wht/ + Wht/Blu			CoPilot Mic Lo	far end named from nearby text, not a connector; confirm
-SV	COM Swap	GMA245 J2	20	GRIPS		Wht/Grn			COM Swap	far end named from nearby text, not a connector; confirm
+SV	Pilot Phones R	GMA245 J2	31	PILOT PHONE JACK	T	Wht/Ora			Pilot Phones R  [3-way net]	
+SV	Pilot Phones R	GMA245 J2	31	PILOT BOSE	4	Wht/Ora			Pilot Phones R  [3-way net]	
+SV	Pilot Phones L	GMA245 J2	16	PILOT PHONE JACK	R	Wht			Pilot Phones L  [3-way net]	
+SV	Pilot Phones L	GMA245 J2	16	PILOT BOSE	3	Wht			Pilot Phones L  [3-way net]	
+SV	Pilot Phones Lo	GMA245 J2	1	PILOT PHONE JACK	S	Blk + Wht/Blu			Pilot Phones Lo  [3-way net]	
+SV	Pilot Phones Lo	GMA245 J2	1	PILOT BOSE	2	Blk + Wht/Blu			Pilot Phones Lo  [3-way net]	
+SV	CoPilot Phones R	GMA245 J2	4	COPILOT PHONE JACK	T	Wht/Ora			CoPilot Phones R  [3-way net]	
+SV	CoPilot Phones R	GMA245 J2	4	COPILOT BOSE	4	Wht/Ora			CoPilot Phones R  [3-way net]	
+SV	CoPlilot Phones L	GMA245 J2	3	COPILOT PHONE JACK	R	Wht			CoPlilot Phones L  [3-way net]	
+SV	CoPlilot Phones L	GMA245 J2	3	COPILOT BOSE	3	Wht			CoPlilot Phones L  [3-way net]	
+SV	CoPilot Phones Lo	GMA245 J2	2	COPILOT PHONE JACK	S	Blk + Wht/Blu			CoPilot Phones Lo  [3-way net]	
+SV	CoPilot Phones Lo	GMA245 J2	2	COPILOT BOSE	2	Blk + Wht/Blu			CoPilot Phones Lo  [3-way net]	
+SV	Pass. Mic Hi	GMA245 J2	35	PASSENGER MIC JACK 1	T	Wht			Pass. Mic Hi	
+SV	Pass. Mic Lo	GMA245 J2	36	PASSENGER MIC JACK 1	S	Wht/Blu			Pass. Mic Lo	
+SV	Pass. 2 Mic Hi	GMA245 J2	37	PASSENGER MIC JACK 2	T	Wht			Pass. 2 Mic Hi	
+SV	Pass. 2 Mic Lo	GMA245 J2	38	PASSENGER MIC JACK 2	S	Wht/Blu			Pass. 2 Mic Lo	
+SV	Copilot Mic HI	GMA245 J2	32	COPILOT MIC JACK	T	Wht			Copilot Mic HI  [3-way net]	
+SV	Copilot Mic HI	GMA245 J2	32	COPILOT BOSE	5	Wht			Copilot Mic HI  [3-way net]	
+SV	CoPilot Mic PTT	GMA245 J2	33	COPILOT MIC JACK	R	Wht + Wht/Ora			CoPilot Mic PTT  [3-way net]	
+SV	CoPilot Mic PTT	GMA245 J2	33	COPILOT GRIP	PTT-1	Wht + Wht/Ora			CoPilot Mic PTT  [3-way net]	
+SV	CoPilot Mic Lo	GMA245 J2	34	COPILOT MIC JACK	S	Blk + Wht/ + Wht/Blu			CoPilot Mic Lo  [4-way net]	
+SV	CoPilot Mic Lo	GMA245 J2	34	COPILOT GRIP	PTT-2	Blk + Wht/ + Wht/Blu			CoPilot Mic Lo  [4-way net]	
+SV	CoPilot Mic Lo	GMA245 J2	34	COPILOT BOSE	6	Blk + Wht/ + Wht/Blu			CoPilot Mic Lo  [4-way net]	
+SV	COM Swap	GMA245 J2	20	GRIPS	COM SWAP	Wht/Grn			COM Swap button on the grips, drawn as an off-sheet arrow	
 SV	11-33 VDC	GMA245 J2	8	GMA245 J2	9	Red			11-33 VDC -> 11-33 VDC  [3-way net]	
 SV	11-33 VDC	GMA245 J2	8	VP-X J10-4		Red			11-33 VDC  [3-way net]	
 SV	Ground	GMA245 J2	10	GMA245 J2	11	Blk			Ground -> Ground	
@@ -89,7 +103,7 @@ SV	SV-COM-PANEL DATA IN	SV-COM C25 DB15	6	SV-COM-PANEL DB15	4				SV-COM-PANEL DA
 SV	SV COM DATA OUT	SV-COM C25 DB15	14	SV-COM-PANEL DB15	5				SV COM DATA OUT -> Panel TX/425 RX	
 SV	SV COM PANEL ENABLE	SV-COM C25 DB15	3	SV-COM-PANEL DB15	6				SV COM PANEL ENABLE -> Enable	
 SV	POWER IN	SV-COM C25 DB15	8	VP-X J12-7		Red			POWER IN	
-SV	GROUND IN	SV-COM C25 DB15	12	GROUND		Blk			GROUND IN. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
+SV	GROUND IN	SV-COM C25 DB15	12	AG		Blk			GROUND IN	
 SV	Serial 2 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	5	SV-HDX1100 (PFD - LEFT #1) DB37	5	Yel + Yel/Vio			Serial 2 RX -> Serial 2 RX  [4-way net]	
 SV	Serial 2 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	5	SV-ADSB-470 DB9	3	Yel + Yel/Vio			Serial 2 RX -> SERIAL TX  [4-way net]	
 SV	Serial 2 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	5	SV-HDX800 (MFD – CENTER #2) DB37	5	Yel + Yel/Vio			Serial 2 RX -> Serial 2 RX  [4-way net]	
@@ -97,14 +111,14 @@ SV	Serial 2 TX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	6	SV-HDX1100 (PFD - LEFT #1) 
 SV	Serial 2 TX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	6	SV-ADSB-470 DB9	2	Wht/Yel + Yel/Ora			Serial 2 TX -> SERIAL RX  [4-way net]	
 SV	Serial 2 TX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	6	SV-HDX800 (MFD – CENTER #2) DB37	6	Wht/Yel + Yel/Ora			Serial 2 TX -> Serial 2 TX  [4-way net]	
 SV	Power	SV-ADSB-470 DB9	1	VP-X J10-7		Red			Power	
-SV	Ground	SV-ADSB-470 DB9	4	GROUND		Blk			Ground. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
+SV	Ground	SV-ADSB-470 DB9	4	AG		Blk			Ground	
 SV	USB Power	SV-HDX1100 (PFD2 – RIGHT #3) DB37	16	USB Socket		Red			USB Power	
 SV	USB Ground (withshield)	SV-HDX1100 (PFD2 – RIGHT #3) DB37	17	USB Socket		Blk			USB Ground (withshield)	
 SV	USB Data -	SV-HDX1100 (PFD2 – RIGHT #3) DB37	18	USB Socket		Wht			USB Data -	
 SV	USB Data +	SV-HDX1100 (PFD2 – RIGHT #3) DB37	19	USB Socket		Grn			USB Data +	
 SV	POWER	SV-HDX1100 (PFD2 – RIGHT #3) DB37	1	SV-HDX1100 (PFD2 – RIGHT #3) DB37	20	Red			POWER -> POWER  [3-way net]	
 SV	POWER	SV-HDX1100 (PFD2 – RIGHT #3) DB37	1	VP-X J10-2		Red			POWER  [3-way net]	
-SV	GROUND	SV-HDX1100 (PFD2 – RIGHT #3) DB37	21	GROUND		Blk			GROUND. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
+SV	GROUND	SV-HDX1100 (PFD2 – RIGHT #3) DB37	21	AG		Blk			GROUND	
 SV	GROUND	SV-HDX1100 (PFD2 – RIGHT #3) DB37	22	GROUND					GROUND. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
 SV	Serial 1 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	3	SV-HDX1100 (PFD - LEFT #1) DB37	3	Brn + Brn/Vio			Serial 1 RX -> Serial 1 RX  [4-way net]	
 SV	Serial 1 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	3	SV-HDX800 (MFD – CENTER #2) DB37	3	Brn + Brn/Vio			Serial 1 RX -> Serial 1 RX  [4-way net]	
@@ -137,40 +151,41 @@ SV	USB Ground (withshield)	SV-HDX1100 (PFD - LEFT #1) DB37	17	USB Socket		Blk			
 SV	USB Data -	SV-HDX1100 (PFD - LEFT #1) DB37	18	USB Socket		Wht			USB Data -	
 SV	USB Data +	SV-HDX1100 (PFD - LEFT #1) DB37	19	USB Socket		Grn			USB Data +	
 SV	G-Switch Loop	ARTEX 345 ELT DB15	5	ARTEX 345 ELT DB15	12				G-Switch Loop -> G-Switch Loop	
-SV	Buzzer Power Out	ARTEX 345 ELT DB15	8	Buzzer 8					Buzzer Power Out	far end named from nearby text, not a connector; confirm
+SV	Buzzer Power Out	ARTEX 345 ELT DB15	8	ELT BUZZER					Buzzer Power Out	
 SV	2-Wire Remote Switch	ARTEX 345 ELT DB15	3	7 8		Wht/Blu			2-Wire Remote Switch	
 SV	External On	ARTEX 345 ELT DB15	14	7 8		Wht/Ora			External On	
 SV	Ground	ARTEX 345 ELT DB15	7	GROUND					Ground. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Ground	Skyview ARINC DB25	20	GROUND		Blk			Ground. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	GROUND	SV-HDX800 (MFD – CENTER #2) DB37	21	SV-HDX800 (MFD – CENTER #2) DB37	22	Blk			GROUND -> GROUND  [3-way net]	
-SV	GROUND	SV-HDX800 (MFD – CENTER #2) DB37	21	AG 22		Blk			GROUND  [3-way net]	far end named from nearby text, not a connector; confirm
+SV	Ground	Skyview ARINC DB25	20	AG		Blk			Ground	
+SV	GROUND	SV-HDX800 (MFD – CENTER #2) DB37	21	SV-HDX800 (MFD – CENTER #2) DB37	22	Blk			GROUND -> GROUND	
 SV	POWER	SV-HDX800 (MFD – CENTER #2) DB37	1	SV-HDX800 (MFD – CENTER #2) DB37	20	Red			POWER -> POWER  [3-way net]	
 SV	POWER	SV-HDX800 (MFD – CENTER #2) DB37	1	VP-X J12-9		Red			POWER  [3-way net]	
 SV	USB Power	SV-HDX800 (MFD – CENTER #2) DB37	16	USB Socket		Red			USB Power	
 SV	USB Ground (withshield)	SV-HDX800 (MFD – CENTER #2) DB37	17	USB Socket		Blk			USB Ground (withshield)	
 SV	USB Data -	SV-HDX800 (MFD – CENTER #2) DB37	18	USB Socket		Wht			USB Data -	
 SV	USB Data +	SV-HDX800 (MFD – CENTER #2) DB37	19	USB Socket		Grn			USB Data +	
-SV	GROUND	SV-XPNDR-261 DB-25M	14	GROUND		Blk			GROUND. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
+SV	GROUND	SV-XPNDR-261 DB-25M	14	AG		Blk			GROUND	
 SV	GPS In (ADS-B)	SV-XPNDR-261 DB-25M	3	R-XPNDR-GPS (1.21 kOhm series resistor)	2				GPS In (ADS-B) from the GTN, through the in-line 1.21 kOhm resistor	
-SV	Jumper	SV-XPNDR-261 DB-25M	1	SV-XPNDR-261 DB-25M	2				Jumper -> Jumper	
-SV	Jumper	SV-XPNDR-261 DB-25M	12	SV-XPNDR-261 DB-25M	13				Jumper -> Jumper	
+SV	Jumper	SV-XPNDR-261 DB-25M	1	SV-XPNDR-261 DB-25M	2	Yel			Jumper -> Jumper	
+SV	Jumper	SV-XPNDR-261 DB-25M	12	SV-XPNDR-261 DB-25M	13	Yel			Jumper -> Jumper	
 SV	POWER	SV-XPNDR-261 DB-25M	15	VP-X J10-7		Red			POWER	
 SV	Power	CO DETECTOR 452-101-011 DB9	1	VP-X J10-8		Red			Power	
-SV	Ground	CO DETECTOR 452-101-011 DB9	5	GROUND		Blk			Ground. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Ground -	SV-AP-PANEL DB-15	2	GROUND		Blk			Ground -. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pitch Trim Motor Output 1	SV-AP-PANEL DB-15	7	PITCH TRIM SERVO		Wht			Pitch Trim Motor Output 1	far end named from nearby text, not a connector; confirm
-SV	Pitch Trim Motor Output 2	SV-AP-PANEL DB-15	8	MOTOR INPUT		Wht			Pitch Trim Motor Output 2	far end named from nearby text, not a connector; confirm
+SV	Ground	CO DETECTOR 452-101-011 DB9	5	AG		Blk			Ground	
+SV	Ground -	SV-AP-PANEL DB-15	2	AG		Blk			Ground -	
+SV	Pitch Trim Motor Output 1	SV-AP-PANEL DB-15	7	PITCH TRIM SERVO MOTOR	1	Wht			Pitch Trim Motor Output 1	
+SV	Pitch Trim Motor Output 2	SV-AP-PANEL DB-15	8	PITCH TRIM SERVO MOTOR	2	Wht			Pitch Trim Motor Output 2	
 SV	Power In +	SV-AP-PANEL DB-15	9	VP-X J12-10		Red			Power In +	
-SV	Roll Trim Motor Output 1	SV-AP-PANEL DB-15	14	ROLL TRIM SERVO		Wht			Roll Trim Motor Output 1	far end named from nearby text, not a connector; confirm
-SV	Roll Trim Motor Output 2	SV-AP-PANEL DB-15	15	MOTOR INPUT		Wht			Roll Trim Motor Output 2	far end named from nearby text, not a connector; confirm
-SV	Pilot Trim Up Button	SV-AP-PANEL DB-15	3	PILOT GRIP		Blu			Pilot Trim Up Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Trim Down Button	SV-AP-PANEL DB-15	4	PILOT GRIP		Brn			Pilot Trim Down Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Trim Right Button	SV-AP-PANEL DB-15	10	PILOT GRIP		Grn			Pilot Trim Right Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Pilot Trim Left Button	SV-AP-PANEL DB-15	11	PILOT GRIP		Red			Pilot Trim Left Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Copilot Trim Up Button	SV-AP-PANEL DB-15	5	COPILOT GRIP		Blu			Copilot Trim Up Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Copilot Trim Down Button	SV-AP-PANEL DB-15	6	COPILOT GRIP		Brn			Copilot Trim Down Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Copilot Trim Right Button	SV-AP-PANEL DB-15	12	COPILOT GRIP		Grn			Copilot Trim Right Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
-SV	Copilot Trim Left Button	SV-AP-PANEL DB-15	13	COPILOT GRIP		Red			Copilot Trim Left Button. Destination taken from the pin name: jacks, grips and ground symbols are drawn as symbols, not connectors, so the geometry cannot name them	
+SV	Roll Trim Motor Output 1	SV-AP-PANEL DB-15	14	ROLL TRIM SERVO MOTOR	1	Wht			Roll Trim Motor Output 1	
+SV	Roll Trim Motor Output 2	SV-AP-PANEL DB-15	15	ROLL TRIM SERVO MOTOR	2	Wht			Roll Trim Motor Output 2	
+SV	Pilot Trim Up Button	SV-AP-PANEL DB-15	3	PILOT GRIP	UP	Blu			Pilot Trim Up Button	
+SV	Pilot Trim Down Button	SV-AP-PANEL DB-15	4	PILOT GRIP	DOWN	Brn			Pilot Trim Down Button	
+SV	Pilot Trim Right Button	SV-AP-PANEL DB-15	10	PILOT GRIP	RIGHT	Grn			Pilot Trim Right Button	
+SV	Pilot Trim Left Button	SV-AP-PANEL DB-15	11	PILOT GRIP	LEFT	Red			Pilot Trim Left Button	
+SV	Copilot Trim Up Button	SV-AP-PANEL DB-15	5	COPILOT GRIP	UP	Blu			Copilot Trim Up Button	
+SV	Copilot Trim Down Button	SV-AP-PANEL DB-15	6	COPILOT GRIP	DOWN	Brn			Copilot Trim Down Button	
+SV	Copilot Trim Right Button	SV-AP-PANEL DB-15	12	COPILOT GRIP	RIGHT	Grn			Copilot Trim Right Button	
+SV	Copilot Trim Left Button	SV-AP-PANEL DB-15	13	COPILOT GRIP	LEFT	Red			Copilot Trim Left Button	
+SV		PILOT BOSE	1	COPILOT BOSE	1	Red			[3-way net]	
+SV		PILOT BOSE	1	VP-X J10-4		Red			[3-way net]	
 SV		SKYVIEW NETWORK							the network topology (SV-NET-HUB, SV-NET-SPL, ADAHRS, EMS, knob/AP/COM panels, ARINC module) is drawn as a block diagram of network cables, not wires	region not yet extracted
 SV		ROLL AND PITCH SERVO DB-9s							servo connectors are drawn with F/M pin columns the box detector does not recognise	region not yet extracted
 SV		BOSE JACK / SKYVIEW NETWORK CABLE PINOUTS							connector reference tables, not wires -- they belong in the generated CONNECTORS view	region not yet extracted

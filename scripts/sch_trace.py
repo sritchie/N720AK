@@ -31,6 +31,7 @@ belongs to a pin when it ends on a column's outer edge at that pin's row.
 """
 
 import collections
+import re
 
 EPS = 0.6
 
@@ -52,8 +53,20 @@ class UF:
             self.p[ra] = rb
 
 
+JACKS, DASHED = [], []          # filled in by load(); see below
+
+
 def load(pdf, max_width=1.5):
-    """Return (segments, rects, dots, words) for page 1."""
+    """Return (segments, rects, dots, words) for page 1.
+
+    Also fills the module-level JACKS (centres of jack contacts) and DASHED
+    (dashed enclosures) lists. Two kinds of small filled circle look alike
+    and must not be confused: BLACK ones are junction dots, WHITE ones are the
+    contacts of a headset jack. Counting the white ones as junctions was an
+    early bug.
+    """
+    JACKS.clear()
+    DASHED.clear()
     import pymupdf
     page = pymupdf.open(pdf)[0]
     segs, rects, dots = [], [], []
@@ -70,7 +83,14 @@ def load(pdf, max_width=1.5):
         r = d["rect"]
         if (d.get("fill") is not None and r.width < 8 and r.height < 8
                 and any(it[0] == "c" for it in d["items"])):
-            dots.append(((r.x0 + r.x1) / 2, (r.y0 + r.y1) / 2))
+            c = ((r.x0 + r.x1) / 2, (r.y0 + r.y1) / 2)
+            if max(d["fill"]) < 0.5:
+                dots.append(c)
+            elif 3.5 < r.width < 6:
+                JACKS.append(c)
+        if str(d.get("dashes") or "[] 0").strip() not in ("[] 0", "[]") and \
+                any(it[0] == "re" for it in d["items"]):
+            DASHED.append(r)
         dashed = str(d.get("dashes") or "[] 0").strip() not in ("[] 0", "[]")
         for it in d["items"]:
             if it[0] == "l" and (d.get("width") or 0) < max_width and not dashed:
@@ -82,6 +102,11 @@ def load(pdf, max_width=1.5):
                 # diagonals deliberately dropped: they do not conduct
             elif it[0] == "re":
                 rects.append(it[1])
+    # The drawings stamp many lines two or three times over. Duplicates must
+    # go, or a wire's loose end looks like a meeting of two lines and the
+    # device it lands on (a grip PTT switch) is never attached.
+    segs = sorted(set((o, round(a, 2), round(b, 2), round(c, 2), round(d, 2))
+                      for o, a, b, c, d in snap(segs)))
     seen, words = set(), []
     for x0, y0, x1, y1, t, *_ in page.get_text("words"):
         k = (round(x0, 1), round(y0, 1), t)
@@ -89,6 +114,38 @@ def load(pdf, max_width=1.5):
             seen.add(k)
             words.append((x0, y0, x1, y1, t))
     return segs, rects, dots, words
+
+
+def snap(segs, radius=1.0, span=2.0):
+    """Make coordinates that nearly coincide coincide exactly.
+
+    The drawing tool leaves sub-point gaps at some corners -- one wire on the
+    SkyView sheet ends at x=683.4 and turns down at x=684.0 -- and an exact
+    meeting test reads that as two unconnected lines. That disconnected both
+    grip PTT switches.
+
+    Snapping is done per axis: every x within `radius` of its neighbour (and
+    within `span` overall) takes one value, and likewise every y. Snapping
+    points instead moved a whole vertical line sideways when only its top end
+    was near something, breaking its other end. Parallel wires and pin rows are
+    9 pt or more apart, so this cannot merge two real conductors.
+    """
+    def axis(vals):
+        vals = sorted(set(vals))
+        out, group = {}, [vals[0]] if vals else []
+        for v in vals[1:]:
+            if v - group[-1] <= radius and v - group[0] <= span:
+                group.append(v)
+            else:
+                for g_ in group:
+                    out[g_] = group[0]
+                group = [v]
+        for g_ in group:
+            out[g_] = group[0]
+        return out
+    xs = axis([v for o, x0, y0, x1, y1 in segs for v in (x0, x1)])
+    ys = axis([v for o, x0, y0, x1, y1 in segs for v in (y0, y1)])
+    return [(o, xs[x0], ys[y0], xs[x1], ys[y1]) for o, x0, y0, x1, y1 in segs]
 
 
 def connectivity(segs, dots):
@@ -392,6 +449,116 @@ def trace(pdf):
         if best is not None:
             colours[uf.find(best)].add(tok)
 
+    deg = collections.Counter()
+    for i, (o, x0, y0, x1, y1) in enumerate(segs):
+        deg[(round(x0), round(y0))] += 1
+        deg[(round(x1), round(y1))] += 1
+
+    # ---- headset jacks: each contact circle is a pin --------------------
+    # Contacts that share an x and sit within a few rows of each other belong
+    # to one jack; top to bottom they are tip, ring and sleeve.
+    jack_cols = collections.defaultdict(list)
+    for x, y in JACKS:
+        jack_cols[round(x)].append(y)
+    jacks = []
+    for x, ys in jack_cols.items():
+        ys = sorted(set(round(v, 1) for v in ys))
+        run = [ys[0]]
+        for y in ys[1:]:
+            if y - run[-1] <= 32:
+                run.append(y)
+            else:
+                jacks.append((x, run)); run = [y]
+        jacks.append((x, run))
+    # Jacks are drawn stacked with the same row pitch inside and between
+    # them, so a run of six contacts is two jacks. Every jack here has three.
+    jacks = [(x, run[k:k + 3]) for x, run in jacks for k in range(0, len(run), 3)]
+    for ji, (x, ys) in enumerate(jacks):
+        names = ["T", "R", "S"] if len(ys) == 3 else ["T", "S"] if len(ys) == 2 else [str(i + 1) for i in range(len(ys))]
+        for y, nm in zip(ys, names):
+            for i, (o, x0, y0, x1, y1) in enumerate(segs):
+                # The wire leaves a contact sideways; the jack's own spring line
+                # meets it from above. Only the wire counts.
+                if o == "H" and any(1.5 <= abs(px - x) <= 4.5 and abs(py - y) <= 1.5
+                                    for px, py in ((x0, y0), (x1, y1))):
+                    groups[uf.find(i)].append(dict(kind="pin", ref=f"JACK@{x},{round(ys[0])}", pin=nm, side=""))
+                    break
+
+    # ---- pin columns with a free-text title (the Bose LEMO jacks) --------
+    cols = pin_columns(rects, words)
+    claimed_cols = [(b["x0"], b["y0"], b["x1"], b["y1"]) for b in boxes]
+    for r, pins in cols:
+        if any(cx0 - 2 <= r.x0 and r.x1 <= cx1 + 2 and cy0 - 2 <= r.y0 and r.y1 <= cy1 + 2
+               for cx0, cy0, cx1, cy1 in claimed_cols):
+            continue
+        title = [w for w in words if r.x0 - 40 <= w[0] and w[2] <= r.x1 + 40 and r.y0 - 40 <= w[1] < r.y0 - 1]
+        if not title:
+            continue
+        name = " ".join(w[4] for w in sorted(title, key=lambda w: (round(w[1]), w[0])))
+        if re.fullmatch(r"DB-?\d+", name):
+            continue        # the network-cable pinout table: a reference, not wiring
+        for pin, ym in pins:
+            for i in segs_at(r.x1, ym):
+                groups[uf.find(i)].append(dict(kind="pin", ref=name, pin=pin, side=""))
+                break
+
+    # ---- dashed enclosures are devices (grips) ---------------------------
+    # A wire that ends inside one ends on that device. Its pin is the button
+    # label directly ABOVE the end: each button is drawn with its label over
+    # its contacts, and "nearest label" picked the next button down. A switch
+    # wired out on both sides (PTT) gets -1 and -2 pins, left to right.
+    dev_nodes = collections.defaultdict(list)
+    for r in DASHED:
+        inside = [w for w in words if r.x0 <= w[0] and w[2] <= r.x1 and r.y0 <= w[1] and w[3] <= r.y1]
+        if not inside:
+            continue
+        # the device is named by the line containing GRIP(S) -- usually the
+        # top line, but the copilot trim box puts its title at the bottom
+        titled = [w for w in inside if "GRIP" in w[4]]
+        ty = titled[0][1] if titled else min(w[1] for w in inside)
+        dev = " ".join(w[4] for w in sorted(inside, key=lambda w: w[0]) if abs(w[1] - ty) < 3)
+        if dev == "GRIP" or dev == "GRIPS":
+            # "COPILOT" printed just outside the box
+            near = [w for w in words if -20 <= w[1] - ty < 3 and r.x0 - 60 <= w[0] < r.x1 and w[4].isupper()
+                    and w[4] not in ("GRIP", "GRIPS")]
+            if near:
+                dev = " ".join(w[4] for w in sorted(near, key=lambda w: w[0])) + " " + dev
+        labels_in = [w for w in inside if abs(w[1] - ty) >= 3 and (len(w[4]) > 1 or w[4].isdigit())]
+        for i, (o, x0, y0, x1, y1) in enumerate(segs):
+            for (px, py) in ((x0, y0), (x1, y1)):
+                if not (r.x0 - 1 <= px <= r.x1 + 1 and r.y0 - 1 <= py <= r.y1 + 1):
+                    continue
+                if deg[(round(px), round(py))] != 1:
+                    continue
+                above = [w for w in labels_in if w[3] <= py + 2 and abs((w[0] + w[2]) / 2 - px) < 45]
+                above.sort(key=lambda w: py - w[3])
+                if above:
+                    row = [w for w in labels_in if abs(w[1] - above[0][1]) < 3]
+                else:   # a few buttons are labelled underneath instead
+                    below = sorted((w for w in labels_in if abs((w[0] + w[2]) / 2 - px) < 45),
+                                   key=lambda w: abs(w[1] - py))
+                    row = [w for w in labels_in if below and abs(w[1] - below[0][1]) < 3]
+                lab = " ".join(w[4] for w in sorted(row, key=lambda w: w[0])) or "?"
+                dev_nodes[dev].append((lab, px, uf.find(i)))
+    for dev, ends in dev_nodes.items():
+        # ends whose wire goes nowhere but back into the device (the buttons'
+        # common return) are dropped before numbering
+        ends = [e for e in ends if groups.get(e[2])]
+        count = collections.Counter(l for l, _, _ in ends)
+        seen = collections.Counter()
+        for lab, px, root in sorted(ends, key=lambda e: (e[0], e[1])):
+            pin = lab
+            if count[lab] > 1:
+                seen[lab] += 1
+                pin = f"{lab}-{seen[lab]}"
+            groups[root].append(dict(kind="pin", ref=dev, pin=pin, side=""))
+    # wiring that never leaves a grip (the buttons' common return) is the
+    # device's own business, not harness wiring
+    for root in list(groups):
+        refs = {n["ref"] for n in groups[root]}
+        if len(refs) == 1 and next(iter(refs)) in dev_nodes:
+            del groups[root]
+
     # where a traced wire ends at nothing we recognise, name it by nearby text
     deg = collections.Counter()
     for i, (o, x0, y0, x1, y1) in enumerate(segs):
@@ -404,6 +571,11 @@ def trace(pdf):
     stop = COLS | {"ga", "Ground", "Power"}
     for root, nodes in list(groups.items()):
         if any(n["kind"] == "label" for n in nodes):
+            continue
+        # Only name a dangling end from nearby text when the wire would
+        # otherwise lead nowhere. A net that already joins two pins does not
+        # need it, and stray text (a shield symbol's "S") would be mislabelled.
+        if sum(1 for n in nodes if n["kind"] == "pin") >= 2:
             continue
         members = [i for i in range(len(segs)) if uf.find(i) == root]
         hints = []
