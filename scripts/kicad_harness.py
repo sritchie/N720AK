@@ -50,8 +50,27 @@ PIN_LEN = 2.54
 BODY_W = 15.24
 
 
+NS = uuid.UUID("5b2f6c1e-7a0d-4c3e-9f1a-720a720a720a")
+_uid = {"key": "", "n": 0}
+
+
 def U():
-    return str(uuid.uuid4())
+    """Deterministic UUIDs. A generated file that drew fresh random UUIDs on
+    every run would show every line changed in git each time it was
+    regenerated, burying the real differences."""
+    _uid["n"] += 1
+    return str(uuid.uuid5(NS, f'{_uid["key"]}:{_uid["n"]}'))
+
+
+def reset_uids(key):
+    _uid["key"], _uid["n"] = key, 0
+
+
+ROOT_UUID = str(uuid.uuid5(NS, "n720ak-root"))
+
+
+def sheet_block_uuid(sheet):
+    return str(uuid.uuid5(NS, f"sheet-block:{sheet}"))
 
 
 def g(v):
@@ -144,7 +163,8 @@ def connector_symbol(name, pins, side, ys=None):
 # Layout
 # ---------------------------------------------------------------------------
 
-def build(sheet, rows, title, layout="aligned"):
+def build(sheet, rows, title, layout="aligned", index=1):
+    reset_uids(f"{sheet}:{layout}")
     # which connectors, which pins, and which side of the page
     pins = collections.OrderedDict()
     left_votes = collections.Counter()
@@ -175,7 +195,7 @@ def build(sheet, rows, title, layout="aligned"):
 
     def emit(c, x, yc, body, pos, h):
         libs.append(body)
-        rd = f"J{len(refdes) + 1}"
+        rd = f"J{index}{len(refdes) + 1:02d}"     # unique across the whole project
         refdes[c] = rd
         inst.append(
             f'\t(symbol (lib_id "{LIB}:{sym_id(c)}") (at {x} {yc} 0) (unit 1)\n'
@@ -184,7 +204,9 @@ def build(sheet, rows, title, layout="aligned"):
             f'(effects (font (size 1.27 1.27))))\n'
             f'\t\t(property "Value" "{esc(c)}" (at {x} {g(yc + h / 2 + 2.54)} 0) '
             f'(effects (font (size 1.27 1.27))))\n'
-            f'\t\t(instances (project "n720ak" (path "/{root}" (reference "{rd}") (unit 1)))))')
+            f'\t\t(instances (project "n720ak"\n'
+            f'\t\t\t(path "/{root}" (reference "{rd}") (unit 1))\n'
+            f'\t\t\t(path "/{ROOT_UUID}/{sheet_block_uuid(sheet)}" (reference "{rd}") (unit 1)))))')
         for p, (px, py) in pos.items():
             world[(c, p)] = (g(x + px), g(yc - py))     # library is y-up, sheet is y-down
 
@@ -443,18 +465,51 @@ def verify(sch, rows, refdes, quiet=False):
     return False
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("sheet")
-    ap.add_argument("--render", action="store_true")
-    a = ap.parse_args()
-    rows, src = load_rows(a.sheet)
-    titles = {"O2": "Mountain High Oxygen", "PWR": "Power & Lighting", "SV": "SkyView Interconnect"}
-    out = REPO / "kicad" / "n720ak" / f"{a.sheet}.kicad_sch"
+TITLES = {"O2": "Mountain High Oxygen", "PWR": "Power & Lighting", "SV": "SkyView Interconnect"}
+ORDER = ["PWR", "SV", "O2"]
+
+
+def write_project(sheets):
+    """Root sheet plus a minimal project file, tying the sheets into one
+    hierarchical KiCad project. Global labels with the same name on different
+    sheets join -- which is how an off-sheet flag like `AG` means the same net
+    everywhere, the way Vern's SHEET/NET references do."""
+    d = REPO / "kicad" / "n720ak"
+    blocks = []
+    for k, s in enumerate(sheets):
+        x, y = 30 + (k % 4) * 90, 40 + (k // 4) * 60
+        blocks.append(
+            f'\t(sheet (at {x} {y}) (size 70 35) (fields_autoplaced yes)\n'
+            f'\t\t(stroke (width 0.1524) (type solid)) (fill (color 0 0 0 0.0000))\n'
+            f'\t\t(uuid "{sheet_block_uuid(s)}")\n'
+            f'\t\t(property "Sheetname" "{esc(TITLES.get(s, s))}" (at {x} {y - 1} 0)\n'
+            f'\t\t\t(effects (font (size 1.27 1.27)) (justify left bottom)))\n'
+            f'\t\t(property "Sheetfile" "{s}.kicad_sch" (at {x} {y + 36} 0)\n'
+            f'\t\t\t(effects (font (size 1.27 1.27)) (justify left top)))\n'
+            f'\t\t(instances (project "n720ak" (path "/{ROOT_UUID}" (page "{k + 2}")))))')
+    (d / "n720ak.kicad_sch").write_text(
+        '(kicad_sch\n\t(version 20251024)\n\t(generator "n720ak_kicad_harness")\n'
+        '\t(generator_version "10.0")\n'
+        f'\t(uuid "{ROOT_UUID}")\n\t(paper "A3")\n'
+        '\t(title_block (title "N720AK Wiring") (company "N720AK -- Van\'s RV-10") '
+        '(comment 1 "Generated from wiring/*.tsv -- edit the wire lists, not these sheets"))\n'
+        '\t(lib_symbols)\n' + "\n".join(blocks) +
+        '\n\t(sheet_instances (path "/" (page "1")))\n)\n')
+    (d / "n720ak.kicad_pro").write_text(
+        '{\n  "meta": {"filename": "n720ak.kicad_pro", "version": 3},\n'
+        '  "schematic": {"legacy_lib_dir": "", "legacy_lib_list": []},\n'
+        '  "sheets": [' + ", ".join(f'["{sheet_block_uuid(s)}", "{TITLES.get(s, s)}"]' for s in sheets) +
+        ']\n}\n')
+    return d / "n720ak.kicad_sch"
+
+
+def make_sheet(sheet, index, render):
+    rows, _src = load_rows(sheet)
+    out = REPO / "kicad" / "n720ak" / f"{sheet}.kicad_sch"
     out.parent.mkdir(parents=True, exist_ok=True)
     # Prefer rows lined up across the sheet; keep it only if it verifies.
     for layout in ("aligned", "stacked"):
-        text, refdes = build(a.sheet, rows, titles.get(a.sheet, a.sheet), layout)
+        text, refdes = build(sheet, rows, TITLES.get(sheet, sheet), layout, index)
         out.write_text(text)
         if verify(out, rows, refdes, quiet=True):
             break
@@ -464,10 +519,34 @@ def main():
                        capture_output=True, text=True)
     errs = re.search(r"\*\* ERC messages: (\d+)", r.stdout)
     print(f"  ERC errors: {errs.group(1) if errs else '?'}")
-    if a.render:
+    if render:
         pdf = out.with_suffix(".pdf")
         subprocess.run([KCLI, "sch", "export", "pdf", "-o", str(pdf), str(out)], capture_output=True)
         print(f"  rendered {pdf.relative_to(REPO)}")
+    return ok
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("sheets", nargs="*", help="sheets to build (default: all)")
+    ap.add_argument("--render", action="store_true")
+    a = ap.parse_args()
+    sheets = a.sheets or ORDER
+    ok = True
+    for s in sheets:
+        ok &= make_sheet(s, ORDER.index(s) + 1 if s in ORDER else 9, a.render)
+    if not a.sheets:
+        root = write_project(ORDER)
+        with tempfile.TemporaryDirectory() as td:
+            net = os.path.join(td, "all.net")
+            r = subprocess.run([KCLI, "sch", "export", "netlist", "--format", "kicadsexpr", "-o", net, str(root)],
+                               capture_output=True, text=True)
+            s = open(net).read() if os.path.exists(net) else ""
+        comps = len(re.findall(r"\(comp\s*\n?\s*\(ref ", s))
+        nets = len(re.findall(r"\(net\s*\n?\s*\(code ", s))
+        warn = (r.stderr or r.stdout).strip()
+        print(f"\nproject {root.relative_to(REPO)}: {comps} connectors, {nets} nets across "
+              f"{len(ORDER)} sheets" + (f"  [kicad-cli: {warn}]" if warn else ""))
     return 0 if ok else 1
 
 

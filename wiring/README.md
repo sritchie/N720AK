@@ -84,8 +84,11 @@ OnSpeed, wing and tailcone.
 ## KiCad sheets
 
 ```bash
-uv run python3 scripts/kicad_harness.py O2 --render
+uv run python3 scripts/kicad_harness.py --render     # every sheet, plus the project
+uv run python3 scripts/kicad_harness.py O2           # one sheet
 ```
+
+Open `kicad/n720ak/n720ak.kicad_pro` in KiCad 10 for the whole thing.
 
 `scripts/kicad_harness.py` turns a wire list into a KiCad 10 sheet in
 `kicad/n720ak/`, then **proves it**: it exports the netlist with `kicad-cli`
@@ -113,6 +116,15 @@ offset half a pitch so that no two pins share a height and every wire has its
 own lane — which makes accidental contact between wires impossible rather than
 unlikely. The generator tries the first and keeps it only if it verifies.
 
-Not yet done: a project file and root sheet tying these together as one
-hierarchical KiCad project, and a presentation pass toward Vern's look. The
-sheets are correct before they are pretty, on purpose.
+The sheets are tied into one hierarchical project by a generated root sheet.
+Global labels with the same name on different sheets join, which is how an
+off-sheet flag means the same net everywhere. UUIDs are deterministic, so
+regenerating an unchanged wire list produces a byte-identical file and git
+diffs show only real changes.
+
+Not yet done: a presentation pass toward Vern's look, and canonical connector
+names across sheets — the power sheet calls the right PFD's power pin
+`SV-HDX1100 (PFD2) D37-1/20` as a label, while the SkyView sheet draws that
+connector as a part. Until those names agree, cross-sheet references are
+checked by eye rather than by the netlist. The sheets are correct before they
+are pretty, on purpose.
