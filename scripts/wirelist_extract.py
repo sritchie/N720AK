@@ -212,7 +212,9 @@ def _vpx_rows(words, lx, y0, y1):
 # Each entry: list of (destination, colour override or None, note).
 VPX_DEST = {
     ("J1", "1"):  [("DEFROST FAN PWR", None, "")],
-    ("J1", "2"):  [("ANNUNCIATOR - FAULT ANN", None, "the drawing shows a Red and a Yel line leaving this pin; only the Red is captured")],
+    ("J1", "2"):  [("ANN ECU FAULT PRI", None, "lamp anode, pin 1"),
+                   ("ANN ECU FAULT SEC", None, "lamp anode, pin 1"),
+                   ("ANN LT TEST", "Yel", "lamp-test supply: the test button's first pole")],
     ("J1", "17"): [("FLAP POSITION SENSOR", None, "flap position input; drawing spells it POSTION")],
     ("J1", "18"): [("FLAP POSITION SENSOR", None, "flap position ground")],
     ("J1", "19"): [("FLAP POSITION SENSOR", None, "flap position 2.5 V reference")],
@@ -302,16 +304,15 @@ def _db15_pins(words, y_lo, y_hi, x_lo, x_hi):
 # (those are emitted once, from the VP-X side). Read from the drawing.
 DB15_DEST = {
     ("PILOT", "1"):  ("AG", "switch-panel ground"),
-    ("PILOT", "3"):  ("COM/NAV RELAY COILS (85)", "AV MSTR output. Drives both GTN power relays - see ESS bus"),
-    ("PILOT", "4"):  ("ESS BUS SERVOS breaker", "A/P MSTR input"),
+    ("PILOT", "3"):  ("COM/NAV RELAY COILS (85)", "AV MSTR output. Traced to pin 85 of both the COM and NAV relay coils"),
     ("PILOT", "5"):  ("A/P SERVO POWER", "A/P MSTR output"),
     ("PILOT", "9"):  ("AG", "switch-panel ground"),
-    ("PILOT", "10"): ("ANNUNCIATOR", "Yel line toward the annunciator test circuit"),
+    ("PILOT", "10"): ("COPILOT-SW-PANEL DB15", "Switch backlighting: the copilot panel's SWITCHES dimmer output, crossing to light the pilot panel's switches. Traced"),
     ("COPILOT", "1"):  ("AG", "switch-panel ground"),
     ("COPILOT", "4"):  ("AG", "switch-panel ground"),
-    ("COPILOT", "5"):  ("ANNUNCIATOR", "Yel line toward the annunciator test circuit"),
+
     ("COPILOT", "6"):  ("AG", "switch-panel ground"),
-    ("COPILOT", "7"):  ("ESS BUS PNL LTS breaker", "panel/dimmer power"),
+
     ("COPILOT", "8"):  ("PANEL LED STRIP - PLUS", ""),
     ("COPILOT", "9"):  ("LEFT MAP LT", "WHITE"),
     ("COPILOT", "10"): ("LEFT MAP LT", "RED"),
@@ -319,7 +320,9 @@ DB15_DEST = {
     ("COPILOT", "12"): ("RIGHT MAP LT", "RED"),
     ("COPILOT", "13"): ("MH OXYGEN CONTROL HEAD", "switch dimmer; matches O2 sheet DB25-21 Yel/Grn"),
 }
-DB15_REVIEW = {("PILOT", "3"), ("PILOT", "4"), ("PILOT", "10"), ("COPILOT", "5"), ("COPILOT", "7")}
+DB15_REVIEW = set()
+# pins whose wire is emitted from the other end (the ESS bus rows)
+DB15_FROM_ELSEWHERE = {("PILOT", "4"), ("COPILOT", "5"), ("COPILOT", "7")}
 
 # The essential bus. A schematic, not a table, so transcribed from the text
 # layer and checked against the rendered drawing.
@@ -338,8 +341,13 @@ ESS_BUS = [
      "GTN COM power is relay-switched: COM relay 87 (NO) -> GTN650 P3-30,43,44, 18 Red. Coil 85 on the Wht/Blk AV MSTR line", False),
     ("NAV 1", "7.5", "NAV RELAY 30", "20", "Red",
      "GTN NAV power is relay-switched: NAV relay 87 (NO) -> GTN650 P1-19,20 and P4-51,52, 20 Red. Coil shares the Wht/Blk AV MSTR line", False),
-    ("PNL LTS", "5", "COPILOT SW PANEL", "", "Red", "long run up to the copilot panel; exact DB15 pin to confirm", True),
-    ("SERVOS", "5", "A/P MSTR", "20", "Red", "long run up to the pilot panel A/P MSTR switch", True),
+    ("PNL LTS", "5", "COPILOT-SW-PANEL DB15:7", "", "Red",
+     "copilot DB15 pin 7; inside the panel it powers all four LED dimmers (switches, panel, map L, map R). Traced", False),
+    ("SERVOS", "5", "PILOT-SW-PANEL DB15:4", "20", "Red", "pilot DB15 pin 4, the A/P MSTR switch input. Traced", False),
+    ("ECU PRI", "5", "D1:A", "", "Red", "second leg: annunciator ECU PWR PRI, through D1. Traced", False),
+    ("ECU SEC", "5", "D2:A", "", "Red", "second leg: annunciator ECU PWR SEC, through D2. Traced", False),
+    ("PUMP 1", "10", "D3:A", "", "Red", "second leg: annunciator FUEL PUMP 1, through D3. Traced", False),
+    ("PUMP 2", "10", "D4:A", "", "Red", "second leg: annunciator FUEL PUMP 2, through D4. Traced", False),
 ]
 
 
@@ -369,9 +377,9 @@ BUS_MGR = [
     ("BUS MANAGER", "E-Pwr-2", "EMERG POWER SWITCH", "", "10", "", "", "", False),
     ("BUS MANAGER", "GND", "AG", "", "16", "", "", "avionics ground point", False),
     ("BUS MANAGER", "top harness", "START CONTACTOR 1", "coil", "16", "Blk", "",
-     "manufacturer-supplied harness", True),
+     "manufacturer-supplied harness. Traced: the Blk wire ends at Start Contactor 1's coil", False),
     ("BUS MANAGER", "top harness", "START CONTACTOR 2", "coil", "16", "Red", "",
-     "manufacturer-supplied harness", True),
+     "manufacturer-supplied harness. Traced: the Red wire ends at Start Contactor 2's coil", False),
     ("BUS MANAGER", "top harness", "FUEL PRESS INPUT", "", "", "Pur", "",
      "fuel pressure input to the Bus Manager", False),
     ("BUS MANAGER", "top harness", "FUEL PUMP CHANGEOVER RELAY", "85", "20", "Gray", "",
@@ -396,31 +404,116 @@ BUS_MGR = [
 # Lamp ground and output legs read cleanly. Anode supplies and the test network
 # cross many lines and are recorded as review rows rather than guessed.
 ANNUNCIATOR = [
-    # (lamp, colour, pin, to_ref, wire colour, note, review)
-    ("ECU PWR PRI", "GRN", "2", "AG", "Blk", "lit by power on the anode", False),
-    ("ECU PWR SEC", "GRN", "2", "AG", "Blk", "lit by power on the anode", False),
-    ("FUEL PUMP 1", "GRN", "2", "AG", "Blk", "lit by power on the anode", False),
-    ("FUEL PUMP 2", "AMB", "2", "AG", "Blk", "lit by power on the anode", False),
-    ("ECU FAULT PRI", "RED", "2", "ECU CHECK ENG PRI", "Yel",
-     "cathode to the ECU: the ECU lights this lamp by pulling the line low", False),
-    ("ECU FAULT SEC", "RED", "2", "ECU CHECK ENG SEC", "Yel",
-     "cathode to the ECU: the ECU lights this lamp by pulling the line low", False),
-    ("ECU PWR PRI", "GRN", "1", "ESS BUS ECU PRI (second leg)", "Wht/Red",
-     "anode supply; also feeds lamp-test diode D5", True),
-    ("ECU PWR SEC", "GRN", "1", "ESS BUS ECU SEC (second leg)", "Ora",
-     "anode supply; also feeds lamp-test diode D6", True),
-    ("FUEL PUMP 1", "GRN", "1", "ESS BUS PUMP 1 (second leg)", "Wht",
-     "anode supply; also feeds lamp-test diode D7", True),
-    ("FUEL PUMP 2", "AMB", "1", "ESS BUS PUMP 2 (second leg)", "Wht/Ora",
-     "anode supply; also feeds lamp-test diode D8", True),
-    ("ECU FAULT PRI", "RED", "1", "VP-X J1-2 (FAULT ANN)", "Red",
-     "both FAULT lamp anodes share one supply line", True),
-    ("ECU FAULT SEC", "RED", "1", "VP-X J1-2 (FAULT ANN)", "Red",
-     "both FAULT lamp anodes share one supply line", True),
+    # Traced end to end with scripts/sch_trace.py. Each "power" lamp's anode
+    # is diode-ORed: fed from its essential-bus breaker through D1-D4, and
+    # from the lamp-test bus through D5-D8. The test button is two-pole: pole
+    # 1 connects VP-X J1-2 to the test bus, pole 2 grounds the two FAULT lamp
+    # cathodes through D9/D10 (the FAULT lamps' anodes are always fed from
+    # VP-X J1-2; the ECU lights them by pulling their cathodes low).
+    #   (from_ref, from_pin, to_ref, to_pin, colour, note)
+    ("D1", "K", "ANN ECU PWR PRI", "1", "Wht/Red", ""),
+    ("D5", "K", "ANN ECU PWR PRI", "1", "Wht/Red", "lamp test"),
+    ("D2", "K", "ANN ECU PWR SEC", "1", "Ora", ""),
+    ("D6", "K", "ANN ECU PWR SEC", "1", "Ora", "lamp test"),
+    ("D3", "K", "ANN FUEL PUMP 1", "1", "Wht", ""),
+    ("D7", "K", "ANN FUEL PUMP 1", "1", "Wht", "lamp test"),
+    ("D4", "K", "ANN FUEL PUMP 2", "1", "Wht/Ora", ""),
+    ("D8", "K", "ANN FUEL PUMP 2", "1", "Wht/Ora", "lamp test"),
+    ("ANN LT TEST", "1B", "D5", "A", "Yel", "test bus"),
+    ("ANN LT TEST", "1B", "D6", "A", "Yel", "test bus"),
+    ("ANN LT TEST", "1B", "D7", "A", "Yel", "test bus"),
+    ("ANN LT TEST", "1B", "D8", "A", "Yel", "test bus"),
+    ("ANN ECU FAULT PRI", "2", "D9", "A", "Blk", "fault lamp cathode"),
+    ("ANN ECU FAULT SEC", "2", "D10", "A", "Wht/Blk", "fault lamp cathode"),
+    ("D9", "K", "ANN LT TEST", "2A", "Blk", ""),
+    ("D10", "K", "ANN LT TEST", "2A", "Blk", ""),
+    ("ANN LT TEST", "2B", "AG", "", "Blk", ""),
+    ("ANN ECU FAULT PRI", "2", "ECU CHECK ENG PRI", "", "Yel", "the ECU lights the lamp by pulling this low"),
+    ("ANN ECU FAULT SEC", "2", "ECU CHECK ENG SEC", "", "Yel", "the ECU lights the lamp by pulling this low"),
+    ("ANN ECU PWR PRI", "2", "AG", "", "Blk", ""),
+    ("ANN ECU PWR SEC", "2", "AG", "", "Blk", ""),
+    ("ANN FUEL PUMP 1", "2", "AG", "", "Blk", ""),
+    ("ANN FUEL PUMP 2", "2", "AG", "", "Blk", ""),
 ]
 
 
+# Facts the power sheet's geometry must confirm. The schematic regions of this
+# sheet (essential bus, annunciator, Bus Manager) are entered by hand from the
+# rendered drawing; these checks run the line tracer over the same drawing and
+# fail the extraction if any hand-entered connection is not really there.
+# Each point is a wire end or a point on a wire, in PDF coordinates.
+POWER_TRACE_CHECKS = [
+    ("pilot DB15-3 (AV MSTR) reaches the COM/NAV relay coils", (630, 648), (2076, 1575)),
+    ("pilot DB15-4 (A/P MSTR) reaches the ESS SERVOS breaker", (648, 648), (2434, 1818)),
+    ("copilot DB15-7 reaches the ESS PNL LTS breaker", (2160, 648), (2434, 1746)),
+    ("pilot DB15-10 and copilot DB15-5 are one wire (switch backlighting)", (1170, 648), (2123, 648)),
+    ("D1 anode <- ESS ECU PRI breaker", (1283, 1674), (2409, 1188)),
+    ("D2 anode <- ESS ECU SEC breaker", (1283, 1692), (2409, 1260)),
+    ("D3 anode <- ESS PUMP 1 breaker", (1283, 1710), (2409, 1332)),
+    ("D4 anode <- ESS PUMP 2 breaker", (1283, 1728), (2409, 1404)),
+    ("ECU PWR PRI anode = D5/D1 cathode node", (900.5, 1440), (1163, 1674)),
+    ("ECU PWR SEC anode = D6/D2 cathode node", (981.5, 1440), (1163, 1692)),
+    ("FUEL PUMP 1 anode = D7/D3 cathode node", (1224, 1440), (1163, 1710)),
+    ("FUEL PUMP 2 anode = D8/D4 cathode node", (1305, 1440), (1163, 1728)),
+    ("D1 cathode joins the D5 node", (1255, 1674), (1163, 1674)),
+    ("D4 cathode joins the D8 node", (1255, 1728), (1163, 1728)),
+    ("ECU FAULT PRI cathode -> D9 anode", (1080.5, 1440), (1107, 1660)),
+    ("ECU FAULT SEC cathode -> D10 anode", (1161, 1440), (1125, 1660)),
+    ("both ECU FAULT anodes <- VP-X J1-2 (Red)", (1062.5, 1440), (342, 1584)),
+    ("ECU FAULT SEC anode on the same feed", (1143.5, 1440), (342, 1584)),
+    ("lamp-test bus (D5-D8 anodes) -> test pole 1, one side", (1143, 1731), (1183, 1845)),
+    ("VP-X J1-2 (Yel) -> test pole 1, other side", (360, 1602), (1191, 1845)),
+    ("D9/D10 cathodes -> test pole 2, one side", (1125, 1710), (1183, 1863)),
+    ("Bus Manager Blk 16 ga -> Start Contactor 1 coil", (2040.5, 2250), (2010, 2178)),
+    ("Bus Manager Red 16 ga -> Start Contactor 2 coil", (2058.5, 2250), (2112, 2065)),
+    ("Bus Manager Pur -> FUEL PRESS INPUT", (2076, 2270), (2196, 2196)),
+    ("Bus Manager Gray -> fuel-pump changeover relay coil (85)", (2094, 2270), (2610, 1350)),
+    ("test pole 2, other side -> AG", (1200, 1863), (1265, 1874)),
+]
+POWER_TRACE_APART = [
+    # the test button's contacts must be open, and its two poles separate
+    ("test pole 1 is open (test bus vs J1-2)", (1143, 1731), (360, 1602)),
+    ("test pole 2 is open (fault cathodes vs AG)", (1125, 1710), (1265, 1874)),
+    ("test pole 1 and pole 2 are separate", (1143, 1731), (1125, 1710)),
+    # a lamp's anode and cathode must not be shorted
+    ("ECU PWR PRI anode and cathode are separate", (900.5, 1440), (918.5, 1440)),
+    ("the two start contactor coil feeds are separate", (2040.5, 2250), (2058.5, 2250)),
+]
+
+
+def verify_power_trace(pdf):
+    import sch_trace
+    segs, _rects, dots, _words = sch_trace.load(pdf)
+    uf, _ = sch_trace.connectivity(segs, dots)
+
+    def root(pt):
+        x, y = pt
+        for i, (o, x0, y0, x1, y1) in enumerate(segs):
+            if (abs(x0 - x) <= 3 and abs(y0 - y) <= 3) or (abs(x1 - x) <= 3 and abs(y1 - y) <= 3):
+                return uf.find(i)
+            if o == "H" and abs(y0 - y) <= 1.5 and x0 <= x <= x1:
+                return uf.find(i)
+            if o == "V" and abs(x0 - x) <= 1.5 and y0 <= y <= y1:
+                return uf.find(i)
+        return None
+
+    bad = []
+    for name, a, b in POWER_TRACE_CHECKS:
+        ra, rb = root(a), root(b)
+        if ra is None or rb is None or ra != rb:
+            bad.append(f"NOT CONNECTED: {name}")
+    for name, a, b in POWER_TRACE_APART:
+        ra, rb = root(a), root(b)
+        if ra is not None and ra == rb:
+            bad.append(f"SHORTED: {name}")
+    return len(POWER_TRACE_CHECKS) + len(POWER_TRACE_APART), bad
+
+
 def extract_power_lighting(pdf):
+    n, bad = verify_power_trace(pdf)
+    if bad:
+        raise SystemExit("power sheet: hand-entered wiring disagrees with the drawing:\n  " + "\n  ".join(bad))
+    print(f"power sheet: {n} hand-entered connections confirmed against the drawing's geometry")
     words = load_words(pdf)
     rows = []
 
@@ -461,26 +554,31 @@ def extract_power_lighting(pdf):
                 if dest is None:
                     add(**base, color=g["color"], review="no destination recorded for this pin")
                 else:
-                    add(**base, to_ref=dest, color=cov or g["color"], notes=note,
-                        review=("second line not captured" if (conn, pin) == ("J1", "2") else ""))
+                    to_pin = {"ANN ECU FAULT PRI": "1", "ANN ECU FAULT SEC": "1", "ANN LT TEST": "1A"}.get(dest, "") \
+                        if (conn, pin) == ("J1", "2") else ""
+                    add(**base, to_ref=dest, to_pin=to_pin, color=cov or g["color"], notes=note)
 
     # ---- DB15 pins that don't go to a VP-X input ----
     for side, pins in db15.items():
         for pin, (c, gauge) in sorted(pins.items(), key=lambda kv: int(kv[0])):
             if c in SWITCH_BY_COLOR and len(color_to_db15.get(c, [])) == 1:
                 continue        # already emitted from the VP-X side
+            if (side, pin) in DB15_FROM_ELSEWHERE:
+                continue
             dest = DB15_DEST.get((side, pin))
             if not dest:
                 add(from_ref=f"{side}-SW-PANEL DB15", from_pin=pin, color=c,
                     review="harness-side destination not recorded")
                 continue
-            add(from_ref=f"{side}-SW-PANEL DB15", from_pin=pin, to_ref=dest[0], color=c,
+            to_pin = "5" if (side, pin) == ("PILOT", "10") else ""
+            add(from_ref=f"{side}-SW-PANEL DB15", from_pin=pin, to_ref=dest[0], to_pin=to_pin, color=c,
                 awg=gauge, notes=dest[1],
                 review=("traced by eye on a long run; confirm" if (side, pin) in DB15_REVIEW else ""))
 
     # ---- essential bus ----
     for brk, amps, dest, awg, colour, note, rev in ESS_BUS:
-        add(from_ref="ESS BUS", from_pin=brk, to_ref=dest, color=colour, awg=awg,
+        dest, _, dpin = dest.partition(":")
+        add(from_ref="ESS BUS", from_pin=brk, to_ref=dest, to_pin=dpin, color=colour, awg=awg,
             protection=f"{amps}A", notes=note,
             review=("long run traced by eye; confirm" if rev else ""))
 
@@ -490,14 +588,9 @@ def extract_power_lighting(pdf):
             protection=prot, notes=note,
             review=("two lines run close here; confirm which coil each feeds" if rev else ""))
 
-    # ---- annunciator ----
-    for lamp, lc, pin, to, colour, note, rev in ANNUNCIATOR:
-        add(from_ref=f"ANN {lamp} ({lc})", from_pin=pin, to_ref=to, color=colour, notes=note,
-            review=("anode supply crosses several lines; confirm the source" if rev else ""))
-    add(from_ref="ANNUNCIATOR TEST NETWORK", notes=(
-            "diode-OR lamp test: ANN LT TEST pushbutton on Yel drives D1-D4 to every lamp "
-            "anode; D9/D10 pull the two FAULT lamp cathodes low. All diodes 1N4001."),
-        review="network not broken out wire by wire")
+    # ---- annunciator: lamps, 1N4001 diodes, two-pole lamp-test button ----
+    for fr, fp, to, tp, colour, note in ANNUNCIATOR:
+        add(from_ref=fr, from_pin=fp, to_ref=to, to_pin=tp, color=colour, notes=note)
 
     # ---- regions not yet parsed ----
     add(from_ref="PILOT AND COPILOT SWITCH-PANEL INTERNALS (switch-to-DB15 side)",

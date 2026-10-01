@@ -12,7 +12,9 @@ PWR		VP-X J2	11	STARTER CONTACTOR		Wht			start annunciate; optional connection p
 PWR		VP-X J2	14	FLAPS SWITCH		Blu			flaps UP	
 PWR		VP-X J2	15	FLAPS SWITCH		Brn			flaps DOWN	
 PWR		VP-X J1	1	DEFROST FAN PWR		Red		2A-1		
-PWR		VP-X J1	2	ANNUNCIATOR - FAULT ANN		Red		2A-2	the drawing shows a Red and a Yel line leaving this pin; only the Red is captured	second line not captured
+PWR		VP-X J1	2	ANN ECU FAULT PRI	1	Red		2A-2	lamp anode, pin 1	
+PWR		VP-X J1	2	ANN ECU FAULT SEC	1	Red		2A-2	lamp anode, pin 1	
+PWR		VP-X J1	2	ANN LT TEST	1A	Yel		2A-2	lamp-test supply: the test button's first pole	
 PWR		VP-X J1	17	FLAP POSITION SENSOR		Yel			flap position input; drawing spells it POSTION	
 PWR		VP-X J1	18	FLAP POSITION SENSOR		Blu			flap position ground	
 PWR		VP-X J1	19	FLAP POSITION SENSOR		Ora			flap position 2.5 V reference	
@@ -43,16 +45,13 @@ PWR		VP-X J10	8	CO DETECT J1-1		Red		5A-11	CO Guardian, installed and powered. I
 PWR		VP-X J10	9	AG		Blk	18		avionics ground point	
 PWR		VP-X J10	10	PLX AIR/FUEL MODULE		Red	20	5A-12		
 PWR		PILOT-SW-PANEL DB15	1	AG		Blk			switch-panel ground	
-PWR		PILOT-SW-PANEL DB15	3	COM/NAV RELAY COILS (85)		Wht/Blk			AV MSTR output. Drives both GTN power relays - see ESS bus	traced by eye on a long run; confirm
-PWR		PILOT-SW-PANEL DB15	4	ESS BUS SERVOS breaker		Red	20		A/P MSTR input	traced by eye on a long run; confirm
+PWR		PILOT-SW-PANEL DB15	3	COM/NAV RELAY COILS (85)		Wht/Blk			AV MSTR output. Traced to pin 85 of both the COM and NAV relay coils	
 PWR		PILOT-SW-PANEL DB15	5	A/P SERVO POWER		Red	20		A/P MSTR output	
 PWR		PILOT-SW-PANEL DB15	9	AG		Blk			switch-panel ground	
-PWR		PILOT-SW-PANEL DB15	10	ANNUNCIATOR		Yel			Yel line toward the annunciator test circuit	traced by eye on a long run; confirm
+PWR		PILOT-SW-PANEL DB15	10	COPILOT-SW-PANEL DB15	5	Yel			Switch backlighting: the copilot panel's SWITCHES dimmer output, crossing to light the pilot panel's switches. Traced	
 PWR		COPILOT-SW-PANEL DB15	1	AG		Blk			switch-panel ground	
 PWR		COPILOT-SW-PANEL DB15	4	AG		Blk			switch-panel ground	
-PWR		COPILOT-SW-PANEL DB15	5	ANNUNCIATOR		Yel			Yel line toward the annunciator test circuit	traced by eye on a long run; confirm
 PWR		COPILOT-SW-PANEL DB15	6	AG		Blk			switch-panel ground	
-PWR		COPILOT-SW-PANEL DB15	7	ESS BUS PNL LTS breaker		Red			panel/dimmer power	traced by eye on a long run; confirm
 PWR		COPILOT-SW-PANEL DB15	8	PANEL LED STRIP - PLUS		Wht/Red				
 PWR		COPILOT-SW-PANEL DB15	9	LEFT MAP LT		Wht			WHITE	
 PWR		COPILOT-SW-PANEL DB15	10	LEFT MAP LT		Red			RED	
@@ -68,8 +67,12 @@ PWR		ESS BUS	IGN PWR	IGNITION PWR				15A
 PWR		ESS BUS	PFD	SV-HDX1100 (PFD) D37-1/20				5A		
 PWR		ESS BUS	COM 1	COM RELAY 30		Red	18	10A	GTN COM power is relay-switched: COM relay 87 (NO) -> GTN650 P3-30,43,44, 18 Red. Coil 85 on the Wht/Blk AV MSTR line	
 PWR		ESS BUS	NAV 1	NAV RELAY 30		Red	20	7.5A	GTN NAV power is relay-switched: NAV relay 87 (NO) -> GTN650 P1-19,20 and P4-51,52, 20 Red. Coil shares the Wht/Blk AV MSTR line	
-PWR		ESS BUS	PNL LTS	COPILOT SW PANEL		Red		5A	long run up to the copilot panel; exact DB15 pin to confirm	long run traced by eye; confirm
-PWR		ESS BUS	SERVOS	A/P MSTR		Red	20	5A	long run up to the pilot panel A/P MSTR switch	long run traced by eye; confirm
+PWR		ESS BUS	PNL LTS	COPILOT-SW-PANEL DB15	7	Red		5A	copilot DB15 pin 7; inside the panel it powers all four LED dimmers (switches, panel, map L, map R). Traced	
+PWR		ESS BUS	SERVOS	PILOT-SW-PANEL DB15	4	Red	20	5A	pilot DB15 pin 4, the A/P MSTR switch input. Traced	
+PWR		ESS BUS	ECU PRI	D1	A	Red		5A	second leg: annunciator ECU PWR PRI, through D1. Traced	
+PWR		ESS BUS	ECU SEC	D2	A	Red		5A	second leg: annunciator ECU PWR SEC, through D2. Traced	
+PWR		ESS BUS	PUMP 1	D3	A	Red		10A	second leg: annunciator FUEL PUMP 1, through D3. Traced	
+PWR		ESS BUS	PUMP 2	D4	A	Red		10A	second leg: annunciator FUEL PUMP 2, through D4. Traced	
 PWR		BATT 1	-	AIRFRAME GROUND			4		airframe ground bus and engine case	
 PWR		BATT 2	-	AIRFRAME GROUND			4		airframe ground bus and engine case	
 PWR		BATT 1	+	START CONTACTOR 1	BAT		4			
@@ -86,8 +89,8 @@ PWR		BUS MANAGER	Main Bus Pwr	VP-X SPORT			10		VP-X main power feed
 PWR		BUS MANAGER	E-Pwr-1	EMERG POWER SWITCH			10		E-Pwr-1 and E-Pwr-2 are bridged by the emergency power switch, rated 30 A minimum	
 PWR		BUS MANAGER	E-Pwr-2	EMERG POWER SWITCH			10			
 PWR		BUS MANAGER	GND	AG			16		avionics ground point	
-PWR		BUS MANAGER	top harness	START CONTACTOR 1	coil	Blk	16		manufacturer-supplied harness	two lines run close here; confirm which coil each feeds
-PWR		BUS MANAGER	top harness	START CONTACTOR 2	coil	Red	16		manufacturer-supplied harness	two lines run close here; confirm which coil each feeds
+PWR		BUS MANAGER	top harness	START CONTACTOR 1	coil	Blk	16		manufacturer-supplied harness. Traced: the Blk wire ends at Start Contactor 1's coil	
+PWR		BUS MANAGER	top harness	START CONTACTOR 2	coil	Red	16		manufacturer-supplied harness. Traced: the Red wire ends at Start Contactor 2's coil	
 PWR		BUS MANAGER	top harness	FUEL PRESS INPUT		Pur			fuel pressure input to the Bus Manager	
 PWR		BUS MANAGER	top harness	FUEL PUMP CHANGEOVER RELAY	85	Gray	20		the relay that selects PUMP 1 or PUMP 2 on the ESS bus. This is the Bus Manager's pump auto-cutover	
 PWR		KEYSWITCH	3	BUS MANAGER	left harness	Grn			through a 2-pin connector, pin 2	
@@ -100,19 +103,29 @@ PWR		ESSENTIAL BUS BAR		FUEL PUMP MODE	2		20		switch common. The same 20 ga line
 PWR		ESSENTIAL BUS BAR		START BAT SEL	2		20		switch common, shared with FUEL PUMP MODE	
 PWR		BUS MANAGER	bottom harness	START BAT SEL	1	Grn			position 1	
 PWR		BUS MANAGER	bottom harness	START BAT SEL	3	Red			position 2 (centre position is BOTH)	
-PWR		ANN ECU PWR PRI (GRN)	2	AG		Blk			lit by power on the anode	
-PWR		ANN ECU PWR SEC (GRN)	2	AG		Blk			lit by power on the anode	
-PWR		ANN FUEL PUMP 1 (GRN)	2	AG		Blk			lit by power on the anode	
-PWR		ANN FUEL PUMP 2 (AMB)	2	AG		Blk			lit by power on the anode	
-PWR		ANN ECU FAULT PRI (RED)	2	ECU CHECK ENG PRI		Yel			cathode to the ECU: the ECU lights this lamp by pulling the line low	
-PWR		ANN ECU FAULT SEC (RED)	2	ECU CHECK ENG SEC		Yel			cathode to the ECU: the ECU lights this lamp by pulling the line low	
-PWR		ANN ECU PWR PRI (GRN)	1	ESS BUS ECU PRI (second leg)		Wht/Red			anode supply; also feeds lamp-test diode D5	anode supply crosses several lines; confirm the source
-PWR		ANN ECU PWR SEC (GRN)	1	ESS BUS ECU SEC (second leg)		Ora			anode supply; also feeds lamp-test diode D6	anode supply crosses several lines; confirm the source
-PWR		ANN FUEL PUMP 1 (GRN)	1	ESS BUS PUMP 1 (second leg)		Wht			anode supply; also feeds lamp-test diode D7	anode supply crosses several lines; confirm the source
-PWR		ANN FUEL PUMP 2 (AMB)	1	ESS BUS PUMP 2 (second leg)		Wht/Ora			anode supply; also feeds lamp-test diode D8	anode supply crosses several lines; confirm the source
-PWR		ANN ECU FAULT PRI (RED)	1	VP-X J1-2 (FAULT ANN)		Red			both FAULT lamp anodes share one supply line	anode supply crosses several lines; confirm the source
-PWR		ANN ECU FAULT SEC (RED)	1	VP-X J1-2 (FAULT ANN)		Red			both FAULT lamp anodes share one supply line	anode supply crosses several lines; confirm the source
-PWR		ANNUNCIATOR TEST NETWORK							diode-OR lamp test: ANN LT TEST pushbutton on Yel drives D1-D4 to every lamp anode; D9/D10 pull the two FAULT lamp cathodes low. All diodes 1N4001.	network not broken out wire by wire
+PWR		D1	K	ANN ECU PWR PRI	1	Wht/Red				
+PWR		D5	K	ANN ECU PWR PRI	1	Wht/Red			lamp test	
+PWR		D2	K	ANN ECU PWR SEC	1	Ora				
+PWR		D6	K	ANN ECU PWR SEC	1	Ora			lamp test	
+PWR		D3	K	ANN FUEL PUMP 1	1	Wht				
+PWR		D7	K	ANN FUEL PUMP 1	1	Wht			lamp test	
+PWR		D4	K	ANN FUEL PUMP 2	1	Wht/Ora				
+PWR		D8	K	ANN FUEL PUMP 2	1	Wht/Ora			lamp test	
+PWR		ANN LT TEST	1B	D5	A	Yel			test bus	
+PWR		ANN LT TEST	1B	D6	A	Yel			test bus	
+PWR		ANN LT TEST	1B	D7	A	Yel			test bus	
+PWR		ANN LT TEST	1B	D8	A	Yel			test bus	
+PWR		ANN ECU FAULT PRI	2	D9	A	Blk			fault lamp cathode	
+PWR		ANN ECU FAULT SEC	2	D10	A	Wht/Blk			fault lamp cathode	
+PWR		D9	K	ANN LT TEST	2A	Blk				
+PWR		D10	K	ANN LT TEST	2A	Blk				
+PWR		ANN LT TEST	2B	AG		Blk				
+PWR		ANN ECU FAULT PRI	2	ECU CHECK ENG PRI		Yel			the ECU lights the lamp by pulling this low	
+PWR		ANN ECU FAULT SEC	2	ECU CHECK ENG SEC		Yel			the ECU lights the lamp by pulling this low	
+PWR		ANN ECU PWR PRI	2	AG		Blk				
+PWR		ANN ECU PWR SEC	2	AG		Blk				
+PWR		ANN FUEL PUMP 1	2	AG		Blk				
+PWR		ANN FUEL PUMP 2	2	AG		Blk				
 PWR		PILOT AND COPILOT SWITCH-PANEL INTERNALS (switch-to-DB15 side)								region not yet extracted
 PWR		ESSENTIAL BUS BAR		ONSPEED DB25-1		Red		1A	C008: OnSpeed power from the essential bus through a 1 A automotive blade fuse above the bus bar. Date approximate.	
 PWR	Flap position	VP-X J1	17	ONSPEED DB25-21		Yel			C009: OnSpeed flap input spliced into the flap position sensor wire to the VP-X, so both read the same pot. Date approximate.	

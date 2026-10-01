@@ -95,11 +95,19 @@ def load(pdf, max_width=1.5):
         for it in d["items"]:
             if it[0] == "l" and (d.get("width") or 0) < max_width and not dashed:
                 a, b = it[1], it[2]
-                if abs(a.y - b.y) < 0.2:
-                    segs.append(("H", min(a.x, b.x), a.y, max(a.x, b.x), a.y))
-                elif abs(a.x - b.x) < 0.2:
-                    segs.append(("V", a.x, min(a.y, b.y), a.x, max(a.y, b.y)))
-                # diagonals deliberately dropped: they do not conduct
+                dx, dy = abs(a.x - b.x), abs(a.y - b.y)
+                # Within 3 degrees of an axis is a wire, not a diagonal. Three
+                # wires on the power sheet are drawn 0.2-1.3 degrees off
+                # vertical, and dropping them as "diagonals" cut the FUEL PUMP 2
+                # and ECU FAULT SEC lamp wires in two. Real diagonals here --
+                # switch blades, arrowheads -- are all 4 degrees or more.
+                if dy <= dx * 0.0524:
+                    y = (a.y + b.y) / 2
+                    segs.append(("H", min(a.x, b.x), y, max(a.x, b.x), y))
+                elif dx <= dy * 0.0524:
+                    x = (a.x + b.x) / 2
+                    segs.append(("V", x, min(a.y, b.y), x, max(a.y, b.y)))
+                # steeper diagonals deliberately dropped: they do not conduct
             elif it[0] == "re":
                 rects.append(it[1])
     # The drawings stamp many lines two or three times over. Duplicates must
@@ -164,7 +172,13 @@ def connectivity(segs, dots):
     H = collections.defaultdict(list)
     V = collections.defaultdict(list)
     for i, s in enumerate(segs):
-        (H if s[0] == "H" else V)[round(s[2])].append(i)
+        # H indexed by its y, V by its x -- the line's fixed coordinate.
+        # Indexing V by its starting y (an early bug) meant a wire ending
+        # partway along a vertical line was never seen to touch it.
+        if s[0] == "H":
+            H[round(s[2])].append(i)
+        else:
+            V[round(s[1])].append(i)
 
     # every meeting point -> list of (seg index, direction leaving the point)
     meet = collections.defaultdict(list)
