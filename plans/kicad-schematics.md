@@ -208,6 +208,62 @@ authored text directly instead. **Author text, validate with `kicad-cli`.**
 
 ---
 
+## The query and check layer
+
+`kevins-kicad-helpers` (`github.com/lynaghk/kevins-kicad-helpers`, KiCad 10)
+supplies the piece the OnSpeed framework does not: its `kkh-analyze-schematic`
+exports a netlist, loads it into a graph database and runs **custom checks** —
+I2C address conflicts, aggregate current from `max_mA` properties, total
+capacitance on a rail. `kkh build` then runs ERC/DRC plus those checks and emits
+BOM, PDFs and artefacts stamped with the git revision.
+
+Don't adopt it wholesale — the analyzer is Clojure-backed and the rest of the
+repo is JLCPCB/PCB manufacturing, which we have no use for. **Adopt the
+pattern**, and note that for us it is simpler than it is for Kevin: our source
+of truth is already a table, so queries run directly against `wirelist.tsv`
+without a KiCad netlist in the loop at all.
+
+```
+wirelist.tsv  (source of truth, hand-reviewed)
+     |
+     +--> queries: "what touches the GTN?"      <- DuckDB / pandas, trivial
+     +--> generate .kicad_sch  (OnSpeed gen framework)
+     |         |
+     |         +--> kicad-cli export netlist --> diffnet vs wirelist  [THE CONTRACT]
+     +--> generate CONNECTORS pin tables
+     +--> generate CABLES schedule
+     +--> generate BOM
+```
+
+The netlist diff is what keeps the drawings honest: the schematic is only
+correct if its exported netlist still matches the wire list it was generated
+from.
+
+### Checks worth writing — these are aircraft-specific and are the real payoff
+
+Kevin checks I2C addresses because he builds boards. Our equivalents:
+
+- **Wire gauge adequate for its protection** — every circuit's AWG against its
+  breaker/fuse rating, per AC 43.13-1B ampacity.
+- **Every circuit traces to a breaker or fuse.** No unprotected runs.
+- **Every wire has a gauge and a net name.** Catches extraction gaps.
+- **No net with a single endpoint** — the signature of a transcription error.
+- **Ground assignment is explicit** — every ground lands on a named ground net,
+  never a bare `GND`.
+- **VPX channel assignments reconcile** against the VP-X load-planning worksheet
+  already in GDrive (`Public/Schematics/VP-X_Pro-Sport_LPW.xls`).
+
+A `kkh build`-style single command should run all of these plus ERC, the
+overlap and text-crowding checks, and regenerate the PDFs — so "are the
+drawings still true?" is one command, not an afternoon.
+
+### Aside — DXF
+
+Kevin's `dxf-import/` syncs DXF geometry into KiCad by target layer with live
+reload. If a panel-layout drawing is ever wanted, that is the route, and it
+gives `Ritchierev24_Approved cut.DXF` (currently unfiled, in `~/Downloads`) a
+destination.
+
 ## Phases
 
 **Phase 0 — decide.** KiCad 10 upgrade; where the project lives (repo vs GDrive —
@@ -241,26 +297,28 @@ feedline.
 
 ---
 
+## Decisions taken
+
+1. **The project lives in the repo**, not GDrive. Diffability is most of the
+   value. `build.sh` compiles only sections 00–09, so KiCad files sit outside
+   the PDF build and disturb nothing.
+2. **KiCad 10.** Both toolchains we are borrowing from target it.
+3. **RV-801 is answered.** Vern draws in **ExpressSCH**
+   (`expresssch.apponic.com`; discussion at
+   `vansairforce.net/threads/wire-harness-design-software.201505/`). Worth
+   knowing what that implies: ExpressSCH is a *drawing* tool with minimal
+   netlist backing — which is why his sheets look hand-crafted, and why his
+   `CONNECTORS` table has to be maintained by hand against his schematics. We
+   get his look **with a real netlist underneath**, which is strictly better
+   than the original we are imitating.
+
 ## Open questions
 
-1. **Where does the project live?** The repo gives version control and review,
-   which is most of the value. But `build.sh` only compiles sections 00–09 for the
-   PDF, so KiCad files would need to sit outside that — and binary-ish schematic
-   files in a handbook repo is a judgement call. GDrive gives sharing but no diffs.
-   **Recommendation: the repo.** Diffability is the whole point.
-
-2. **Upgrade KiCad to 10?** Recommended, see above.
-
-3. **How much does the wire list need to carry?** Minimum is connectivity. Richer
-   options: wire colour, AWG, terminal type, routing path, length, splice
-   locations. Richer costs more to populate and more to keep true. Suggest starting
-   at net/from/to/AWG/colour/sheet and growing only where a question actually
-   demanded it.
-
-4. **RV-801** — the Linear issue naming Vern's style could not be read; no API key
-   is configured on this machine.
-
----
+1. **How much does the wire list need to carry?** Minimum is connectivity.
+   Richer options: wire colour, AWG, terminal type, routing path, length, splice
+   locations. Richer costs more to populate and more to keep true. Suggest
+   starting at net/from/to/AWG/colour/sheet and growing only where a question
+   actually demanded it.
 
 ## Reference
 
