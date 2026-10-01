@@ -14,8 +14,8 @@ N720AK's communications stack includes the **Garmin GMA 245** audio panel, **Dyn
 | Com radio | [GTN 650](https://drive.google.com/file/d/1sfoTlZ5wrmtwO3mMsBR-yLXfv64Wy9II/view) Com | Garmin | Integrated in GTN 650 |
 | Com radio 2 | [SV-COM-425](https://drive.google.com/file/d/1UfjDYUc6NpaRH4Fd9VGXTsmC3CkCvkWE/view) | Dynon | A complete second com radio, not just a control head: the SV-COM-425 kit is an SV-COM-C25 panel head plus a remote SV-COM-T25 transceiver. The antenna BNC is on the **T25**. <!-- TODO: where is the T25 mounted? Needed before any radio-end coax work on COM 2. --> |
 | Nav antenna | [Bob Archer](https://drive.google.com/file/d/1tpQ1PFsuzGcuJrZAru651fHs_7vxFHb9/view) | <!-- TODO --> | Single nav antenna for GTN 650 |
-| Com antenna 1 | [CI-121](https://drive.google.com/file/d/1KGBLLrU7Iy-crf-HF9dJbJl_PzbOfsHo/view) | Comant | Top of fuselage |
-| Com antenna 2 | [CI-122](https://drive.google.com/file/d/1P0qMaKxGBthdWucwykEZOPH_o9H4uJYB/view) | Comant | Bottom of right wing |
+| Com antenna, top | [CI-121](https://drive.google.com/file/d/1KGBLLrU7Iy-crf-HF9dJbJl_PzbOfsHo/view) | Comant | Top of fuselage — feeds **COM 2** (Dynon) |
+| Com antenna, right wing | [CI-122](https://drive.google.com/file/d/1P0qMaKxGBthdWucwykEZOPH_o9H4uJYB/view) | Comant | Bottom of right wing — feeds **COM 1** (GTN) |
 | Intercom | GMA 245 internal | Garmin | 4-place |
 
 ## How It Works
@@ -60,35 +60,47 @@ All antenna coax is RG-400. See [wing root connectors](sys-24-electrical.md#wing
 
 #### Feedline Mapping
 
-Confirmed at the airplane **2026-09-22**, during the COM 1 receive
-investigation:
+Established **2026-09-30** by physically tracing both runs end to end. This
+corrects the build-record entry *and* corrects a wrong determination made on
+2026-09-22 — see the caution below.
 
 | | COM 1 | COM 2 |
 |---|---|---|
 | Radio | Garmin **GTN 650** com | Dynon **SV-COM** (T25 transceiver) |
 | Audio panel input | GMA 245 COM 1 | GMA 245 COM 2 |
-| Antenna | **CI-121**, top of fuselage | **CI-122**, bottom of right wing |
-| Radio-end connector | Back of the GTN tray, **outboard side** | At the T25 |
+| Antenna | **CI-122**, bottom of right wing | **CI-121**, top of fuselage |
+| Radio-end connector | Back of the GTN tray, outboard side | At the T25 |
+| Inline splice | **Barrel at the right wing root** | none known |
 
-The radio assignment comes from the SteinAir interconnect drawing (GTN P1003 →
-GMA 245 COM 1) and is corroborated by the VPX circuit labelled "COM 2
-(SV-COM)" in [Electrical Power](sys-24-electrical.md). The antenna assignment
-was previously an unsourced build-record entry; it is now confirmed by
-direction — the coax leaving the GTN's com BNC runs **up and aft toward the
-cabin top**, not outboard toward the wing root.
+The radio assignment is solid: it comes from the SteinAir interconnect drawing
+(GTN P1003 → GMA 245 COM 1) and is corroborated by the VPX circuit labelled
+"COM 2 (SV-COM)" in [Electrical Power](sys-24-electrical.md).
 
-Two consequences that matter for diagnostics:
+**The antenna assignment is the opposite of what this page said for years.**
+COM 1 — the GTN — feeds the **CI-122 under the right wing**, and its coax
+reaches the wing through an inline barrel at the **right wing root**, beside
+the Archer's nav barrel. COM 2 feeds the **CI-121 on top**.
 
-- **COM 1's feedline never passes through the wing root.** The NAV and COM
-  barrels found in contact at the right wing root on 2026-09-16 are therefore
-  the **nav** and **COM 2** feedlines, not COM 1. They were separated and
-  secured the same day — that item is closed, and it is unrelated to the COM 1
-  fault.
+> **Caution — do not identify these feedlines by coax direction behind the
+> panel.** On 2026-09-22 the mapping was "confirmed" by observing that the
+> coax at the GTN's com BNC appeared to run up and aft toward the cabin top
+> rather than outboard. That conclusion was wrong. Several coax runs leave the
+> panel area together and separate further aft, so apparent direction at the
+> connector proves nothing. Trace a run end to end, or ring it out, before
+> relying on it.
+
+Consequences worth carrying forward:
+
+- **COM 1's feedline passes through the right wing root**, where it has an
+  inline barrel. The NAV and COM barrels found in contact there on 2026-09-16
+  were the **nav** and **COM 1** feedlines.
 - **There is not enough slack at the radio end to swap the two com
-  feedlines**, so a direct COM 1 ↔ COM 2 A/B swap is not available as a
-  diagnostic on this airframe. Substituting a test antenna at the radio, or
-  sweeping the feedline from the radio end, replaces it.
-
+  feedlines**, so a direct COM 1 ↔ COM 2 A/B swap is not available on this
+  airframe. Substituting a test antenna at the radio, or sweeping a feedline
+  from the radio end, replaces it.
+- The wing-root barrel is the one connector in either com run that is **not**
+  at a radio or an antenna, and it is the one that failed. Treat it as a
+  first-look item for any com complaint.
 
 ### NAV Antenna
 
@@ -117,142 +129,90 @@ GTN 650 works through it.
 **Diagnostics**: `plans/vor-antenna-diagnostic.md` covers the RF interference
 survey, VNA measurement, and the antenna rebuild dimensions.
 
-### COM 1 Receive Fault — 2026-09-22
+### COM 1 Receive Fault — Resolved 2026-09-30
 
-COM 1 (GTN 650 → CI-121) receives so poorly as to be unusable: a strong
-transmitter on the field will not break squelch. Recurring, not new. Measured
-at the airplane on 2026-09-22 with the coax broken at the **GTN tray barrel**
-(back of the tray, outboard side).
+COM 1 (GTN 650) had been poor on receive for months and went fully
+unusable after 2026-09-16: a transmitter on the field would not break
+squelch.
 
-**Observations**
+**Root cause.** The inline coax barrel in COM 1's run **at the right wing
+root had never been locked.** It was held closed only by pressure from the
+adjacent cables. On 2026-09-16 the COM and NAV barrels were found touching
+and were pulled apart; that removed the pressure holding COM 1's barrel
+together and opened the centre contact. Reconnecting and locking the barrel
+on 2026-09-30 restored normal reception.
 
-| Test | Result |
+**One defect, both radios.** The unlocked barrel plausibly explains the nav
+symptoms too. A loose, oxidising, vibrating metal junction carrying RF is a
+weak nonlinear junction — passive intermodulation — and therefore a
+broadband noise source, not merely a lossy connection. With the two barrel
+shells in direct metal-to-metal contact, that noise had a low-impedance path
+straight onto the nav feedline shield, which fits the static heard near VORs
+even though **the nav barrel itself was properly locked throughout.**
+Separating the barrels removed the coupling path, which is consistent with
+the nav side improving the same day.
+
+Treat that as the leading explanation rather than a proven one: the nav coax
+was *also* reseated at the GTN on 2026-09-16, so the two candidate fixes are
+confounded. **If nav static ever returns, the GTN-end nav connector is the
+remaining suspect** — the barrel coupling path no longer exists.
+
+#### What the measurements showed
+
+| Test | Result | Held up? |
+|---|---|---|
+| COM 1 on aircraft antenna | High noise floor; noise dropped when a station keyed, so AGC was capturing; squelch would not break | Yes — signal loss, not noise ingress. The hiss was the receiver's own noise under an AGC running wide open. |
+| COM 1 on a telescopic whip at the same BNC | Good: low noise, squelch breaks | Yes — radio exonerated |
+| Loads switched off to bus minimum | No change | Yes — no onboard noise source |
+| Coax shield → airframe at the GTN end | 0.1–0.2 Ω (leads 0.1 Ω) | Partly — proves a good path to ground, but **not** that the run reaches the antenna; a shield can pick up a bond anywhere |
+| **TDR from the GTN tray** | **Open at 8.25 ft** | **Yes — decisive.** That distance lands on the wing-root barrel |
+
+Swept 1–900 MHz and 1–1500 MHz, transformed with velocity factor 0.695
+(`scripts/vna_tdr.py`). Four sweeps spanning two bandwidths agreed within a
+quarter inch, and the fault remained a single feature at 2.7 in resolution.
+Wide-band sweeps are what make this measurable: the COM band's 60 MHz span
+resolves only 5.7 ft.
+
+#### Known-good reference numbers
+
+| Measurement | Value |
 |---|---|
-| COM 1 on aircraft antenna | Very high noise floor; noise drops when a station keys, so AGC is capturing; squelch barely twitches |
-| COM 1 antenna disconnected | All static, no reception — only marginally worse than connected |
-| COM 1 on telescopic whip at the same BNC | **Good.** Low noise floor, squelch breaks cleanly, close to COM 2 |
-| Electrical loads switched off one at a time, down to bus minimum | No change in noise floor |
-| Barrel flexed and worked while listening | No change |
-| Coax shield → airframe, at the GTN end | **0.1–0.2 Ω** (leads 0.1 Ω) = 0.0–0.1 Ω actual |
-| Centre → shield | **Not measured** |
+| CI-121 (top, **COM 2**) swept at its base | 1.5:1 mean, **1.3 at 132.1 MHz** |
+| COM 2 full run, CI-121 to T25 | **16.9 ft** |
+| COM 1, GTN tray to wing-root barrel | **8.25 ft** |
+| Coax shield to airframe, good bond | 0.0–0.1 Ω |
 
-**Interpretation.** This is signal loss, not noise ingress. The static is the
-receiver's own noise under an AGC running wide open for want of signal; that
-the chain is only marginally better than a disconnected antenna puts the loss
-somewhere around 15–25 dB.
+#### Errors made during this diagnosis — recorded so they are not repeated
 
-**Eliminated:** the GTN's receiver (works on a whip at the same connector) and
-any onboard noise source (loads have no effect).
+The antenna mapping on this page was **backwards**, and that contaminated
+much of the investigation:
 
-**Read the shield measurement carefully.** 0.0–0.1 Ω from the coax braid to
-airframe proves there is a good conductive path to ground, but *not* that the
-path runs through the CI-121's flange — a shield can pick up a bond anywhere
-along its run. It therefore does **not** establish that the coax is still
-connected at the antenna.
+- The mapping was "confirmed" on 2026-09-22 by observing which way the coax
+  left the GTN's BNC. **That proved nothing** — several runs leave the panel
+  together and separate further aft. Trace end to end or ring it out.
+- The loop-continuity test jumpered the **top antenna's** cable and measured
+  at the GTN, which is a *different run*. It read open for that reason, not
+  because of the fault.
+- The 16.9 ft TDR reading was taken on COM 2's cable with its far end
+  disconnected at the T25 — so it was the **open far end of a healthy
+  cable**, not a fault. Summing it with the 8.25 ft reading produced a
+  "24.6 ft total run" figure that was two different cables added together and
+  meant nothing.
+- Acting on that, a **serviceable** RG-400 run (COM 2 to the CI-121) was
+  replaced. See `avionics-log` 2026-09-29.
 
-### NanoVNA sweep, 2026-09-22
+The one measurement that survived unaffected was the TDR distance from the
+GTN tray, which pointed at the wing-root barrel from the start.
 
-Swept from the GTN tray barrel looking outward, 100–160 MHz, 401 points.
-Uncalibrated screening sweep — adequate for this verdict, since calibration
-error at VHF is worth a few tenths of SWR and cannot manufacture the result
-below.
+#### Carry forward
 
-| Frequency | SWR |
-|---|---|
-| 100 MHz | 21.4 |
-| 120 MHz | 18.1 |
-| 127 MHz | 17.6 |
-| 140 MHz | 17.6 |
-| 160 MHz | 15.3 |
-
-**No resonance anywhere across 60 MHz of sweep.** A healthy CI-121 shows a
-minimum of 1.1–1.5 somewhere in 118–137. Mean |Γ| 0.894 — 80% of power
-reflected. The smooth monotonic slope is cable loss rising with frequency
-attenuating the return, which is the signature of **total reflection at the
-end of a lossy line**: an open circuit.
-
-**The open is not at the panel-end barrel.** A fault at the measurement port
-would read near-infinite SWR with no frequency slope. The observed ~1 dB
-return loss implies roughly 0.5 dB one-way cable loss to the fault — at
-RG-400's ~2.6 dB/100 ft, on the order of **15–20 ft of cable**, which is about
-the run length from the panel to the top of the fuselage. This is consistent
-with flexing the panel-end barrel having had no effect.
-
-### The antenna is good — the feedline is the fault
-
-The CI-121 was found **properly connected** at its base, with no visible
-corrosion or damage. Swept directly at the antenna base connector with the
-coax removed, same instrument and same state minutes after the feedline
-sweep:
-
-| Sweep | Mean SWR | Resonance | Verdict |
-|---|---|---|---|
-| **CI-121 alone**, at the antenna base | **1.5** | 1.3 at **132.1 MHz** | Healthy |
-| Antenna + feedline, from the GTN tray | 17.8 | none | Open |
-
-Spot values for the antenna alone: 118 = 1.8, 122.8 = 1.6, 127 = 1.6,
-132 = 1.3, 136.975 = 1.5.
-
-**Keep 1.3 at 132.1 MHz as the known-good reference for this CI-121.** It is
-a directly measured baseline for future comparison.
-
-**Conclusion:** the antenna is healthy and the **coax run between the GTN
-tray barrel and the CI-121 base is open**. The centre conductor path is
-broken somewhere in the cable or in one of its two end connectors. The
-barrel disturbed on 2026-09-16 is not implicated — flexing it changed
-nothing, and the measured loss to the fault puts it well away from the
-panel end.
-
-### Locating the break — DC and TDR
-
-**Loop continuity.** With the coax free at both ends, centre shorted to shield
-at the CI-121 end, the GTN end read **open**. The run is broken; the antenna
-is not in the circuit at all.
-
-**Time-domain reflectometry.** Swept 1–900 MHz from each end in turn with the
-far end open, transformed with velocity factor 0.695 for RG-400
-(`scripts/vna_tdr.py`, 0.116 m resolution):
-
-| Swept from | Distance to the open |
-|---|---|
-| GTN panel end | **2.67 m — 8.77 ft** |
-| CI-121 antenna end | **5.15 m — 16.90 ft** |
-| **Total run length** | **7.82 m — 25.67 ft** |
-
-Two independent measurements from opposite ends, each showing a single
-dominant reflection, summing to a coherent run length. Neither end connector
-shows anything beyond the normal adapter reflection at 0.16 m, and nothing
-appears between the port and the break on either sweep — the cable is clean
-up to the fault from both directions.
-
-**The break is mid-run, roughly 8.8 ft of cable from the GTN tray**, not at
-either termination. Wide-band sweeps are what make this measurable: at the
-COM band's 60 MHz span the resolution is 5.7 ft, useless here; at 1–900 MHz
-it is 4.6 in.
-
-**Measured from the coax connector's own face** rather than the VNA
-reference plane (subtracting the 0.16 m adapter reflection seen on every
-sweep): the break is **8.25 ft** from the GTN end and **16.37 ft** from the
-antenna end, in a run of about **24.6 ft**. Use 8.2–8.3 ft when tracing with
-a tape.
-
-**Confidence.** Four sweeps from the panel end — three at 1–900 MHz and one at
-1–1500 MHz — span 8.75–8.77 ft, a spread of a quarter inch. The 1500 MHz
-sweep is the meaningful check rather than the repeats: different bandwidth,
-different window, 2.7 in resolution instead of 4.6, and the feature does not
-move. Velocity-factor error is not a threat either — sweeping VF from 0.66 to
-0.72 moves the answer only from 8.33 to 9.09 ft, and RG-400 is solid PTFE at
-0.695.
-
-At 2.7 in resolution the fault is still a **single feature**, which points to
-one discrete injury — a connector or a sharp local damage — rather than a
-degraded length of cable.
-
-**Total COM 1 coax length is ~24.6 ft** — not previously recorded.
-
-<!-- TODO: physical location of the break at 8.8 ft; cause; repair. -->
-<!-- TODO: COM 1 coax routing from the panel to the CI-121 — undocumented. -->
-
+- **The wing-root barrel is the only connector in either com run that is not
+  at a radio or an antenna, and it is the one that failed.** First-look item
+  for any com complaint.
+- A BNC that *feels* mated is not latched. Twist to the detent and tug — on
+  both halves of an inline barrel.
+- Keep the COM and NAV barrels apart, but secure each one so neither depends
+  on the other for contact pressure.
 
 ### Transponder & ADS-B Antennas
 
@@ -376,8 +336,8 @@ the forced-landing checklists activate it **early**, while the panel is still up
 
 | Function | Antenna | Location |
 |----------|---------|----------|
-| COM 1 | Comant CI-121 | Top of fuselage |
-| COM 2 | Comant CI-122 | Bottom of right wing |
+| COM 1 | Comant CI-122 | Bottom of right wing |
+| COM 2 | Comant CI-121 | Top of fuselage |
 | NAV | Bob Archer | <!-- TODO --> |
 | Transponder | SteinAir 104-12 | <!-- TODO --> |
 | ADS-B | SteinAir 104-17 | <!-- TODO --> |
