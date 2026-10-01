@@ -230,7 +230,7 @@ def build(sheet, rows, title, layout="aligned", index=1):
             y = g(yc + h / 2 + 7.62)
         return y
 
-    def place_aligned(c, x, side, y0):
+    def place_aligned(c, x, side, y0, first=True):
         """Put each pin at the height of the pin it feeds on the other column."""
         partner = {}
         for r in rows:
@@ -259,6 +259,11 @@ def build(sheet, rows, title, layout="aligned", index=1):
             while any(abs(y - u) < PITCH - 0.01 for u in taken):
                 y = g(y + PITCH)
             taken.append(y); ys[p] = y
+        # A second connector in the column must start below the first, even
+        # if that costs it its alignment.
+        drop = g(y0 + PITCH - min(ys.values()))
+        if not first and drop > 0:
+            ys = {p: g(v + drop) for p, v in ys.items()}
         order = sorted(pins[c], key=lambda p: ys[p])
         top = min(ys.values())
         plist = [(p, pin_name.get((c, p), "")) for p in order]
@@ -274,11 +279,11 @@ def build(sheet, rows, title, layout="aligned", index=1):
     # its pins and fuse nets. Leave room for right-side label flags too.
     XR = g(lane_start + n_lanes * 2.54 + 45.72 + BODY_W)
     if layout == "aligned":
-        # one connector on the left: line its rows up with the pins they feed
+        # line the left column's rows up with the pins they feed
         place_stacked(right, XR, "L", 40.64)
         y = 40.64
-        for c in left:
-            y = place_aligned(c, XL, "R", y)
+        for k, c in enumerate(left):
+            y = place_aligned(c, XL, "R", y, first=k == 0)
     else:
         # Stacked, with the right column offset by half a pitch so that no two
         # pins anywhere on the sheet share a y. With every wire in its own
@@ -452,6 +457,11 @@ def actual_nets(netfile, refdes, rows):
 
 
 def verify(sch, rows, refdes, quiet=False):
+    """Export `sch`'s netlist and compare it with the nets `rows` imply.
+
+    On the project root this checks every sheet at once, which is what proves
+    the cross-sheet labels: a label shared by two sheets must merge their nets.
+    """
     with tempfile.TemporaryDirectory() as td:
         net = os.path.join(td, "out.net")
         r = subprocess.run([KCLI, "sch", "export", "netlist", "--format", "kicadsexpr", "-o", net, str(sch)],
@@ -489,8 +499,9 @@ def verify(sch, rows, refdes, quiet=False):
 
 
 TITLES = {"O2": "Mountain High Oxygen", "PWR": "Power & Lighting", "SV": "SkyView Interconnect",
-          "EMS": "Engine Monitoring", "ONSPEED": "OnSpeed AoA"}
-ORDER = ["PWR", "SV", "O2", "ONSPEED", "EMS"]
+          "EMS": "Engine Monitoring", "ONSPEED": "OnSpeed AoA",
+          "WING": "Wings & Under-Seat Terminal Blocks"}
+ORDER = ["PWR", "SV", "O2", "ONSPEED", "EMS", "WING"]
 
 
 def write_project(sheets):
@@ -547,7 +558,7 @@ def make_sheet(sheet, index, render):
         pdf = out.with_suffix(".pdf")
         subprocess.run([KCLI, "sch", "export", "pdf", "-o", str(pdf), str(out)], capture_output=True)
         print(f"  rendered {pdf.relative_to(REPO)}")
-    return ok
+    return ok, rows, refdes
 
 
 def main():
@@ -571,10 +582,21 @@ def main():
         if s not in built:
             print(f"{s}: nothing drawable yet (every row is flagged for review) - skipped")
     sheets = built
+    all_rows, all_refdes = [], {}
     for s in sheets:
-        ok &= make_sheet(s, ORDER.index(s) + 1 if s in ORDER else 9, a.render)
+        good, rows, refdes = make_sheet(s, ORDER.index(s) + 1 if s in ORDER else 9, a.render)
+        ok &= good
+        all_rows += rows
+        clash = set(all_refdes) & set(refdes)
+        if clash:
+            print(f"  {s}: connectors also drawn on another sheet: {sorted(clash)} -- "
+                  "a connector belongs to one sheet; refer to it from others by label")
+            ok = False
+        all_refdes.update(refdes)
     if not a.sheets:
         root = write_project([s for s in ORDER if s in sheets])
+        print(f"\nproject, all sheets together (cross-sheet labels must merge their nets):")
+        ok &= verify(root, all_rows, all_refdes)
         with tempfile.TemporaryDirectory() as td:
             net = os.path.join(td, "all.net")
             r = subprocess.run([KCLI, "sch", "export", "netlist", "--format", "kicadsexpr", "-o", net, str(root)],

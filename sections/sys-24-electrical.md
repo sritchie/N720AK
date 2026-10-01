@@ -618,6 +618,9 @@ Complete wiring map of the aircraft, from tail to firewall.
 
 ### Terminal Blocks Under Seats
 
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv and wiring/EMS.tsv. Keep the headings and columns; an unrecognised function stops the extractor rather than being dropped. -->
+
+
 Two terminal blocks located under the front seats distribute wiring between the wing roots, center tunnel, and panel.
 
 #### Left Terminal Block
@@ -648,6 +651,9 @@ Two terminal blocks located under the front seats distribute wiring between the 
 | 9 | Nav power |
 
 ### Wing Root Connectors (CPC)
+
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv and wiring/EMS.tsv. Keep the headings and columns; an unrecognised function stops the extractor rather than being dropped. -->
+
 
 CPC barrel connectors (series 1, 17–18 pin) at each wing root carry all wing wiring.
 
@@ -717,6 +723,9 @@ Wire color mapping between the wing harness and the Dynon roll/pitch servo conne
 
 ### Dynon EMS-220 Connector (37-Pin)
 
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv and wiring/EMS.tsv. Keep the headings and columns; an unrecognised function stops the extractor rather than being dropped. -->
+
+
 Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 
 #### Through Firewall
@@ -778,6 +787,8 @@ Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 | 31 | Monkworkz MZ-30 proportional current (was CO Guardian PPM input) | Brown/blue — 0–2.7V proportional to 0–30A generator output. Sensor definition not yet configured in Dynon. **CO Guardian unit itself is still installed in the cabin and provides an audible alarm above 50 PPM**; only the Dynon EMS PPM display was removed. The audible alarm is currently not wired into the audio panel — it sounds in the cabin but is not heard through the headsets. |
 | 32 | RPM input left (high voltage) | Not used (using pin 34 low voltage) |
 | 33 | RPM input right (high voltage) | Not used (using pin 35 low voltage) |
+| 36 | General thermocouple 2+ | Not used |
+| 37 | General thermocouple 2− | Not used |
 | 36 | General thermocouple 2+ | Not used |
 | 37 | General thermocouple 2− | Not used |
 

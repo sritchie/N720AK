@@ -630,10 +630,10 @@ SV_RESOLVED = {
     ("GTN P1001", "58"): [dict(to_ref="GTN FAN", to_pin="", notes="Fan Tach In")],
     ("GTN P1001", "59"): [dict(to_ref="GTN FAN", to_pin="", notes="Fan Power")],
     ("ARTEX 345 ELT DB15", "8"): [dict(to_ref="ELT BUZZER", to_pin="", notes="Buzzer Power Out")],
-    ("SV-AP-PANEL DB-15", "7"): [dict(to_ref="PITCH TRIM SERVO MOTOR", to_pin="1", notes="Pitch Trim Motor Output 1")],
-    ("SV-AP-PANEL DB-15", "8"): [dict(to_ref="PITCH TRIM SERVO MOTOR", to_pin="2", notes="Pitch Trim Motor Output 2")],
-    ("SV-AP-PANEL DB-15", "14"): [dict(to_ref="ROLL TRIM SERVO MOTOR", to_pin="1", notes="Roll Trim Motor Output 1")],
-    ("SV-AP-PANEL DB-15", "15"): [dict(to_ref="ROLL TRIM SERVO MOTOR", to_pin="2", notes="Roll Trim Motor Output 2")],
+    ("SV-AP-PANEL DB-15", "7"): [dict(to_ref="PITCH TRIM MOTOR A", to_pin="", notes="Pitch Trim Motor Output 1. The motor is in the tail; the label joins TB-L on the WING sheet")],
+    ("SV-AP-PANEL DB-15", "8"): [dict(to_ref="PITCH TRIM MOTOR B", to_pin="", notes="Pitch Trim Motor Output 2. The motor is in the tail; the label joins TB-L on the WING sheet")],
+    ("SV-AP-PANEL DB-15", "14"): [dict(to_ref="ROLL TRIM MOTOR A", to_pin="", notes="Roll Trim Motor Output 1. The motor is in the left wing; the label joins TB-L on the WING sheet")],
+    ("SV-AP-PANEL DB-15", "15"): [dict(to_ref="ROLL TRIM MOTOR B", to_pin="", notes="Roll Trim Motor Output 2. The motor is in the left wing; the label joins TB-L on the WING sheet")],
     ("GMA245 J2", "20"): [dict(to_ref="GRIPS", to_pin="COM SWAP",
                                notes="COM Swap button on the grips, drawn as an off-sheet arrow")],
 }
@@ -756,9 +756,14 @@ def extract_sv_interconnect(pdf):
     return rows
 
 
+import wirelist_handbook  # noqa: E402
+
 EXTRACTORS = {"O2": ("MH_Oxygen.pdf", extract_mh_oxygen),
               "PWR": ("Power__Lighting.pdf", extract_power_lighting),
-              "SV": ("SV_Interconnect.pdf", extract_sv_interconnect)}
+              "SV": ("SV_Interconnect.pdf", extract_sv_interconnect),
+              # no drawing covers these: read from the handbook's own tables
+              "WING": (wirelist_handbook.SYS24, wirelist_handbook.extract_wing),
+              "EMS": (wirelist_handbook.SYS24, wirelist_handbook.extract_ems)}
 
 
 def main():
@@ -777,7 +782,7 @@ def main():
         ap.error("give --sheet or --dump")
 
     name, fn = EXTRACTORS[a.sheet]
-    pdf = DROPBOX / name
+    pdf = name if isinstance(name, Path) else DROPBOX / name
     if not pdf.exists():
         print(f"error: {pdf} not found", file=sys.stderr)
         return 1

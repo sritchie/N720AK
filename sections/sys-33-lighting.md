@@ -44,6 +44,8 @@ The wingtips attach via **piano hinge modification** — they can be removed ent
 
 ### Wingtip Connectors (CPC Series 1, 9-Pin)
 
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv. Keep the heading and columns. -->
+
 Each wingtip connects via a CPC barrel connector. Pin assignments are identical left and right.
 
 <!-- TODO: CPC connector part numbers (shell size, pin count, manufacturer P/N) -->
@@ -88,20 +90,19 @@ Ground via mounting screw (H1).
 
 ![AeroSun VX wiring diagram](images/aerosun-vx-wiring-diagram.png)
 
-Two-light wig-wag configuration. Each AeroSun VX has a 5-wire connection:
+Each AeroSun Vx has five leads. Per the installation manual (Rev C, §6.1, "Dual AeroSun Vx Landing/Taxi Lights with Pulse"):
 
 | Wire | Function |
 |------|----------|
 | Red | Landing power |
+| Blue | Taxi power |
+| Yellow | Wig-wag power |
 | Black | Ground |
-| Green | Recognition (wig-wag) power |
-| Blue | — |
-| Yellow | Taxi power |
+| Green | Sync — green to green between the pair |
 
-Three switches control the pair:
-- **S4** (Landing) — both lights steady on
-- **S5** (Recognition / wig-wag) — alternating flash
-- **S1** (Taxi) — both lights at reduced intensity
+N720AK follows this: the two greens meet at TB-R position 3 under the right seat, and landing, taxi and wig-wag are switched VP-X outputs landing on TB-R 6, 4 and 5.
+
+The older AeroLEDs "Vx Wiring Diagram" above predates Rev C and assigns the colours differently (yellow on the wig-wag switch, green/blue on taxi and cross-linked between the lights). **Go by the Rev C table above.** It is kept for reference only.
 
 See also: [Wing root connector pinouts](sys-24-electrical.md#wing-root-connectors-cpc) in the Electrical reference for the full wing-to-fuselage wiring.
 

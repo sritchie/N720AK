@@ -32,4 +32,3 @@ EMS		SV-EMS-220 DB37	26	MAP SENSOR	SIG	Grn/Red			MAP sensor input, routed across
 EMS		SV-EMS-220 DB37	30	TRIM SENSOR GROUND		Blk			Ground (roll trim, elevator trim), routed down the left side, under the panel	
 EMS		SV-EMS-220 DB37	34	RPM LEFT (low-voltage tach)		Blu			Low voltage RPM input left, routed across the panel. source not recorded in the handbook	
 EMS		SV-EMS-220 DB37	35	RPM RIGHT (low-voltage tach)		Grn			Low voltage RPM input right, routed across the panel. source not recorded in the handbook	
-EMS	MZ30 current	MZ-30 OUTPUT MOLEX	5	SV-EMS-220 DB37	31	Brn/Blu			C011: MZ-30 Proportional_Current (output Molex pin 5, 0-2.7 V = 0-30 A) on EMS pin 31, reusing the CO detector's brown/blue wire. The handbook's EMS table was updated 2026-03-04 and the MZ-30 installed 2026-03-09. Pin 31 can only be the DB37: the EMS's other connector is a DB25. The MZ-30 'Output Active' status wire (output Molex pin 2) is not connected.	

@@ -1,0 +1,112 @@
+sheet	net	from_ref	from_pin	to_ref	to_pin	color	awg	protection	notes	review
+WING		TB-R (under right seat)	4	TAXI LIGHTS POWER					TB-R 'Taxi power' is the VP-X output PWR names TAXI LIGHTS POWER; the label joins the two sheets	
+WING		TB-R (under right seat)	5	WIGWAG POWER					TB-R 'Wig-wag power' is the VP-X output PWR names WIGWAG POWER; the label joins the two sheets	
+WING		TB-R (under right seat)	6	LANDING LIGHTS POWER					TB-R 'Landing power' is the VP-X output PWR names LANDING LIGHTS POWER; the label joins the two sheets	
+WING		TB-R (under right seat)	8	STROBE LIGHTS POWER					TB-R 'Strobe power' is the VP-X output PWR names STROBE LIGHTS POWER; the label joins the two sheets	
+WING		TB-R (under right seat)	9	NAV LIGHTS POWER					TB-R 'Nav power' is the VP-X output PWR names NAV LIGHTS POWER; the label joins the two sheets	
+WING		TB-R (under right seat)	1	LIGHTS GROUND					TB-R 1, 'Ground (house, L side)'. The 16 AWG light ground at the right gear mount	
+WING		LEFT WING ROOT CPC	1	LEFT WINGTIP CPC	1	Ora			AeroSun bundle, same colour at both CPCs	
+WING		LEFT WING ROOT CPC	2	LEFT WINGTIP CPC	9	Blk			AeroSun VX shield drain to the tip CPC's only ground pin. Inferred: AeroLEDs uses the shield as the light's ground return	
+WING		LEFT WING ROOT CPC	3	LEFT WINGTIP CPC	4	Ora			Pulsar bundle, same colour at both CPCs	
+WING		LEFT WING ROOT CPC	4	LEFT WINGTIP CPC	2	Blu			AeroSun bundle, same colour at both CPCs	
+WING		LEFT WING ROOT CPC	5	LEFT WINGTIP CPC	5	Blu			Pulsar bundle, same colour at both CPCs	
+WING		LEFT WING ROOT CPC	6	LEFT WINGTIP CPC	6	Wht			Pulsar bundle, same colour at both CPCs	
+WING		LEFT WING ROOT CPC	7	LEFT WINGTIP CPC	9	Blk			Pulsar shield drain to the tip CPC's only ground pin. Inferred: AeroLEDs uses the shield as the light's ground return	
+WING		LEFT WING ROOT CPC	8	LEFT WINGTIP CPC	3	Wht			AeroSun bundle, same colour at both CPCs	
+WING		LEFT WING ROOT CPC	9	LEFT WINGTIP CPC	7	Grn			AeroSun sync, green at both ends	
+WING		LEFT WINGTIP CPC	7	LEFT AEROSUN VX	GRN (SYNC)	Grn			AeroSun Vx Rev C: green is the sync line, green to green between the pair	
+WING		LEFT WINGTIP CPC	9	LEFT AEROSUN VX	BLK (GROUND)	Blk			light ground	
+WING		LEFT WINGTIP CPC	9	LEFT PULSAR NS	BLK (GROUND)	Blk			light ground	
+WING		LEFT WINGTIP CPC	1	LEFT AEROSUN VX		Ora				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		LEFT WINGTIP CPC	4	LEFT PULSAR NS		Ora				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		LEFT WINGTIP CPC	2	LEFT AEROSUN VX		Blu				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		LEFT WINGTIP CPC	5	LEFT PULSAR NS		Blu				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		LEFT WINGTIP CPC	3	LEFT AEROSUN VX		Wht				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		LEFT WINGTIP CPC	6	LEFT PULSAR NS		Wht				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		LEFT WING ROOT CPC	1	TB-R (under right seat)		Ora				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		LEFT WING ROOT CPC	2	LIGHTS GROUND		Blk				Light-bundle shields at the cabin end: where do the AeroSun and Pulsar shield drains land? TB-R 1 is the recorded light ground, but no record says the shields go there
+WING		LEFT WING ROOT CPC	3	TB-R (under right seat)		Ora				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		LEFT WING ROOT CPC	4	TB-R (under right seat)		Blu				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		LEFT WING ROOT CPC	5	TB-R (under right seat)		Blu				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		LEFT WING ROOT CPC	6	TB-R (under right seat)		Wht				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		LEFT WING ROOT CPC	7	LIGHTS GROUND		Blk				Light-bundle shields at the cabin end: where do the AeroSun and Pulsar shield drains land? TB-R 1 is the recorded light ground, but no record says the shields go there
+WING		LEFT WING ROOT CPC	8	TB-R (under right seat)		Wht				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		LEFT WING ROOT CPC	9	TB-R (under right seat)	3	Grn			TB-R 3 joins the two AeroSun greens, 'one from R, one from L'	
+WING		LEFT WING ROOT CPC	10	TB-L (under left seat)	2	Ora			cabin side. harness colour matches Ray Allen's sensor lead colour (SkyView System Installation Guide, Fig. 79: white/orange +5 V, white/blue ground, white/green signal); the owner's EMS notes also name orange as the trim +5 V	
+WING		LEFT WING ROOT CPC	10	ROLL TRIM SERVO	WHT/ORA (SENSOR +5V)	Ora			wing side. harness colour matches Ray Allen's sensor lead colour (SkyView System Installation Guide, Fig. 79: white/orange +5 V, white/blue ground, white/green signal)	
+WING		LEFT WING ROOT CPC	11	TB-L (under left seat)	1	Blu			cabin side. harness colour matches Ray Allen's sensor lead colour (SkyView System Installation Guide, Fig. 79: white/orange +5 V, white/blue ground, white/green signal); the owner's EMS notes also name orange as the trim +5 V	
+WING		LEFT WING ROOT CPC	11	ROLL TRIM SERVO	WHT/BLU (SENSOR GND)	Blu			wing side. harness colour matches Ray Allen's sensor lead colour (SkyView System Installation Guide, Fig. 79: white/orange +5 V, white/blue ground, white/green signal)	
+WING		LEFT WING ROOT CPC	12	TB-L (under left seat)	3	Grn			cabin side. harness colour matches Ray Allen's sensor lead colour (SkyView System Installation Guide, Fig. 79: white/orange +5 V, white/blue ground, white/green signal); the owner's EMS notes also name orange as the trim +5 V	
+WING		LEFT WING ROOT CPC	12	ROLL TRIM SERVO	WHT/GRN (SENSOR SIGNAL)	Grn			wing side. harness colour matches Ray Allen's sensor lead colour (SkyView System Installation Guide, Fig. 79: white/orange +5 V, white/blue ground, white/green signal)	
+WING		LEFT WING ROOT CPC	15	PITOT HEAT POWER		Red			cabin side. VP-X J10-6 on PWR, 15 A; the handbook gives the wing run as 14 AWG	
+WING		LEFT WING ROOT CPC	15	HEATED PITOT	POWER	Red			wing side, through the pitot's Molex Micro-Fit 3-pin (pins not recorded)	
+WING		LEFT WING ROOT CPC	16	PITOT HEAT GROUND		Blk				Pitot heat ground (left wing root pin 16, black): where does it land on the cabin side? Also record the pitot's Molex Micro-Fit 3-pin pinout
+WING		LEFT WING ROOT CPC	16	HEATED PITOT	GROUND	Blk			wing side, through the pitot's Molex Micro-Fit 3-pin (pins not recorded)	
+WING		LEFT WING ROOT CPC	17	FUEL LEVEL LEFT					cabin side, to the EMS fuel level input	
+WING		LEFT WING ROOT CPC	17	LEFT FUEL LEVEL SENDER	SIG				wing side, to the tank's sender. Sender ground is not recorded	
+WING		LEFT WING ROOT CPC	18	PITOT HEAT STATUS		Brn/Blu			cabin side, to EMS pin 9 (brown/blue at both ends)	
+WING		LEFT WING ROOT CPC	18	HEATED PITOT	STATUS	Brn/Blu			wing side, through the pitot's Molex Micro-Fit 3-pin (pins not recorded)	
+WING		LEFT WING ROOT CPC	13	TB-L (under left seat)	5	Wht			roll trim motor lead. The two whites are not told apart in the record, so which lands on TB-L 5 and which on 6 is unrecorded; swapping them only reverses trim direction	
+WING		LEFT WING ROOT CPC	13	ROLL TRIM SERVO	WHT (MOTOR A)	Wht			wing side. roll trim motor lead. The two whites are not told apart in the record, so which lands on TB-L 5 and which on 6 is unrecorded; swapping them only reverses trim direction	
+WING		LEFT WING ROOT CPC	14	TB-L (under left seat)	6	Wht			roll trim motor lead. The two whites are not told apart in the record, so which lands on TB-L 5 and which on 6 is unrecorded; swapping them only reverses trim direction	
+WING		LEFT WING ROOT CPC	14	ROLL TRIM SERVO	WHT (MOTOR B)	Wht			wing side. roll trim motor lead. The two whites are not told apart in the record, so which lands on TB-L 5 and which on 6 is unrecorded; swapping them only reverses trim direction	
+WING		RIGHT WING ROOT CPC	1	RIGHT WINGTIP CPC	1	Ora			AeroSun bundle, same colour at both CPCs	
+WING		RIGHT WING ROOT CPC	2	RIGHT WINGTIP CPC	2	Blu			AeroSun bundle, same colour at both CPCs	
+WING		RIGHT WING ROOT CPC	3	RIGHT WINGTIP CPC	3	Wht			AeroSun bundle, same colour at both CPCs	
+WING		RIGHT WING ROOT CPC	4	RIGHT WINGTIP CPC	9	Blk			AeroSun VX shield drain to the tip CPC's only ground pin. Inferred: AeroLEDs uses the shield as the light's ground return	
+WING		RIGHT WING ROOT CPC	5	RIGHT WINGTIP CPC	4	Ora			Pulsar bundle, same colour at both CPCs	
+WING		RIGHT WING ROOT CPC	6	RIGHT WINGTIP CPC	5	Blu			Pulsar bundle, same colour at both CPCs	
+WING		RIGHT WING ROOT CPC	7	RIGHT WINGTIP CPC	6	Wht			Pulsar bundle, same colour at both CPCs	
+WING		RIGHT WING ROOT CPC	8	RIGHT WINGTIP CPC	7	Grn			AeroSun sync, green at both ends	
+WING		RIGHT WING ROOT CPC	12	RIGHT WINGTIP CPC	9	Blk			Pulsar shield drain to the tip CPC's only ground pin. Inferred: AeroLEDs uses the shield as the light's ground return	
+WING		RIGHT WINGTIP CPC	7	RIGHT AEROSUN VX	GRN (SYNC)	Grn			AeroSun Vx Rev C: green is the sync line, green to green between the pair	
+WING		RIGHT WINGTIP CPC	9	RIGHT AEROSUN VX	BLK (GROUND)	Blk			light ground	
+WING		RIGHT WINGTIP CPC	9	RIGHT PULSAR NS	BLK (GROUND)	Blk			light ground	
+WING		RIGHT WINGTIP CPC	1	RIGHT AEROSUN VX		Ora				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		RIGHT WINGTIP CPC	4	RIGHT PULSAR NS		Ora				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		RIGHT WINGTIP CPC	2	RIGHT AEROSUN VX		Blu				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		RIGHT WINGTIP CPC	5	RIGHT PULSAR NS		Blu				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		RIGHT WINGTIP CPC	3	RIGHT AEROSUN VX		Wht				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		RIGHT WINGTIP CPC	6	RIGHT PULSAR NS		Wht				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	1	TB-R (under right seat)		Ora				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	2	TB-R (under right seat)		Blu				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	3	TB-R (under right seat)		Wht				AeroSun bundle: which harness colour (orange, blue, white) carries landing, taxi and wig-wag? The light's own leads are red = landing, blue = taxi, yellow = wig-wag (AeroSun Vx manual Rev C); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	4	LIGHTS GROUND		Blk				Light-bundle shields at the cabin end: where do the AeroSun and Pulsar shield drains land? TB-R 1 is the recorded light ground, but no record says the shields go there
+WING		RIGHT WING ROOT CPC	5	TB-R (under right seat)		Ora				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	6	TB-R (under right seat)		Blu				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	7	TB-R (under right seat)		Wht				Pulsar bundle: which harness colour (orange, blue, white) carries position, strobe and sync? The light's own leads are red = position, yellow = strobe, green = sync (AeroLEDs Pulsar/SunTail diagram); the record names only the harness colours
+WING		RIGHT WING ROOT CPC	8	TB-R (under right seat)	3	Grn			TB-R 3 joins the two AeroSun greens, 'one from R, one from L'	
+WING		RIGHT WING ROOT CPC	9	ROLL SERVO	RED (POWER)	Red			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	9	A/P SERVO POWER		Red			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75). Red, black and yellow are 3-way spliced (front harness, pitch servo, wing root) at the right wing connection area	
+WING		RIGHT WING ROOT CPC	10	ROLL SERVO	BLK (GROUND)	Blk			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	10	A/P SERVO GROUND		Blk			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75). Red, black and yellow are 3-way spliced (front harness, pitch servo, wing root) at the right wing connection area	
+WING		RIGHT WING ROOT CPC	11	ROLL SERVO	YEL (AP DISENGAGE)	Yel			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	11	A/P DISCONNECT (servo yellow)		Yel			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75). Red, black and yellow are 3-way spliced (front harness, pitch servo, wing root) at the right wing connection area	
+WING		RIGHT WING ROOT CPC	12	LIGHTS GROUND		Blk				Light-bundle shields at the cabin end: where do the AeroSun and Pulsar shield drains land? TB-R 1 is the recorded light ground, but no record says the shields go there
+WING		RIGHT WING ROOT CPC	13	ROLL SERVO	GRN (NETWORK 1A)	Grn			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	13	SKYVIEW NETWORK DATA 1A		Grn			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75). Confirm at inspection: sys-24's servo colour table maps a wing harness of orange / white / white-black onto the servo's green / white-green / white-blue, but the root CPC is recorded in the servo's own colours. Which colour set is on which side of the root CPC?	
+WING		RIGHT WING ROOT CPC	14	ROLL SERVO	BLU (NETWORK 1B)	Blu			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	14	SKYVIEW NETWORK DATA 1B		Blu			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	15	ROLL SERVO	WHT/GRN (NETWORK 2A)	Wht/Grn			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	15	SKYVIEW NETWORK DATA 2A		Wht/Grn			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	16	ROLL SERVO	WHT/BLU (NETWORK 2B)	Wht/Blu			wing side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	16	SKYVIEW NETWORK DATA 2B		Wht/Blu			cabin side. colours match Dynon's servo pigtail one for one (SkyView System Installation Guide, Table 75)	
+WING		RIGHT WING ROOT CPC	17	FUEL LEVEL RIGHT					cabin side, to the EMS fuel level input	
+WING		RIGHT WING ROOT CPC	17	RIGHT FUEL LEVEL SENDER	SIG				wing side, to the tank's sender. Sender ground is not recorded	
+WING		TB-L (under left seat)	1	TRIM SENSOR GROUND					to EMS pin 30, 'Ground (roll trim, elevator trim)'; the label joins the EMS sheet	
+WING		TB-L (under left seat)	2	SENSOR +5V					to EMS pin 18, the shared +5 V; the label joins the EMS sheet	
+WING		TB-L (under left seat)	3	ROLL TRIM POSITION					to EMS pin 10; the label joins the EMS sheet	
+WING		TB-L (under left seat)	4	PITCH TRIM POSITION					to EMS pin 4; the label joins the EMS sheet	
+WING		TB-L (under left seat)	5	ROLL TRIM MOTOR A		Wht			SV-AP-PANEL DB-15 pin 14 via the label. Lead order within the pair is unrecorded and only sets direction. Confirm at inspection: the TB-L labels say 'roll trim motor 1' and 'pitch trim motor 2', but the SteinAir drawing and Dynon both put Motor 1 (DB15 7/8) on pitch and Motor 2 (DB15 14/15) on roll. Trim works, so the wiring follows function; confirm which SV-AP-PANEL pins land on TB-L 5-8 and fix the labels	
+WING		TB-L (under left seat)	6	ROLL TRIM MOTOR B		Wht			SV-AP-PANEL DB-15 pin 15 via the label. Lead order within the pair is unrecorded and only sets direction	
+WING		TB-L (under left seat)	7	PITCH TRIM MOTOR A		Wht			SV-AP-PANEL DB-15 pin 7 via the label. Lead order within the pair is unrecorded and only sets direction	
+WING		TB-L (under left seat)	8	PITCH TRIM MOTOR B		Wht			SV-AP-PANEL DB-15 pin 8 via the label. Lead order within the pair is unrecorded and only sets direction	
+WING		TB-L (under left seat)	1	PITCH TRIM SERVO	WHT/BLU (SENSOR GND)					Tailcone: record the pitch trim servo wiring from TB-L to the tail (the tailcone-rear DSUB-15 is the likely path; its pinout is not recorded)
+WING		TB-L (under left seat)	2	PITCH TRIM SERVO	WHT/ORA (SENSOR +5V)					Tailcone: record the pitch trim servo wiring from TB-L to the tail (the tailcone-rear DSUB-15 is the likely path; its pinout is not recorded)
+WING		TB-L (under left seat)	4	PITCH TRIM SERVO	WHT/GRN (SENSOR SIGNAL)					Tailcone: record the pitch trim servo wiring from TB-L to the tail (the tailcone-rear DSUB-15 is the likely path; its pinout is not recorded)
+WING		TB-L (under left seat)	7	PITCH TRIM SERVO	WHT (MOTOR A)					Tailcone: record the pitch trim servo wiring from TB-L to the tail (the tailcone-rear DSUB-15 is the likely path; its pinout is not recorded)
+WING		TB-L (under left seat)	8	PITCH TRIM SERVO	WHT (MOTOR B)					Tailcone: record the pitch trim servo wiring from TB-L to the tail (the tailcone-rear DSUB-15 is the likely path; its pinout is not recorded)
+WING		TB-R (under right seat)	9	SUNTAIL	RED (POSITION)					Tail light: record the tailcone-rear Molex 5-pin pinout and harness colours from TB-R to the SunTail
+WING		TB-R (under right seat)	8	SUNTAIL	YEL (STROBE)					Tail light: record the tailcone-rear Molex 5-pin pinout and harness colours from TB-R to the SunTail
+WING		TB-R (under right seat)	7	SUNTAIL	GRN (SYNC)					Tail light: record the tailcone-rear Molex 5-pin pinout and harness colours from TB-R to the SunTail
+WING		TB-R (under right seat)	1	SUNTAIL	BLK (GROUND)					Tail light: record the tailcone-rear Molex 5-pin pinout and harness colours from TB-R to the SunTail

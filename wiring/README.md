@@ -56,6 +56,9 @@ inspection. `O2.tsv` has seven such rows.
 | `O2` | `MH_Oxygen.pdf` | 30 | 0 |
 | `PWR` | `Power__Lighting.pdf` | 128 | 1 |
 | `SV` | `SV_Interconnect.pdf` | 190 | 3 |
+| `WING` | handbook tables (`sys-24`, `sys-33`) | 111 | 38 |
+| `EMS` | handbook table (`sys-24`) | 33 | 0 |
+| `ONSPEED` | `changes.tsv` only | — | — |
 
 `PWR` is not one table but several regions on a 40-inch sheet: the four VP-X
 connector tables, both switch-panel DB15s, the essential bus, the Bus Manager
@@ -84,8 +87,29 @@ missing or two nets fusing:
   per axis, and duplicated strokes are removed
 
 Not yet extracted from `SV`: the SkyView network block diagram, the servo DB-9s,
-and the two pinout reference tables. Then the systems no drawing covers —
-OnSpeed, wing and tailcone.
+and the two pinout reference tables.
+
+## Sheets no drawing covers
+
+`WING` (both wings, the under-seat terminal blocks, the tail feeds) and `EMS`
+(the EMS-220's 37-pin connector) come from the owner's typed build notes as
+they live in the handbook: the wing-root, wingtip, terminal-block and EMS
+tables in `sections/sys-24-electrical.md` and `sections/sys-33-lighting.md`.
+`scripts/wirelist_handbook.py` **reads those tables** rather than retyping
+them, so the wire lists cannot drift from the handbook. Change a pin there and
+re-extract. A function text the extractor does not recognise stops it, so a
+handbook edit can never be silently dropped.
+
+A handbook table records one connector. Joining two connectors is an
+inference, and every join says what it rests on: the same bundle and colour
+at both ends (root and tip CPC), the same function named at both ends
+(TB-R "Taxi power" and the VP-X output PWR calls `TAXI LIGHTS POWER`), or a
+manufacturer's colour code matching one for one (Dynon's servo pigtail, Ray
+Allen's trim sensor leads). A join none of those settles is not drawn: it is
+flagged with the question that would settle it, and every row sharing that
+question becomes one item on `INSPECT.md`. That is why `WING` has 38 flagged
+rows but they come down to six questions on the checklist. Most are the two light
+bundles, whose harness colours nobody wrote down against function.
 
 ## KiCad sheets
 
@@ -104,9 +128,13 @@ silently produce a wrong one.
 
 | Sheet | Connectors | Wires | Nets | Verified |
 |---|---|---|---|---|
+| `PWR` | 35 | 130 | 70 | clean, 0 ERC errors |
+| `SV` | 32 | 188 | 100 | clean, 0 ERC errors |
 | `O2` | 6 | 30 | 24 | clean, 0 ERC errors |
-| `PWR` | 24 | 97 | 59 | clean, 0 ERC errors |
-| `SV` | 19 | 156 | 71 | clean, 0 ERC errors |
+| `ONSPEED` | 3 | 13 | 10 | clean, 0 ERC errors |
+| `EMS` | 8 | 34 | 29 | clean, 0 ERC errors |
+| `WING` | 15 | 73 | 41 | clean, 0 ERC errors |
+| project | 99 | | 252 | clean: all sheets together |
 
 Rows still flagged for review are left off the drawings rather than drawn as
 guesses.
@@ -128,12 +156,20 @@ off-sheet flag means the same net everywhere. UUIDs are deterministic, so
 regenerating an unchanged wire list produces a byte-identical file and git
 diffs show only real changes.
 
-Not yet done: a presentation pass toward Vern's look, and canonical connector
-names across sheets — the power sheet calls the right PFD's power pin
-`SV-HDX1100 (PFD2) D37-1/20` as a label, while the SkyView sheet draws that
-connector as a part. Until those names agree, cross-sheet references are
-checked by eye rather than by the netlist. The sheets are correct before they
-are pretty, on purpose.
+The project is verified as a whole too: its netlist must equal the union of
+every sheet's wire list, which proves each cross-sheet label merges the nets
+it should. It is what shows, for example, EMS pin 10 reaching the roll trim
+sensor through TB-L 3 and left wing-root pin 12, with three sheets involved.
+A connector belongs to one sheet. Others refer to it by label, and drawing
+the same connector on two sheets fails the build.
+
+Not yet done: a presentation pass toward Vern's look, and canonical names for
+the older cross-sheet references. The power sheet still calls the right PFD's
+power pin `SV-HDX1100 (PFD2) D37-1/20` as a label, while the SkyView sheet
+draws that connector as a part, so those few references are checked by eye.
+The labels the wing and EMS sheets share with each other and with PWR and SV
+were chosen to match, and are netlist-checked. The sheets are correct before
+they are pretty, on purpose.
 
 ## Changes since the drawings
 
@@ -147,6 +183,10 @@ since, numbered and dated; `scripts/wirelist_changes.py` applies them to give
 | `remove` | delete the wire between two pins |
 | `disconnect` | take a pin out of its net; the rest of the net stays joined |
 | `rename` | a box replaced by its successor, wiring unchanged |
+
+Changes apply in file order, which is date order. The ids are labels only:
+C029 (the CO detector's Dec 2025 replacement) sits above C006 because it
+happened first.
 
 ## Checks
 
@@ -163,8 +203,9 @@ Two kinds of mechanical check keep the wire lists honest:
 ## Condition inspection
 
 `INSPECT.md` is the hangar checklist, generated by `scripts/wirelist_inspect.py`:
-every question the drawings cannot settle, and every change recorded from
-memory. Extraction work still to do is kept off it - that needs the
+every question the drawings and build notes cannot settle, every drawn wire
+whose notes say "Confirm at inspection:" (the record gives the connection, but
+something about it does not add up), and every change recorded from memory. Extraction work still to do is kept off it - that needs the
 drawings, not the airplane.
 
 A change that no longer matches anything stops the build, so re-running an

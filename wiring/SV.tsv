@@ -171,11 +171,11 @@ SV	POWER	SV-XPNDR-261 DB-25M	15	VP-X J10-7		Red			POWER
 SV	Power	CO DETECTOR 452-101-011 DB9	1	VP-X J10-8		Red			Power	
 SV	Ground	CO DETECTOR 452-101-011 DB9	5	AG		Blk			Ground	
 SV	Ground -	SV-AP-PANEL DB-15	2	AG		Blk			Ground -	
-SV	Pitch Trim Motor Output 1	SV-AP-PANEL DB-15	7	PITCH TRIM SERVO MOTOR	1	Wht			Pitch Trim Motor Output 1	
-SV	Pitch Trim Motor Output 2	SV-AP-PANEL DB-15	8	PITCH TRIM SERVO MOTOR	2	Wht			Pitch Trim Motor Output 2	
+SV	Pitch Trim Motor Output 1	SV-AP-PANEL DB-15	7	PITCH TRIM MOTOR A		Wht			Pitch Trim Motor Output 1. The motor is in the tail; the label joins TB-L on the WING sheet	
+SV	Pitch Trim Motor Output 2	SV-AP-PANEL DB-15	8	PITCH TRIM MOTOR B		Wht			Pitch Trim Motor Output 2. The motor is in the tail; the label joins TB-L on the WING sheet	
 SV	Power In +	SV-AP-PANEL DB-15	9	VP-X J12-10		Red			Power In +	
-SV	Roll Trim Motor Output 1	SV-AP-PANEL DB-15	14	ROLL TRIM SERVO MOTOR	1	Wht			Roll Trim Motor Output 1	
-SV	Roll Trim Motor Output 2	SV-AP-PANEL DB-15	15	ROLL TRIM SERVO MOTOR	2	Wht			Roll Trim Motor Output 2	
+SV	Roll Trim Motor Output 1	SV-AP-PANEL DB-15	14	ROLL TRIM MOTOR A		Wht			Roll Trim Motor Output 1. The motor is in the left wing; the label joins TB-L on the WING sheet	
+SV	Roll Trim Motor Output 2	SV-AP-PANEL DB-15	15	ROLL TRIM MOTOR B		Wht			Roll Trim Motor Output 2. The motor is in the left wing; the label joins TB-L on the WING sheet	
 SV	Pilot Trim Up Button	SV-AP-PANEL DB-15	3	PILOT GRIP	UP	Blu			Pilot Trim Up Button	
 SV	Pilot Trim Down Button	SV-AP-PANEL DB-15	4	PILOT GRIP	DOWN	Brn			Pilot Trim Down Button	
 SV	Pilot Trim Right Button	SV-AP-PANEL DB-15	10	PILOT GRIP	RIGHT	Grn			Pilot Trim Right Button	
