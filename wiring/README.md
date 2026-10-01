@@ -16,6 +16,7 @@ The drawings are the output. These tables are the thing.
 | `to_ref` / `to_pin` | Destination connector and pin. Blank `to_pin` with a plain-text `to_ref` means the wire leaves the drawing |
 | `color` | Wire colour as the drawing records it |
 | `awg` | Gauge. Blank where the drawing does not state it |
+| `protection` | Breaker, fuse or current limiter on the circuit (`10A-4` is a VP-X channel: 10 A, channel 4). Needed for the wire-gauge-vs-protection check |
 | `notes` | Anything a reader needs, including how an ambiguous row was resolved |
 | `review` | **Non-empty means the parser could not determine this row.** Zero flagged rows is the goal for a finished sheet |
 
@@ -50,9 +51,17 @@ inspection. `O2.tsv` has seven such rows.
 
 ## Sheets
 
-| Sheet | Source | Wires | Flagged |
+| Sheet | Source | Rows | Flagged |
 |---|---|---|---|
 | `O2` | `MH_Oxygen.pdf` | 30 | 0 |
+| `PWR` | `Power__Lighting.pdf` | 115 | 18 |
 
-Still to do: `Power__Lighting.pdf` (1,142 words) and `SV_Interconnect.pdf`
-(3,181 words), then the systems no drawing covers — OnSpeed, wing and tailcone.
+`PWR` is not one table but several regions on a 40-inch sheet: the four VP-X
+connector tables, both switch-panel DB15s, the essential bus, the Bus Manager
+/ battery / starter region, and the annunciator. The VP-X tables are parsed;
+the schematic regions are transcribed from the rendered drawing with the text
+layer supplying labels and gauges. Every flagged row says why. The one region
+not yet broken out is the inside of the two switch panels (switch to DB15).
+
+Still to do: `SV_Interconnect.pdf` (3,181 words), then the systems no drawing
+covers — OnSpeed, wing and tailcone.
