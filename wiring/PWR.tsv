@@ -39,7 +39,7 @@ PWR		VP-X J10	6	PITOT HEAT POWER		Red	16	15A-1
 PWR		VP-X J10	7	SV-XPNDR-261 J1-15		Red		5A-10		
 PWR		VP-X J10	7	SV-ADSB-470 J1-1		Red		5A-10	drawing (2017) shows the SV-ADSB-470; it was traded in for the SV-ADSB-472 on 2019-04-02 (sys-34). A recorded modification the drawing predates	
 PWR		VP-X J10	8	MH CNTRL HEAD J1-1		Red		5A-11	matches O2 sheet: control head DB25-1 from VP-X J10-8	
-PWR		VP-X J10	8	CO DETECT J1-1		Red		5A-11	CO Guardian - sys-42 records it as removed (RMA 11096), so this branch may be dead	
+PWR		VP-X J10	8	CO DETECT J1-1		Red		5A-11	CO Guardian, installed and powered. Its audio and EMS data wires were cut (wiring/changes.tsv)	
 PWR		VP-X J10	9	AG		Blk	18		avionics ground point	
 PWR		VP-X J10	10	PLX AIR/FUEL MODULE		Red	20	5A-12		
 PWR		PILOT-SW-PANEL DB15	1	AG		Blk			switch-panel ground	

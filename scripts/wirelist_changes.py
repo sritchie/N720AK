@@ -107,6 +107,8 @@ def apply(sheet, rows):
                 nr = dict(r)
                 nr["from_ref"], nr["from_pin"] = hub
                 nr["to_ref"], nr["to_pin"] = node
+                if c.get("net"):
+                    nr["net"] = c["net"]
                 rows.append(_tag(nr, dict(c, notes=f"re-joined after {me[0]}:{me[1]} was disconnected")))
         elif act == "rename":
             n = 0

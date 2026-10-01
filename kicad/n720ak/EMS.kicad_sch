@@ -1,0 +1,53 @@
+(kicad_sch
+	(version 20251024)
+	(generator "n720ak_kicad_harness")
+	(generator_version "10.0")
+	(uuid "8f9f2ca1-f663-5e89-8357-e60d0464f291")
+	(paper "A3")
+	(title_block (title "Engine Monitoring") (company "N720AK -- Van's RV-10") (comment 1 "Generated from wiring/EMS.tsv -- edit the wire list, not this sheet"))
+	(lib_symbols
+		(symbol "n720ak:SV-EMS-220_DB37"
+			(exclude_from_sim no) (in_bom yes) (on_board yes)
+			(property "Reference" "J" (at 0 5.08 0) (effects (font (size 1.27 1.27))))
+			(property "Value" "SV-EMS-220 DB37" (at 0 -5.08 0) (effects (font (size 1.27 1.27))))
+			(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(symbol "SV-EMS-220_DB37_0_1"
+				(rectangle (start -7.62 2.54) (end 7.62 -2.54)
+					(stroke (width 0.254) (type default)) (fill (type background))))
+			(symbol "SV-EMS-220_DB37_1_1"
+				(pin passive line (at -10.16 0.0 0) (length 2.54) (name "" (effects (font (size 1.0 1.0)))) (number "31" (effects (font (size 1.0 1.0)))))
+			)
+		)
+		(symbol "n720ak:MZ-30"
+			(exclude_from_sim no) (in_bom yes) (on_board yes)
+			(property "Reference" "J" (at 0 5.08 0) (effects (font (size 1.27 1.27))))
+			(property "Value" "MZ-30" (at 0 -5.08 0) (effects (font (size 1.27 1.27))))
+			(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes)))
+			(symbol "MZ-30_0_1"
+				(rectangle (start -7.62 2.54) (end 7.62 -2.54)
+					(stroke (width 0.254) (type default)) (fill (type background))))
+			(symbol "MZ-30_1_1"
+				(pin passive line (at 10.16 0.0 180) (length 2.54) (name "MZ30 current" (effects (font (size 1.0 1.0)))) (number "CURRENT" (effects (font (size 1.0 1.0)))))
+			)
+		)
+	)
+	(symbol (lib_id "n720ak:SV-EMS-220_DB37") (at 170.18 43.18 0) (unit 1)
+		(in_bom yes) (on_board yes) (dnp no) (uuid "e11885c1-7f8a-5f49-b2b1-8249ca1f6660")
+		(property "Reference" "J501" (at 170.18 38.1 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "SV-EMS-220 DB37" (at 170.18 48.26 0) (effects (font (size 1.27 1.27))))
+		(instances (project "n720ak"
+			(path "/8f9f2ca1-f663-5e89-8357-e60d0464f291" (reference "J501") (unit 1))
+			(path "/05ae3897-9dd7-5bc2-b238-7f217081554a/2e54779a-7763-5fca-8ae4-979b3d92249d" (reference "J501") (unit 1)))))
+	(symbol (lib_id "n720ak:MZ-30") (at 50.8 43.18 0) (unit 1)
+		(in_bom yes) (on_board yes) (dnp no) (uuid "c7f3a8e4-13b1-58fb-bf57-829c8e214fbe")
+		(property "Reference" "J502" (at 50.8 38.1 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "MZ-30" (at 50.8 48.26 0) (effects (font (size 1.27 1.27))))
+		(instances (project "n720ak"
+			(path "/8f9f2ca1-f663-5e89-8357-e60d0464f291" (reference "J502") (unit 1))
+			(path "/05ae3897-9dd7-5bc2-b238-7f217081554a/2e54779a-7763-5fca-8ae4-979b3d92249d" (reference "J502") (unit 1)))))
+	(wire (pts (xy 60.96 43.18) (xy 160.02 43.18)) (stroke (width 0) (type default)) (uuid "5d842a57-5d02-54d6-a853-40fbe10cd19d"))
+	(text "Brn/Blu" (at 63.5 43.18 0) (effects (font (size 1.0 1.0)) (justify left bottom)) (uuid "e538c611-c298-5711-a231-423f3e91a4a5"))
+	(sheet_instances (path "/" (page "1")))
+)

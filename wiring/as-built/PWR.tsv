@@ -39,7 +39,7 @@ PWR		VP-X J10	6	PITOT HEAT POWER		Red	16	15A-1
 PWR		VP-X J10	7	SV-XPNDR-261 J1-15		Red		5A-10		
 PWR		VP-X J10	7	SV-ADSB-472 J1-1		Red		5A-10	drawing (2017) shows the SV-ADSB-470; it was traded in for the SV-ADSB-472 on 2019-04-02 (sys-34). A recorded modification the drawing predates	
 PWR		VP-X J10	8	MH CNTRL HEAD J1-1		Red		5A-11	matches O2 sheet: control head DB25-1 from VP-X J10-8	
-PWR		VP-X J10	8	CO DETECT J1-1		Red		5A-11	CO Guardian - sys-42 records it as removed (RMA 11096), so this branch may be dead	
+PWR		VP-X J10	8	CO DETECT J1-1		Red		5A-11	CO Guardian, installed and powered. Its audio and EMS data wires were cut (wiring/changes.tsv)	
 PWR		VP-X J10	9	AG		Blk	18		avionics ground point	
 PWR		VP-X J10	10	PLX AIR/FUEL MODULE		Red	20	5A-12		
 PWR		PILOT-SW-PANEL DB15	1	AG		Blk			switch-panel ground	
@@ -114,5 +114,6 @@ PWR		ANN ECU FAULT PRI (RED)	1	VP-X J1-2 (FAULT ANN)		Red			both FAULT lamp anod
 PWR		ANN ECU FAULT SEC (RED)	1	VP-X J1-2 (FAULT ANN)		Red			both FAULT lamp anodes share one supply line	anode supply crosses several lines; confirm the source
 PWR		ANNUNCIATOR TEST NETWORK							diode-OR lamp test: ANN LT TEST pushbutton on Yel drives D1-D4 to every lamp anode; D9/D10 pull the two FAULT lamp cathodes low. All diodes 1N4001.	network not broken out wire by wire
 PWR		PILOT AND COPILOT SWITCH-PANEL INTERNALS (switch-to-DB15 side)								region not yet extracted
-PWR		ESSENTIAL BUS BAR		ONSPEED	1	Red		2A	C008: OnSpeed power from the essential bus through a discrete fuse above the bus bar.	fuse rating: owner says 2 A, sys-34 says 2 A, sys-24 says 1 A - read it off the holder
-PWR		ESSENTIAL BUS BAR		FRONT USB-C CHARGER		Red		5A	C010: Front passenger USB-C charger on the essential bus through a 5 A discrete fuse above the bus bar (sys-24).	
+PWR		ESSENTIAL BUS BAR		ONSPEED DB25-1		Red		1A	C008: OnSpeed power from the essential bus through a 1 A automotive blade fuse above the bus bar. Date approximate.	
+PWR	Flap position	VP-X J1	17	ONSPEED DB25-21		Yel			C009: OnSpeed flap input spliced into the flap position sensor wire to the VP-X, so both read the same pot. Date approximate.	
+PWR		ESSENTIAL BUS BAR		FRONT USB-C CHARGER		Red		5A	C010: Front passenger USB-C charger on the essential bus through a 5 A fuse above the bus bar. Date approximate.	

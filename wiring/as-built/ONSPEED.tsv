@@ -1,0 +1,13 @@
+sheet	net	from_ref	from_pin	to_ref	to_pin	color	awg	protection	notes	review
+ONSPEED	+PWR	ONSPEED DB25	1	ESSENTIAL BUS BAR		Red		1A	C012: Power in, 1 A fuse. Date approximate.	
+ONSPEED	POWER RTN GND	ONSPEED DB25	4	AG		Blk			C013: Ship ground. Date approximate.	
+ONSPEED	EFIS SERIAL RX	ONSPEED DB25	25	SV-HDX1100 D37-10		Gray			C014: SkyView Serial 4 TX, from any display. Date approximate.	
+ONSPEED	RIGHT AUDIO OUT	ONSPEED DB25	10	GMA245 J1-29		Wht			C015: Right channel used as mono into GMA 245 Alert 3. Date approximate.	
+ONSPEED	FLAPS ANALOG IN	ONSPEED DB25	21	VP-X J1-17		Vio			C016: Spliced into the VP-X flap position sensor wire. Date approximate.	
+ONSPEED	SENSOR PWR 5V	ONSPEED DB25	2	ONSPEED VOLUME POT	CW	Red/Wht			C017: 6-conductor control cable. Date approximate.	
+ONSPEED	PILOT CNTRL VOL IN	ONSPEED DB25	9	ONSPEED VOLUME POT	WIPER	Ora/Wht			C018: Date approximate.	
+ONSPEED	CNTRL LED OUT	ONSPEED DB25	11	ONSPEED BUTTON	+	Ora/Blu			C019: Button LED anode. Date approximate.	
+ONSPEED	PANEL SWITCH IN	ONSPEED DB25	23	ONSPEED BUTTON	NO1	Brn/Wht			C020: Date approximate.	
+ONSPEED	POWER RTN GND	ONSPEED DB25	5	ONSPEED BUTTON	-	Blk			C021: One ground feeds the button LED cathode, button common C1 and the pot CCW end. Date approximate.	
+ONSPEED	POWER RTN GND	ONSPEED BUTTON	-	ONSPEED BUTTON	C1	Blk			C022: Date approximate.	
+ONSPEED	POWER RTN GND	ONSPEED BUTTON	C1	ONSPEED VOLUME POT	CCW	Blk			C023: Date approximate.	

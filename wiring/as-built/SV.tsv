@@ -182,10 +182,10 @@ SV		PILOT BOSE	1	VP-X J10-4		Red			[3-way net]
 SV		SKYVIEW NETWORK							the network topology (SV-NET-HUB, SV-NET-SPL, ADAHRS, EMS, knob/AP/COM panels, ARINC module) is drawn as a block diagram of network cables, not wires	region not yet extracted
 SV		ROLL AND PITCH SERVO DB-9s							servo connectors are drawn with F/M pin columns the box detector does not recognise	region not yet extracted
 SV		BOSE JACK / SKYVIEW NETWORK CABLE PINOUTS							connector reference tables, not wires -- they belong in the generated CONNECTORS view	region not yet extracted
-SV	GPS RS-232 Out 4	SV-HDX1100 (PFD2 – RIGHT #3) DB37	9	SV-HDX1100 (PFD - LEFT #1) DB37	9	Blu/Vio + Grn			GPS RS-232 Out 4 -> Serial 4 RX  [4-way net]  |  C003: re-joined after GTN P1001:5 was disconnected	
-SV	GPS RS-232 Out 4	SV-HDX1100 (PFD2 – RIGHT #3) DB37	9	SV-HDX800 (MFD – CENTER #2) DB37	9	Blu/Vio + Grn			GPS RS-232 Out 4 -> Serial 4 RX  [4-way net]  |  C003: re-joined after GTN P1001:5 was disconnected	
-SV	GPS RS-232 In 4	SV-HDX1100 (PFD2 – RIGHT #3) DB37	10	SV-HDX1100 (PFD - LEFT #1) DB37	10	Blu + Blu/Ora			GPS RS-232 In 4 -> Serial 4 TX  [4-way net]  |  C004: re-joined after GTN P1001:24 was disconnected	
-SV	GPS RS-232 In 4	SV-HDX1100 (PFD2 – RIGHT #3) DB37	10	SV-HDX800 (MFD – CENTER #2) DB37	10	Blu + Blu/Ora			GPS RS-232 In 4 -> Serial 4 TX  [4-way net]  |  C004: re-joined after GTN P1001:24 was disconnected	
-SV	Serial 4 TX	SV-HDX1100 (PFD - LEFT #1) DB37	10	ONSPEED	25	Blu			C005: SkyView Serial 4 TX to the OnSpeed EFIS serial input. Pin 10 is tied across all three displays, so OnSpeed hears the same stream whichever display it is wired to.	
-SV	Alert 3 Audio Hi	ONSPEED		GMA245 J1	29				C007: OnSpeed audio into GMA 245 Alert 3 (J1-29), replacing the CO detector audio.	which OnSpeed pin: sys-34 lists audio on 10 (right) and 22 (left), and says OnSpeed audio goes through the PFD, which this contradicts
-SV	Ground	ONSPEED	4	GROUND		Blk			C009: OnSpeed ship ground (sys-34).	
+SV	Serial 4 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	9	SV-HDX1100 (PFD - LEFT #1) DB37	9	Blu/Vio + Grn			GPS RS-232 Out 4 -> Serial 4 RX  [4-way net]  |  C003: re-joined after GTN P1001:5 was disconnected	
+SV	Serial 4 RX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	9	SV-HDX800 (MFD – CENTER #2) DB37	9	Blu/Vio + Grn			GPS RS-232 Out 4 -> Serial 4 RX  [4-way net]  |  C003: re-joined after GTN P1001:5 was disconnected	
+SV	Serial 4 TX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	10	SV-HDX1100 (PFD - LEFT #1) DB37	10	Blu + Blu/Ora			GPS RS-232 In 4 -> Serial 4 TX  [4-way net]  |  C004: re-joined after GTN P1001:24 was disconnected	
+SV	Serial 4 TX	SV-HDX1100 (PFD2 – RIGHT #3) DB37	10	SV-HDX800 (MFD – CENTER #2) DB37	10	Blu + Blu/Ora			GPS RS-232 In 4 -> Serial 4 TX  [4-way net]  |  C004: re-joined after GTN P1001:24 was disconnected	
+SV	Serial 4 TX	SV-HDX1100 (PFD - LEFT #1) DB37	10	ONSPEED DB25-25		Gray			C005: SkyView Serial 4 TX to the OnSpeed EFIS serial input. Pin 10 is tied across all three displays. Date approximate.	
+SV	Alert 3 Audio Hi	GMA245 J1	29	ONSPEED DB25-10		Wht			C007: OnSpeed right audio channel, used as mono, into GMA 245 Alert 3 in place of the CO detector audio. Date approximate.	
+SV	Ext flip/Flop	SV-COM-PANEL DB15	7	GRIPS	COM 2 FLIP-FLOP				C024: Wired since the build; the 2017 drawing omits it. Both grips in parallel.	the button's return: SV-COM-PANEL pin 3 (Ground out) or airframe ground?

@@ -489,8 +489,8 @@ def verify(sch, rows, refdes, quiet=False):
 
 
 TITLES = {"O2": "Mountain High Oxygen", "PWR": "Power & Lighting", "SV": "SkyView Interconnect",
-          "EMS": "Engine Monitoring"}
-ORDER = ["PWR", "SV", "O2", "EMS"]
+          "EMS": "Engine Monitoring", "ONSPEED": "OnSpeed AoA"}
+ORDER = ["PWR", "SV", "O2", "ONSPEED", "EMS"]
 
 
 def write_project(sheets):

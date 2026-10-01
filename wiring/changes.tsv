@@ -1,12 +1,25 @@
 id	date	status	sheet	action	ref	pin	to_ref	to_pin	net	color	awg	protection	notes	review
 C001	2019-04-02	done	SV	rename	SV-ADSB-470		SV-ADSB-472						ADS-B receiver traded in for the dual-band SV-ADSB-472 (Dynon RMA 28912). Box swap only; wiring unchanged.	
 C002	2019-04-02	done	PWR	rename	SV-ADSB-470		SV-ADSB-472						Same swap, as seen from the power sheet.	
-C003		done	SV	disconnect	GTN P1001	5							GTN RS-232 Out 4 cut from SkyView Serial 4 RX. The cable is abandoned in the harness. Serial 4 RX is now unused; the three displays' pin 9 stay tied to each other.	
-C004		done	SV	disconnect	GTN P1001	24							GTN RS-232 In 4 cut from SkyView Serial 4 TX.	
-C005		done	SV	add	SV-HDX1100 (PFD - LEFT #1) DB37	10	ONSPEED	25	Serial 4 TX	Blu			SkyView Serial 4 TX to the OnSpeed EFIS serial input. Pin 10 is tied across all three displays, so OnSpeed hears the same stream whichever display it is wired to.	
-C006		done	SV	remove	GMA245 J1	29	CO DETECTOR 452-101-011 DB9	6					CO detector audio wire removed from the GMA 245.	
-C007		done	SV	add	ONSPEED		GMA245 J1	29	Alert 3 Audio Hi				OnSpeed audio into GMA 245 Alert 3 (J1-29), replacing the CO detector audio.	which OnSpeed pin: sys-34 lists audio on 10 (right) and 22 (left), and says OnSpeed audio goes through the PFD, which this contradicts
-C008		done	PWR	add	ESSENTIAL BUS BAR		ONSPEED	1		Red		2A	OnSpeed power from the essential bus through a discrete fuse above the bus bar.	fuse rating: owner says 2 A, sys-34 says 2 A, sys-24 says 1 A - read it off the holder
-C009		done	SV	add	ONSPEED	4	GROUND		Ground	Blk			OnSpeed ship ground (sys-34).	
-C010		done	PWR	add	ESSENTIAL BUS BAR		FRONT USB-C CHARGER			Red		5A	Front passenger USB-C charger on the essential bus through a 5 A discrete fuse above the bus bar (sys-24).	
-C011		done	EMS	add	MZ-30	CURRENT	SV-EMS-220	31	MZ30 current	Brn/Blu			MZ-30 proportional current output, 0-2.7 V = 0-30 A, on the EMS pin the CO detector's EMS output used to use. The MZ-30 'active' status wire is not connected.	EMS connector: pin 31 of the DB37 or the DB25?
+C003	2026-02	done	SV	disconnect	GTN P1001	5			Serial 4 RX				GTN RS-232 Out 4 cut from SkyView Serial 4 RX; the cable is abandoned in the harness. Serial 4 RX is now unused, and the three displays' pin 9 stay tied to each other. Date approximate.	
+C004	2026-02	done	SV	disconnect	GTN P1001	24			Serial 4 TX				GTN RS-232 In 4 cut from SkyView Serial 4 TX. Date approximate.	
+C005	2026-02	done	SV	add	SV-HDX1100 (PFD - LEFT #1) DB37	10	ONSPEED DB25-25		Serial 4 TX	Gray			SkyView Serial 4 TX to the OnSpeed EFIS serial input. Pin 10 is tied across all three displays. Date approximate.	
+C006	2026-02	done	SV	remove	GMA245 J1	29	CO DETECTOR 452-101-011 DB9	6					CO detector audio wire cut. The detector is still installed and powered; only its audio and EMS data wires were cut. Date approximate.	
+C007	2026-02	done	SV	add	GMA245 J1	29	ONSPEED DB25-10		Alert 3 Audio Hi	Wht			OnSpeed right audio channel, used as mono, into GMA 245 Alert 3 in place of the CO detector audio. Date approximate.	
+C008	2026-02	done	PWR	add	ESSENTIAL BUS BAR		ONSPEED DB25-1			Red		1A	OnSpeed power from the essential bus through a 1 A automotive blade fuse above the bus bar. Date approximate.	
+C009	2026-02	done	PWR	add	VP-X J1	17	ONSPEED DB25-21		Flap position	Yel			OnSpeed flap input spliced into the flap position sensor wire to the VP-X, so both read the same pot. Date approximate.	
+C010	2026-02	done	PWR	add	ESSENTIAL BUS BAR		FRONT USB-C CHARGER			Red		5A	Front passenger USB-C charger on the essential bus through a 5 A fuse above the bus bar. Date approximate.	
+C011	2026-02	done	EMS	add	MZ-30	CURRENT	SV-EMS-220 DB37	31	MZ30 current	Brn/Blu			MZ-30 proportional current output, 0-2.7 V = 0-30 A, on the EMS pin the CO detector's EMS output used. Pin 31 can only be the DB37: the EMS's other connector is a DB25. The MZ-30 'active' status wire is not connected. Date approximate.	
+C012	2026-02	done	ONSPEED	add	ONSPEED DB25	1	ESSENTIAL BUS BAR		+PWR	Red		1A	Power in, 1 A fuse. Date approximate.	
+C013	2026-02	done	ONSPEED	add	ONSPEED DB25	4	AG		POWER RTN GND	Blk			Ship ground. Date approximate.	
+C014	2026-02	done	ONSPEED	add	ONSPEED DB25	25	SV-HDX1100 D37-10		EFIS SERIAL RX	Gray			SkyView Serial 4 TX, from any display. Date approximate.	
+C015	2026-02	done	ONSPEED	add	ONSPEED DB25	10	GMA245 J1-29		RIGHT AUDIO OUT	Wht			Right channel used as mono into GMA 245 Alert 3. Date approximate.	
+C016	2026-02	done	ONSPEED	add	ONSPEED DB25	21	VP-X J1-17		FLAPS ANALOG IN	Vio			Spliced into the VP-X flap position sensor wire. Date approximate.	
+C017	2026-02	done	ONSPEED	add	ONSPEED DB25	2	ONSPEED VOLUME POT	CW	SENSOR PWR 5V	Red/Wht			6-conductor control cable. Date approximate.	
+C018	2026-02	done	ONSPEED	add	ONSPEED DB25	9	ONSPEED VOLUME POT	WIPER	PILOT CNTRL VOL IN	Ora/Wht			Date approximate.	
+C019	2026-02	done	ONSPEED	add	ONSPEED DB25	11	ONSPEED BUTTON	+	CNTRL LED OUT	Ora/Blu			Button LED anode. Date approximate.	
+C020	2026-02	done	ONSPEED	add	ONSPEED DB25	23	ONSPEED BUTTON	NO1	PANEL SWITCH IN	Brn/Wht			Date approximate.	
+C021	2026-02	done	ONSPEED	add	ONSPEED DB25	5	ONSPEED BUTTON	-	POWER RTN GND	Blk			One ground feeds the button LED cathode, button common C1 and the pot CCW end. Date approximate.	
+C022	2026-02	done	ONSPEED	add	ONSPEED BUTTON	-	ONSPEED BUTTON	C1	POWER RTN GND	Blk			Date approximate.	
+C023	2026-02	done	ONSPEED	add	ONSPEED BUTTON	C1	ONSPEED VOLUME POT	CCW	POWER RTN GND	Blk			Date approximate.	
+C024		done	SV	add	SV-COM-PANEL DB15	7	GRIPS	COM 2 FLIP-FLOP	Ext flip/Flop				Wired since the build; the 2017 drawing omits it. Both grips in parallel.	the button's return: SV-COM-PANEL pin 3 (Ground out) or airframe ground?

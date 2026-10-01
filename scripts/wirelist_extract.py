@@ -245,7 +245,7 @@ VPX_DEST = {
                      "2019-04-02 (sys-34). A recorded modification the drawing predates")],
     ("J10", "8"):  [("MH CNTRL HEAD J1-1", None, "matches O2 sheet: control head DB25-1 from VP-X J10-8"),
                     ("CO DETECT J1-1", "Red",
-                     "CO Guardian - sys-42 records it as removed (RMA 11096), so this branch may be dead")],
+                     "CO Guardian, installed and powered. Its audio and EMS data wires were cut (wiring/changes.tsv)")],
     ("J10", "9"):  [("AG", None, "avionics ground point")],
     ("J10", "10"): [("PLX AIR/FUEL MODULE", None, "")],
 }
