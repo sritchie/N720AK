@@ -1,0 +1,2 @@
+sheet	net	from_ref	from_pin	to_ref	to_pin	color	awg	protection	notes	review
+EMS	MZ30 current	MZ-30	CURRENT	SV-EMS-220	31	Brn/Blu			C011: MZ-30 proportional current output, 0-2.7 V = 0-30 A, on the EMS pin the CO detector's EMS output used to use. The MZ-30 'active' status wire is not connected.	EMS connector: pin 31 of the DB37 or the DB25?

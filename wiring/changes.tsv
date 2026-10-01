@@ -1,0 +1,12 @@
+id	date	status	sheet	action	ref	pin	to_ref	to_pin	net	color	awg	protection	notes	review
+C001	2019-04-02	done	SV	rename	SV-ADSB-470		SV-ADSB-472						ADS-B receiver traded in for the dual-band SV-ADSB-472 (Dynon RMA 28912). Box swap only; wiring unchanged.	
+C002	2019-04-02	done	PWR	rename	SV-ADSB-470		SV-ADSB-472						Same swap, as seen from the power sheet.	
+C003		done	SV	disconnect	GTN P1001	5							GTN RS-232 Out 4 cut from SkyView Serial 4 RX. The cable is abandoned in the harness. Serial 4 RX is now unused; the three displays' pin 9 stay tied to each other.	
+C004		done	SV	disconnect	GTN P1001	24							GTN RS-232 In 4 cut from SkyView Serial 4 TX.	
+C005		done	SV	add	SV-HDX1100 (PFD - LEFT #1) DB37	10	ONSPEED	25	Serial 4 TX	Blu			SkyView Serial 4 TX to the OnSpeed EFIS serial input. Pin 10 is tied across all three displays, so OnSpeed hears the same stream whichever display it is wired to.	
+C006		done	SV	remove	GMA245 J1	29	CO DETECTOR 452-101-011 DB9	6					CO detector audio wire removed from the GMA 245.	
+C007		done	SV	add	ONSPEED		GMA245 J1	29	Alert 3 Audio Hi				OnSpeed audio into GMA 245 Alert 3 (J1-29), replacing the CO detector audio.	which OnSpeed pin: sys-34 lists audio on 10 (right) and 22 (left), and says OnSpeed audio goes through the PFD, which this contradicts
+C008		done	PWR	add	ESSENTIAL BUS BAR		ONSPEED	1		Red		2A	OnSpeed power from the essential bus through a discrete fuse above the bus bar.	fuse rating: owner says 2 A, sys-34 says 2 A, sys-24 says 1 A - read it off the holder
+C009		done	SV	add	ONSPEED	4	GROUND		Ground	Blk			OnSpeed ship ground (sys-34).	
+C010		done	PWR	add	ESSENTIAL BUS BAR		FRONT USB-C CHARGER			Red		5A	Front passenger USB-C charger on the essential bus through a 5 A discrete fuse above the bus bar (sys-24).	
+C011		done	EMS	add	MZ-30	CURRENT	SV-EMS-220	31	MZ30 current	Brn/Blu			MZ-30 proportional current output, 0-2.7 V = 0-30 A, on the EMS pin the CO detector's EMS output used to use. The MZ-30 'active' status wire is not connected.	EMS connector: pin 31 of the DB37 or the DB25?

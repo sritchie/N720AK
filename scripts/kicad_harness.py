@@ -103,10 +103,14 @@ def sym_id(name):
 # ---------------------------------------------------------------------------
 
 def load_rows(sheet):
-    path = REPO / "wiring" / f"{sheet}.tsv"
-    rows = list(csv.DictReader(open(path), delimiter="\t"))
+    """The AS-BUILT wire list: the drawing's extraction with every recorded
+    change in wiring/changes.tsv applied (see scripts/wirelist_changes.py).
+    The drawings show the airplane as it is, not as it was in 2017."""
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import wirelist_changes
+    rows = wirelist_changes.as_built(sheet)
     # rows still under review, and region placeholders, are not drawn
-    return [r for r in rows if not r["review"] and r["from_ref"] and r["to_ref"]], path
+    return [r for r in rows if not r["review"] and r["from_ref"] and r["to_ref"]], None
 
 
 def endpoints(r):
@@ -305,8 +309,27 @@ def build(sheet, rows, title, layout="aligned", index=1):
                      f'(effects (font (size 1.0 1.0)) (justify left bottom)) (uuid "{U()}"))')
 
     n_flags = collections.Counter()
+    # Rows with a named destination at BOTH ends (a bus bar feeding a device
+    # that is not drawn as a connector) have no pin to hang off. Draw each as
+    # two global labels joined by a short wire, below the connectors.
+    loose_y = [g(max([p[1] for p in world.values()] or [40.64]) + 15.24)]
     for r in rows:
         a, b = endpoints(r)
+        if a[0] == "label" and b[0] == "label":
+            y = loose_y[0]
+            loose_y[0] = g(y + 5.08)
+            x0, x1 = g(XL + 20.32), g(XL + 60.96)
+            seg((x0, y), (x1, y))
+            glabel(a[1], x0, y, 180, "right")
+            glabel(b[1], x1, y, 0, "left")
+            tag = " ".join(v for v in (r["color"], (r["awg"] + " AWG") if r["awg"] else "",
+                                       r["protection"]) if v)
+            if tag:
+                note(tag, g(x0 + 2.54), g(y - 0.6))
+    for r in rows:
+        a, b = endpoints(r)
+        if a[0] == "label" and b[0] == "label":
+            continue
         tag = " ".join(t for t in (r["color"], (r["awg"] + " AWG") if r["awg"] else "") if t)
         if a[0] == "pin" and b[0] == "pin":
             pa, pb = world[(a[1], a[2])], world[(b[1], b[2])]
@@ -360,7 +383,7 @@ def build(sheet, rows, title, layout="aligned", index=1):
     junctions = [f'\t(junction (at {x} {y}) (diameter 0) (color 0 0 0 0) (uuid "{U()}"))'
                  for x, y in sorted(dots)]
 
-    ys = [p[1] for p in world.values()] or [100]
+    ys = [p[1] for p in world.values()] + [loose_y[0]]
     W = max(420, int(XR + BODY_W + 60))
     H = max(297, int(max(ys) + 60))
     paper = '"A3"' if (W, H) == (420, 297) else f'"User" {W} {H}'
@@ -465,8 +488,9 @@ def verify(sch, rows, refdes, quiet=False):
     return False
 
 
-TITLES = {"O2": "Mountain High Oxygen", "PWR": "Power & Lighting", "SV": "SkyView Interconnect"}
-ORDER = ["PWR", "SV", "O2"]
+TITLES = {"O2": "Mountain High Oxygen", "PWR": "Power & Lighting", "SV": "SkyView Interconnect",
+          "EMS": "Engine Monitoring"}
+ORDER = ["PWR", "SV", "O2", "EMS"]
 
 
 def write_project(sheets):
@@ -533,10 +557,24 @@ def main():
     a = ap.parse_args()
     sheets = a.sheets or ORDER
     ok = True
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import wirelist_changes
+    try:
+        wirelist_changes.main.__wrapped__ if False else None
+        for s in ORDER:
+            wirelist_changes.as_built(s)          # fail fast on a stale change
+    except wirelist_changes.ChangeError as e:
+        print("error:", e)
+        return 1
+    built = [s for s in sheets if load_rows(s)[0]]
+    for s in sheets:
+        if s not in built:
+            print(f"{s}: nothing drawable yet (every row is flagged for review) - skipped")
+    sheets = built
     for s in sheets:
         ok &= make_sheet(s, ORDER.index(s) + 1 if s in ORDER else 9, a.render)
     if not a.sheets:
-        root = write_project(ORDER)
+        root = write_project([s for s in ORDER if s in sheets])
         with tempfile.TemporaryDirectory() as td:
             net = os.path.join(td, "all.net")
             r = subprocess.run([KCLI, "sch", "export", "netlist", "--format", "kicadsexpr", "-o", net, str(root)],
@@ -546,7 +584,7 @@ def main():
         nets = len(re.findall(r"\(net\s*\n?\s*\(code ", s))
         warn = (r.stderr or r.stdout).strip()
         print(f"\nproject {root.relative_to(REPO)}: {comps} connectors, {nets} nets across "
-              f"{len(ORDER)} sheets" + (f"  [kicad-cli: {warn}]" if warn else ""))
+              f"{len(sheets)} sheets" + (f"  [kicad-cli: {warn}]" if warn else ""))
     return 0 if ok else 1
 
 
