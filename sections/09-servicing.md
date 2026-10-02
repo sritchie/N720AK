@@ -223,7 +223,7 @@ show in red at startup.
 |------|----------|-------|
 | Fire extinguishers | 12 months | H3R Aviation A344T (Halon 1211, 1.25 lb). Two installed: right rear passenger seat, co-pilot tunnel side. Inspect gauge (green), weight, and condition at condition inspection. |
 | Compression check | 100 hrs (break-in) | Differential compression test. More frequent during break-in, then at each condition inspection. |
-| Oil analysis | 50 hrs | Blackstone Labs sample at each oil change. Not yet started — first sample due at first oil change. |
+| Oil analysis | 50 hrs | Blackstone Labs sample at each oil change. Reports since 2026-06; trend in the private maintenance logs. |
 | Oil separator (Anti-Splat) | 50 hrs | Inspect evacuation tube where it enters exhaust pipe — remove coking/buildup. Coincides with oil change. If excessive buildup, shorten interval. See [installation guide](https://drive.google.com/file/d/1NkfPKDnFfFsIQvHDnso-gt4cVNGTY-EB/view). |
 | O2 sensor health (PLX SM-AFR) | 50 hrs | Check sensor health % on DM-6 gauge (V2.0+). Replace if <50%. Reaction time: <150ms excellent, >251ms poor. 100LL poisons sensor faster — expect 300-500 hrs life on avgas. See [Gen4 diagnostics](https://drive.google.com/file/d/1Lx1w9HNoKxVuSiyQLt7mKklyZbjxm5Bn/view). |
 | ELT registration | 2 years | NOAA SARSAT, expires 2027-11-18. Portal: beaconregistration.noaa.gov |

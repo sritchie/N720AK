@@ -11,7 +11,7 @@ N720AK uses the **Dynon 3-axis autopilot** integrated with the Skyview HDX EFIS.
 | Component | Part Number | Supplier | Notes |
 |-----------|-------------|----------|-------|
 | Roll servo | <!-- TODO --> | Dynon | Aileron axis — [tuning guide](https://drive.google.com/file/d/1EsYWdLyHYih_TPhDTpNbwdXyRhECW5kl/view) |
-| Pitch servo | **SV42T, P/N 101008-003, S/N 50220** | Dynon | Elevator axis, linear actuator (install doc 101046-007 Rev E). **Affected by Dynon TSB 080219 — see below.** |
+| Pitch servo | **SV42T, P/N 101008-003, S/N 50220** | Dynon | Elevator axis, linear actuator (install doc 101046-007 Rev E). Dynon TSB 080219: pulley replaced 2026-10-02 — see below. |
 | Yaw damper | <!-- TODO --> | Dynon | Yaw axis |
 | AP control panel | <!-- TODO --> | Dynon | Panel-mounted — [install guide](https://drive.google.com/file/d/1n78cJB2_7Fj_dKWa3pZ48iWXHp_xgzVq/view) |
 | AP disconnect | — | Tosten grip | Red button on both sticks |
@@ -39,15 +39,20 @@ The autopilot disconnects when:
 - Manual force is applied to the controls (servo clutch slip)
 - <!-- TODO: Other disconnect triggers? EFIS failure? Bus failure? -->
 
-### Dynon TSB 080219 — SV42T servo pulley (AFFECTED, OPEN)
+### Dynon TSB 080219 — SV42T servo pulley (COMPLIED 2026-10-02)
 
 **N720AK's pitch servo is affected.** The pulley reads as the unidirectional
 "wood-grain" texture (Sam), which the bulletin defines as an affected pulley
 regardless of whether a crack is present. Dynon Technical Support was contacted
 2026-09-22 and is sending the LA pulley assembly and a shear screw
 replacement kit — see the repair procedure below.
-<!-- TODO: inspection date, tach/hobbs, whether a crack was found, and whether
-the crack check was performed under load -->
+
+**Outcome, 2026-10-02 (tach 182.6):** the removed pulley was not just
+wood-grain — it was **cracked from the shear-screw bore clean through to the
+rim**, the exact failure the bulletin describes. Replaced with the crosshatch
+pulley assembly; the original shear screw was left in place.
+
+![Removed pitch servo pulley: wood-grain texture, crack running from the shear-screw bore to the rim](images/sys-22-pitch-servo-pulley-cracked.jpg)
 
 **Why it matters:** *"This can cause poor autopilot performance and presents a
 risk of interfering with the flight controls."* This is a flight-controls
@@ -105,6 +110,10 @@ the unit blind.
 
 
 #### The repair — LA pulley assembly + shear screw kit
+
+*Done 2026-10-02: pulley assembly replaced (crosshatch confirmed), castle nut
+4 in-lb, new cotter pin. The shear screw kit was not needed — the original screw
+stays in place.* <!-- TODO: AP SERVO CALIBRATION and tuning flight -->
 
 Dynon's disposition (2026-09-22): they are sending the **linear actuator pulley
 assembly** and a **shear screw replacement kit**, not a replacement servo. So
