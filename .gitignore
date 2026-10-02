@@ -19,3 +19,9 @@ maintenance/fuel-system/flight-logs/*.csv
 # Generated checklist exports — handed to the user, not committed
 checklist.txt
 N720AK.fmd
+
+# KiCad local state and renders
+*.kicad_prl
+*-backups/
+kicad/n720ak/*.pdf
+fp-info-cache

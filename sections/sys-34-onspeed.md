@@ -10,7 +10,7 @@ The **OnSpeed** system is an audio angle-of-attack (AoA) indicator that provides
 
 The practical upshot: **the tones are a stall-margin aid, not a redundant airspeed system.** In an unreliable-airspeed event they are gone, and the remaining references are pitch attitude, power setting, and GPS groundspeed. Altitude and VSI survive, because static comes from the two aft-fuselage ports rather than the probe.
 
-<!-- TODO: Confirm OnSpeed is installed and operational on N720AK -->
+
 
 ## Components
 
@@ -66,7 +66,7 @@ Speeds vary with weight, bank, and configuration — **fly the tone, not the air
 
 ### Audio Routing
 
-OnSpeed audio is delivered to the headsets via the Dynon PFD audio output, mixed through the GMA 245 audio panel.
+OnSpeed audio goes **directly into the GMA 245 Alert 3 input (J1-29)** — the input the CO detector's audio used to occupy. Only OnSpeed's right channel (pin 10) is wired, and it serves as mono; the left channel (pin 22) is unused. It does not pass through the SkyView.
 
 ### Muted Mode
 
@@ -85,7 +85,7 @@ If the pilot mutes audio:
 
 ## Wiring
 
-OnSpeed connects to the Dynon PFD for power, data, and audio output.
+OnSpeed is a **Gen2v4** box on a **DB-25** harness (Phil's Gen2v4 aircraft harness drawing; pinout below matches it). Power comes from the essential bus through a 1 A automotive blade fuse; data is SkyView Serial 4 TX; audio goes straight to the GMA 245; flap position is spliced into the VP-X's flap sensor wire. Full as-built wiring: `wiring/as-built/ONSPEED.tsv`.
 
 ### OnSpeed Connector Pinout
 
@@ -93,14 +93,14 @@ OnSpeed connects to the Dynon PFD for power, data, and audio output.
 
 | Pin | Function | Wire Color |
 |-----|----------|------------|
-| 1 | 12V power (from PFD, 2A fuse) | Red |
+| 1 | Power, from the essential bus through a 1 A fuse | Red |
 | 4 | Ship ground | Black |
 
 #### Data Inputs
 
 | Pin | Function | Wire Color |
 |-----|----------|------------|
-| 21 | Flap pot wiper | White |
+| 21 | Flap pot wiper — spliced into the VP-X flap position wire (VP-X J1-17) | White |
 | 25 | EFIS serial4 TX line | Blue |
 
 #### Button / Lower Console
@@ -128,8 +128,8 @@ Control cable wiring (6-conductor, button to OnSpeed box):
 
 | Pin | Function | Wire Color |
 |-----|----------|------------|
-| 10 | Pilot audio right | Purple/green |
-| 22 | Pilot audio left | Purple/yellow |
+| 10 | Audio right — to GMA 245 J1-29 (Alert 3), used as mono | Purple/green |
+| 22 | Audio left — not connected | Purple/yellow |
 
 ## Emergency Maneuvering — Why the Turnback Has No Altitude Number
 

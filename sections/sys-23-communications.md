@@ -162,7 +162,12 @@ off the drawing, 2026-09-14):
 
 | From | To | Wire |
 |---|---|---|
-| GTN 650 **P1003 pin 6 — GPS RS-232 Out 3** | **ELT DB15 pin 9 — Serial GPS Data In** | Wht |
+| GTN 650 **P1001 pin 6 — GPS RS-232 Out 3** | **ELT DB15 pin 9 — Serial GPS Data In** | Wht |
+
+*Corrected 2026-10-01: this row previously said P1003. The GTN connector was
+verified by tracing the line geometry of the SteinAir interconnect drawing end
+to end — `wiring/SV.tsv`, which also shows the wire hops two crossings on the
+way.*
 
 So the 406 MHz burst carries a GPS position rather than relying on Doppler
 resolution alone. That is worth more than it sounds: in the Embry-Riddle data

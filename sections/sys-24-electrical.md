@@ -45,7 +45,7 @@ Per the SteinAir power & lighting schematic (verified 2026-08):
 | COM 1 | 10 | GTN 650 com board (P1003-30/43/44, via COM relay) |
 | NAV 1 | 7.5 | GTN 650 GPS/main + VLOC boards (P1001-19/20, P1004-51/52, via NAV relay) |
 | PNL LTS | 5 | Panel lighting |
-| SERVOS | — | Autopilot servos |
+| SERVOS | 5 | Autopilot servos (via the A/P MSTR panel switch) |
 
 **COM 1 / NAV 1 split**: pulling COM 1 kills only the GTN's com transceiver (stuck-mic response — screen, GPS, and VLOC keep running). Pulling NAV 1 kills the GTN main and VLOC boards; the com board keeps operating on its last frequency with no display or tuning.
 
@@ -180,8 +180,8 @@ Architecture section above already recorded.
 
 | Channel | Device | VPX pin |
 |---------|--------|---------|
-| 2A-1 | Defrost fan | — |
-| 2A-2 | Fault annunciator | — |
+| 2A-1 | Defrost fan | J1-1 |
+| 2A-2 | Fault annunciator (both ECU FAULT lamps) | J1-2 |
 | 3A-1 | Autopilot panel (SV-A/P-PNL, D15-9) | J12-10 |
 | 5A-8 | **PFD 2** (copilot SV-HDX1100, D37-1/20) | J10-2 |
 | 5A-9 | **Audio panel** (GMA 245) | J10-4 |
@@ -196,8 +196,8 @@ Architecture section above already recorded.
 | 10A-6 | COM 2 (SV-COM, D15-8) | J12-7 |
 | 15A-1 | Pitot heat | J10-6 |
 | 15A-2 | Strobes | J12-2 |
-| 15A-3 | Wigwag | — |
-| — | Alternator field | J12-11 |
+| 15A-3 | Wigwag | J12-12 |
+| — | *FIELD PRI — not wired.* The alternator field is fed from the essential bus ALT FLD breaker instead | J12-11 |
 
 #### Switch Inputs (VP-X J2, DB25)
 
@@ -429,7 +429,7 @@ The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to
 ### EMS general-purpose inputs — all 13 allocated
 
 Read from the **2026-08-29 SkyView USER_CONFIG** snapshot (GDrive
-`Public/Configs/Dynon/`), not from the panel. The SV-EMS-221's general-purpose
+`Public/Configs/Dynon/`), not from the panel. The SV-EMS-220's general-purpose
 pins on the 37-pin connector are **C37 pins 4, 6, 7, 8, 9, 10, 11, 12, 20, 21,
 22, 23 and 31** — the set the sensor-definition file lists as supporting the
 10 k / 991 Ω / 200.88 Ω pull-ups. Every one is configured.
@@ -618,6 +618,9 @@ Complete wiring map of the aircraft, from tail to firewall.
 
 ### Terminal Blocks Under Seats
 
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv and wiring/EMS.tsv. Keep the headings and columns; an unrecognised function stops the extractor rather than being dropped. -->
+
+
 Two terminal blocks located under the front seats distribute wiring between the wing roots, center tunnel, and panel.
 
 #### Left Terminal Block
@@ -648,6 +651,9 @@ Two terminal blocks located under the front seats distribute wiring between the 
 | 9 | Nav power |
 
 ### Wing Root Connectors (CPC)
+
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv and wiring/EMS.tsv. Keep the headings and columns; an unrecognised function stops the extractor rather than being dropped. -->
+
 
 CPC barrel connectors (series 1, 17–18 pin) at each wing root carry all wing wiring.
 
@@ -717,6 +723,9 @@ Wire color mapping between the wing harness and the Dynon roll/pitch servo conne
 
 ### Dynon EMS-220 Connector (37-Pin)
 
+<!-- Read by scripts/wirelist_handbook.py to build wiring/WING.tsv and wiring/EMS.tsv. Keep the headings and columns; an unrecognised function stops the extractor rather than being dropped. -->
+
+
 Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 
 #### Through Firewall
@@ -778,6 +787,8 @@ Complete pinout for the SV-EMS-220 engine monitoring module. Updated 2026-03-04.
 | 31 | Monkworkz MZ-30 proportional current (was CO Guardian PPM input) | Brown/blue — 0–2.7V proportional to 0–30A generator output. Sensor definition not yet configured in Dynon. **CO Guardian unit itself is still installed in the cabin and provides an audible alarm above 50 PPM**; only the Dynon EMS PPM display was removed. The audible alarm is currently not wired into the audio panel — it sounds in the cabin but is not heard through the headsets. |
 | 32 | RPM input left (high voltage) | Not used (using pin 34 low voltage) |
 | 33 | RPM input right (high voltage) | Not used (using pin 35 low voltage) |
+| 36 | General thermocouple 2+ | Not used |
+| 37 | General thermocouple 2− | Not used |
 | 36 | General thermocouple 2+ | Not used |
 | 37 | General thermocouple 2− | Not used |
 

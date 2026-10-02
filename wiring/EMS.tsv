@@ -1,0 +1,34 @@
+sheet	net	from_ref	from_pin	to_ref	to_pin	color	awg	protection	notes	review
+EMS		SV-EMS-220 DB37	1	BATTERY 1 VOLTAGE SENSE		Red			Main battery voltage, routed across the panel. Confirm at inspection: where each battery-voltage sense lead is tapped, and that it is fused at the tap	
+EMS		SV-EMS-220 DB37	2	BATTERY 2 VOLTAGE SENSE		Yel/Grn			Secondary battery voltage, routed across the panel. Confirm at inspection: where each battery-voltage sense lead is tapped, and that it is fused at the tap	
+EMS		SV-EMS-220 DB37	3	OIL PRESSURE SENSOR	GND	Blk			Ground (oil pressure), routed through the firewall	
+EMS		SV-EMS-220 DB37	4	PITCH TRIM POSITION		Vio/Blu			Elevator trim position, routed down the left side, under the panel	
+EMS		SV-EMS-220 DB37	5	OIL TEMP SENSOR	GND	Blk			Ground (oil temp), routed through the firewall	
+EMS		SV-EMS-220 DB37	6	OIL PRESSURE SENSOR	SIG	Wht/Yel			Oil pressure sensor, routed through the firewall	
+EMS		SV-EMS-220 DB37	7	OIL TEMP SENSOR	SIG	Wht/Brn			Oil temp sensor, routed through the firewall	
+EMS		SV-EMS-220 DB37	8	FUEL PRESSURE SENSOR	SIG	Brn			Fuel pressure sensor, routed through the firewall	
+EMS		SV-EMS-220 DB37	9	PITOT HEAT STATUS		Brn/Blu			Heated pitot status, routed down the left side, under the panel	
+EMS		SV-EMS-220 DB37	10	ROLL TRIM POSITION		Brn/Yel			Roll trim position, routed down the left side, under the panel	
+EMS		SV-EMS-220 DB37	11	LEFT DOOR AJAR SWITCH		Ora			Door ajar left, routed down the left side, under the panel. contact input; the switch's other side is not recorded	
+EMS		SV-EMS-220 DB37	12	RIGHT DOOR AJAR SWITCH		Yel			Door ajar right, routed across the panel. contact input; the switch's other side is not recorded	
+EMS		SV-EMS-220 DB37	13	FUEL FLOW TRANSDUCER	GND	Blk			Ground (fuel flow), routed across the panel	
+EMS		SV-EMS-220 DB37	14	FUEL FLOW TRANSDUCER	SIG	Yel			Fuel flow, routed across the panel	
+EMS		SV-EMS-220 DB37	15	FUEL FLOW TRANSDUCER	+12V	Red			12V power for fuel flow interface, routed across the panel	
+EMS		SV-EMS-220 DB37	16	FUEL PRESSURE SENSOR	GND	Blk			Ground (fuel pressure), routed through the firewall	
+EMS		SV-EMS-220 DB37	17	MAP SENSOR	GND	Blk			Ground (MAP sensor), routed across the panel	
+EMS		SV-EMS-220 DB37	18	FUEL FLOW TRANSDUCER	+5V	Wht/Red			shared +5 V; the firewall list records it as one spliced lead. Confirm at inspection: Dynon's fuel flow transducer (100403-003) is powered from pin 15 alone (SkyView install guide, EMS harness table), yet the record also lists fuel flow on the shared +5 V. What does the 5 V lead feed?	
+EMS		SV-EMS-220 DB37	18	SENSOR +5V		Wht/Red			shared +5 V; the firewall list records it as one spliced lead	
+EMS		SV-EMS-220 DB37	18	FUEL PRESSURE SENSOR	+5V	Wht/Red			shared +5 V; the firewall list records it as one spliced lead	
+EMS		SV-EMS-220 DB37	18	OIL PRESSURE SENSOR	+5V	Wht/Red			shared +5 V; the firewall list records it as one spliced lead	
+EMS		SV-EMS-220 DB37	18	OIL TEMP SENSOR	+5V	Wht/Red			shared +5 V; the firewall list records it as one spliced lead. Confirm at inspection: Dynon's fluid temperature sender (100409-001) is a single-stud sensor grounded through its case: one wire, to the input pin (SkyView install guide, fluid temperature section). The records also give it ground pin 5 and the shared +5 V. Where do those two leads actually land?	
+EMS		SV-EMS-220 DB37	18	MAP SENSOR	+5V	Wht/Red			shared +5 V; the firewall list records it as one spliced lead	
+EMS		SV-EMS-220 DB37	20	FUEL LEVEL LEFT		Ora/Brn			Fuel level left, routed down the left side, under the panel	
+EMS		SV-EMS-220 DB37	21	FUEL LEVEL RIGHT		Ora/Blu			Fuel level right, routed across the panel	
+EMS		SV-EMS-220 DB37	22	BATTERY 1 FAULT (EarthX BMS)		Vio/Yel			Battery fault 1, routed down the left side, under the panel. through a 1-pin blade connector at the tailcone front	
+EMS		SV-EMS-220 DB37	23	BATTERY 2 FAULT (EarthX BMS)		Vio/Grn			Battery fault 2, routed down the left side, under the panel. through a 1-pin blade connector at the tailcone front	
+EMS		SV-EMS-220 DB37	24	ALTERNATOR AMMETER SHUNT	+	Ora/Grn			Ammeter shunt +, routed across the panel. Confirm at inspection: the owner's build notes call for a 1 A fuse inline on EACH shunt lead (Dynon install guide); confirm both are fitted	
+EMS		SV-EMS-220 DB37	25	ALTERNATOR AMMETER SHUNT	-	Ora/Vio			Ammeter shunt −, routed across the panel. Confirm at inspection: the owner's build notes call for a 1 A fuse inline on EACH shunt lead (Dynon install guide); confirm both are fitted	
+EMS		SV-EMS-220 DB37	26	MAP SENSOR	SIG	Grn/Red			MAP sensor input, routed across the panel	
+EMS		SV-EMS-220 DB37	30	TRIM SENSOR GROUND		Blk			Ground (roll trim, elevator trim), routed down the left side, under the panel	
+EMS		SV-EMS-220 DB37	34	RPM LEFT (low-voltage tach)		Blu			Low voltage RPM input left, routed across the panel. source not recorded in the handbook	
+EMS		SV-EMS-220 DB37	35	RPM RIGHT (low-voltage tach)		Grn			Low voltage RPM input right, routed across the panel. source not recorded in the handbook	

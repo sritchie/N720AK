@@ -17,7 +17,7 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 | AP Panel | Dynon | Autopilot control panel |
 | Com Panel | Dynon | Com frequency control |
 | Knob Panels | Dynon | <!-- TODO: what knob panels? --> |
-| CO Detector | CO Guardian 452-101-012 | Guardian Avionics | **Not currently wired in.** S/N 112081. See [CO Guardian](#co-guardian-452) below |
+| CO Detector | CO Guardian 452-101-012 | Guardian Avionics | **Installed and powered, but no audio or EMS output** — both wires were reused. S/N 112081. See [CO Guardian](#co-guardian-452) below |
 | Transponder | <!-- TODO --> | ADS-B Out |
 | ELT | Artex ELT 345 | 406 MHz |
 | Bus Manager | flyEFII System32 | See [Electrical Power](./sys-24-electrical.md) |
@@ -30,7 +30,7 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 **Model**: 452-101-012 (Certified Remote Mount CO Detector for Dynon Systems)
 **S/N**: 112081
-**Status**: Not currently installed. The unit was replaced under RMA 11096 (Dec 2025). The Dynon EMS pin it previously occupied (pin 31, brown/blue wire) is now used by the Monkworkz MZ-30 generator proportional current output.
+**Status**: **Installed and powered** (VP-X J10-8, the oxygen/CO 5 A channel). This is the replacement unit from RMA 11096 (Dec 2025). Its **audio** wire to the GMA 245 (J1-29) and its **EMS data** wire were cut: the audio input now carries OnSpeed, and the EMS pin it used (pin 31, brown/blue) now carries the Monkworkz MZ-30 proportional current output. So the detector runs but neither alerts aurally nor reports to the SkyView.
 
 **Wiring for future reinstallation**:
 - The brown/blue wire for the CO Guardian's EFIS connection is tied up near the Dynon EMS connector

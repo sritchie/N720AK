@@ -1,0 +1,5 @@
+{
+  "meta": {"filename": "n720ak.kicad_pro", "version": 3},
+  "schematic": {"legacy_lib_dir": "", "legacy_lib_list": []},
+  "sheets": [["73017f24-3a11-5879-901c-ae364a2c7298", "Power & Lighting"], ["05fa3d45-0636-58df-9d5e-81af0cf9750f", "SkyView Interconnect"], ["7e6d20c8-2457-5371-8684-7a70b4f29f82", "Mountain High Oxygen"], ["2ac1f6a7-154c-57d3-8fed-8d80473941e2", "OnSpeed AoA"], ["2e54779a-7763-5fca-8ae4-979b3d92249d", "Engine Monitoring"], ["8956844d-9e50-5552-96d4-df74829902f1", "Wings & Under-Seat Terminal Blocks"]]
+}
