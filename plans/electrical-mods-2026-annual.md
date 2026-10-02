@@ -111,8 +111,8 @@ the plan.
       flight**. Finish with `SETUP > HARDWARE CALIBRATION > AP SERVO CALIBRATION`
       and a tuning flight.
       Full procedure and part numbers: `sections/sys-22-autopilot.md`.
-- [ ] **AP servo calibration + tuning flight** after the pulley swap
-      (`SETUP > HARDWARE CALIBRATION > AP SERVO CALIBRATION`).
+- [x] **AP servo calibration** after the pulley swap — succeeded 2026-10-02.
+- [ ] **AP tuning flight** after the pulley swap.
 - [ ] Read the **roll** servo part number off its label to close it out. SV32 and
       SV42 are on the bulletin's *unaffected* list unless retrofitted with the
       Dynon linear actuator, and the roll servo installs per doc 101046-003, the

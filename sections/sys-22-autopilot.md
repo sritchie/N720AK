@@ -113,7 +113,10 @@ the unit blind.
 
 *Done 2026-10-02: pulley assembly replaced (crosshatch confirmed), castle nut
 4 in-lb, new cotter pin. The shear screw kit was not needed — the original screw
-stays in place.* <!-- TODO: AP SERVO CALIBRATION and tuning flight -->
+stays in place. AP SERVO CALIBRATION completed successfully the same day.*
+<!-- TODO: in-flight tuning check after the pulley swap -->
+
+![Pitch servo reinstalled after the pulley swap, torque seal on the linkage hardware](images/sys-22-pitch-servo-reinstalled.jpg)
 
 Dynon's disposition (2026-09-22): they are sending the **linear actuator pulley
 assembly** and a **shear screw replacement kit**, not a replacement servo. So
