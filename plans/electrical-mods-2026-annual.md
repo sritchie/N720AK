@@ -95,7 +95,9 @@ the plan.
       named in the bulletin's applicability list. The pulley reads as the
       unidirectional "wood-grain" texture, which condemns it whether or not a
       crack is present. Dynon Technical Support contacted 2026-09-22.
-- [ ] **Repair the pitch servo — LA pulley assembly + shear screw kit.** Dynon
+- [x] **Repair the pitch servo — LA pulley assembly + shear screw kit.** DONE
+      2026-10-02: old pulley was CRACKED bore-to-rim; crosshatch pulley fitted,
+      shear screw not replaced. Dynon
       is sending both (2026-09-22), so **S/N 50220 stays in the airplane** and no
       SkyView Network reconfiguration is needed. The hazard is *"a risk of
       interfering with the flight controls"*, so pulling the AP breaker is **not**
@@ -109,6 +111,8 @@ the plan.
       flight**. Finish with `SETUP > HARDWARE CALIBRATION > AP SERVO CALIBRATION`
       and a tuning flight.
       Full procedure and part numbers: `sections/sys-22-autopilot.md`.
+- [ ] **AP servo calibration + tuning flight** after the pulley swap
+      (`SETUP > HARDWARE CALIBRATION > AP SERVO CALIBRATION`).
 - [ ] Read the **roll** servo part number off its label to close it out. SV32 and
       SV42 are on the bulletin's *unaffected* list unless retrofitted with the
       Dynon linear actuator, and the roll servo installs per doc 101046-003, the
@@ -411,8 +415,8 @@ This is the part that gets skipped. None of it is optional.
 - [ ] **Anki** — the N720AK essential-bus cards state what dies in the shed
       state. That answer changes. Fix them in `cards/src/` and push; run
       `scripts/diff_decks.py` afterward.
-- [ ] **`ad-sb-compliance.tsv`** — close Dynon TSB 080219 with what the Phase 0
-      inspection found.
+- [x] **`ad-sb-compliance.tsv`** — close Dynon TSB 080219 with what the Phase 0
+      inspection found. Closed 2026-10-02.
 
 ---
 
