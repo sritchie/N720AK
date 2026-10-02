@@ -429,7 +429,7 @@ The MZ-30's proportional current output (pin 5, 0–~2.7V = 0–30A) is wired to
 ### EMS general-purpose inputs — all 13 allocated
 
 Read from the **2026-08-29 SkyView USER_CONFIG** snapshot (GDrive
-`Public/Configs/Dynon/`), not from the panel. The SV-EMS-221's general-purpose
+`Public/Configs/Dynon/`), not from the panel. The SV-EMS-220's general-purpose
 pins on the 37-pin connector are **C37 pins 4, 6, 7, 8, 9, 10, 11, 12, 20, 21,
 22, 23 and 31** — the set the sensor-definition file lists as supporting the
 10 k / 991 Ω / 200.88 Ω pull-ups. Every one is configured.
