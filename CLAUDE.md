@@ -99,13 +99,7 @@ Always use `uv` to run Python scripts (handles dependencies automatically), e.g.
 
 ### Fuel System Quick Facts
 
-- Fuel pressure setpoint: **45 PSI** (Dynon DIFF mode) on the **Borla 203133** regulator (installed 2026-03-17). **>1 PSI variation from 45 under load warrants investigation.**
-- Auto-cutover trip (Bus Manager Pump 1 → Pump 2): 22 PSI absolute at the pump-side sense.
-- Full system details: `sections/sys-28-fuel-system.md`. Sensor details, DIFF vs gauge math, and CSV formats: `.claude/skills/flight-data-analysis/reference.md` (loaded by the `flight-data-analysis` skill).
-
-## Deployment
-
-Push to `main` auto-deploys the mdBook HTML to GitHub Pages (target domain: **n720ak.com**).
+Setpoint, investigation threshold, and auto-cutover trip point: `.claude/skills/flight-data-analysis/reference.md` (loaded by the `flight-data-analysis` skill). Full system details: `sections/sys-28-fuel-system.md`.
 
 ## Git Workflow
 
@@ -113,13 +107,14 @@ Push to `main` auto-deploys the mdBook HTML to GitHub Pages (target domain: **n7
 
 **Branch awareness**: At the start of each session, check `git branch --show-current` and `git log --oneline main..HEAD`. If you're on a feature branch with commits ahead of main, that branch was likely already merged — verify with `gh pr list --state merged --head <branch>`. If merged, switch to main and pull before starting new work. If not merged, you can stack additional commits on the existing branch.
 
-**Always start from fresh main.** Every new batch of changes must begin by switching to main, pulling latest, and creating a new branch. Do not make edits on stale branches or on main directly. The workflow is:
-1. `git checkout main && git pull`
-2. `git checkout -b descriptive-branch-name`
+**Always start from fresh main, in a worktree.** Several agents often work in `~/code/rv10` at once, and the single checkout's branch and index are shared — a `git checkout` by one agent silently resets another's branch mid-task. Never switch branches in the shared checkout; do every batch of changes in its own worktree off fresh `origin/main`:
+1. `git fetch origin && git worktree add <scratchpad>/wt-<topic> -b descriptive-branch-name origin/main`
+2. `cd` into the worktree; make all edits, commits, pushes, and `gh pr create` from there
 3. Make edits
 4. Commit with an imperative-mood message
 5. Push and open a PR with a summary
 6. Squash merge the PR
+7. `git worktree remove <path>` once merged
 
 When merging PRs, **always use squash merge** via `gh pr merge`:
 
@@ -165,7 +160,6 @@ Dynon SkyView config snapshots (.sfg/.dfg) live in GDrive `Public/Configs/Dynon/
 ## Editing Tips
 
 - Use `<!-- placeholders -->` for missing data
-- Tables use Pandoc pipe syntax
 - Insert `\pagebreak` for PDF page breaks
 - Images referenced from markdown go in **`sections/images/`** and are referenced as
   `![Alt](images/file.png)`. mdBook only copies files inside `src` (= `sections/`),
@@ -174,4 +168,3 @@ Dynon SkyView config snapshots (.sfg/.dfg) live in GDrive `Public/Configs/Dynon/
   only (`template.typ` uses `images/aircraft.jpg`).
 - SVGs need explicit `width`/`height` on the root element, not just a `viewBox` —
   browsers fall back to 300×150 for an `<img>` with no intrinsic size.
-- Sections 4, 4b, 5 are **generated** - edit the JSON, not the markdown
