@@ -12,7 +12,7 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 |--------|-----------|-------|
 | Audio Panel | Garmin GMA 245 | Bluetooth, 4-place intercom, S/N 3YL000434 |
 | Nav/GPS/Com | Garmin GTN 650 | Certified IFR, single Bob Archer nav antenna, S/N 1Z8021616 |
-| EFIS | Dynon Skyview HDX | Primary flight display |
+| EFIS | Dynon SkyView HDX × 3 | **SV-HDX1100** left and right, **SV-HDX800** centre — see [Panel Layout](#panel-layout) |
 | Autopilot | Dynon 3-axis | Roll, pitch, yaw damper servos |
 | AP Panel | Dynon | Autopilot control panel |
 | Com Panel | Dynon | Com frequency control |
@@ -54,8 +54,57 @@ This section covers N720AK's avionics stack as an integrated system — how ever
 
 ## Panel Layout
 
+### Displays
+
+Three SkyView HDX displays:
+
+| Position | Model |
+|---|---|
+| Left | SV-HDX1100 |
+| **Centre** | **SV-HDX800** (smaller) |
+| Right | SV-HDX1100 |
+
+Plus the Garmin GTN 650 and GMA 245 in the centre stack.
+
+### Panel geometry — the CAD file is authoritative
+
+The instrument panel is defined by a CNC cut file, **revision 24, approved for
+cutting**, filed in GDrive at `Public/CAD/Panel/`:
+
+| File | What |
+|---|---|
+| `N720AK-panel-rev24-approved-cut.dxf` | The authoritative panel geometry. 43.2″ × 23.4″, units inches. Layers `panel`, `cut`, `face`, `OBSTRUCTION`, `interference`, `Labels`. |
+| `N720AK-panel-rev24-rendered.png` | Render, viewable without a CAD application |
+| `N720AK-panel-cutout-inventory.tsv` | **Every cutout extracted to a table** — 255 features with position, diameter or width×height, and layer |
+| `Vans-RV-10-stock-panel-2D-F-1003A.dxf` | Van's stock blank, 44.56″ × 11.56″ — the unmodified baseline |
+
+The cutout inventory is generated from the DXF with `ezdxf`, so it can be
+regenerated rather than maintained. Display apertures measured from it:
+
+| Cutout | Size | Centre (x, y) |
+|---|---|---|
+| HDX1100 outer, right | 14.24″ × 10.41″ | (13.54, 21.38) |
+| HDX1100 outer, left | 14.24″ × 10.41″ | (−15.45, 20.38) |
+| HDX800, centre | 7.64″ × 5.59″ | (−1.32, 25.92) |
+
+Round-hole population: 48 at 0.093″, 63 at ~0.150″ (#8 screw), 10 at 0.250″,
+8 at 0.480″, and a single **3.138″** — a 3⅛″ instrument cutout.
+
+<!-- TODO: what occupies the single 3-1/8" cutout? Nothing in this handbook
+     accounts for it — standby instrument, clock, or a plugged legacy hole. -->
 <!-- TODO: Panel photo with callouts -->
-<!-- TODO: Panel dimensions and cutout locations -->
+<!-- TODO: The DXF's layer split is uneven (220 features on layer `0` vs 35 on
+     `cut`), so the inventory currently captures all geometry rather than only
+     cut features. Refine once the layer meanings are confirmed. -->
+
+### Equipment CAD models
+
+STEP models and panel-cutout DXFs for the installed Dynon equipment are filed in
+`Public/CAD/Components/Dynon/`, one folder per item, covering the HDX displays,
+SV-ADAHRS-200/201, SV32 and SV42 servos, SV-COM-425 and its panel, SV-GPS-250,
+SV-XPNDR-261, SV-ADSB-472, SV-ARINC-429, SV-EMS-220/221, SV-BAT-320,
+SV-AP-PANEL and SV-KNOB-PANEL. Prefer STEP over IGES; redundant IGES copies
+were removed.
 
 ## Data Flow
 
