@@ -1,7 +1,7 @@
 ---
 name: flysto-tuning
 description: Audit and tune the FlySto flag thresholds and per-approach scoring limits for N720AK. Use when the user wants to review flag firing rates, recalibrate thresholds against actual flight data, or push approach scores toward "great landings" instead of "current behavior."
-argument-hint: [optional starting focus, e.g., "approach scoring" or "flags" or "everything"]
+argument-hint: '[optional starting focus, e.g., "approach scoring" or "flags" or "everything"]'
 user-invocable: true
 ---
 
