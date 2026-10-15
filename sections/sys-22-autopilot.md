@@ -48,7 +48,7 @@ regardless of whether a crack is present. Dynon Technical Support was contacted
 replacement kit — see the repair procedure below.
 
 **Outcome, 2026-10-02 (tach 182.6):** the removed pulley was not just
-wood-grain — it was **cracked from the shear-screw bore clean through to the
+wood-grain — it was **cracked through, from the shear-screw bore to the
 rim**, the exact failure the bulletin describes. Replaced with the crosshatch
 pulley assembly; the original shear screw was left in place.
 
@@ -114,7 +114,7 @@ the unit blind.
 *Done 2026-10-02: pulley assembly replaced (crosshatch confirmed), castle nut
 4 in-lb, new cotter pin. The shear screw kit was not needed — the original screw
 stays in place. AP SERVO CALIBRATION completed successfully the same day.*
-<!-- TODO: in-flight tuning check after the pulley swap -->
+*In-flight check 2026-10-12: pitch and altitude hold normal, no tuning changes needed.*
 
 ![Pitch servo reinstalled after the pulley swap, torque seal on the linkage hardware](images/sys-22-pitch-servo-reinstalled.jpg)
 
