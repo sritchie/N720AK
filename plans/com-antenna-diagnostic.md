@@ -45,11 +45,18 @@ Do not measure anything until this is settled. Getting it wrong invalidates
 everything downstream.
 
 1. **Which radio is "COM1"** — the GTN 650's com, or the Dynon SV-COM-425?
-2. **Which antenna does it feed?** `sections/sys-23-communications.md`
-   records COM1 on a Comant **CI-121** on top of the fuselage and COM2 on a
-   **CI-122** under the right wing. Trace the coax and confirm. The repo may
-   be wrong, and this is the kind of detail that gets recorded once during a
-   build and never checked.
+2. **Which antenna does it feed?** COM 1 feeds the **CI-122 under the right
+   wing**, via an inline barrel at the right wing root; COM 2 feeds the
+   **CI-121 on top**. Established by tracing on 2026-09-30 — and note that
+   this page and `sys-23` both had it **backwards** for years.
+
+   **Do not identify a feedline by which way the coax leaves the connector.**
+   That is how the 2026-09-22 session got it wrong: several runs leave the
+   panel area together and separate further aft, so apparent direction at the
+   radio proves nothing. Trace end to end, or ring it out with a jumper at the
+   far end. Getting this wrong invalidates every test downstream of it — in
+   2026-09 it produced a loop-continuity test across two different cables and
+   led to a serviceable run being replaced.
 3. **Where was the barrel that got disturbed?** Behind the panel at the radio
    end, or out at the wing root? The nav work was happening at the GTN, which
    makes the radio end more likely, but confirm rather than assume.
@@ -255,8 +262,9 @@ this fault has already come and gone more than once.
 - **Secure every barrel** so it cannot swing. Adhesive-lined heat shrink over
   the body, plus a cushioned clamp anchoring it. Tape unwraps and goes gummy;
   an unsecured connector chafes through whatever you put on it.
-- **Keep COM and NAV barrels apart.** They were found bonded together at the
-  wing root on 2026-09-16.
+- **Keep COM and NAV barrels apart.** They were found in contact at the right
+  wing root on 2026-09-16 and were separated and secured the same day. Closed,
+  and unrelated to COM 1 — that run does not pass through the wing root.
 - Re-measure after the fix, against the Phase 3 numbers, and fly it before
   calling it closed.
 
