@@ -247,6 +247,11 @@ Principles transfer, programming does not.
 | 2026-03-17 User Config (SN10980 HDX800) | [link](https://drive.google.com/file/d/172-N60fPlwcfapO4r3ZQohN0ohzAOwB6/view) |
 | 2026-08-19 Sensor Config (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1zjVTqKxc35Zpv0LtjFs3ntWmfYDmM1TO/view) |
 | 2026-08-19 User Config (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1JUH6Zb3I-qbk0eXxlyfXBCTSR6t45aw3/view) |
+| 2026-08-29 Sensor Config (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1d3BkqFT4g0nu_juvGUBuTqYUSFngPhLQ/view) |
+| 2026-08-29 User Config (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1VukmELH4PToPfGAJh7bFE-oU6kmzb9IB/view) |
+| 2026-11-18 Sensor Config (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1UxZNIHeZdVIdVaX8tkpHvvChXkXLJJXa/view) |
+| 2026-11-18 User Config (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1sMVjGki1FQgkweDHsqtNpm-Ay7pQGZQh/view) |
+| 2026-11-18 Checklists as loaded (SN11668 HDX1100, SkyView 17.6.0.30385) | [link](https://drive.google.com/file/d/1TGRAzoZ8ieEmvs4ndzV6aazAoo6lRHoQ/view) |
 | CO Guardian Sensor Config (RevC) | [link](https://drive.google.com/file/d/1Xkl4iw0zSDyENs1FRKbf_wncMTQaPB9u/view) |
 | IAS-to-CAS Config | [link](https://drive.google.com/file/d/1CCemaekFzpkITtQjmah96y79s75vHdBG/view) |
 
